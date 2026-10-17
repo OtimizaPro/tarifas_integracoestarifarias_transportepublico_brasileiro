@@ -1,16 +1,39 @@
 sistema,abrangencia,municipio_sede,uf,municipio_atendido,cod_ibge
 RBTrans (COM Card),municipal,Rio Branco,AC,Rio Branco,1200401
+Transporte coletivo urbano por vans (sindicato dos transportes); órgão gestor municipal não identificado,municipal,Cruzeiro do Sul,AC,Cruzeiro do Sul,1200203
 DMTT (Vamu),municipal,Maceió,AL,Maceió,2704302
+SMTT de Arapiraca (Superintendência Municipal de Transportes e Trânsito); tarifa deliberada pelo Conselho Municipal de Transportes e Trânsito (CMTT),municipal,Arapiraca,AL,Arapiraca,2700300
+"SMTT de Rio Largo (Superintendência Municipal de Transportes e Trânsito); linhas alimentadoras municipais do programa 'Bora de Busão', operadas pelo Consórcio Metropolitano de Transportes, com bilhetagem eletrônica e conexão ao SIMM de Maceió na Forene",municipal,Rio Largo,AL,Rio Largo,2707701
 VLT CBTU Maceió,municipal,Maceió,AL,Maceió,2704302
 IMMU (Sinetram),municipal,Manaus,AM,Manaus,1302603
+Sem sistema de ônibus urbano municipal confirmado,municipal,Itacoatiara,AM,Itacoatiara,1301902
+Sem sistema de ônibus urbano municipal confirmado,municipal,Parintins,AM,Parintins,1303403
 CTMac,municipal,Macapá,AP,Macapá,1600303
+Sem sistema de ônibus urbano municipal documentado; deslocamento pelas linhas intermunicipais Santana-Macapá,municipal,Santana,AP,Santana,1600600
+"AMTT (Autarquia Municipal de Trânsito e Transporte e Mobilidade Urbana de Juazeiro); operação emergencial da Atlântico Transportes desde 15/09/2025, com cartão recarregável",municipal,Juazeiro,BA,Juazeiro,2918407
 Metrô Bahia,municipal,Salvador,BA,Salvador,2927408
+"Prefeitura de Alagoinhas, Secretaria Municipal de Mobilidade Urbana e Ordem Pública; concessionárias do transporte coletivo urbano; Conselho Municipal de Transporte",municipal,Alagoinhas,BA,Alagoinhas,2900702
+Prefeitura de Barreiras; concessionária Viação Cidade de Barreiras Ltda (contratos 173/2014 e 174/2014); Barreiras Card,municipal,Barreiras,BA,Barreiras,2903201
 "Prefeitura de Feira de Santana, Secretaria Municipal de Mobilidade Urbana (Semob) e Conselho Municipal de Transportes; bilhetagem e cartão Via Feira",municipal,Feira de Santana,BA,Feira de Santana,2910800
+"Prefeitura de Ilhéus (SUTRAM); operação urbana da Viametro (a São Miguel deixou parte das rotas em 2025, com operação emergencial e nova licitação em andamento em mai/2025); subsídio municipal de R$ 2,2 milhões por mês",municipal,Ilhéus,BA,Ilhéus,2913606
+Prefeitura de Itabuna (Settran); ônibus urbano da Atlântico Transportes (contrato de 2023); bilhetagem eletrônica,municipal,Itabuna,BA,Itabuna,2914802
+"Prefeitura de Jequié, Superintendência Municipal de Trânsito e Transporte (SUMTRAN); operação provisória da Cooperativa de Transportes e Turismo (COOBMA) desde a suspensão do contrato da Expresso Rio de Contas, em 23/08/2022",municipal,Jequié,BA,Jequié,2918001
+Prefeitura de Porto Seguro; transporte coletivo urbano e distrital operado por empresas concessionárias,municipal,Porto Seguro,BA,Porto Seguro,2925303
+Prefeitura de Teixeira de Freitas; ônibus urbano da Viação Santa Clara (permissão municipal),municipal,Teixeira de Freitas,BA,Teixeira de Freitas,2931350
+"Prefeitura de Vitória da Conquista; sistema de transporte coletivo urbano com Cartão BEM (Bilhete Eletrônico Municipal), emitido pela Atuv (Associação das Empresas do Sistema de Transporte Coletivo Urbano)",municipal,Vitória da Conquista,BA,Vitória da Conquista,2933307
+"STT (Superintendência de Trânsito e Transporte) de Camaçari; sistema municipal em operação emergencial desde jun/2025 (45 veículos, 44 linhas), distinto das linhas metropolitanas da AGERBA",municipal,Camaçari,BA,Camaçari,2905701
+"Sem sistema municipal próprio: as linhas internas são do Sistema Metropolitano regulado pela AGERBA (Expresso Luxo Vitória, Avanço, Expresso Metropolitano e Atlântico), com integração ao metrô no Terminal Aeroporto",municipal,Lauro de Freitas,BA,Lauro de Freitas,2919207
 Semob (Integra),municipal,Salvador,BA,Salvador,2927408
 Etufor (Bilhete Único),municipal,Fortaleza,CE,Fortaleza,2304400
 "Prefeitura de Caucaia, Secretaria do Patrimônio e Transporte (SPT); Programa Passe Livre (antigo Bora de Graça); concessionária Vitória",municipal,Caucaia,CE,Caucaia,2303709
+"Prefeitura de Juazeiro do Norte (Demutran); ônibus urbano da Viametro Cariri (Auto Viação Metropolitana Ltda, contrato nº 2016.03.14.01), com subsídio municipal; integração com linhas metropolitanas pelo Bilhete Único Metropolitano do Cariri (Governo do Ceará)",municipal,Juazeiro do Norte,CE,Juazeiro do Norte,2307304
+"Prefeitura de Maracanaú (Demutran); sistema municipal com 9 linhas e programa Maracanaú Passe Livre (gratuidade focalizada), operação custeada pelo Município por quilômetro rodado; app Meu Ônibus Maracanaú",municipal,Maracanaú,CE,Maracanaú,2307650
+"Prefeitura de Sobral (Secretaria de Trânsito e Transporte, SETRANSP); ônibus urbano TranSol, com tickets vendidos em pontos autorizados",municipal,Sobral,CE,Sobral,2312908
+Sem linhas urbanas de Crato na tabela da Viametro Cariri; o município é atendido por linhas intermunicipais Juazeiro do Norte x Crato e integra o Bilhete Único Metropolitano do Cariri (Governo do Ceará),municipal,Crato,CE,Crato,2304202
 Metrô-DF,municipal,Brasília,DF,Brasília,5300108
 Semob-DF (BRB Mobilidade),municipal,Brasília,DF,Brasília,5300108
+Prefeitura de Cachoeiro de Itapemirim; Serviço de Transporte Coletivo municipal (concessionária não citada no decreto); Cartão Cidadão e cartão Escolar/Professor subsidiados (Lei Municipal nº 7.641/2018). Não é atendida pelo Transcol,municipal,Cachoeiro de Itapemirim,ES,Cachoeiro de Itapemirim,3201209
+"Prefeitura de Linhares (Conselho Tarifário); concessionárias Via Norte (sede) e Unimar (interior); cartão ValeFácil (modalidades Popular, Vale Transporte e Escolar). Não é atendida pelo Transcol",municipal,Linhares,ES,Linhares,3203205
 Transcol (Grande Vitória),metropolitano,Vitória,ES,Cariacica,3201308
 Transcol (Grande Vitória),metropolitano,Vitória,ES,Serra,3205002
 Transcol (Grande Vitória),metropolitano,Vitória,ES,Vila Velha,3205200
@@ -21,21 +44,61 @@ CMTC (Rede Metropolitana),metropolitano,Goiânia,GO,Goianira,5208806
 CMTC (Rede Metropolitana),metropolitano,Goiânia,GO,Goiânia,5208707
 CMTC (Rede Metropolitana),metropolitano,Goiânia,GO,Senador Canedo,5220454
 CMTC (Rede Metropolitana),metropolitano,Goiânia,GO,Trindade,5221403
+Prefeitura de Itumbiara (página oficial de Transporte Público); operadora não identificada,municipal,Itumbiara,GO,Itumbiara,5211503
+"Prefeitura de Rio Verde, sistema TransVerde (Bilhete Único)",municipal,Rio Verde,GO,Rio Verde,5218805
+"Prefeitura de Valparaíso de Goiás; sistema municipal emergencial 'Vai de Val' (lançado em maio de 2025, suspenso desde 31/07/2025); as linhas para o DF são semiurbanas interestaduais reguladas pela ANTT",municipal,Valparaíso de Goiás,GO,Valparaíso de Goiás,5221858
+Prefeitura de Águas Lindas de Goiás: Secretaria Municipal de Trânsito e Mobilidade (SEMOB) e Companhia de Desenvolvimento de Águas Lindas (CODEAL); operadora municipal UTB desde 17/09/2025; as linhas para o DF são semiurbanas interestaduais reguladas pela ANTT,municipal,Águas Lindas de Goiás,GO,Águas Lindas de Goiás,5200258
+Programa Tarifa Zero da Prefeitura de Luziânia (Secretaria Municipal de Trânsito e Transportes); acesso com carteirinha do programa,municipal,Luziânia,GO,Luziânia,5212501
+"Empresa Pública de Transporte Timonense (EPTT), que opera as 11 linhas urbanas e regulamenta a tarifa; Passe Livre emitido pela EPTT; app Conecta Timon",municipal,Timon,MA,Timon,2112209
+"MOB (Agência Estadual de Mobilidade Urbana e Serviços Públicos do Maranhão): sistema semiurbano da Grande Ilha, por convênio com municípios sem frota própria, e transporte alternativo intermunicipal (vans e micro-ônibus)",municipal,Paço do Lumiar,MA,Paço do Lumiar,2107506
+"Prefeitura de Caxias, Secretaria Municipal de Transportes (criada pela Lei Municipal nº 2.686/2023)",municipal,Caxias,MA,Caxias,2103000
 SMTT,municipal,São Luís,MA,São Luís,2111300
+Sem sistema municipal próprio localizado; atendido pelo transporte semiurbano da Grande Ilha (linhas intermunicipais geridas pela MOB/Governo do Maranhão). O Bilhete Único da SMTT de São Luís não inclui as linhas de Ribamar.,municipal,São José de Ribamar,MA,São José de Ribamar,2111201
+"Transporte coletivo de Imperatriz operado pela Rio Anil Transporte e Logística (RATRANS), regulado pela Agência Estadual de Mobilidade Urbana (MOB/MA), com complementação tarifária do Governo do Maranhão; Cartão Urbano Imperatriz",municipal,Imperatriz,MA,Imperatriz,2105302
+"Ibiritrans (Prefeitura de Ibirité), ônibus municipais Tarifa Zero; operadora Sidon (concessão 2020 a 2040); linhas metropolitanas à parte",municipal,Ibirité,MG,Ibirité,3129806
 Metrô BH,municipal,Belo Horizonte,MG,Belo Horizonte,3106200
 "Prefeitura de Betim, transporte coletivo municipal próprio (fora do sistema metropolitano); cartão Betim Card",municipal,Betim,MG,Betim,3106705
+Prefeitura de Divinópolis; Consórcio TransOeste; cartão Divpass,municipal,Divinópolis,MG,Divinópolis,3122306
+Prefeitura de Governador Valadares; concessionária Mobi Transporte Urbano; cartão eletrônico,municipal,Governador Valadares,MG,Governador Valadares,3127701
+Prefeitura de Ipatinga; concessionária Saritur,municipal,Ipatinga,MG,Ipatinga,3131307
 Prefeitura de Juiz de Fora (SMU); operação por consórcios associados à Astransp; cartões Moov/Astransp; Bilhete Único JF,municipal,Juiz de Fora,MG,Juiz de Fora,3136702
 "Prefeitura de Montes Claros (MCTrans), concessão ao Consórcio MOCBUS (Alprino e Solaris); cartões SIM Card",municipal,Montes Claros,MG,Montes Claros,3143302
+Prefeitura de Patos de Minas; concessionária Viação Pássaro Branco; tarifa subsidiada pelo município,municipal,Patos de Minas,MG,Patos de Minas,3148004
+"Prefeitura de Pouso Alegre (Secretaria Municipal de Trânsito e Transportes, SMTT); concessionária Expresso Planalto; Tarifa Social subsidiada pelo município",municipal,Pouso Alegre,MG,Pouso Alegre,3152501
+Prefeitura de Poços de Caldas (Secretaria Municipal de Segurança Pública e Mobilidade Urbana); concessionária Floramar (citada pela imprensa local); bilhete único,municipal,Poços de Caldas,MG,Poços de Caldas,3151800
+Prefeitura de Ribeirão das Neves (transporte coletivo intramunicipal; operadoras não identificadas nas fontes); linhas metropolitanas sob gestão do Estado de Minas Gerais,municipal,Ribeirão das Neves,MG,Ribeirão das Neves,3154606
+"Prefeitura de Santa Luzia, Secretaria Municipal de Segurança Pública, Trânsito e Transporte; ônibus municipais (intramunicipais) conhecidos como 'verdinhos', concessionária Rodap; créditos no cartão Ótimo",municipal,Santa Luzia,MG,Santa Luzia,3157807
+"Prefeitura de Sete Lagoas; concessionária Turi Transportes. Em 2026, segundo a imprensa local, a prefeitura decretou intervenção na Turi (mai), anunciou contrato emergencial de seis meses com a Transcol, de Caeté (jun), e devolveu a operação à Turi mantendo a intervenção financeira (jul)",municipal,Sete Lagoas,MG,Sete Lagoas,3167202
+Prefeitura de Teófilo Otoni; Viação Vale do Mucury Ltda.,municipal,Teófilo Otoni,MG,Teófilo Otoni,3168606
+"Prefeitura de Uberaba; Associação das Empresas de Transporte Coletivo Urbano de Uberaba (Transube), com as operadoras Viação São Geraldo e Empresa de Transportes Líder; cartão da bilhetagem eletrônica",municipal,Uberaba,MG,Uberaba,3170107
 SUMOB (BHBUS),municipal,Belo Horizonte,MG,Belo Horizonte,3106200
 "Settran (Secretaria Municipal de Trânsito e Transportes), Sistema Integrado de Transporte (SIT); bilhetagem e VT pela Ubertrans (cartão SIT)",municipal,Uberlândia,MG,Uberlândia,3170206
 TransCon (Autarquia Municipal de Trânsito e Transportes de Contagem); bilhetagem pelo Cartão Ótimo (Consórcio Ótimo); Sistema Integrado de Mobilidade (SIM) em implantação,municipal,Contagem,MG,Contagem,3118601
 Agereg (Consórcio Guaicurus),municipal,Campo Grande,MS,Campo Grande,5002704
+Agência Municipal de Transporte e Trânsito (Agetran); concessionária Viação Dourados (contrato de 2014 prorrogado em 2025 por cinco anos),municipal,Dourados,MS,Dourados,5003702
+Agência Municipal de Trânsito e Transporte (Agetrat); operadora Viação Cidade Corumbá (VCC),municipal,Corumbá,MS,Corumbá,5003207
+Prefeitura de Ponta Porã; operadora Medianeira; nova licitação do transporte coletivo em preparação (audiência pública em 18/03/2026),municipal,Ponta Porã,MS,Ponta Porã,5006606
+"Secretaria Municipal de Infraestrutura, Transporte e Trânsito (SEINTRA) e Deptran; concessionária Viação Cidade Corumbá (concessão de 15 anos, resultado em 05/11/2024, operação desde a segunda quinzena de janeiro de 2025; antes, Rabôni Transportes)",municipal,Três Lagoas,MS,Três Lagoas,5008305
+"Autarquia Municipal de Transporte Coletivo de Rondonópolis (AMTC), criada pela Lei Municipal nº 11.813/2021",municipal,Rondonópolis,MT,Rondonópolis,5107602
+Prefeitura de Lucas do Rio Verde; concessionária Translocave (concessão de 12 anos desde 01/01/2025); bilhete eletrônico,municipal,Lucas do Rio Verde,MT,Lucas do Rio Verde,5105259
+Prefeitura de Sinop; operadora Viação Rosa (novo sistema entregue em 17/04/2026),municipal,Sinop,MT,Sinop,5107909
+"Prefeitura de Sorriso, Secretaria Municipal de Infraestrutura, Transporte e Saneamento (Sintra); Tarifa Zero com operação direta pelo município",municipal,Sorriso,MT,Sorriso,5107925
+"Secretaria Municipal de Serviços Públicos e Mobilidade Urbana (SMSPMU); concessionária União Transporte e Turismo Ltda (Concorrência nº 03/2021), com anuência do Consórcio Metropolitano de Transportes",municipal,Várzea Grande,MT,Várzea Grande,5108402
 Semob Cuiabá,municipal,Cuiabá,MT,Cuiabá,5103403
+Prefeitura de Abaetetuba,municipal,Abaetetuba,PA,Abaetetuba,1500107
+"Prefeitura de Marabá (sistema sob intervenção municipal de cerca de 16 meses, com encerramento previsto por decreto em 02/10/2026); operadora atual Integração Transportes; cartão VT Card em transição; Prodata (São Paulo) citada como vencedora da licitação, sem objeto especificado",municipal,Marabá,PA,Marabá,1504208
+Secretaria Municipal de Mobilidade e Trânsito (SMT) de Santarém; ônibus urbano municipal (cartão não identificado),municipal,Santarém,PA,Santarém,1506807
+"Secretaria Municipal de Segurança Institucional e Defesa do Cidadão (SEMSI) e DMTT; operação por três cooperativas: Central das Cooperativas de Transporte de Parauapebas (CENTRAL), COOPALMAS e COPAVEL",municipal,Parauapebas,PA,Parauapebas,1505536
 Secretaria Municipal de Transporte e Trânsito (SEMUTRAN) nas linhas municipais; cartão Passe Fácil (Setransbel) para estudante e sênior; BRT Metropolitano estadual com cartão PraJá,municipal,Ananindeua,PA,Ananindeua,1500800
 Segbel (Passe Fácil),municipal,Belém,PA,Belém,1501402
+"Semutran (Prefeitura de Castanhal); concessionária Esplanada Transportes e Turismo (14 linhas numeradas, 26 veículos, operação plena prevista a partir de agosto de 2026); Cartão SIME",municipal,Castanhal,PA,Castanhal,1502400
+STTRANS (Superintendência de Trânsito e Transportes de Patos); ônibus urbano da Transbraz (licitação de 2016); cartão Siga,municipal,Patos,PB,Patos,2510808
+Sem sistema municipal próprio localizado; linhas urbanas metropolitanas da Região Metropolitana de João Pessoa autorizadas pelo DER-PB (Conselho Executivo),municipal,Santa Rita,PB,Santa Rita,2513703
 Semob-JP (NuBus),municipal,João Pessoa,PB,João Pessoa,2507507
 "Superintendência de Trânsito e Transportes Públicos (STTP) e Conselho Municipal de Transportes Públicos (COMUTP); bilhetagem NuBus, gerida pelo SITRANS (consórcios Santa Maria e Santa Verônica)",municipal,Campina Grande,PB,Campina Grande,2504009
 Trem CBTU João Pessoa,municipal,João Pessoa,PB,João Pessoa,2507507
+AMMPLA (Autarquia Municipal de Mobilidade de Petrolina); ônibus urbano da Atlântico Transportes em regime transitório após acordo judicial homologado em 30/05/2025; cartão SIM (Sistema Integrado de Mobilidade),municipal,Petrolina,PE,Petrolina,2611101
+"AMSTT (Autarquia Municipal de Segurança, Trânsito e Transportes) e CMTT; ônibus urbano da Coletivos São Cristóvão (permissionária desde 2012)",municipal,Garanhuns,PE,Garanhuns,2606002
 Autarquia de Mobilidade de Caruaru (AMC) e Conselho Municipal de Trânsito e Transporte (COMUT); Sistema de Transporte Público de Passageiros (STPP/Caruaru); cartão LEVA,municipal,Caruaru,PE,Caruaru,2604106
 Grande Recife Consórcio (VEM),metropolitano,Recife,PE,Cabo de Santo Agostinho,2602902
 Grande Recife Consórcio (VEM),metropolitano,Recife,PE,Camaragibe,2603454
@@ -45,54 +108,150 @@ Grande Recife Consórcio (VEM),metropolitano,Recife,PE,Paulista,2610707
 Grande Recife Consórcio (VEM),metropolitano,Recife,PE,Recife,2611606
 Metrô do Recife (CBTU),municipal,Recife,PE,Recife,2611606
 Metrô de Teresina,municipal,Teresina,PI,Teresina,2211001
+Não foi localizado sistema municipal de ônibus urbano,municipal,Floriano,PI,Floriano,2203909
+Prefeitura de Parnaíba; ônibus urbano municipal (operadora não identificada na fonte),municipal,Parnaíba,PI,Parnaíba,2207702
 Strans (Inthegra),municipal,Teresina,PI,Teresina,2211001
+"AMEP (Agência de Assuntos Metropolitanos do Paraná), Rede Integrada de Transporte da Região Metropolitana de Curitiba; operadoras Leblon, Nobel e São José; cartão Metrocard",municipal,Fazenda Rio Grande,PR,Fazenda Rio Grande,4107652
 CMTU (Companhia Municipal de Trânsito e Urbanização); concessionárias Londrisul e TCGL,municipal,Londrina,PR,Londrina,4113700
+Foztrans (autarquia municipal de trânsito e transporte); Cartão Único Foztrans,municipal,Foz do Iguaçu,PR,Foz do Iguaçu,4108304
+"Prefeitura de Araucária; sistema municipal TRIAR (cartão TRIAR), separado do metropolitano da RMC",municipal,Araucária,PR,Araucária,4101804
+Prefeitura de Guarapuava; operação Pérola do Oeste; cartão GuaraCard,municipal,Guarapuava,PR,Guarapuava,4109401
 Prefeitura de Maringá; concessionária TCCC; cartão Passe Fácil,municipal,Maringá,PR,Maringá,4115200
+Prefeitura de Paranaguá; programa Tarifa Zero; concessionária Viação Rocio,municipal,Paranaguá,PR,Paranaguá,4118204
+"Prefeitura de Ponta Grossa (SMI, Departamento de Transporte); operação Viação Campos Gerais; bilhetagem e cartões Conecta PG desde 01/04/2026",municipal,Ponta Grossa,PR,Ponta Grossa,4119905
+Prefeitura de São José dos Pinhais (SEMUTT); operação Viação São José; cartão VEM nas linhas municipais e Metrocard nas metropolitanas (AMEP),municipal,São José dos Pinhais,PR,São José dos Pinhais,4125506
+"Prefeitura de Toledo (Secretaria de Segurança e Mobilidade Urbana); concessionária Viação Sorriso (contrato de abr/2024, 10 anos); aplicativo Busão na Mão",municipal,Toledo,PR,Toledo,4127700
+Prefeitura de Umuarama (gestão em transição para modelo indireto); operação Viação Umuarama em contrato emergencial; frota municipal em aquisição,municipal,Umuarama,PR,Umuarama,4128104
+"Sistema metropolitano da RMC, gerido pela AMEP; operadoras Santo Ângelo e Expresso Azul nas linhas de Colombo; cartão Metrocard",municipal,Colombo,PR,Colombo,4105805
+Transitar (autarquia municipal de trânsito e transporte); cartão ValeSim,municipal,Cascavel,PR,Cascavel,4104808
 URBS (RIT),municipal,Curitiba,PR,Curitiba,4106902
 Bilhete Único Intermunicipal,municipal,Rio de Janeiro,RJ,Rio de Janeiro,3304557
+"CPTrans (Companhia Petropolitana de Trânsito e Transportes); operadoras Cidade Real, Cidade das Hortênsias e Turp Transporte (Setranspetro); cartão Riocard Mais",municipal,Petrópolis,RJ,Petrópolis,3303906
+"EPT (Empresa Pública de Transportes de Maricá, autarquia municipal): ônibus 'Vermelhinhos', vans e bicicletas 'Vermelhinhas', todos Tarifa Zero; linhas intermunicipais reguladas pelo Detro-RJ",municipal,Maricá,RJ,Maricá,3302700
 IMTT (Instituto Municipal de Trânsito e Transporte): transporte coletivo convencional por ônibus e Transporte Coletivo Alimentador por vans e micro-ônibus,municipal,Campos dos Goytacazes,RJ,Campos dos Goytacazes,3301009
 MetrôRio,municipal,Rio de Janeiro,RJ,Rio de Janeiro,3304557
+Prefeitura de Angra dos Reis; concessionária Viação Senhor do Bonfim,municipal,Angra dos Reis,RJ,Angra dos Reis,3300100
+"Prefeitura de Barra Mansa, Secretaria Municipal de Ordem Pública; consórcio de empresas do transporte municipal; cartão BM Card (morador)",municipal,Barra Mansa,RJ,Barra Mansa,3300407
+"Prefeitura de Cabo Frio; linhas municipais operadas pelo Grupo Salineira (Auto Viação Salineira), representado pelo Setransol; Cartão Dignidade (tarifa social, Lei Municipal nº 2.483/2013)",municipal,Cabo Frio,RJ,Cabo Frio,3300704
 "Prefeitura de Duque de Caxias (Secretaria de Transportes e Serviços Públicos), linhas municipais de concessionárias (Auto Ônibus Vera Cruz, Viação Reginas, Transporte e Turismo Machado, Transturismo Rei e outras) e programa municipal Tarifa Zero; cartão Riocard Mais",municipal,Duque de Caxias,RJ,Duque de Caxias,3301702
+"Prefeitura de Itaboraí: Tarifa Zero em todas as linhas municipais (ônibus 'Laranjinha'), operadas pela Maravilha Auto Ônibus; linhas intermunicipais sob gestão estadual",municipal,Itaboraí,RJ,Itaboraí,3301900
+"Prefeitura de Macaé (Secretaria de Mobilidade Urbana); Cartão Macaé (benefício tarifário para moradores, Lei Municipal nº 4.483/2018)",municipal,Macaé,RJ,Macaé,3302403
+Prefeitura de Magé (Secretaria Municipal de Transportes): ônibus Tarifa Zero 'Amarelinho' (linhas TZ 01 a TZ 08); linhas municipais pagas operadas pela empresa Divina; linhas intermunicipais sob gestão estadual,municipal,Magé,RJ,Magé,3302502
+Prefeitura de Mesquita; as linhas que atendem a cidade aparecem como intermunicipais na tabela do Detro-RJ,municipal,Mesquita,RJ,Mesquita,3302858
+"Prefeitura de Nilópolis, Secretaria de Transportes; linhas interbairros operadas pela Expresso São Francisco (7) e pela Nilopolitana (3); linhas intermunicipais reguladas pelo Estado",municipal,Nilópolis,RJ,Nilópolis,3303203
 "Prefeitura de Niterói (Secretaria de Mobilidade e Infraestrutura; Suten), Bilhete Único de Niterói no cartão Riocard Mais",municipal,Niterói,RJ,Niterói,3303302
+"Prefeitura de Nova Friburgo, Secretaria de Mobilidade e Urbanismo; concessionária Friburgo Auto Ônibus (Faol), ônibus e vans; Cartão Partiu (único meio eletrônico nas linhas municipais desde 01/01/2026)",municipal,Nova Friburgo,RJ,Nova Friburgo,3303401
 "Prefeitura de Nova Iguaçu (SEMTMU), contratos de concessão 072-A/CPL/2015 e 072-B/CPL/2015; cartão Riocard Mais",municipal,Nova Iguaçu,RJ,Nova Iguaçu,3303500
+"Prefeitura de Resende (Superintendência de Transporte e Trânsito); concessionária Viação Princesinha do Vale (empresa Itapetinga), em operação desde 24/05/2023; cartão magnético da concessionária",municipal,Resende,RJ,Resende,3304201
+Prefeitura de Rio das Ostras; Subsistema de Transporte Urbano operado por vans de cooperativas,municipal,Rio das Ostras,RJ,Rio das Ostras,3304524
 "Prefeitura de São Gonçalo (Secretaria Municipal de Meio Ambiente e Transportes), Contrato de Concessão nº 01/SEMTRAN/2012; cartão Riocard Mais",municipal,São Gonçalo,RJ,São Gonçalo,3304904
+"Prefeitura de São João de Meriti, Secretaria Municipal de Segurança, Transportes e Mobilidade Urbana (SMSTMU); linhas intermunicipais reguladas pelo Detro-RJ",municipal,São João de Meriti,RJ,São João de Meriti,3305109
+Prefeitura de Teresópolis (programa Vai de Ônibus); operadoras Viação Dedo de Deus e Viação Primeiro de Março; integração Integra Terê,municipal,Teresópolis,RJ,Teresópolis,3305802
+"Prefeitura de Volta Redonda (Secretaria Municipal de Transporte e Mobilidade Urbana, STMU); operadoras do Sindpass (ex.: Viação Elite); cartão VR Card para moradores",municipal,Volta Redonda,RJ,Volta Redonda,3306305
 SMTR (Jaé),municipal,Rio de Janeiro,RJ,Rio de Janeiro,3304557
 "Sem sistema municipal pago localizado: o transporte local roda em linhas intermunicipais do Detro-RJ (Semove), e há linhas municipais gratuitas do Tarifa Zero; cartão Riocard Mais",municipal,Belford Roxo,RJ,Belford Roxo,3300456
 SuperVia,municipal,Rio de Janeiro,RJ,Rio de Janeiro,3304557
+Prefeitura de Caicó; transporte coletivo urbano citado em notícia local sem data,municipal,Caicó,RN,Caicó,2402006
+Prefeitura de Mossoró (Gerência Executiva de Operações de Transporte Público); concessionária Cidade do Sol; cartão Passe Fácil (recarga na unidade Mossoró Card),municipal,Mossoró,RN,Mossoró,2408003
+"Prefeitura de Parnamirim (Secretaria Municipal de Segurança e Mobilidade Urbana); sistema municipal Interbairros, com vans e micro-ônibus de permissionários",municipal,Parnamirim,RN,Parnamirim,2403251
 STTU (NuBus),municipal,Natal,RN,Natal,2408102
 VLT CBTU Natal,municipal,Natal,RN,Natal,2408102
+Autarquia Municipal de Trânsito e Transportes (AMT) de Ji-Paraná; operadora do ônibus urbano não confirmada,municipal,Ji-Paraná,RO,Ji-Paraná,1100122
+Secretaria Municipal de Trânsito (Semtran); operadora Urban Express Vilhena; Tarifa Zero com cadastro e cartão de embarque,municipal,Vilhena,RO,Vilhena,1100304
 Semtran (COM Card),municipal,Porto Velho,RO,Porto Velho,1100205
 Prefeitura,municipal,Boa Vista,RR,Boa Vista,1400100
 Prefeitura (Boa Vista Card),municipal,Boa Vista,RR,Boa Vista,1400100
+Sem sistema de ônibus urbano municipal documentado,municipal,Rorainópolis,RR,Rorainópolis,1400472
+"Linhas metropolitanas da RMPA sob a Metroplan, operadas pela SOUL (Alvorada/Porto Alegre e outras); linhas municipais da Soul Municipal (VAL); cartão TEU!",municipal,Alvorada,RS,Alvorada,4300604
 Prefeitura,municipal,Porto Alegre,RS,Porto Alegre,4314902
 Prefeitura (TRI),municipal,Porto Alegre,RS,Porto Alegre,4314902
+Prefeitura de Bento Gonçalves; concessionárias do transporte coletivo urbano (não nomeadas nas fontes),municipal,Bento Gonçalves,RS,Bento Gonçalves,4302105
+"Prefeitura de Canoas; transporte coletivo municipal com tarifa zero universal (Passe Livre), subsídio pago à concessionária",municipal,Canoas,RS,Canoas,4304606
 Prefeitura de Caxias do Sul; concessionária Visate (Viação Santa Tereza de Caxias do Sul Ltda.); cartão Caxias Urbano,municipal,Caxias do Sul,RS,Caxias do Sul,4305108
+Prefeitura de Gravataí; operação SOGIL (Sociedade de Ônibus Gigante Ltda.); cartão TEU!,municipal,Gravataí,RS,Gravataí,4309209
+Prefeitura de Novo Hamburgo; concessionária Viação Santa Clara (Visac) desde 27/04/2024; bilhetagem MixMob,municipal,Novo Hamburgo,RS,Novo Hamburgo,4313409
+"Prefeitura de Passo Fundo; operação pela Codepas, em transição para a Coleurb Coletivo Urbano Ltda. (contrato de concessão de 20 anos assinado em 15/10/2026, transição de 180 dias)",municipal,Passo Fundo,RS,Passo Fundo,4314100
+"Prefeitura de Pelotas (STT, Secretaria de Transporte e Trânsito); consórcio de empresas (licitação de 2016)",municipal,Pelotas,RS,Pelotas,4314407
+Prefeitura de Rio Grande; operação Transpessoal (desde mai/2022); Cartão Rio Grande; subsídio financiado pelo estacionamento rotativo,municipal,Rio Grande,RS,Rio Grande,4315602
+Prefeitura de Santa Maria; bilhetagem eletrônica com Cartão Cidadão e Cartão Vale-Transporte,municipal,Santa Maria,RS,Santa Maria,4316907
+"Prefeitura de São Leopoldo; Consórcio Operacional São Leopoldo (COLÉO: Feitoria, Sete de Setembro, Sinoscap e Viação Leopoldense)",municipal,São Leopoldo,RS,São Leopoldo,4318705
+Prefeitura de Viamão (Secretaria de Mobilidade Urbana); operação Grupo Viamão (Empresa Viamão); linhas metropolitanas sob a Metroplan,municipal,Viamão,RS,Viamão,4323002
 TRI,municipal,Porto Alegre,RS,Porto Alegre,4314902
 Trensurb,municipal,Porto Alegre,RS,Porto Alegre,4314902
+BC Trânsito (autarquia municipal); programa Tarifa Zero (BC Bus) com ônibus locados com motorista; contratação emergencial com a Transpiedade desde 2023; Pregão Eletrônico nº 001/2026-BCTRAN (36 meses) em andamento,municipal,Balneário Camboriú,SC,Balneário Camboriú,4202008
 Consórcio Fênix,municipal,Florianópolis,SC,Florianópolis,4205407
 "Prefeitura de Blumenau (Secretaria Municipal de Trânsito e Transportes, SMTT); concessionária BluMob; regulação AGIR; cartão Passe Fácil",municipal,Blumenau,SC,Blumenau,4202404
+Prefeitura de Brusque; sistema Nosso Brusque,municipal,Brusque,SC,Brusque,4202909
+"Prefeitura de Chapecó (Secretaria de Segurança Pública); concessionária Auto Viação Chapecó; cartões Passe Cidadão, Vale Transporte e Estudante",municipal,Chapecó,SC,Chapecó,4204202
+Prefeitura de Criciúma (DTT); Consórcio CriBus; cartões CriciúmaCard; regulação AGIR,municipal,Criciúma,SC,Criciúma,4204608
+Prefeitura de Itajaí; transporte coletivo municipal subsidiado (operadora não confirmada nas fontes abertas),municipal,Itajaí,SC,Itajaí,4208203
+Prefeitura de Jaraguá do Sul; concessão do transporte coletivo urbano (Contrato nº 229/2021); regulação AGIR; Sistema de Bilhetagem Eletrônica,municipal,Jaraguá do Sul,SC,Jaraguá do Sul,4208906
 Prefeitura de Joinville; Cartão Ideal,municipal,Joinville,SC,Joinville,4209102
+Prefeitura de Lages; concessionária do transporte coletivo urbano (identificada como Transul no nome do arquivo do decreto); Sistema de Bilhetagem Eletrônica,municipal,Lages,SC,Lages,4209300
+Prefeitura de Palhoça; concessionária Jotur (Auto Ônibus e Turismo Palhocense Ltda.) nas linhas municipais; regulação ARESC,municipal,Palhoça,SC,Palhoça,4211900
+Prefeitura de São José; concessionárias Empresa Biguaçu e Jotur; tarifa unificada no Patamar II,municipal,São José,SC,São José,4216602
+"Prefeitura de Tubarão; operação emergencial pela New Hope Terceirização e Transportes (Contrato nº 68/2026, de 12/06/2026 a 12/06/2027); AGR Tubarão (agência reguladora que inclui mobilidade)",municipal,Tubarão,SC,Tubarão,4218707
+"DTTU (Departamento de Trânsito e Transportes Urbanos), Prefeitura de Lagarto",municipal,Lagarto,SE,Lagarto,2803500
 SMTT (Grande Aracaju),municipal,Aracaju,SE,Aracaju,2800308
+"Sistema metropolitano da Grande Aracaju: Consórcio de Transporte Metropolitano (CTM), gestão da SMTT de Aracaju; Setransp; cartão AracajuCard",municipal,Nossa Senhora do Socorro,SE,Nossa Senhora do Socorro,2804805
 Bilhete Único,municipal,São Paulo,SP,São Paulo,3550308
+Diretoria de Gestão de Transporte Municipal de Santa Bárbara d'Oeste; concessionária Nova Via Transporte Urbano (desde 2012),municipal,Santa Bárbara d'Oeste,SP,Santa Bárbara d'Oeste,3545803
 EMDEC (Empresa Municipal de Desenvolvimento de Campinas); bilhetagem pela Transurc; Bilhete Único,municipal,Campinas,SP,Campinas,3509502
+Emdurb (Empresa Municipal de Mobilidade Urbana de Marília); operadoras Grande Marília e Viação Sorriso,municipal,Marília,SP,Marília,3529005
 Metrô e CPTM,municipal,São Paulo,SP,São Paulo,3550308
+"Prefeitura de Atibaia, Secretaria de Mobilidade e Planejamento Urbano; concessionária SOU Atibaia; cartão SOU Atibaia (Bilhete Único)",municipal,Atibaia,SP,Atibaia,3504107
 Prefeitura de Bauru / Emdurb; concessionárias do Sistema de Transporte Coletivo Urbano,municipal,Bauru,SP,Bauru,3506003
+"Prefeitura de Botucatu, Secretaria Municipal de Transporte e Trânsito (Semutran); duas empresas operadoras, entre elas a Reta Rápido Transportes",municipal,Botucatu,SP,Botucatu,3507506
+"Prefeitura de Bragança Paulista, Secretaria Municipal de Mobilidade Urbana; operadora JTP; Cartão Cidadão Bragantino (morador)",municipal,Bragança Paulista,SP,Bragança Paulista,3507605
 Prefeitura de Carapicuíba (reajuste coordenado no Cioeste),municipal,Carapicuíba,SP,Carapicuíba,3510609
 Prefeitura de Diadema; concessão Sou + Diadema (Suzantur); Cartão SOU + Diadema,municipal,Diadema,SP,Diadema,3513801
+"Prefeitura de Ferraz de Vasconcelos, Secretaria de Transporte e Mobilidade Urbana; concessionária Alto Tietê Transportes Ltda (Contrato de Concessão 190/2021); 13 linhas municipais",municipal,Ferraz de Vasconcelos,SP,Ferraz de Vasconcelos,3515707
+"Prefeitura de Franca; concessionária MoV Franca (Itu Transportes e Turismo, Grupo Belarmino), contrato de 20 anos; cartões MoV",municipal,Franca,SP,Franca,3516200
+Prefeitura de Francisco Morato; operadora Auto Ônibus Moratense; reajuste negociado no CIMBAJU,municipal,Francisco Morato,SP,Francisco Morato,3516309
+Prefeitura de Franco da Rocha (Secretaria de Segurança Cidadã e Mobilidade Urbana); concessionária Cidade das Caieiras; reajuste negociado no CIMBAJU,municipal,Franco da Rocha,SP,Franco da Rocha,3516408
+Prefeitura de Guarujá; concessionária City Transporte (alvo de intervenção municipal em 2025); Cartão Cidadão,municipal,Guarujá,SP,Guarujá,3518701
 "Prefeitura de Guarulhos (SEMOB); bilhetagem pela Guarupass (associação das concessionárias); Bilhete Único Cidadão, Escolar e Vale-Transporte",municipal,Guarulhos,SP,Guarulhos,3518800
+"Prefeitura de Itapecerica da Serra, Secretaria de Segurança, Trânsito e Transporte; operadora Bela Sintra (Grupo Miracatiba); programa Transporte Para Todos",municipal,Itapecerica da Serra,SP,Itapecerica da Serra,3522208
+"Prefeitura de Itapetininga, operação municipal direta com ônibus locados (Movili Transportes Ltda.); Programa Ônibus de Graça",municipal,Itapetininga,SP,Itapetininga,3522307
+"Prefeitura de Itapevi; tarifa municipal unificada no CIOESTE (Osasco, Barueri, Carapicuíba, Jandira e Itapevi)",municipal,Itapevi,SP,Itapevi,3522505
 Prefeitura de Itaquaquecetuba (COMUTRAN); concessionária do transporte coletivo urbano; bilhete eletrônico Viaja Fácil,municipal,Itaquaquecetuba,SP,Itaquaquecetuba,3523107
 Prefeitura de Jundiaí (Secretaria Municipal de Mobilidade e Transporte); SITU; concessionária Auto Ônibus Três Irmãos Ltda. (contrato emergencial); Cartão Bilhete Único,municipal,Jundiaí,SP,Jundiaí,3525904
 Prefeitura de Mauá (Secretaria de Mobilidade Urbana); operação Suzantur; Cartão SIM (BusFácil),municipal,Mauá,SP,Mauá,3529401
+"Prefeitura de Mogi Guaçu, Secretaria de Obras e Mobilidade; concessionária do transporte coletivo (houve troca de operadora, data não confirmada); bilhete eletrônico",municipal,Mogi Guaçu,SP,Mogi Guaçu,3530706
 Prefeitura de Osasco (reajuste anunciado pelo CIOESTE); cartão BEM (Bilhete Eletrônico Municipal),municipal,Osasco,SP,Osasco,3534401
+"Prefeitura de Pindamonhangaba, Departamento de Trânsito e Mobilidade; concessionária Viva Transporte Coletivo Ltda. (marca Viva Pinda, Contrato 289/2022); bilhete eletrônico",municipal,Pindamonhangaba,SP,Pindamonhangaba,3538006
 "Prefeitura de Piracicaba (Secretaria de Segurança Pública, Trânsito e Transportes); operadora Pira Mobilidade (Rápido Sumaré Ltda.)",municipal,Piracicaba,SP,Piracicaba,3538709
+"Prefeitura de Rio Claro, Secretaria Municipal de Mobilidade Urbana e Sistema Viário; concessionária SOU Rio Claro (desde dezembro de 2023)",municipal,Rio Claro,SP,Rio Claro,3543907
+"Prefeitura de Santana de Parnaíba, Secretaria de Mobilidade Urbana, Trânsito e Transportes (Semuttrans); 17 linhas municipais; Bilhete Eletrônico Municipal",municipal,Santana de Parnaíba,SP,Santana de Parnaíba,3547304
 Prefeitura de Santos / CET-Santos; permissionária Viação Piracicabana,municipal,Santos,SP,Santos,3548500
+"Prefeitura de Sumaré, Secretaria Municipal de Mobilidade Urbana e Rural; concessionária Auto Viação Ouro Verde (MoV Sumaré)",municipal,Sumaré,SP,Sumaré,3552403
+Prefeitura de Suzano; concessionária Radial Transporte Coletivo (ônibus e vans do transporte complementar),municipal,Suzano,SP,Suzano,3552502
 Prefeitura de São Bernardo do Campo; bilhetagem e cartões pelo Cartão Legal,municipal,São Bernardo do Campo,SP,São Bernardo do Campo,3548708
+Prefeitura de São Caetano do Sul; operadora Vipe (Viação Padre Eustáquio); programa Nosso Tarifa Zero (gratuidade para moradores cadastrados),municipal,São Caetano do Sul,SP,São Caetano do Sul,3548807
 "Prefeitura de São José do Rio Preto (SMTT); Consórcio RioPretrans; Cartão Cidadão, Vale Transporte, Estudante e Idoso",municipal,São José do Rio Preto,SP,São José do Rio Preto,3549805
 "Prefeitura de São José dos Campos (Secretaria de Mobilidade Urbana); Bilhete Único (cartões eletrônicos Comum, Vale-Transporte e Estudante); operadoras Expresso Maringá do Vale, Joseense e Saens Pena",municipal,São José dos Campos,SP,São José dos Campos,3549904
 "Prefeitura de São Vicente; concessionária Sancetur (marca SOU São Vicente, ônibus amarelinhos); integração com o VLT pela BR Mobilidade (BR Card)",municipal,São Vicente,SP,São Vicente,3551009
+Prefeitura de Taboão da Serra; ônibus municipais (circulares) operados por Fervima e Viação Pirajuçara; Cartão TOP,municipal,Taboão da Serra,SP,Taboão da Serra,3552809
+Prefeitura de Taubaté; Sistema TAU (Transporte Acessível Urbano) operado pela ABC Transportes; Cartão Rápido,municipal,Taubaté,SP,Taubaté,3554102
 RP Mobi (Empresa de Mobilidade Urbana de Ribeirão Preto); Consórcio PróUrbano; Cartão NOSSO (Nosso + Mobilidade),municipal,Ribeirão Preto,SP,Ribeirão Preto,3543402
 SA-Trans (Santo André Transportes); Bilhete Único Andreense; cartões pedidos à AESA,municipal,Santo André,SP,Santo André,3547809
 SPTrans (Bilhete Único),municipal,São Paulo,SP,São Paulo,3550308
+"Secretaria Municipal de Assuntos de Segurança e Mobilidade Urbana; Consórcio Araraquara de Transportes (CAT), operado pela Paraty Mobilidade; cartão NovoCard",municipal,Araraquara,SP,Araraquara,3503208
+"Secretaria Municipal de Mobilidade Urbana de Araçatuba; concessionária TUA (Transportes Urbanos Araçatuba), contrato até 2028; cartão TUA",municipal,Araçatuba,SP,Araçatuba,3502804
+Secretaria Municipal de Mobilidade Urbana de Indaiatuba; concessionária SOU Indaiatuba,municipal,Indaiatuba,SP,Indaiatuba,3520509
 Secretaria Municipal de Mobilidade e Trânsito; concessionárias Mogi Mob Transportes de Passageiros Ltda. e Princesa do Norte S/A,municipal,Mogi das Cruzes,SP,Mogi das Cruzes,3530607
+"Secretaria Municipal de Planejamento, Transportes e Mobilidade de Cotia; concessionária Viação Raposo Tavares",municipal,Cotia,SP,Cotia,3513009
+Secretaria Municipal de Segurança Pública e Mobilidade Urbana de São Carlos; concessionária Rigras/SOU (contrato de 2022),municipal,São Carlos,SP,São Carlos,3548906
+"Secretaria Municipal de Segurança Pública, Trânsito e Mobilidade Urbana de Itu; concessionária MoV Itu (West Side, Grupo Belarmino); cartões MoV",municipal,Itu,SP,Itu,3523909
+Secretaria Municipal dos Transportes e Mobilidade Urbana de Limeira; concessionária Sancetur; cartão eletrônico de vale-transporte,municipal,Limeira,SP,Limeira,3526902
+Secretaria de Mobilidade Urbana (Semob) de Embu das Artes; concessão do transporte municipal (Contrato nº 28/2019); bilhetagem Embu Card (Autopass) desde 02/03/2026,municipal,Embu das Artes,SP,Embu das Artes,3515004
+Secretaria de Mobilidade Urbana (Semob) de Presidente Prudente; operadora SOU Prudente (SOU Empresas); cartão SOU,municipal,Presidente Prudente,SP,Presidente Prudente,3541406
+Secretaria de Mobilidade Urbana de Barueri; reajuste definido no consórcio Cioeste; cartão Benfácil Barueri,municipal,Barueri,SP,Barueri,3505708
+Secretaria de Mobilidade Urbana de Hortolândia; concessionária Viação Lira; Bilhete Único (Cartão Cidadão e Vale-Transporte),municipal,Hortolândia,SP,Hortolândia,3519071
+"Secretaria de Mobilidade Urbana de Jacareí; concessionária JTU (Jacareí Transporte Urbano); cartões Superpasse (Múltiplo/comum, Escolar e Vale-Transporte)",municipal,Jacareí,SP,Jacareí,3524402
+Secretaria de Transportes (Setransp) da Prefeitura de Praia Grande; concessionária Viação Piracicabana (Grupo Comporte); cartão transporte com recarga pelo aplicativo Quanto Tempo Falta,municipal,Praia Grande,SP,Praia Grande,3541000
 "URBES Trânsito e Transportes; Cartão Cidadão (Passe Social), Passe Estudante e Vale-Transporte; operação City Transportes Urbano Global",municipal,Sorocaba,SP,Sorocaba,3552205
+Unidade de Transportes e Sistema Viário (Utransv) da Prefeitura de Americana; concessionária Sancetur,municipal,Americana,SP,Americana,3501608
+Agência Municipal de Trânsito e Transportes (AMTT); serviço de ônibus urbano suspenso desde 10/03/2025,municipal,Gurupi,TO,Gurupi,1709500
+"Araguaína Transportes S.A. (concessionária, antes Viação Passaredo); Cartão BEM (Bilhete Eletrônico Municipal)",municipal,Araguaína,TO,Araguaína,1702109
 Prefeitura (Sou),municipal,Palmas,TO,Palmas,1721000

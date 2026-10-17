@@ -6,9 +6,9 @@ type: dataset
 authors:
   - name: "Otimiza.pro"
     website: "https://otimizapro.com"
-version: "2026.10.17"
+version: "2026.10.17.2"
 date-released: "2026-10-17"
 license: CC-BY-4.0
 repository-code: "https://github.com/OtimizaPro/tarifas_integracoestarifarias_transportepublico_brasileiro"
-url: "https://github.com/OtimizaPro/tarifas_integracoestarifarias_transportepublico_brasileiro"
+url: "https://otimizapro.com/tarifas-e-integracoes-transporte-publico-brasil"
 keywords: [transporte público, tarifa, vale-transporte, integração tarifária, Brasil, public transit fares, Otimiza.pro]

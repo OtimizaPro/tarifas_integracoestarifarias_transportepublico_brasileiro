@@ -1,7 +1,7 @@
 {
   "name": "tarifas-transporte-publico-brasil",
   "title": "Base Nacional de Tarifas do Transporte Público",
-  "version": "2026.10.17",
+  "version": "2026.10.17.2",
   "homepage": "https://github.com/OtimizaPro/tarifas_integracoestarifarias_transportepublico_brasileiro",
   "licenses": [
     {
@@ -367,6 +367,77 @@
           },
           {
             "name": "cod_ibge",
+            "type": "string"
+          }
+        ]
+      }
+    },
+    {
+      "name": "indicadores",
+      "path": "dados/indicadores.csv",
+      "format": "csv",
+      "encoding": "utf-8",
+      "description": "Serviço e oferta por município: linhas e paradas (GTFS oficial), passageiros, frota, vias, divisão modal e custos (PEMOB)",
+      "schema": {
+        "fields": [
+          {
+            "name": "uf",
+            "type": "string"
+          },
+          {
+            "name": "municipio",
+            "type": "string"
+          },
+          {
+            "name": "cod_ibge",
+            "type": "string"
+          },
+          {
+            "name": "indicador",
+            "type": "string"
+          },
+          {
+            "name": "nome",
+            "type": "string"
+          },
+          {
+            "name": "tema",
+            "type": "string"
+          },
+          {
+            "name": "unidade",
+            "type": "string"
+          },
+          {
+            "name": "valor",
+            "type": "number"
+          },
+          {
+            "name": "ano_referencia",
+            "type": "integer"
+          },
+          {
+            "name": "data_referencia",
+            "type": "string"
+          },
+          {
+            "name": "fonte",
+            "type": "string"
+          },
+          {
+            "name": "fonte_url",
+            "type": "string"
+          },
+          {
+            "name": "confianca",
+            "type": "string"
+          },
+          {
+            "name": "status",
+            "type": "string"
+          },
+          {
+            "name": "observacao",
             "type": "string"
           }
         ]

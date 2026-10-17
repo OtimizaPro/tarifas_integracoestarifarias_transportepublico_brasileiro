@@ -1,11 +1,11 @@
 {
  "nome": "Base Nacional de Tarifas do Transporte Público: historico",
- "versao": "2026.10.17",
+ "versao": "2026.10.17.2",
  "licenca": {
   "nome": "CC BY 4.0",
   "url": "https://creativecommons.org/licenses/by/4.0/deed.pt-br"
  },
- "citar_como": "Fonte: Otimiza.pro, Base Nacional de Tarifas do Transporte Público, versão 2026.10.17. https://github.com/OtimizaPro/tarifas_integracoestarifarias_transportepublico_brasileiro",
+ "citar_como": "Fonte: Otimiza.pro, Base Nacional de Tarifas do Transporte Público, versão 2026.10.17.2. https://github.com/OtimizaPro/tarifas_integracoestarifarias_transportepublico_brasileiro",
  "linhas": [
   {
    "uf": "AC",
