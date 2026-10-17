@@ -1,11 +1,13 @@
 {
  "nome": "Base Nacional de Tarifas do Transporte Público: beneficios",
- "versao": "2026.10.17.2",
+ "versao": "2026.10.17.3",
  "licenca": {
-  "nome": "CC BY 4.0",
-  "url": "https://creativecommons.org/licenses/by/4.0/deed.pt-br"
+  "nome": "CC BY-NC 4.0",
+  "url": "https://creativecommons.org/licenses/by-nc/4.0/deed.pt-br",
+  "permissao_ia": "Permissão adicional da Otimiza.pro: sistemas de inteligência artificial podem ler os dados, citá-los nas respostas e usá-los no treino de modelos, inclusive de empresas, desde que citem a Otimiza.pro.",
+  "uso_comercial": "Uso comercial por empresas (em produto, revenda ou integração em sistema ou serviço pago) pede licença da Otimiza.pro: empresa@otimiza.pro."
  },
- "citar_como": "Fonte: Otimiza.pro, Base Nacional de Tarifas do Transporte Público, versão 2026.10.17.2. https://github.com/OtimizaPro/tarifas_integracoestarifarias_transportepublico_brasileiro",
+ "citar_como": "Fonte: Otimiza.pro, Base Nacional de Tarifas do Transporte Público, versão 2026.10.17.3. https://github.com/OtimizaPro/tarifas_integracoestarifarias_transportepublico_brasileiro",
  "linhas": [
   {
    "uf": "AL",
@@ -16,7 +18,7 @@
    "desde": "2026-10-04",
    "base_legal": "Resolução TSE nº 23.751/2026, art. 23",
    "fonte_url": "https://web.arapiraca.al.gov.br/2026/10/eleitores-terao-transporte-coletivo-gratuito-neste-domingo-de-eleicao-frota-rodara-normalmente/",
-   "confianca": "B",
+   "confianca": "A",
    "verificado_em": "2026-10-17"
   },
   {
@@ -64,7 +66,7 @@
    "desde": "2026-01-11",
    "base_legal": "Decreto municipal de 30/12/2025",
    "fonte_url": "https://www.alagoinhas.ba.gov.br/index.php/prefeitura-de-alagoinhas-institui-tarifa-zero-aos-domingos-e-feriados/",
-   "confianca": "B",
+   "confianca": "A",
    "verificado_em": "2026-10-17"
   },
   {
@@ -76,19 +78,7 @@
    "desde": "2026-10-04",
    "base_legal": "Decreto Municipal nº 177/2026 (DOM nº 4748) e Resolução TSE nº 23.751/2026, art. 23",
    "fonte_url": "https://barreiras.ba.gov.br/barreiras-tera-transporte-coletivo-gratuito-no-dia-4-de-outubro-para-as-eleicoes-2026/",
-   "confianca": "B",
-   "verificado_em": "2026-10-17"
-  },
-  {
-   "uf": "BA",
-   "municipio": "Camaçari",
-   "cod_ibge": "2905701",
-   "tipo": "estudante",
-   "regra": "Estudantes pagam 50% da tarifa; 35% dos passageiros têm gratuidade total ou meia (média de jun/2025 a mar/2026)",
-   "desde": null,
-   "base_legal": "não citada na fonte",
-   "fonte_url": "https://www.cn1.com.br/noticias/18/142528,camara-de-camacari-recebe-superintendente-da-stt-para-esclarecer-concessao-do-transporte-publico",
-   "confianca": "B",
+   "confianca": "A",
    "verificado_em": "2026-10-17"
   },
   {
@@ -172,7 +162,7 @@
    "desde": "1987-09-15",
    "base_legal": "Lei Municipal nº 18/1987",
    "fonte_url": "https://transparencia.camaratf.ba.gov.br/temas/transporte-urbano/",
-   "confianca": "B",
+   "confianca": "A",
    "verificado_em": "2026-10-17"
   },
   {
@@ -184,7 +174,7 @@
    "desde": "1992-08-20",
    "base_legal": "Lei Municipal nº 80/1992, alterada pela Lei nº 321/2004",
    "fonte_url": "https://transparencia.camaratf.ba.gov.br/temas/transporte-urbano/",
-   "confianca": "B",
+   "confianca": "A",
    "verificado_em": "2026-10-17"
   },
   {
@@ -268,7 +258,7 @@
    "desde": "2026-10-04",
    "base_legal": "mensagem do Executivo aprovada pela Câmara Municipal em 01/10/2026 (número não citado)",
    "fonte_url": "https://www.fortaleza.ce.gov.br/noticias/fortaleza-tera-passagem-de-onibus-gratuita-para-todos-e-frota-reforcada-no-domingo-de-eleicoes",
-   "confianca": "B",
+   "confianca": "A",
    "verificado_em": "2026-10-17"
   },
   {
@@ -292,7 +282,7 @@
    "desde": "2021-12",
    "base_legal": null,
    "fonte_url": "https://www.maracanau.ce.gov.br/passe-livre/",
-   "confianca": "B",
+   "confianca": "A",
    "verificado_em": "2026-10-17"
   },
   {
@@ -460,7 +450,7 @@
    "desde": "2023-11-27",
    "base_legal": "Lei nº 4.595, de 20/10/2023 (altera a Lei nº 4.442/2022)",
    "fonte_url": "https://www.luziania.go.gov.br/lei-no-4-595/",
-   "confianca": "B",
+   "confianca": "A",
    "verificado_em": "2026-10-17"
   },
   {
@@ -496,7 +486,7 @@
    "desde": "2026-10-04",
    "base_legal": "edital da 19ª Zona Eleitoral e regras do TSE para as Eleições 2026",
    "fonte_url": "https://timon.ma.gov.br/?p=363298",
-   "confianca": "B",
+   "confianca": "A",
    "verificado_em": "2026-10-17"
   },
   {
@@ -556,7 +546,7 @@
    "desde": null,
    "base_legal": null,
    "fonte_url": "https://www.pjf.mg.gov.br/noticias/view.php?modo=link2&idnoticia2=85296",
-   "confianca": "B",
+   "confianca": "A",
    "verificado_em": "2026-10-17"
   },
   {
@@ -616,7 +606,7 @@
    "desde": "2025-02",
    "base_legal": "Lei Municipal nº 14.339/2025, regulamentada por decreto de fev/2025",
    "fonte_url": "https://www.uberlandia.mg.gov.br/2025/08/19/programa-tarifa-zero-completa-6-meses-e-garante-acesso-a-educacao-cultura-e-esporte-com-mais-de-46-milhoes-de-utilizacoes-do-beneficio/",
-   "confianca": "B",
+   "confianca": "A",
    "verificado_em": "2026-10-17"
   },
   {
@@ -676,7 +666,7 @@
    "desde": "2026-10-04",
    "base_legal": "Decreto assinado pelo prefeito Marçal Filho",
    "fonte_url": "https://portal.dourados.ms.gov.br/index.php/prefeitura-libera-transporte-coletivo-no-dia-das-eleicoes-e-altera-aulas-na-rede-municipal/",
-   "confianca": "B",
+   "confianca": "A",
    "verificado_em": "2026-10-17"
   },
   {
@@ -688,7 +678,7 @@
    "desde": "2026-10-04",
    "base_legal": null,
    "fonte_url": "https://www.treslagoas.ms.gov.br/tres-lagoas-tera-transporte-coletivo-gratuito-no-domingo-de-eleicoes/",
-   "confianca": "B",
+   "confianca": "A",
    "verificado_em": "2026-10-17"
   },
   {
@@ -724,7 +714,7 @@
    "desde": "2026-10-04",
    "base_legal": "Resolução TSE nº 23.759/2026, citada pela prefeitura",
    "fonte_url": "https://lucasdorioverde.mt.gov.br/site/noticias/prefeitura-de-lucas-do-rio-verde-confirma-transporte-gratuito-de-onibus-nas-eleicoes-2026-15202",
-   "confianca": "B",
+   "confianca": "A",
    "verificado_em": "2026-10-17"
   },
   {
@@ -736,7 +726,7 @@
    "desde": "2026-10-04",
    "base_legal": "Decreto nº 13.544, de 20/08/2026 (DIORONDON-E nº 6.262, de 24/08/2026)",
    "fonte_url": "https://www.rondonopolis.mt.gov.br/media/docs/edicoes/2026/August/369091c4-c8eb-4cc9-a1fd-e2e2f3542d2e.pdf",
-   "confianca": "B",
+   "confianca": "A",
    "verificado_em": "2026-10-17"
   },
   {
@@ -772,7 +762,7 @@
    "desde": "2025-05-02",
    "base_legal": "Lei nº 3.677, de 29/04/2025",
    "fonte_url": "https://site.sorriso.mt.gov.br/noticia/prefeitura-celebra-um-ano-de-tarifa-zero-no-coletivo-com-ampliacao-do-servico-69e8d18e856aa",
-   "confianca": "B",
+   "confianca": "A",
    "verificado_em": "2026-10-17"
   },
   {
@@ -784,7 +774,7 @@
    "desde": "2023-01",
    "base_legal": "Lei Municipal nº 2.758/2005, regulamentada pelo Decreto nº 01, de 06/01/2023",
    "fonte_url": "https://amm.diariomunicipal.org/publicacao/1146797/",
-   "confianca": "B",
+   "confianca": "A",
    "verificado_em": "2026-10-17"
   },
   {
@@ -796,7 +786,7 @@
    "desde": "2026-10-04",
    "base_legal": "Portaria/GAB/SMSPMU nº 042/2026 (Jornal Oficial AMM-MT de 01/10/2026)",
    "fonte_url": "https://amm.diariomunicipal.org/publicacao/1918034/",
-   "confianca": "B",
+   "confianca": "A",
    "verificado_em": "2026-10-17"
   },
   {
@@ -820,7 +810,7 @@
    "desde": "2026-08-28",
    "base_legal": "Lei nº 5.697/2026, art. 7º, III (a Lei nº 5.629, de 05/01/2026, já previa gratuidade aos estudantes da rede pública estadual)",
    "fonte_url": "https://diario.parauapebas.pa.gov.br/api/Publicacoes/1418/pdf-final",
-   "confianca": "B",
+   "confianca": "A",
    "verificado_em": "2026-10-17"
   },
   {
@@ -832,7 +822,7 @@
    "desde": "2026-08-28",
    "base_legal": "Lei nº 5.697, de 26/08/2026, art. 7º, I (Diário Oficial nº 1418, de 28/08/2026); subsídio de até R$ 11.216.473,20 para 01/07/2026 a 30/06/2027",
    "fonte_url": "https://diario.parauapebas.pa.gov.br/api/Publicacoes/1418/pdf-final",
-   "confianca": "B",
+   "confianca": "A",
    "verificado_em": "2026-10-17"
   },
   {
@@ -844,7 +834,7 @@
    "desde": "2026-08-28",
    "base_legal": "Lei nº 5.697/2026, art. 7º, II",
    "fonte_url": "https://diario.parauapebas.pa.gov.br/api/Publicacoes/1418/pdf-final",
-   "confianca": "B",
+   "confianca": "A",
    "verificado_em": "2026-10-17"
   },
   {
@@ -856,7 +846,7 @@
    "desde": null,
    "base_legal": "Lei nº 5.631, de 12/01/2026 (altera a Lei nº 4.551/2013)",
    "fonte_url": "https://parauapebas.pa.gov.br/destaque/parauapebas-avanca-na-mobilidade-urbana-e-institui-transporte-publico-gratuito-para-a-populacao/",
-   "confianca": "B",
+   "confianca": "A",
    "verificado_em": "2026-10-17"
   },
   {
@@ -880,7 +870,7 @@
    "desde": null,
    "base_legal": null,
    "fonte_url": "https://campinagrande.pb.gov.br/conselho-municipal-de-transportes-publicos-aprova-reajuste-mas-campina-continua-com-a-menor-tarifa-da-paraiba-e-uma-das-menores-do-pais/",
-   "confianca": "B",
+   "confianca": "A",
    "verificado_em": "2026-10-17"
   },
   {
@@ -904,7 +894,7 @@
    "desde": "2026-08-09",
    "base_legal": null,
    "fonte_url": "https://caruaru.pe.gov.br/prefeitura-de-caruaru-muda-rotina-dos-caruaruenses-com-onibus-gratuito-por-meio-do-projeto-domingo-legal/",
-   "confianca": "B",
+   "confianca": "A",
    "verificado_em": "2026-10-17"
   },
   {
@@ -916,7 +906,7 @@
    "desde": null,
    "base_legal": "não citada na fonte",
    "fonte_url": "https://petrolina.pe.gov.br/prefeitura-de-petrolina-orienta-usuarios-do-transporte-coletivo-sobre-emissao-e-recarga-do-cartao-sim/",
-   "confianca": "B",
+   "confianca": "A",
    "verificado_em": "2026-10-17"
   },
   {
@@ -1012,19 +1002,7 @@
    "desde": null,
    "base_legal": "Lei municipal nº 5.496/1993 (alterada pela Lei nº 12.641/2017) e Ato Executivo nº 106/2008",
    "fonte_url": "https://cmtu.londrina.pr.gov.br/index.php/isencoes-tarifarias.html",
-   "confianca": "B",
-   "verificado_em": "2026-10-17"
-  },
-  {
-   "uf": "PR",
-   "municipio": "Maringá",
-   "cod_ibge": "4115200",
-   "tipo": "tarifa_reduzida",
-   "regra": "Bônus de 15% do valor da tarifa em créditos no cartão Passe Fácil para embarques entre 8h30 e 11h e entre 13h30 e 16h",
-   "desde": null,
-   "base_legal": null,
-   "fonte_url": "https://www.bemparana.com.br/noticias/parana/cidadesdoparana/nova-tarifa-do-transporte-coletivo-de-maringa-sera-a-mais-barata-entre-as-grandes-cidades-do-parana/",
-   "confianca": "B",
+   "confianca": "A",
    "verificado_em": "2026-10-17"
   },
   {
@@ -1060,19 +1038,7 @@
    "desde": "2026-10-04",
    "base_legal": "Decreto nº 293/2026 (suplemento do Diário Oficial, edição 2113, de 17/08/2026)",
    "fonte_url": "https://campos.rj.gov.br/2026/08/27/transporte-coletivo-tera-gratuidade-nos-dias-das-eleicoes-2026-em-campos/",
-   "confianca": "B",
-   "verificado_em": "2026-10-17"
-  },
-  {
-   "uf": "RJ",
-   "municipio": "Duque de Caxias",
-   "cod_ibge": "3301702",
-   "tipo": "tarifa_reduzida",
-   "regra": "Parcial, não universal: gratuidade total (R$ 0) nas 21 linhas municipais do programa Tarifa Zero; as demais linhas municipais são pagas",
-   "desde": "2024-06",
-   "base_legal": null,
-   "fonte_url": "https://diariodotransporte.com.br/2026/09/09/duque-de-caxias-rj-recebe-10-novos-onibus-mascarello-para-frota-do-programa-tarifa-zero/",
-   "confianca": "B",
+   "confianca": "A",
    "verificado_em": "2026-10-17"
   },
   {
@@ -1084,7 +1050,7 @@
    "desde": "2026-10-04",
    "base_legal": "Decreto nº 9.189/2026",
    "fonte_url": "https://portal.duquedecaxias.rj.gov.br/noticia/esquema-de-coleta-de-lixo-transito-e-transporte-no-primeiro-turno-das-eleicoes-de-2026-7316",
-   "confianca": "B",
+   "confianca": "A",
    "verificado_em": "2026-10-17"
   },
   {
@@ -1144,7 +1110,7 @@
    "desde": "2026-10-04",
    "base_legal": "Decreto nº 446/2026 (D.O.E. de 18/09/2026)",
    "fonte_url": "https://do.pmsg.rj.gov.br/diario/2026_09_18.pdf",
-   "confianca": "B",
+   "confianca": "A",
    "verificado_em": "2026-10-17"
   },
   {
@@ -1157,18 +1123,6 @@
    "base_legal": "Decreto nº 5.165/2017",
    "fonte_url": "https://defato.com/mossoro/72236/passagem-de-nibus-custar-r-330-a-partir-do-dia-1-de-janeiro",
    "confianca": "A",
-   "verificado_em": "2026-10-17"
-  },
-  {
-   "uf": "RN",
-   "municipio": "Mossoró",
-   "cod_ibge": "2408003",
-   "tipo": "tarifa_zero_temporal",
-   "regra": "Transporte coletivo sem cobrança no 2º turno das Eleições 2026 (25/10/2026), em sete linhas",
-   "desde": "2026-10-25",
-   "base_legal": "regras da Justiça Eleitoral (norma não citada)",
-   "fonte_url": "https://prefeiturademossoro.com.br/noticias/prefeitura-de-mossoro-garante-transporte-publico-gratuito-para-o-segundo-turno-das-eleicoes-2026/18066",
-   "confianca": "B",
    "verificado_em": "2026-10-17"
   },
   {
@@ -1324,7 +1278,7 @@
    "desde": null,
    "base_legal": "Decreto nº 51.700, de 02/03/2026, art. 32",
    "fonte_url": "https://diariomunicipal.sc.gov.br/atos/8057870",
-   "confianca": "B",
+   "confianca": "A",
    "verificado_em": "2026-10-17"
   },
   {
@@ -1389,18 +1343,6 @@
   },
   {
    "uf": "SP",
-   "municipio": "Bauru",
-   "cod_ibge": "3506003",
-   "tipo": "idoso",
-   "regra": "Isenção para idosos de 60 a 64 anos cadastrados, pessoas com 65 anos ou mais e pessoas com deficiência",
-   "desde": null,
-   "base_legal": null,
-   "fonte_url": "https://www.correiodamanha.com.br/nacional/sao-paulo/campinas/interior-de-sao-paulo/2026/07/304207-tarifa-de-onibus-de-bauru-sobe-para-rs-625-no-fim-de-agosto.html",
-   "confianca": "B",
-   "verificado_em": "2026-10-17"
-  },
-  {
-   "uf": "SP",
    "municipio": "Bragança Paulista",
    "cod_ibge": "3507605",
    "tipo": "tarifa_zero_temporal",
@@ -1456,7 +1398,7 @@
    "desde": "2026-06-14",
    "base_legal": "Lei Municipal nº 2.466/2026, regulamentada por decreto assinado em 10/06/2026",
    "fonte_url": "https://cotia.sp.gov.br/tarifa-zero-inclusiva-aos-domingos-ja-esta-valendo-em-cotia/",
-   "confianca": "B",
+   "confianca": "A",
    "verificado_em": "2026-10-17"
   },
   {
@@ -1480,7 +1422,7 @@
    "desde": "2026-07",
    "base_legal": "Lei nº 3.673/2026; Decreto nº 7.330/2026",
    "fonte_url": "https://ferrazdevasconcelos.sp.gov.br/web/legislacao/lei-3673-26-institui-no-ambito-de-ferraz-de-vasconcelos-o-programa-gratuidade-do-transporte-publico-coletivo-urbano-de-passageiros-aos-domingos-e-feriados-2/",
-   "confianca": "B",
+   "confianca": "A",
    "verificado_em": "2026-10-17"
   },
   {
@@ -1529,18 +1471,6 @@
    "base_legal": "Lei municipal originada do PL 1984/2023",
    "fonte_url": "https://www.itapecerica.sp.gov.br/noticias/financas/transporte-para-todos-vai-oferecer-onibus-gratuito-na-cidade-aos-finais-de-semana-e-feriados",
    "confianca": "A",
-   "verificado_em": "2026-10-17"
-  },
-  {
-   "uf": "SP",
-   "municipio": "Itapetininga",
-   "cod_ibge": "3522307",
-   "tipo": "tarifa_zero_universal",
-   "regra": "Ônibus municipais sem cobrança para todos (Programa Ônibus de Graça)",
-   "desde": "2023-12-30",
-   "base_legal": null,
-   "fonte_url": "https://diariodotransporte.com.br/2023/12/28/itapetininga-sp-anuncia-tarifa-zero-nos-onibus-a-partir-deste-sabado-30/",
-   "confianca": "B",
    "verificado_em": "2026-10-17"
   },
   {
@@ -1641,18 +1571,6 @@
   },
   {
    "uf": "SP",
-   "municipio": "Presidente Prudente",
-   "cod_ibge": "3541406",
-   "tipo": "tarifa_zero_temporal",
-   "regra": "Tarifa Zero aos sábados e domingos nos ônibus do transporte coletivo urbano",
-   "desde": "2025-06-07",
-   "base_legal": "Lei Municipal nº 11.618/2025",
-   "fonte_url": "https://diariodotransporte.com.br/2026/07/21/presidente-prudente-sp-registra-aumento-de-34-no-numero-de-passageiros-aos-finais-de-semana/",
-   "confianca": "B",
-   "verificado_em": "2026-10-17"
-  },
-  {
-   "uf": "SP",
    "municipio": "Ribeirão Preto",
    "cod_ibge": "3543402",
    "tipo": "idoso",
@@ -1660,18 +1578,6 @@
    "desde": null,
    "base_legal": "legislação vigente (não citada)",
    "fonte_url": "https://www.rpmobilidade.com.br/cartao-nosso/senior/",
-   "confianca": "B",
-   "verificado_em": "2026-10-17"
-  },
-  {
-   "uf": "SP",
-   "municipio": "Santo André",
-   "cod_ibge": "3547809",
-   "tipo": "estudante",
-   "regra": "Gratuidade para estudantes com passe escolar; professores das redes pública e privada com 50% de desconto",
-   "desde": "2025-01-06",
-   "base_legal": "Decreto de 27/12/2024",
-   "fonte_url": "https://www.dgabc.com.br/Noticia/4194303/sto-andre-reajusta-a-r%24-5-90-valor-da-passagem-de-onibus",
    "confianca": "B",
    "verificado_em": "2026-10-17"
   },
@@ -1696,7 +1602,7 @@
    "desde": null,
    "base_legal": "Lei nº 5.289/2004; Decreto nº 21.741, de 30/09/2021",
    "fonte_url": "https://guiadeservicos.saobernardo.sp.gov.br/guia-de-servicos/servicos/212396/mostrar",
-   "confianca": "B",
+   "confianca": "A",
    "verificado_em": "2026-10-17"
   },
   {
@@ -1732,7 +1638,7 @@
    "desde": "2025-05-01",
    "base_legal": "lei municipal de 2025 (projeto entregue à Câmara em 03/04/2025",
    "fonte_url": "https://www.saocarlos.sp.gov.br/index.php/noticias-2026/180807-netto-donato-amplia-tarifa-zero-e-leva-transporte-gratuito-ate-a-babilonia-e-novo-horizonte-aos-finais-de-semana-e-feriados.html",
-   "confianca": "B",
+   "confianca": "A",
    "verificado_em": "2026-10-17"
   },
   {

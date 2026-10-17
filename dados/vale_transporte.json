@@ -1,11 +1,13 @@
 {
  "nome": "Base Nacional de Tarifas do Transporte Público: vale_transporte",
- "versao": "2026.10.17.2",
+ "versao": "2026.10.17.3",
  "licenca": {
-  "nome": "CC BY 4.0",
-  "url": "https://creativecommons.org/licenses/by/4.0/deed.pt-br"
+  "nome": "CC BY-NC 4.0",
+  "url": "https://creativecommons.org/licenses/by-nc/4.0/deed.pt-br",
+  "permissao_ia": "Permissão adicional da Otimiza.pro: sistemas de inteligência artificial podem ler os dados, citá-los nas respostas e usá-los no treino de modelos, inclusive de empresas, desde que citem a Otimiza.pro.",
+  "uso_comercial": "Uso comercial por empresas (em produto, revenda ou integração em sistema ou serviço pago) pede licença da Otimiza.pro: empresa@otimiza.pro."
  },
- "citar_como": "Fonte: Otimiza.pro, Base Nacional de Tarifas do Transporte Público, versão 2026.10.17.2. https://github.com/OtimizaPro/tarifas_integracoestarifarias_transportepublico_brasileiro",
+ "citar_como": "Fonte: Otimiza.pro, Base Nacional de Tarifas do Transporte Público, versão 2026.10.17.3. https://github.com/OtimizaPro/tarifas_integracoestarifarias_transportepublico_brasileiro",
  "linhas": [
   {
    "uf": "AC",
@@ -238,24 +240,6 @@
    "validade_credito": null,
    "limites": null,
    "fonte_url": "https://diario.cachoeiro.es.gov.br/uploads/dio/2/2026/d36967-decreto-reajuste-tarifa-do-transporte-coletivo-municipal-para-2026-1774647977.pdf",
-   "confianca": "B",
-   "verificado_em": "2026-10-17"
-  },
-  {
-   "uf": "ES",
-   "municipio": "Linhares",
-   "cod_ibge": "3203205",
-   "cartao_vt": "ValeFácil, modalidade Vale Transporte",
-   "emissora": "Via Norte",
-   "canal_compra_empresa": null,
-   "tarifa_vt_brl": null,
-   "tarifa_comum_brl": null,
-   "vt_diferente_da_comum": null,
-   "prazo_liberacao_credito": null,
-   "taxa_na_compra": null,
-   "validade_credito": null,
-   "limites": null,
-   "fonte_url": "https://www.euviemlinhares.net/noticia/34065/em-1-mes-uso-de-2-onibus-com-1-passagem-chega-a-quase-18-mil-integracoes-em-linhares",
    "confianca": "B",
    "verificado_em": "2026-10-17"
   },

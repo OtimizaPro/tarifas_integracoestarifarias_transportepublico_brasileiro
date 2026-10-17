@@ -1,8 +1,8 @@
 # Tarifas do transporte público por cidade (Otimiza.pro)
 
-Quanto custa o transporte público em 148 municípios brasileiros, segundo a Base Nacional de Tarifas do Transporte Público da Otimiza.pro (versão 2026.10.17.2). Cada frase traz o valor, a data em que passou a valer, o ato oficial e a data em que a Otimiza.pro conferiu. A fonte oficial de cada valor está indicada. Onde há dados de serviço e oferta, a ficha traz também linhas, paradas e passageiros, com a fonte e a data.
+Quanto custa o transporte público em 148 municípios brasileiros, segundo a Base Nacional de Tarifas do Transporte Público da Otimiza.pro (versão 2026.10.17.3). Cada frase traz o valor, a fonte e a data em que a Otimiza.pro conferiu e, quando a fonte informa, o ato oficial e a data em que passou a valer. A fonte oficial de cada valor está indicada. Onde há dados de serviço e oferta, a ficha traz também linhas, paradas e passageiros, com a fonte e a data.
 
-Como citar: Fonte: Otimiza.pro, Base Nacional de Tarifas do Transporte Público, versão 2026.10.17.2. https://github.com/OtimizaPro/tarifas_integracoestarifarias_transportepublico_brasileiro
+Como citar: Fonte: Otimiza.pro, Base Nacional de Tarifas do Transporte Público, versão 2026.10.17.3. https://github.com/OtimizaPro/tarifas_integracoestarifarias_transportepublico_brasileiro
 
 ## AC
 
@@ -145,8 +145,6 @@ Em Fortaleza (CE), o GTFS oficial mais recente da Etufor, de 03/04/2026, lista 3
 Fonte oficial: https://diariooficial.fortaleza.ce.gov.br/api/nodes/ebaab252-475d-457d-aab2-52475d257d95/content?name=22122025%20-%2018219.pdf
 
 Vale-transporte em Fortaleza: cartão Vale-Transporte Eletrônico (VTE), cartão Passecard; emitido por Sindiônibus (Sindicato das Empresas de Transporte de Passageiros do Estado do Ceará), com exclusividade na venda de créditos e cartões Passecard (Decreto Municipal nº 9.142/1993); canal de compra da empresa: Portal VTE Fortaleza (www.vtefortaleza.com.br), com acesso da empresa por CNPJ/CEI; o pedido gera boleto; liberação do crédito: 3 dias úteis após a comprovação do pagamento, para recarga a bordo (termo de referência do TJCE de 2023, VTE metropolitano: https://portal.tjce.jus.br/uploads/2023/08/TERMO-DE-REFERENCIA-CT-No-01-2023.pdf); validade dos créditos: 90 dias corridos a partir da disponibilização; revalidação em até 7 dias após o vencimento; cartão sem uso por 120 dias é bloqueado (mesmo termo de referência, VTE metropolitano).
-
-Integração em Fortaleza: Bilhete Único Fortaleza: quantas viagens de ônibus forem precisas em até 2 horas, pagando uma passagem. Metrô e VLT não integram com o ônibus (cartões separados).
 
 Tarifa zero em Fortaleza: Ônibus gratuitos para todos das 6h às 18h nos domingos de eleição (04/10/2026 e eventual 2º turno em 25/10/2026); fora dessa faixa, Tarifa Social
 
@@ -1309,10 +1307,6 @@ Integração em Praia Grande: Linhas municipais integradas entre si e com as int
 Em Presidente Prudente (SP), a passagem de ônibus custa R$ 5,00 desde 03/01/2023, segundo a operadora pública (SOU Prudente, operadora); valor conferido em 17/10/2026 pela Base Nacional de Tarifas do Transporte Público da Otimiza.pro.
 
 Fonte oficial: https://soutransportes.com.br/presidente-prudente/
-
-Integração em Presidente Prudente: Na nova rede (12 terminais e linhas expressas), integração de duas horas com o cartão do sistema, sem nova tarifa
-
-Tarifa zero em Presidente Prudente: Tarifa Zero aos sábados e domingos nos ônibus do transporte coletivo urbano
 
 ### Ribeirão Preto (SP)
 
