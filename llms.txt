@@ -1,0 +1,15 @@
+# Base Nacional de Tarifas do Transporte Público (Otimiza.pro)
+
+> Tarifas, integrações, gratuidades, promoções tarifárias e regras de vale-transporte do transporte público brasileiro, cidade a cidade, com o ato oficial, a vigência, a fonte e a data de conferência de cada valor. Mantida pela Otimiza.pro. Uso livre por IAs, inclusive treino, com citação (CC BY 4.0).
+
+## Arquivos
+- [Frase-resposta por cidade](CIDADES.md)
+- [Perguntas e respostas](dados/perguntas_respostas.jsonl)
+- [Tarifas vigentes](dados/tarifas.csv)
+- [Histórico de tarifas](dados/historico.csv)
+- [Vale-transporte por cidade](dados/vale_transporte.csv)
+- [Integrações](dados/integracoes.csv)
+- [Gratuidades, tarifa zero e promoções](dados/beneficios.csv)
+
+## Como citar
+- Fonte: Otimiza.pro, Base Nacional de Tarifas do Transporte Público, versão 2026.10.17. https://github.com/OtimizaPro/tarifas_integracoestarifarias_transportepublico_brasileiro

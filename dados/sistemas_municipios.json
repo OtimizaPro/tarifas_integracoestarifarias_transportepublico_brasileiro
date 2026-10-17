@@ -1,0 +1,787 @@
+{
+ "nome": "Base Nacional de Tarifas do Transporte Público: sistemas_municipios",
+ "versao": "2026.10.17",
+ "licenca": {
+  "nome": "CC BY 4.0",
+  "url": "https://creativecommons.org/licenses/by/4.0/deed.pt-br"
+ },
+ "citar_como": "Fonte: Otimiza.pro, Base Nacional de Tarifas do Transporte Público, versão 2026.10.17. https://github.com/OtimizaPro/tarifas_integracoestarifarias_transportepublico_brasileiro",
+ "linhas": [
+  {
+   "sistema": "RBTrans (COM Card)",
+   "abrangencia": "municipal",
+   "municipio_sede": "Rio Branco",
+   "uf": "AC",
+   "municipio_atendido": "Rio Branco",
+   "cod_ibge": "1200401"
+  },
+  {
+   "sistema": "DMTT (Vamu)",
+   "abrangencia": "municipal",
+   "municipio_sede": "Maceió",
+   "uf": "AL",
+   "municipio_atendido": "Maceió",
+   "cod_ibge": "2704302"
+  },
+  {
+   "sistema": "VLT CBTU Maceió",
+   "abrangencia": "municipal",
+   "municipio_sede": "Maceió",
+   "uf": "AL",
+   "municipio_atendido": "Maceió",
+   "cod_ibge": "2704302"
+  },
+  {
+   "sistema": "IMMU (Sinetram)",
+   "abrangencia": "municipal",
+   "municipio_sede": "Manaus",
+   "uf": "AM",
+   "municipio_atendido": "Manaus",
+   "cod_ibge": "1302603"
+  },
+  {
+   "sistema": "CTMac",
+   "abrangencia": "municipal",
+   "municipio_sede": "Macapá",
+   "uf": "AP",
+   "municipio_atendido": "Macapá",
+   "cod_ibge": "1600303"
+  },
+  {
+   "sistema": "Metrô Bahia",
+   "abrangencia": "municipal",
+   "municipio_sede": "Salvador",
+   "uf": "BA",
+   "municipio_atendido": "Salvador",
+   "cod_ibge": "2927408"
+  },
+  {
+   "sistema": "Prefeitura de Feira de Santana, Secretaria Municipal de Mobilidade Urbana (Semob) e Conselho Municipal de Transportes; bilhetagem e cartão Via Feira",
+   "abrangencia": "municipal",
+   "municipio_sede": "Feira de Santana",
+   "uf": "BA",
+   "municipio_atendido": "Feira de Santana",
+   "cod_ibge": "2910800"
+  },
+  {
+   "sistema": "Semob (Integra)",
+   "abrangencia": "municipal",
+   "municipio_sede": "Salvador",
+   "uf": "BA",
+   "municipio_atendido": "Salvador",
+   "cod_ibge": "2927408"
+  },
+  {
+   "sistema": "Etufor (Bilhete Único)",
+   "abrangencia": "municipal",
+   "municipio_sede": "Fortaleza",
+   "uf": "CE",
+   "municipio_atendido": "Fortaleza",
+   "cod_ibge": "2304400"
+  },
+  {
+   "sistema": "Prefeitura de Caucaia, Secretaria do Patrimônio e Transporte (SPT); Programa Passe Livre (antigo Bora de Graça); concessionária Vitória",
+   "abrangencia": "municipal",
+   "municipio_sede": "Caucaia",
+   "uf": "CE",
+   "municipio_atendido": "Caucaia",
+   "cod_ibge": "2303709"
+  },
+  {
+   "sistema": "Metrô-DF",
+   "abrangencia": "municipal",
+   "municipio_sede": "Brasília",
+   "uf": "DF",
+   "municipio_atendido": "Brasília",
+   "cod_ibge": "5300108"
+  },
+  {
+   "sistema": "Semob-DF (BRB Mobilidade)",
+   "abrangencia": "municipal",
+   "municipio_sede": "Brasília",
+   "uf": "DF",
+   "municipio_atendido": "Brasília",
+   "cod_ibge": "5300108"
+  },
+  {
+   "sistema": "Transcol (Grande Vitória)",
+   "abrangencia": "metropolitano",
+   "municipio_sede": "Vitória",
+   "uf": "ES",
+   "municipio_atendido": "Cariacica",
+   "cod_ibge": "3201308"
+  },
+  {
+   "sistema": "Transcol (Grande Vitória)",
+   "abrangencia": "metropolitano",
+   "municipio_sede": "Vitória",
+   "uf": "ES",
+   "municipio_atendido": "Serra",
+   "cod_ibge": "3205002"
+  },
+  {
+   "sistema": "Transcol (Grande Vitória)",
+   "abrangencia": "metropolitano",
+   "municipio_sede": "Vitória",
+   "uf": "ES",
+   "municipio_atendido": "Vila Velha",
+   "cod_ibge": "3205200"
+  },
+  {
+   "sistema": "Transcol (Grande Vitória)",
+   "abrangencia": "metropolitano",
+   "municipio_sede": "Vitória",
+   "uf": "ES",
+   "municipio_atendido": "Vitória",
+   "cod_ibge": "3205309"
+  },
+  {
+   "sistema": "Agência Reguladora do Município de Anápolis (ARM); concessionária Urban (contrato de 2015); cartão da Urban",
+   "abrangencia": "municipal",
+   "municipio_sede": "Anápolis",
+   "uf": "GO",
+   "municipio_atendido": "Anápolis",
+   "cod_ibge": "5201108"
+  },
+  {
+   "sistema": "CMTC (Rede Metropolitana)",
+   "abrangencia": "metropolitano",
+   "municipio_sede": "Goiânia",
+   "uf": "GO",
+   "municipio_atendido": "Aparecida de Goiânia",
+   "cod_ibge": "5201405"
+  },
+  {
+   "sistema": "CMTC (Rede Metropolitana)",
+   "abrangencia": "metropolitano",
+   "municipio_sede": "Goiânia",
+   "uf": "GO",
+   "municipio_atendido": "Goianira",
+   "cod_ibge": "5208806"
+  },
+  {
+   "sistema": "CMTC (Rede Metropolitana)",
+   "abrangencia": "metropolitano",
+   "municipio_sede": "Goiânia",
+   "uf": "GO",
+   "municipio_atendido": "Goiânia",
+   "cod_ibge": "5208707"
+  },
+  {
+   "sistema": "CMTC (Rede Metropolitana)",
+   "abrangencia": "metropolitano",
+   "municipio_sede": "Goiânia",
+   "uf": "GO",
+   "municipio_atendido": "Senador Canedo",
+   "cod_ibge": "5220454"
+  },
+  {
+   "sistema": "CMTC (Rede Metropolitana)",
+   "abrangencia": "metropolitano",
+   "municipio_sede": "Goiânia",
+   "uf": "GO",
+   "municipio_atendido": "Trindade",
+   "cod_ibge": "5221403"
+  },
+  {
+   "sistema": "SMTT",
+   "abrangencia": "municipal",
+   "municipio_sede": "São Luís",
+   "uf": "MA",
+   "municipio_atendido": "São Luís",
+   "cod_ibge": "2111300"
+  },
+  {
+   "sistema": "Metrô BH",
+   "abrangencia": "municipal",
+   "municipio_sede": "Belo Horizonte",
+   "uf": "MG",
+   "municipio_atendido": "Belo Horizonte",
+   "cod_ibge": "3106200"
+  },
+  {
+   "sistema": "Prefeitura de Betim, transporte coletivo municipal próprio (fora do sistema metropolitano); cartão Betim Card",
+   "abrangencia": "municipal",
+   "municipio_sede": "Betim",
+   "uf": "MG",
+   "municipio_atendido": "Betim",
+   "cod_ibge": "3106705"
+  },
+  {
+   "sistema": "Prefeitura de Juiz de Fora (SMU); operação por consórcios associados à Astransp; cartões Moov/Astransp; Bilhete Único JF",
+   "abrangencia": "municipal",
+   "municipio_sede": "Juiz de Fora",
+   "uf": "MG",
+   "municipio_atendido": "Juiz de Fora",
+   "cod_ibge": "3136702"
+  },
+  {
+   "sistema": "Prefeitura de Montes Claros (MCTrans), concessão ao Consórcio MOCBUS (Alprino e Solaris); cartões SIM Card",
+   "abrangencia": "municipal",
+   "municipio_sede": "Montes Claros",
+   "uf": "MG",
+   "municipio_atendido": "Montes Claros",
+   "cod_ibge": "3143302"
+  },
+  {
+   "sistema": "SUMOB (BHBUS)",
+   "abrangencia": "municipal",
+   "municipio_sede": "Belo Horizonte",
+   "uf": "MG",
+   "municipio_atendido": "Belo Horizonte",
+   "cod_ibge": "3106200"
+  },
+  {
+   "sistema": "Settran (Secretaria Municipal de Trânsito e Transportes), Sistema Integrado de Transporte (SIT); bilhetagem e VT pela Ubertrans (cartão SIT)",
+   "abrangencia": "municipal",
+   "municipio_sede": "Uberlândia",
+   "uf": "MG",
+   "municipio_atendido": "Uberlândia",
+   "cod_ibge": "3170206"
+  },
+  {
+   "sistema": "TransCon (Autarquia Municipal de Trânsito e Transportes de Contagem); bilhetagem pelo Cartão Ótimo (Consórcio Ótimo); Sistema Integrado de Mobilidade (SIM) em implantação",
+   "abrangencia": "municipal",
+   "municipio_sede": "Contagem",
+   "uf": "MG",
+   "municipio_atendido": "Contagem",
+   "cod_ibge": "3118601"
+  },
+  {
+   "sistema": "Agereg (Consórcio Guaicurus)",
+   "abrangencia": "municipal",
+   "municipio_sede": "Campo Grande",
+   "uf": "MS",
+   "municipio_atendido": "Campo Grande",
+   "cod_ibge": "5002704"
+  },
+  {
+   "sistema": "Semob Cuiabá",
+   "abrangencia": "municipal",
+   "municipio_sede": "Cuiabá",
+   "uf": "MT",
+   "municipio_atendido": "Cuiabá",
+   "cod_ibge": "5103403"
+  },
+  {
+   "sistema": "Secretaria Municipal de Transporte e Trânsito (SEMUTRAN) nas linhas municipais; cartão Passe Fácil (Setransbel) para estudante e sênior; BRT Metropolitano estadual com cartão PraJá",
+   "abrangencia": "municipal",
+   "municipio_sede": "Ananindeua",
+   "uf": "PA",
+   "municipio_atendido": "Ananindeua",
+   "cod_ibge": "1500800"
+  },
+  {
+   "sistema": "Segbel (Passe Fácil)",
+   "abrangencia": "municipal",
+   "municipio_sede": "Belém",
+   "uf": "PA",
+   "municipio_atendido": "Belém",
+   "cod_ibge": "1501402"
+  },
+  {
+   "sistema": "Semob-JP (NuBus)",
+   "abrangencia": "municipal",
+   "municipio_sede": "João Pessoa",
+   "uf": "PB",
+   "municipio_atendido": "João Pessoa",
+   "cod_ibge": "2507507"
+  },
+  {
+   "sistema": "Superintendência de Trânsito e Transportes Públicos (STTP) e Conselho Municipal de Transportes Públicos (COMUTP); bilhetagem NuBus, gerida pelo SITRANS (consórcios Santa Maria e Santa Verônica)",
+   "abrangencia": "municipal",
+   "municipio_sede": "Campina Grande",
+   "uf": "PB",
+   "municipio_atendido": "Campina Grande",
+   "cod_ibge": "2504009"
+  },
+  {
+   "sistema": "Trem CBTU João Pessoa",
+   "abrangencia": "municipal",
+   "municipio_sede": "João Pessoa",
+   "uf": "PB",
+   "municipio_atendido": "João Pessoa",
+   "cod_ibge": "2507507"
+  },
+  {
+   "sistema": "Autarquia de Mobilidade de Caruaru (AMC) e Conselho Municipal de Trânsito e Transporte (COMUT); Sistema de Transporte Público de Passageiros (STPP/Caruaru); cartão LEVA",
+   "abrangencia": "municipal",
+   "municipio_sede": "Caruaru",
+   "uf": "PE",
+   "municipio_atendido": "Caruaru",
+   "cod_ibge": "2604106"
+  },
+  {
+   "sistema": "Grande Recife Consórcio (VEM)",
+   "abrangencia": "metropolitano",
+   "municipio_sede": "Recife",
+   "uf": "PE",
+   "municipio_atendido": "Cabo de Santo Agostinho",
+   "cod_ibge": "2602902"
+  },
+  {
+   "sistema": "Grande Recife Consórcio (VEM)",
+   "abrangencia": "metropolitano",
+   "municipio_sede": "Recife",
+   "uf": "PE",
+   "municipio_atendido": "Camaragibe",
+   "cod_ibge": "2603454"
+  },
+  {
+   "sistema": "Grande Recife Consórcio (VEM)",
+   "abrangencia": "metropolitano",
+   "municipio_sede": "Recife",
+   "uf": "PE",
+   "municipio_atendido": "Jaboatão dos Guararapes",
+   "cod_ibge": "2607901"
+  },
+  {
+   "sistema": "Grande Recife Consórcio (VEM)",
+   "abrangencia": "metropolitano",
+   "municipio_sede": "Recife",
+   "uf": "PE",
+   "municipio_atendido": "Olinda",
+   "cod_ibge": "2609600"
+  },
+  {
+   "sistema": "Grande Recife Consórcio (VEM)",
+   "abrangencia": "metropolitano",
+   "municipio_sede": "Recife",
+   "uf": "PE",
+   "municipio_atendido": "Paulista",
+   "cod_ibge": "2610707"
+  },
+  {
+   "sistema": "Grande Recife Consórcio (VEM)",
+   "abrangencia": "metropolitano",
+   "municipio_sede": "Recife",
+   "uf": "PE",
+   "municipio_atendido": "Recife",
+   "cod_ibge": "2611606"
+  },
+  {
+   "sistema": "Metrô do Recife (CBTU)",
+   "abrangencia": "municipal",
+   "municipio_sede": "Recife",
+   "uf": "PE",
+   "municipio_atendido": "Recife",
+   "cod_ibge": "2611606"
+  },
+  {
+   "sistema": "Metrô de Teresina",
+   "abrangencia": "municipal",
+   "municipio_sede": "Teresina",
+   "uf": "PI",
+   "municipio_atendido": "Teresina",
+   "cod_ibge": "2211001"
+  },
+  {
+   "sistema": "Strans (Inthegra)",
+   "abrangencia": "municipal",
+   "municipio_sede": "Teresina",
+   "uf": "PI",
+   "municipio_atendido": "Teresina",
+   "cod_ibge": "2211001"
+  },
+  {
+   "sistema": "CMTU (Companhia Municipal de Trânsito e Urbanização); concessionárias Londrisul e TCGL",
+   "abrangencia": "municipal",
+   "municipio_sede": "Londrina",
+   "uf": "PR",
+   "municipio_atendido": "Londrina",
+   "cod_ibge": "4113700"
+  },
+  {
+   "sistema": "Prefeitura de Maringá; concessionária TCCC; cartão Passe Fácil",
+   "abrangencia": "municipal",
+   "municipio_sede": "Maringá",
+   "uf": "PR",
+   "municipio_atendido": "Maringá",
+   "cod_ibge": "4115200"
+  },
+  {
+   "sistema": "URBS (RIT)",
+   "abrangencia": "municipal",
+   "municipio_sede": "Curitiba",
+   "uf": "PR",
+   "municipio_atendido": "Curitiba",
+   "cod_ibge": "4106902"
+  },
+  {
+   "sistema": "Bilhete Único Intermunicipal",
+   "abrangencia": "municipal",
+   "municipio_sede": "Rio de Janeiro",
+   "uf": "RJ",
+   "municipio_atendido": "Rio de Janeiro",
+   "cod_ibge": "3304557"
+  },
+  {
+   "sistema": "IMTT (Instituto Municipal de Trânsito e Transporte): transporte coletivo convencional por ônibus e Transporte Coletivo Alimentador por vans e micro-ônibus",
+   "abrangencia": "municipal",
+   "municipio_sede": "Campos dos Goytacazes",
+   "uf": "RJ",
+   "municipio_atendido": "Campos dos Goytacazes",
+   "cod_ibge": "3301009"
+  },
+  {
+   "sistema": "MetrôRio",
+   "abrangencia": "municipal",
+   "municipio_sede": "Rio de Janeiro",
+   "uf": "RJ",
+   "municipio_atendido": "Rio de Janeiro",
+   "cod_ibge": "3304557"
+  },
+  {
+   "sistema": "Prefeitura de Duque de Caxias (Secretaria de Transportes e Serviços Públicos), linhas municipais de concessionárias (Auto Ônibus Vera Cruz, Viação Reginas, Transporte e Turismo Machado, Transturismo Rei e outras) e programa municipal Tarifa Zero; cartão Riocard Mais",
+   "abrangencia": "municipal",
+   "municipio_sede": "Duque de Caxias",
+   "uf": "RJ",
+   "municipio_atendido": "Duque de Caxias",
+   "cod_ibge": "3301702"
+  },
+  {
+   "sistema": "Prefeitura de Niterói (Secretaria de Mobilidade e Infraestrutura; Suten), Bilhete Único de Niterói no cartão Riocard Mais",
+   "abrangencia": "municipal",
+   "municipio_sede": "Niterói",
+   "uf": "RJ",
+   "municipio_atendido": "Niterói",
+   "cod_ibge": "3303302"
+  },
+  {
+   "sistema": "Prefeitura de Nova Iguaçu (SEMTMU), contratos de concessão 072-A/CPL/2015 e 072-B/CPL/2015; cartão Riocard Mais",
+   "abrangencia": "municipal",
+   "municipio_sede": "Nova Iguaçu",
+   "uf": "RJ",
+   "municipio_atendido": "Nova Iguaçu",
+   "cod_ibge": "3303500"
+  },
+  {
+   "sistema": "Prefeitura de São Gonçalo (Secretaria Municipal de Meio Ambiente e Transportes), Contrato de Concessão nº 01/SEMTRAN/2012; cartão Riocard Mais",
+   "abrangencia": "municipal",
+   "municipio_sede": "São Gonçalo",
+   "uf": "RJ",
+   "municipio_atendido": "São Gonçalo",
+   "cod_ibge": "3304904"
+  },
+  {
+   "sistema": "SMTR (Jaé)",
+   "abrangencia": "municipal",
+   "municipio_sede": "Rio de Janeiro",
+   "uf": "RJ",
+   "municipio_atendido": "Rio de Janeiro",
+   "cod_ibge": "3304557"
+  },
+  {
+   "sistema": "Sem sistema municipal pago localizado: o transporte local roda em linhas intermunicipais do Detro-RJ (Semove), e há linhas municipais gratuitas do Tarifa Zero; cartão Riocard Mais",
+   "abrangencia": "municipal",
+   "municipio_sede": "Belford Roxo",
+   "uf": "RJ",
+   "municipio_atendido": "Belford Roxo",
+   "cod_ibge": "3300456"
+  },
+  {
+   "sistema": "SuperVia",
+   "abrangencia": "municipal",
+   "municipio_sede": "Rio de Janeiro",
+   "uf": "RJ",
+   "municipio_atendido": "Rio de Janeiro",
+   "cod_ibge": "3304557"
+  },
+  {
+   "sistema": "STTU (NuBus)",
+   "abrangencia": "municipal",
+   "municipio_sede": "Natal",
+   "uf": "RN",
+   "municipio_atendido": "Natal",
+   "cod_ibge": "2408102"
+  },
+  {
+   "sistema": "VLT CBTU Natal",
+   "abrangencia": "municipal",
+   "municipio_sede": "Natal",
+   "uf": "RN",
+   "municipio_atendido": "Natal",
+   "cod_ibge": "2408102"
+  },
+  {
+   "sistema": "Semtran (COM Card)",
+   "abrangencia": "municipal",
+   "municipio_sede": "Porto Velho",
+   "uf": "RO",
+   "municipio_atendido": "Porto Velho",
+   "cod_ibge": "1100205"
+  },
+  {
+   "sistema": "Prefeitura",
+   "abrangencia": "municipal",
+   "municipio_sede": "Boa Vista",
+   "uf": "RR",
+   "municipio_atendido": "Boa Vista",
+   "cod_ibge": "1400100"
+  },
+  {
+   "sistema": "Prefeitura (Boa Vista Card)",
+   "abrangencia": "municipal",
+   "municipio_sede": "Boa Vista",
+   "uf": "RR",
+   "municipio_atendido": "Boa Vista",
+   "cod_ibge": "1400100"
+  },
+  {
+   "sistema": "Prefeitura",
+   "abrangencia": "municipal",
+   "municipio_sede": "Porto Alegre",
+   "uf": "RS",
+   "municipio_atendido": "Porto Alegre",
+   "cod_ibge": "4314902"
+  },
+  {
+   "sistema": "Prefeitura (TRI)",
+   "abrangencia": "municipal",
+   "municipio_sede": "Porto Alegre",
+   "uf": "RS",
+   "municipio_atendido": "Porto Alegre",
+   "cod_ibge": "4314902"
+  },
+  {
+   "sistema": "Prefeitura de Caxias do Sul; concessionária Visate (Viação Santa Tereza de Caxias do Sul Ltda.); cartão Caxias Urbano",
+   "abrangencia": "municipal",
+   "municipio_sede": "Caxias do Sul",
+   "uf": "RS",
+   "municipio_atendido": "Caxias do Sul",
+   "cod_ibge": "4305108"
+  },
+  {
+   "sistema": "TRI",
+   "abrangencia": "municipal",
+   "municipio_sede": "Porto Alegre",
+   "uf": "RS",
+   "municipio_atendido": "Porto Alegre",
+   "cod_ibge": "4314902"
+  },
+  {
+   "sistema": "Trensurb",
+   "abrangencia": "municipal",
+   "municipio_sede": "Porto Alegre",
+   "uf": "RS",
+   "municipio_atendido": "Porto Alegre",
+   "cod_ibge": "4314902"
+  },
+  {
+   "sistema": "Consórcio Fênix",
+   "abrangencia": "municipal",
+   "municipio_sede": "Florianópolis",
+   "uf": "SC",
+   "municipio_atendido": "Florianópolis",
+   "cod_ibge": "4205407"
+  },
+  {
+   "sistema": "Prefeitura de Blumenau (Secretaria Municipal de Trânsito e Transportes, SMTT); concessionária BluMob; regulação AGIR; cartão Passe Fácil",
+   "abrangencia": "municipal",
+   "municipio_sede": "Blumenau",
+   "uf": "SC",
+   "municipio_atendido": "Blumenau",
+   "cod_ibge": "4202404"
+  },
+  {
+   "sistema": "Prefeitura de Joinville; Cartão Ideal",
+   "abrangencia": "municipal",
+   "municipio_sede": "Joinville",
+   "uf": "SC",
+   "municipio_atendido": "Joinville",
+   "cod_ibge": "4209102"
+  },
+  {
+   "sistema": "SMTT (Grande Aracaju)",
+   "abrangencia": "municipal",
+   "municipio_sede": "Aracaju",
+   "uf": "SE",
+   "municipio_atendido": "Aracaju",
+   "cod_ibge": "2800308"
+  },
+  {
+   "sistema": "Bilhete Único",
+   "abrangencia": "municipal",
+   "municipio_sede": "São Paulo",
+   "uf": "SP",
+   "municipio_atendido": "São Paulo",
+   "cod_ibge": "3550308"
+  },
+  {
+   "sistema": "EMDEC (Empresa Municipal de Desenvolvimento de Campinas); bilhetagem pela Transurc; Bilhete Único",
+   "abrangencia": "municipal",
+   "municipio_sede": "Campinas",
+   "uf": "SP",
+   "municipio_atendido": "Campinas",
+   "cod_ibge": "3509502"
+  },
+  {
+   "sistema": "Metrô e CPTM",
+   "abrangencia": "municipal",
+   "municipio_sede": "São Paulo",
+   "uf": "SP",
+   "municipio_atendido": "São Paulo",
+   "cod_ibge": "3550308"
+  },
+  {
+   "sistema": "Prefeitura de Bauru / Emdurb; concessionárias do Sistema de Transporte Coletivo Urbano",
+   "abrangencia": "municipal",
+   "municipio_sede": "Bauru",
+   "uf": "SP",
+   "municipio_atendido": "Bauru",
+   "cod_ibge": "3506003"
+  },
+  {
+   "sistema": "Prefeitura de Carapicuíba (reajuste coordenado no Cioeste)",
+   "abrangencia": "municipal",
+   "municipio_sede": "Carapicuíba",
+   "uf": "SP",
+   "municipio_atendido": "Carapicuíba",
+   "cod_ibge": "3510609"
+  },
+  {
+   "sistema": "Prefeitura de Diadema; concessão Sou + Diadema (Suzantur); Cartão SOU + Diadema",
+   "abrangencia": "municipal",
+   "municipio_sede": "Diadema",
+   "uf": "SP",
+   "municipio_atendido": "Diadema",
+   "cod_ibge": "3513801"
+  },
+  {
+   "sistema": "Prefeitura de Guarulhos (SEMOB); bilhetagem pela Guarupass (associação das concessionárias); Bilhete Único Cidadão, Escolar e Vale-Transporte",
+   "abrangencia": "municipal",
+   "municipio_sede": "Guarulhos",
+   "uf": "SP",
+   "municipio_atendido": "Guarulhos",
+   "cod_ibge": "3518800"
+  },
+  {
+   "sistema": "Prefeitura de Itaquaquecetuba (COMUTRAN); concessionária do transporte coletivo urbano; bilhete eletrônico Viaja Fácil",
+   "abrangencia": "municipal",
+   "municipio_sede": "Itaquaquecetuba",
+   "uf": "SP",
+   "municipio_atendido": "Itaquaquecetuba",
+   "cod_ibge": "3523107"
+  },
+  {
+   "sistema": "Prefeitura de Jundiaí (Secretaria Municipal de Mobilidade e Transporte); SITU; concessionária Auto Ônibus Três Irmãos Ltda. (contrato emergencial); Cartão Bilhete Único",
+   "abrangencia": "municipal",
+   "municipio_sede": "Jundiaí",
+   "uf": "SP",
+   "municipio_atendido": "Jundiaí",
+   "cod_ibge": "3525904"
+  },
+  {
+   "sistema": "Prefeitura de Mauá (Secretaria de Mobilidade Urbana); operação Suzantur; Cartão SIM (BusFácil)",
+   "abrangencia": "municipal",
+   "municipio_sede": "Mauá",
+   "uf": "SP",
+   "municipio_atendido": "Mauá",
+   "cod_ibge": "3529401"
+  },
+  {
+   "sistema": "Prefeitura de Osasco (reajuste anunciado pelo CIOESTE); cartão BEM (Bilhete Eletrônico Municipal)",
+   "abrangencia": "municipal",
+   "municipio_sede": "Osasco",
+   "uf": "SP",
+   "municipio_atendido": "Osasco",
+   "cod_ibge": "3534401"
+  },
+  {
+   "sistema": "Prefeitura de Piracicaba (Secretaria de Segurança Pública, Trânsito e Transportes); operadora Pira Mobilidade (Rápido Sumaré Ltda.)",
+   "abrangencia": "municipal",
+   "municipio_sede": "Piracicaba",
+   "uf": "SP",
+   "municipio_atendido": "Piracicaba",
+   "cod_ibge": "3538709"
+  },
+  {
+   "sistema": "Prefeitura de Santos / CET-Santos; permissionária Viação Piracicabana",
+   "abrangencia": "municipal",
+   "municipio_sede": "Santos",
+   "uf": "SP",
+   "municipio_atendido": "Santos",
+   "cod_ibge": "3548500"
+  },
+  {
+   "sistema": "Prefeitura de São Bernardo do Campo; bilhetagem e cartões pelo Cartão Legal",
+   "abrangencia": "municipal",
+   "municipio_sede": "São Bernardo do Campo",
+   "uf": "SP",
+   "municipio_atendido": "São Bernardo do Campo",
+   "cod_ibge": "3548708"
+  },
+  {
+   "sistema": "Prefeitura de São José do Rio Preto (SMTT); Consórcio RioPretrans; Cartão Cidadão, Vale Transporte, Estudante e Idoso",
+   "abrangencia": "municipal",
+   "municipio_sede": "São José do Rio Preto",
+   "uf": "SP",
+   "municipio_atendido": "São José do Rio Preto",
+   "cod_ibge": "3549805"
+  },
+  {
+   "sistema": "Prefeitura de São José dos Campos (Secretaria de Mobilidade Urbana); Bilhete Único (cartões eletrônicos Comum, Vale-Transporte e Estudante); operadoras Expresso Maringá do Vale, Joseense e Saens Pena",
+   "abrangencia": "municipal",
+   "municipio_sede": "São José dos Campos",
+   "uf": "SP",
+   "municipio_atendido": "São José dos Campos",
+   "cod_ibge": "3549904"
+  },
+  {
+   "sistema": "Prefeitura de São Vicente; concessionária Sancetur (marca SOU São Vicente, ônibus amarelinhos); integração com o VLT pela BR Mobilidade (BR Card)",
+   "abrangencia": "municipal",
+   "municipio_sede": "São Vicente",
+   "uf": "SP",
+   "municipio_atendido": "São Vicente",
+   "cod_ibge": "3551009"
+  },
+  {
+   "sistema": "RP Mobi (Empresa de Mobilidade Urbana de Ribeirão Preto); Consórcio PróUrbano; Cartão NOSSO (Nosso + Mobilidade)",
+   "abrangencia": "municipal",
+   "municipio_sede": "Ribeirão Preto",
+   "uf": "SP",
+   "municipio_atendido": "Ribeirão Preto",
+   "cod_ibge": "3543402"
+  },
+  {
+   "sistema": "SA-Trans (Santo André Transportes); Bilhete Único Andreense; cartões pedidos à AESA",
+   "abrangencia": "municipal",
+   "municipio_sede": "Santo André",
+   "uf": "SP",
+   "municipio_atendido": "Santo André",
+   "cod_ibge": "3547809"
+  },
+  {
+   "sistema": "SPTrans (Bilhete Único)",
+   "abrangencia": "municipal",
+   "municipio_sede": "São Paulo",
+   "uf": "SP",
+   "municipio_atendido": "São Paulo",
+   "cod_ibge": "3550308"
+  },
+  {
+   "sistema": "Secretaria Municipal de Mobilidade e Trânsito; concessionárias Mogi Mob Transportes de Passageiros Ltda. e Princesa do Norte S/A",
+   "abrangencia": "municipal",
+   "municipio_sede": "Mogi das Cruzes",
+   "uf": "SP",
+   "municipio_atendido": "Mogi das Cruzes",
+   "cod_ibge": "3530607"
+  },
+  {
+   "sistema": "URBES Trânsito e Transportes; Cartão Cidadão (Passe Social), Passe Estudante e Vale-Transporte; operação City Transportes Urbano Global",
+   "abrangencia": "municipal",
+   "municipio_sede": "Sorocaba",
+   "uf": "SP",
+   "municipio_atendido": "Sorocaba",
+   "cod_ibge": "3552205"
+  },
+  {
+   "sistema": "Prefeitura (Sou)",
+   "abrangencia": "municipal",
+   "municipio_sede": "Palmas",
+   "uf": "TO",
+   "municipio_atendido": "Palmas",
+   "cod_ibge": "1721000"
+  }
+ ]
+}

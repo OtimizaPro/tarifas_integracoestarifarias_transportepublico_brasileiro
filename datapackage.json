@@ -1,0 +1,376 @@
+{
+  "name": "tarifas-transporte-publico-brasil",
+  "title": "Base Nacional de Tarifas do Transporte Público",
+  "version": "2026.10.17",
+  "homepage": "https://github.com/OtimizaPro/tarifas_integracoestarifarias_transportepublico_brasileiro",
+  "licenses": [
+    {
+      "name": "CC-BY-4.0",
+      "path": "https://creativecommons.org/licenses/by/4.0/",
+      "title": "Creative Commons Atribuição 4.0"
+    }
+  ],
+  "contributors": [
+    {
+      "title": "Otimiza.pro",
+      "path": "https://otimizapro.com",
+      "role": "publisher"
+    }
+  ],
+  "resources": [
+    {
+      "name": "tarifas",
+      "path": "dados/tarifas.csv",
+      "format": "csv",
+      "encoding": "utf-8",
+      "description": "Tarifas vigentes por município, modo, serviço, perfil e meio de pagamento",
+      "schema": {
+        "fields": [
+          {
+            "name": "uf",
+            "type": "string"
+          },
+          {
+            "name": "municipio",
+            "type": "string"
+          },
+          {
+            "name": "cod_ibge",
+            "type": "string"
+          },
+          {
+            "name": "sistema",
+            "type": "string"
+          },
+          {
+            "name": "modo",
+            "type": "string"
+          },
+          {
+            "name": "servico",
+            "type": "string"
+          },
+          {
+            "name": "perfil",
+            "type": "string"
+          },
+          {
+            "name": "meio_pagamento",
+            "type": "string"
+          },
+          {
+            "name": "valor_brl",
+            "type": "number"
+          },
+          {
+            "name": "vigencia_inicio",
+            "type": "string"
+          },
+          {
+            "name": "ato_oficial",
+            "type": "string"
+          },
+          {
+            "name": "fonte",
+            "type": "string"
+          },
+          {
+            "name": "fonte_url",
+            "type": "string"
+          },
+          {
+            "name": "fonte_tipo",
+            "type": "string"
+          },
+          {
+            "name": "confianca",
+            "type": "string"
+          },
+          {
+            "name": "verificado_em",
+            "type": "string"
+          },
+          {
+            "name": "observacao",
+            "type": "string"
+          }
+        ]
+      }
+    },
+    {
+      "name": "historico",
+      "path": "dados/historico.csv",
+      "format": "csv",
+      "encoding": "utf-8",
+      "description": "Valores anteriores, com início e fim de vigência (inclui a série oficial do SIMU, 2010 a 2021)",
+      "schema": {
+        "fields": [
+          {
+            "name": "uf",
+            "type": "string"
+          },
+          {
+            "name": "municipio",
+            "type": "string"
+          },
+          {
+            "name": "cod_ibge",
+            "type": "string"
+          },
+          {
+            "name": "modo",
+            "type": "string"
+          },
+          {
+            "name": "servico",
+            "type": "string"
+          },
+          {
+            "name": "perfil",
+            "type": "string"
+          },
+          {
+            "name": "valor_brl",
+            "type": "number"
+          },
+          {
+            "name": "vigencia_inicio",
+            "type": "string"
+          },
+          {
+            "name": "vigencia_fim",
+            "type": "string"
+          },
+          {
+            "name": "ato_oficial",
+            "type": "string"
+          },
+          {
+            "name": "fonte",
+            "type": "string"
+          },
+          {
+            "name": "fonte_url",
+            "type": "string"
+          },
+          {
+            "name": "observacao",
+            "type": "string"
+          }
+        ]
+      }
+    },
+    {
+      "name": "vale_transporte",
+      "path": "dados/vale_transporte.csv",
+      "format": "csv",
+      "encoding": "utf-8",
+      "description": "Regras de compra do vale-transporte pela empresa: cartão, emissora, canal, tarifa do VT, prazo, taxa, validade e limites",
+      "schema": {
+        "fields": [
+          {
+            "name": "uf",
+            "type": "string"
+          },
+          {
+            "name": "municipio",
+            "type": "string"
+          },
+          {
+            "name": "cod_ibge",
+            "type": "string"
+          },
+          {
+            "name": "cartao_vt",
+            "type": "string"
+          },
+          {
+            "name": "emissora",
+            "type": "string"
+          },
+          {
+            "name": "canal_compra_empresa",
+            "type": "string"
+          },
+          {
+            "name": "tarifa_vt_brl",
+            "type": "number"
+          },
+          {
+            "name": "tarifa_comum_brl",
+            "type": "number"
+          },
+          {
+            "name": "vt_diferente_da_comum",
+            "type": "string"
+          },
+          {
+            "name": "prazo_liberacao_credito",
+            "type": "string"
+          },
+          {
+            "name": "taxa_na_compra",
+            "type": "string"
+          },
+          {
+            "name": "validade_credito",
+            "type": "string"
+          },
+          {
+            "name": "limites",
+            "type": "string"
+          },
+          {
+            "name": "fonte_url",
+            "type": "string"
+          },
+          {
+            "name": "confianca",
+            "type": "string"
+          },
+          {
+            "name": "verificado_em",
+            "type": "string"
+          }
+        ]
+      }
+    },
+    {
+      "name": "integracoes",
+      "path": "dados/integracoes.csv",
+      "format": "csv",
+      "encoding": "utf-8",
+      "description": "Regras de integração: janela, embarques e quem tem direito",
+      "schema": {
+        "fields": [
+          {
+            "name": "uf",
+            "type": "string"
+          },
+          {
+            "name": "municipio",
+            "type": "string"
+          },
+          {
+            "name": "cod_ibge",
+            "type": "string"
+          },
+          {
+            "name": "regra",
+            "type": "string"
+          },
+          {
+            "name": "janela_min",
+            "type": "integer"
+          },
+          {
+            "name": "embarques",
+            "type": "string"
+          },
+          {
+            "name": "quem_tem_direito",
+            "type": "string"
+          },
+          {
+            "name": "fonte_url",
+            "type": "string"
+          },
+          {
+            "name": "confianca",
+            "type": "string"
+          },
+          {
+            "name": "verificado_em",
+            "type": "string"
+          }
+        ]
+      }
+    },
+    {
+      "name": "beneficios",
+      "path": "dados/beneficios.csv",
+      "format": "csv",
+      "encoding": "utf-8",
+      "description": "Gratuidades, tarifa zero e promoções tarifárias",
+      "schema": {
+        "fields": [
+          {
+            "name": "uf",
+            "type": "string"
+          },
+          {
+            "name": "municipio",
+            "type": "string"
+          },
+          {
+            "name": "cod_ibge",
+            "type": "string"
+          },
+          {
+            "name": "tipo",
+            "type": "string"
+          },
+          {
+            "name": "regra",
+            "type": "string"
+          },
+          {
+            "name": "desde",
+            "type": "string"
+          },
+          {
+            "name": "base_legal",
+            "type": "string"
+          },
+          {
+            "name": "fonte_url",
+            "type": "string"
+          },
+          {
+            "name": "confianca",
+            "type": "string"
+          },
+          {
+            "name": "verificado_em",
+            "type": "string"
+          }
+        ]
+      }
+    },
+    {
+      "name": "sistemas_municipios",
+      "path": "dados/sistemas_municipios.csv",
+      "format": "csv",
+      "encoding": "utf-8",
+      "description": "Municípios atendidos por cada sistema (ex.: sistemas metropolitanos)",
+      "schema": {
+        "fields": [
+          {
+            "name": "sistema",
+            "type": "string"
+          },
+          {
+            "name": "abrangencia",
+            "type": "string"
+          },
+          {
+            "name": "municipio_sede",
+            "type": "string"
+          },
+          {
+            "name": "uf",
+            "type": "string"
+          },
+          {
+            "name": "municipio_atendido",
+            "type": "string"
+          },
+          {
+            "name": "cod_ibge",
+            "type": "string"
+          }
+        ]
+      }
+    }
+  ]
+}

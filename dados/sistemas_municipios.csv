@@ -1,0 +1,98 @@
+sistema,abrangencia,municipio_sede,uf,municipio_atendido,cod_ibge
+RBTrans (COM Card),municipal,Rio Branco,AC,Rio Branco,1200401
+DMTT (Vamu),municipal,Maceió,AL,Maceió,2704302
+VLT CBTU Maceió,municipal,Maceió,AL,Maceió,2704302
+IMMU (Sinetram),municipal,Manaus,AM,Manaus,1302603
+CTMac,municipal,Macapá,AP,Macapá,1600303
+Metrô Bahia,municipal,Salvador,BA,Salvador,2927408
+"Prefeitura de Feira de Santana, Secretaria Municipal de Mobilidade Urbana (Semob) e Conselho Municipal de Transportes; bilhetagem e cartão Via Feira",municipal,Feira de Santana,BA,Feira de Santana,2910800
+Semob (Integra),municipal,Salvador,BA,Salvador,2927408
+Etufor (Bilhete Único),municipal,Fortaleza,CE,Fortaleza,2304400
+"Prefeitura de Caucaia, Secretaria do Patrimônio e Transporte (SPT); Programa Passe Livre (antigo Bora de Graça); concessionária Vitória",municipal,Caucaia,CE,Caucaia,2303709
+Metrô-DF,municipal,Brasília,DF,Brasília,5300108
+Semob-DF (BRB Mobilidade),municipal,Brasília,DF,Brasília,5300108
+Transcol (Grande Vitória),metropolitano,Vitória,ES,Cariacica,3201308
+Transcol (Grande Vitória),metropolitano,Vitória,ES,Serra,3205002
+Transcol (Grande Vitória),metropolitano,Vitória,ES,Vila Velha,3205200
+Transcol (Grande Vitória),metropolitano,Vitória,ES,Vitória,3205309
+Agência Reguladora do Município de Anápolis (ARM); concessionária Urban (contrato de 2015); cartão da Urban,municipal,Anápolis,GO,Anápolis,5201108
+CMTC (Rede Metropolitana),metropolitano,Goiânia,GO,Aparecida de Goiânia,5201405
+CMTC (Rede Metropolitana),metropolitano,Goiânia,GO,Goianira,5208806
+CMTC (Rede Metropolitana),metropolitano,Goiânia,GO,Goiânia,5208707
+CMTC (Rede Metropolitana),metropolitano,Goiânia,GO,Senador Canedo,5220454
+CMTC (Rede Metropolitana),metropolitano,Goiânia,GO,Trindade,5221403
+SMTT,municipal,São Luís,MA,São Luís,2111300
+Metrô BH,municipal,Belo Horizonte,MG,Belo Horizonte,3106200
+"Prefeitura de Betim, transporte coletivo municipal próprio (fora do sistema metropolitano); cartão Betim Card",municipal,Betim,MG,Betim,3106705
+Prefeitura de Juiz de Fora (SMU); operação por consórcios associados à Astransp; cartões Moov/Astransp; Bilhete Único JF,municipal,Juiz de Fora,MG,Juiz de Fora,3136702
+"Prefeitura de Montes Claros (MCTrans), concessão ao Consórcio MOCBUS (Alprino e Solaris); cartões SIM Card",municipal,Montes Claros,MG,Montes Claros,3143302
+SUMOB (BHBUS),municipal,Belo Horizonte,MG,Belo Horizonte,3106200
+"Settran (Secretaria Municipal de Trânsito e Transportes), Sistema Integrado de Transporte (SIT); bilhetagem e VT pela Ubertrans (cartão SIT)",municipal,Uberlândia,MG,Uberlândia,3170206
+TransCon (Autarquia Municipal de Trânsito e Transportes de Contagem); bilhetagem pelo Cartão Ótimo (Consórcio Ótimo); Sistema Integrado de Mobilidade (SIM) em implantação,municipal,Contagem,MG,Contagem,3118601
+Agereg (Consórcio Guaicurus),municipal,Campo Grande,MS,Campo Grande,5002704
+Semob Cuiabá,municipal,Cuiabá,MT,Cuiabá,5103403
+Secretaria Municipal de Transporte e Trânsito (SEMUTRAN) nas linhas municipais; cartão Passe Fácil (Setransbel) para estudante e sênior; BRT Metropolitano estadual com cartão PraJá,municipal,Ananindeua,PA,Ananindeua,1500800
+Segbel (Passe Fácil),municipal,Belém,PA,Belém,1501402
+Semob-JP (NuBus),municipal,João Pessoa,PB,João Pessoa,2507507
+"Superintendência de Trânsito e Transportes Públicos (STTP) e Conselho Municipal de Transportes Públicos (COMUTP); bilhetagem NuBus, gerida pelo SITRANS (consórcios Santa Maria e Santa Verônica)",municipal,Campina Grande,PB,Campina Grande,2504009
+Trem CBTU João Pessoa,municipal,João Pessoa,PB,João Pessoa,2507507
+Autarquia de Mobilidade de Caruaru (AMC) e Conselho Municipal de Trânsito e Transporte (COMUT); Sistema de Transporte Público de Passageiros (STPP/Caruaru); cartão LEVA,municipal,Caruaru,PE,Caruaru,2604106
+Grande Recife Consórcio (VEM),metropolitano,Recife,PE,Cabo de Santo Agostinho,2602902
+Grande Recife Consórcio (VEM),metropolitano,Recife,PE,Camaragibe,2603454
+Grande Recife Consórcio (VEM),metropolitano,Recife,PE,Jaboatão dos Guararapes,2607901
+Grande Recife Consórcio (VEM),metropolitano,Recife,PE,Olinda,2609600
+Grande Recife Consórcio (VEM),metropolitano,Recife,PE,Paulista,2610707
+Grande Recife Consórcio (VEM),metropolitano,Recife,PE,Recife,2611606
+Metrô do Recife (CBTU),municipal,Recife,PE,Recife,2611606
+Metrô de Teresina,municipal,Teresina,PI,Teresina,2211001
+Strans (Inthegra),municipal,Teresina,PI,Teresina,2211001
+CMTU (Companhia Municipal de Trânsito e Urbanização); concessionárias Londrisul e TCGL,municipal,Londrina,PR,Londrina,4113700
+Prefeitura de Maringá; concessionária TCCC; cartão Passe Fácil,municipal,Maringá,PR,Maringá,4115200
+URBS (RIT),municipal,Curitiba,PR,Curitiba,4106902
+Bilhete Único Intermunicipal,municipal,Rio de Janeiro,RJ,Rio de Janeiro,3304557
+IMTT (Instituto Municipal de Trânsito e Transporte): transporte coletivo convencional por ônibus e Transporte Coletivo Alimentador por vans e micro-ônibus,municipal,Campos dos Goytacazes,RJ,Campos dos Goytacazes,3301009
+MetrôRio,municipal,Rio de Janeiro,RJ,Rio de Janeiro,3304557
+"Prefeitura de Duque de Caxias (Secretaria de Transportes e Serviços Públicos), linhas municipais de concessionárias (Auto Ônibus Vera Cruz, Viação Reginas, Transporte e Turismo Machado, Transturismo Rei e outras) e programa municipal Tarifa Zero; cartão Riocard Mais",municipal,Duque de Caxias,RJ,Duque de Caxias,3301702
+"Prefeitura de Niterói (Secretaria de Mobilidade e Infraestrutura; Suten), Bilhete Único de Niterói no cartão Riocard Mais",municipal,Niterói,RJ,Niterói,3303302
+"Prefeitura de Nova Iguaçu (SEMTMU), contratos de concessão 072-A/CPL/2015 e 072-B/CPL/2015; cartão Riocard Mais",municipal,Nova Iguaçu,RJ,Nova Iguaçu,3303500
+"Prefeitura de São Gonçalo (Secretaria Municipal de Meio Ambiente e Transportes), Contrato de Concessão nº 01/SEMTRAN/2012; cartão Riocard Mais",municipal,São Gonçalo,RJ,São Gonçalo,3304904
+SMTR (Jaé),municipal,Rio de Janeiro,RJ,Rio de Janeiro,3304557
+"Sem sistema municipal pago localizado: o transporte local roda em linhas intermunicipais do Detro-RJ (Semove), e há linhas municipais gratuitas do Tarifa Zero; cartão Riocard Mais",municipal,Belford Roxo,RJ,Belford Roxo,3300456
+SuperVia,municipal,Rio de Janeiro,RJ,Rio de Janeiro,3304557
+STTU (NuBus),municipal,Natal,RN,Natal,2408102
+VLT CBTU Natal,municipal,Natal,RN,Natal,2408102
+Semtran (COM Card),municipal,Porto Velho,RO,Porto Velho,1100205
+Prefeitura,municipal,Boa Vista,RR,Boa Vista,1400100
+Prefeitura (Boa Vista Card),municipal,Boa Vista,RR,Boa Vista,1400100
+Prefeitura,municipal,Porto Alegre,RS,Porto Alegre,4314902
+Prefeitura (TRI),municipal,Porto Alegre,RS,Porto Alegre,4314902
+Prefeitura de Caxias do Sul; concessionária Visate (Viação Santa Tereza de Caxias do Sul Ltda.); cartão Caxias Urbano,municipal,Caxias do Sul,RS,Caxias do Sul,4305108
+TRI,municipal,Porto Alegre,RS,Porto Alegre,4314902
+Trensurb,municipal,Porto Alegre,RS,Porto Alegre,4314902
+Consórcio Fênix,municipal,Florianópolis,SC,Florianópolis,4205407
+"Prefeitura de Blumenau (Secretaria Municipal de Trânsito e Transportes, SMTT); concessionária BluMob; regulação AGIR; cartão Passe Fácil",municipal,Blumenau,SC,Blumenau,4202404
+Prefeitura de Joinville; Cartão Ideal,municipal,Joinville,SC,Joinville,4209102
+SMTT (Grande Aracaju),municipal,Aracaju,SE,Aracaju,2800308
+Bilhete Único,municipal,São Paulo,SP,São Paulo,3550308
+EMDEC (Empresa Municipal de Desenvolvimento de Campinas); bilhetagem pela Transurc; Bilhete Único,municipal,Campinas,SP,Campinas,3509502
+Metrô e CPTM,municipal,São Paulo,SP,São Paulo,3550308
+Prefeitura de Bauru / Emdurb; concessionárias do Sistema de Transporte Coletivo Urbano,municipal,Bauru,SP,Bauru,3506003
+Prefeitura de Carapicuíba (reajuste coordenado no Cioeste),municipal,Carapicuíba,SP,Carapicuíba,3510609
+Prefeitura de Diadema; concessão Sou + Diadema (Suzantur); Cartão SOU + Diadema,municipal,Diadema,SP,Diadema,3513801
+"Prefeitura de Guarulhos (SEMOB); bilhetagem pela Guarupass (associação das concessionárias); Bilhete Único Cidadão, Escolar e Vale-Transporte",municipal,Guarulhos,SP,Guarulhos,3518800
+Prefeitura de Itaquaquecetuba (COMUTRAN); concessionária do transporte coletivo urbano; bilhete eletrônico Viaja Fácil,municipal,Itaquaquecetuba,SP,Itaquaquecetuba,3523107
+Prefeitura de Jundiaí (Secretaria Municipal de Mobilidade e Transporte); SITU; concessionária Auto Ônibus Três Irmãos Ltda. (contrato emergencial); Cartão Bilhete Único,municipal,Jundiaí,SP,Jundiaí,3525904
+Prefeitura de Mauá (Secretaria de Mobilidade Urbana); operação Suzantur; Cartão SIM (BusFácil),municipal,Mauá,SP,Mauá,3529401
+Prefeitura de Osasco (reajuste anunciado pelo CIOESTE); cartão BEM (Bilhete Eletrônico Municipal),municipal,Osasco,SP,Osasco,3534401
+"Prefeitura de Piracicaba (Secretaria de Segurança Pública, Trânsito e Transportes); operadora Pira Mobilidade (Rápido Sumaré Ltda.)",municipal,Piracicaba,SP,Piracicaba,3538709
+Prefeitura de Santos / CET-Santos; permissionária Viação Piracicabana,municipal,Santos,SP,Santos,3548500
+Prefeitura de São Bernardo do Campo; bilhetagem e cartões pelo Cartão Legal,municipal,São Bernardo do Campo,SP,São Bernardo do Campo,3548708
+"Prefeitura de São José do Rio Preto (SMTT); Consórcio RioPretrans; Cartão Cidadão, Vale Transporte, Estudante e Idoso",municipal,São José do Rio Preto,SP,São José do Rio Preto,3549805
+"Prefeitura de São José dos Campos (Secretaria de Mobilidade Urbana); Bilhete Único (cartões eletrônicos Comum, Vale-Transporte e Estudante); operadoras Expresso Maringá do Vale, Joseense e Saens Pena",municipal,São José dos Campos,SP,São José dos Campos,3549904
+"Prefeitura de São Vicente; concessionária Sancetur (marca SOU São Vicente, ônibus amarelinhos); integração com o VLT pela BR Mobilidade (BR Card)",municipal,São Vicente,SP,São Vicente,3551009
+RP Mobi (Empresa de Mobilidade Urbana de Ribeirão Preto); Consórcio PróUrbano; Cartão NOSSO (Nosso + Mobilidade),municipal,Ribeirão Preto,SP,Ribeirão Preto,3543402
+SA-Trans (Santo André Transportes); Bilhete Único Andreense; cartões pedidos à AESA,municipal,Santo André,SP,Santo André,3547809
+SPTrans (Bilhete Único),municipal,São Paulo,SP,São Paulo,3550308
+Secretaria Municipal de Mobilidade e Trânsito; concessionárias Mogi Mob Transportes de Passageiros Ltda. e Princesa do Norte S/A,municipal,Mogi das Cruzes,SP,Mogi das Cruzes,3530607
+"URBES Trânsito e Transportes; Cartão Cidadão (Passe Social), Passe Estudante e Vale-Transporte; operação City Transportes Urbano Global",municipal,Sorocaba,SP,Sorocaba,3552205
+Prefeitura (Sou),municipal,Palmas,TO,Palmas,1721000
