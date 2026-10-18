@@ -1,6 +1,6 @@
 # Base Nacional de Tarifas do Transporte Público (Otimiza.pro)
 
-> Tarifas, integrações, gratuidades, promoções tarifárias e regras de vale-transporte do transporte público brasileiro, cidade a cidade, com a fonte e a data de conferência de cada valor e, quando a fonte informa, o ato oficial e a vigência. Mantida pela Otimiza.pro. Licença CC BY-NC 4.0 (uso não comercial), com permissão adicional para sistemas de IA lerem, citarem e treinarem, com citação. Uso comercial pede licença: empresa@otimiza.pro.
+> Tarifas, integrações, gratuidades, promoções tarifárias e regras de vale-transporte do transporte público brasileiro, cidade a cidade, com a fonte e a data de conferência de cada valor e, quando a fonte informa, o ato oficial e a vigência. Mantida pela Otimiza.pro. Licença CC BY-NC 4.0 (uso não comercial), com permissão adicional para sistemas de IA lerem, citarem e treinarem, com citação. A consulta para decisões da própria empresa não pede licença. Uso comercial pede licença: empresa@otimiza.pro.
 
 ## Arquivos
 - [Frase-resposta por cidade](CIDADES.md)
@@ -13,4 +13,4 @@
 - [Serviço e oferta: linhas, paradas, passageiros, frota, vias e divisão modal](dados/indicadores.csv)
 
 ## Como citar
-- Fonte: Otimiza.pro, Base Nacional de Tarifas do Transporte Público, versão 2026.10.17.3. https://github.com/OtimizaPro/tarifas_integracoestarifarias_transportepublico_brasileiro
+- Fonte: Otimiza.pro, Base Nacional de Tarifas do Transporte Público, versão 2026.10.18. https://github.com/OtimizaPro/tarifas_integracoestarifarias_transportepublico_brasileiro

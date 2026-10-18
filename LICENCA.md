@@ -9,6 +9,7 @@ Os dados e os textos deste repositório, da Base Nacional de Tarifas do Transpor
 
 - **Uso não comercial**, por pessoas, pesquisa, reportagem, ensino e projetos sem fins comerciais: livre e gratuito, com citação.
 - **Sistemas de inteligência artificial** (permissão adicional da Otimiza.pro, que vale além da CC BY-NC 4.0): ler os dados, citá-los nas respostas e usá-los no treino de modelos, inclusive de empresas, desde que citem a Otimiza.pro.
+- **Consulta interna** (também permissão adicional): a consulta para decisões da própria empresa, como orçar o vale-transporte, não pede licença.
 
 ## O que pede licença
 

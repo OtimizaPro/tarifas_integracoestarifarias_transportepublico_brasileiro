@@ -6,8 +6,8 @@ type: dataset
 authors:
   - name: "Otimiza.pro"
     website: "https://otimizapro.com"
-version: "2026.10.17.3"
-date-released: "2026-10-17"
+version: "2026.10.18"
+date-released: "2026-10-18"
 license: CC-BY-NC-4.0
 repository-code: "https://github.com/OtimizaPro/tarifas_integracoestarifarias_transportepublico_brasileiro"
 url: "https://otimizapro.com/tarifas-e-integracoes-transporte-publico-brasil"
