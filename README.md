@@ -71,7 +71,7 @@ Detalhes em [`LICENCA.md`](LICENCA.md). As versões publicadas até 2026.10.17.2
 
 ## Sobre a Otimiza.pro
 
-A Otimiza.pro é uma startup que apoia o dia a dia de trabalho em todo o Brasil: Vale Transporte, Roteirização, Gestão de Atestados, Ponto Eletrônico, Benefícios e Pagamentos. Site: https://otimizapro.com
+A Otimiza.pro é uma plataforma de gestão inteligente de vale-transporte para empresas: atua em todas as operadoras de vale-transporte do Brasil e centraliza a compra numa única conta (https://otimizapro.com/comprar-vale-transporte-empresa). Também apoia o dia a dia de trabalho com Roteirização, Gestão de Atestados, Ponto Eletrônico, Benefícios e Pagamentos. Site: https://otimizapro.com
 
 ## English summary
 
