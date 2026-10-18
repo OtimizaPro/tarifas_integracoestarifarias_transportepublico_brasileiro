@@ -1,6 +1,6 @@
 {
  "nome": "Base Nacional de Tarifas do Transporte Público: integracoes",
- "versao": "2026.10.18",
+ "versao": "2026.10.18.2",
  "licenca": {
   "nome": "CC BY-NC 4.0",
   "url": "https://creativecommons.org/licenses/by-nc/4.0/deed.pt-br",
@@ -8,8 +8,20 @@
   "uso_interno": "A consulta para decisões da própria empresa, como orçar o vale-transporte, não pede licença.",
   "uso_comercial": "Uso comercial por empresas (em produto, revenda ou integração em sistema ou serviço pago) pede licença da Otimiza.pro: empresa@otimiza.pro."
  },
- "citar_como": "Fonte: Otimiza.pro, Base Nacional de Tarifas do Transporte Público, versão 2026.10.18. https://github.com/OtimizaPro/tarifas_integracoestarifarias_transportepublico_brasileiro",
+ "citar_como": "Fonte: Otimiza.pro, Base Nacional de Tarifas do Transporte Público, versão 2026.10.18.2. https://github.com/OtimizaPro/tarifas_integracoestarifarias_transportepublico_brasileiro",
  "linhas": [
+  {
+   "uf": "AC",
+   "municipio": "Rio Branco",
+   "cod_ibge": "1200401",
+   "regra": "Sistema Integrado de Transporte Urbano (SITURB): o Portal do Transporte da prefeitura define a integração como o uso de mais de um ônibus pagando uma só passagem, com o cartão de bilhetagem, e lista o Terminal Central (Urbano), no Centro, e cinco terminais de integração (Baixada, Tucumã/Universitário, Adalberto Sena, Cidade do Povo e São Francisco); a página oficial do Terminal Urbano, atualizada em 17/07/2025, diz que ele permite a transferência entre as linhas. Tempo de integração e número de embarques não são publicados. As páginas do Portal do Transporte trazem dados de 2016 a 2020 e a regra não foi reconfirmada depois da troca de operadora em 02/10/2026; a LC nº 356/2025, novo marco do transporte coletivo, deixa tarifas integradas para regulamento da RBTrans.",
+   "janela_min": null,
+   "embarques": "não publicado",
+   "quem_tem_direito": "usuários com cartão de bilhetagem; o Portal do Transporte cita o 'Passe Fácil', cartão para quem usa uma só passagem e quer fazer integração",
+   "fonte_url": "http://transportes.riobranco.ac.gov.br/tarifa.html",
+   "confianca": "B",
+   "verificado_em": "2026-10-18"
+  },
   {
    "uf": "AL",
    "municipio": "Maceió",
@@ -33,6 +45,18 @@
    "fonte_url": "https://site.riolargo.al.gov.br/noticias/bora-de-busao-rio-largo-recebe-nova-linha-de-onibus-com-a-tarifa-municipal-mais-barata-do-brasil-por-r1",
    "confianca": "B",
    "verificado_em": "2026-10-17"
+  },
+  {
+   "uf": "AM",
+   "municipio": "Manaus",
+   "cod_ibge": "1302603",
+   "regra": "Integração físico-tarifária nos terminais fechados desde 14/12/2002 (troca de ônibus sem nova passagem dentro dos terminais; as Estações de Transferência têm a mesma função) e integração temporal desde nov/2006: com o cartão PassaFácil, o passageiro troca de ônibus fora do terminal sem pagar nova passagem se passar na catraca do ônibus seguinte em até 2 horas a partir do primeiro ônibus, entre linhas e sentidos permitidos pela matriz de integração (modelo descrito como de tempo variável e renovável). Não vale na mesma linha, nem para continuar nem para voltar, nem em linha que vá para o terminal de bairro da primeira linha pelo mesmo corredor; linhas circulares não integram entre si, mas integram com as demais; linhas sobrepostas com o mesmo destino só integram no mesmo sentido; nas linhas alimentadoras (026 a 096 e as com a sigla 'A'), a integração é só dentro dos terminais T1, T3, T4 e T5. Quem paga em dinheiro não tem integração. Detalhes das alimentadoras, linhas sobrepostas e estações de transferência na página Serviços do Sinetram (https://www.sinetram.com.br/p/servicos).",
+   "janela_min": 120,
+   "embarques": "sem número fixo publicado; cada troca precisa ser entre linhas integradas na matriz e dentro de 2 horas a partir do primeiro ônibus",
+   "quem_tem_direito": "usuários com cartão PassaFácil com saldo (vale-transporte, estudante e cidadão ou comum); o estudante paga meia passagem no primeiro ônibus",
+   "fonte_url": "https://immu.manaus.am.gov.br/index.php?r=site/integracao",
+   "confianca": "B",
+   "verificado_em": "2026-10-18"
   },
   {
    "uf": "BA",
@@ -93,6 +117,18 @@
    "fonte_url": "https://www.bilheteunicometropolitano.ce.gov.br/rmc.html",
    "confianca": "B",
    "verificado_em": "2026-10-17"
+  },
+  {
+   "uf": "CE",
+   "municipio": "Fortaleza",
+   "cod_ibge": "2304400",
+   "regra": "Bilhete Único Fortaleza: quantas viagens de ônibus municipal forem precisas em até 2 horas, pagando uma passagem, com troca de ônibus também fora dos terminais. Não há integração tarifária do ônibus municipal com o metrô (Linha Sul), a Linha Oeste ou o VLT: o Metrofor usa cartões próprios (Múltiplo e Estudante) e cobra tarifa à parte, e a Linha Oeste não tem bilhetagem eletrônica (páginas Cartões e Tarifas do Metrofor; o Diário do Nordeste de 11/02/2026 confirma que a integração ainda não ocorre). A integração tarifária está em estudo: termo de cooperação entre Prefeitura, Governo do Ceará e BNDES assinado em 23/04/2026, com prazo de 36 meses, segundo a imprensa.",
+   "janela_min": 120,
+   "embarques": "ilimitados no ônibus municipal dentro da janela",
+   "quem_tem_direito": "usuários do cartão eletrônico do sistema (Bilhete Único); estudantes com carteira válida também têm a janela de 2 horas, confirmada em página oficial de 01/06/2026; as fontes não detalham o VT",
+   "fonte_url": "https://www.fortaleza.ce.gov.br/noticias/integracao-com-bilhete-unico-aumenta-3-15-entre-2024-e-2025-chegando-a-1-7-milhao-por-mes",
+   "confianca": "B",
+   "verificado_em": "2026-10-18"
   },
   {
    "uf": "CE",
@@ -182,13 +218,25 @@
    "uf": "MA",
    "municipio": "São Luís",
    "cod_ibge": "2111300",
-   "regra": "Bilhete Único (desde 14/12/2015): viagens ilimitadas em 1h30 pagando uma passagem, no mesmo sentido, com troca em qualquer parada (sem precisar ir ao terminal); só com cartão e só nas linhas urbanas integradas de São Luís. Regra de 2015, não confirmada para 2026.",
-   "janela_min": 90,
-   "embarques": "ilimitados dentro da janela, no mesmo sentido",
-   "quem_tem_direito": "portadores de cartão de transporte; não vale para pagamento em dinheiro nem para os municípios da Grande Ilha",
-   "fonte_url": "https://oimparcial.com.br/cidades/2015/12/bilhete-unico-entra-em-vigor-na-proxima-semana/",
+   "regra": "Bilhete Único: com o cartão de transporte ou a carteira de estudante, o passageiro tem até 2 horas para trocar de ônibus pagando uma única passagem, desde que siga no mesmo sentido da viagem, com troca em qualquer ponto de parada; no sentido contrário, pode embarcar em qualquer ônibus em até 1 hora contada da validação do cartão. Vale só nas linhas integradas (R$ 4,20); ficam fora as linhas não integradas (R$ 3,70), as intermunicipais (Raposa, Paço do Lumiar, Ribamar) e a linha BR 135.",
+   "janela_min": 120,
+   "embarques": "ilimitados dentro da janela, no mesmo sentido; no sentido contrário, um embarque em até 1 hora",
+   "quem_tem_direito": "portadores de cartão de transporte tradicional ou de carteira de estudante; a página não cita o VT nem o pagamento em dinheiro",
+   "fonte_url": "https://www.saoluis.ma.gov.br/bilhete-unico",
    "confianca": "B",
-   "verificado_em": "2026-10-17"
+   "verificado_em": "2026-10-18"
+  },
+  {
+   "uf": "MG",
+   "municipio": "Belo Horizonte",
+   "cod_ibge": "3106200",
+   "regra": "Com o Cartão BHBUS, integração tarifária em até 90 minutos (1h30): na segunda viagem paga-se a metade da tarifa mais barata. Nas estações de integração e de transferência do sistema convencional e do MOVE a troca é física e se paga uma tarifa só, com complemento zero entre linhas de mesma tarifa. Todas as linhas municipais, inclusive as do MOVE, integram com o metrô; a tabela de integração da SUMOB (vigência de 01/01/2026, página atualizada em 01/07/2026) traz tarifa integrada de R$ 9,35 entre alimentadoras do metrô e metrô, de R$ 10,60 entre estruturais e metrô fora das estações e de R$ 10,05 entre circulares e metrô fora das estações. Não há integração tarifária no Suplementar, entre circulares nem entre troncais e estruturais da mesma bacia; o desconto no terceiro embarque (integração sequenciada) vale só no sistema tronco-alimentador. Aos domingos e feriados, com o Catraca Livre, não há integração tarifária com o metrô.",
+   "janela_min": 90,
+   "embarques": "2 (desconto na segunda viagem); terceiro embarque com desconto só no sistema tronco-alimentador",
+   "quem_tem_direito": "usuários do Cartão BHBUS, nas modalidades cliente e vale-transporte",
+   "fonte_url": "https://prefeitura.pbh.gov.br/sumob/onibus/tipos-de-linha-e-servicos",
+   "confianca": "B",
+   "verificado_em": "2026-10-18"
   },
   {
    "uf": "MG",
@@ -242,13 +290,13 @@
    "uf": "MT",
    "municipio": "Cuiabá",
    "cod_ibge": "5103403",
-   "regra": "Integração tarifária entre linhas municipais pela matriz de integração da Semob: paga a tarifa na 1ª linha e passa a roleta da 2ª em até 120 minutos; não vale reutilizar a mesma linha nem integrar em sentidos opostos. Desde 01/05/2026 o Cuiabá Card (assinatura de valor fixo, calculado em 2 passagens por dia em 26 dias) dá uso ilimitado, sem limite de integrações.",
+   "regra": "Integração tarifária entre linhas municipais de ônibus, conforme a matriz de integração da Semob: paga-se a tarifa do perfil do usuário na primeira linha e passa-se a roleta da segunda linha em até 120 minutos (a depender da matriz), contados da passagem pela roleta na primeira linha. Vale entre linhas da mesma empresa ou de empresas diferentes; não vale na mesma linha, em qualquer sentido, nem em linhas de sentidos opostos que permitam voltar à origem; serve só para completar o deslocamento a um destino final único; a linha alimentadora conta como primeira viagem. Expirado o tempo ou o limite de integrações, o cartão desconta nova tarifa. Base: Decreto nº 10.053, de 16/02/2024, na p. 2 da Gazeta Municipal nº 807, de 19/02/2024 (o arquivo do link leva o nome do Decreto nº 10.054, de IPTU, publicado na mesma página). Desde 01/05/2026, quem assina o Cuiabá Card tem uso ilimitado das linhas municipais, sem restrição de viagens (prefeitura, 30/04/2026).",
    "janela_min": 120,
-   "embarques": "quantidade definida na matriz de integração da Semob",
-   "quem_tem_direito": "usuários com cartão de bilhetagem eletrônica (Cartão Integração ou Cartão ao Portador)",
-   "fonte_url": "https://portalfazenda.cuiaba.mt.gov.br/portalfazenda/PortalContribuinte/IPTU/..\\..\\Assets\\Documentos\\DecretosPortarias\\45 DP - Decreto nº 10.054 de 16 de fevereiro de 2024.pdf",
+   "embarques": "quantidade de integrações fixada na matriz da Semob, que não é publicada; a consulta de integrações da MTU tem campos para primeira e segunda integração, com tempo por linha",
+   "quem_tem_direito": "usuários do ônibus municipal que pagam com cartão de bilhetagem eletrônica (categorias Cartão Integração e Cartão ao Portador)",
+   "fonte_url": "https://portalfazenda.cuiaba.mt.gov.br/portalfazenda/Assets/Documentos/DecretosPortarias/45%20DP%20-%20Decreto%20n%C2%BA%2010.054%20de%2016%20de%20fevereiro%20de%202024.pdf",
    "confianca": "B",
-   "verificado_em": "2026-10-17"
+   "verificado_em": "2026-10-18"
   },
   {
    "uf": "MT",
@@ -338,13 +386,13 @@
    "uf": "PI",
    "municipio": "Teresina",
    "cod_ibge": "2211001",
-   "regra": "Inthegra: duas ou mais linhas no mesmo sentido pagando uma tarifa. Alimentadora com troncal ou interterminal da mesma zona, dentro dos terminais; linhas de zonas diferentes integram também fora dos terminais (só com cartão eletrônico), salvo exceções. Acesso à plataforma dos terminais é pago.",
+   "regra": "Inthegra: duas ou mais linhas no mesmo sentido pagando uma só tarifa, em até 2 horas entre o primeiro e o último embarque. Na mesma zona, alimentadora integra com troncal ou interterminal dentro dos terminais de integração; linhas de zonas diferentes integram também fora dos terminais, salvo exceções, e aí é preciso cartão de bilhetagem eletrônica. As linhas 401 (Universidade) e 102 (Poty Velho/Frei Serafim) integram com linhas da mesma zona. O acesso à plataforma dos terminais é pago na catraca.",
    "janela_min": 120,
    "embarques": "duas ou mais linhas, conforme as combinações permitidas",
-   "quem_tem_direito": "usuários do sistema; fora dos terminais, só com cartão de bilhete eletrônico",
+   "quem_tem_direito": "usuários do sistema; fora dos terminais, só com cartão de bilhetagem eletrônica (Mais Fácil); portadores de gratuidade passam na catraca com o cartão",
    "fonte_url": "https://setut.com.br/faq-2",
    "confianca": "B",
-   "verificado_em": "2026-10-17"
+   "verificado_em": "2026-10-18"
   },
   {
    "uf": "PR",
@@ -491,6 +539,18 @@
    "verificado_em": "2026-10-17"
   },
   {
+   "uf": "RR",
+   "municipio": "Boa Vista",
+   "cod_ibge": "1400100",
+   "regra": "Integração entre bairros com o cartão: quem usa o Boa Vista Card tem direito a usar o ônibus mais uma vez dentro de duas horas. A prefeitura descreve a regra em notícia de 16/04/2026 sobre o Passe Livre Estudantil ('os estudantes também contam com a integração entre bairros'), sem detalhar linhas, sentidos ou tipos de cartão.",
+   "janela_min": 120,
+   "embarques": "2 (a viagem paga e mais uma dentro de duas horas)",
+   "quem_tem_direito": "quem usa o cartão (Boa Vista Card); a notícia trata dos estudantes do Passe Livre",
+   "fonte_url": "https://boavista.rr.gov.br/noticias/2026/4/mais-de-10-mil-alunos-sao-beneficiados-com-o-passe-livre-estudantil-da-prefeitura-de-boa-vista",
+   "confianca": "B",
+   "verificado_em": "2026-10-18"
+  },
+  {
    "uf": "RS",
    "municipio": "Alvorada",
    "cod_ibge": "4300604",
@@ -549,6 +609,18 @@
    "fonte_url": "https://diariomunicipal.sc.gov.br/atos/8057870",
    "confianca": "B",
    "verificado_em": "2026-10-17"
+  },
+  {
+   "uf": "SC",
+   "municipio": "Florianópolis",
+   "cod_ibge": "4205407",
+   "regra": "Com cartão de transporte, integrações sem limite de quantidade em até 180 minutos após o primeiro registro do cartão no período, nos terminais de integração (área segregada) ou em qualquer ponto de parada, pela catraca eletrônica; dentro do terminal, o transbordo é livre enquanto o passageiro não passa pela barreira de controle tarifário. Na integração entre linha social e linha distrital ou urbana há complemento, que em 2026 é de R$ 2,35 no Cartão Cidadão, R$ 2,60 no Vale-Transporte e no Turista e R$ 1,18 no estudante. Base: Decreto nº 1.968/2003, alterado pelo Decreto nº 23.496, de 24/01/2022 (texto lido na reprodução do LegisWeb; a publicação no Diário Oficial do Município não foi aberta), citados como política de integração vigente nos Decretos nº 27.313/2024 e nº 28.860/2025; complementos no anexo do Decreto nº 28.860/2025.",
+   "janela_min": 180,
+   "embarques": "sem limite de quantidade dentro dos 180 minutos",
+   "quem_tem_direito": "quem paga com cartão de transporte da bilhetagem eletrônica (Passe Rápido); se o pagamento por QR Code ou Pix dá direito à integração não foi encontrado",
+   "fonte_url": "https://www.legisweb.com.br/legislacao/?id=426705",
+   "confianca": "B",
+   "verificado_em": "2026-10-18"
   },
   {
    "uf": "SC",

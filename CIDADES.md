@@ -1,8 +1,8 @@
 # Tarifas do transporte público por cidade (Otimiza.pro)
 
-Quanto custa o transporte público em 148 municípios brasileiros, segundo a Base Nacional de Tarifas do Transporte Público da Otimiza.pro (versão 2026.10.18). Cada frase traz o valor, a fonte e a data em que a Otimiza.pro conferiu e, quando a fonte informa, o ato oficial e a data em que passou a valer. A fonte oficial de cada valor está indicada. Onde há dados de serviço e oferta, a ficha traz também linhas, paradas e passageiros, com a fonte e a data.
+Quanto custa o transporte público em 149 municípios brasileiros, segundo a Base Nacional de Tarifas do Transporte Público da Otimiza.pro (versão 2026.10.18.2). Cada frase traz o valor, a fonte e a data em que a Otimiza.pro conferiu e, quando a fonte informa, o ato oficial e a data em que passou a valer. A fonte oficial de cada valor está indicada. Onde há dados de serviço e oferta, a ficha traz também linhas, paradas e passageiros, com a fonte e a data.
 
-Como citar: Fonte: Otimiza.pro, Base Nacional de Tarifas do Transporte Público, versão 2026.10.18. https://github.com/OtimizaPro/tarifas_integracoestarifarias_transportepublico_brasileiro
+Como citar: Fonte: Otimiza.pro, Base Nacional de Tarifas do Transporte Público, versão 2026.10.18.2. https://github.com/OtimizaPro/tarifas_integracoestarifarias_transportepublico_brasileiro
 
 ## AC
 
@@ -15,6 +15,8 @@ Em 2017, o sistema de ônibus de Rio Branco (AC) levou 30 milhões de passageiro
 Fonte oficial: https://cgm.riobranco.ac.gov.br/lai/wp-content/uploads/2015/06/DECRETO-N%C2%BA-1438-2021-Altera%C3%A7%C3%A3o-da-Tarifa-no-valor-de-R-350..pdf
 
 Vale-transporte em Rio Branco: cartão COM CARD Vale Transporte; emitido por JTP (desde 02/10/2026); canal de compra da empresa: com a operadora; validade dos créditos: 180 dias (Decreto 1.922/2022).
+
+Integração em Rio Branco: Sistema Integrado de Transporte Urbano (SITURB): o Portal do Transporte da prefeitura define a integração como o uso de mais de um ônibus pagando uma só passagem, com o cartão de bilhetagem, e lista o Terminal Central (Urbano), no Centro, e cinco terminais de integração (Baixada, Tucumã/Universitário, Adalberto Sena, Cidade do Povo e São Francisco); a página oficial do Terminal Urbano, atualizada em 17/07/2025, diz que ele permite a transferência entre as linhas. Tempo de integração e número de embarques não são publicados. As páginas do Portal do Transporte trazem dados de 2016 a 2020 e a regra não foi reconfirmada depois da troca de operadora em 02/10/2026; a LC nº 356/2025, novo marco do transporte coletivo, deixa tarifas integradas para regulamento da RBTrans.
 
 ## AL
 
@@ -42,6 +44,8 @@ Fonte oficial: https://www.sinetram.com.br/p/cartao-comum
 
 Vale-transporte em Manaus: cartão PassaFácil Vale Transporte; emitido por Sinetram; canal de compra da empresa: salesportal.manaus.prodatamobility.com.br (boleto).
 
+Integração em Manaus: Integração físico-tarifária nos terminais fechados desde 14/12/2002 (troca de ônibus sem nova passagem dentro dos terminais; as Estações de Transferência têm a mesma função) e integração temporal desde nov/2006: com o cartão PassaFácil, o passageiro troca de ônibus fora do terminal sem pagar nova passagem se passar na catraca do ônibus seguinte em até 2 horas a partir do primeiro ônibus, entre linhas e sentidos permitidos pela matriz de integração (modelo descrito como de tempo variável e renovável). Não vale na mesma linha, nem para continuar nem para voltar, nem em linha que vá para o terminal de bairro da primeira linha pelo mesmo corredor; linhas circulares não integram entre si, mas integram com as demais; linhas sobrepostas com o mesmo destino só integram no mesmo sentido; nas linhas alimentadoras (026 a 096 e as com a sigla 'A'), a integração é só dentro dos terminais T1, T3, T4 e T5. Quem paga em dinheiro não tem integração. Detalhes das alimentadoras, linhas sobrepostas e estações de transferência na página Serviços do Sinetram (https://www.sinetram.com.br/p/servicos).
+
 ## AP
 
 ### Macapá (AP)
@@ -50,7 +54,7 @@ Ainda não há tarifa de ônibus conferida para Macapá (AP) na Base Nacional de
 
 Fonte oficial: https://macapa.ap.gov.br/prefeitura-de-macapa-garante-tarifa-social-e-organiza-interdicoes-para-celebracao-da-sexta-feira-santa-no-santuario-de-fatima/
 
-Vale-transporte em Macapá: cartão Cartão Vale-Transporte empresarial da bilhetagem da CTMac; emitido por CTMac, que assumiu a bilhetagem por decisão judicial em dez/2024; os cartões antigos foram cancelados em 01/02/2025; canal de compra da empresa: cadastro da empresa no site da Prefeitura de Macapá, aceite dos termos de uso e pedido da quantidade de cartões e do valor da recarga pelo portal Sigom; retirada dos cartões na CTMac Alvorada (Rua Minas Gerais, 32), das 8h às 15h; taxa na compra: cartão de VT empresarial custa R$ 15,00.
+Vale-transporte em Macapá: cartão Cartão Vale-Transporte empresarial da bilhetagem da CTMac; emitido por CTMac, responsável pela bilhetagem desde dez/2024 (os cartões antigos deixaram de valer em 01/02/2025); canal de compra da empresa: cadastro da empresa no portal SIGOM da prefeitura (http://191.242.202.32:8032/wbc-st5/login.faces, opção 'Cadastrar Empresa'), aceite dos termos de uso e pedido da quantidade de cartões e do valor da recarga, com acompanhamento on-line; emissão e retirada dos cartões na sede da bilhetagem da CTMac, Av. Pedro Américo, 54, Laguinho, de segunda a sexta, das 8h às 17h (endereço desde 02/05/2025; antes, CTMac Alvorada); taxa na compra: R$ 15,00 por cartão de VT empresarial (valor de abr/2025).
 
 ## BA
 
@@ -92,7 +96,7 @@ Integração em Lauro de Freitas: A AGERBA informa que a integração com o metr
 
 ### Salvador (BA)
 
-Em Salvador (BA), a passagem de ônibus custa R$ 5,90 desde 05/01/2026, conforme Portaria ARSAL nº 001/2026; valor conferido em 17/10/2026 pela Base Nacional de Tarifas do Transporte Público da Otimiza.pro.
+Em Salvador (BA), a passagem de ônibus custa R$ 5,90 desde 05/01/2026, conforme Portaria ARSAL nº 001/2026; valor conferido em 18/10/2026 pela Base Nacional de Tarifas do Transporte Público da Otimiza.pro.
 
 Em 2018, o sistema de ônibus de Salvador (BA) levou 460 milhões de passageiros, segundo dados declarados pelo município à Pesquisa Nacional de Mobilidade Urbana (PEMOB), do governo federal. A idade média da frota de ônibus era de 6 anos em 2021. Dados consolidados pela Base Nacional de Tarifas do Transporte Público da Otimiza.pro.
 
@@ -138,13 +142,15 @@ Integração no Crato: Bilhete Único Metropolitano do Cariri: paga o primeiro �
 
 ### Fortaleza (CE)
 
-Em Fortaleza (CE), a passagem de ônibus custa R$ 5,40 desde 02/01/2026, conforme Decreto nº 16.547/2025; valor conferido em 17/10/2026 pela Base Nacional de Tarifas do Transporte Público da Otimiza.pro.
+Em Fortaleza (CE), a passagem de ônibus custa R$ 5,40 desde 02/01/2026, conforme Decreto nº 16.547/2025; valor conferido em 18/10/2026 pela Base Nacional de Tarifas do Transporte Público da Otimiza.pro.
 
 Em Fortaleza (CE), o GTFS oficial mais recente da Etufor, de 03/04/2026, lista 325 linhas de ônibus, com 5.490 pontos de parada. O GTFS oficial mais recente do Metrofor, de 01/01/2025, lista 3 linhas de metrô. Em 2018, o sistema de ônibus levou 304 milhões de passageiros, segundo dados declarados pelo município à Pesquisa Nacional de Mobilidade Urbana (PEMOB), do governo federal. A idade média da frota de ônibus era de 5,9 anos em 2018. Dados consolidados pela Base Nacional de Tarifas do Transporte Público da Otimiza.pro.
 
 Fonte oficial: https://diariooficial.fortaleza.ce.gov.br/api/nodes/ebaab252-475d-457d-aab2-52475d257d95/content?name=22122025%20-%2018219.pdf
 
-Vale-transporte em Fortaleza: cartão Vale-Transporte Eletrônico (VTE), cartão Passecard; emitido por Sindiônibus (Sindicato das Empresas de Transporte de Passageiros do Estado do Ceará), com exclusividade na venda de créditos e cartões Passecard (Decreto Municipal nº 9.142/1993); canal de compra da empresa: Portal VTE Fortaleza (www.vtefortaleza.com.br), com acesso da empresa por CNPJ/CEI; o pedido gera boleto; liberação do crédito: 3 dias úteis após a comprovação do pagamento, para recarga a bordo (termo de referência do TJCE de 2023, VTE metropolitano: https://portal.tjce.jus.br/uploads/2023/08/TERMO-DE-REFERENCIA-CT-No-01-2023.pdf); validade dos créditos: 90 dias corridos a partir da disponibilização; revalidação em até 7 dias após o vencimento; cartão sem uso por 120 dias é bloqueado (mesmo termo de referência, VTE metropolitano).
+Vale-transporte em Fortaleza: cartão Vale-Transporte Eletrônico (VTE) urbano; o termo de referência do TJCE (2022/2023) chama o cartão de Passecard; emitido por Sindiônibus (Sindicato das Empresas de Transportes de Passageiros do Estado do Ceará), que detém a exclusividade na emissão e na venda do vale-transporte no Ceará, com base no Decreto Municipal nº 9.142/1993 (extratos de inexigibilidade do TJCE, DJe de 17/09/2021); canal de compra da empresa: Portal VTE Fortaleza (www.vtefortaleza.com.br): área da empresa com login, pedido de créditos e boleto (fases do pedido no portal: Pedido Incluído, Boleto Impresso, Pedido Conferido, Pedido Processado); o portal lista os postos de cadastramento e de venda, entre eles a sede do Sindiônibus (Av. Borges de Melo, 60, Aerolândia); liberação do crédito: no contrato de VTE metropolitano do TJCE (termo de referência de 2022/2023), a carga a bordo ocorre 3 dias úteis após a comprovação do pagamento; taxa na compra: no contrato de VTE metropolitano do TJCE, até 4 transações de crédito por mês, e cada transação extra custa 1 tarifa do 1º anel metropolitano; validade dos créditos: no contrato de VTE metropolitano do TJCE, 90 dias corridos a partir da disponibilização, com revalidação em até 7 dias após o vencimento; cartão sem uso por 120 dias é bloqueado.
+
+Integração em Fortaleza: Bilhete Único Fortaleza: quantas viagens de ônibus municipal forem precisas em até 2 horas, pagando uma passagem, com troca de ônibus também fora dos terminais. Não há integração tarifária do ônibus municipal com o metrô (Linha Sul), a Linha Oeste ou o VLT: o Metrofor usa cartões próprios (Múltiplo e Estudante) e cobra tarifa à parte, e a Linha Oeste não tem bilhetagem eletrônica (páginas Cartões e Tarifas do Metrofor; o Diário do Nordeste de 11/02/2026 confirma que a integração ainda não ocorre). A integração tarifária está em estudo: termo de cooperação entre Prefeitura, Governo do Ceará e BNDES assinado em 23/04/2026, com prazo de 36 meses, segundo a imprensa.
 
 Tarifa zero em Fortaleza: Ônibus gratuitos para todos das 6h às 18h nos domingos de eleição (04/10/2026 e eventual 2º turno em 25/10/2026); fora dessa faixa, Tarifa Social
 
@@ -164,17 +170,17 @@ Integração em Juazeiro do Norte: Bilhete Único Metropolitano do Cariri: paga 
 
 ### Brasília (DF)
 
-Em Brasília (DF), a passagem de ônibus custa de R$ 2,70 a R$ 5,50 (varia com o tipo de linha) desde 13/01/2020, conforme Decreto nº 40.381/2020; valor conferido em 17/10/2026 pela Base Nacional de Tarifas do Transporte Público da Otimiza.pro.
+Em Brasília (DF), a passagem de ônibus custa de R$ 2,70 a R$ 5,50 (varia com o tipo de linha) desde 13/01/2020, conforme Decreto distrital nº 40.381/2020; valor conferido em 18/10/2026 pela Base Nacional de Tarifas do Transporte Público da Otimiza.pro.
 
 Em 2021, o sistema de ônibus de Brasília (DF) levou 277 milhões de passageiros, segundo dados declarados pelo município à Pesquisa Nacional de Mobilidade Urbana (PEMOB), do governo federal. A idade média da frota de ônibus era de 4,5 anos em 2020. Dados consolidados pela Base Nacional de Tarifas do Transporte Público da Otimiza.pro.
 
-Fonte oficial: https://vlex.com.br/vid/secretaria-economia-1027105732
+Fonte oficial: https://www.dodf.df.gov.br/index/visualizar-arquivo/?pasta=2020%7C01_Janeiro%7CDODF%20007%2010-01-2020%7C&arquivo=DODF%20007%2010-01-2020%20INTEGRA.pdf
 
 Vale-transporte em Brasília: cartão +Vale-Transporte (BRB Mobilidade); emitido por BRB; canal de compra da empresa: mobilidade.brb.com.br.
 
 Integração em Brasília: até 3 embarques em 3h, em qualquer modo (ônibus, BRT, metrô), sem voltar ao ponto de partida, com teto de R$ 5,50
 
-Tarifa zero em Brasília: Vai de Graça: ônibus, BRT e metrô grátis aos domingos e feriados, sem cadastro
+Tarifa zero em Brasília: Programa Vai de Graça: isenção da tarifa do usuário no STPC/DF (ônibus, inclusive BRT, e metrô) e no transporte rural (STPCR) aos domingos, nas linhas diurnas e noturnas, das 0h às 23h59; nos 11 feriados nacionais e distritais listados no decreto, entre eles 21 de abril e 30 de novembro (Dia do Evangélico); e no Carnaval, de sábado às 0h até terça-feira às 23h59 (no metrô, até o fim da operação de terça). O acesso é com os cartões do Sistema de Bilhetagem Automática do BRB, liberados nos validadores; a Semob define as regras para quem não tem cartão. O Distrito Federal custeia a gratuidade. O decreto vale desde a publicação, em 28/02/2025, e o primeiro dia grátis foi o sábado de Carnaval, 01/03/2025.
 
 ## ES
 
@@ -188,7 +194,7 @@ Integração em Cachoeiro de Itapemirim: Integração entre linhas urbanas e dis
 
 ### Cariacica (ES)
 
-Em Cariacica (ES), a passagem de ônibus do sistema Transcol (Grande Vitória) custa R$ 5,10 desde 11/01/2026, conforme Portaria SEMOBI nº 003-S/2026; valor conferido em 17/10/2026 pela Base Nacional de Tarifas do Transporte Público da Otimiza.pro.
+Em Cariacica (ES), a passagem de ônibus do sistema Transcol (Grande Vitória) (Transcol: Vitória, Cariacica, Serra, Viana e intermunicipal metropolitano) custa R$ 5,10 desde 11/01/2026, conforme Portaria SEMOBI nº 003-S/2026; valor conferido em 18/10/2026 pela Base Nacional de Tarifas do Transporte Público da Otimiza.pro.
 
 Em 2018, o sistema de ônibus de Cariacica (ES) levou 86 milhões de passageiros, segundo dados declarados pelo município à Pesquisa Nacional de Mobilidade Urbana (PEMOB), do governo federal. A idade média da frota de ônibus era de 8,4 anos em 2018. Dados consolidados pela Base Nacional de Tarifas do Transporte Público da Otimiza.pro.
 
@@ -200,7 +206,7 @@ Integração em Cariacica: integração física nos terminais do Transcol, pagan
 
 ### Serra (ES)
 
-Em Serra (ES), a passagem de ônibus do sistema Transcol (Grande Vitória) custa R$ 5,10 desde 11/01/2026, conforme Portaria SEMOBI nº 003-S/2026; valor conferido em 17/10/2026 pela Base Nacional de Tarifas do Transporte Público da Otimiza.pro.
+Em Serra (ES), a passagem de ônibus do sistema Transcol (Grande Vitória) (Transcol: Vitória, Cariacica, Serra, Viana e intermunicipal metropolitano) custa R$ 5,10 desde 11/01/2026, conforme Portaria SEMOBI nº 003-S/2026; valor conferido em 18/10/2026 pela Base Nacional de Tarifas do Transporte Público da Otimiza.pro.
 
 Fonte oficial: https://ioes.dio.es.gov.br/portal/edicoes/download/10814
 
@@ -210,7 +216,7 @@ Integração em Serra: integração física nos terminais do Transcol, pagando u
 
 ### Vila Velha (ES)
 
-Em Vila Velha (ES), a passagem de ônibus do sistema Transcol (Grande Vitória) custa R$ 5,10 desde 11/01/2026, conforme Portaria SEMOBI nº 003-S/2026; valor conferido em 17/10/2026 pela Base Nacional de Tarifas do Transporte Público da Otimiza.pro.
+Em Vila Velha (ES), a passagem de ônibus do sistema Transcol (Grande Vitória) (Transcol: Vitória, Cariacica, Serra, Viana e intermunicipal metropolitano) custa R$ 5,10 desde 11/01/2026, conforme Portaria SEMOBI nº 003-S/2026; valor conferido em 18/10/2026 pela Base Nacional de Tarifas do Transporte Público da Otimiza.pro.
 
 Em 2020, o sistema de ônibus de Vila Velha (ES) levou 3,6 milhões de passageiros, segundo dados declarados pelo município à Pesquisa Nacional de Mobilidade Urbana (PEMOB), do governo federal. A idade média da frota de ônibus era de 12,8 anos em 2020. Dados consolidados pela Base Nacional de Tarifas do Transporte Público da Otimiza.pro.
 
@@ -222,7 +228,7 @@ Integração em Vila Velha: integração física nos terminais do Transcol, paga
 
 ### Vitória (ES)
 
-Em Vitória (ES), a passagem de ônibus custa R$ 5,10 desde 11/01/2026, conforme Portaria SEMOBI nº 003-S/2026; valor conferido em 17/10/2026 pela Base Nacional de Tarifas do Transporte Público da Otimiza.pro.
+Em Vitória (ES), a passagem de ônibus (Transcol: Vitória, Cariacica, Serra, Viana e intermunicipal metropolitano) custa R$ 5,10 desde 11/01/2026, conforme Portaria SEMOBI nº 003-S/2026; valor conferido em 18/10/2026 pela Base Nacional de Tarifas do Transporte Público da Otimiza.pro.
 
 Fonte oficial: https://ioes.dio.es.gov.br/portal/edicoes/download/10814
 
@@ -326,13 +332,15 @@ Fonte oficial: https://www.mob.ma.gov.br/noticias/regularizacao-e-requisito-para
 
 ### São Luís (MA)
 
-Em São Luís (MA), a passagem de ônibus custa R$ 4,20 desde 19/02/2023, conforme Portaria nº 3.013/SMTT/SL confirma o valor; valor conferido em 17/10/2026 pela Base Nacional de Tarifas do Transporte Público da Otimiza.pro.
+Em São Luís (MA), a passagem de ônibus custa de R$ 3,70 a R$ 4,20 (varia com o tipo de linha) desde 19/02/2023, conforme Decreto nº 59.017/2023; valor conferido em 18/10/2026 pela Base Nacional de Tarifas do Transporte Público da Otimiza.pro.
 
 Em 2021, o sistema de ônibus de São Luís (MA) levou 70 milhões de passageiros, segundo dados declarados pelo município à Pesquisa Nacional de Mobilidade Urbana (PEMOB), do governo federal. A idade média da frota de ônibus era de 6 anos em 2021. Dados consolidados pela Base Nacional de Tarifas do Transporte Público da Otimiza.pro.
 
-Fonte oficial: https://diariooficial.saoluis.ma.gov.br/documento/view/17005
+Fonte oficial: https://diariooficial.saoluis.ma.gov.br/uploads/Digitalizados/diario_oficial/253/HOYK7ZPEdI-gLeyyyfZHx96PcgRAFJkh.pdf
 
-Integração em São Luís: Bilhete Único (desde 14/12/2015): viagens ilimitadas em 1h30 pagando uma passagem, no mesmo sentido, com troca em qualquer parada (sem precisar ir ao terminal); só com cartão e só nas linhas urbanas integradas de São Luís. Regra de 2015, não confirmada para 2026.
+Vale-transporte em São Luís: cartão cartão Vale Transporte da bilhetagem eletrônica do SET; emitido por SET (Sindicato das Empresas de Transporte de Passageiros de São Luís); canal de compra da empresa: Portal de Vendas do SET (https://salesportal.saoluis.prodatamobility.com.br/), aberto pelo botão 'Comprar vale transporte' do site www.setsl.com.br: acesso por CNPJ, cadastro de funcionários e pedido pago por boleto. Venda de crédito e emissão de cartões de Vale Transporte também no Posto de Atendimento Apicum (Rua Dom Xisto Albano, 08), de segunda a sexta, das 7h às 17h. O app Bilhete Fácil SLZ não recarrega VT, porque essa compra é feita por empresas ou órgãos públicos (O Imparcial, 28/04/2025); validade dos créditos: no app Bilhete Fácil SLZ, que não atende o VT, os créditos do Passe Fácil e da meia passagem valem 365 dias (O Imparcial, 28/04/2025).
+
+Integração em São Luís: Bilhete Único: com o cartão de transporte ou a carteira de estudante, o passageiro tem até 2 horas para trocar de ônibus pagando uma única passagem, desde que siga no mesmo sentido da viagem, com troca em qualquer ponto de parada; no sentido contrário, pode embarcar em qualquer ônibus em até 1 hora contada da validação do cartão. Vale só nas linhas integradas (R$ 4,20); ficam fora as linhas não integradas (R$ 3,70), as intermunicipais (Raposa, Paço do Lumiar, Ribamar) e a linha BR 135.
 
 ### Timon (MA)
 
@@ -354,7 +362,9 @@ Fonte oficial: https://www.transfacil.com.br/noticia/21
 
 Vale-transporte em Belo Horizonte: cartão BHBUS Vale Transporte; emitido por Transfácil; canal de compra da empresa: transfacil.com.br/para-empresas (boleto); liberação do crédito: até 72h úteis após o boleto; taxa na compra: 1% na modalidade Carga a Bordo; sem taxa no posto; validade dos créditos: 365 dias, mais 35 para reativar.
 
-Tarifa zero em Belo Horizonte: domingos e feriados, e linhas de vilas e favelas, com tarifa zero
+Integração em Belo Horizonte: Com o Cartão BHBUS, integração tarifária em até 90 minutos (1h30): na segunda viagem paga-se a metade da tarifa mais barata. Nas estações de integração e de transferência do sistema convencional e do MOVE a troca é física e se paga uma tarifa só, com complemento zero entre linhas de mesma tarifa. Todas as linhas municipais, inclusive as do MOVE, integram com o metrô; a tabela de integração da SUMOB (vigência de 01/01/2026, página atualizada em 01/07/2026) traz tarifa integrada de R$ 9,35 entre alimentadoras do metrô e metrô, de R$ 10,60 entre estruturais e metrô fora das estações e de R$ 10,05 entre circulares e metrô fora das estações. Não há integração tarifária no Suplementar, entre circulares nem entre troncais e estruturais da mesma bacia; o desconto no terceiro embarque (integração sequenciada) vale só no sistema tronco-alimentador. Aos domingos e feriados, com o Catraca Livre, não há integração tarifária com o metrô.
+
+Tarifa zero em Belo Horizonte: Catraca Livre: tarifa zero aos domingos e feriados, para viagens iniciadas entre 0h e 23h59, em todas as linhas de ônibus convencionais e suplementares; o Cartão BHBUS só libera a catraca, sem débito de crédito, e quem não tem cartão é liberado pelo motorista ou pela equipe da estação; não há integração tarifária com o metrô nesses dias. As 13 linhas de Vilas e Favelas têm tarifa zero todos os dias desde abril de 2023 (SUMOB, página 'Tipos de linha e serviços').
 
 ### Betim (MG)
 
@@ -462,6 +472,20 @@ Tarifa zero em Dourados: Cobrança suspensa das 6h às 17h no domingo de eleiç�
 
 ## MT
 
+### Cuiabá (MT)
+
+Em Cuiabá (MT), a passagem de ônibus custa R$ 4,95 desde 09/05/2022, conforme Decreto nº 9.050/2022; valor conferido em 18/10/2026 pela Base Nacional de Tarifas do Transporte Público da Otimiza.pro.
+
+Em 2021, o sistema de ônibus de Cuiabá (MT) levou 39 milhões de passageiros, segundo dados declarados pelo município à Pesquisa Nacional de Mobilidade Urbana (PEMOB), do governo federal. A idade média da frota de ônibus era de 7,4 anos em 2018. Dados consolidados pela Base Nacional de Tarifas do Transporte Público da Otimiza.pro.
+
+Fonte oficial: https://amtu.com.br/wp-content/uploads/2022/05/EDITAL-TARIFA-CUIABA%CC%81.pdf
+
+Vale-transporte em Cuiabá: cartão cartão transporte TEM, com créditos de Vale Transporte Empresarial; emitido por MTU (Associação Mato-grossense dos Transportadores Urbanos), gestora da bilhetagem eletrônica; canal de compra da empresa: VTWeb Client da Prodata (vtclient.cuiaba.prodatamobility.com.br), pelo link 'Recarregar Vale Transporte Empresarial' em amtu.com.br: cadastro de pessoa jurídica ou física, ativação por e-mail, login pelo CNPJ ou CPF, inclusão dos funcionários por RG e CPF (quem ainda não tem cartão o retira na MTU) e pedido por valor por usuário, por dias úteis ou com base em pedido anterior, pago por boleto bancário; liberação do crédito: pedido liberado em até 24 horas após o pagamento do boleto e crédito no cartão em até 72 horas (prazo menor se o colaborador passar numa cabine MTU Fácil, loja MTU ou van de serviços); o crédito só é liberado na data de liberação do pedido, mesmo com o boleto pago antes.
+
+Integração em Cuiabá: Integração tarifária entre linhas municipais de ônibus, conforme a matriz de integração da Semob: paga-se a tarifa do perfil do usuário na primeira linha e passa-se a roleta da segunda linha em até 120 minutos (a depender da matriz), contados da passagem pela roleta na primeira linha. Vale entre linhas da mesma empresa ou de empresas diferentes; não vale na mesma linha, em qualquer sentido, nem em linhas de sentidos opostos que permitam voltar à origem; serve só para completar o deslocamento a um destino final único; a linha alimentadora conta como primeira viagem. Expirado o tempo ou o limite de integrações, o cartão desconta nova tarifa. Base: Decreto nº 10.053, de 16/02/2024, na p. 2 da Gazeta Municipal nº 807, de 19/02/2024 (o arquivo do link leva o nome do Decreto nº 10.054, de IPTU, publicado na mesma página). Desde 01/05/2026, quem assina o Cuiabá Card tem uso ilimitado das linhas municipais, sem restrição de viagens (prefeitura, 30/04/2026).
+
+Tarifa zero em Cuiabá: Tarifa Zero aos domingos em todas as linhas municipais (não vale no transporte intermunicipal) e, por decreto, em feriados e datas específicas, como o aniversário da cidade, 1º de maio e 7 de setembro
+
 ### Rondonópolis (MT)
 
 Em Rondonópolis (MT), a passagem de ônibus custa R$ 2,00 desde 07/05/2026, conforme Decreto nº 13.359/2026; valor conferido em 17/10/2026 pela Base Nacional de Tarifas do Transporte Público da Otimiza.pro.
@@ -558,7 +582,7 @@ Tarifa zero em Campina Grande: Tarifa Zero no primeiro sábado de cada mês, em 
 
 ### João Pessoa (PB)
 
-Em João Pessoa (PB), a passagem de ônibus custa R$ 5,45 desde 25/01/2026, conforme Decreto nº 11.224/2026; valor conferido em 17/10/2026 pela Base Nacional de Tarifas do Transporte Público da Otimiza.pro.
+Em João Pessoa (PB), a passagem de ônibus custa R$ 5,45 desde 25/01/2026, conforme Decreto nº 11.224/2026; valor conferido em 18/10/2026 pela Base Nacional de Tarifas do Transporte Público da Otimiza.pro.
 
 Em 2018, o sistema de ônibus de João Pessoa (PB) levou 62 milhões de passageiros, segundo dados declarados pelo município à Pesquisa Nacional de Mobilidade Urbana (PEMOB), do governo federal. A idade média da frota de ônibus era de 7 anos em 2021. Dados consolidados pela Base Nacional de Tarifas do Transporte Público da Otimiza.pro.
 
@@ -656,15 +680,15 @@ Integração em Recife: uma passagem vale por 2h em ônibus, metrô e VLT; algum
 
 ### Teresina (PI)
 
-Em Teresina (PI), a passagem de ônibus custa R$ 4,00 desde 03/02/2020, conforme Decreto nº 19.414/2020; valor conferido em 17/10/2026 pela Base Nacional de Tarifas do Transporte Público da Otimiza.pro.
+Em Teresina (PI), a passagem de ônibus custa R$ 4,00 desde 03/02/2020, conforme Decreto nº 19.414/2020; valor conferido em 18/10/2026 pela Base Nacional de Tarifas do Transporte Público da Otimiza.pro.
 
 Em 2018, o sistema de ônibus de Teresina (PI) levou 67 milhões de passageiros, segundo dados declarados pelo município à Pesquisa Nacional de Mobilidade Urbana (PEMOB), do governo federal. A idade média da frota de ônibus era de 5,8 anos em 2018. Dados consolidados pela Base Nacional de Tarifas do Transporte Público da Otimiza.pro.
 
-Fonte oficial: https://www.normasbrasil.com.br/norma/decreto-19414-2020-teresina_389525.html
+Fonte oficial: https://dom.pmt.pi.gov.br/admin/upload/DOM2700-31012020-ASSINADO.pdf
 
-Vale-transporte em Teresina: cartão Cartão VT Mais Fácil; emitido por Setut (Sindicato das Empresas de Transportes Urbanos de Passageiros de Teresina), responsável pela bilhetagem eletrônica e pela emissão e venda do VTE; canal de compra da empresa: Site www.maisfacilteresina.com.br: cadastro da empresa (menu Cadastre-se), pedido de cartões e de créditos online; o pedido gera boleto bancário; liberação do crédito: até 3 dias úteis após a confirmação do pagamento pelo banco; o crédito passa ao cartão quando o usuário o aproxima de um validador; validade dos créditos: até 90 dias; revalidação no Posto Central do Setut em até 30 dias após expirar, por mais 30 dias.
+Vale-transporte em Teresina: cartão Cartão Mais Fácil Vale-Transporte; emitido por Setut (Sindicato das Empresas de Transportes Urbanos de Passageiros de Teresina), que vende o vale-transporte por delegação da Strans; canal de compra da empresa: Site www.maisfacilteresina.com.br: a empresa se cadastra (menu Cadastre-se) e pede cartões e créditos pela internet; o pedido gera boleto bancário. Só crédito eletrônico: a Portaria Strans nº 96/2021 (DOM Teresina nº 3.140, de 01/11/2021, p. 4) proibiu a venda de vale-transporte em papel; liberação do crédito: até 3 dias úteis após a confirmação do pagamento pelo banco; o crédito passa ao cartão quando o usuário o aproxima de um validador do ônibus; taxa na compra: a 2ª via do cartão é cobrada por boleto; validade dos créditos: até 90 dias; revalidação no Posto Central do Setut em até 30 dias após expirar, por mais 30 dias.
 
-Integração em Teresina: Inthegra: duas ou mais linhas no mesmo sentido pagando uma tarifa. Alimentadora com troncal ou interterminal da mesma zona, dentro dos terminais; linhas de zonas diferentes integram também fora dos terminais (só com cartão eletrônico), salvo exceções. Acesso à plataforma dos terminais é pago.
+Integração em Teresina: Inthegra: duas ou mais linhas no mesmo sentido pagando uma só tarifa, em até 2 horas entre o primeiro e o último embarque. Na mesma zona, alimentadora integra com troncal ou interterminal dentro dos terminais de integração; linhas de zonas diferentes integram também fora dos terminais, salvo exceções, e aí é preciso cartão de bilhetagem eletrônica. As linhas 401 (Universidade) e 102 (Poty Velho/Frei Serafim) integram com linhas da mesma zona. O acesso à plataforma dos terminais é pago na catraca.
 
 Tarifa zero em Teresina: metrô de Teresina com tarifa zero
 
@@ -680,11 +704,11 @@ Integração em Colombo: Integração física nos terminais metropolitanos e int
 
 ### Curitiba (PR)
 
-Em Curitiba (PR), a passagem de ônibus custa R$ 6,00 desde 01/03/2023, conforme Decreto nº 306/2023; valor conferido em 17/10/2026 pela Base Nacional de Tarifas do Transporte Público da Otimiza.pro.
+Em Curitiba (PR), a passagem de ônibus custa R$ 6,00 desde 01/03/2023, conforme Decreto municipal nº 306/2023; valor conferido em 18/10/2026 pela Base Nacional de Tarifas do Transporte Público da Otimiza.pro.
 
 Em 2020, o sistema de ônibus de Curitiba (PR) levou 108 milhões de passageiros, segundo dados declarados pelo município à Pesquisa Nacional de Mobilidade Urbana (PEMOB), do governo federal. A idade média da frota de ônibus era de 7 anos em 2020. Dados consolidados pela Base Nacional de Tarifas do Transporte Público da Otimiza.pro.
 
-Fonte oficial: https://www.justica.pr.gov.br/sites/default/arquivos_restritos/files/documento/2023-03/Recomendacao_COPED_01-2023_-_Tarifa_de_Onibus_em_Cur_assinado.pdf
+Fonte oficial: https://legisladocexterno.curitiba.pr.gov.br/VisualizarHTML.aspx?id=373161
 
 Vale-transporte em Curitiba: cartão Cartão Transporte; emitido por URBS; canal de compra da empresa: SBE da URBS (boleto ou guia do Banco do Brasil); liberação do crédito: até 72h após a URBS identificar o pagamento; taxa na compra: tarifa bancária de R$ 3,03 no boleto; validade dos créditos: 1 ano (Decreto 1.232/2017).
 
@@ -900,6 +924,8 @@ Fonte oficial: https://www.normasbrasil.com.br/norma/decreto-36-2025-boa-vista_4
 
 Vale-transporte em Boa Vista: cartão Boa Vista Card; emitido por Cidade Boa Vista.
 
+Integração em Boa Vista: Integração entre bairros com o cartão: quem usa o Boa Vista Card tem direito a usar o ônibus mais uma vez dentro de duas horas. A prefeitura descreve a regra em notícia de 16/04/2026 sobre o Passe Livre Estudantil ('os estudantes também contam com a integração entre bairros'), sem detalhar linhas, sentidos ou tipos de cartão.
+
 ## RS
 
 ### Alvorada (RS)
@@ -1012,11 +1038,15 @@ Vale-transporte em Criciúma: cartão CriciúmaCard Vale-Transporte; emitido por
 
 ### Florianópolis (SC)
 
-Em Florianópolis (SC), a passagem de ônibus custa de R$ 6,20 a R$ 7,70 (varia com o cartão ou o meio de pagamento) desde 01/01/2026, conforme Decreto nº 28.860/2025; valor conferido em 17/10/2026 pela Base Nacional de Tarifas do Transporte Público da Otimiza.pro. Quem usa vale-transporte paga R$ 7,20.
+Em Florianópolis (SC), a passagem de ônibus custa de R$ 3,85 a R$ 7,70 (varia com o cartão ou o meio de pagamento) desde 01/01/2026, conforme Decreto nº 28.860/2025; valor conferido em 18/10/2026 pela Base Nacional de Tarifas do Transporte Público da Otimiza.pro. Quem usa vale-transporte paga R$ 7,20.
 
 Em 2018, o sistema de ônibus de Florianópolis (SC) levou 64 milhões de passageiros, segundo dados declarados pelo município à Pesquisa Nacional de Mobilidade Urbana (PEMOB), do governo federal. A idade média da frota de ônibus era de 5,8 anos em 2018. Dados consolidados pela Base Nacional de Tarifas do Transporte Público da Otimiza.pro.
 
 Fonte oficial: https://diariomunicipal.sc.gov.br/arquivosbd/atos/2025/12/1767204593_decreto_n._28.860.pdf
+
+Vale-transporte em Florianópolis: cartão Passe Rápido Vale-Transporte; emitido por Consórcio Fênix (bilhetagem Passe Rápido); canal de compra da empresa: portal Passe Rápido (app.passerapido.com.br, acesso Vale Transporte); cadastro de empresas e de cartões pelo e-mail cadastro@passerapido.com.br.
+
+Integração em Florianópolis: Com cartão de transporte, integrações sem limite de quantidade em até 180 minutos após o primeiro registro do cartão no período, nos terminais de integração (área segregada) ou em qualquer ponto de parada, pela catraca eletrônica; dentro do terminal, o transbordo é livre enquanto o passageiro não passa pela barreira de controle tarifário. Na integração entre linha social e linha distrital ou urbana há complemento, que em 2026 é de R$ 2,35 no Cartão Cidadão, R$ 2,60 no Vale-Transporte e no Turista e R$ 1,18 no estudante. Base: Decreto nº 1.968/2003, alterado pelo Decreto nº 23.496, de 24/01/2022 (texto lido na reprodução do LegisWeb; a publicação no Diário Oficial do Município não foi aberta), citados como política de integração vigente nos Decretos nº 27.313/2024 e nº 28.860/2025; complementos no anexo do Decreto nº 28.860/2025.
 
 ### Jaraguá do Sul (SC)
 

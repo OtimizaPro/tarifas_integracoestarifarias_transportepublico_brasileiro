@@ -1,6 +1,6 @@
 {
  "nome": "Base Nacional de Tarifas do Transporte Público: beneficios",
- "versao": "2026.10.18",
+ "versao": "2026.10.18.2",
  "licenca": {
   "nome": "CC BY-NC 4.0",
   "url": "https://creativecommons.org/licenses/by-nc/4.0/deed.pt-br",
@@ -8,7 +8,7 @@
   "uso_interno": "A consulta para decisões da própria empresa, como orçar o vale-transporte, não pede licença.",
   "uso_comercial": "Uso comercial por empresas (em produto, revenda ou integração em sistema ou serviço pago) pede licença da Otimiza.pro: empresa@otimiza.pro."
  },
- "citar_como": "Fonte: Otimiza.pro, Base Nacional de Tarifas do Transporte Público, versão 2026.10.18. https://github.com/OtimizaPro/tarifas_integracoestarifarias_transportepublico_brasileiro",
+ "citar_como": "Fonte: Otimiza.pro, Base Nacional de Tarifas do Transporte Público, versão 2026.10.18.2. https://github.com/OtimizaPro/tarifas_integracoestarifarias_transportepublico_brasileiro",
  "linhas": [
   {
    "uf": "AL",
@@ -57,6 +57,30 @@
    "fonte_url": "https://www.sinetram.com.br/p/duvidas-frequentes",
    "confianca": "B",
    "verificado_em": "2026-10-17"
+  },
+  {
+   "uf": "AP",
+   "municipio": "Macapá",
+   "cod_ibge": "1600303",
+   "tipo": "estudante",
+   "regra": "Meia passagem para estudantes cadastrados na bilhetagem eletrônica da CTMac, com recadastramento anual e captura de biometria (em 2026, R$ 10,00 o recadastro e R$ 20,00 o cadastro novo)",
+   "desde": null,
+   "base_legal": null,
+   "fonte_url": "https://agencia.macapa.ap.gov.br/recadastramento-da-meia-passagem-estudantil-inicia-nesta-quinta-feira-15/",
+   "confianca": "B",
+   "verificado_em": "2026-10-18"
+  },
+  {
+   "uf": "AP",
+   "municipio": "Macapá",
+   "cod_ibge": "1600303",
+   "tipo": "tarifa_reduzida",
+   "regra": "Tarifa social de R$ 1,85 para todos os passageiros aos domingos e feriados",
+   "desde": null,
+   "base_legal": "Lei nº 167/2009 (citada pela prefeitura)",
+   "fonte_url": "https://agencia.macapa.ap.gov.br/confira-como-funcionam-os-servicos-da-prefeitura-de-macapa-no-feriado-de-4-de-fevereiro/",
+   "confianca": "A",
+   "verificado_em": "2026-10-18"
   },
   {
    "uf": "BA",
@@ -219,12 +243,12 @@
    "municipio": "Fortaleza",
    "cod_ibge": "2304400",
    "tipo": "estudante",
-   "regra": "Passe Livre Estudantil: 2 viagens gratuitas por dia letivo, não cumulativas, para estudantes matriculados em escolas públicas e privadas de Fortaleza; da 3ª viagem em diante, R$ 1,50",
-   "desde": "2023-11",
-   "base_legal": "Lei Complementar nº 374, de 09/11/2023 (citada no Decreto nº 16.547/2025)",
-   "fonte_url": "https://diariooficial.fortaleza.ce.gov.br/api/nodes/ebaab252-475d-457d-aab2-52475d257d95/content?name=22122025%20-%2018219.pdf",
+   "regra": "Passe Livre Estudantil: 2 viagens gratuitas por dia, não cumulativas, para estudantes matriculados em instituições públicas e privadas de Fortaleza, com carteira estudantil vigente; desde a LC nº 464/2026 vale também, em caráter excepcional, nas férias escolares, nos fins de semana e nos feriados ('Passe Livre Todo Dia'); da 3ª viagem em diante, R$ 1,50",
+   "desde": "2026-06-26",
+   "base_legal": "Lei Complementar nº 374, de 09/11/2023, e Lei Complementar nº 464, de 26/06/2026 (DOM Fortaleza nº 18.341, de 26/06/2026, p. 3), em vigor na publicação; a imprensa informou início da aplicação em 01/07/2026",
+   "fonte_url": "https://diariooficial.fortaleza.ce.gov.br/api/nodes/05f0b740-d2a2-44b7-b0b7-40d2a224b73f/content?name=26062026%20-%2018341.pdf",
    "confianca": "A",
-   "verificado_em": "2026-10-17"
+   "verificado_em": "2026-10-18"
   },
   {
    "uf": "CE",
@@ -243,12 +267,12 @@
    "municipio": "Fortaleza",
    "cod_ibge": "2304400",
    "tipo": "tarifa_reduzida",
-   "regra": "Tarifa Social de R$ 4,80 (estudante R$ 1,50) aos domingos, 13/04, 31/12 e 01/01; Hora Social de R$ 4,80 em horários definidos pela Etufor",
+   "regra": "Tarifa Social de R$ 4,80 (estudante R$ 1,50) em todos os domingos e nos dias 13/04, 31/12 e 01/01; Hora Social de R$ 4,80 (estudante R$ 1,50) em horários definidos pela Etufor (das 9h às 11h e das 14h às 16h, segundo a página oficial de 07/07/2025)",
    "desde": "2026-01-02",
-   "base_legal": "Decreto nº 12.107/2006, com valores do Decreto nº 16.547/2025",
+   "base_legal": "Decreto nº 12.107/2006, com os valores do Decreto nº 16.547, de 22/12/2025 (art. 3º)",
    "fonte_url": "https://diariooficial.fortaleza.ce.gov.br/api/nodes/ebaab252-475d-457d-aab2-52475d257d95/content?name=22122025%20-%2018219.pdf",
    "confianca": "A",
-   "verificado_em": "2026-10-17"
+   "verificado_em": "2026-10-18"
   },
   {
    "uf": "CE",
@@ -315,12 +339,12 @@
    "municipio": "Brasília",
    "cod_ibge": "5300108",
    "tipo": "tarifa_zero_temporal",
-   "regra": "Vai de Graça: ônibus, BRT e metrô grátis aos domingos e feriados, sem cadastro",
+   "regra": "Programa Vai de Graça: isenção da tarifa do usuário no STPC/DF (ônibus, inclusive BRT, e metrô) e no transporte rural (STPCR) aos domingos, nas linhas diurnas e noturnas, das 0h às 23h59; nos 11 feriados nacionais e distritais listados no decreto, entre eles 21 de abril e 30 de novembro (Dia do Evangélico); e no Carnaval, de sábado às 0h até terça-feira às 23h59 (no metrô, até o fim da operação de terça). O acesso é com os cartões do Sistema de Bilhetagem Automática do BRB, liberados nos validadores; a Semob define as regras para quem não tem cartão. O Distrito Federal custeia a gratuidade. O decreto vale desde a publicação, em 28/02/2025, e o primeiro dia grátis foi o sábado de Carnaval, 01/03/2025.",
    "desde": "2025-03-01",
-   "base_legal": "Decreto 46.924/2025",
-   "fonte_url": "https://soubrasilia.com/onibus-metro-gratis-df-domingos-feriados-regra/",
-   "confianca": "B",
-   "verificado_em": "2026-10-17"
+   "base_legal": "Decreto distrital nº 46.924, de 28/02/2025 (DODF nº 20-A, Edição Extra, de 28/02/2025)",
+   "fonte_url": "https://www.sinj.df.gov.br/sinj/Norma/558831a3dab946c48039686c52601071/Decreto_46924_28_02_2025.html",
+   "confianca": "A",
+   "verificado_em": "2026-10-18"
   },
   {
    "uf": "ES",
@@ -456,6 +480,30 @@
   },
   {
    "uf": "MA",
+   "municipio": "São Luís",
+   "cod_ibge": "2111300",
+   "tipo": "estudante",
+   "regra": "meia passagem para estudantes do ensino fundamental ao superior, técnicos, pré-vestibulares, EJA e seminários, matriculados e frequentando instituição com sede em São Luís cadastrada no Sistema de Meia Passagem da SMTT; usa o Cartão de Meia Passagem (gratuito) ou o Cartão Estudantil",
+   "desde": null,
+   "base_legal": "Lei Municipal nº 4.305/2004, art. 1º",
+   "fonte_url": "https://www.saoluis.ma.gov.br/cartao-de-bilhetagem-eletronica---smtt/0/",
+   "confianca": "A",
+   "verificado_em": "2026-10-18"
+  },
+  {
+   "uf": "MA",
+   "municipio": "São Luís",
+   "cod_ibge": "2111300",
+   "tipo": "idoso",
+   "regra": "Cartão de Gratuidade da SMTT para idoso de 60 a 64 anos, idoso com 65 anos ou mais e aposentado do Estado ou do Município (cartão válido por 3 anos); para 60 a 64 anos a SMTT pede carteira de trabalho e certidão negativa do INSS do beneficiário e do cônjuge. Não vale no transporte intermunicipal nem em ônibus executivos, micro-ônibus ou vans. A 2ª via custa R$ 16,80, com isenção só para quem tem mais de 65 anos",
+   "desde": null,
+   "base_legal": "não citada na página",
+   "fonte_url": "https://www.saoluis.ma.gov.br/cartao-de-bilhetagem-eletronica---smtt/0/",
+   "confianca": "A",
+   "verificado_em": "2026-10-18"
+  },
+  {
+   "uf": "MA",
    "municipio": "Timon",
    "cod_ibge": "2112209",
    "tipo": "estudante",
@@ -507,12 +555,12 @@
    "municipio": "Belo Horizonte",
    "cod_ibge": "3106200",
    "tipo": "tarifa_zero_temporal",
-   "regra": "domingos e feriados, e linhas de vilas e favelas, com tarifa zero",
-   "desde": "2026-01-01",
-   "base_legal": "Portaria SUMOB nº 122/2025",
-   "fonte_url": "https://www.transfacil.com.br/noticia/21",
-   "confianca": "B",
-   "verificado_em": "2026-10-17"
+   "regra": "Catraca Livre: tarifa zero aos domingos e feriados, para viagens iniciadas entre 0h e 23h59, em todas as linhas de ônibus convencionais e suplementares; o Cartão BHBUS só libera a catraca, sem débito de crédito, e quem não tem cartão é liberado pelo motorista ou pela equipe da estação; não há integração tarifária com o metrô nesses dias. As 13 linhas de Vilas e Favelas têm tarifa zero todos os dias desde abril de 2023 (SUMOB, página 'Tipos de linha e serviços').",
+   "desde": "2025-12-14",
+   "base_legal": "Decreto municipal nº 19.404, de 11/12/2025, regulamentado pela Portaria SUMOB nº 107/2025",
+   "fonte_url": "https://prefeitura.pbh.gov.br/sumob/catraca-livre",
+   "confianca": "A",
+   "verificado_em": "2026-10-18"
   },
   {
    "uf": "MG",
@@ -681,6 +729,30 @@
    "fonte_url": "https://www.treslagoas.ms.gov.br/tres-lagoas-tera-transporte-coletivo-gratuito-no-domingo-de-eleicoes/",
    "confianca": "A",
    "verificado_em": "2026-10-17"
+  },
+  {
+   "uf": "MT",
+   "municipio": "Cuiabá",
+   "cod_ibge": "5103403",
+   "tipo": "estudante",
+   "regra": "Cuiabá Card Estudantil: ônibus gratuito para estudantes o dia todo, em qualquer horário e quantas vezes quiserem, ampliando o passe livre estudantil; o benefício depende da frequência escolar (segundo a prefeitura em 01/09/2026, a falta suspende o benefício no dia seguinte)",
+   "desde": "2026-09-04",
+   "base_legal": null,
+   "fonte_url": "https://www.cuiaba.mt.gov.br/noticias/cuiaba-amplia-passe-livre-e-garante-onibus-gratuito-aos-estudantes-o-dia-todo",
+   "confianca": "B",
+   "verificado_em": "2026-10-18"
+  },
+  {
+   "uf": "MT",
+   "municipio": "Cuiabá",
+   "cod_ibge": "5103403",
+   "tipo": "tarifa_zero_temporal",
+   "regra": "Tarifa Zero aos domingos em todas as linhas municipais (não vale no transporte intermunicipal) e, por decreto, em feriados e datas específicas, como o aniversário da cidade, 1º de maio e 7 de setembro",
+   "desde": "2025-04-29",
+   "base_legal": "Lei Municipal nº 7.248, de 29/04/2025",
+   "fonte_url": "https://www.cuiaba.mt.gov.br/noticias/tarifa-zero-completa-um-ano-com-mais-de-1-3-milhao-de-passagens-utilizadas-pela-populacao",
+   "confianca": "A",
+   "verificado_em": "2026-10-18"
   },
   {
    "uf": "MT",
@@ -915,12 +987,12 @@
    "municipio": "Teresina",
    "cod_ibge": "2211001",
    "tipo": "idoso",
-   "regra": "gratuidade a partir de 65 anos completos, com o cartão Passe Livre (cadastro orientado pelo CRAS)",
+   "regra": "gratuidade para quem tem 65 anos ou mais, com o Cartão Mais Fácil Melhor Idade",
    "desde": null,
-   "base_legal": null,
-   "fonte_url": "https://setut.com.br/faq-2",
+   "base_legal": "Lei Municipal nº 1.157/1988, citada pelo Setut",
+   "fonte_url": "https://www.maisfacilteresina.com.br/",
    "confianca": "B",
-   "verificado_em": "2026-10-17"
+   "verificado_em": "2026-10-18"
   },
   {
    "uf": "PI",
@@ -951,12 +1023,12 @@
    "municipio": "Curitiba",
    "cod_ibge": "4106902",
    "tipo": "tarifa_reduzida",
-   "regra": "domingo com meia tarifa",
-   "desde": "2025-01",
-   "base_legal": null,
-   "fonte_url": "https://www.urbs.curitiba.pr.gov.br/portal/transporte/rede-integrada-de-transporte/",
-   "confianca": "B",
-   "verificado_em": "2026-10-17"
+   "regra": "Domingão Paga Meia: desconto de 50% sobre a tarifa social (R$ 3,00 sobre R$ 6,00) aos domingos e feriados oficiais nacionais e locais, em todos os meios de pagamento, nas linhas convencionais e da Rede Integrada de Transporte. A Prefeitura anunciou a continuidade do programa em 2026 (notícia de 05/01/2026).",
+   "desde": "2025-01-05",
+   "base_legal": "Decreto municipal nº 35, de 02/01/2025 (Diário Oficial Eletrônico de Curitiba nº 1, de 02/01/2025), com efeitos a partir da zero hora de 05/01/2025",
+   "fonte_url": "https://legisladocexterno.curitiba.pr.gov.br/VisualizarHTML.aspx?id=437688",
+   "confianca": "A",
+   "verificado_em": "2026-10-18"
   },
   {
    "uf": "PR",
@@ -1281,6 +1353,18 @@
    "fonte_url": "https://diariomunicipal.sc.gov.br/atos/8057870",
    "confianca": "A",
    "verificado_em": "2026-10-17"
+  },
+  {
+   "uf": "SC",
+   "municipio": "Florianópolis",
+   "cod_ibge": "4205407",
+   "tipo": "estudante",
+   "regra": "Estudante paga R$ 3,10 nas linhas distritais e urbanas e R$ 1,93 nas linhas sociais (cerca de metade das tarifas do Cartão Cidadão); o estudante social não paga, com subsídio regular igual à tarifa técnica de R$ 7,70. O benefício exige Cartão Estudante ou Estudante Social e depende do cadastro prévio da instituição de ensino no Sistema de Bilhetagem Eletrônica.",
+   "desde": null,
+   "base_legal": "Decreto nº 28.860/2025, anexo único (valores de 2026); Decreto nº 28.724/2025 (cadastro das instituições de ensino)",
+   "fonte_url": "https://diariomunicipal.sc.gov.br/arquivosbd/atos/2025/12/1767204593_decreto_n._28.860.pdf",
+   "confianca": "A",
+   "verificado_em": "2026-10-18"
   },
   {
    "uf": "SC",
