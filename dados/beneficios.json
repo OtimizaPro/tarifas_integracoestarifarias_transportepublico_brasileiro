@@ -1,6 +1,6 @@
 {
  "nome": "Base Nacional de Tarifas do Transporte Público: beneficios",
- "versao": "2026.10.18.2",
+ "versao": "2026.10.18.3",
  "licenca": {
   "nome": "CC BY-NC 4.0",
   "url": "https://creativecommons.org/licenses/by-nc/4.0/deed.pt-br",
@@ -8,7 +8,7 @@
   "uso_interno": "A consulta para decisões da própria empresa, como orçar o vale-transporte, não pede licença.",
   "uso_comercial": "Uso comercial por empresas (em produto, revenda ou integração em sistema ou serviço pago) pede licença da Otimiza.pro: empresa@otimiza.pro."
  },
- "citar_como": "Fonte: Otimiza.pro, Base Nacional de Tarifas do Transporte Público, versão 2026.10.18.2. https://github.com/OtimizaPro/tarifas_integracoestarifarias_transportepublico_brasileiro",
+ "citar_como": "Fonte: Otimiza.pro, Base Nacional de Tarifas do Transporte Público, versão 2026.10.18.3. https://github.com/OtimizaPro/tarifas_integracoestarifarias_transportepublico_brasileiro",
  "linhas": [
   {
    "uf": "AL",
@@ -588,6 +588,42 @@
   },
   {
    "uf": "MG",
+   "municipio": "Ipatinga",
+   "cod_ibge": "3131307",
+   "tipo": "estudante",
+   "regra": "Tarifa estudantil de R$ 4,40",
+   "desde": "2026-06-27",
+   "base_legal": "Decreto nº 12.135/2026, art. 1º, § 2º",
+   "fonte_url": "https://www.ipatinga.mg.gov.br/abrir_arquivo.aspx?cdLocal=12&arquivo=%7BCCBA4500-0D8A-2E72-32B1-8ACB70B2AECE%7D.pdf",
+   "confianca": "A",
+   "verificado_em": "2026-10-18"
+  },
+  {
+   "uf": "MG",
+   "municipio": "Ipatinga",
+   "cod_ibge": "3131307",
+   "tipo": "idoso",
+   "regra": "Cartão Buse Idoso, pessoal e intransferível, concedido nos termos da legislação federal",
+   "desde": null,
+   "base_legal": "legislação federal (contrato Buse, cláusula 6.11)",
+   "fonte_url": "http://meubuse.com.br/contrato/download/fn/contrato-buse-ipatinga.pdf",
+   "confianca": "B",
+   "verificado_em": "2026-10-18"
+  },
+  {
+   "uf": "MG",
+   "municipio": "Ipatinga",
+   "cod_ibge": "3131307",
+   "tipo": "tarifa_reduzida",
+   "regra": "Cartão Buse Gratuidade para pessoas com deficiência, com ou sem acompanhante, conforme a legislação municipal e autorização do poder concedente",
+   "desde": null,
+   "base_legal": "legislação municipal (não numerada no contrato)",
+   "fonte_url": "http://meubuse.com.br/contrato/download/fn/contrato-buse-ipatinga.pdf",
+   "confianca": "B",
+   "verificado_em": "2026-10-18"
+  },
+  {
+   "uf": "MG",
    "municipio": "Juiz de Fora",
    "cod_ibge": "3136702",
    "tipo": "tarifa_zero_temporal",
@@ -597,6 +633,30 @@
    "fonte_url": "https://www.pjf.mg.gov.br/noticias/view.php?modo=link2&idnoticia2=85296",
    "confianca": "A",
    "verificado_em": "2026-10-17"
+  },
+  {
+   "uf": "MG",
+   "municipio": "Pouso Alegre",
+   "cod_ibge": "3152501",
+   "tipo": "idoso",
+   "regra": "Gratuidade para idosos de 60 anos ou mais, com cartão emitido na Rua Dom Nery, 360, Centro",
+   "desde": null,
+   "base_legal": null,
+   "fonte_url": "https://www.planaltopousoalegre.com.br/itens",
+   "confianca": "B",
+   "verificado_em": "2026-10-18"
+  },
+  {
+   "uf": "MG",
+   "municipio": "Pouso Alegre",
+   "cod_ibge": "3152501",
+   "tipo": "tarifa_reduzida",
+   "regra": "Gratuidade para pessoas com deficiência, com direito a acompanhante; o cartão PCD exige o Passe Livre Federal dentro da validade",
+   "desde": null,
+   "base_legal": null,
+   "fonte_url": "https://www.planaltopousoalegre.com.br/itens",
+   "confianca": "B",
+   "verificado_em": "2026-10-18"
   },
   {
    "uf": "MG",
@@ -645,6 +705,42 @@
    "fonte_url": "https://www.santaluzia.mg.gov.br/noticiasv3/sancionada-lei-que-concede-tarifas-gratuitas-no-transporte-publico-luziense-aos-domingos-e-feriados/",
    "confianca": "A",
    "verificado_em": "2026-10-17"
+  },
+  {
+   "uf": "MG",
+   "municipio": "Uberaba",
+   "cod_ibge": "3170107",
+   "tipo": "estudante",
+   "regra": "Desconto para estudantes previsto em lei; cartão Prático Estudante com foto, válido de segunda a domingo, até 8 passagens por dia",
+   "desde": null,
+   "base_legal": "Lei Municipal nº 9.822/2005; Decreto nº 2.026/2026, art. 3º",
+   "fonte_url": "https://dosp.com.br/exibe_do.php?i=ODAzMzY3",
+   "confianca": "A",
+   "verificado_em": "2026-10-18"
+  },
+  {
+   "uf": "MG",
+   "municipio": "Uberaba",
+   "cod_ibge": "3170107",
+   "tipo": "idoso",
+   "regra": "Gratuidade para idosos; cartão Idoso com identificação no embarque e intervalo de 30 minutos entre usos no mesmo ônibus",
+   "desde": null,
+   "base_legal": "Lei Municipal nº 9.822, de 17/11/2005; mantida pelo Decreto nº 2.026/2026, art. 3º",
+   "fonte_url": "https://dosp.com.br/exibe_do.php?i=ODAzMzY3",
+   "confianca": "A",
+   "verificado_em": "2026-10-18"
+  },
+  {
+   "uf": "MG",
+   "municipio": "Uberaba",
+   "cod_ibge": "3170107",
+   "tipo": "tarifa_reduzida",
+   "regra": "Gratuidade para pessoas com deficiência com incapacidade ou dificuldade de locomoção; cartões Especial e Especial com acompanhante, com cadastro na Secretaria Municipal de Desenvolvimento Social",
+   "desde": null,
+   "base_legal": "Lei Municipal nº 9.822/2005; Decreto nº 2.026/2026, art. 3º",
+   "fonte_url": "https://dosp.com.br/exibe_do.php?i=ODAzMzY3",
+   "confianca": "A",
+   "verificado_em": "2026-10-18"
   },
   {
    "uf": "MG",
@@ -722,13 +818,25 @@
    "uf": "MS",
    "municipio": "Três Lagoas",
    "cod_ibge": "5008305",
+   "tipo": "tarifa_reduzida",
+   "regra": "Passe gratuito para pessoas com deficiência comprovada por laudo com CID, residentes em Três Lagoas, com renda per capita de até um salário mínimo; pedido no CRAS",
+   "desde": "2022-11",
+   "base_legal": "Decreto nº 328, de 08/11/2022 (Diário Oficial dos Municípios de 16/11/2022)",
+   "fonte_url": "https://www.treslagoas.ms.gov.br/prefeitura-atualiza-normas-do-passe-de-transporte-coletivo-urbano-gratuito-para-pessoas-com-deficiencia/",
+   "confianca": "A",
+   "verificado_em": "2026-10-18"
+  },
+  {
+   "uf": "MS",
+   "municipio": "Três Lagoas",
+   "cod_ibge": "5008305",
    "tipo": "tarifa_zero_temporal",
-   "regra": "Transporte coletivo urbano gratuito para toda a população no domingo de eleição, 04/10/2026, nas linhas regulares",
+   "regra": "Transporte coletivo urbano gratuito para toda a população no domingo de eleição, 04/10/2026, nas rotas e itinerários normais",
    "desde": "2026-10-04",
    "base_legal": null,
    "fonte_url": "https://www.treslagoas.ms.gov.br/tres-lagoas-tera-transporte-coletivo-gratuito-no-domingo-de-eleicoes/",
    "confianca": "A",
-   "verificado_em": "2026-10-17"
+   "verificado_em": "2026-10-18"
   },
   {
    "uf": "MT",
@@ -876,6 +984,18 @@
   },
   {
    "uf": "PA",
+   "municipio": "Canaã dos Carajás",
+   "cod_ibge": "1502152",
+   "tipo": "idoso",
+   "regra": "Isenção para idosos com 60 anos ou mais, pessoas com deficiência física, visual ou com mobilidade reduzida e crianças de até 8 anos; a notícia de 21/05/2025 inclui agentes de trânsito, policiais militares e civis e bombeiros militares",
+   "desde": "2024-12",
+   "base_legal": "Lei Municipal nº 1.051, de 08/05/2023; Decreto nº 1.468/2024",
+   "fonte_url": "https://www.canaadoscarajas.pa.gov.br/novo/conselho-municipal-de-transito-e-transporte-aprova-valor-do-transporte-coletivo-em-canaa-dos-carajas/",
+   "confianca": "A",
+   "verificado_em": "2026-10-18"
+  },
+  {
+   "uf": "PA",
    "municipio": "Parauapebas",
    "cod_ibge": "1505536",
    "tipo": "estudante",
@@ -1008,6 +1128,42 @@
   },
   {
    "uf": "PR",
+   "municipio": "Cascavel",
+   "cod_ibge": "4104808",
+   "tipo": "estudante",
+   "regra": "Meio-passe (50%) com Cartão ValeSim Estudante, de segunda a sábado, no período letivo; atualização cadastral duas vezes por ano",
+   "desde": null,
+   "base_legal": "Lei Municipal nº 2.958/1999; Decreto nº 12.333/2015",
+   "fonte_url": "https://www.valesim.com.br/estudante.html",
+   "confianca": "B",
+   "verificado_em": "2026-10-18"
+  },
+  {
+   "uf": "PR",
+   "municipio": "Cascavel",
+   "cod_ibge": "4104808",
+   "tipo": "idoso",
+   "regra": "Cartão de gratuidade nominal para idosos de 60 a 64 anos e acima de 65 anos (cada categoria com regra própria) e também para pessoas com deficiência, ostomizados, crônicos renais, policiais militares e civis, presidentes de bairro e servidores da Funasa",
+   "desde": null,
+   "base_legal": null,
+   "fonte_url": "https://www.valesim.com.br/gratis.html",
+   "confianca": "B",
+   "verificado_em": "2026-10-18"
+  },
+  {
+   "uf": "PR",
+   "municipio": "Cascavel",
+   "cod_ibge": "4104808",
+   "tipo": "tarifa_zero_temporal",
+   "regra": "Domingo Passe Livre: transporte coletivo urbano gratuito aos domingos e também no Natal (25/12), no Ano Novo (01/01), no aniversário do Município (14/11) e nos dias de eleição; desde 18/01/2026 o embarque exige validar o cartão ValeSim (1ª via gratuita) e entrar pela porta da frente",
+   "desde": "2025-01-05",
+   "base_legal": "Decreto municipal publicado no Diário Oficial do Município em 03/01/2025",
+   "fonte_url": "https://www.transitarcascavel.com.br/domingo-passe-livre-prefeitura-de-cascavel-inova-e-promove-tarifa-gratuita-no-transporte-coletivo-aos-domingos/",
+   "confianca": "B",
+   "verificado_em": "2026-10-18"
+  },
+  {
+   "uf": "PR",
    "municipio": "Curitiba",
    "cod_ibge": "4106902",
    "tipo": "idoso",
@@ -1080,6 +1236,54 @@
   },
   {
    "uf": "PR",
+   "municipio": "Maringá",
+   "cod_ibge": "4115200",
+   "tipo": "estudante",
+   "regra": "Passe Livre do Estudante (100%) para estudantes residentes em Maringá, com cadastro no site da Prefeitura; meia passagem (50%, R$ 2,90) para estudantes de 1º, 2º e 3º graus e professores residentes que não se enquadram no passe livre",
+   "desde": null,
+   "base_legal": "Lei Municipal nº 8.679/2010 (Passe Livre do Estudante); Decreto nº 1262/2026, art. 1º, II, a",
+   "fonte_url": "http://www.tccc.com.br/informacoes.html",
+   "confianca": "B",
+   "verificado_em": "2026-10-18"
+  },
+  {
+   "uf": "PR",
+   "municipio": "Maringá",
+   "cod_ibge": "4115200",
+   "tipo": "idoso",
+   "regra": "Cartão de idoso e de pessoa com deficiência emitido pela SEMOB (Av. Rebouças, 828); no embarque, quem usa cartão gratuito apresenta documento com foto.",
+   "desde": null,
+   "base_legal": null,
+   "fonte_url": "http://www.tccc.com.br/informacoes.html",
+   "confianca": "B",
+   "verificado_em": "2026-10-18"
+  },
+  {
+   "uf": "PR",
+   "municipio": "Maringá",
+   "cod_ibge": "4115200",
+   "tipo": "tarifa_reduzida",
+   "regra": "Bônus de 15% do valor da passagem em crédito eletrônico a cada viagem com tarifa integral no Cartão Passe Fácil entre 8h30 e 11h e entre 13h30 e 16h",
+   "desde": "2026-07-12",
+   "base_legal": "Decreto nº 1262/2026, art. 2º",
+   "fonte_url": "https://venus.maringa.pr.gov.br/arquivos/orgao_oficial/arquivos/domm%204876.pdf",
+   "confianca": "A",
+   "verificado_em": "2026-10-18"
+  },
+  {
+   "uf": "PR",
+   "municipio": "Paranaguá",
+   "cod_ibge": "4118204",
+   "tipo": "tarifa_zero_universal",
+   "regra": "Transporte coletivo municipal gratuito para o usuário, custeado integralmente com recursos públicos; o cadastro com cartão de acesso descrito em 2022 não foi reconferido nesta rodada",
+   "desde": "2022-03",
+   "base_legal": "Lei Complementar nº 269/2021",
+   "fonte_url": "https://www.paranagua.pr.gov.br/noticias/noticia5187.html",
+   "confianca": "A",
+   "verificado_em": "2026-10-18"
+  },
+  {
+   "uf": "PR",
    "municipio": "Ponta Grossa",
    "cod_ibge": "4119905",
    "tipo": "estudante",
@@ -1104,6 +1308,66 @@
   },
   {
    "uf": "RJ",
+   "municipio": "Cabo Frio",
+   "cod_ibge": "3300704",
+   "tipo": "estudante",
+   "regra": "Gratuidade estudantil para alunos da rede municipal de Cabo Frio, da rede estadual (SEEDUC) e do ensino técnico",
+   "desde": null,
+   "base_legal": null,
+   "fonte_url": "https://www.salineira.com.br/bilhetagem-eletronica",
+   "confianca": "B",
+   "verificado_em": "2026-10-18"
+  },
+  {
+   "uf": "RJ",
+   "municipio": "Cabo Frio",
+   "cod_ibge": "3300704",
+   "tipo": "idoso",
+   "regra": "Gratuidade para idosos acima de 65 anos, com cartão emitido nas Centrais de Bilhetagem (120.624 gratuidades ativas em jun/2024)",
+   "desde": null,
+   "base_legal": null,
+   "fonte_url": "https://www.salineira.com.br/bilhetagem-eletronica",
+   "confianca": "B",
+   "verificado_em": "2026-10-18"
+  },
+  {
+   "uf": "RJ",
+   "municipio": "Cabo Frio",
+   "cod_ibge": "3300704",
+   "tipo": "tarifa_reduzida",
+   "regra": "Vale social (gratuidade) para pessoas com deficiência",
+   "desde": null,
+   "base_legal": null,
+   "fonte_url": "https://www.salineira.com.br/bilhetagem-eletronica",
+   "confianca": "B",
+   "verificado_em": "2026-10-18"
+  },
+  {
+   "uf": "RJ",
+   "municipio": "Cabo Frio",
+   "cod_ibge": "3300704",
+   "tipo": "tarifa_reduzida",
+   "regra": "Programa Integra Tamoios: tarifa subsidiada de R$ 3,00 em seis linhas do 2º distrito",
+   "desde": "2025-03-11",
+   "base_legal": "Lei nº 4.464/2025 e Decreto nº 7.462/2025",
+   "fonte_url": "https://portal.cabofrio.rj.gov.br/arquivos/5279/DECRETO_7.462_2025_0000001.pdf",
+   "confianca": "A",
+   "verificado_em": "2026-10-18"
+  },
+  {
+   "uf": "RJ",
+   "municipio": "Cabo Frio",
+   "cod_ibge": "3300704",
+   "tipo": "tarifa_zero_temporal",
+   "regra": "Transporte coletivo municipal gratuito para todos das 6h às 20h em 04/10/2026 e, se houver 2º turno, em 25/10/2026, em todas as linhas, inclusive as do 2º distrito e do Integra Tamoios",
+   "desde": "2026-10-04",
+   "base_legal": "Decreto nº 7.906, de 02/10/2026 (Diário Oficial Eletrônico nº 199)",
+   "fonte_url": "https://portal.cabofrio.rj.gov.br/arquivos/7321/DECRETO_7.906_2026_0000001.pdf",
+   "confianca": "A",
+   "verificado_em": "2026-10-18"
+  },
+  {
+   "uf": "RJ",
    "municipio": "Campos dos Goytacazes",
    "cod_ibge": "3301009",
    "tipo": "tarifa_zero_temporal",
@@ -1112,7 +1376,7 @@
    "base_legal": "Decreto nº 293/2026 (suplemento do Diário Oficial, edição 2113, de 17/08/2026)",
    "fonte_url": "https://campos.rj.gov.br/2026/08/27/transporte-coletivo-tera-gratuidade-nos-dias-das-eleicoes-2026-em-campos/",
    "confianca": "A",
-   "verificado_em": "2026-10-17"
+   "verificado_em": "2026-10-18"
   },
   {
    "uf": "RJ",
@@ -1176,6 +1440,90 @@
   },
   {
    "uf": "RJ",
+   "municipio": "Petrópolis",
+   "cod_ibge": "3303906",
+   "tipo": "estudante",
+   "regra": "Gratuidade para estudantes da rede municipal (com distância mínima casa-escola) e do ensino médio da rede pública nas permissionárias; 50% de desconto para estudantes da rede particular e do ensino superior (no superior, renda de até 5 salários mínimos), com créditos limitados aos dias letivos",
+   "desde": null,
+   "base_legal": "Lei Municipal nº 6.387/2006 (redação da Lei nº 9.236/2026)",
+   "fonte_url": "https://setranspetro.com.br/gratuidades",
+   "confianca": "B",
+   "verificado_em": "2026-10-18"
+  },
+  {
+   "uf": "RJ",
+   "municipio": "Petrópolis",
+   "cod_ibge": "3303906",
+   "tipo": "idoso",
+   "regra": "Gratuidade para idosos a partir de 65 anos",
+   "desde": null,
+   "base_legal": "legislação e decretos municipais (não numerados na página)",
+   "fonte_url": "https://setranspetro.com.br/gratuidades",
+   "confianca": "B",
+   "verificado_em": "2026-10-18"
+  },
+  {
+   "uf": "RJ",
+   "municipio": "Petrópolis",
+   "cod_ibge": "3303906",
+   "tipo": "tarifa_reduzida",
+   "regra": "Gratuidade para pessoas com deficiência e doentes crônicos em tratamento contínuo (inclui fibromialgia, hemofilia e AIDS), com acompanhante quando indicado em laudo; créditos limitados às necessidades de deslocamento para tratamento; cadastro e perícia na entidade das permissionárias",
+   "desde": "2026-04-17",
+   "base_legal": "Lei Municipal nº 6.387/2006, alterada pela Lei nº 9.236, de 17/04/2026",
+   "fonte_url": "https://www.petropolis.rj.gov.br/gap/diario-oficial/publicacoes/view/216",
+   "confianca": "A",
+   "verificado_em": "2026-10-18"
+  },
+  {
+   "uf": "RJ",
+   "municipio": "Saquarema",
+   "cod_ibge": "3305505",
+   "tipo": "estudante",
+   "regra": "Cartão estudante municipal, pedido na Secretaria de Educação com declaração escolar (desconto ou gratuidade não detalhados na página)",
+   "desde": null,
+   "base_legal": null,
+   "fonte_url": "https://www.riolagostransportes.com.br/faq",
+   "confianca": "B",
+   "verificado_em": "2026-10-18"
+  },
+  {
+   "uf": "RJ",
+   "municipio": "Saquarema",
+   "cod_ibge": "3305505",
+   "tipo": "idoso",
+   "regra": "Cartão sênior de gratuidade, pedido na Secretaria de Promoção Social com identidade, CPF e comprovante de residência",
+   "desde": null,
+   "base_legal": null,
+   "fonte_url": "https://www.riolagostransportes.com.br/faq",
+   "confianca": "B",
+   "verificado_em": "2026-10-18"
+  },
+  {
+   "uf": "RJ",
+   "municipio": "Saquarema",
+   "cod_ibge": "3305505",
+   "tipo": "tarifa_reduzida",
+   "regra": "Tarifa Solidária: moradores de Saquarema de 6 a 64 anos, cadastrados na Central do Cidadão, pagam R$ 2,00 por viagem nos ônibus municipais",
+   "desde": "2021",
+   "base_legal": "Lei Municipal nº 2.046, de 08/01/2021 (redação da Lei nº 2.213/2022), regulamentada pelo Decreto nº 2.090, de 29/01/2021",
+   "fonte_url": "https://www.saquarema.rj.gov.br/em-cinco-anos-cartao-tarifa-solidaria-atinge-marca-de-11-milhoes-de-viagens/",
+   "confianca": "A",
+   "verificado_em": "2026-10-18"
+  },
+  {
+   "uf": "RJ",
+   "municipio": "Saquarema",
+   "cod_ibge": "3305505",
+   "tipo": "tarifa_zero_temporal",
+   "regra": "Transporte coletivo municipal gratuito das 6h às 20h em 04/10/2026 e, se houver 2º turno, em 25/10/2026, com toda a frota de dias úteis",
+   "desde": "2026-10-04",
+   "base_legal": "Decreto nº 3.263, de 06/08/2026 (publicado em 07/08/2026)",
+   "fonte_url": "https://transparencia.saquarema.rj.gov.br/wp-content/uploads/2026/08/Decreto-3263_11082026093637.pdf",
+   "confianca": "A",
+   "verificado_em": "2026-10-18"
+  },
+  {
+   "uf": "RJ",
    "municipio": "São Gonçalo",
    "cod_ibge": "3304904",
    "tipo": "tarifa_zero_temporal",
@@ -1185,6 +1533,18 @@
    "fonte_url": "https://do.pmsg.rj.gov.br/diario/2026_09_18.pdf",
    "confianca": "A",
    "verificado_em": "2026-10-17"
+  },
+  {
+   "uf": "RJ",
+   "municipio": "São João da Barra",
+   "cod_ibge": "3305000",
+   "tipo": "tarifa_zero_universal",
+   "regra": "Transporte público municipal gratuito para todos, nas 6 linhas dos 'Vermelhinhos'",
+   "desde": "2018",
+   "base_legal": null,
+   "fonte_url": "https://www.sjb.rj.gov.br/site/noticia/renovacao_da_frota_do_transporte_gratuito_prossegue_em_sjb/17635",
+   "confianca": "B",
+   "verificado_em": "2026-10-18"
   },
   {
    "uf": "RN",
@@ -1272,6 +1632,30 @@
   },
   {
    "uf": "RS",
+   "municipio": "Passo Fundo",
+   "cod_ibge": "4314100",
+   "tipo": "estudante",
+   "regra": "Cota mensal de 80 passagens (fundamental, médio e superior) ou 110 (superior em turno integral comprovado); cadastro presencial, com renovação anual (fundamental e médio) ou semestral (superior e técnico)",
+   "desde": null,
+   "base_legal": "Lei Municipal nº 4.465/2008",
+   "fonte_url": "https://www.coleurb.com.br/site/duvidasbilhetagem",
+   "confianca": "B",
+   "verificado_em": "2026-10-18"
+  },
+  {
+   "uf": "RS",
+   "municipio": "Passo Fundo",
+   "cod_ibge": "4314100",
+   "tipo": "idoso",
+   "regra": "Cartão para idosos acima de 65 anos, feito presencialmente com documento com foto, CPF e endereço; pessoas com deficiência fazem o cadastro pela entidade à qual estão vinculadas",
+   "desde": null,
+   "base_legal": null,
+   "fonte_url": "https://www.coleurb.com.br/site/duvidasbilhetagem",
+   "confianca": "B",
+   "verificado_em": "2026-10-18"
+  },
+  {
+   "uf": "RS",
    "municipio": "Pelotas",
    "cod_ibge": "4314407",
    "tipo": "estudante",
@@ -1295,6 +1679,18 @@
    "verificado_em": "2026-10-17"
   },
   {
+   "uf": "RS",
+   "municipio": "Rio Grande",
+   "cod_ibge": "4315602",
+   "tipo": "estudante",
+   "regra": "Tarifa de estudante de R$ 2,84 no Cartão Rio Grande (metade da tarifa do cartão)",
+   "desde": "2026-04-26",
+   "base_legal": null,
+   "fonte_url": "https://www2.riogrande.rs.gov.br/noticia/52289/52289",
+   "confianca": "B",
+   "verificado_em": "2026-10-18"
+  },
+  {
    "uf": "SC",
    "municipio": "Balneário Camboriú",
    "cod_ibge": "4202008",
@@ -1305,6 +1701,30 @@
    "fonte_url": "https://antigo.bc.sc.gov.br/arquivos/licitacao/CR2KC4XT.pdf",
    "confianca": "A",
    "verificado_em": "2026-10-17"
+  },
+  {
+   "uf": "SC",
+   "municipio": "Blumenau",
+   "cod_ibge": "4202404",
+   "tipo": "estudante",
+   "regra": "Tarifa escolar de R$ 2,75 no cartão (metade da antecipada), com recadastro e limites mensais de 20 créditos (cursos com até duas aulas semanais) ou 50 créditos (mais de duas aulas semanais)",
+   "desde": null,
+   "base_legal": null,
+   "fonte_url": "https://blumob.com.br/portal-de-vendas/",
+   "confianca": "B",
+   "verificado_em": "2026-10-18"
+  },
+  {
+   "uf": "SC",
+   "municipio": "Blumenau",
+   "cod_ibge": "4202404",
+   "tipo": "idoso",
+   "regra": "Cartões de modalidade não pagante 'Melhor Idade', 'Passe Livre' e CEI",
+   "desde": null,
+   "base_legal": null,
+   "fonte_url": "https://blumob.com.br/duvidas-frequentes/",
+   "confianca": "B",
+   "verificado_em": "2026-10-18"
   },
   {
    "uf": "SC",
@@ -1380,6 +1800,54 @@
   },
   {
    "uf": "SC",
+   "municipio": "Itajaí",
+   "cod_ibge": "4208203",
+   "tipo": "estudante",
+   "regra": "50% de desconto (R$ 2,15) para estudantes do ensino fundamental, médio, superior e profissionalizante, com Cartão Estudante emitido no Terminal Fazenda (declaração de matrícula, RG, CPF e comprovante de residência)",
+   "desde": null,
+   "base_legal": "Lei Municipal nº 5.302/2009 (altera o § 3º do art. 9º da Lei nº 3.076/1996); Decreto nº 13.063/2023, art. 6º",
+   "fonte_url": "https://www.consorcioatalaia.com.br/cartao-cidadao",
+   "confianca": "B",
+   "verificado_em": "2026-10-18"
+  },
+  {
+   "uf": "SC",
+   "municipio": "Itajaí",
+   "cod_ibge": "4208203",
+   "tipo": "idoso",
+   "regra": "Cartão do Idoso para pessoas a partir de 60 anos cadastradas na concessionária (RG, CPF e comprovante de residência, no Terminal Fazenda); também há Cartão PcD para pessoas com deficiência (Lei Municipal nº 6.936/2018, que altera o art. 2º da Lei nº 3.642/2001). A página não detalha o alcance da isenção.",
+   "desde": null,
+   "base_legal": "Lei Municipal nº 5.302/2009 (altera o § 3º do art. 9º da Lei nº 3.076/1996)",
+   "fonte_url": "https://www.consorcioatalaia.com.br/cartao-cidadao",
+   "confianca": "B",
+   "verificado_em": "2026-10-18"
+  },
+  {
+   "uf": "SC",
+   "municipio": "Itajaí",
+   "cod_ibge": "4208203",
+   "tipo": "tarifa_reduzida",
+   "regra": "R$ 1,00 aos domingos e feriados do calendário oficial do Município, em dinheiro ou em créditos antecipados (tarifa unitária, estudante e vale-transporte)",
+   "desde": "2025-12-01",
+   "base_legal": "Decreto nº 13.890, de 01/12/2025 (Jornal do Município nº 3093, de 03/12/2025)",
+   "fonte_url": "https://intranet2.itajai.sc.gov.br/public/jornal-municipio/jornais/jornal_2025_3093_3133.pdf",
+   "confianca": "A",
+   "verificado_em": "2026-10-18"
+  },
+  {
+   "uf": "SC",
+   "municipio": "Itajaí",
+   "cod_ibge": "4208203",
+   "tipo": "tarifa_zero_temporal",
+   "regra": "Gratuidade em todas as linhas, itinerários e terminais nos dias de votação das Eleições de 2026 (04/10/2026 e 25/10/2026, se houver 2º turno), com frota e horários de dia útil",
+   "desde": "2026-10-04",
+   "base_legal": "Decreto nº 14.294, de 23/09/2026 (Jornal do Município nº 3316, de 24/09/2026)",
+   "fonte_url": "https://intranet2.itajai.sc.gov.br/public/jornal-municipio/jornais/jornal_2026_3316_3365.pdf",
+   "confianca": "A",
+   "verificado_em": "2026-10-18"
+  },
+  {
+   "uf": "SC",
    "municipio": "Jaraguá do Sul",
    "cod_ibge": "4208906",
    "tipo": "tarifa_reduzida",
@@ -1404,27 +1872,123 @@
   },
   {
    "uf": "SP",
+   "municipio": "Americana",
+   "cod_ibge": "3501608",
+   "tipo": "estudante",
+   "regra": "Estudantes e professores pagam R$ 2,60 (50%).",
+   "desde": "2025-04-22",
+   "base_legal": "Decreto nº 13.716/2025, art. 2º, I; arts. 54 e 54-A da Lei nº 4.384/2006",
+   "fonte_url": "https://www.americana.sp.gov.br/download/diarioOficial/9nrf71mqdy.pdf",
+   "confianca": "A",
+   "verificado_em": "2026-10-18"
+  },
+  {
+   "uf": "SP",
+   "municipio": "Americana",
+   "cod_ibge": "3501608",
+   "tipo": "idoso",
+   "regra": "Gratuidade para idosos e seniores, pessoas com deficiência, patrulheiros, agentes públicos e outras categorias; mais de 150 mil viagens gratuitas por mês, segundo a Prefeitura.",
+   "desde": null,
+   "base_legal": "Lei nº 4.384/2006 e alterações (citada no decreto)",
+   "fonte_url": "https://www.americana.sp.gov.br/americana-index.php?a=noticia&id=32810",
+   "confianca": "A",
+   "verificado_em": "2026-10-18"
+  },
+  {
+   "uf": "SP",
+   "municipio": "Americana",
+   "cod_ibge": "3501608",
+   "tipo": "tarifa_zero_temporal",
+   "regra": "Gratuidade em todo o transporte coletivo urbano nos dias de eleição oficial, das 7h às 18h, no primeiro e no segundo turno.",
+   "desde": "2026-08-07",
+   "base_legal": "Decreto nº 13.999, de 3 de agosto de 2026 (Diário Oficial de 07/08/2026)",
+   "fonte_url": "https://www.americana.sp.gov.br/download/diarioOficial/nz1pc3z5vd.pdf",
+   "confianca": "A",
+   "verificado_em": "2026-10-18"
+  },
+  {
+   "uf": "SP",
+   "municipio": "Araraquara",
+   "cod_ibge": "3503208",
+   "tipo": "estudante",
+   "regra": "Cartão estudante paga R$ 2,62.",
+   "desde": "2026-01-03",
+   "base_legal": "Decreto nº 14.057/2025, art. 1º, IV",
+   "fonte_url": "https://araraquara.1dom.com.br/ato/01KDTCKNKVHTTY3KF1M95EM7P9",
+   "confianca": "A",
+   "verificado_em": "2026-10-18"
+  },
+  {
+   "uf": "SP",
    "municipio": "Araraquara",
    "cod_ibge": "3503208",
    "tipo": "tarifa_reduzida",
-   "regra": "Tarifa turística de 50% aos domingos e feriados com NovoCard Comum",
-   "desde": "2025-05",
-   "base_legal": "Decreto nº 14.057/2025 (valor atual)",
-   "fonte_url": "https://novocardararaquara.com.br/cartao-novocard-comum.php",
+   "regra": "Tarifa turística de R$ 2,62 aos domingos e feriados, só com o NovoCard Comum (50% da passagem).",
+   "desde": "2026-01-03",
+   "base_legal": "Decreto nº 14.057/2025, art. 2º",
+   "fonte_url": "https://araraquara.1dom.com.br/ato/01KDTCKNKVHTTY3KF1M95EM7P9",
+   "confianca": "A",
+   "verificado_em": "2026-10-18"
+  },
+  {
+   "uf": "SP",
+   "municipio": "Araraquara",
+   "cod_ibge": "3503208",
+   "tipo": "tarifa_zero_temporal",
+   "regra": "Tarifa gratuita durante o período de votação nas eleições de 04/10/2026 e 25/10/2026 (segundo turno, se houver), com horários de dia útil.",
+   "desde": "2026-10-04",
+   "base_legal": null,
+   "fonte_url": "https://novocardararaquara.com.br/",
    "confianca": "B",
-   "verificado_em": "2026-10-17"
+   "verificado_em": "2026-10-18"
+  },
+  {
+   "uf": "SP",
+   "municipio": "Barueri",
+   "cod_ibge": "3505708",
+   "tipo": "estudante",
+   "regra": "Passe Livre Barueri: estudantes a partir de 12 anos da rede pública e da FIEB, e bolsistas FIES ou PROUNI de faculdades, FATEC, ETEC e SENAI do município, com renda familiar até 2 salários mínimos e moradia a 2 km ou mais da escola, recebem créditos de 2 tarifas por dia letivo, só no calendário escolar; os demais estudantes podem ter o Cartão Estudante, com 50% de desconto (página inicial do Benfácil)",
+   "desde": null,
+   "base_legal": null,
+   "fonte_url": "https://www.benfacil.com/duvidas-frequentes-cartao-benfacil/",
+   "confianca": "B",
+   "verificado_em": "2026-10-18"
+  },
+  {
+   "uf": "SP",
+   "municipio": "Barueri",
+   "cod_ibge": "3505708",
+   "tipo": "idoso",
+   "regra": "Cartão Especial Idoso para quem tem 60 anos completos e não possui cartão Vale-Transporte empresarial (Barueri, Itapevi e Jandira); pessoas com deficiência têm a documentação verificada na SDPD ou no Ganha Tempo antes da emissão do Cartão Especial no Benfácil",
+   "desde": null,
+   "base_legal": null,
+   "fonte_url": "https://www.benfacil.com/duvidas-frequentes-cartao-benfacil/",
+   "confianca": "B",
+   "verificado_em": "2026-10-18"
   },
   {
    "uf": "SP",
    "municipio": "Bauru",
    "cod_ibge": "3506003",
    "tipo": "estudante",
-   "regra": "Redução de 50% aos estudantes (Decreto nº 12.397/2014), custeada conforme a Lei nº 6.422/2013",
+   "regra": "Redução de 50% para estudantes de cursos regulares (fundamental, médio, profissionalizante e superior), em até 50 viagens por mês, com cadastro anual.",
    "desde": null,
-   "base_legal": "Decreto nº 19.518/2026, art. 1º, II e III",
+   "base_legal": "Decreto nº 12.397/2014 e Lei nº 6.422/2013 (custeio), citados no Decreto nº 19.518/2026",
    "fonte_url": "https://www2.bauru.sp.gov.br/arquivos/sist_diariooficial/2026/07/do_20260721_4155.pdf",
    "confianca": "A",
-   "verificado_em": "2026-10-17"
+   "verificado_em": "2026-10-18"
+  },
+  {
+   "uf": "SP",
+   "municipio": "Bauru",
+   "cod_ibge": "3506003",
+   "tipo": "idoso",
+   "regra": "Isenção para pessoas a partir de 65 anos (Passe Cidadão) e para pessoas com deficiência; de 60 a 64 anos, gratuidade com o Cartão Idoso, cadastrado na Secretaria do Bem Estar Social, com carga automática mensal, não cumulativa, de 30 acessos e validade de um ano.",
+   "desde": null,
+   "base_legal": "Decreto nº 13.449, de 29 de junho de 2017 (60 a 64 anos)",
+   "fonte_url": "https://www.transurbbauru.com.br/cartoes/modalidades",
+   "confianca": "B",
+   "verificado_em": "2026-10-18"
   },
   {
    "uf": "SP",
@@ -1449,6 +2013,54 @@
    "fonte_url": "https://braganca.sp.gov.br/perguntas-frequentes-programa-tarifa-zero",
    "confianca": "B",
    "verificado_em": "2026-10-17"
+  },
+  {
+   "uf": "SP",
+   "municipio": "Cajamar",
+   "cod_ibge": "3509205",
+   "tipo": "estudante",
+   "regra": "BEM Escolar com 50% de desconto para alunos e professores que moram a mais de 1 km da escola; segundo as perguntas frequentes do BEM, cota de 50 viagens por mês de fevereiro a junho e de agosto a novembro, e de 30 em julho e dezembro",
+   "desde": null,
+   "base_legal": null,
+   "fonte_url": "https://www.bemcajamar.com.br/escolar/",
+   "confianca": "B",
+   "verificado_em": "2026-10-18"
+  },
+  {
+   "uf": "SP",
+   "municipio": "Cajamar",
+   "cod_ibge": "3509205",
+   "tipo": "idoso",
+   "regra": "BEM Sênior gratuito para passageiros com 65 anos ou mais, com RG, CPF e comprovante de residência",
+   "desde": null,
+   "base_legal": null,
+   "fonte_url": "https://www.bemcajamar.com.br/senior/",
+   "confianca": "B",
+   "verificado_em": "2026-10-18"
+  },
+  {
+   "uf": "SP",
+   "municipio": "Cajamar",
+   "cod_ibge": "3509205",
+   "tipo": "tarifa_reduzida",
+   "regra": "Isenção integral da tarifa municipal para moradores em tratamento de câncer, com renda familiar per capita até 2 salários mínimos, e para um acompanhante quando houver laudo, nos deslocamentos para o tratamento; cadastro na Central de Atendimento do BEM",
+   "desde": null,
+   "base_legal": "Lei nº 2.240, de 01/04/2026",
+   "fonte_url": "https://cajamar.sp.gov.br/noticias/2026/04/06/cajamar-garante-transporte-publico-gratuito-para-pacientes-em-tratamento-contra-o-cancer/",
+   "confianca": "A",
+   "verificado_em": "2026-10-18"
+  },
+  {
+   "uf": "SP",
+   "municipio": "Cajamar",
+   "cod_ibge": "3509205",
+   "tipo": "tarifa_zero_temporal",
+   "regra": "Ônibus municipais gratuitos para os eleitores em 04/10/2026 e, se houver 2º turno, em 25/10/2026, com frequência de dia útil",
+   "desde": "2026-10-04",
+   "base_legal": "Decreto nº 7.824, de 23/09/2026 (Diário Oficial do Município nº 1.762, de 23/09/2026)",
+   "fonte_url": "https://cajamar.sp.gov.br/decretos/wp-content/uploads/sites/28/2026/10/decreto-7824-26.pdf",
+   "confianca": "A",
+   "verificado_em": "2026-10-18"
   },
   {
    "uf": "SP",
@@ -1485,6 +2097,18 @@
    "fonte_url": "https://cotia.sp.gov.br/tarifa-zero-inclusiva-aos-domingos-ja-esta-valendo-em-cotia/",
    "confianca": "A",
    "verificado_em": "2026-10-17"
+  },
+  {
+   "uf": "SP",
+   "municipio": "Cubatão",
+   "cod_ibge": "3513504",
+   "tipo": "tarifa_zero_temporal",
+   "regra": "Linhas convencionais do transporte coletivo municipal gratuitas das 8h às 17h em 04/10/2026 e, se houver 2º turno, em 25/10/2026, com frequência de dia útil",
+   "desde": "2026-10-04",
+   "base_legal": "Decreto nº 12.365, de 30/09/2026 (Diário Oficial nº 2.096)",
+   "fonte_url": "https://cubatao.sp.gov.br/cmt-prepara-operacao-especial-de-transito-para-as-eleicoes-cidade-tera-gratuidade-nas-linhas-municipais-no-domingo/",
+   "confianca": "A",
+   "verificado_em": "2026-10-18"
   },
   {
    "uf": "SP",
@@ -1548,6 +2172,30 @@
   },
   {
    "uf": "SP",
+   "municipio": "Ilhabela",
+   "cod_ibge": "3520400",
+   "tipo": "estudante",
+   "regra": "Passe Escolar com regulamentação própria; a Expresso Fênix lista o cartão Estudante",
+   "desde": null,
+   "base_legal": "Decreto nº 11.403/2025, art. 3º (remete a regulamentação específica)",
+   "fonte_url": "https://www.ilhabela.sp.gov.br/uploads/diario_oficial_1632_30-07-2025_30055112.pdf",
+   "confianca": "A",
+   "verificado_em": "2026-10-18"
+  },
+  {
+   "uf": "SP",
+   "municipio": "Ilhabela",
+   "cod_ibge": "3520400",
+   "tipo": "idoso",
+   "regra": "Passe Livre ao Idoso com 60 anos ou mais e Passe Livre à Pessoa com Deficiência, com regulamentação própria; a Expresso Fênix lista os cartões Idoso 65, PCD e PCD com acompanhante",
+   "desde": null,
+   "base_legal": "Decreto nº 11.403/2025, art. 3º (remete a regulamentação específica)",
+   "fonte_url": "https://www.ilhabela.sp.gov.br/uploads/diario_oficial_1632_30-07-2025_30055112.pdf",
+   "confianca": "A",
+   "verificado_em": "2026-10-18"
+  },
+  {
+   "uf": "SP",
    "municipio": "Itapecerica da Serra",
    "cod_ibge": "3522208",
    "tipo": "tarifa_zero_temporal",
@@ -1560,27 +2208,51 @@
   },
   {
    "uf": "SP",
+   "municipio": "Itapevi",
+   "cod_ibge": "3522505",
+   "tipo": "estudante",
+   "regra": "Passe escolar com 50% de desconto e Passe Livre mantido para estudantes da rede pública que cumprem os requisitos municipais; segundo as perguntas frequentes do Benfácil, o Passe Livre atende alunos da rede pública e bolsistas PROUNI ou FIES que estudam em Itapevi, a 2 km ou mais da escola e com renda familiar até 2 salários mínimos, com duas passagens por dia letivo até 200 dias por ano e inscrição de janeiro a fevereiro",
+   "desde": null,
+   "base_legal": "Decreto nº 6.020/2025, arts. 3º e 4º",
+   "fonte_url": "https://itapevi.sp.gov.br/wp-content/uploads/2026/05/decreto-6.020-de-2025-aumento-de-tarifa-de-onibus-2026.pdf",
+   "confianca": "A",
+   "verificado_em": "2026-10-18"
+  },
+  {
+   "uf": "SP",
+   "municipio": "Itapevi",
+   "cod_ibge": "3522505",
+   "tipo": "idoso",
+   "regra": "Gratuidade para maiores de 60 anos no transporte municipal, apresentando RG ou documento oficial com foto ao motorista (o Cartão Especial é opcional); pessoas com deficiência, com TEA e com outras comorbidades previstas no decreto também têm gratuidade, com Cartão Especial emitido no Benfácil após encaminhamento do Centro de Reabilitação ou da UBS Cardoso",
+   "desde": null,
+   "base_legal": "Decreto nº 5.675, de 09/12/2021; Decreto nº 6.020/2025, art. 5º (mantém os benefícios dos idosos)",
+   "fonte_url": "https://itapevi.sp.gov.br/passe-livre-e-gratuidades-no-transporte/",
+   "confianca": "A",
+   "verificado_em": "2026-10-18"
+  },
+  {
+   "uf": "SP",
    "municipio": "Itu",
    "cod_ibge": "3523909",
    "tipo": "estudante",
-   "regra": "Cartão MoV Escolar com 50% de desconto sobre a tarifa vigente",
-   "desde": null,
-   "base_legal": null,
-   "fonte_url": "https://movitu.com.br/cartoes-mov/",
-   "confianca": "B",
-   "verificado_em": "2026-10-17"
+   "regra": "Passe escolar com 50% de desconto sobre a tarifa (cartão MoV Escolar, para alunos do ensino fundamental, médio e EMEF)",
+   "desde": "2021-12-27",
+   "base_legal": "Decreto nº 3.798/2021, art. 1º, parágrafo único",
+   "fonte_url": "https://www.dosp.com.br/exibe_do.php?i=MjEzNTk1",
+   "confianca": "A",
+   "verificado_em": "2026-10-18"
   },
   {
    "uf": "SP",
    "municipio": "Itu",
    "cod_ibge": "3523909",
    "tipo": "idoso",
-   "regra": "Cartões MoV Sênior (60 a 64 anos) e MoV Idoso (65 anos ou mais); condições do Sênior não detalhadas no trecho lido",
+   "regra": "O decreto da tarifa manda observar as gratuidades legais de pessoas com deficiência, gestantes e idosos; a MoV emite os cartões Sênior (60 a 64 anos) e Idoso (65 anos ou mais), sem informar desconto, MoV Gestante (isenção durante a gestação, com cadastro no Fundo Social) e MoV Especial (isenção para pessoas com deficiência que comprometa a capacidade de trabalho, com validade de 12 meses)",
    "desde": null,
-   "base_legal": null,
+   "base_legal": "Decreto nº 3.798/2021, art. 2º",
    "fonte_url": "https://movitu.com.br/cartoes-mov/",
    "confianca": "B",
-   "verificado_em": "2026-10-17"
+   "verificado_em": "2026-10-18"
   },
   {
    "uf": "SP",
@@ -1596,6 +2268,30 @@
   },
   {
    "uf": "SP",
+   "municipio": "Jaguariúna",
+   "cod_ibge": "3524709",
+   "tipo": "estudante",
+   "regra": "Passe escolar a 50% do valor da tarifa de remuneração para estudantes da rede pública e de escolas particulares de cursos oficiais, no trajeto até a escola e de volta, com crédito comprado pelo próprio beneficiário ou responsável.",
+   "desde": "2021-12-17",
+   "base_legal": "Lei nº 2.778/2021 (art. 15, § 1º, da Lei nº 2.222/2014)",
+   "fonte_url": "https://www.dosp.com.br/exibe_do.php?i=MjEyODc5",
+   "confianca": "B",
+   "verificado_em": "2026-10-18"
+  },
+  {
+   "uf": "SP",
+   "municipio": "Jaguariúna",
+   "cod_ibge": "3524709",
+   "tipo": "idoso",
+   "regra": "Gratuidade plena para pessoas com idade superior a 60 anos.",
+   "desde": "2021-12-17",
+   "base_legal": "Lei nº 2.778, de 17 de dezembro de 2021 (art. 14, § 5º, da Lei nº 2.222/2014)",
+   "fonte_url": "https://www.dosp.com.br/exibe_do.php?i=MjEyODc5",
+   "confianca": "B",
+   "verificado_em": "2026-10-18"
+  },
+  {
+   "uf": "SP",
    "municipio": "Jundiaí",
    "cod_ibge": "3525904",
    "tipo": "tarifa_reduzida",
@@ -1605,6 +2301,30 @@
    "fonte_url": "https://jundiai.sp.gov.br/mobilidade/indicadores-e-informacoes/transporte-coletivo/",
    "confianca": "B",
    "verificado_em": "2026-10-17"
+  },
+  {
+   "uf": "SP",
+   "municipio": "Louveira",
+   "cod_ibge": "3527306",
+   "tipo": "idoso",
+   "regra": "Idosos e pessoas com deficiência têm subsídio integral (gratuidade) em todos os dias. A MoV emite o Cartão Idoso (65 anos ou mais) e o Cartão Social (60 a 64 anos, gratuidade dada pela Prefeitura); pessoas com deficiência que comprometa a capacidade de trabalho, e seus acompanhantes, usam o Cartão Especial.",
+   "desde": "2021-05-17",
+   "base_legal": "Lei nº 2.678/2021 (art. 3º da Lei nº 2.213/2011)",
+   "fonte_url": "https://movlouveira.com.br/cartoes-mov/",
+   "confianca": "B",
+   "verificado_em": "2026-10-18"
+  },
+  {
+   "uf": "SP",
+   "municipio": "Louveira",
+   "cod_ibge": "3527306",
+   "tipo": "tarifa_zero_temporal",
+   "regra": "Transporte gratuito aos sábados, domingos e feriados para os munícipes que possuem o cartão de recarga simples do Município (subsídio integral).",
+   "desde": "2021-05-17",
+   "base_legal": "Lei nº 2.678, de 13 de maio de 2021, que alterou o art. 2º da Lei nº 2.213/2011",
+   "fonte_url": "https://www.dosp.com.br/exibe_do.php?i=MTY5ODUy",
+   "confianca": "B",
+   "verificado_em": "2026-10-18"
   },
   {
    "uf": "SP",
@@ -1656,6 +2376,30 @@
   },
   {
    "uf": "SP",
+   "municipio": "Paulínia",
+   "cod_ibge": "3536505",
+   "tipo": "estudante",
+   "regra": "Estudantes universitários pagam 50% da tarifa vigente (R$ 0,50) com o Cartão Escolar.",
+   "desde": null,
+   "base_legal": null,
+   "fonte_url": "https://movpaulinia.com.br/cartoes-mov/",
+   "confianca": "B",
+   "verificado_em": "2026-10-18"
+  },
+  {
+   "uf": "SP",
+   "municipio": "Paulínia",
+   "cod_ibge": "3536505",
+   "tipo": "idoso",
+   "regra": "Cartão MoV Idoso para pessoas com 60 anos ou mais, emitido no posto MoV com biometria facial (a página não diz se a gratuidade é integral). Pessoas com deficiência impossibilitadas de trabalhar têm gratuidade com o Cartão Especial, inclusive com acompanhante, mediante aprovação da Secretaria Municipal de Assistência Social.",
+   "desde": null,
+   "base_legal": null,
+   "fonte_url": "https://movpaulinia.com.br/cartoes-mov/",
+   "confianca": "B",
+   "verificado_em": "2026-10-18"
+  },
+  {
+   "uf": "SP",
    "municipio": "Ribeirão Preto",
    "cod_ibge": "3543402",
    "tipo": "idoso",
@@ -1665,6 +2409,42 @@
    "fonte_url": "https://www.rpmobilidade.com.br/cartao-nosso/senior/",
    "confianca": "B",
    "verificado_em": "2026-10-17"
+  },
+  {
+   "uf": "SP",
+   "municipio": "Rio Claro",
+   "cod_ibge": "3543907",
+   "tipo": "estudante",
+   "regra": "Estudantes têm 50% de desconto na tarifa pública, conforme a legislação vigente (o decreto não escreve o valor em reais). O formulário de passe escolar da SOU Rio Claro (https://soutransportes.com.br/wp-content/uploads/2024/09/Rio-Claro-Escolar-Padrao-final.pdf) diz que o benefício de 50% vale para quem mora a mais de 2 km da unidade escolar.",
+   "desde": "2023-12-30",
+   "base_legal": "Decreto nº 13.170/2023, art. 3º",
+   "fonte_url": "https://www.dosp.com.br/exibe_do.php?i=NDM2MTM1",
+   "confianca": "A",
+   "verificado_em": "2026-10-18"
+  },
+  {
+   "uf": "SP",
+   "municipio": "Santana de Parnaíba",
+   "cod_ibge": "3547304",
+   "tipo": "estudante",
+   "regra": "BEM Escolar com 50% de desconto nas linhas municipais para alunos e professores que moram a mais de 1 km da escola; pedido pelo aplicativo PIU",
+   "desde": null,
+   "base_legal": null,
+   "fonte_url": "http://www.bemsantana.com.br/escolar/",
+   "confianca": "B",
+   "verificado_em": "2026-10-18"
+  },
+  {
+   "uf": "SP",
+   "municipio": "Santana de Parnaíba",
+   "cod_ibge": "3547304",
+   "tipo": "idoso",
+   "regra": "BEM Sênior gratuito para quem tem 65 anos ou mais, com renovação anual; pedido no Poupatempo da Fazendinha com RG, CPF e comprovante de residência",
+   "desde": null,
+   "base_legal": null,
+   "fonte_url": "http://www.bemsantana.com.br/senior/",
+   "confianca": "B",
+   "verificado_em": "2026-10-18"
   },
   {
    "uf": "SP",
@@ -1680,15 +2460,75 @@
   },
   {
    "uf": "SP",
+   "municipio": "Sumaré",
+   "cod_ibge": "3552403",
+   "tipo": "estudante",
+   "regra": "Cartão Escolar com desconto de 40% sobre a tarifa vigente, duas passagens por dia; Cartão Jovem Aprendiz (estudantes que trabalham) com 40% de desconto, quatro passagens por dia. O Ato Normativo nº 08/2026 fixa R$ 3,27 para os efeitos da Lei nº 4.765/2008, art. 1º, I e II.",
+   "desde": null,
+   "base_legal": "Lei Municipal nº 4.765/2008 (citada no Ato Normativo nº 08/2026)",
+   "fonte_url": "https://movsumare.com.br/cartoes-mov/",
+   "confianca": "B",
+   "verificado_em": "2026-10-18"
+  },
+  {
+   "uf": "SP",
+   "municipio": "Sumaré",
+   "cod_ibge": "3552403",
+   "tipo": "idoso",
+   "regra": "Cartão Sênior 65+ (a partir de 65 anos) e Cartão Sênior para pessoas de 60 a 64 anos sem renda. A MoV lista também como gratuidade os cartões Aposentado e Pensionista (renda de até R$ 3.030,00) e o Cartão Especial para pessoas com deficiência impossibilitadas de trabalhar, com acompanhante quando necessário. A Lei nº 7.599, de 20/03/2026 (promulgada pela Câmara), concede isenção a pais, familiares, responsáveis e cuidadores de pessoas com TEA ou síndrome de Down, com cartão especial que o Executivo ainda deve regulamentar.",
+   "desde": null,
+   "base_legal": "Lei nº 7.599/2026 para familiares e cuidadores (https://dom.sumare.sp.gov.br/arquivos/diario/diario-2104-ecac7d31600d993c3abed63152cb1b53.pdf)",
+   "fonte_url": "https://movsumare.com.br/cartoes-mov/",
+   "confianca": "B",
+   "verificado_em": "2026-10-18"
+  },
+  {
+   "uf": "SP",
+   "municipio": "Suzano",
+   "cod_ibge": "3552502",
+   "tipo": "estudante",
+   "regra": "Passe escolar com 50% da tarifa de R$ 6,30, nos ônibus e nas vans; o cartão Estudante tem taxa de emissão de R$ 15,00 (página da Radial)",
+   "desde": null,
+   "base_legal": "Decreto nº 10.341/2026, art. 2º",
+   "fonte_url": "https://suzano.sp.gov.br/wp-content/uploads/2026/01/Edicao-EXTRA-011.1-16.01.2026.pdf",
+   "confianca": "A",
+   "verificado_em": "2026-10-18"
+  },
+  {
+   "uf": "SP",
+   "municipio": "Suzano",
+   "cod_ibge": "3552502",
+   "tipo": "idoso",
+   "regra": "Cartão ONpag Sênior com transporte gratuito para moradores de Suzano com 60 anos ou mais; cartão Especial para quem tem direito à gratuidade municipal, como pessoas com deficiência; Sênior e Especial têm até 4 utilizações por dia, com intervalo de 60 minutos",
+   "desde": null,
+   "base_legal": "lei municipal de gratuidade para pessoas com deficiência indicada pela Radial (arquivo 5562-24 no site da Prefeitura, não aberto)",
+   "fonte_url": "https://www.radialtransporte.com.br/cartoes",
+   "confianca": "B",
+   "verificado_em": "2026-10-18"
+  },
+  {
+   "uf": "SP",
    "municipio": "São Bernardo do Campo",
    "cod_ibge": "3548708",
    "tipo": "idoso",
-   "regra": "Gratuidade para maiores de 65 anos e para residentes no município com 60 a 64 anos (Cartão Legal Sênior); também aposentados e pensionistas residentes (Cartão Social)",
+   "regra": "Gratuidade para residentes cadastrados no Cartão Legal: Sênior (maiores de 60 anos; a página cita também maiores de 65 anos, conforme a Constituição), Social (aposentados e pensionistas) e Especial (pessoas com deficiência, inclusive com enfermidade que comprometa a locomoção)",
    "desde": null,
-   "base_legal": "Lei nº 5.289/2004; Decreto nº 21.741, de 30/09/2021",
+   "base_legal": "Lei nº 5.289/2004; Decreto nº 17.196/2010 (bilhetagem); Decreto nº 21.741, de 30/09/2021 (60 a 64 anos); Resoluções GST 06/2010 e 08/2010; Resolução ST 07/2021",
    "fonte_url": "https://guiadeservicos.saobernardo.sp.gov.br/guia-de-servicos/servicos/212396/mostrar",
    "confianca": "A",
-   "verificado_em": "2026-10-17"
+   "verificado_em": "2026-10-18"
+  },
+  {
+   "uf": "SP",
+   "municipio": "São Bernardo do Campo",
+   "cod_ibge": "3548708",
+   "tipo": "tarifa_zero_temporal",
+   "regra": "Tarifa dispensada no transporte coletivo municipal em 04/10/2026 (1º turno) e em 25/10/2026, se houver 2º turno, das 7h às 18h, com a frota de dia útil",
+   "desde": "2026-10-04",
+   "base_legal": "Decreto nº 23.356, de 31/08/2026 (Notícias do Município nº 2.684, de 04/09/2026)",
+   "fonte_url": "https://www.saobernardo.sp.gov.br/documents/10181/2361282/NM+2684+de+04.09.2026+-+Conteu%CC%81do+Integral.pdf/b540c650-2c6c-7498-e764-733c42b3dca6",
+   "confianca": "A",
+   "verificado_em": "2026-10-18"
   },
   {
    "uf": "SP",
@@ -1785,6 +2625,66 @@
    "fonte_url": "https://www.sptrans.com.br/tarifas/",
    "confianca": "B",
    "verificado_em": "2026-10-17"
+  },
+  {
+   "uf": "SP",
+   "municipio": "São Sebastião",
+   "cod_ibge": "3550704",
+   "tipo": "estudante",
+   "regra": "Isenção da tarifa para estudantes das redes municipal e estadual cadastrados na Prefeitura; gratuidade também para estudantes do ensino técnico profissionalizante e universitários",
+   "desde": null,
+   "base_legal": "Decreto nº 6.719/2017 e Lei nº 2.435/2017, mantidos pelo Decreto nº 9.748/2025, arts. 2º e 3º",
+   "fonte_url": "https://soutransportes.com.br/wp-content/uploads/2026/08/Decreto-9748-2025-Aumento-Tarifa-2015.pdf",
+   "confianca": "A",
+   "verificado_em": "2026-10-18"
+  },
+  {
+   "uf": "SP",
+   "municipio": "São Sebastião",
+   "cod_ibge": "3550704",
+   "tipo": "idoso",
+   "regra": "Gratuidade para idosos maiores de 60 anos e para pessoas com deficiência e seu acompanhante",
+   "desde": null,
+   "base_legal": "Lei nº 2.663/2019 (idosos) e Lei nº 2.549/2018 (pessoa com deficiência e acompanhante), mantidas pelo Decreto nº 9.748/2025, art. 3º",
+   "fonte_url": "https://soutransportes.com.br/wp-content/uploads/2026/08/Decreto-9748-2025-Aumento-Tarifa-2015.pdf",
+   "confianca": "A",
+   "verificado_em": "2026-10-18"
+  },
+  {
+   "uf": "SP",
+   "municipio": "Vinhedo",
+   "cod_ibge": "3556701",
+   "tipo": "estudante",
+   "regra": "Cartão Escolar com desconto de 50% sobre a tarifa vigente, para estudantes do ensino fundamental e médio.",
+   "desde": null,
+   "base_legal": null,
+   "fonte_url": "https://mobilidadevinhedo.com.br/cartoes-mov/",
+   "confianca": "B",
+   "verificado_em": "2026-10-18"
+  },
+  {
+   "uf": "SP",
+   "municipio": "Vinhedo",
+   "cod_ibge": "3556701",
+   "tipo": "idoso",
+   "regra": "Cartão Idoso (65 anos ou mais) e Cartão Idoso 60 a 64 anos, que dá direito a viajar gratuitamente nos ônibus da MoV Vinhedo.",
+   "desde": null,
+   "base_legal": null,
+   "fonte_url": "https://mobilidadevinhedo.com.br/cartoes-mov/",
+   "confianca": "B",
+   "verificado_em": "2026-10-18"
+  },
+  {
+   "uf": "SP",
+   "municipio": "Vinhedo",
+   "cod_ibge": "3556701",
+   "tipo": "tarifa_reduzida",
+   "regra": "Tarifa de Lazer de R$ 2,00 aos sábados, domingos e feriados, para usuários de bilhete eletrônico de qualquer modalidade.",
+   "desde": "2026-02-23",
+   "base_legal": "Decreto nº 100/2026, art. 1º, § 1º",
+   "fonte_url": "https://www.vinhedo.sp.gov.br/imgeditor/file/Tr%C3%A2nsito/MOV%20Transporte%20coletivo/Decreto%20100%20-%20Boeletim.pdf",
+   "confianca": "A",
+   "verificado_em": "2026-10-18"
   },
   {
    "uf": "TO",

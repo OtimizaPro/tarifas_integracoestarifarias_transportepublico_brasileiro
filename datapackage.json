@@ -1,7 +1,7 @@
 {
   "name": "tarifas-transporte-publico-brasil",
   "title": "Base Nacional de Tarifas do Transporte Público",
-  "version": "2026.10.18.2",
+  "version": "2026.10.18.3",
   "homepage": "https://github.com/OtimizaPro/tarifas_integracoestarifarias_transportepublico_brasileiro",
   "licenses": [
     {
@@ -165,7 +165,7 @@
       "path": "dados/vale_transporte.csv",
       "format": "csv",
       "encoding": "utf-8",
-      "description": "Regras de compra do vale-transporte pela empresa: cartão, emissora, canal, tarifa do VT, prazo, taxa, validade e limites",
+      "description": "Regras de compra do vale-transporte pela empresa, uma linha por sistema de bilhetagem: sistema, abrangência, modos cobertos, cartão, emissora, canal, compra online, cadastro por colaborador, custo do cartão, tarifa do VT, prazo, se há taxa na compra e qual, validade e limites",
       "schema": {
         "fields": [
           {
@@ -181,6 +181,18 @@
             "type": "string"
           },
           {
+            "name": "sistema",
+            "type": "string"
+          },
+          {
+            "name": "abrangencia",
+            "type": "string"
+          },
+          {
+            "name": "modos_cobertos",
+            "type": "string"
+          },
+          {
             "name": "cartao_vt",
             "type": "string"
           },
@@ -191,6 +203,18 @@
           {
             "name": "canal_compra_empresa",
             "type": "string"
+          },
+          {
+            "name": "compra_online",
+            "type": "string"
+          },
+          {
+            "name": "cadastro_por_colaborador",
+            "type": "string"
+          },
+          {
+            "name": "custo_cartao_brl",
+            "type": "number"
           },
           {
             "name": "tarifa_vt_brl",
@@ -206,6 +230,10 @@
           },
           {
             "name": "prazo_liberacao_credito",
+            "type": "string"
+          },
+          {
+            "name": "tem_taxa_na_compra",
             "type": "string"
           },
           {

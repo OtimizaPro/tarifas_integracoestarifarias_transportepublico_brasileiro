@@ -1,6 +1,6 @@
 {
  "nome": "Base Nacional de Tarifas do Transporte Público: integracoes",
- "versao": "2026.10.18.2",
+ "versao": "2026.10.18.3",
  "licenca": {
   "nome": "CC BY-NC 4.0",
   "url": "https://creativecommons.org/licenses/by-nc/4.0/deed.pt-br",
@@ -8,7 +8,7 @@
   "uso_interno": "A consulta para decisões da própria empresa, como orçar o vale-transporte, não pede licença.",
   "uso_comercial": "Uso comercial por empresas (em produto, revenda ou integração em sistema ou serviço pago) pede licença da Otimiza.pro: empresa@otimiza.pro."
  },
- "citar_como": "Fonte: Otimiza.pro, Base Nacional de Tarifas do Transporte Público, versão 2026.10.18.2. https://github.com/OtimizaPro/tarifas_integracoestarifarias_transportepublico_brasileiro",
+ "citar_como": "Fonte: Otimiza.pro, Base Nacional de Tarifas do Transporte Público, versão 2026.10.18.3. https://github.com/OtimizaPro/tarifas_integracoestarifarias_transportepublico_brasileiro",
  "linhas": [
   {
    "uf": "AC",
@@ -240,6 +240,18 @@
   },
   {
    "uf": "MG",
+   "municipio": "Ipatinga",
+   "cod_ibge": "3131307",
+   "regra": "Linha 41 integrada às linhas 400, 401, 402, 403, 404, 405, C4A e C4B, com 50% de desconto na segunda tarifa; linha 92 integrada a todas as linhas que seguem para o centro, com 100% de desconto; não vale para retorno à origem",
+   "janela_min": 60,
+   "embarques": "2 (primeiro e segundo ônibus)",
+   "quem_tem_direito": "usuários do cartão Buse (página da operadora sem data; o aviso de tarifa no mesmo site é de 2019, então a regra pode estar desatualizada)",
+   "fonte_url": "https://meubuse.com.br/perguntas-frequentes",
+   "confianca": "B",
+   "verificado_em": "2026-10-18"
+  },
+  {
+   "uf": "MG",
    "municipio": "Juiz de Fora",
    "cod_ibge": "3136702",
    "regra": "Bilhete Único JF: integração por sentido (ida ou volta), só entre regiões, em até 1h30, com 1 integração por deslocamento (2 ônibus) e sem limite diário",
@@ -261,6 +273,18 @@
    "fonte_url": "https://www.mocbus.com.br/index.php/bilhetagem-integracao",
    "confianca": "B",
    "verificado_em": "2026-10-17"
+  },
+  {
+   "uf": "MG",
+   "municipio": "Uberaba",
+   "cod_ibge": "3170107",
+   "regra": "Com o cartão, o usuário embarca em até duas linhas diferentes em 90 minutos pagando só a primeira passagem; as linhas não podem ter trajeto em comum e ao menos uma não deve passar pelos terminais, entre outros critérios técnicos",
+   "janela_min": 90,
+   "embarques": "2 (duas linhas diferentes, uma tarifa)",
+   "quem_tem_direito": "usuários do cartão de ônibus (cartão Prático)",
+   "fonte_url": "https://www.transube.com.br/",
+   "confianca": "B",
+   "verificado_em": "2026-10-18"
   },
   {
    "uf": "MS",
@@ -336,6 +360,18 @@
   },
   {
    "uf": "PA",
+   "municipio": "Canaã dos Carajás",
+   "cod_ibge": "1502152",
+   "regra": "Troca de ônibus em até 90 minutos sem pagar nova tarifa, pelo sistema de bilhetagem eletrônica",
+   "janela_min": 90,
+   "embarques": null,
+   "quem_tem_direito": "usuários da bilhetagem eletrônica",
+   "fonte_url": "https://www.canaadoscarajas.pa.gov.br/novo/onibus-coletivo-passa-a-operar-somente-com-bilhetagem-eletronica/",
+   "confianca": "B",
+   "verificado_em": "2026-10-18"
+  },
+  {
+   "uf": "PA",
    "municipio": "Marabá",
    "cod_ibge": "1504208",
    "regra": "Terminal de Integração permite trocar de linha pagando uma só passagem (desde 06/12/2024, segundo a imprensa)",
@@ -396,6 +432,18 @@
   },
   {
    "uf": "PR",
+   "municipio": "Cascavel",
+   "cod_ibge": "4104808",
+   "regra": "Integração temporal com os cartões ValeSim Vale-Transporte e Estudante: troca para outra linha permitida sem nova tarifa, dentro do tempo contado do 1º embarque; não vale para a mesma linha nem para voltar no mesmo ônibus; intervalo mínimo de 1 minuto entre embarques; o tempo varia por linha e dia (ex.: linhas de bairro que integram com o 360 também integram com a 237 Parque São Paulo, em até 1h20 no dia útil e 1h50 no fim de semana). Cartões Express e de gratuidade não integram.",
+   "janela_min": null,
+   "embarques": null,
+   "quem_tem_direito": "usuários dos cartões ValeSim Vale-Transporte e Estudante",
+   "fonte_url": "https://www.valesim.com.br/temp.html",
+   "confianca": "B",
+   "verificado_em": "2026-10-18"
+  },
+  {
+   "uf": "PR",
    "municipio": "Colombo",
    "cod_ibge": "4105805",
    "regra": "Integração física nos terminais metropolitanos e integração temporal em pontos definidos pela AMEP: com o Metrocard, segunda linha sem nova tarifa em até 2h30 após o primeiro pagamento, com regras de sentido por ponto; não vale com cartões de sistemas municipais",
@@ -429,6 +477,18 @@
    "fonte_url": "https://www.foztrans.pr.gov.br/transporte-coletivo/",
    "confianca": "B",
    "verificado_em": "2026-10-17"
+  },
+  {
+   "uf": "PR",
+   "municipio": "Maringá",
+   "cod_ibge": "4115200",
+   "regra": "Integração Temporal Inteligente só com Cartão Passe Fácil ou aplicativo BiPay: uma integração por usuário, para até 2 trajetos em linhas diferentes, sem repetir a linha anterior, dentro do tempo contado do primeiro registro na catraca (Decreto nº 1539/2025, art. 1º, § 2º, e art. 2º). A TCCC publica o tempo por linha, de 1h10 a 1h55 (ex.: 007 Interbairros Zona Norte 1h10; 008 Interbairros 1h25; 233 Cj. Guaiapó 1h55). Pagamento com cartão bancário por aproximação não integra. Com as linhas metropolitanas diretas de Sarandi e Paiçandu: tarifa integral no primeiro sistema e 50% (R$ 2,90) no segundo.",
+   "janela_min": null,
+   "embarques": "2",
+   "quem_tem_direito": "passageiro pagante da primeira viagem com Passe Fácil ou aplicativo; o crédito de integração não pode ser transferido (art. 3º)",
+   "fonte_url": "http://www.tccc.com.br/integracao.html",
+   "confianca": "B",
+   "verificado_em": "2026-10-18"
   },
   {
    "uf": "PR",
@@ -624,6 +684,18 @@
   },
   {
    "uf": "SC",
+   "municipio": "Itajaí",
+   "cod_ibge": "4208203",
+   "regra": "Com a tarifa-base do cartão eletrônico (R$ 4,30) é permitida uma integração, em até 90 minutos do registro do usuário no sistema (Decreto nº 13.063/2023, art. 1º). A tarifa paga a bordo em dinheiro (R$ 4,50) não dá integração (art. 2º). A tarifa diária (R$ 6,00) dá direito a mais de uma integração até 23h59 do dia (art. 3º). Aos domingos e feriados, o crédito antecipado de R$ 1,00 mantém as integrações de cada modalidade e o dinheiro só tem a integração física dentro dos terminais (Decreto nº 13.890/2025).",
+   "janela_min": 90,
+   "embarques": "2",
+   "quem_tem_direito": "usuários do cartão eletrônico (tarifa unitária); estudante e vale-transporte mantêm as integrações previstas para cada modalidade",
+   "fonte_url": "https://intranet2.itajai.sc.gov.br/public/jornal-municipio/jornais/jornal_2023_2731_2683.pdf",
+   "confianca": "B",
+   "verificado_em": "2026-10-18"
+  },
+  {
+   "uf": "SC",
    "municipio": "Joinville",
    "cod_ibge": "4209102",
    "regra": "O Cartão Ideal permite integração temporal",
@@ -650,13 +722,13 @@
    "uf": "SP",
    "municipio": "Araraquara",
    "cod_ibge": "3503208",
-   "regra": "Com o NovoCard, integração em qualquer ponto da cidade, uma vez por viagem, com tempo de 60, 80 ou 120 minutos conforme a frequência da linha; não vale ida e volta na mesma linha nem reembarque na mesma linha ou trajeto",
+   "regra": "Com o NovoCard, integração em qualquer ponto da cidade, uma vez por viagem, com tempo de 60, 80 ou 120 minutos conforme a frequência da linha; não vale ida e volta na mesma linha nem reembarque na mesma linha ou em linha de mesmo trajeto e sentido.",
    "janela_min": 120,
    "embarques": "1 integração",
    "quem_tem_direito": "usuários do cartão NovoCard",
    "fonte_url": "https://novocardararaquara.com.br/perguntas.php",
    "confianca": "B",
-   "verificado_em": "2026-10-17"
+   "verificado_em": "2026-10-18"
   },
   {
    "uf": "SP",
@@ -674,25 +746,37 @@
    "uf": "SP",
    "municipio": "Barueri",
    "cod_ibge": "3505708",
-   "regra": "Com o Cartão Benfácil, integração entre linhas municipais pagando uma única tarifa. A janela não foi confirmada; informativo antigo da Prefeitura cita duas horas.",
+   "regra": "Com o Cartão Benfácil, troca de ônibus no Terminal pagando uma só passagem, nas linhas pré-estabelecidas; quem tem o Cartão Benfácil Comum ou Vale-Transporte paga a tarifa integrada ônibus/CPTM de R$ 10,00 desde 06/01/2026. A janela de tempo não é publicada.",
    "janela_min": null,
-   "embarques": null,
-   "quem_tem_direito": "usuários do Cartão Benfácil",
-   "fonte_url": "https://visaooeste.com.br/quem-usa-onibus-em-barueri-precisa-ficar-atento-veja-o-que-muda-a-partir-desta-segunda-27/",
+   "embarques": "uma troca no Terminal, nas linhas pré-estabelecidas",
+   "quem_tem_direito": "portadores do Cartão Benfácil Comum e do Vale-Transporte",
+   "fonte_url": "https://www.benfacil.com/",
    "confianca": "B",
-   "verificado_em": "2026-10-17"
+   "verificado_em": "2026-10-18"
   },
   {
    "uf": "SP",
    "municipio": "Bauru",
    "cod_ibge": "3506003",
-   "regra": "Decreto mantém a isenção tarifária para viagem com característica de integração (integração gratuita entre linhas)",
+   "regra": "Integração só com cartão, sem custo; o decreto mantém a isenção tarifária para viagem com característica de integração.",
    "janela_min": null,
    "embarques": null,
-   "quem_tem_direito": null,
-   "fonte_url": "https://www2.bauru.sp.gov.br/arquivos/sist_diariooficial/2026/07/do_20260721_4155.pdf",
+   "quem_tem_direito": "usuários de cartão cadastrado (o cartão avulso não integra)",
+   "fonte_url": "https://www.transurbbauru.com.br/tarifas",
    "confianca": "B",
-   "verificado_em": "2026-10-17"
+   "verificado_em": "2026-10-18"
+  },
+  {
+   "uf": "SP",
+   "municipio": "Cajamar",
+   "cod_ibge": "3509205",
+   "regra": "Com o Bilhete Único Cajamar, o passageiro troca de linha pagando uma só tarifa (notícia da Prefeitura de 15/02/2022, quando começou o sistema de 12 linhas). A janela de tempo não é publicada, e a regra não aparece nas páginas atuais do BEM Cajamar (consultadas em 2026-10-18).",
+   "janela_min": null,
+   "embarques": "troca de linha com uma só tarifa",
+   "quem_tem_direito": "portadores do Bilhete Único Cajamar",
+   "fonte_url": "https://cajamar.sp.gov.br/noticias/2022/02/15/cajamar-moderniza-sistema-de-transporte-publico-municipal/",
+   "confianca": "B",
+   "verificado_em": "2026-10-18"
   },
   {
    "uf": "SP",
@@ -756,6 +840,30 @@
   },
   {
    "uf": "SP",
+   "municipio": "Ilhabela",
+   "cod_ibge": "3520400",
+   "regra": "Com o Cartão Bilhete Eletrônico Recarregável, segundo embarque grátis em outra linha de ônibus, no mesmo sentido, pagando a tarifa reduzida no primeiro; uma integração por ciclo; não vale para o Aquabus nem para a volta. Janela de 60 minutos, ou de 90 minutos quando o primeiro embarque é em linha que parte dos extremos (Pacuíba, Armação ou Arrozal, ao norte, e Borrifos, ao sul).",
+   "janela_min": 60,
+   "embarques": "1 integração (2 embarques) por ciclo, só no ônibus",
+   "quem_tem_direito": "portadores do Cartão Bilhete Eletrônico Recarregável",
+   "fonte_url": "https://www.ilhabela.sp.gov.br/uploads/diario_oficial_1632_30-07-2025_30055112.pdf",
+   "confianca": "B",
+   "verificado_em": "2026-10-18"
+  },
+  {
+   "uf": "SP",
+   "municipio": "Itapevi",
+   "cod_ibge": "3522505",
+   "regra": "Com o Cartão Benfácil, troca de ônibus no Terminal pagando uma só passagem, nas linhas pré-estabelecidas; quem tem o Cartão Benfácil Comum ou Vale-Transporte paga a tarifa integrada ônibus/CPTM de R$ 10,00 desde 06/01/2026. A janela de tempo não é publicada.",
+   "janela_min": null,
+   "embarques": "uma troca no Terminal, nas linhas pré-estabelecidas",
+   "quem_tem_direito": "portadores do Cartão Benfácil Comum e do Vale-Transporte",
+   "fonte_url": "https://www.benfacil.com/",
+   "confianca": "B",
+   "verificado_em": "2026-10-18"
+  },
+  {
+   "uf": "SP",
    "municipio": "Jacareí",
    "cod_ibge": "3524402",
    "regra": "Integração nas linhas municipais somente com cartão eletrônico",
@@ -789,6 +897,18 @@
    "fonte_url": "https://www.rpmobilidade.com.br/tarifas/politicas-de-integracoes/",
    "confianca": "B",
    "verificado_em": "2026-10-17"
+  },
+  {
+   "uf": "SP",
+   "municipio": "Rio Claro",
+   "cod_ibge": "3543907",
+   "regra": "Integração temporal entre linhas só com cartão eletrônico, em qualquer ponto onde duas linhas se cruzem; não vale com linha que esteja voltando para o bairro de origem.",
+   "janela_min": null,
+   "embarques": null,
+   "quem_tem_direito": "portadores do cartão eletrônico",
+   "fonte_url": "https://www.dosp.com.br/exibe_do.php?i=NDM2MTM1",
+   "confianca": "B",
+   "verificado_em": "2026-10-18"
   },
   {
    "uf": "SP",
@@ -828,6 +948,30 @@
   },
   {
    "uf": "SP",
+   "municipio": "Suzano",
+   "cod_ibge": "3552502",
+   "regra": "O cartão ONpag Comum permite integrações dentro de 60 minutos, de acordo com as normas do município; as regras completas não estão publicadas nas páginas da Radial e da Onpag (consultadas em 2026-10-18)",
+   "janela_min": 60,
+   "embarques": null,
+   "quem_tem_direito": "portadores do cartão ONpag Comum (a página não detalha VT e Escolar)",
+   "fonte_url": "https://www.radialtransporte.com.br/cartoes",
+   "confianca": "B",
+   "verificado_em": "2026-10-18"
+  },
+  {
+   "uf": "SP",
+   "municipio": "São Bernardo do Campo",
+   "cod_ibge": "3548708",
+   "regra": "O Cartão Legal Vale-Transporte vale nas linhas municipais com integração gratuita entre as linhas, e o Cartão Legal Cidadão dá acesso à integração temporal; a janela não é publicada nas páginas do Cartão Legal.",
+   "janela_min": null,
+   "embarques": null,
+   "quem_tem_direito": "portadores do Cartão Legal (Cidadão e Vale-Transporte)",
+   "fonte_url": "https://www.cartaolegal.com/vale-transporte",
+   "confianca": "B",
+   "verificado_em": "2026-10-18"
+  },
+  {
+   "uf": "SP",
    "municipio": "São José do Rio Preto",
    "cod_ibge": "3549805",
    "regra": "Com cartão eletrônico, integração fora do terminal: desce de uma linha e embarca em outra sem pagar, dentro do tempo de integração de cada linha (60 a 120 minutos conforme a linha, a maioria 80), exceto entre as linhas listadas como 'não integram'. Só um passageiro por cartão integra.",
@@ -864,6 +1008,18 @@
   },
   {
    "uf": "SP",
+   "municipio": "São Sebastião",
+   "cod_ibge": "3550704",
+   "regra": "Tempo de integração de 120 minutos, mantido pelo decreto de 2025 junto com as demais características das linhas",
+   "janela_min": 120,
+   "embarques": null,
+   "quem_tem_direito": null,
+   "fonte_url": "https://soutransportes.com.br/wp-content/uploads/2026/08/Decreto-9748-2025-Aumento-Tarifa-2015.pdf",
+   "confianca": "B",
+   "verificado_em": "2026-10-18"
+  },
+  {
+   "uf": "SP",
    "municipio": "São Vicente",
    "cod_ibge": "3551009",
    "regra": "Integração entre ônibus municipal (amarelinho) e VLT, nos dois sentidos, só com BR Card comum ou vale-transporte; o cartão SOU não integra; não vale com ônibus intermunicipal; tempo conta a partir da validação",
@@ -885,6 +1041,18 @@
    "fonte_url": "https://www.cartaorapidotaubate.com.br/integracao/",
    "confianca": "B",
    "verificado_em": "2026-10-17"
+  },
+  {
+   "uf": "SP",
+   "municipio": "Vinhedo",
+   "cod_ibge": "3556701",
+   "regra": "Bilhete Único: integração de duas ou mais linhas em uma hora e meia, no mesmo sentido, pagando uma passagem, com o cartão eletrônico.",
+   "janela_min": 90,
+   "embarques": "2 ou mais ônibus",
+   "quem_tem_direito": "portadores do cartão eletrônico",
+   "fonte_url": "https://www.vinhedo.sp.gov.br/portal/secretarias-paginas/31/transporte-coletivo-horarios-itinerarios-e-valores/",
+   "confianca": "B",
+   "verificado_em": "2026-10-18"
   },
   {
    "uf": "TO",
