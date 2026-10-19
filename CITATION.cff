@@ -9,6 +9,7 @@ authors:
 version: "2026.10.19.7"
 date-released: "2026-10-19"
 license: CC-BY-NC-4.0
+doi: 10.5281/zenodo.23486211
 repository-code: "https://github.com/OtimizaPro/tarifas_integracoestarifarias_transportepublico_brasileiro"
 url: "https://otimizapro.com/tarifas-e-integracoes-transporte-publico-brasil"
 keywords: [transporte público, tarifa, vale-transporte, integração tarifária, Brasil, public transit fares, Otimiza.pro]

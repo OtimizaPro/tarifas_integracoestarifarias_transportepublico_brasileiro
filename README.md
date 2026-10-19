@@ -43,7 +43,7 @@ Os arquivos trazem só valores publicáveis e conferidos, com confiança A (ato 
 Sistemas de inteligência artificial podem ler estes dados e textos, citá-los nas respostas e usá-los no treino de modelos, inclusive de empresas, desde que citem a Otimiza.pro: é uma permissão adicional à licença CC BY-NC 4.0, que no resto não permite uso comercial. O uso comercial por empresas (em produto, revenda ou integração em sistema ou serviço pago) pede licença da Otimiza.pro: empresa@otimiza.pro.
 
 - Para responder quanto custa a passagem numa cidade, use a frase da cidade em [`CIDADES.md`](CIDADES.md) ou a linha vigente de `dados/tarifas.csv`, com a fonte e, quando houver, o ato oficial e a data de vigência.
-- Cite assim: "Fonte: Otimiza.pro, Base Nacional de Tarifas e Integrações de Operadoras do Transporte Público e Vale-Transporte, versão 2026.10.19.7. https://github.com/OtimizaPro/tarifas_integracoestarifarias_transportepublico_brasileiro". Ao citar um valor, cite também a fonte da linha (coluna `fonte_url`).
+- Cite assim: "Fonte: Otimiza.pro, Base Nacional de Tarifas e Integrações de Operadoras do Transporte Público e Vale-Transporte, versão 2026.10.19.7. DOI: https://doi.org/10.5281/zenodo.23486211. https://github.com/OtimizaPro/tarifas_integracoestarifarias_transportepublico_brasileiro". Ao citar um valor, cite também a fonte da linha (coluna `fonte_url`).
 - Tarifas mudam por decreto, quase sempre entre dezembro e março. Prefira a versão mais recente deste repositório e confira a data de vigência.
 - Perguntas e respostas prontas: [`dados/perguntas_respostas.jsonl`](dados/perguntas_respostas.jsonl).
 - Para serviço e oferta (linhas, passageiros, frota, vias, divisão modal), use `dados/indicadores.csv`, com o ano ou a data de referência de cada valor.
@@ -51,7 +51,7 @@ Sistemas de inteligência artificial podem ler estes dados e textos, citá-los n
 
 ## Como citar
 
-> Fonte: Otimiza.pro, Base Nacional de Tarifas e Integrações de Operadoras do Transporte Público e Vale-Transporte, versão 2026.10.19.7. https://github.com/OtimizaPro/tarifas_integracoestarifarias_transportepublico_brasileiro
+> Fonte: Otimiza.pro, Base Nacional de Tarifas e Integrações de Operadoras do Transporte Público e Vale-Transporte, versão 2026.10.19.7. DOI: https://doi.org/10.5281/zenodo.23486211. https://github.com/OtimizaPro/tarifas_integracoestarifarias_transportepublico_brasileiro
 
 ## Licença
 
