@@ -1,7 +1,7 @@
 {
   "name": "tarifas-transporte-publico-brasil",
   "title": "Base Nacional de Tarifas e Integrações de Operadoras do Transporte Público e Vale-Transporte",
-  "version": "2026.10.19.3",
+  "version": "2026.10.19.5",
   "homepage": "https://github.com/OtimizaPro/tarifas_integracoestarifarias_transportepublico_brasileiro",
   "licenses": [
     {
@@ -568,6 +568,164 @@
           },
           {
             "name": "observacao",
+            "type": "string"
+          }
+        ]
+      }
+    },
+    {
+      "name": "reajustes",
+      "path": "dados/reajustes.csv",
+      "format": "csv",
+      "encoding": "utf-8",
+      "description": "Monitor do Transporte Público Brasileiro: tarifas novas e reajustes dos últimos 12 meses, com o valor anterior e a variação quando a conferência registrou o anterior",
+      "schema": {
+        "fields": [
+          {
+            "name": "uf",
+            "type": "string"
+          },
+          {
+            "name": "municipio",
+            "type": "string"
+          },
+          {
+            "name": "cod_ibge",
+            "type": "string"
+          },
+          {
+            "name": "sistema",
+            "type": "string"
+          },
+          {
+            "name": "modo",
+            "type": "string"
+          },
+          {
+            "name": "servico",
+            "type": "string"
+          },
+          {
+            "name": "perfil",
+            "type": "string"
+          },
+          {
+            "name": "meio_pagamento",
+            "type": "string"
+          },
+          {
+            "name": "valor_brl",
+            "type": "number"
+          },
+          {
+            "name": "valor_anterior_brl",
+            "type": "string"
+          },
+          {
+            "name": "variacao_pct",
+            "type": "string"
+          },
+          {
+            "name": "vigencia_inicio",
+            "type": "string"
+          },
+          {
+            "name": "ato_oficial",
+            "type": "string"
+          },
+          {
+            "name": "fonte_url",
+            "type": "string"
+          },
+          {
+            "name": "fonte_tipo",
+            "type": "string"
+          },
+          {
+            "name": "confianca",
+            "type": "string"
+          },
+          {
+            "name": "verificado_em",
+            "type": "string"
+          }
+        ]
+      }
+    },
+    {
+      "name": "eventos",
+      "path": "dados/eventos.csv",
+      "format": "csv",
+      "encoding": "utf-8",
+      "description": "Monitor do Transporte Público Brasileiro: greves e paralisações dos últimos 90 dias e reajustes e tarifa zero anunciados, com a situação na data da conferência",
+      "schema": {
+        "fields": [
+          {
+            "name": "uf",
+            "type": "string"
+          },
+          {
+            "name": "municipio",
+            "type": "string"
+          },
+          {
+            "name": "cod_ibge",
+            "type": "string"
+          },
+          {
+            "name": "tipo",
+            "type": "string"
+          },
+          {
+            "name": "titulo",
+            "type": "string"
+          },
+          {
+            "name": "descricao",
+            "type": "string"
+          },
+          {
+            "name": "sistema",
+            "type": "string"
+          },
+          {
+            "name": "data_inicio",
+            "type": "string"
+          },
+          {
+            "name": "data_fim",
+            "type": "string"
+          },
+          {
+            "name": "situacao",
+            "type": "string"
+          },
+          {
+            "name": "valor_atual_brl",
+            "type": "string"
+          },
+          {
+            "name": "valor_novo_brl",
+            "type": "string"
+          },
+          {
+            "name": "fonte_url",
+            "type": "string"
+          },
+          {
+            "name": "fonte_tipo",
+            "type": "string"
+          },
+          {
+            "name": "data_publicacao",
+            "type": "string"
+          },
+          {
+            "name": "confianca",
+            "type": "string"
+          },
+          {
+            "name": "verificado_em",
             "type": "string"
           }
         ]

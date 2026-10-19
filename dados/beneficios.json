@@ -1,6 +1,6 @@
 {
  "nome": "Base Nacional de Tarifas e Integrações de Operadoras do Transporte Público e Vale-Transporte: beneficios",
- "versao": "2026.10.19.3",
+ "versao": "2026.10.19.5",
  "licenca": {
   "nome": "CC BY-NC 4.0",
   "url": "https://creativecommons.org/licenses/by-nc/4.0/deed.pt-br",
@@ -8,7 +8,7 @@
   "uso_interno": "A consulta para decisões da própria empresa, como orçar o vale-transporte, não pede licença.",
   "uso_comercial": "Uso comercial por empresas (em produto, revenda ou integração em sistema ou serviço pago) pede licença da Otimiza.pro: empresa@otimiza.pro."
  },
- "citar_como": "Fonte: Otimiza.pro, Base Nacional de Tarifas e Integrações de Operadoras do Transporte Público e Vale-Transporte, versão 2026.10.19.3. https://github.com/OtimizaPro/tarifas_integracoestarifarias_transportepublico_brasileiro",
+ "citar_como": "Fonte: Otimiza.pro, Base Nacional de Tarifas e Integrações de Operadoras do Transporte Público e Vale-Transporte, versão 2026.10.19.5. https://github.com/OtimizaPro/tarifas_integracoestarifarias_transportepublico_brasileiro",
  "linhas": [
   {
    "uf": "AL",
@@ -104,6 +104,30 @@
    "base_legal": "Decreto Municipal nº 177/2026 (DOM nº 4748) e Resolução TSE nº 23.751/2026, art. 23",
    "fonte_url": "https://barreiras.ba.gov.br/barreiras-tera-transporte-coletivo-gratuito-no-dia-4-de-outubro-para-as-eleicoes-2026/",
    "confianca": "A",
+   "verificado_em": "2026-10-17"
+  },
+  {
+   "uf": "BA",
+   "municipio": "Camaçari",
+   "cod_ibge": "2905701",
+   "tipo": "estudante",
+   "regra": "Estudantes pagam 50% da tarifa; 35% dos passageiros têm gratuidade total ou meia (média de jun/2025 a mar/2026)",
+   "desde": null,
+   "base_legal": "não citada na fonte",
+   "fonte_url": "https://www.cn1.com.br/noticias/18/142528,camara-de-camacari-recebe-superintendente-da-stt-para-esclarecer-concessao-do-transporte-publico",
+   "confianca": "B",
+   "verificado_em": "2026-10-17"
+  },
+  {
+   "uf": "BA",
+   "municipio": "Camaçari",
+   "cod_ibge": "2905701",
+   "tipo": "idoso",
+   "regra": "Gratuidade para idosos, PCD e outros públicos previstos em lei; crianças até 5 anos não pagam",
+   "desde": null,
+   "base_legal": "não citada na fonte",
+   "fonte_url": "https://www.bnews.com.br/noticias/politica/cidade-baiana-recebera-sistema-emergencial-de-transporte-publico-veja-qual.html",
+   "confianca": "B",
    "verificado_em": "2026-10-17"
   },
   {
@@ -660,6 +684,18 @@
   },
   {
    "uf": "MG",
+   "municipio": "Governador Valadares",
+   "cod_ibge": "3127701",
+   "tipo": "estudante",
+   "regra": "Desconto de 30% sobre a tarifa no cartão eletrônico",
+   "desde": null,
+   "base_legal": null,
+   "fonte_url": "https://diariodotransporte.com.br/2026/07/17/apos-reajuste-usuarios-do-transporte-publico-de-governador-valadares-mg-passam-a-pagar-r-590-na-tarifa-de-onibus/",
+   "confianca": "B",
+   "verificado_em": "2026-10-17"
+  },
+  {
+   "uf": "MG",
    "municipio": "Ibirité",
    "cod_ibge": "3129806",
    "tipo": "tarifa_zero_universal",
@@ -812,6 +848,18 @@
    "base_legal": "art. 23 da Resolução TSE nº 23.751/2026 (comunicado da Prefeitura de 02/10/2026)",
    "fonte_url": "https://novalima.mg.gov.br/inicio/noticias/comunicado_transporte_publico_na_eleicao",
    "confianca": "A",
+   "verificado_em": "2026-10-18"
+  },
+  {
+   "uf": "MG",
+   "municipio": "Pouso Alegre",
+   "cod_ibge": "3152501",
+   "tipo": "estudante",
+   "regra": "Meia tarifa para estudantes do ensino regular e profissionalizante (inclusive Instituto Federal e Sistema S); cadastro ou recadastro do cartão estudante custa duas tarifas urbanas (R$ 15,20)",
+   "desde": null,
+   "base_legal": null,
+   "fonte_url": "https://diariodotransporte.com.br/2026/01/26/tarifa-tecnica-do-transporte-coletivo-de-pouso-alegre-mg-aumenta-mas-prefeitura-mantem-subsidio-e-passageiro-nao-sera-afetado/",
+   "confianca": "B",
    "verificado_em": "2026-10-18"
   },
   {
@@ -1668,6 +1716,18 @@
   },
   {
    "uf": "RJ",
+   "municipio": "Belford Roxo",
+   "cod_ibge": "3300456",
+   "tipo": "tarifa_reduzida",
+   "regra": "Parcial, não universal: três linhas municipais gratuitas do programa Tarifa Zero (TZ01, TZ02 e, desde fevereiro de 2026, Cantão x Av. Carvalhaes)",
+   "desde": null,
+   "base_legal": null,
+   "fonte_url": "https://www.correiodamanha.com.br/esporte/2026/02/256019-prefeitura-de-belford-roxo-faz-balanco-da-gestao-em-inauguracao-do-tarifa-zero.html",
+   "confianca": "B",
+   "verificado_em": "2026-10-17"
+  },
+  {
+   "uf": "RJ",
    "municipio": "Cabo Frio",
    "cod_ibge": "3300704",
    "tipo": "estudante",
@@ -1742,6 +1802,18 @@
    "uf": "RJ",
    "municipio": "Duque de Caxias",
    "cod_ibge": "3301702",
+   "tipo": "tarifa_reduzida",
+   "regra": "Parcial, não universal: gratuidade total (R$ 0) nas 21 linhas municipais do programa Tarifa Zero; as demais linhas municipais são pagas",
+   "desde": "2024-06",
+   "base_legal": null,
+   "fonte_url": "https://diariodotransporte.com.br/2026/09/09/duque-de-caxias-rj-recebe-10-novos-onibus-mascarello-para-frota-do-programa-tarifa-zero/",
+   "confianca": "B",
+   "verificado_em": "2026-10-17"
+  },
+  {
+   "uf": "RJ",
+   "municipio": "Duque de Caxias",
+   "cod_ibge": "3301702",
    "tipo": "tarifa_zero_temporal",
    "regra": "Todas as linhas municipais sem cobrança das 6h às 20h nos dias de eleição (04/10/2026 e 25/10/2026)",
    "desde": "2026-10-04",
@@ -1796,6 +1868,18 @@
    "base_legal": "Lei Complementar nº 244/2014 (criação da EPT) e legislação posterior da autarquia",
    "fonte_url": "https://www.eptmarica.rj.gov.br/index.php/noticias/item/445-ept-celebra-12-anos",
    "confianca": "A",
+   "verificado_em": "2026-10-17"
+  },
+  {
+   "uf": "RJ",
+   "municipio": "Nova Friburgo",
+   "cod_ibge": "3303401",
+   "tipo": "tarifa_zero_temporal",
+   "regra": "Tarifa zero em todas as linhas urbanas em datas comemorativas definidas por decreto (em 2025: Páscoa, Dia das Mães, aniversário da cidade, Corpus Christi, Dia dos Pais, Dia das Crianças e Finados)",
+   "desde": "2025-03-28",
+   "base_legal": "Decreto nº 3.464/2025",
+   "fonte_url": "https://avozdaserra.com.br/noticias/passagens-dos-onibus-urbanos-sobem-para-r-550-nesta-terca-feira",
+   "confianca": "B",
    "verificado_em": "2026-10-17"
   },
   {
@@ -1907,6 +1991,18 @@
    "verificado_em": "2026-10-18"
   },
   {
+   "uf": "RJ",
+   "municipio": "Teresópolis",
+   "cod_ibge": "3305802",
+   "tipo": "tarifa_zero_temporal",
+   "regra": "Domingão Tarifa Zero: ônibus urbanos gratuitos aos domingos e feriados específicos",
+   "desde": "2025-01-05",
+   "base_legal": "Decreto municipal publicado em 03/01/2025",
+   "fonte_url": "https://netdiario.com.br/noticias/tem-inicio-o-transporte-coletivo-gratuito-aos-domingos-em-teresopolis/",
+   "confianca": "B",
+   "verificado_em": "2026-10-17"
+  },
+  {
    "uf": "RN",
    "municipio": "Mossoró",
    "cod_ibge": "2408003",
@@ -1916,6 +2012,18 @@
    "base_legal": "Decreto nº 5.165/2017",
    "fonte_url": "https://defato.com/mossoro/72236/passagem-de-nibus-custar-r-330-a-partir-do-dia-1-de-janeiro",
    "confianca": "A",
+   "verificado_em": "2026-10-17"
+  },
+  {
+   "uf": "RN",
+   "municipio": "Mossoró",
+   "cod_ibge": "2408003",
+   "tipo": "tarifa_zero_temporal",
+   "regra": "Transporte coletivo sem cobrança no 2º turno das Eleições 2026 (25/10/2026), em sete linhas",
+   "desde": "2026-10-25",
+   "base_legal": "regras da Justiça Eleitoral (norma não citada)",
+   "fonte_url": "https://prefeiturademossoro.com.br/noticias/prefeitura-de-mossoro-garante-transporte-publico-gratuito-para-o-segundo-turno-das-eleicoes-2026/18066",
+   "confianca": "B",
    "verificado_em": "2026-10-17"
   },
   {
@@ -2664,6 +2772,18 @@
   },
   {
    "uf": "SP",
+   "municipio": "Caraguatatuba",
+   "cod_ibge": "3510500",
+   "tipo": "idoso",
+   "regra": "Idosos e pessoas com deficiência não pagam tarifa (cerca de 20% dos passageiros em 2024, segundo a Prefeitura); estudantes que já tinham o benefício o mantiveram na troca de empresa",
+   "desde": null,
+   "base_legal": null,
+   "fonte_url": "https://diariodotransporte.com.br/2024/05/29/sancetur-assume-transportes-em-caraguatatuba-sp-no-dia-1o-de-junho-apos-anuencia-da-prefeitura/",
+   "confianca": "B",
+   "verificado_em": "2026-10-18"
+  },
+  {
+   "uf": "SP",
    "municipio": "Cotia",
    "cod_ibge": "3513009",
    "tipo": "tarifa_zero_temporal",
@@ -2685,6 +2805,30 @@
    "fonte_url": "https://cubatao.sp.gov.br/cmt-prepara-operacao-especial-de-transito-para-as-eleicoes-cidade-tera-gratuidade-nas-linhas-municipais-no-domingo/",
    "confianca": "A",
    "verificado_em": "2026-10-18"
+  },
+  {
+   "uf": "SP",
+   "municipio": "Diadema",
+   "cod_ibge": "3513801",
+   "tipo": "estudante",
+   "regra": "Isenção para estudantes e docentes, com a Prefeitura custeando 50% da tarifa por passagem",
+   "desde": null,
+   "base_legal": "Lei municipal nº 3.512/2015",
+   "fonte_url": "https://www.dgabc.com.br/Noticia/4277981/tarifa-de-onibus-em-diadema-sobe-para-r$-4-50-reajuste-de-5-88",
+   "confianca": "B",
+   "verificado_em": "2026-10-17"
+  },
+  {
+   "uf": "SP",
+   "municipio": "Diadema",
+   "cod_ibge": "3513801",
+   "tipo": "tarifa_reduzida",
+   "regra": "Passe Domingão: R$ 2,00 aos domingos e feriados, em espécie e no cartão",
+   "desde": null,
+   "base_legal": null,
+   "fonte_url": "https://www.dgabc.com.br/Noticia/4277981/tarifa-de-onibus-em-diadema-sobe-para-r$-4-50-reajuste-de-5-88",
+   "confianca": "B",
+   "verificado_em": "2026-10-17"
   },
   {
    "uf": "SP",
@@ -2750,6 +2894,18 @@
    "uf": "SP",
    "municipio": "Guarujá",
    "cod_ibge": "3518701",
+   "tipo": "estudante",
+   "regra": "Meia tarifa para estudantes, mantida pelo Decreto 17.383/2026",
+   "desde": null,
+   "base_legal": "Decreto nº 17.383/2026",
+   "fonte_url": "https://diariodotransporte.com.br/2026/02/04/prefeitura-de-guaruja-sp-fixa-novo-valor-da-passagem-de-onibus-em-r-530/",
+   "confianca": "B",
+   "verificado_em": "2026-10-17"
+  },
+  {
+   "uf": "SP",
+   "municipio": "Guarujá",
+   "cod_ibge": "3518701",
    "tipo": "tarifa_reduzida",
    "regra": "Tarifa Social de R$ 1,00 aos domingos, criada em julho de 2023, SUSPENSA desde 21/01/2024; não foi localizada retomada",
    "desde": "2023-07-02",
@@ -2804,6 +2960,18 @@
    "base_legal": "Lei municipal originada do PL 1984/2023",
    "fonte_url": "https://www.itapecerica.sp.gov.br/noticias/financas/transporte-para-todos-vai-oferecer-onibus-gratuito-na-cidade-aos-finais-de-semana-e-feriados",
    "confianca": "A",
+   "verificado_em": "2026-10-17"
+  },
+  {
+   "uf": "SP",
+   "municipio": "Itapetininga",
+   "cod_ibge": "3522307",
+   "tipo": "tarifa_zero_universal",
+   "regra": "Ônibus municipais sem cobrança para todos (Programa Ônibus de Graça)",
+   "desde": "2023-12-30",
+   "base_legal": null,
+   "fonte_url": "https://diariodotransporte.com.br/2023/12/28/itapetininga-sp-anuncia-tarifa-zero-nos-onibus-a-partir-deste-sabado-30/",
+   "confianca": "B",
    "verificado_em": "2026-10-17"
   },
   {
@@ -3072,6 +3240,18 @@
   },
   {
    "uf": "SP",
+   "municipio": "Presidente Prudente",
+   "cod_ibge": "3541406",
+   "tipo": "tarifa_zero_temporal",
+   "regra": "Tarifa Zero aos sábados e domingos nos ônibus do transporte coletivo urbano",
+   "desde": "2025-06-07",
+   "base_legal": "Lei Municipal nº 11.618/2025",
+   "fonte_url": "https://diariodotransporte.com.br/2026/07/21/presidente-prudente-sp-registra-aumento-de-34-no-numero-de-passageiros-aos-finais-de-semana/",
+   "confianca": "B",
+   "verificado_em": "2026-10-17"
+  },
+  {
+   "uf": "SP",
    "municipio": "Ribeirão Preto",
    "cod_ibge": "3543402",
    "tipo": "idoso",
@@ -3141,6 +3321,18 @@
    "fonte_url": "http://www.bemsantana.com.br/senior/",
    "confianca": "B",
    "verificado_em": "2026-10-18"
+  },
+  {
+   "uf": "SP",
+   "municipio": "Santo André",
+   "cod_ibge": "3547809",
+   "tipo": "estudante",
+   "regra": "Gratuidade para estudantes com passe escolar; professores das redes pública e privada com 50% de desconto",
+   "desde": "2025-01-06",
+   "base_legal": "Decreto de 27/12/2024",
+   "fonte_url": "https://www.dgabc.com.br/Noticia/4194303/sto-andre-reajusta-a-r%24-5-90-valor-da-passagem-de-onibus",
+   "confianca": "B",
+   "verificado_em": "2026-10-17"
   },
   {
    "uf": "SP",

@@ -1,6 +1,6 @@
 {
  "nome": "Base Nacional de Tarifas e Integrações de Operadoras do Transporte Público e Vale-Transporte: integracoes",
- "versao": "2026.10.19.3",
+ "versao": "2026.10.19.5",
  "licenca": {
   "nome": "CC BY-NC 4.0",
   "url": "https://creativecommons.org/licenses/by-nc/4.0/deed.pt-br",
@@ -8,7 +8,7 @@
   "uso_interno": "A consulta para decisões da própria empresa, como orçar o vale-transporte, não pede licença.",
   "uso_comercial": "Uso comercial por empresas (em produto, revenda ou integração em sistema ou serviço pago) pede licença da Otimiza.pro: empresa@otimiza.pro."
  },
- "citar_como": "Fonte: Otimiza.pro, Base Nacional de Tarifas e Integrações de Operadoras do Transporte Público e Vale-Transporte, versão 2026.10.19.3. https://github.com/OtimizaPro/tarifas_integracoestarifarias_transportepublico_brasileiro",
+ "citar_como": "Fonte: Otimiza.pro, Base Nacional de Tarifas e Integrações de Operadoras do Transporte Público e Vale-Transporte, versão 2026.10.19.5. https://github.com/OtimizaPro/tarifas_integracoestarifarias_transportepublico_brasileiro",
  "linhas": [
   {
    "uf": "AC",
@@ -189,6 +189,18 @@
    "fonte_url": "https://www.consorcionoroeste.com.br/integracao-temporal",
    "confianca": "B",
    "verificado_em": "2026-10-18"
+  },
+  {
+   "uf": "ES",
+   "municipio": "Linhares",
+   "cod_ibge": "3203205",
+   "regra": "Integração temporal: segundo ônibus em até 45 minutos após o primeiro pagamento, com 15 minutos de tolerância (60 minutos no total), pagando uma só tarifa; não vale retorno pela mesma linha de origem",
+   "janela_min": 60,
+   "embarques": "2",
+   "quem_tem_direito": "Usuários do cartão ValeFácil nas modalidades Popular, Vale Transporte e Escolar",
+   "fonte_url": "https://www.euviemlinhares.net/noticia/34065/em-1-mes-uso-de-2-onibus-com-1-passagem-chega-a-quase-18-mil-integracoes-em-linhares",
+   "confianca": "B",
+   "verificado_em": "2026-10-17"
   },
   {
    "uf": "ES",
@@ -492,6 +504,18 @@
   },
   {
    "uf": "PR",
+   "municipio": "Araucária",
+   "cod_ibge": "4101804",
+   "regra": "Com o cartão TRIAR, integração ponto a ponto: até 2 trocas de linha, sem repetir linha, em até 1 hora, sem pagar nova tarifa; integração gratuita com as linhas metropolitanas nos dois terminais do município (Central e Vila Angélica). Dados da Banda B de 09/11/2023, não reconferidos em fonte oficial.",
+   "janela_min": 60,
+   "embarques": "3",
+   "quem_tem_direito": "usuários do cartão TRIAR",
+   "fonte_url": "https://www.bandab.com.br/regiao-metropolitana-de-curitiba/araucaria-diminui-tarifa-do-onibus/amp/",
+   "confianca": "B",
+   "verificado_em": "2026-10-18"
+  },
+  {
+   "uf": "PR",
    "municipio": "Campo Largo",
    "cod_ibge": "4104204",
    "regra": "Desde 16/05/2025, quem vem das linhas do interior pode seguir nas linhas urbanas pagando uma só passagem, com tarifa unificada entre área urbana e interior Nas linhas metropolitanas vale a integração temporal da AMEP, só com Metrocard, em até 2h30 (https://www.amep.pr.gov.br/integracaotemporal).",
@@ -732,6 +756,18 @@
   },
   {
    "uf": "RS",
+   "municipio": "Cachoeirinha",
+   "cod_ibge": "4303103",
+   "regra": "Com o cartão TEU!, quem usa uma linha municipal da Transbus e uma intermunicipal da Transcal em até 90 minutos paga só a tarifa de maior valor (no sentido bairro e capital, a segunda viagem cobra só a diferença). Regra em vigor desde 18/03/2019; dado de imprensa de 2019, não reconferido em fonte oficial.",
+   "janela_min": 90,
+   "embarques": "2",
+   "quem_tem_direito": "usuários do cartão TEU!",
+   "fonte_url": "https://diariodotransporte.com.br/2019/03/19/integracao-de-frotas-de-empresas-na-regiao-metropolitana-de-porto-alegre-beneficia-usuario/",
+   "confianca": "B",
+   "verificado_em": "2026-10-18"
+  },
+  {
+   "uf": "RS",
    "municipio": "Caxias do Sul",
    "cod_ibge": "4305108",
    "regra": "Até três linhas dentro de uma hora pagando uma tarifa, só com cartão de bilhetagem eletrônica; linhas conforme a matriz de integração",
@@ -777,6 +813,18 @@
    "fonte_url": "https://www.santacruz.rs.gov.br/conteudo/transporte-coletivo",
    "confianca": "B",
    "verificado_em": "2026-10-18"
+  },
+  {
+   "uf": "RS",
+   "municipio": "Santa Maria",
+   "cod_ibge": "4316907",
+   "regra": "Tarifa integrada de R$ 5,00 com Cartão Cidadão Integrado ou Cartão Vale-Transporte Integrado",
+   "janela_min": null,
+   "embarques": null,
+   "quem_tem_direito": "Portadores dos cartões integrados",
+   "fonte_url": "https://diariodotransporte.com.br/2026/03/08/moradores-de-santa-maria-rs-passam-a-pagar-r-725-na-tarifa-do-transporte-coletivo-a-partir-desta-segunda-feira-09/",
+   "confianca": "B",
+   "verificado_em": "2026-10-17"
   },
   {
    "uf": "SC",
@@ -1068,6 +1116,18 @@
   },
   {
    "uf": "SP",
+   "municipio": "Paulínia",
+   "cod_ibge": "3536505",
+   "regra": "Integração temporal de 40 minutos nas linhas municipais com os cartões MoV: dois ônibus com uma só passagem, apenas no mesmo sentido (não vale na volta da mesma linha). Fonte: Diário do Transporte (imprensa), 24/04/2022, no início da operação da MoV; o site da operadora não trata de integração.",
+   "janela_min": 40,
+   "embarques": "2 ônibus",
+   "quem_tem_direito": "usuários dos cartões MoV",
+   "fonte_url": "https://diariodotransporte.com.br/2022/04/24/onibus-de-paulinia-sp-oferecem-integracao-de-40-minutos/",
+   "confianca": "B",
+   "verificado_em": "2026-10-18"
+  },
+  {
+   "uf": "SP",
    "municipio": "Praia Grande",
    "cod_ibge": "3541000",
    "regra": "Linhas municipais integradas entre si e com as intermunicipais nos terminais Tatico e Tude Bastos. Quem chega aos terminais por linha intermunicipal no sentido São Vicente/Cubatão/Santos para Praia Grande não paga para usar as linhas municipais; no sentido contrário há cobrança.",
@@ -1075,6 +1135,18 @@
    "embarques": null,
    "quem_tem_direito": null,
    "fonte_url": "https://www2.praiagrande.sp.gov.br/noticiaNP/id/1942",
+   "confianca": "B",
+   "verificado_em": "2026-10-17"
+  },
+  {
+   "uf": "SP",
+   "municipio": "Presidente Prudente",
+   "cod_ibge": "3541406",
+   "regra": "Na nova rede (12 terminais e linhas expressas), integração de duas horas com o cartão do sistema, sem nova tarifa",
+   "janela_min": 120,
+   "embarques": null,
+   "quem_tem_direito": "usuários do cartão emitido pela SOU (primeira via gratuita)",
+   "fonte_url": "https://diariodotransporte.com.br/2026/03/14/presidente-prudente-sp-inicia-segunda-fase-do-novo-sistema-de-transporte-coletivo-com-novas-linhas-e-integracao-de-duas-horas/",
    "confianca": "B",
    "verificado_em": "2026-10-17"
   },

@@ -1,8 +1,8 @@
 # Tarifas do transporte público por cidade (Otimiza.pro)
 
-Quanto custa o transporte público em 215 municípios brasileiros, segundo a Base Nacional de Tarifas e Integrações de VT da Otimiza.pro (versão 2026.10.19.3). Cada frase traz o valor, a fonte e a data em que a Otimiza.pro conferiu e, quando a fonte informa, o ato oficial e a data em que passou a valer. A fonte oficial de cada valor está indicada. Onde há dados de serviço e oferta, a ficha traz também linhas e passageiros, com a fonte e a data.
+Quanto custa o transporte público em 232 municípios brasileiros, segundo a Base Nacional de Tarifas e Integrações de VT da Otimiza.pro (versão 2026.10.19.5). Cada frase traz o valor, a fonte e a data em que a Otimiza.pro conferiu e, quando a fonte informa, o ato oficial e a data em que passou a valer. A fonte oficial de cada valor está indicada. Onde há dados de serviço e oferta, a ficha traz também linhas e passageiros, com a fonte e a data.
 
-Como citar: Fonte: Otimiza.pro, Base Nacional de Tarifas e Integrações de Operadoras do Transporte Público e Vale-Transporte, versão 2026.10.19.3. https://github.com/OtimizaPro/tarifas_integracoestarifarias_transportepublico_brasileiro
+Como citar: Fonte: Otimiza.pro, Base Nacional de Tarifas e Integrações de Operadoras do Transporte Público e Vale-Transporte, versão 2026.10.19.5. https://github.com/OtimizaPro/tarifas_integracoestarifarias_transportepublico_brasileiro
 
 ## AC
 
@@ -12,7 +12,7 @@ Em Rio Branco (AC), a passagem de ônibus custa R$ 3,50 desde 26/10/2021, confor
 
 Em 2017, o sistema de ônibus de Rio Branco (AC) levou 30 milhões de passageiros, segundo dados declarados pelo município à Pesquisa Nacional de Mobilidade Urbana (PEMOB), do governo federal. A idade média da frota de ônibus era de 6,5 anos em 2017. Dados consolidados pela Base Nacional de Tarifas e Integrações de VT da Otimiza.pro.
 
-Fonte oficial: https://cgm.riobranco.ac.gov.br/lai/wp-content/uploads/2015/06/DECRETO-N%C2%BA-1438-2021-Altera%C3%A7%C3%A3o-da-Tarifa-no-valor-de-R-350..pdf
+Fonte (página oficial): https://cgm.riobranco.ac.gov.br/lai/wp-content/uploads/2015/06/DECRETO-N%C2%BA-1438-2021-Altera%C3%A7%C3%A3o-da-Tarifa-no-valor-de-R-350..pdf
 
 Vale-transporte em Rio Branco: cartão COM CARD Vale Transporte; emitido por JTP (desde 02/10/2026); canal de compra da empresa: com a operadora; validade dos créditos: 180 dias (Decreto 1.922/2022).
 
@@ -24,7 +24,7 @@ Integração em Rio Branco: Sistema Integrado de Transporte Urbano (SITURB): o P
 
 Em Maceió (AL), a passagem de ônibus custa de R$ 3,49 a R$ 4,00 (varia com o cartão ou o meio de pagamento) desde 31/05/2023, conforme Decreto 9.449/2023; valor conferido em 17/10/2026 pela Base Nacional de Tarifas e Integrações de VT da Otimiza.pro.
 
-Fonte oficial: https://www.normasbrasil.com.br/norma/decreto-9449-2023-maceio_446054.html
+Fonte (ato oficial reproduzido): https://www.normasbrasil.com.br/norma/decreto-9449-2023-maceio_446054.html
 
 Vale-transporte em Maceió: cartão Vamu Vale-Transporte; emitido por Vamu Mobilidade (Sinturb); canal de compra da empresa: Portal do Cartão Vamu (boleto); liberação do crédito: até 72 horas úteis após o boleto; taxa na compra: VT comum sem taxa; VT Plus com taxa administrativa não publicada; validade dos créditos: 1 ano por recarga.
 
@@ -40,7 +40,7 @@ Em Manaus (AM), a passagem de ônibus custa R$ 5,00 desde 01/03/2026, segundo a 
 
 Em 2021, o sistema de ônibus de Manaus (AM) levou 191 milhões de passageiros, segundo dados declarados pelo município à Pesquisa Nacional de Mobilidade Urbana (PEMOB), do governo federal. A idade média da frota de ônibus era de 8,8 anos em 2021. Dados consolidados pela Base Nacional de Tarifas e Integrações de VT da Otimiza.pro.
 
-Fonte oficial: https://www.sinetram.com.br/p/cartao-comum
+Fonte (operadora): https://www.sinetram.com.br/p/cartao-comum
 
 Vale-transporte em Manaus: cartão PassaFácil Vale Transporte; emitido por Sinetram; canal de compra da empresa: salesportal.manaus.prodatamobility.com.br (boleto).
 
@@ -52,9 +52,9 @@ Integração em Manaus: Integração físico-tarifária nos terminais fechados d
 
 Ainda não há tarifa de ônibus conferida para Macapá (AP) na Base Nacional de Tarifas e Integrações de VT da Otimiza.pro.
 
-Fonte oficial: https://macapa.ap.gov.br/prefeitura-de-macapa-garante-tarifa-social-e-organiza-interdicoes-para-celebracao-da-sexta-feira-santa-no-santuario-de-fatima/
+Fonte (página oficial): https://macapa.ap.gov.br/prefeitura-de-macapa-garante-tarifa-social-e-organiza-interdicoes-para-celebracao-da-sexta-feira-santa-no-santuario-de-fatima/
 
-Vale-transporte em Macapá: cartão Cartão Vale-Transporte empresarial da bilhetagem da CTMac; emitido por CTMac, responsável pela bilhetagem desde dez/2024 (os cartões antigos deixaram de valer em 01/02/2025); canal de compra da empresa: cadastro da empresa no portal SIGOM da prefeitura (http://191.242.202.32:8032/wbc-st5/login.faces, opção 'Cadastrar Empresa'), aceite dos termos de uso e pedido da quantidade de cartões e do valor da recarga, com acompanhamento on-line; emissão e retirada dos cartões na sede da bilhetagem da CTMac, Av. Pedro Américo, 54, Laguinho, de segunda a sexta, das 8h às 17h (endereço desde 02/05/2025; antes, CTMac Alvorada); taxa na compra: R$ 15,00 por cartão de VT empresarial (valor de abr/2025).
+Vale-transporte em Macapá: cartão Cartão Vale-Transporte empresarial da bilhetagem da CTMac; emitido por CTMac, responsável pela bilhetagem desde dez/2024 (os cartões antigos deixaram de valer em 01/02/2025); canal de compra da empresa: cadastro da empresa no portal SIGOM da prefeitura (http://191.242.202.32:8032/wbc-st5/login.faces, opção 'Cadastrar Empresa'), aceite dos termos de uso e pedido da quantidade de cartões e do valor da recarga, com acompanhamento on-line; emissão e retirada dos cartões na sede da bilhetagem da CTMac, Av. Pedro Américo, 54, Laguinho, de segunda a sexta, das 8h às 17h (endereço desde 02/05/2025; antes, CTMac Alvorada); taxa na compra: o cartão de VT empresarial custa R$ 15,00 (valor de abr/2025), custo de emissão do cartão e não da compra do VT.
 
 ## BA
 
@@ -62,7 +62,7 @@ Vale-transporte em Macapá: cartão Cartão Vale-Transporte empresarial da bilhe
 
 Em Alagoinhas (BA), a passagem de ônibus custa R$ 4,60 desde 12/01/2026, segundo a publicação oficial (Prefeitura de Alagoinhas, notícia de 03/01/2026); valor conferido em 17/10/2026 pela Base Nacional de Tarifas e Integrações de VT da Otimiza.pro.
 
-Fonte oficial: https://www.alagoinhas.ba.gov.br/index.php/tarifa-do-transporte-coletivo-de-alagoinhas-tem-reajuste-anual/
+Fonte (página oficial): https://www.alagoinhas.ba.gov.br/index.php/tarifa-do-transporte-coletivo-de-alagoinhas-tem-reajuste-anual/
 
 Tarifa zero em Alagoinhas: Transporte coletivo urbano gratuito aos domingos e feriados
 
@@ -70,9 +70,17 @@ Tarifa zero em Alagoinhas: Transporte coletivo urbano gratuito aos domingos e fe
 
 Em Barreiras (BA), a passagem de ônibus custa de R$ 4,50 a R$ 5,00 (varia com o cartão ou o meio de pagamento) desde 15/01/2026, conforme Decreto nº 04/2026; valor conferido em 17/10/2026 pela Base Nacional de Tarifas e Integrações de VT da Otimiza.pro.
 
-Fonte oficial: https://pmbarreiras.diariomtransparente.com.br/publicacao?referencia=12927
+Fonte (página oficial): https://pmbarreiras.diariomtransparente.com.br/publicacao?referencia=12927
 
 Tarifa zero em Barreiras: Gratuidade universal em todas as linhas urbanas e rurais em 04/10/2026 (0h às 23h59), sem exigência de documento; pode valer no 2º turno (25/10/2026)
+
+### Camaçari (BA)
+
+Em Camaçari (BA), a passagem de ônibus custa de R$ 5,00 a R$ 5,30 (varia com o tipo de linha), segundo a imprensa (Bahia Econômica, 14/01/2026; BNews, 31/05/2025); valor conferido em 17/10/2026 pela Base Nacional de Tarifas e Integrações de VT da Otimiza.pro.
+
+Em Camaçari (BA), a idade média da frota de ônibus era de 3 anos em 2019. Dados consolidados pela Base Nacional de Tarifas e Integrações de VT da Otimiza.pro.
+
+Fonte (imprensa): https://bahiaeconomica.com.br/2026/01/14/com-tarifa-mais-cara-salvador-fica-para-tras-enquanto-camacari-tem-frota-100-climatizada/
 
 ### Feira de Santana (BA)
 
@@ -80,7 +88,7 @@ Em Feira de Santana (BA), a passagem de ônibus custa de R$ 5,40 a R$ 5,90 (vari
 
 Em 2020, o sistema de ônibus de Feira de Santana (BA) levou 28 milhões de passageiros, segundo dados declarados pelo município à Pesquisa Nacional de Mobilidade Urbana (PEMOB), do governo federal. A idade média da frota de ônibus era de 5 anos em 2020. Dados consolidados pela Base Nacional de Tarifas e Integrações de VT da Otimiza.pro.
 
-Fonte oficial: https://diariooficial.feiradesantana.ba.gov.br/atos/executivo/1BBDDL8J160120261739.pdf
+Fonte (página oficial): https://diariooficial.feiradesantana.ba.gov.br/atos/executivo/1BBDDL8J160120261739.pdf
 
 Vale-transporte em Feira de Santana: cartão Via Feira Vale Transporte Eletrônico (VTE); emitido por Via Feira; canal de compra da empresa: Portal do Cliente Empresarial (empresarial.viafeira.com.br): cadastro da empresa, login por e-mail e compra mensal online; liberação do crédito: até 72 h após a confirmação do pagamento pelo banco; carga automática ao validar no ônibus ou consultar saldo nos terminais Central, Norte ou Sul; taxa na compra: cartão fornecido sem custo; 2ª via R$ 15,00 (saldo reembolsado).
 
@@ -90,7 +98,7 @@ Integração em Feira de Santana: Integração temporal com cartão Via Feira re
 
 Em Lauro de Freitas (BA), a passagem de ônibus custa R$ 5,20 desde 27/03/2024, segundo a publicação oficial (AGERBA, Certificado de Autorização de Tráfego, CAT metropolitano da Expresso Luxo Vitória); valor conferido em 17/10/2026 pela Base Nacional de Tarifas e Integrações de VT da Otimiza.pro.
 
-Fonte oficial: https://www.ba.gov.br/agerba/sites/site-agerba/files/2025-08/CAT%20financeiro%20-%20Expresso%20Luxo%20%28metropolitano%29%20%281%29.pdf
+Fonte (página oficial): https://www.ba.gov.br/agerba/sites/site-agerba/files/2025-08/CAT%20financeiro%20-%20Expresso%20Luxo%20%28metropolitano%29%20%281%29.pdf
 
 Integração em Lauro de Freitas: A AGERBA informa que a integração com o metrô no Terminal Aeroporto dá acesso a Lauro de Freitas 'mediante tarifa integrada', sem detalhar valor ou janela
 
@@ -100,7 +108,7 @@ Em Salvador (BA), a passagem de ônibus custa R$ 5,90 desde 05/01/2026, conforme
 
 Em 2018, o sistema de ônibus de Salvador (BA) levou 460 milhões de passageiros, segundo dados declarados pelo município à Pesquisa Nacional de Mobilidade Urbana (PEMOB), do governo federal. A idade média da frota de ônibus era de 6 anos em 2021. Dados consolidados pela Base Nacional de Tarifas e Integrações de VT da Otimiza.pro.
 
-Fonte oficial: http://www.dom.salvador.ba.gov.br/images/stories/pdf/2025/dezembro/dom-9182-31-12-2025.pdf
+Fonte (página oficial): http://www.dom.salvador.ba.gov.br/images/stories/pdf/2025/dezembro/dom-9182-31-12-2025.pdf
 
 Vale-transporte em Salvador: a empresa compra em 2 sistemas, SalvadorCARD (VTE) e Metropasse (VTE).
 
@@ -114,7 +122,7 @@ Integração em Salvador: ônibus x ônibus: uma integração, mesmo sentido, ou
 
 Em Simões Filho (BA), a passagem de ônibus custa de R$ 4,50 a R$ 5,20 (varia com o tipo de linha), segundo a operadora (Metropasse, página Empresas e Tarifas); valor conferido em 18/10/2026 pela Base Nacional de Tarifas e Integrações de VT da Otimiza.pro.
 
-Fonte oficial: http://www.metropasse.com.br/empresas-e-tarifas/
+Fonte (operadora): http://www.metropasse.com.br/empresas-e-tarifas/
 
 Vale-transporte em Simões Filho: cartão Cartão Eletrônico VTE do Metropasse; emitido por Metropasse; canal de compra da empresa: VTE Online do Metropasse, sistema pela internet para obter cartões e comprar créditos de vale-transporte; Central de Atendimento VTE (71) 3276-8990; validade dos créditos: 60 dias, fora o mês da aquisição.
 
@@ -126,7 +134,7 @@ Em Vitória da Conquista (BA), a passagem de ônibus custa de R$ 4,00 a R$ 4,50 
 
 Em 2017, o sistema de ônibus de Vitória da Conquista (BA) levou 28 milhões de passageiros, segundo dados declarados pelo município à Pesquisa Nacional de Mobilidade Urbana (PEMOB), do governo federal. A idade média da frota de ônibus era de 7,8 anos em 2017. Dados consolidados pela Base Nacional de Tarifas e Integrações de VT da Otimiza.pro.
 
-Fonte oficial: https://www.pmvc.ba.gov.br/tarifa-do-transporte-coletivo-tera-reajuste-a-partir-de-1o-de-janeiro-de-2026/
+Fonte (página oficial): https://www.pmvc.ba.gov.br/tarifa-do-transporte-coletivo-tera-reajuste-a-partir-de-1o-de-janeiro-de-2026/
 
 Vale-transporte em Vitória da Conquista: cartão Cartão BEM; emitido por Atuv; canal de compra da empresa: recarga do usuário por Pix via WhatsApp 'Atuv Recargas'; validade dos créditos: Créditos adquiridos no novo Sistema de Bilhetagem Eletrônica valem 1 ano a partir da aquisição. Créditos de VT anteriores ao reajuste: uso pelo trabalhador em até 45 dias ou troca pelo empregador em até 30 dias contados da alteração da tarifa; depois disso perdem a validade..
 
@@ -140,7 +148,7 @@ Em Caucaia (CE), o ônibus é gratuito (tarifa zero) desde 01/09/2021, conforme 
 
 Em Caucaia (CE), a idade média da frota de ônibus era de 4 anos em 2018. Dados consolidados pela Base Nacional de Tarifas e Integrações de VT da Otimiza.pro.
 
-Fonte oficial: https://www.caucaia.ce.gov.br/arquivos/3234/Decreto_1515_2025_0000001.pdf
+Fonte (página oficial): https://www.caucaia.ce.gov.br/arquivos/3234/Decreto_1515_2025_0000001.pdf
 
 Tarifa zero em Caucaia: Gratuidade para todos no transporte coletivo rodoviário municipal convencional; programa chamado Bora de Graça até 09/2025 e Passe Livre desde o Decreto 1.515/2025
 
@@ -148,7 +156,7 @@ Tarifa zero em Caucaia: Gratuidade para todos no transporte coletivo rodoviário
 
 No Crato (CE), a passagem de ônibus (intermunicipal Juazeiro do Norte x Crato) custa R$ 4,65, segundo a operadora (Viametro Cariri, tabela de tarifas; Prefeitura de Juazeiro do Norte, notícia de 21/03/2022); valor conferido em 17/10/2026 pela Base Nacional de Tarifas e Integrações de VT da Otimiza.pro.
 
-Fonte oficial: https://viametrocariri.com.br/index.php?page=tarifas
+Fonte (operadora): https://viametrocariri.com.br/index.php?page=tarifas
 
 Vale-transporte no Crato: cartão Cartão VT do Bilhete Único Metropolitano (exige Vale-transporte Metropolitano); emitido por Viametro Cariri, com subsídio do Governo do Ceará no Bilhete Único; posto de cadastro também em Crato.
 
@@ -158,7 +166,7 @@ Integração no Crato: Bilhete Único Metropolitano do Cariri: paga o primeiro �
 
 Em Eusébio (CE), a passagem de ônibus custa R$ 5,95, e há linhas gratuitas; valor conferido em 18/10/2026 pela Base Nacional de Tarifas e Integrações de VT da Otimiza.pro.
 
-Fonte oficial: https://www.vtefortaleza.com.br/
+Fonte (operadora): https://www.vtefortaleza.com.br/
 
 Vale-transporte em Eusébio: cartão Vale-Transporte Eletrônico (VTE) Metropolitano; emitido por Sindiônibus (Sindicato das Empresas de Transporte de Passageiros do Estado do Ceará), que detém a venda dos créditos e cartões de vale-transporte em Fortaleza e na região metropolitana; canal de compra da empresa: portal VTE Fortaleza (www.vtefortaleza.com.br) e postos de cadastramento metropolitanos (sede do Sindiônibus, Av. Borges de Melo, 60, Aerolândia, e unidades Vapt Vupt); o detalhe do pedido on-line não foi conferido porque o portal só carrega com JavaScript; liberação do crédito: carga a bordo 3 dias úteis após a comprovação do pagamento (termo de referência do TJCE de 2023, item 11.3); taxa na compra: no contrato de VTE metropolitano do TJCE com o Sindiônibus (termo de referência de 2023, item 7.2.1), o comprador tem até 4 transações de crédito por mês, e cada transação extra, em caráter excepcional, custa 1 tarifa do 1º anel metropolitano (R$ 4,80) Revisão de 18/10: a cobrança é de um contrato do TJCE, em caráter excepcional; a taxa no canal das empresas não foi encontrada.; validade dos créditos: 90 dias corridos a partir da disponibilização dos créditos, com revalidação em até 7 dias após o vencimento; cartão sem uso por 120 dias é bloqueado (termo de referência do TJCE de 2023).
 
@@ -170,7 +178,7 @@ Em Fortaleza (CE), a passagem de ônibus custa R$ 5,40 desde 02/01/2026, conform
 
 Em Fortaleza (CE), o GTFS oficial mais recente da Etufor, de 03/04/2026, lista 325 linhas de ônibus. O GTFS oficial mais recente do Metrofor, de 01/01/2025, lista 3 linhas de metrô. Em 2018, o sistema de ônibus levou 304 milhões de passageiros, segundo dados declarados pelo município à Pesquisa Nacional de Mobilidade Urbana (PEMOB), do governo federal. A idade média da frota de ônibus era de 5,9 anos em 2018. Dados consolidados pela Base Nacional de Tarifas e Integrações de VT da Otimiza.pro.
 
-Fonte oficial: https://diariooficial.fortaleza.ce.gov.br/api/nodes/ebaab252-475d-457d-aab2-52475d257d95/content?name=22122025%20-%2018219.pdf
+Fonte (página oficial): https://diariooficial.fortaleza.ce.gov.br/api/nodes/ebaab252-475d-457d-aab2-52475d257d95/content?name=22122025%20-%2018219.pdf
 
 Vale-transporte em Fortaleza: cartão Vale-Transporte Eletrônico (VTE) urbano; o termo de referência do TJCE (2022/2023) chama o cartão de Passecard; emitido por Sindiônibus (Sindicato das Empresas de Transportes de Passageiros do Estado do Ceará), que detém a exclusividade na emissão e na venda do vale-transporte no Ceará, com base no Decreto Municipal nº 9.142/1993 (extratos de inexigibilidade do TJCE, DJe de 17/09/2021); canal de compra da empresa: Portal VTE Fortaleza (www.vtefortaleza.com.br): área da empresa com login, pedido de créditos e boleto (fases do pedido no portal: Pedido Incluído, Boleto Impresso, Pedido Conferido, Pedido Processado); o portal lista os postos de cadastramento e de venda, entre eles a sede do Sindiônibus (Av. Borges de Melo, 60, Aerolândia); liberação do crédito: no contrato de VTE metropolitano do TJCE (termo de referência de 2022/2023), a carga a bordo ocorre 3 dias úteis após a comprovação do pagamento; taxa na compra: no contrato de VTE metropolitano do TJCE, até 4 transações de crédito por mês, e cada transação extra custa 1 tarifa do 1º anel metropolitano; validade dos créditos: no contrato de VTE metropolitano do TJCE, 90 dias corridos a partir da disponibilização, com revalidação em até 7 dias após o vencimento; cartão sem uso por 120 dias é bloqueado.
 
@@ -184,7 +192,7 @@ Em Juazeiro do Norte (CE), a passagem de ônibus custa R$ 3,00 desde 03/2022, co
 
 Em 2018, o sistema de ônibus de Juazeiro do Norte (CE) levou 7 milhões de passageiros, segundo dados declarados pelo município à Pesquisa Nacional de Mobilidade Urbana (PEMOB), do governo federal. A idade média da frota de ônibus era de 6 anos em 2018. Dados consolidados pela Base Nacional de Tarifas e Integrações de VT da Otimiza.pro.
 
-Fonte oficial: https://viametrocariri.com.br/index.php?page=tarifas
+Fonte (operadora): https://viametrocariri.com.br/index.php?page=tarifas
 
 Vale-transporte em Juazeiro do Norte: cartão Cartão VT do Bilhete Único Metropolitano (exige Vale-transporte Metropolitano); a operadora também cita 'Vale Transporte Eletrônico' em seu site; emitido por Viametro Cariri, com subsídio do Governo do Ceará no Bilhete Único.
 
@@ -198,7 +206,7 @@ Em Brasília (DF), a passagem de ônibus custa de R$ 2,70 a R$ 5,50 (varia com o
 
 Em 2021, o sistema de ônibus de Brasília (DF) levou 277 milhões de passageiros, segundo dados declarados pelo município à Pesquisa Nacional de Mobilidade Urbana (PEMOB), do governo federal. A idade média da frota de ônibus era de 4,5 anos em 2020. Dados consolidados pela Base Nacional de Tarifas e Integrações de VT da Otimiza.pro.
 
-Fonte oficial: https://www.dodf.df.gov.br/index/visualizar-arquivo/?pasta=2020%7C01_Janeiro%7CDODF%20007%2010-01-2020%7C&arquivo=DODF%20007%2010-01-2020%20INTEGRA.pdf
+Fonte (página oficial): https://www.dodf.df.gov.br/index/visualizar-arquivo/?pasta=2020%7C01_Janeiro%7CDODF%20007%2010-01-2020%7C&arquivo=DODF%20007%2010-01-2020%20INTEGRA.pdf
 
 Vale-transporte em Brasília: cartão +Vale-Transporte (BRB Mobilidade); emitido por BRB; canal de compra da empresa: mobilidade.brb.com.br.
 
@@ -212,7 +220,7 @@ Tarifa zero em Brasília: Programa Vai de Graça: isenção da tarifa do usuári
 
 Em Aracruz (ES), a passagem de ônibus custa R$ 5,05 desde 03/2026, conforme Decreto nº 50.772/2026; valor conferido em 18/10/2026 pela Base Nacional de Tarifas e Integrações de VT da Otimiza.pro.
 
-Fonte oficial: https://aracruz.es.gov.br/storage/56980/50772-ANEXO_merged.pdf
+Fonte (página oficial): https://aracruz.es.gov.br/storage/56980/50772-ANEXO_merged.pdf
 
 Vale-transporte em Aracruz: cartão Cartão Vale-Transporte (Decreto 34.446/2018, art. 2º); emitido por Central de Atendimento das empresas operadoras (consórcio das concessionárias municipais que gerencia a bilhetagem eletrônica); canal de compra da empresa: Pelo Decreto 34.446/2018, a empresa cadastra os funcionários pelo sistema informatizado ou enviando as informações em papel timbrado à Central de Atendimento das empresas operadoras, que emite os cartões; os créditos pagos são liberados após a confirmação do pagamento; liberação do crédito: créditos disponibilizados só após a confirmação do pagamento, em até 48 horas (Decreto 34.446/2018, art. 18); taxa na compra: a cobrança mensal sobre os pedidos pagos que o art. 14 do Decreto 34.446/2018 permitia à Central de Atendimento foi suprimida pelo Decreto 36.327/2019; validade dos créditos: em caso de reajuste, o poder de compra dos créditos é mantido por 30 dias (Decreto 34.446/2018, art. 11).
 
@@ -220,7 +228,7 @@ Vale-transporte em Aracruz: cartão Cartão Vale-Transporte (Decreto 34.446/2018
 
 Em Cachoeiro de Itapemirim (ES), a passagem de ônibus custa de R$ 4,00 a R$ 5,25 (varia com o cartão ou o meio de pagamento) desde 29/03/2026, conforme Decreto nº 36.967/2026; valor conferido em 17/10/2026 pela Base Nacional de Tarifas e Integrações de VT da Otimiza.pro.
 
-Fonte oficial: https://diario.cachoeiro.es.gov.br/uploads/dio/2/2026/d36967-decreto-reajuste-tarifa-do-transporte-coletivo-municipal-para-2026-1774647977.pdf
+Fonte (página oficial): https://diario.cachoeiro.es.gov.br/uploads/dio/2/2026/d36967-decreto-reajuste-tarifa-do-transporte-coletivo-municipal-para-2026-1774647977.pdf
 
 Integração em Cachoeiro de Itapemirim: Integração entre linhas urbanas e distritais: o segundo trecho paga 50% da tarifa de R$ 5,25 (Decreto nº 27.201/2017); não há subsídio tarifário nessa integração
 
@@ -230,7 +238,7 @@ Em Cariacica (ES), a passagem de ônibus do sistema Transcol (Grande Vitória) (
 
 Em 2018, o sistema de ônibus de Cariacica (ES) levou 86 milhões de passageiros, segundo dados declarados pelo município à Pesquisa Nacional de Mobilidade Urbana (PEMOB), do governo federal. A idade média da frota de ônibus era de 8,4 anos em 2018. Dados consolidados pela Base Nacional de Tarifas e Integrações de VT da Otimiza.pro.
 
-Fonte oficial: https://ioes.dio.es.gov.br/portal/edicoes/download/10814
+Fonte (página oficial): https://ioes.dio.es.gov.br/portal/edicoes/download/10814
 
 Vale-transporte em Cariacica: cartão CartãoGV; emitido por GVBus; canal de compra da empresa: recargaonline.gvbus.org.br; validade dos créditos: créditos expiram no fim da concessão (2039).
 
@@ -240,7 +248,7 @@ Integração em Cariacica: integração física nos terminais do Transcol, pagan
 
 Em Colatina (ES), a passagem de ônibus custa R$ 4,40 desde 26/02/2023, conforme Decreto nº 27.776/2023; valor conferido em 18/10/2026 pela Base Nacional de Tarifas e Integrações de VT da Otimiza.pro.
 
-Fonte oficial: https://colatina.legonline.com.br/ato-normativo/compilado/24519
+Fonte (página oficial): https://colatina.legonline.com.br/ato-normativo/compilado/24519
 
 Vale-transporte em Colatina: cartão cartão Vale Transporte do Consórcio Noroeste (pertence à empresa empregadora; recarregável, sem carga mínima); emitido por Consórcio Noroeste (bilhetagem VipCard); canal de compra da empresa: Link Recarga Pessoa Jurídica no site do Consórcio Noroeste, que leva ao portal SIGOM (http://webservicos.consorcionoroeste.com.br/wbc-st5/), com login da empresa; atendimento (27) 3723-4334, Av. Getúlio Vargas, 43, Scalla Center, Centro.
 
@@ -248,11 +256,21 @@ Integração em Colatina: Integração temporal: duas linhas diferentes pagando 
 
 Tarifa zero em Colatina: Transporte público gratuito nos dias de votação: 04/10/2026 e, se houver 2º turno, 25/10/2026
 
+### Linhares (ES)
+
+Em Linhares (ES), a passagem de ônibus custa R$ 5,60 desde 01/04/2026, segundo a imprensa (Jornal ES Hoje, 26/03/2026; Eu vi em Linhares, 27/04/2026); valor conferido em 17/10/2026 pela Base Nacional de Tarifas e Integrações de VT da Otimiza.pro.
+
+Fonte (imprensa): https://eshoje.com.br/espirito-santo/2026/03/passagem-de-onibus-sobe-em-linhares-e-custo-diario-pode-chegar-a-r-3360/
+
+Vale-transporte em Linhares: cartão ValeFácil, modalidade Vale Transporte; emitido por Via Norte.
+
+Integração em Linhares: Integração temporal: segundo ônibus em até 45 minutos após o primeiro pagamento, com 15 minutos de tolerância (60 minutos no total), pagando uma só tarifa; não vale retorno pela mesma linha de origem
+
 ### Serra (ES)
 
 Em Serra (ES), a passagem de ônibus do sistema Transcol (Grande Vitória) (Transcol: Vitória, Cariacica, Serra, Viana e intermunicipal metropolitano) custa R$ 5,10 desde 11/01/2026, conforme Portaria SEMOBI nº 003-S/2026; valor conferido em 18/10/2026 pela Base Nacional de Tarifas e Integrações de VT da Otimiza.pro.
 
-Fonte oficial: https://ioes.dio.es.gov.br/portal/edicoes/download/10814
+Fonte (página oficial): https://ioes.dio.es.gov.br/portal/edicoes/download/10814
 
 Vale-transporte em Serra: cartão CartãoGV; emitido por GVBus; canal de compra da empresa: recargaonline.gvbus.org.br; validade dos créditos: créditos expiram no fim da concessão (2039).
 
@@ -264,7 +282,7 @@ Em Vila Velha (ES), a passagem de ônibus do sistema Transcol (Grande Vitória) 
 
 Em 2020, o sistema de ônibus de Vila Velha (ES) levou 3,6 milhões de passageiros, segundo dados declarados pelo município à Pesquisa Nacional de Mobilidade Urbana (PEMOB), do governo federal. A idade média da frota de ônibus era de 12,8 anos em 2020. Dados consolidados pela Base Nacional de Tarifas e Integrações de VT da Otimiza.pro.
 
-Fonte oficial: https://ioes.dio.es.gov.br/portal/edicoes/download/10814
+Fonte (página oficial): https://ioes.dio.es.gov.br/portal/edicoes/download/10814
 
 Vale-transporte em Vila Velha: cartão CartãoGV; emitido por GVBus; canal de compra da empresa: recargaonline.gvbus.org.br; validade dos créditos: créditos expiram no fim da concessão (2039).
 
@@ -274,7 +292,7 @@ Integração em Vila Velha: integração física nos terminais do Transcol, paga
 
 Em Vitória (ES), a passagem de ônibus (Transcol: Vitória, Cariacica, Serra, Viana e intermunicipal metropolitano) custa R$ 5,10 desde 11/01/2026, conforme Portaria SEMOBI nº 003-S/2026; valor conferido em 18/10/2026 pela Base Nacional de Tarifas e Integrações de VT da Otimiza.pro.
 
-Fonte oficial: https://ioes.dio.es.gov.br/portal/edicoes/download/10814
+Fonte (página oficial): https://ioes.dio.es.gov.br/portal/edicoes/download/10814
 
 Vale-transporte em Vitória: cartão CartãoGV; emitido por GVBus; canal de compra da empresa: recargaonline.gvbus.org.br; validade dos créditos: créditos expiram no fim da concessão (2039).
 
@@ -288,7 +306,7 @@ Em Anápolis (GO), a passagem de ônibus custa de R$ 5,25 a R$ 6,00 (varia com o
 
 Em Anápolis (GO), a idade média da frota de ônibus era de 5 anos em 2018. Dados consolidados pela Base Nacional de Tarifas e Integrações de VT da Otimiza.pro.
 
-Fonte oficial: https://www.anapolis.go.gov.br/confira-as-rotas-e-horarios-de-onibus-para-a-expoana-2026-tarifa-sera-cobrada/
+Fonte (página oficial): https://www.anapolis.go.gov.br/confira-as-rotas-e-horarios-de-onibus-para-a-expoana-2026-tarifa-sera-cobrada/
 
 ### Aparecida de Goiânia (GO)
 
@@ -296,7 +314,7 @@ Em Aparecida de Goiânia (GO), a passagem de ônibus do sistema CMTC (Rede Metro
 
 Em 2018, o sistema de ônibus de Aparecida de Goiânia (GO) levou 53 milhões de passageiros, segundo dados declarados pelo município à Pesquisa Nacional de Mobilidade Urbana (PEMOB), do governo federal. A idade média da frota de ônibus era de 7,5 anos em 2018. Dados consolidados pela Base Nacional de Tarifas e Integrações de VT da Otimiza.pro.
 
-Fonte oficial: https://cmtcrmg.com.br/transparencia/deliberacao-no-085-17-04-2019/
+Fonte (página oficial): https://cmtcrmg.com.br/transparencia/deliberacao-no-085-17-04-2019/
 
 Vale-transporte em Aparecida de Goiânia: cartão Bilhete Único Empresa; emitido por Sitpass (RedeMob Consórcio); canal de compra da empresa: sitpass.com.br (boleto, TED ou Pix); liberação do crédito: até 2 dias úteis após o pagamento; taxa na compra: sem custo de adesão nem de uso do site.
 
@@ -308,7 +326,7 @@ Em Goiânia (GO), a passagem de ônibus custa R$ 4,30 desde 19/04/2019, conforme
 
 Em 2019, o sistema de ônibus de Goiânia (GO) levou 144 milhões de passageiros, segundo dados declarados pelo município à Pesquisa Nacional de Mobilidade Urbana (PEMOB), do governo federal. A idade média da frota de ônibus era de 7 anos em 2018. Dados consolidados pela Base Nacional de Tarifas e Integrações de VT da Otimiza.pro.
 
-Fonte oficial: https://cmtcrmg.com.br/transparencia/deliberacao-no-085-17-04-2019/
+Fonte (página oficial): https://cmtcrmg.com.br/transparencia/deliberacao-no-085-17-04-2019/
 
 Vale-transporte em Goiânia: cartão Bilhete Único Empresa; emitido por Sitpass (RedeMob Consórcio); canal de compra da empresa: sitpass.com.br (boleto, TED ou Pix); liberação do crédito: até 2 dias úteis após o pagamento; taxa na compra: sem custo de adesão nem de uso do site.
 
@@ -318,7 +336,7 @@ Integração em Goiânia: uma tarifa e até 4 integrações em 2h30, sem passar 
 
 Em Goianira (GO), a passagem de ônibus do sistema CMTC (Rede Metropolitana) custa R$ 4,30 desde 19/04/2019, conforme Deliberação CDTC nº 085/2019; valor conferido em 17/10/2026 pela Base Nacional de Tarifas e Integrações de VT da Otimiza.pro.
 
-Fonte oficial: https://cmtcrmg.com.br/transparencia/deliberacao-no-085-17-04-2019/
+Fonte (página oficial): https://cmtcrmg.com.br/transparencia/deliberacao-no-085-17-04-2019/
 
 Vale-transporte em Goianira: cartão Bilhete Único Empresa; emitido por Sitpass (RedeMob Consórcio); canal de compra da empresa: sitpass.com.br (boleto, TED ou Pix); liberação do crédito: até 2 dias úteis após o pagamento; taxa na compra: sem custo de adesão nem de uso do site.
 
@@ -328,13 +346,13 @@ Integração em Goianira: uma tarifa e até 4 integrações em 2h30, sem passar 
 
 Em Itumbiara (GO), a passagem de ônibus custa R$ 3,00, segundo a publicação oficial (Prefeitura de Itumbiara, página Transporte Coletivo); valor conferido em 17/10/2026 pela Base Nacional de Tarifas e Integrações de VT da Otimiza.pro.
 
-Fonte oficial: https://itumbiara.go.gov.br/transportecoletivo/
+Fonte (página oficial): https://itumbiara.go.gov.br/transportecoletivo/
 
 ### Luziânia (GO)
 
 Em Luziânia (GO), o ônibus é gratuito (tarifa zero) desde 27/11/2023, conforme Lei nº 4.595/2023; valor conferido em 17/10/2026 pela Base Nacional de Tarifas e Integrações de VT da Otimiza.pro.
 
-Fonte oficial: https://www.luziania.go.gov.br/programa-tarifa-zero-no-transporte-publico-ja-esta-em-funcionamento-em-luziania/
+Fonte (página oficial): https://www.luziania.go.gov.br/programa-tarifa-zero-no-transporte-publico-ja-esta-em-funcionamento-em-luziania/
 
 Integração em Luziânia: Sem cobrança de tarifa (tarifa zero)
 
@@ -344,13 +362,13 @@ Tarifa zero em Luziânia: Transporte público municipal gratuito para usuários 
 
 Em Rio Verde (GO), a passagem de ônibus custa R$ 2,00 desde 01/05/2024, conforme Decreto nº 1.276/2024; valor conferido em 17/10/2026 pela Base Nacional de Tarifas e Integrações de VT da Otimiza.pro.
 
-Fonte oficial: https://transporte.rioverde.go.gov.br/valor-da-tarifa
+Fonte (página oficial): https://transporte.rioverde.go.gov.br/valor-da-tarifa
 
 ### Senador Canedo (GO)
 
 Em Senador Canedo (GO), a passagem de ônibus do sistema CMTC (Rede Metropolitana) custa R$ 4,30 desde 19/04/2019, conforme Deliberação CDTC nº 085/2019; valor conferido em 17/10/2026 pela Base Nacional de Tarifas e Integrações de VT da Otimiza.pro.
 
-Fonte oficial: https://cmtcrmg.com.br/transparencia/deliberacao-no-085-17-04-2019/
+Fonte (página oficial): https://cmtcrmg.com.br/transparencia/deliberacao-no-085-17-04-2019/
 
 Vale-transporte em Senador Canedo: cartão Bilhete Único Empresa; emitido por Sitpass (RedeMob Consórcio); canal de compra da empresa: sitpass.com.br (boleto, TED ou Pix); liberação do crédito: até 2 dias úteis após o pagamento; taxa na compra: sem custo de adesão nem de uso do site.
 
@@ -360,7 +378,7 @@ Integração em Senador Canedo: uma tarifa e até 4 integrações em 2h30, sem p
 
 Em Trindade (GO), a passagem de ônibus do sistema CMTC (Rede Metropolitana) custa R$ 4,30 desde 19/04/2019, conforme Deliberação CDTC nº 085/2019; valor conferido em 17/10/2026 pela Base Nacional de Tarifas e Integrações de VT da Otimiza.pro.
 
-Fonte oficial: https://cmtcrmg.com.br/transparencia/deliberacao-no-085-17-04-2019/
+Fonte (página oficial): https://cmtcrmg.com.br/transparencia/deliberacao-no-085-17-04-2019/
 
 Vale-transporte em Trindade: cartão Bilhete Único Empresa; emitido por Sitpass (RedeMob Consórcio); canal de compra da empresa: sitpass.com.br (boleto, TED ou Pix); liberação do crédito: até 2 dias úteis após o pagamento; taxa na compra: sem custo de adesão nem de uso do site.
 
@@ -370,9 +388,9 @@ Integração em Trindade: uma tarifa e até 4 integrações em 2h30, sem passar 
 
 ### Paço do Lumiar (MA)
 
-Em Paço do Lumiar (MA), a passagem do transporte alternativo (vans e micro-ônibus) custa R$ 4,20 desde 12/2025, segundo a publicação oficial (MOB, notícia de 29/12/2025); valor conferido em 17/10/2026 pela Base Nacional de Tarifas e Integrações de VT da Otimiza.pro.
+Em Paço do Lumiar (MA), a passagem de ônibus (semiurbano) custa R$ 4,20, segundo a imprensa (Imirante, 06/02/2026, entrevista do presidente da MOB); valor conferido em 17/10/2026 pela Base Nacional de Tarifas e Integrações de VT da Otimiza.pro.
 
-Fonte oficial: https://www.mob.ma.gov.br/noticias/regularizacao-e-requisito-para-garantir-tarifa-reduzida-no-transporte-alternativo
+Fonte (imprensa): https://imirante.com/noticias/sao-luis/2026/02/06/ipolitica-presidente-da-mob-explica-por-que-onibus-semiurbanos-circulam-e-urbanos-seguem-parados-em-sao-luis
 
 ### São Luís (MA)
 
@@ -380,7 +398,7 @@ Em São Luís (MA), a passagem de ônibus custa de R$ 3,70 a R$ 4,20 (varia com 
 
 Em 2021, o sistema de ônibus de São Luís (MA) levou 70 milhões de passageiros, segundo dados declarados pelo município à Pesquisa Nacional de Mobilidade Urbana (PEMOB), do governo federal. A idade média da frota de ônibus era de 6 anos em 2021. Dados consolidados pela Base Nacional de Tarifas e Integrações de VT da Otimiza.pro.
 
-Fonte oficial: https://diariooficial.saoluis.ma.gov.br/uploads/Digitalizados/diario_oficial/253/HOYK7ZPEdI-gLeyyyfZHx96PcgRAFJkh.pdf
+Fonte (página oficial): https://diariooficial.saoluis.ma.gov.br/uploads/Digitalizados/diario_oficial/253/HOYK7ZPEdI-gLeyyyfZHx96PcgRAFJkh.pdf
 
 Vale-transporte em São Luís: cartão cartão Vale Transporte da bilhetagem eletrônica do SET; emitido por SET (Sindicato das Empresas de Transporte de Passageiros de São Luís); canal de compra da empresa: Portal de Vendas do SET (https://salesportal.saoluis.prodatamobility.com.br/), aberto pelo botão 'Comprar vale transporte' do site www.setsl.com.br: acesso por CNPJ, cadastro de funcionários e pedido pago por boleto. Venda de crédito e emissão de cartões de Vale Transporte também no Posto de Atendimento Apicum (Rua Dom Xisto Albano, 08), de segunda a sexta, das 7h às 17h. O app Bilhete Fácil SLZ não recarrega VT, porque essa compra é feita por empresas ou órgãos públicos (O Imparcial, 28/04/2025); validade dos créditos: no app Bilhete Fácil SLZ, que não atende o VT, os créditos do Passe Fácil e da meia passagem valem 365 dias (O Imparcial, 28/04/2025).
 
@@ -390,7 +408,7 @@ Integração em São Luís: Bilhete Único: com o cartão de transporte ou a car
 
 Em Timon (MA), a passagem de ônibus custa R$ 5,00, segundo a publicação oficial (Prefeitura de Timon, notícia de 17/09/2026); valor conferido em 17/10/2026 pela Base Nacional de Tarifas e Integrações de VT da Otimiza.pro.
 
-Fonte oficial: https://timon.ma.gov.br/?p=362996
+Fonte (página oficial): https://timon.ma.gov.br/?p=362996
 
 Tarifa zero em Timon: Linhas urbanas sem cobrança no 1º turno das Eleições 2026 (04/10/2026) e no eventual 2º turno (25/10/2026)
 
@@ -402,7 +420,7 @@ Em Belo Horizonte (MG), a passagem de ônibus custa R$ 6,25 desde 01/01/2026, co
 
 Em Belo Horizonte (MG), o GTFS oficial da BHTrans/SUMOB vigente em 17/10/2026 lista 328 linhas de ônibus. Em 2018, o sistema de ônibus levou 397 milhões de passageiros, segundo dados declarados pelo município à Pesquisa Nacional de Mobilidade Urbana (PEMOB), do governo federal. A idade média da frota de ônibus era de 2,5 anos em 2019. Dados consolidados pela Base Nacional de Tarifas e Integrações de VT da Otimiza.pro.
 
-Fonte oficial: https://www.transfacil.com.br/noticia/21
+Fonte (operadora): https://www.transfacil.com.br/noticia/21
 
 Vale-transporte em Belo Horizonte: a empresa compra em 2 sistemas, BHBUS (Transfácil) e Ótimo.
 
@@ -420,7 +438,13 @@ Em Betim (MG), a passagem de ônibus custa de R$ 3,15 a R$ 6,25 (varia com o tip
 
 Em 2020, o sistema de ônibus de Betim (MG) levou 21 milhões de passageiros, segundo dados declarados pelo município à Pesquisa Nacional de Mobilidade Urbana (PEMOB), do governo federal. A idade média da frota de ônibus era de 8,7 anos em 2020. Dados consolidados pela Base Nacional de Tarifas e Integrações de VT da Otimiza.pro.
 
-Fonte oficial: https://www.betim.mg.gov.br/portal/noticias/0/3/14752/prefeitura-de-betim-regulamenta-reajuste-tarifario-e-anuncia-reestruturacao-do-sistema-de-transporte-publico-para-2026
+Fonte (página oficial): https://www.betim.mg.gov.br/portal/noticias/0/3/14752/prefeitura-de-betim-regulamenta-reajuste-tarifario-e-anuncia-reestruturacao-do-sistema-de-transporte-publico-para-2026
+
+Vale-transporte em Betim: a empresa compra em 2 sistemas, BetimCard Vale-Transporte e Ótimo.
+
+BetimCard Vale-Transporte: cobre ônibus do sistema regular e do transporte de baixa capacidade de Betim (cláusula 6.5); cartão Cartão BetimCard Vale-Transporte; emitido por Coletivos Santa Edwiges Betim Ltda. (CNPJ 23.164.252/0001-51), contratada no contrato de cessão do BetimCard; canal de compra da empresa: pedidos de Carga a Bordo e boletos pelo aplicativo WEBSERVIÇOS, no site www.betimcard.com, com contrato de pessoa jurídica (cartões em comodato); liberação do crédito: carga a bordo em até 3 dias úteis após a comprovação do pagamento (cláusula 5.4); taxa na compra: 1% sobre o valor total do pedido de créditos, com mínimo de R$ 0,45 por cartão a carregar, pelo serviço de Carga a Bordo (cláusula 7.2 do contrato de pessoa jurídica); validade dos créditos: 180 dias a partir da geração dos créditos (cláusula 6.4).
+
+Ótimo: cobre ônibus intermunicipais metropolitanos da RMBH que atendem Betim; cartão Cartão ÓTIMO Vale-Transporte; emitido por Consórcio Ótimo de Bilhetagem Eletrônica; canal de compra da empresa: cadastro da pessoa jurídica pelo formulário do site (formularios.otimoonline.com.br), com o contrato assinado; modalidade Carga a Bordo: pedidos e boletos no Portal Ótimo (área do cliente PJ); modalidade Carga no Posto: Loja do Bairro Floresta (Rua Aquiles Lobo, 504, Belo Horizonte); liberação do crédito: até 24 horas úteis após a confirmação do pagamento (FAQ); o contrato prevê a carga embarcada nos ônibus em até 1 dia útil após a compensação (cláusula 5.4.1); taxa na compra: 1% sobre o valor total do pedido na modalidade Carga a Bordo, com mínimo de R$ 0,45 por cartão a carregar (cláusula 6.2 do contrato); validade dos créditos: 180 dias a partir da habilitação; revalidação no ponto de venda em até 30 dias após o vencimento; recarga não feita em 30 dias pode ser reabilitada a pedido da empresa em até 180 dias (cláusula 3.7).
 
 ### Contagem (MG)
 
@@ -428,21 +452,35 @@ Em Contagem (MG), a passagem de ônibus custa R$ 6,75 desde 30/12/2025, conforme
 
 Em 2018, o sistema de ônibus de Contagem (MG) levou 28 milhões de passageiros, segundo dados declarados pelo município à Pesquisa Nacional de Mobilidade Urbana (PEMOB), do governo federal. A idade média da frota de ônibus era de 7,9 anos em 2018. Dados consolidados pela Base Nacional de Tarifas e Integrações de VT da Otimiza.pro.
 
-Fonte oficial: https://www.transcon.contagem.mg.gov.br/portal/noticias/0/3/485/tarifa-de-onibus-em-contagem-passa-para-r-675-a-partir-de-30-de-dezembro/
+Fonte (página oficial): https://www.transcon.contagem.mg.gov.br/portal/noticias/0/3/485/tarifa-de-onibus-em-contagem-passa-para-r-675-a-partir-de-30-de-dezembro/
 
-Vale-transporte em Contagem: cartão Cartão Ótimo Vale-Transporte; emitido por Consórcio Ótimo; canal de compra da empresa: Portal de recargas Ótimo (pessoa jurídica): pedido com boleto, por funcionário ou por arquivo de importação; cadastro da empresa por contrato de cessão de cartões; liberação do crédito: Até 24 horas úteis após a confirmação do pagamento do boleto.
+Vale-transporte em Contagem: cartão Cartão ÓTIMO Vale-Transporte; emitido por Consórcio Ótimo de Bilhetagem Eletrônica; canal de compra da empresa: cadastro da pessoa jurídica pelo formulário do site (formularios.otimoonline.com.br), com o contrato assinado; modalidade Carga a Bordo: pedidos e boletos no Portal Ótimo (área do cliente PJ); modalidade Carga no Posto: Loja do Bairro Floresta (Rua Aquiles Lobo, 504, Belo Horizonte); liberação do crédito: até 24 horas úteis após a confirmação do pagamento (FAQ); o contrato prevê a carga embarcada nos ônibus em até 1 dia útil após a compensação (cláusula 5.4.1); taxa na compra: 1% sobre o valor total do pedido na modalidade Carga a Bordo, com mínimo de R$ 0,45 por cartão a carregar (cláusula 6.2 do contrato); validade dos créditos: 180 dias a partir da habilitação; revalidação no ponto de venda em até 30 dias após o vencimento; recarga não feita em 30 dias pode ser reabilitada a pedido da empresa em até 180 dias (cláusula 3.7).
+
+### Divinópolis (MG)
+
+Em Divinópolis (MG), a passagem de ônibus custa de R$ 5,50 a R$ 6,00 (varia com o cartão ou o meio de pagamento) desde 01/05/2026, conforme Decreto nº 17.325/2026; valor conferido em 17/10/2026 pela Base Nacional de Tarifas e Integrações de VT da Otimiza.pro.
+
+Fonte (imprensa): https://divinews.com/2026/04/29/divinopolis-tarifa-de-onibus-sobe-apos-crise-no-transporte-e-decreto-da-prefeita-entra-em-vigor-em-maio/
 
 ### Extrema (MG)
 
 Em Extrema (MG), a passagem de ônibus custa R$ 3,30, segundo a publicação oficial (Prefeitura de Extrema, página Transporte Coletivo/Rodoviário, horários atualizados em agosto de 2026); valor conferido em 18/10/2026 pela Base Nacional de Tarifas e Integrações de VT da Otimiza.pro.
 
-Fonte oficial: https://www.extrema.mg.gov.br/servicos/transporte-coletivorodoviario
+Fonte (página oficial): https://www.extrema.mg.gov.br/servicos/transporte-coletivorodoviario
+
+### Governador Valadares (MG)
+
+Em Governador Valadares (MG), a passagem de ônibus custa de R$ 5,31 a R$ 5,90 (varia com o cartão ou o meio de pagamento) desde 22/07/2026, segundo a imprensa (Diário do Transporte, 17/07/2026); valor conferido em 17/10/2026 pela Base Nacional de Tarifas e Integrações de VT da Otimiza.pro.
+
+Em 2018, o sistema de ônibus de Governador Valadares (MG) levou 17 milhões de passageiros, segundo dados declarados pelo município à Pesquisa Nacional de Mobilidade Urbana (PEMOB), do governo federal. A idade média da frota de ônibus era de 2,9 anos em 2018. Dados consolidados pela Base Nacional de Tarifas e Integrações de VT da Otimiza.pro.
+
+Fonte (imprensa): https://diariodotransporte.com.br/2026/07/17/apos-reajuste-usuarios-do-transporte-publico-de-governador-valadares-mg-passam-a-pagar-r-590-na-tarifa-de-onibus/
 
 ### Ibirité (MG)
 
 Em Ibirité (MG), o ônibus é gratuito (tarifa zero), segundo a publicação oficial (Prefeitura de Ibirité, página Horários de ônibus, 'IBIRITRANS Tarifa Zero'); valor conferido em 17/10/2026 pela Base Nacional de Tarifas e Integrações de VT da Otimiza.pro.
 
-Fonte oficial: https://www.ibirite.mg.gov.br/detalhe-da-materia/info/horarios-de-onibus/6504
+Fonte (página oficial): https://www.ibirite.mg.gov.br/detalhe-da-materia/info/horarios-de-onibus/6504
 
 Tarifa zero em Ibirité: Ônibus municipais sem cobrança de tarifa para todos (Ibiritrans Tarifa Zero)
 
@@ -452,7 +490,7 @@ Em Ipatinga (MG), a passagem de ônibus custa R$ 5,50 desde 27/06/2026, conforme
 
 Em 2018, o sistema de ônibus de Ipatinga (MG) levou 13 milhões de passageiros, segundo dados declarados pelo município à Pesquisa Nacional de Mobilidade Urbana (PEMOB), do governo federal. A idade média da frota de ônibus era de 9 anos em 2018. Dados consolidados pela Base Nacional de Tarifas e Integrações de VT da Otimiza.pro.
 
-Fonte oficial: https://www.ipatinga.mg.gov.br/abrir_arquivo.aspx?cdLocal=12&arquivo=%7BCCBA4500-0D8A-2E72-32B1-8ACB70B2AECE%7D.pdf
+Fonte (página oficial): https://www.ipatinga.mg.gov.br/abrir_arquivo.aspx?cdLocal=12&arquivo=%7BCCBA4500-0D8A-2E72-32B1-8ACB70B2AECE%7D.pdf
 
 Vale-transporte em Ipatinga: cartão Cartão Buse Vale-Transporte; emitido por Buse Gestão e Administração de Negócios Ltda. (cartão adotado pela Saritur em Ipatinga); canal de compra da empresa: pedido de carga a bordo no sistema WEBSIGOM, pelo site meubuse.com.br (opção 'Recarga empresa'), com boleto bancário gerado no sistema; contrato de cessão de uso assinado com a Buse; liberação do crédito: carga embarcada nos validadores em até 3 dias úteis após a comprovação do pagamento; depois disso, 30 dias para o usuário carregar o cartão no ônibus (cláusulas 5.4 e 5.5); validade dos créditos: 180 dias a partir da geração dos créditos, com revalidação possível nos 30 dias seguintes ao vencimento (cláusula 6.4).
 
@@ -462,7 +500,7 @@ Integração em Ipatinga: Linha 41 integrada às linhas 400, 401, 402, 403, 404,
 
 Em Itabira (MG), a passagem de ônibus custa R$ 4,50 desde 08/06/2025, conforme Decreto nº 810/2025; valor conferido em 18/10/2026 pela Base Nacional de Tarifas e Integrações de VT da Otimiza.pro. Quem usa vale-transporte paga R$ 7,50.
 
-Fonte oficial: https://transita.itabira.mg.gov.br/detalhe-da-materia/info/historico-de-tarifas/154169
+Fonte (página oficial): https://transita.itabira.mg.gov.br/detalhe-da-materia/info/historico-de-tarifas/154169
 
 Vale-transporte em Itabira: cartão Cartão Vale Transporte (Empresas) da Transportes Cisne; emitido por Transportes Cisne (grupo Viação Itabira); canal de compra da empresa: cadastro da empresa iniciado por telefone; gestão dos cartões e bloqueios no sistema WebSigom; pagamento em dinheiro ou cheque no escritório (Av. France de Paula Andrade, 522) ou por depósito ou transferência no Banco do Brasil, com envio do comprovante; não aceita boleto nem cartão; liberação do crédito: 1 dia útil após o pagamento em dinheiro ou após o envio do comprovante no horário de expediente; 2 dias úteis se o comprovante não for enviado.
 
@@ -470,7 +508,7 @@ Vale-transporte em Itabira: cartão Cartão Vale Transporte (Empresas) da Transp
 
 Ainda não há tarifa de ônibus conferida para Itaúna (MG) na Base Nacional de Tarifas e Integrações de VT da Otimiza.pro.
 
-Fonte oficial: https://www.itauna.mg.gov.br/publicos/8938-25_tarifa_publica_transporte_coletivo_16104059.pdf
+Fonte (página oficial): https://www.itauna.mg.gov.br/publicos/8938-25_tarifa_publica_transporte_coletivo_16104059.pdf
 
 Vale-transporte em Itaúna: emitido por Viação Pedra Negra Ltda..
 
@@ -480,7 +518,9 @@ Em Juiz de Fora (MG), a passagem de ônibus custa R$ 3,75 desde 2019, segundo a 
 
 Em 2021, o sistema de ônibus de Juiz de Fora (MG) levou 88 milhões de passageiros, segundo dados declarados pelo município à Pesquisa Nacional de Mobilidade Urbana (PEMOB), do governo federal. A idade média da frota de ônibus era de 5 anos em 2021. Dados consolidados pela Base Nacional de Tarifas e Integrações de VT da Otimiza.pro.
 
-Fonte oficial: https://www.pjf.mg.gov.br/noticias/view.php?modo=link2&idnoticia2=89162
+Fonte (página oficial): https://www.pjf.mg.gov.br/noticias/view.php?modo=link2&idnoticia2=89162
+
+Vale-transporte em Juiz de Fora: cartão cartão MOOV verde, que recebe o vale-transporte; emitido por Astransp (Associação Profissional das Empresas de Transporte de Passageiros de Juiz de Fora, CNPJ 19.002.476/0001-90); canal de compra da empresa: Loja Virtual da Astransp: a empresa cadastra os funcionários e compra os créditos online, com boleto; recarga a bordo no validador; cartões retirados na Astransp; liberação do crédito: até 3 dias após o pagamento.
 
 Integração em Juiz de Fora: Bilhete Único JF: integração por sentido (ida ou volta), só entre regiões, em até 1h30, com 1 integração por deslocamento (2 ônibus) e sem limite diário
 
@@ -490,7 +530,7 @@ Tarifa zero em Juiz de Fora: Ônibus grátis aos domingos e feriados nacionais (
 
 Em Montes Claros (MG), a passagem de ônibus custa R$ 4,60 desde 16/02/2025, conforme Decreto nº 4.942; valor conferido em 17/10/2026 pela Base Nacional de Tarifas e Integrações de VT da Otimiza.pro.
 
-Fonte oficial: https://www.mocbus.com.br/index.php/tarifa
+Fonte (operadora): https://www.mocbus.com.br/index.php/tarifa
 
 Integração em Montes Claros: Integração temporal e espacial: troca sem nova cobrança em até 1 hora, se o 2º embarque for em eixo diferente do 1º, conforme a matriz de integração por linha e sentido. Exige cartão da bilhetagem.
 
@@ -498,7 +538,7 @@ Integração em Montes Claros: Integração temporal e espacial: troca sem nova 
 
 Ainda não há tarifa de ônibus conferida para Nova Lima (MG) na Base Nacional de Tarifas e Integrações de VT da Otimiza.pro.
 
-Fonte oficial: https://www.novalima.mg.gov.br/v1/storage/publications/1659033489d0kJFw.pdf
+Fonte (página oficial): https://www.novalima.mg.gov.br/v1/storage/publications/1659033489d0kJFw.pdf
 
 Vale-transporte em Nova Lima: a empresa compra em 2 sistemas, Cartão de transporte Via Ouro e Ótimo.
 
@@ -512,11 +552,25 @@ Tarifa zero em Nova Lima: Tarifa zero aos domingos e feriados em todas as linhas
 
 Tarifa zero em Nova Lima: Transporte público municipal gratuito em 04/10/2026 (1º turno das eleições), com horário de dia útil
 
+### Patos de Minas (MG)
+
+Em Patos de Minas (MG), a passagem de ônibus custa R$ 3,00 desde 01/02/2024, conforme Decreto nº 5.668; valor conferido em 17/10/2026 pela Base Nacional de Tarifas e Integrações de VT da Otimiza.pro.
+
+Fonte (imprensa): https://www.patos1.com.br/noticia/passagem-do-transporte-coletivo-em-patos-de-minas-passa-para-r-3-00-a-partir-desta-quinta-feira-1-02
+
 ### Poços de Caldas (MG)
 
 Em Poços de Caldas (MG), a passagem de ônibus custa R$ 5,00 desde 09/03/2026, conforme Decreto nº 14.965/2026; valor conferido em 17/10/2026 pela Base Nacional de Tarifas e Integrações de VT da Otimiza.pro.
 
-Fonte oficial: https://pocosdecaldas.mg.gov.br/noticias/prefeitura-regulamenta-transporte-coletivo-fixa-tarifa-em-r-5-e-assegura-beneficios-sociais/
+Fonte (página oficial): https://pocosdecaldas.mg.gov.br/noticias/prefeitura-regulamenta-transporte-coletivo-fixa-tarifa-em-r-5-e-assegura-beneficios-sociais/
+
+Vale-transporte em Poços de Caldas: cartão cartão eletrônico Amigo; emitido por Auto Omnibus Floramar Transportes SPE Ltda. (CNPJ 39.701.753/0001-60), concessionária do transporte coletivo de Poços de Caldas; canal de compra da empresa: página Vale Transporte do site da Floramar, que leva à compra de VT no TDMax Web Commerce (max00090.itstransdata.com/TDMaxWebCommerce/); boletos emitidos só pelo Banco 509 (Celcoin); atendimento presencial na Agência Amigo, na Estação Central.
+
+### Pouso Alegre (MG)
+
+Em Pouso Alegre (MG), a passagem de ônibus custa R$ 4,00 desde 02/02/2026, segundo a imprensa (Diário do Transporte, 26/01/2026, com dados da SMTT); valor conferido em 18/10/2026 pela Base Nacional de Tarifas e Integrações de VT da Otimiza.pro.
+
+Fonte (imprensa): https://diariodotransporte.com.br/2026/01/26/tarifa-tecnica-do-transporte-coletivo-de-pouso-alegre-mg-aumenta-mas-prefeitura-mantem-subsidio-e-passageiro-nao-sera-afetado/
 
 ### Ribeirão das Neves (MG)
 
@@ -524,13 +578,13 @@ Em Ribeirão das Neves (MG), a passagem de ônibus custa de R$ 7,50 a R$ 8,95 (v
 
 Em Ribeirão das Neves (MG), a idade média da frota de ônibus era de 5 anos em 2018. Dados consolidados pela Base Nacional de Tarifas e Integrações de VT da Otimiza.pro.
 
-Fonte oficial: https://www.ribeiraodasneves.mg.gov.br/src/pages/horariodeonibus.html
+Fonte (página oficial): https://www.ribeiraodasneves.mg.gov.br/src/pages/horariodeonibus.html
 
 ### Santa Luzia (MG)
 
 Ainda não há tarifa de ônibus conferida para Santa Luzia (MG) na Base Nacional de Tarifas e Integrações de VT da Otimiza.pro.
 
-Fonte oficial: https://www.santaluzia.mg.gov.br/noticiasv3/sancionada-lei-que-concede-tarifas-gratuitas-no-transporte-publico-luziense-aos-domingos-e-feriados/
+Fonte (página oficial): https://www.santaluzia.mg.gov.br/noticiasv3/sancionada-lei-que-concede-tarifas-gratuitas-no-transporte-publico-luziense-aos-domingos-e-feriados/
 
 Tarifa zero em Santa Luzia: Gratuidade nos ônibus municipais aos domingos e feriados
 
@@ -538,9 +592,15 @@ Tarifa zero em Santa Luzia: Gratuidade nos ônibus municipais aos domingos e fer
 
 Em Sete Lagoas (MG), a passagem de ônibus custa R$ 5,45 desde 01/03/2026, conforme Decreto nº 7.709/2026; valor conferido em 18/10/2026 pela Base Nacional de Tarifas e Integrações de VT da Otimiza.pro.
 
-Fonte oficial: https://www.setelagoas.mg.gov.br/abrir_arquivo.aspx?cdLocal=12&arquivo=%7BC88B7145-21EB-B23E-EDCC-1D18B0ABB3AB%7D.pdf
+Fonte (página oficial): https://www.setelagoas.mg.gov.br/abrir_arquivo.aspx?cdLocal=12&arquivo=%7BC88B7145-21EB-B23E-EDCC-1D18B0ABB3AB%7D.pdf
 
 Vale-transporte em Sete Lagoas: cartão cartões eletrônicos Transcard, com carga a bordo; emitido por TURI Transporte Urbano Rodoviário e Intermunicipal Ltda.; desde 25/05/2026 a receita de vale-transporte vai para conta específica do interventor municipal.
+
+### Teófilo Otoni (MG)
+
+Em Teófilo Otoni (MG), a passagem de ônibus custa R$ 3,90, segundo a imprensa (Diário Tribuna, 30/04/2026); valor conferido em 17/10/2026 pela Base Nacional de Tarifas e Integrações de VT da Otimiza.pro.
+
+Fonte (imprensa): https://diariotribuna.com.br/?p=33435
 
 ### Uberaba (MG)
 
@@ -548,7 +608,7 @@ Em Uberaba (MG), a passagem de ônibus custa de R$ 5,50 a R$ 6,00 (varia com o c
 
 Em 2018, o sistema de ônibus de Uberaba (MG) levou 20 milhões de passageiros, segundo dados declarados pelo município à Pesquisa Nacional de Mobilidade Urbana (PEMOB), do governo federal. A idade média da frota de ônibus era de 5,1 anos em 2018. Dados consolidados pela Base Nacional de Tarifas e Integrações de VT da Otimiza.pro.
 
-Fonte oficial: https://dosp.com.br/exibe_do.php?i=ODAzMzY3
+Fonte (página oficial): https://dosp.com.br/exibe_do.php?i=ODAzMzY3
 
 Vale-transporte em Uberaba: cartão Cartão Prático Vale-Transporte; emitido por Transube; canal de compra da empresa: compra online pela empresa no Webcommerce da Transube (sistema TDMax, link 'Vale Transporte' no site); a carga é transferida ao cartão pelo validador do ônibus quando o cartão é usado; validade dos créditos: 12 meses da data de aquisição; depois disso os créditos expiram (Decreto nº 2.026/2026, art. 4º).
 
@@ -560,7 +620,7 @@ Em Uberlândia (MG), a passagem de ônibus custa R$ 5,70 desde 26/07/2025, confo
 
 Em 2021, o sistema de ônibus de Uberlândia (MG) levou 58 milhões de passageiros, segundo dados declarados pelo município à Pesquisa Nacional de Mobilidade Urbana (PEMOB), do governo federal. A idade média da frota de ônibus era de 7 anos em 2021. Dados consolidados pela Base Nacional de Tarifas e Integrações de VT da Otimiza.pro.
 
-Fonte oficial: https://docs.uberlandia.mg.gov.br/wp-content/uploads/2025/07/7152-A-1.pdf
+Fonte (página oficial): https://docs.uberlandia.mg.gov.br/wp-content/uploads/2025/07/7152-A-1.pdf
 
 Vale-transporte em Uberlândia: cartão Cartão SIT Vale-Transporte, personalizado em nome do trabalhador; emitido por Ubertrans; canal de compra da empresa: WebSigom e HelpSit da Ubertrans: pedido com boleto (pagável um dia após a geração); vínculo do funcionário pelo HelpSit; liberação do crédito: 2 dias úteis após o pagamento do boleto; taxa na compra: 1ª via do cartão gratuita.
 
@@ -568,7 +628,7 @@ Vale-transporte em Uberlândia: cartão Cartão SIT Vale-Transporte, personaliza
 
 Em Varginha (MG), a passagem de ônibus custa R$ 5,00 desde 14/03/2023, conforme Decreto nº 11.494/2023; valor conferido em 18/10/2026 pela Base Nacional de Tarifas e Integrações de VT da Otimiza.pro.
 
-Fonte oficial: https://www.varginha.mg.gov.br/portal/leis_decretos/42894/
+Fonte (página oficial): https://www.varginha.mg.gov.br/portal/leis_decretos/42894/
 
 Vale-transporte em Varginha: cartão cartão Real Mobilidade (a Viação Real oferece o 'contrato Real Mobilidade vale-transporte'; o link do contrato não abriu em 2026-10-18); emitido por Viação Real Transporte Urbano e Rodoviário Ltda.; canal de compra da empresa: opção 'Recarga pessoa jurídica' no site da Viação Real, que leva ao sistema de recarga on-line (http://191.242.202.32:8018/wbc-st5), com pedido de créditos e boleto bancário; postos de venda na Rodoviária (Av. Benjamim Constant, 1000) e na Praça José de Rezende Paiva; liberação do crédito: após a compensação do boleto os créditos ficam disponíveis nos validadores dos ônibus.
 
@@ -582,7 +642,7 @@ Em Campo Grande (MS), a passagem de ônibus custa R$ 4,95 desde 23/01/2025, conf
 
 Em 2021, o sistema de ônibus de Campo Grande (MS) levou 65 milhões de passageiros, segundo dados declarados pelo município à Pesquisa Nacional de Mobilidade Urbana (PEMOB), do governo federal. A idade média da frota de ônibus era de 8,1 anos em 2021. Dados consolidados pela Base Nacional de Tarifas e Integrações de VT da Otimiza.pro.
 
-Fonte oficial: https://www.campogrande.ms.gov.br/agereg/artigos/historico-das-tarifas-do-transporte-coletivo
+Fonte (página oficial): https://www.campogrande.ms.gov.br/agereg/artigos/historico-das-tarifas-do-transporte-coletivo
 
 Vale-transporte em Campo Grande: cartão Cartão Vale-Transporte; emitido por Consórcio Guaicurus; canal de compra da empresa: SRCNET.
 
@@ -592,7 +652,7 @@ Integração em Campo Grande: 60 min e uma segunda viagem grátis, só no sentid
 
 Em Dourados (MS), a passagem de ônibus custa R$ 3,00 desde 01/06/2025, segundo a publicação oficial (Prefeitura de Dourados, notícia oficial de 21/01/2026); valor conferido em 17/10/2026 pela Base Nacional de Tarifas e Integrações de VT da Otimiza.pro.
 
-Fonte oficial: https://portal.dourados.ms.gov.br/index.php/transporte-publico-de-dourados-recebe-4-novos-onibus-e-amplia-conforto-aos-usuarios/
+Fonte (página oficial): https://portal.dourados.ms.gov.br/index.php/transporte-publico-de-dourados-recebe-4-novos-onibus-e-amplia-conforto-aos-usuarios/
 
 Vale-transporte em Dourados: cartão Cartão Vale-Transporte (Cartão Transporte Corporativo); emitido por Viação Dourados; canal de compra da empresa: Recarga Empresa (sistema Sigom), acessado pelo site da Viação Dourados.
 
@@ -608,7 +668,7 @@ Em Cuiabá (MT), a passagem de ônibus custa R$ 4,95 desde 09/05/2022, conforme 
 
 Em 2021, o sistema de ônibus de Cuiabá (MT) levou 39 milhões de passageiros, segundo dados declarados pelo município à Pesquisa Nacional de Mobilidade Urbana (PEMOB), do governo federal. A idade média da frota de ônibus era de 7,4 anos em 2018. Dados consolidados pela Base Nacional de Tarifas e Integrações de VT da Otimiza.pro.
 
-Fonte oficial: https://amtu.com.br/wp-content/uploads/2022/05/EDITAL-TARIFA-CUIABA%CC%81.pdf
+Fonte (ato oficial reproduzido): https://amtu.com.br/wp-content/uploads/2022/05/EDITAL-TARIFA-CUIABA%CC%81.pdf
 
 Vale-transporte em Cuiabá: cartão cartão transporte TEM, com créditos de Vale Transporte Empresarial; emitido por MTU (Associação Mato-grossense dos Transportadores Urbanos), gestora da bilhetagem eletrônica; canal de compra da empresa: VTWeb Client da Prodata (vtclient.cuiaba.prodatamobility.com.br), pelo link 'Recarregar Vale Transporte Empresarial' em amtu.com.br: cadastro de pessoa jurídica ou física, ativação por e-mail, login pelo CNPJ ou CPF, inclusão dos funcionários por RG e CPF (quem ainda não tem cartão o retira na MTU) e pedido por valor por usuário, por dias úteis ou com base em pedido anterior, pago por boleto bancário; liberação do crédito: pedido liberado em até 24 horas após o pagamento do boleto e crédito no cartão em até 72 horas (prazo menor se o colaborador passar numa cabine MTU Fácil, loja MTU ou van de serviços); o crédito só é liberado na data de liberação do pedido, mesmo com o boleto pago antes.
 
@@ -620,7 +680,7 @@ Tarifa zero em Cuiabá: Tarifa Zero aos domingos em todas as linhas municipais (
 
 Em Rondonópolis (MT), a passagem de ônibus custa R$ 2,00 desde 07/05/2026, conforme Decreto nº 13.359/2026; valor conferido em 17/10/2026 pela Base Nacional de Tarifas e Integrações de VT da Otimiza.pro.
 
-Fonte oficial: https://www.rondonopolis.mt.gov.br/media/docs/edicoes/2026/May/ee80e732-4f03-4e2d-8ffc-f53ce645327a.pdf
+Fonte (página oficial): https://www.rondonopolis.mt.gov.br/media/docs/edicoes/2026/May/ee80e732-4f03-4e2d-8ffc-f53ce645327a.pdf
 
 Tarifa zero em Rondonópolis: Tarifa zero em todas as linhas nos dias das Eleições Gerais de 2026 (04/10/2026 e 25/10/2026, se houver segundo turno), das 00h00 às 23h59
 
@@ -628,7 +688,7 @@ Tarifa zero em Rondonópolis: Tarifa zero em todas as linhas nos dias das Eleiç
 
 Em Sinop (MT), a passagem de ônibus custa R$ 5,00, segundo a publicação oficial (Prefeitura de Sinop, notícia oficial de 17/04/2026); valor conferido em 17/10/2026 pela Base Nacional de Tarifas e Integrações de VT da Otimiza.pro.
 
-Fonte oficial: https://www.sinop.mt.gov.br/portal/noticias/0/3/13295/transporte-publico-coletivo-de-sinop-passa-a-contar-a-partir-de-hoje-17-com-onibus-modernos-e-tecnologicos/
+Fonte (página oficial): https://www.sinop.mt.gov.br/portal/noticias/0/3/13295/transporte-publico-coletivo-de-sinop-passa-a-contar-a-partir-de-hoje-17-com-onibus-modernos-e-tecnologicos/
 
 Vale-transporte em Sinop: emitido por Viação Rosa; canal de compra da empresa: Cadastramento dos colaboradores junto à Viação Rosa.
 
@@ -638,7 +698,7 @@ Integração em Sinop: Integração temporal do bilhete de 1h30, válida apenas 
 
 Em Sorriso (MT), o ônibus é gratuito (tarifa zero) desde 02/05/2025, conforme Lei nº 3.677/2025; valor conferido em 17/10/2026 pela Base Nacional de Tarifas e Integrações de VT da Otimiza.pro.
 
-Fonte oficial: https://amm.diariomunicipal.org/publicacao/1609957/
+Fonte (página oficial): https://amm.diariomunicipal.org/publicacao/1609957/
 
 Integração em Sorriso: Sem cobrança de tarifa (tarifa zero)
 
@@ -648,7 +708,7 @@ Tarifa zero em Sorriso: Gratuidade a todos os usuários do Serviço de Transport
 
 Em Várzea Grande (MT), a passagem de ônibus custa R$ 4,95 desde 09/05/2022, conforme Decreto nº 24/2022; valor conferido em 17/10/2026 pela Base Nacional de Tarifas e Integrações de VT da Otimiza.pro.
 
-Fonte oficial: https://amm.diariomunicipal.org/publicacao/1012865/
+Fonte (página oficial): https://amm.diariomunicipal.org/publicacao/1012865/
 
 Tarifa zero em Várzea Grande: Gratuidade em todas as linhas municipais nos dias de votação das Eleições 2026 (04/10/2026 e 25/10/2026, se houver segundo turno), das 6h às 18h30, para todos os usuários, com uso do cartão de transporte
 
@@ -660,7 +720,7 @@ Em Belém (PA), a passagem de ônibus custa R$ 4,60 desde 14/04/2025, segundo a 
 
 Em Belém (PA), a idade média da frota de ônibus era de 7 anos em 2020. Dados consolidados pela Base Nacional de Tarifas e Integrações de VT da Otimiza.pro.
 
-Fonte oficial: https://agencia.belem.pa.gov.br/nova-tarifa-de-r-460-passa-a-valer-nesta-segunda/
+Fonte (página oficial): https://agencia.belem.pa.gov.br/nova-tarifa-de-r-460-passa-a-valer-nesta-segunda/
 
 Vale-transporte em Belém: cartão Passe Fácil Vale-Transporte; emitido por Setransbel; canal de compra da empresa: Loja do VT (boleto).
 
@@ -672,7 +732,7 @@ Tarifa zero em Belém: domingos e feriados grátis para todos
 
 Em Canaã dos Carajás (PA), a passagem de ônibus custa R$ 3,40 desde 12/2024, conforme Decreto nº 1.468; valor conferido em 18/10/2026 pela Base Nacional de Tarifas e Integrações de VT da Otimiza.pro.
 
-Fonte oficial: https://www.canaadoscarajas.pa.gov.br/novo/onibus-coletivo-passa-a-operar-somente-com-bilhetagem-eletronica/
+Fonte (página oficial): https://www.canaadoscarajas.pa.gov.br/novo/onibus-coletivo-passa-a-operar-somente-com-bilhetagem-eletronica/
 
 Integração em Canaã dos Carajás: Troca de ônibus em até 90 minutos sem pagar nova tarifa, pelo sistema de bilhetagem eletrônica
 
@@ -680,7 +740,7 @@ Integração em Canaã dos Carajás: Troca de ônibus em até 90 minutos sem pag
 
 Em Marabá (PA), a passagem de ônibus custa R$ 4,00, segundo a publicação oficial (Prefeitura de Marabá, notícia oficial de 24/09/2026); valor conferido em 17/10/2026 pela Base Nacional de Tarifas e Integrações de VT da Otimiza.pro.
 
-Fonte oficial: https://maraba.pa.gov.br/nova-frota-transporte-coletiva/
+Fonte (página oficial): https://maraba.pa.gov.br/nova-frota-transporte-coletiva/
 
 Integração em Marabá: Terminal de Integração permite trocar de linha pagando uma só passagem (desde 06/12/2024, segundo a imprensa)
 
@@ -688,7 +748,7 @@ Integração em Marabá: Terminal de Integração permite trocar de linha pagand
 
 Em Parauapebas (PA), a passagem de ônibus custa R$ 5,00 desde 12/07/2022, conforme Decreto nº 666/2022; valor conferido em 17/10/2026 pela Base Nacional de Tarifas e Integrações de VT da Otimiza.pro.
 
-Fonte oficial: https://diario.parauapebas.pa.gov.br/api/Publicacoes/191/pdf-final
+Fonte (página oficial): https://diario.parauapebas.pa.gov.br/api/Publicacoes/191/pdf-final
 
 Integração em Parauapebas: Ponto central de integração na Parada Amazônica (PA-275), desde 01/09/2025, permitindo conexões entre regiões pagando uma só passagem; linhas TA275, A001, A002, A003 e A005 estendidas até o ponto; integração pelo cartão eletrônico disponível na Central das Cooperativas
 
@@ -702,7 +762,7 @@ Em Santarém (PA), a passagem de ônibus custa R$ 4,80 desde 12/01/2026, conform
 
 Em Santarém (PA), a idade média da frota de ônibus era de 10 anos em 2018. Dados consolidados pela Base Nacional de Tarifas e Integrações de VT da Otimiza.pro.
 
-Fonte oficial: https://santarem.pa.gov.br/noticias/mobilidade-e-transito/passagem-de-onibus-e-reajustada-para-r-480-em-santarem-u0sz4k
+Fonte (página oficial): https://santarem.pa.gov.br/noticias/mobilidade-e-transito/passagem-de-onibus-e-reajustada-para-r-480-em-santarem-u0sz4k
 
 ## PB
 
@@ -712,7 +772,7 @@ Em Campina Grande (PB), a passagem de ônibus custa R$ 4,90 desde 25/01/2026, co
 
 Em Campina Grande (PB), a idade média da frota de ônibus era de 8,5 anos em 2021. Dados consolidados pela Base Nacional de Tarifas e Integrações de VT da Otimiza.pro.
 
-Fonte oficial: https://campinagrande.pb.gov.br/wp-content/uploads/2026/01/SEPARATA-DO-SEMANARIO-OFICIAL-24-DE-JANEIRO-DE-2026.pdf
+Fonte (página oficial): https://campinagrande.pb.gov.br/wp-content/uploads/2026/01/SEPARATA-DO-SEMANARIO-OFICIAL-24-DE-JANEIRO-DE-2026.pdf
 
 Vale-transporte em Campina Grande: cartão NuBus Vale Transporte; emitido por SITRANS (Sindicato das Empresas de Transporte de Passageiros de Campina Grande), que gere a bilhetagem NuBus; canal de compra da empresa: cadastro da empresa no site nubuscg.com.br (CNPJ e planilha de funcionários) ou por e-mail contato@nubuscg.com.br; recarga online no portal portal.nubuscg.com.br; taxa na compra: o site diz que a empresa adquire o VT 'de forma gratuita'.
 
@@ -724,7 +784,7 @@ Em João Pessoa (PB), a passagem de ônibus custa R$ 5,45 desde 25/01/2026, conf
 
 Em 2018, o sistema de ônibus de João Pessoa (PB) levou 62 milhões de passageiros, segundo dados declarados pelo município à Pesquisa Nacional de Mobilidade Urbana (PEMOB), do governo federal. A idade média da frota de ônibus era de 7 anos em 2021. Dados consolidados pela Base Nacional de Tarifas e Integrações de VT da Otimiza.pro.
 
-Fonte oficial: https://www.joaopessoa.pb.gov.br/wp-content/uploads/2026/01/2026_Diario_941_23-01.pdf
+Fonte (página oficial): https://www.joaopessoa.pb.gov.br/wp-content/uploads/2026/01/2026_Diario_941_23-01.pdf
 
 Vale-transporte em João Pessoa: cartão NuBus Vale-Transporte; emitido por Sintur-JP; canal de compra da empresa: portal.nubusjp.com.br (boleto ou na sede); liberação do crédito: até 48h após a confirmação do pagamento; taxa na compra: aquisição gratuita, segundo a operadora.
 
@@ -732,9 +792,9 @@ Integração em João Pessoa: 90 min (eram 60) com uma passagem, sem precisar de
 
 ### Santa Rita (PB)
 
-Em Santa Rita (PB), a passagem de ônibus custa R$ 5,60 desde 01/01/2026, conforme Resolução CE nº 025/2025; valor conferido em 17/10/2026 pela Base Nacional de Tarifas e Integrações de VT da Otimiza.pro.
+Em Santa Rita (PB), a passagem de ônibus custa de R$ 5,40 a R$ 5,60 (varia com o tipo de linha) desde 01/01/2026, conforme Resolução CE nº 025/2025; valor conferido em 17/10/2026 pela Base Nacional de Tarifas e Integrações de VT da Otimiza.pro.
 
-Fonte oficial: https://der.pb.gov.br/noticias/novas-tarifas-de-onibus-intermunicipais-e-ferry-boat-entram-em-vigor-dia-1o-com-reajustes-de-3-8-e-4-41
+Fonte (página oficial): https://der.pb.gov.br/noticias/novas-tarifas-de-onibus-intermunicipais-e-ferry-boat-entram-em-vigor-dia-1o-com-reajustes-de-3-8-e-4-41
 
 ## PE
 
@@ -742,7 +802,7 @@ Fonte oficial: https://der.pb.gov.br/noticias/novas-tarifas-de-onibus-intermunic
 
 No Cabo de Santo Agostinho (PE), a passagem de ônibus do sistema Grande Recife Consórcio (VEM) custa R$ 4,50 desde 01/02/2026, conforme Resolução CSTM 002/2026; valor conferido em 17/10/2026 pela Base Nacional de Tarifas e Integrações de VT da Otimiza.pro.
 
-Fonte oficial: https://www.granderecife.pe.gov.br/wp-content/uploads/2026/02/RESOLUCAO-0022026.pdf
+Fonte (página oficial): https://www.granderecife.pe.gov.br/wp-content/uploads/2026/02/RESOLUCAO-0022026.pdf
 
 Vale-transporte no Cabo de Santo Agostinho: cartão VEM Trabalhador (cartão do funcionário, pessoal e intransferível); emitido por Grande Recife Consórcio de Transporte (VEM), com bilhetagem da Urbana-PE; canal de compra da empresa: Portal de Vendas VEM Trabalhador (vt.cartaovem.com.br, único endereço desde 01/10/2026, no lugar de vemgranderecife.com.br), com boleto e recarga automática; ou Terminal Virtual do Grande Recife (virtual.granderecife.pe.gov.br), com boleto da Caixa e carga na Divisão Comercial (Av. Alfredo Lisboa, 76, Armazém 13, Recife Antigo), onde também se paga com cartão de crédito, débito ou Pix; liberação do crédito: até 3 dias úteis após o pagamento do boleto, liberado automaticamente nos validadores dos ônibus; taxa na compra: sem taxa com boleto da Caixa gerado no Terminal Virtual (carga presencial); com taxa de serviço sobre o valor da recarga pelo portal de vendas com boleto do Itaú, sem percentual publicado (a tabela de taxas de conveniência da Urbana-PE, de 2023, só cobre VEM Comum e Estudante); validade dos créditos: os créditos não têm validade.
 
@@ -752,7 +812,7 @@ Integração no Cabo de Santo Agostinho: uma passagem vale por 2h em ônibus, me
 
 Em Camaragibe (PE), a passagem de ônibus do sistema Grande Recife Consórcio (VEM) custa R$ 4,50 desde 01/02/2026, conforme Resolução CSTM 002/2026; valor conferido em 17/10/2026 pela Base Nacional de Tarifas e Integrações de VT da Otimiza.pro.
 
-Fonte oficial: https://www.granderecife.pe.gov.br/wp-content/uploads/2026/02/RESOLUCAO-0022026.pdf
+Fonte (página oficial): https://www.granderecife.pe.gov.br/wp-content/uploads/2026/02/RESOLUCAO-0022026.pdf
 
 Vale-transporte em Camaragibe: cartão VEM Trabalhador (cartão do funcionário, pessoal e intransferível); emitido por Grande Recife Consórcio de Transporte (VEM), com bilhetagem da Urbana-PE; canal de compra da empresa: Portal de Vendas VEM Trabalhador (vt.cartaovem.com.br, único endereço desde 01/10/2026, no lugar de vemgranderecife.com.br), com boleto e recarga automática; ou Terminal Virtual do Grande Recife (virtual.granderecife.pe.gov.br), com boleto da Caixa e carga na Divisão Comercial (Av. Alfredo Lisboa, 76, Armazém 13, Recife Antigo), onde também se paga com cartão de crédito, débito ou Pix; liberação do crédito: até 3 dias úteis após o pagamento do boleto, liberado automaticamente nos validadores dos ônibus; taxa na compra: sem taxa com boleto da Caixa gerado no Terminal Virtual (carga presencial); com taxa de serviço sobre o valor da recarga pelo portal de vendas com boleto do Itaú, sem percentual publicado (a tabela de taxas de conveniência da Urbana-PE, de 2023, só cobre VEM Comum e Estudante); validade dos créditos: os créditos não têm validade.
 
@@ -764,17 +824,23 @@ Em Caruaru (PE), a passagem de ônibus custa R$ 5,00 desde 01/06/2026, conforme 
 
 Em 2018, o sistema de ônibus de Caruaru (PE) levou 20 milhões de passageiros, segundo dados declarados pelo município à Pesquisa Nacional de Mobilidade Urbana (PEMOB), do governo federal. A idade média da frota de ônibus era de 2,8 anos em 2018. Dados consolidados pela Base Nacional de Tarifas e Integrações de VT da Otimiza.pro.
 
-Fonte oficial: https://diariooficial.caruaru.pe.gov.br/diario/Diario%20Oficial%202577.pdf
+Fonte (página oficial): https://diariooficial.caruaru.pe.gov.br/diario/Diario%20Oficial%202577.pdf
 
 Vale-transporte em Caruaru: cartão LEVA (categoria Vale-Transporte); validade dos créditos: o art. 2º do Decreto 049/2026 mantém os créditos eletrônicos sob as regras operacionais da AMC.
 
 Tarifa zero em Caruaru: Projeto Domingo Legal: ônibus gratuito aos domingos, das 5h às 23h, nas linhas regulares das zonas urbana e rural
 
+### Garanhuns (PE)
+
+Em Garanhuns (PE), a passagem de ônibus custa R$ 4,70 desde 01/01/2026, segundo a imprensa (Diário do Transporte, 29/11/2025); valor conferido em 17/10/2026 pela Base Nacional de Tarifas e Integrações de VT da Otimiza.pro.
+
+Fonte (imprensa): https://diariodotransporte.com.br/2025/11/29/tarifa-de-onibus-de-garanhuns-pe-sobe-para-r-470-a-partir-de-janeiro-de-2026/
+
 ### Ipojuca (PE)
 
 Em Ipojuca (PE), a passagem de ônibus custa de R$ 4,50 a R$ 22,50 (varia com o tipo de linha), segundo a publicação oficial (Grande Recife Consórcio de Transporte, página Tarifas); valor conferido em 18/10/2026 pela Base Nacional de Tarifas e Integrações de VT da Otimiza.pro.
 
-Fonte oficial: https://www.granderecife.pe.gov.br/transporte/tarifas/
+Fonte (página oficial): https://www.granderecife.pe.gov.br/transporte/tarifas/
 
 Vale-transporte em Ipojuca: cartão VEM Trabalhador (cartão do trabalhador, pessoal; pertence ao empregado e pode ser vinculado por outra empresa); emitido por Grande Recife Consórcio de Transporte (cartão VEM, bilhetagem da Urbana-PE); canal de compra da empresa: cadastro da empresa no portal do VEM Trabalhador (vt.vemgranderecife.com.br, segundo o Grande Recife), com inclusão dos funcionários e pedido de créditos com boleto (recarga automática); ou boleto da Caixa gerado no Terminal Virtual (virtual.granderecife.pe.gov.br), com recarga no atendimento do Grande Recife (Av. Alfredo Lisboa, 76, Armazém 13, Recife Antigo), onde também se paga com cartão de crédito, débito ou Pix; ou no Posto do VEM (Rua das Ninfas, 278, Boa Vista); liberação do crédito: até 3 dias úteis após o pagamento do boleto, liberados automaticamente nos validadores dos ônibus; taxa na compra: taxa de serviço sobre o valor da recarga feita pelo portal vt.vemgranderecife.com.br com boleto do Banco Itaú (percentual não publicado); sem taxa com boleto da Caixa gerado no Terminal Virtual; validade dos créditos: os créditos do VEM Trabalhador não têm validade desde 30/03/2007 (Portaria nº 133/2007).
 
@@ -786,7 +852,7 @@ Em Jaboatão dos Guararapes (PE), a passagem de ônibus do sistema Grande Recife
 
 Em 2020, o sistema de ônibus de Jaboatão dos Guararapes (PE) levou 25 milhões de passageiros, segundo dados declarados pelo município à Pesquisa Nacional de Mobilidade Urbana (PEMOB), do governo federal. A idade média da frota de ônibus era de 6 anos em 2021. Dados consolidados pela Base Nacional de Tarifas e Integrações de VT da Otimiza.pro.
 
-Fonte oficial: https://www.granderecife.pe.gov.br/wp-content/uploads/2026/02/RESOLUCAO-0022026.pdf
+Fonte (página oficial): https://www.granderecife.pe.gov.br/wp-content/uploads/2026/02/RESOLUCAO-0022026.pdf
 
 Vale-transporte em Jaboatão dos Guararapes: cartão VEM Trabalhador (cartão do funcionário, pessoal e intransferível); emitido por Grande Recife Consórcio de Transporte (VEM), com bilhetagem da Urbana-PE; canal de compra da empresa: Portal de Vendas VEM Trabalhador (vt.cartaovem.com.br, único endereço desde 01/10/2026, no lugar de vemgranderecife.com.br), com boleto e recarga automática; ou Terminal Virtual do Grande Recife (virtual.granderecife.pe.gov.br), com boleto da Caixa e carga na Divisão Comercial (Av. Alfredo Lisboa, 76, Armazém 13, Recife Antigo), onde também se paga com cartão de crédito, débito ou Pix; liberação do crédito: até 3 dias úteis após o pagamento do boleto, liberado automaticamente nos validadores dos ônibus; taxa na compra: sem taxa com boleto da Caixa gerado no Terminal Virtual (carga presencial); com taxa de serviço sobre o valor da recarga pelo portal de vendas com boleto do Itaú, sem percentual publicado (a tabela de taxas de conveniência da Urbana-PE, de 2023, só cobre VEM Comum e Estudante); validade dos créditos: os créditos não têm validade.
 
@@ -796,7 +862,7 @@ Integração em Jaboatão dos Guararapes: uma passagem vale por 2h em ônibus, m
 
 Em Olinda (PE), a passagem de ônibus do sistema Grande Recife Consórcio (VEM) custa R$ 4,50 desde 01/02/2026, conforme Resolução CSTM 002/2026; valor conferido em 17/10/2026 pela Base Nacional de Tarifas e Integrações de VT da Otimiza.pro.
 
-Fonte oficial: https://www.granderecife.pe.gov.br/wp-content/uploads/2026/02/RESOLUCAO-0022026.pdf
+Fonte (página oficial): https://www.granderecife.pe.gov.br/wp-content/uploads/2026/02/RESOLUCAO-0022026.pdf
 
 Vale-transporte em Olinda: cartão VEM Trabalhador (cartão do funcionário, pessoal e intransferível); emitido por Grande Recife Consórcio de Transporte (VEM), com bilhetagem da Urbana-PE; canal de compra da empresa: Portal de Vendas VEM Trabalhador (vt.cartaovem.com.br, único endereço desde 01/10/2026, no lugar de vemgranderecife.com.br), com boleto e recarga automática; ou Terminal Virtual do Grande Recife (virtual.granderecife.pe.gov.br), com boleto da Caixa e carga na Divisão Comercial (Av. Alfredo Lisboa, 76, Armazém 13, Recife Antigo), onde também se paga com cartão de crédito, débito ou Pix; liberação do crédito: até 3 dias úteis após o pagamento do boleto, liberado automaticamente nos validadores dos ônibus; taxa na compra: sem taxa com boleto da Caixa gerado no Terminal Virtual (carga presencial); com taxa de serviço sobre o valor da recarga pelo portal de vendas com boleto do Itaú, sem percentual publicado (a tabela de taxas de conveniência da Urbana-PE, de 2023, só cobre VEM Comum e Estudante); validade dos créditos: os créditos não têm validade.
 
@@ -806,7 +872,7 @@ Integração em Olinda: uma passagem vale por 2h em ônibus, metrô e VLT; algum
 
 Em Paulista (PE), a passagem de ônibus do sistema Grande Recife Consórcio (VEM) custa R$ 4,50 desde 01/02/2026, conforme Resolução CSTM 002/2026; valor conferido em 17/10/2026 pela Base Nacional de Tarifas e Integrações de VT da Otimiza.pro.
 
-Fonte oficial: https://www.granderecife.pe.gov.br/wp-content/uploads/2026/02/RESOLUCAO-0022026.pdf
+Fonte (página oficial): https://www.granderecife.pe.gov.br/wp-content/uploads/2026/02/RESOLUCAO-0022026.pdf
 
 Vale-transporte em Paulista: cartão VEM Trabalhador (cartão do funcionário, pessoal e intransferível); emitido por Grande Recife Consórcio de Transporte (VEM), com bilhetagem da Urbana-PE; canal de compra da empresa: Portal de Vendas VEM Trabalhador (vt.cartaovem.com.br, único endereço desde 01/10/2026, no lugar de vemgranderecife.com.br), com boleto e recarga automática; ou Terminal Virtual do Grande Recife (virtual.granderecife.pe.gov.br), com boleto da Caixa e carga na Divisão Comercial (Av. Alfredo Lisboa, 76, Armazém 13, Recife Antigo), onde também se paga com cartão de crédito, débito ou Pix; liberação do crédito: até 3 dias úteis após o pagamento do boleto, liberado automaticamente nos validadores dos ônibus; taxa na compra: sem taxa com boleto da Caixa gerado no Terminal Virtual (carga presencial); com taxa de serviço sobre o valor da recarga pelo portal de vendas com boleto do Itaú, sem percentual publicado (a tabela de taxas de conveniência da Urbana-PE, de 2023, só cobre VEM Comum e Estudante); validade dos créditos: os créditos não têm validade.
 
@@ -818,7 +884,7 @@ Em Recife (PE), a passagem de ônibus custa R$ 4,50 desde 01/02/2026, conforme R
 
 Em 2018, o sistema de ônibus de Recife (PE) levou 533 milhões de passageiros, segundo dados declarados pelo município à Pesquisa Nacional de Mobilidade Urbana (PEMOB), do governo federal. A idade média da frota de ônibus era de 4,3 anos em 2018. Dados consolidados pela Base Nacional de Tarifas e Integrações de VT da Otimiza.pro.
 
-Fonte oficial: https://www.granderecife.pe.gov.br/wp-content/uploads/2026/02/RESOLUCAO-0022026.pdf
+Fonte (página oficial): https://www.granderecife.pe.gov.br/wp-content/uploads/2026/02/RESOLUCAO-0022026.pdf
 
 Vale-transporte em Recife: cartão VEM Trabalhador (cartão do funcionário, pessoal e intransferível); emitido por Grande Recife Consórcio de Transporte (VEM), com bilhetagem da Urbana-PE; canal de compra da empresa: Portal de Vendas VEM Trabalhador (vt.cartaovem.com.br, único endereço desde 01/10/2026, no lugar de vemgranderecife.com.br), com boleto e recarga automática; ou Terminal Virtual do Grande Recife (virtual.granderecife.pe.gov.br), com boleto da Caixa e carga na Divisão Comercial (Av. Alfredo Lisboa, 76, Armazém 13, Recife Antigo), onde também se paga com cartão de crédito, débito ou Pix; liberação do crédito: até 3 dias úteis após o pagamento do boleto, liberado automaticamente nos validadores dos ônibus; taxa na compra: sem taxa com boleto da Caixa gerado no Terminal Virtual (carga presencial); com taxa de serviço sobre o valor da recarga pelo portal de vendas com boleto do Itaú, sem percentual publicado (a tabela de taxas de conveniência da Urbana-PE, de 2023, só cobre VEM Comum e Estudante); validade dos créditos: os créditos não têm validade.
 
@@ -826,13 +892,19 @@ Integração em Recife: uma passagem vale por 2h em ônibus, metrô e VLT; algum
 
 ## PI
 
+### Parnaíba (PI)
+
+Em Parnaíba (PI), a passagem de ônibus custa R$ 5,00 desde 17/03/2026, conforme Decreto nº 73/2026; valor conferido em 17/10/2026 pela Base Nacional de Tarifas e Integrações de VT da Otimiza.pro.
+
+Fonte (imprensa): https://www.tribunadeparnaiba.com/2026/03/tarifa-de-onibus-em-parnaiba-sobre-para-r-500-a-partir-desta-quarta-18/
+
 ### Teresina (PI)
 
 Em Teresina (PI), a passagem de ônibus custa R$ 4,00 desde 03/02/2020, conforme Decreto nº 19.414/2020; valor conferido em 18/10/2026 pela Base Nacional de Tarifas e Integrações de VT da Otimiza.pro.
 
 Em 2018, o sistema de ônibus de Teresina (PI) levou 67 milhões de passageiros, segundo dados declarados pelo município à Pesquisa Nacional de Mobilidade Urbana (PEMOB), do governo federal. A idade média da frota de ônibus era de 5,8 anos em 2018. Dados consolidados pela Base Nacional de Tarifas e Integrações de VT da Otimiza.pro.
 
-Fonte oficial: https://dom.pmt.pi.gov.br/admin/upload/DOM2700-31012020-ASSINADO.pdf
+Fonte (página oficial): https://dom.pmt.pi.gov.br/admin/upload/DOM2700-31012020-ASSINADO.pdf
 
 Vale-transporte em Teresina: cartão Cartão Mais Fácil Vale-Transporte; emitido por Setut (Sindicato das Empresas de Transportes Urbanos de Passageiros de Teresina), que vende o vale-transporte por delegação da Strans; canal de compra da empresa: Site www.maisfacilteresina.com.br: a empresa se cadastra (menu Cadastre-se) e pede cartões e créditos pela internet; o pedido gera boleto bancário. Só crédito eletrônico: a Portaria Strans nº 96/2021 (DOM Teresina nº 3.140, de 01/11/2021, p. 4) proibiu a venda de vale-transporte em papel; liberação do crédito: até 3 dias úteis após a confirmação do pagamento pelo banco; o crédito passa ao cartão quando o usuário o aproxima de um validador do ônibus; taxa na compra: a 2ª via do cartão é cobrada por boleto; validade dos créditos: até 90 dias; revalidação no Posto Central do Setut em até 30 dias após expirar, por mais 30 dias.
 
@@ -846,7 +918,7 @@ Tarifa zero em Teresina: metrô de Teresina com tarifa zero
 
 Em Apucarana (PR), a passagem de ônibus custa R$ 5,20 desde 14/12/2025, segundo a publicação oficial (Prefeitura de Apucarana, notícia de 12/12/2025); valor conferido em 18/10/2026 pela Base Nacional de Tarifas e Integrações de VT da Otimiza.pro.
 
-Fonte oficial: https://www.apucarana.pr.gov.br/site/apucarana-autoriza-atualizacao-contratual-da-passagem-do-transporte-coletivo-a-partir-de-domingo/
+Fonte (página oficial): https://www.apucarana.pr.gov.br/site/apucarana-autoriza-atualizacao-contratual-da-passagem-do-transporte-coletivo-a-partir-de-domingo/
 
 Vale-transporte em Apucarana: cartão Cartão Passe Fácil (a modalidade de VT não é descrita nas páginas da Prefeitura); o aplicativo BiPay funciona como carteira digital, com QR Code no validador; emitido por Viação Apucarana Ltda. (VAL), que fornece o Cartão Passe Fácil mediante cadastro; 1ª via gratuita na sede da VAL, ao lado do Terminal Urbano; canal de compra da empresa: Portal de empresas da BDOS Bilhetagem Digital para Apucarana (https://apucarana.bilhetagemdigital.com.br/empresas): o código do portal traz cadastro de colaboradores, grupos, pedidos e o tipo de cliente 'Vale-Transporte', com pagamento por Pix ou boleto. O endereço foi achado por analogia com o portal de Maringá, que usa a mesma plataforma e o mesmo aplicativo BiPay; não foi achada página da VAL ou da Prefeitura que o indique..
 
@@ -858,7 +930,7 @@ Tarifa zero em Apucarana: Transporte coletivo urbano gratuito das 6h às 19h no 
 
 Em Araucária (PR), a passagem de ônibus custa de R$ 5,90 a R$ 6,13 (varia com o cartão ou o meio de pagamento) desde 23/02/2026, segundo a publicação oficial (AMEP, resumo das linhas metropolitanas de 16/02/2026); valor conferido em 18/10/2026 pela Base Nacional de Tarifas e Integrações de VT da Otimiza.pro.
 
-Fonte oficial: https://www.amep.pr.gov.br/sites/comec/arquivos_restritos/files/documento/2026-02/resumo_linhas_metropolitanas_2026_16.02.26_ativas.pdf
+Fonte (página oficial): https://www.amep.pr.gov.br/sites/comec/arquivos_restritos/files/documento/2026-02/resumo_linhas_metropolitanas_2026_16.02.26_ativas.pdf
 
 Vale-transporte em Araucária: a empresa compra em 2 sistemas, TRIAR (Transporte Integrado de Araucária) e Linhas metropolitanas da AMEP integradas à RIT (Metrocard).
 
@@ -866,11 +938,13 @@ TRIAR (Transporte Integrado de Araucária): cobre linhas municipais do TRIAR (47
 
 Linhas metropolitanas da AMEP integradas à RIT (Metrocard): cobre ônibus metropolitanos que ligam Araucária a Curitiba (H01, H02, H11, H12), a Fazenda Rio Grande (I11) e a Campo Largo (I32); cartão Metrocard (coluna 'tarifa cartão (metrocard)' da tabela da AMEP); em 2021 a URBS indicava o cartão-transporte da URBS nas seis linhas metropolitanas integradas.
 
+Integração em Araucária: Com o cartão TRIAR, integração ponto a ponto: até 2 trocas de linha, sem repetir linha, em até 1 hora, sem pagar nova tarifa; integração gratuita com as linhas metropolitanas nos dois terminais do município (Central e Vila Angélica). Dados da Banda B de 09/11/2023, não reconferidos em fonte oficial.
+
 ### Campo Largo (PR)
 
 Em Campo Largo (PR), a passagem de ônibus custa de R$ 5,80 a R$ 6,13 (varia com o cartão ou o meio de pagamento) desde 23/02/2026, conforme Ofício nº 155/2026/DTIM/AMEP; valor conferido em 18/10/2026 pela Base Nacional de Tarifas e Integrações de VT da Otimiza.pro.
 
-Fonte oficial: https://cartaometrocard.com.br/wp-content/uploads/2026/02/oficio-155-2026-circular-diretores-alteracoes-tarifarias-e-implantacao-de-pagamento-em-debito-e-creditoassinado.pdf
+Fonte (ato oficial reproduzido): https://cartaometrocard.com.br/wp-content/uploads/2026/02/oficio-155-2026-circular-diretores-alteracoes-tarifarias-e-implantacao-de-pagamento-em-debito-e-creditoassinado.pdf
 
 Vale-transporte em Campo Largo: a empresa compra em 2 sistemas, Sistema de Bilhetagem Eletrônica municipal de Campo Largo (SBE Dataprom), Cartão Transporte e Metrocard (bilhetagem eletrônica do sistema metropolitano da Região Metropolitana de Curitiba, gerido pela AMEP).
 
@@ -886,7 +960,7 @@ Em Cascavel (PR), a passagem de ônibus custa R$ 4,65, segundo a publicação of
 
 Em 2021, o sistema de ônibus de Cascavel (PR) levou 21 milhões de passageiros, segundo dados declarados pelo município à Pesquisa Nacional de Mobilidade Urbana (PEMOB), do governo federal. A idade média da frota de ônibus era de 8 anos em 2021. Dados consolidados pela Base Nacional de Tarifas e Integrações de VT da Otimiza.pro.
 
-Fonte oficial: https://www.transitarcascavel.com.br/domingo-passe-livre-cascavel-completa-um-ano-de-transporte-coletivo-gratuito-aos-domingos-com-mais-de-meio-milhao-de-usuarios/
+Fonte (página oficial): https://www.transitarcascavel.com.br/domingo-passe-livre-cascavel-completa-um-ano-de-transporte-coletivo-gratuito-aos-domingos-com-mais-de-meio-milhao-de-usuarios/
 
 Vale-transporte em Cascavel: cartão Cartão ValeSim Vale-Transporte; emitido por ValeSim, Associação das Empresas de Transporte Coletivo de Passageiros do Sistema Integrado Municipal de Cascavel (CNPJ 10.398.064/0001-46); Central na Rua Duque de Caxias, 770 (seg. a sex., 8h às 17h); canal de compra da empresa: Loja web da ValeSim (TDMax Web Commerce, https://max00062.itstransdata.com/TDMaxWebCommerce/): a empresa se cadastra pelo CNPJ em 'Como Comprar > Novo Cliente', recebe senha provisória por e-mail, cadastra os colaboradores, gera e retira os cartões e compra e disponibiliza os créditos; aceita compra em lote por arquivo XML; liberação do crédito: até 72 horas após a compensação bancária do boleto (informado na página de compra de crédito escolar, que também oferece o produto Vale-Transporte); não confirmado para pedidos de empresas; taxa na compra: taxa de serviço de R$ 2,01 informada na página de compra de crédito escolar; não confirmada para pedidos de empresas; validade dos créditos: 12 meses a partir da aquisição (Decreto nº 12.333/2015, que cumpre a Lei nº 6.466/2015).
 
@@ -898,7 +972,7 @@ Tarifa zero em Cascavel: Domingo Passe Livre: transporte coletivo urbano gratuit
 
 Em Colombo (PR), a passagem de ônibus custa de R$ 5,90 a R$ 6,13 (varia com o cartão ou o meio de pagamento) desde 23/02/2026, segundo a publicação oficial (AMEP, Agência de Assuntos Metropolitanos do Paraná); valor conferido em 17/10/2026 pela Base Nacional de Tarifas e Integrações de VT da Otimiza.pro.
 
-Fonte oficial: https://www.amep.pr.gov.br/Pagina/Tarifa-de-onibus
+Fonte (página oficial): https://www.amep.pr.gov.br/Pagina/Tarifa-de-onibus
 
 Integração em Colombo: Integração física nos terminais metropolitanos e integração temporal em pontos definidos pela AMEP: com o Metrocard, segunda linha sem nova tarifa em até 2h30 após o primeiro pagamento, com regras de sentido por ponto; não vale com cartões de sistemas municipais
 
@@ -908,7 +982,7 @@ Em Curitiba (PR), a passagem de ônibus custa R$ 6,00 desde 01/03/2023, conforme
 
 Em 2020, o sistema de ônibus de Curitiba (PR) levou 108 milhões de passageiros, segundo dados declarados pelo município à Pesquisa Nacional de Mobilidade Urbana (PEMOB), do governo federal. A idade média da frota de ônibus era de 7 anos em 2020. Dados consolidados pela Base Nacional de Tarifas e Integrações de VT da Otimiza.pro.
 
-Fonte oficial: https://legisladocexterno.curitiba.pr.gov.br/VisualizarHTML.aspx?id=373161
+Fonte (página oficial): https://legisladocexterno.curitiba.pr.gov.br/VisualizarHTML.aspx?id=373161
 
 Vale-transporte em Curitiba: cartão Cartão Transporte; emitido por URBS; canal de compra da empresa: SBE da URBS (boleto ou guia do Banco do Brasil); liberação do crédito: até 72h após a URBS identificar o pagamento; taxa na compra: tarifa bancária de R$ 3,03 no boleto; validade dos créditos: 1 ano (Decreto 1.232/2017).
 
@@ -918,7 +992,7 @@ Integração em Curitiba: Rede Integrada: uma tarifa em 22 terminais e mais de 3
 
 Em Fazenda Rio Grande (PR), a passagem de ônibus custa de R$ 5,90 a R$ 6,13 (varia com o cartão ou o meio de pagamento) desde 23/02/2026, segundo a publicação oficial (AMEP, resumo das linhas metropolitanas de 16/02/2026); valor conferido em 17/10/2026 pela Base Nacional de Tarifas e Integrações de VT da Otimiza.pro.
 
-Fonte oficial: https://www.amep.pr.gov.br/sites/comec/arquivos_restritos/files/documento/2026-02/resumo_linhas_metropolitanas_2026_16.02.26_ativas.pdf
+Fonte (página oficial): https://www.amep.pr.gov.br/sites/comec/arquivos_restritos/files/documento/2026-02/resumo_linhas_metropolitanas_2026_16.02.26_ativas.pdf
 
 ### Foz do Iguaçu (PR)
 
@@ -926,7 +1000,7 @@ Em Foz do Iguaçu (PR), a passagem de ônibus custa R$ 5,00 desde 02/05/2024, co
 
 Em 2018, o sistema de ônibus de Foz do Iguaçu (PR) levou 17 milhões de passageiros, segundo dados declarados pelo município à Pesquisa Nacional de Mobilidade Urbana (PEMOB), do governo federal. A idade média da frota de ônibus era de 3,8 anos em 2018. Dados consolidados pela Base Nacional de Tarifas e Integrações de VT da Otimiza.pro.
 
-Fonte oficial: https://www.foztrans.pr.gov.br/transporte-coletivo/
+Fonte (página oficial): https://www.foztrans.pr.gov.br/transporte-coletivo/
 
 Vale-transporte em Foz do Iguaçu: cartão Cartão Único Foztrans; emitido por Foztrans; canal de compra da empresa: Sistema de compra on-line indicado na página da Foztrans; recarga presencial no TTU (Av. JK, 325, Centro), seg. a sex., 8h às 15h.
 
@@ -936,7 +1010,7 @@ Integração em Foz do Iguaçu: Integração temporal com o cartão da bilhetage
 
 Em Guarapuava (PR), a passagem de ônibus custa de R$ 4,00 a R$ 6,50 (varia com o cartão ou o meio de pagamento), segundo a operadora (Pérola do Oeste, página de tarifas); valor conferido em 17/10/2026 pela Base Nacional de Tarifas e Integrações de VT da Otimiza.pro.
 
-Fonte oficial: https://www.peroladooeste.com.br/tarifas/
+Fonte (operadora): https://www.peroladooeste.com.br/tarifas/
 
 ### Londrina (PR)
 
@@ -944,7 +1018,7 @@ Em Londrina (PR), a passagem de ônibus custa R$ 6,25 desde 19/01/2026, segundo 
 
 Em 2017, o sistema de ônibus de Londrina (PR) levou 7,4 milhões de passageiros, segundo dados declarados pelo município à Pesquisa Nacional de Mobilidade Urbana (PEMOB), do governo federal. A idade média da frota de ônibus era de 6,5 anos em 2018. Dados consolidados pela Base Nacional de Tarifas e Integrações de VT da Otimiza.pro.
 
-Fonte oficial: https://cmtu.londrina.pr.gov.br/index.php/ult-noticias/2271-passagem-do-transporte-coletivo-de-londrina-tem-o-menor-reajuste-dos-ultimos-anos.html
+Fonte (página oficial): https://cmtu.londrina.pr.gov.br/index.php/ult-noticias/2271-passagem-do-transporte-coletivo-de-londrina-tem-o-menor-reajuste-dos-ultimos-anos.html
 
 ### Maringá (PR)
 
@@ -952,7 +1026,7 @@ Em Maringá (PR), a passagem de ônibus custa R$ 5,80 desde 12/07/2026, conforme
 
 Em 2019, o sistema de ônibus de Maringá (PR) levou 31 milhões de passageiros, segundo dados declarados pelo município à Pesquisa Nacional de Mobilidade Urbana (PEMOB), do governo federal. A idade média da frota de ônibus era de 5,2 anos em 2018. Dados consolidados pela Base Nacional de Tarifas e Integrações de VT da Otimiza.pro.
 
-Fonte oficial: https://venus.maringa.pr.gov.br/arquivos/orgao_oficial/arquivos/domm%204876.pdf
+Fonte (página oficial): https://venus.maringa.pr.gov.br/arquivos/orgao_oficial/arquivos/domm%204876.pdf
 
 Vale-transporte em Maringá: a empresa compra em 2 sistemas, Passe Fácil (TCCC) e Vale-transporte intermunicipal da Cidade Verde.
 
@@ -966,7 +1040,7 @@ Integração em Maringá: Integração Temporal Inteligente só com Cartão Pass
 
 Em Paranaguá (PR), o ônibus é gratuito (tarifa zero) desde 03/2022, conforme Lei Complementar nº 269/2021; valor conferido em 18/10/2026 pela Base Nacional de Tarifas e Integrações de VT da Otimiza.pro.
 
-Fonte oficial: https://www.paranagua.pr.gov.br/noticias/noticia5187.html
+Fonte (página oficial): https://www.paranagua.pr.gov.br/noticias/noticia5187.html
 
 Tarifa zero em Paranaguá: Transporte coletivo municipal gratuito para o usuário, custeado integralmente com recursos públicos; o cadastro com cartão de acesso descrito em 2022 não foi reconferido nesta rodada
 
@@ -974,7 +1048,7 @@ Tarifa zero em Paranaguá: Transporte coletivo municipal gratuito para o usuári
 
 Em Pato Branco (PR), a passagem de ônibus custa R$ 5,00 desde 01/04/2025, conforme Decreto nº 10.311/2025; valor conferido em 18/10/2026 pela Base Nacional de Tarifas e Integrações de VT da Otimiza.pro.
 
-Fonte oficial: https://patobranco.pr.gov.br/transporte-coletivo/
+Fonte (página oficial): https://patobranco.pr.gov.br/transporte-coletivo/
 
 Vale-transporte em Pato Branco: cartão Cartão TUPA Vale-Transporte (smart card individual e recarregável); emitido por TUPA (Transporte Urbano de Pato Branco), do Consórcio Tupã; Central de Atendimento na Rua Tamoio, 639, Centro; contato@tupapb.com.br; canal de compra da empresa: TDMax Web Commerce de Pato Branco (https://max00388.itstransdata.com/TDMaxwebcommerce/), ligado em 'Comprar Vale-transporte' no site da TUPA (cópia do Internet Archive de 10/05/2026, http://web.archive.org/web/20260510023326/https://tupapb.com.br/; em 18/10/2026 o site tupapb.com.br exibia erro do WordPress). O portal estava no ar em 18/10/2026. A Prefeitura informa que a TUPA disponibiliza o sistema de bilhetagem 'às empresas e usuários'..
 
@@ -986,7 +1060,7 @@ Tarifa zero em Pato Branco: Passe Livre em todas as linhas do transporte coletiv
 
 Em Pinhais (PR), a passagem de ônibus custa de R$ 5,90 a R$ 6,13 (varia com o cartão ou o meio de pagamento) desde 23/02/2026, conforme Ofício nº 155/2026/DTIM/AMEP; valor conferido em 18/10/2026 pela Base Nacional de Tarifas e Integrações de VT da Otimiza.pro.
 
-Fonte oficial: https://cartaometrocard.com.br/wp-content/uploads/2026/02/oficio-155-2026-circular-diretores-alteracoes-tarifarias-e-implantacao-de-pagamento-em-debito-e-creditoassinado.pdf
+Fonte (ato oficial reproduzido): https://cartaometrocard.com.br/wp-content/uploads/2026/02/oficio-155-2026-circular-diretores-alteracoes-tarifarias-e-implantacao-de-pagamento-em-debito-e-creditoassinado.pdf
 
 Vale-transporte em Pinhais: cartão Cartão Metrocard na modalidade vale-transporte (cartão nominal, vinculado ao CPF); emitido por Associação Metrocard (CNPJ 10.319.963/0001-06), representante das operadoras do transporte coletivo metropolitano (art. 5º, § 1º, da Portaria COMEC nº 26/2015); Central na Rua Tibagi, 366, Centro, Curitiba (seg. a sex., 8h às 18h), e postos com venda de créditos nos terminais de Pinhais, Campo Largo, Fazenda Rio Grande e São José dos Pinhais; canal de compra da empresa: Portal TDMax Web Commerce da Metrocard (https://max00292.itstransdata.com/TDMaxwebcommerce/, link 'Cadastrar e Comprar Vale-transporte' no site da Metrocard): a empresa cadastra os funcionários no sistema e retira os cartões na Central Metrocard, segundo a AMEP. Para recargas recorrentes há o Crédito Institucional, reserva de créditos que evita o prazo de compensação bancária, contratado pela área comercial.; liberação do crédito: até 72 horas após a confirmação do pagamento, para recarga embarcada; no boleto e no depósito identificado o prazo conta da compensação (perguntas frequentes da Metrocard); taxa na compra: Taxas de conveniência da Metrocard desde 05/01/2026: site R$ 1,50 no Pix e R$ 1,29 no boleto; aplicativo R$ 1,50 no Pix; WhatsApp R$ 1,50 no Pix; Carteira Google 3% da tarifa no Pix; terminais de autoatendimento (ATM) R$ 1,50 no Pix e R$ 2,00 no débito; Rede PIU R$ 2,00; taxa zero nas 6 lojas Metrocard com pagamento em dinheiro (https://cartaometrocard.com.br/wp-content/uploads/2026/02/metrocard-taxas-a3-v2.pdf). O folheto não diz se o portal WebCommerce das empresas cobra taxa. Revisão de 18/10: as taxas acima são das recargas pelo site, aplicativo, WhatsApp e terminais; a taxa no canal de compra de VT das empresas (WebCommerce) não foi encontrada.; validade dos créditos: 730 dias a partir da compra, sem prorrogação nem reembolso (comunicado da Associação Metrocard de 14/01/2026, com base no art. 12, § 4º, da Portaria COMEC nº 26/2015, https://cartaometrocard.com.br/wp-content/uploads/2026/01/comunicado-validade-e-bloqueio-de-creditosdoc.pdf); pelas perguntas frequentes, a carga embarcada fica disponível por 60 dias e depois pode ser feita na sede.
 
@@ -998,13 +1072,13 @@ Em Ponta Grossa (PR), a passagem de ônibus custa R$ 6,00 desde 13/04/2026, segu
 
 Em 2017, o sistema de ônibus de Ponta Grossa (PR) levou 31 milhões de passageiros, segundo dados declarados pelo município à Pesquisa Nacional de Mobilidade Urbana (PEMOB), do governo federal. A idade média da frota de ônibus era de 8 anos em 2021. Dados consolidados pela Base Nacional de Tarifas e Integrações de VT da Otimiza.pro.
 
-Fonte oficial: https://transportes.pontagrossa.pr.gov.br/prefeitura-confirma-ampliacao-do-passe-livre-corrige-tarifa-e-destaca-evolucao-do-transporte/
+Fonte (página oficial): https://transportes.pontagrossa.pr.gov.br/prefeitura-confirma-ampliacao-do-passe-livre-corrige-tarifa-e-destaca-evolucao-do-transporte/
 
 ### São José dos Pinhais (PR)
 
 Em São José dos Pinhais (PR), a passagem de ônibus custa de R$ 4,60 a R$ 6,00 (varia com o cartão ou o meio de pagamento), segundo a operadora (Viação São José, página de tarifas); valor conferido em 17/10/2026 pela Base Nacional de Tarifas e Integrações de VT da Otimiza.pro.
 
-Fonte oficial: https://viacaosaojose.com.br/tarifas/
+Fonte (operadora): https://viacaosaojose.com.br/tarifas/
 
 Integração em São José dos Pinhais: Com o cartão VEM, a alimentadora do PIT custa R$ 0,50 e a linha tronco (200 ou 150) cobra complemento de R$ 3,60 no sentido bairro/centro; no sentido centro/bairro paga R$ 4,60 na tronco e mais R$ 0,50 na alimentadora. Em 2023, integração com linhas metropolitanas no Terminal Central custava R$ 0,30 a mais.
 
@@ -1014,29 +1088,29 @@ Integração em São José dos Pinhais: Com o cartão VEM, a alimentadora do PIT
 
 Em Angra dos Reis (RJ), a passagem de ônibus custa de R$ 5,80 a R$ 9,15 (varia com o tipo de linha) desde 08/03/2026, segundo a publicação oficial (Prefeitura de Angra dos Reis, 06/03/2026); valor conferido em 17/10/2026 pela Base Nacional de Tarifas e Integrações de VT da Otimiza.pro.
 
-Fonte oficial: https://angra.rj.gov.br/noticias/06-03-2026/angra-tera-reajuste-na-passagem-de-onibus-a-partir-de-domingo
+Fonte (página oficial): https://angra.rj.gov.br/noticias/06-03-2026/angra-tera-reajuste-na-passagem-de-onibus-a-partir-de-domingo
 
 ### Barra Mansa (RJ)
 
 Ainda não há tarifa de ônibus conferida para Barra Mansa (RJ) na Base Nacional de Tarifas e Integrações de VT da Otimiza.pro.
 
-Fonte oficial: https://barramansa.rj.gov.br/pela-primeira-vez-na-historia-barra-mansa-tera-tarifa-zero-aos-domingos/
+Fonte (página oficial): https://barramansa.rj.gov.br/pela-primeira-vez-na-historia-barra-mansa-tera-tarifa-zero-aos-domingos/
 
 Tarifa zero em Barra Mansa: Ônibus municipais gratuitos aos domingos
 
 ### Belford Roxo (RJ)
 
-Em Belford Roxo (RJ), a passagem de ônibus (intermunicipal Detro, linhas locais da Baixada) custa R$ 6,70 desde 15/02/2026, segundo a publicação oficial (Detro-RJ); valor conferido em 17/10/2026 pela Base Nacional de Tarifas e Integrações de VT da Otimiza.pro.
+Em Belford Roxo (RJ), o ônibus é gratuito (tarifa zero), segundo a imprensa (Belford Roxo 24h, 28/09/2025); valor conferido em 17/10/2026 pela Base Nacional de Tarifas e Integrações de VT da Otimiza.pro.
 
 Em Belford Roxo (RJ), a idade média da frota de ônibus era de 7 anos em 2021. Dados consolidados pela Base Nacional de Tarifas e Integrações de VT da Otimiza.pro.
 
-Fonte oficial: http://www.detro.rj.gov.br/uploads/portarias/tarifas_onibus_2026.pdf
+Fonte (página oficial): http://www.detro.rj.gov.br/uploads/portarias/tarifas_onibus_2026.pdf
 
 ### Cabo Frio (RJ)
 
 Em Cabo Frio (RJ), a passagem de ônibus custa R$ 5,00 desde 01/01/2024, conforme Decreto nº 7.222/2023; valor conferido em 18/10/2026 pela Base Nacional de Tarifas e Integrações de VT da Otimiza.pro.
 
-Fonte oficial: https://portal.cabofrio.rj.gov.br/arquivos/4464/DECRETO_7.222_2023_0000001.pdf
+Fonte (página oficial): https://portal.cabofrio.rj.gov.br/arquivos/4464/DECRETO_7.222_2023_0000001.pdf
 
 Vale-transporte em Cabo Frio: cartão Cartão do Trabalhador (vale-transporte eletrônico Globalmob); emitido por Globalmob (bilhetagem da Auto Viação Salineira e da Viação Montes Brancos); canal de compra da empresa: Loja Virtual Globalmob (salesportal.globalmob.prodatamobility.com.br): cadastro da empresa por CNPJ, cadastro de cada funcionário, pedido de recarga e boleto bancário; Centrais de Atendimento em Cabo Frio e Araruama; liberação do crédito: recarga disponível no ônibus 24 horas após a compensação do boleto, salvo pagamentos aos sábados, em vésperas de feriado ou fora do expediente bancário; validade dos créditos: cartão sem uso por 12 meses ou mais fica inativo.
 
@@ -1048,7 +1122,7 @@ Em Campos dos Goytacazes (RJ), a passagem de ônibus custa R$ 3,50 desde 21/03/2
 
 Em 2020, o sistema de ônibus de Campos dos Goytacazes (RJ) levou 4,1 milhões de passageiros, segundo dados declarados pelo município à Pesquisa Nacional de Mobilidade Urbana (PEMOB), do governo federal. A idade média da frota de ônibus era de 8 anos em 2020. Dados consolidados pela Base Nacional de Tarifas e Integrações de VT da Otimiza.pro.
 
-Fonte oficial: https://campos.rj.gov.br/diario-oficial-publicacoes-anteriores/api/2022/3%20MAR%C3%87O%202022/DO%20ON%20LINE%201054%2021%20DE%20MAR%C3%87O%20DE%202022%20ass.pdf
+Fonte (página oficial): https://campos.rj.gov.br/diario-oficial-publicacoes-anteriores/api/2022/3%20MAR%C3%87O%202022/DO%20ON%20LINE%201054%2021%20DE%20MAR%C3%87O%20DE%202022%20ass.pdf
 
 Tarifa zero em Campos dos Goytacazes: Cobrança suspensa das 6h às 20h nos dias de eleição (04/10/2026 e 25/10/2026, se houver 2º turno), no convencional e no alimentador
 
@@ -1056,7 +1130,7 @@ Tarifa zero em Campos dos Goytacazes: Cobrança suspensa das 6h às 20h nos dias
 
 Em Duque de Caxias (RJ), a passagem de ônibus custa de R$ 5,00 a R$ 5,30 (varia com o tipo de linha) desde 02/09/2023, e há linhas gratuitas, conforme Decreto nº 8.553/2023; valor conferido em 17/10/2026 pela Base Nacional de Tarifas e Integrações de VT da Otimiza.pro.
 
-Fonte oficial: https://transparencia.duquedecaxias.rj.gov.br/diario_oficial_get_anexo.php?codigo=2783
+Fonte (página oficial): https://transparencia.duquedecaxias.rj.gov.br/diario_oficial_get_anexo.php?codigo=2783
 
 Tarifa zero em Duque de Caxias: Todas as linhas municipais sem cobrança das 6h às 20h nos dias de eleição (04/10/2026 e 25/10/2026)
 
@@ -1064,23 +1138,23 @@ Tarifa zero em Duque de Caxias: Todas as linhas municipais sem cobrança das 6h 
 
 Em Itaboraí (RJ), o ônibus é gratuito (tarifa zero) desde 23/05/2025, segundo a publicação oficial (Prefeitura de Itaboraí, 23/05/2025); valor conferido em 17/10/2026 pela Base Nacional de Tarifas e Integrações de VT da Otimiza.pro.
 
-Fonte oficial: https://site.ib.itaborai.rj.gov.br/itaborai-faz-historia-onibus-com-tarifa-zero-passa-a-circular-por-toda-a-cidade/
+Fonte (página oficial): https://site.ib.itaborai.rj.gov.br/itaborai-faz-historia-onibus-com-tarifa-zero-passa-a-circular-por-toda-a-cidade/
 
 Tarifa zero em Itaboraí: Todas as linhas municipais gratuitas para qualquer passageiro, sem cadastro ou cartão
 
 ### Macaé (RJ)
 
-Em Macaé (RJ), a passagem de ônibus custa R$ 1,00, conforme Lei Municipal nº 4.483/2018 e Decreto nº 081/2018; valor conferido em 17/10/2026 pela Base Nacional de Tarifas e Integrações de VT da Otimiza.pro.
+Em Macaé (RJ), a passagem de ônibus custa de R$ 1,00 a R$ 7,95 (varia com o cartão ou o meio de pagamento) desde 07/09/2025, segundo a imprensa (G1 / RJ2 InterTV, 06/09/2025); valor conferido em 17/10/2026 pela Base Nacional de Tarifas e Integrações de VT da Otimiza.pro.
 
 Em 2021, o sistema de ônibus de Macaé (RJ) levou 21 milhões de passageiros, segundo dados declarados pelo município à Pesquisa Nacional de Mobilidade Urbana (PEMOB), do governo federal. A idade média da frota de ônibus era de 8 anos em 2021. Dados consolidados pela Base Nacional de Tarifas e Integrações de VT da Otimiza.pro.
 
-Fonte oficial: https://www.macae.rj.gov.br/mobilidadeurbana/conteudo/titulo/cartao-macae
+Fonte (imprensa): https://g1.globo.com/rj/intertvrj/rj2/video/passagem-de-onibus-sobe-em-macae-a-partir-deste-domingo-13907308.ghtml
 
 ### Magé (RJ)
 
 Em Magé (RJ), o ônibus é gratuito (tarifa zero) desde 06/2025, segundo a publicação oficial (Prefeitura de Magé, notícia de 05/06/2025 e página Amarelinho); valor conferido em 17/10/2026 pela Base Nacional de Tarifas e Integrações de VT da Otimiza.pro.
 
-Fonte oficial: https://mage.rj.gov.br/informacoes/mage-implanta-onibus-com-tarifa-zero-na-cidade/
+Fonte (página oficial): https://mage.rj.gov.br/informacoes/mage-implanta-onibus-com-tarifa-zero-na-cidade/
 
 Tarifa zero em Magé: Parcial: gratuidade para qualquer passageiro apenas nas oito linhas Amarelinho (TZ 01 a TZ 08); as demais linhas municipais são pagas
 
@@ -1088,7 +1162,7 @@ Tarifa zero em Magé: Parcial: gratuidade para qualquer passageiro apenas nas oi
 
 Em Maricá (RJ), o ônibus é gratuito (tarifa zero), segundo a publicação oficial (EPT Maricá, notícia de 10/09/2026); valor conferido em 17/10/2026 pela Base Nacional de Tarifas e Integrações de VT da Otimiza.pro.
 
-Fonte oficial: https://www.eptmarica.rj.gov.br/index.php/noticias/item/445-ept-celebra-12-anos
+Fonte (página oficial): https://www.eptmarica.rj.gov.br/index.php/noticias/item/445-ept-celebra-12-anos
 
 Tarifa zero em Maricá: Ônibus e vans municipais da EPT sem cobrança para qualquer passageiro
 
@@ -1098,7 +1172,9 @@ Em Niterói (RJ), a passagem de ônibus custa de R$ 4,45 a R$ 5,60 (varia com o 
 
 Em 2018, o sistema de ônibus de Niterói (RJ) levou 6,5 milhões de passageiros, segundo dados declarados pelo município à Pesquisa Nacional de Mobilidade Urbana (PEMOB), do governo federal. A idade média da frota de ônibus era de 5 anos em 2019. Dados consolidados pela Base Nacional de Tarifas e Integrações de VT da Otimiza.pro.
 
-Fonte oficial: https://niteroi.rj.gov.br/prefeitura-mantem-tarifa-reduzida-para-usuarios-do-bilhete-unico-municipal/
+Fonte (página oficial): https://niteroi.rj.gov.br/prefeitura-mantem-tarifa-reduzida-para-usuarios-do-bilhete-unico-municipal/
+
+Vale-transporte em Niterói: cartão Riocard Mais Vale-Transporte (personalizado usuário, com CPF, ou personalizado empresa); emitido por Riocard Mais; canal de compra da empresa: Site da Riocard Mais, área Para Empresas, com login e senha; 1ª via gratuita; validade dos créditos: Bloqueio preventivo após 8 meses sem uso, com saldo mantido (Riocard Mais).
 
 Integração em Niterói: Bilhete Único de Niterói: duas linhas municipais distintas em até 1 hora pagando uma tarifa de R$ 4,45. Também integra com barcas e catamarãs, até 2 integrações por dia (a Prefeitura citou R$ 5,15 e R$ 8,15 em jul/2025).
 
@@ -1106,7 +1182,7 @@ Integração em Niterói: Bilhete Único de Niterói: duas linhas municipais dis
 
 Em Nova Iguaçu (RJ), a passagem de ônibus custa R$ 5,95 desde 29/03/2025, conforme Decreto nº 13.906/2025; valor conferido em 17/10/2026 pela Base Nacional de Tarifas e Integrações de VT da Otimiza.pro.
 
-Fonte oficial: https://novaiguacu.rj.gov.br/wp-content/uploads/2025/03/pmni_de_28-03-2025_-_sexta-feira_-_final_27060714.pdf
+Fonte (página oficial): https://novaiguacu.rj.gov.br/wp-content/uploads/2025/03/pmni_de_28-03-2025_-_sexta-feira_-_final_27060714.pdf
 
 ### Petrópolis (RJ)
 
@@ -1114,7 +1190,7 @@ Em Petrópolis (RJ), a passagem de ônibus custa R$ 5,90 desde 01/09/2025, segun
 
 Em 2021, o sistema de ônibus de Petrópolis (RJ) levou 41 milhões de passageiros, segundo dados declarados pelo município à Pesquisa Nacional de Mobilidade Urbana (PEMOB), do governo federal. A idade média da frota de ônibus era de 8 anos em 2021. Dados consolidados pela Base Nacional de Tarifas e Integrações de VT da Otimiza.pro.
 
-Fonte oficial: https://setranspetro.com.br/noticias/saiba-como-sera-o-reajuste-da-tarifa-de-onibus-em-petropolis/
+Fonte (operadora): https://setranspetro.com.br/noticias/saiba-como-sera-o-reajuste-da-tarifa-de-onibus-em-petropolis/
 
 Vale-transporte em Petrópolis: cartão Riocard Mais Vale-Transporte (Convencional e Empresarial); emitido por Riocard Mais; canal de compra da empresa: a recarga do cartão VT é feita pelo empregador, que faz a gestão do benefício (Setranspetro, 20/04/2020); o canal da Riocard Mais para empresas não foi conferido porque o site recusou o acesso automatizado em 2026-10-18.
 
@@ -1124,7 +1200,7 @@ No Rio de Janeiro (RJ), a passagem de ônibus custa R$ 5,00 desde 04/01/2026, co
 
 No Rio de Janeiro (RJ), o GTFS oficial da Secretaria Municipal de Transportes do Rio (SMTR) vigente em 17/10/2026 lista 498 linhas de ônibus. Dados consolidados pela Base Nacional de Tarifas e Integrações de VT da Otimiza.pro.
 
-Fonte oficial: https://carioca.rio/wp-content/uploads/2026/01/Decreto-57.473_2025.pdf
+Fonte (página oficial): https://carioca.rio/wp-content/uploads/2026/01/Decreto-57.473_2025.pdf
 
 Vale-transporte no Rio de Janeiro: a empresa compra em 2 sistemas, Jaé e Riocard Mais.
 
@@ -1140,7 +1216,7 @@ Em São Gonçalo (RJ), a passagem de ônibus custa R$ 5,55 desde 01/11/2025, con
 
 Em 2017, o sistema de ônibus de São Gonçalo (RJ) levou 6,4 milhões de passageiros, segundo dados declarados pelo município à Pesquisa Nacional de Mobilidade Urbana (PEMOB), do governo federal. A idade média da frota de ônibus era de 5 anos em 2021. Dados consolidados pela Base Nacional de Tarifas e Integrações de VT da Otimiza.pro.
 
-Fonte oficial: http://www.detro.rj.gov.br/uploads/portarias/tarifas_onibus_2026.pdf
+Fonte (página oficial): http://www.detro.rj.gov.br/uploads/portarias/tarifas_onibus_2026.pdf
 
 Vale-transporte em São Gonçalo: cartão Riocard Mais Vale-Transporte (personalizado usuário ou personalizado empresa); emitido por Riocard Mais; canal de compra da empresa: Site da Riocard Mais, área Para Empresas, com login e senha; 1ª via do cartão gratuita (termo de comodato); validade dos créditos: Cartão sem uso por mais de 8 meses sofre bloqueio preventivo; o saldo é mantido (Riocard Mais).
 
@@ -1150,7 +1226,7 @@ Tarifa zero em São Gonçalo: Ônibus municipais grátis das 7h às 18h nos dias
 
 Em São João da Barra (RJ), o ônibus é gratuito (tarifa zero), segundo a publicação oficial (Prefeitura de São João da Barra, notícias de 29/09/2026 e 14/10/2026); valor conferido em 18/10/2026 pela Base Nacional de Tarifas e Integrações de VT da Otimiza.pro.
 
-Fonte oficial: https://www.sjb.rj.gov.br/site/noticia/renovacao_da_frota_do_transporte_gratuito_prossegue_em_sjb/17635
+Fonte (página oficial): https://www.sjb.rj.gov.br/site/noticia/renovacao_da_frota_do_transporte_gratuito_prossegue_em_sjb/17635
 
 Tarifa zero em São João da Barra: Transporte público municipal gratuito para todos, nas 6 linhas dos 'Vermelhinhos'
 
@@ -1158,17 +1234,25 @@ Tarifa zero em São João da Barra: Transporte público municipal gratuito para 
 
 Em Saquarema (RJ), a passagem de ônibus custa de R$ 2,00 a R$ 6,88 (varia com o cartão ou o meio de pagamento) desde 01/04/2026, conforme Decreto nº 3.196/2026; valor conferido em 18/10/2026 pela Base Nacional de Tarifas e Integrações de VT da Otimiza.pro.
 
-Fonte oficial: https://transparencia.saquarema.rj.gov.br/wp-content/uploads/2026/04/DEC-3196-2026.pdf
+Fonte (página oficial): https://transparencia.saquarema.rj.gov.br/wp-content/uploads/2026/04/DEC-3196-2026.pdf
 
 Vale-transporte em Saquarema: cartão cartões RioCard (Riocard Mais) aceitos nas linhas municipais; emitido por Riocard Mais.
 
 Tarifa zero em Saquarema: Transporte coletivo municipal gratuito das 6h às 20h em 04/10/2026 e, se houver 2º turno, em 25/10/2026, com toda a frota de dias úteis
 
+### Teresópolis (RJ)
+
+Em Teresópolis (RJ), a passagem de ônibus custa R$ 4,90 desde 06/01/2025, segundo a imprensa (O Diário de Teresópolis, 02/01/2026); valor conferido em 17/10/2026 pela Base Nacional de Tarifas e Integrações de VT da Otimiza.pro.
+
+Fonte (imprensa): https://netdiario.com.br/noticias/onibus-teresopolis-tera-linha-regular-gratuita-para-o-segundo-distrito/
+
+Tarifa zero em Teresópolis: Domingão Tarifa Zero: ônibus urbanos gratuitos aos domingos e feriados específicos
+
 ### Volta Redonda (RJ)
 
 Em Volta Redonda (RJ), a passagem de ônibus custa de R$ 3,80 a R$ 5,50 (varia com o cartão ou o meio de pagamento) desde 02/02/2025, segundo a publicação oficial (Prefeitura de Volta Redonda, 28/01/2025); valor conferido em 17/10/2026 pela Base Nacional de Tarifas e Integrações de VT da Otimiza.pro.
 
-Fonte oficial: https://www.voltaredonda.rj.gov.br/comunicacao/noticias/41-stmu/9305-volta-redonda-reduz-para-r$-3,80-a-passagem-de-onibus-para-quem-tem-vr-card/
+Fonte (página oficial): https://www.voltaredonda.rj.gov.br/comunicacao/noticias/41-stmu/9305-volta-redonda-reduz-para-r$-3,80-a-passagem-de-onibus-para-quem-tem-vr-card/
 
 Integração em Volta Redonda: Programa Viaje +: dois ônibus municipais pagando uma passagem, com intervalo máximo de 50 minutos entre os embarques
 
@@ -1180,7 +1264,7 @@ Em Natal (RN), a passagem de ônibus custa R$ 5,20 desde 29/03/2026, conforme De
 
 Em 2021, o sistema de ônibus de Natal (RN) levou 48 milhões de passageiros, segundo dados declarados pelo município à Pesquisa Nacional de Mobilidade Urbana (PEMOB), do governo federal. A idade média da frota de ônibus era de 10 anos em 2021. Dados consolidados pela Base Nacional de Tarifas e Integrações de VT da Otimiza.pro.
 
-Fonte oficial: https://novaarearestrita.tce.rn.gov.br/AreaRestrita/Legislacao/download/Portarias_tce_rn/2_000107_2026_cgp_07.04.2026.1106.pdf
+Fonte (página oficial): https://novaarearestrita.tce.rn.gov.br/AreaRestrita/Legislacao/download/Portarias_tce_rn/2_000107_2026_cgp_07.04.2026.1106.pdf
 
 Vale-transporte em Natal: cartão NuBus Vale-Transporte; canal de compra da empresa: Portal Empresa NuBus (boleto); liberação do crédito: liberação automática após a recarga; validade dos créditos: sem prazo de validade (regra geral do cartão).
 
@@ -1196,7 +1280,7 @@ Em Porto Velho (RO), a passagem de ônibus custa R$ 3,00 desde 24/03/2025, confo
 
 Em 2018, o sistema de ônibus de Porto Velho (RO) levou 18 milhões de passageiros, segundo dados declarados pelo município à Pesquisa Nacional de Mobilidade Urbana (PEMOB), do governo federal. A idade média da frota de ônibus era de 6 anos em 2021. Dados consolidados pela Base Nacional de Tarifas e Integrações de VT da Otimiza.pro.
 
-Fonte oficial: https://agencia.portovelho.ro.gov.br/uploads/editor/files/Fixa%20os%20valores%20das%20Tarifas%20P%C3%BAblicas%20do%20Servi%C3%A7o%20de%20Transporte%20Coletivo%20Urbano.pdf
+Fonte (página oficial): https://agencia.portovelho.ro.gov.br/uploads/editor/files/Fixa%20os%20valores%20das%20Tarifas%20P%C3%BAblicas%20do%20Servi%C3%A7o%20de%20Transporte%20Coletivo%20Urbano.pdf
 
 Vale-transporte em Porto Velho: cartão COM Card Vale Transporte; emitido por JTP; canal de compra da empresa: comportovelho.bilhetagemdigital.com.br/empresas.
 
@@ -1206,7 +1290,7 @@ Integração em Porto Velho: 90 min, só num sentido e só com cartão
 
 Em Vilhena (RO), o ônibus é gratuito (tarifa zero) desde 08/2025, segundo a publicação oficial (Prefeitura de Vilhena, notícias oficiais de 14/08/2025 e 02/10/2026); valor conferido em 17/10/2026 pela Base Nacional de Tarifas e Integrações de VT da Otimiza.pro.
 
-Fonte oficial: https://vilhena.ro.gov.br/vilhena-implanta-tarifa-zero-no-transporte-urbano-coletivo/
+Fonte (página oficial): https://vilhena.ro.gov.br/vilhena-implanta-tarifa-zero-no-transporte-urbano-coletivo/
 
 Integração em Vilhena: Sem cobrança de tarifa (tarifa zero)
 
@@ -1218,7 +1302,7 @@ Tarifa zero em Vilhena: Transporte coletivo urbano gratuito para toda a populaç
 
 Em Boa Vista (RR), a passagem de ônibus custa R$ 5,50 desde 01/01/2024, conforme Decreto 36E/2025 mantém o valor; valor conferido em 17/10/2026 pela Base Nacional de Tarifas e Integrações de VT da Otimiza.pro.
 
-Fonte oficial: https://www.normasbrasil.com.br/norma/decreto-36-2025-boa-vista_477425.html
+Fonte (ato oficial reproduzido): https://www.normasbrasil.com.br/norma/decreto-36-2025-boa-vista_477425.html
 
 Vale-transporte em Boa Vista: cartão Boa Vista Card; emitido por Cidade Boa Vista.
 
@@ -1230,7 +1314,7 @@ Integração em Boa Vista: Integração entre bairros com o cartão: quem usa o 
 
 Em Alvorada (RS), a passagem de ônibus custa de R$ 8,30 a R$ 9,45 (varia com o tipo de linha) desde 02/06/2026, segundo a operadora (SOUL, página de tarifas e Metroplan, aviso de 26/05/2026); valor conferido em 17/10/2026 pela Base Nacional de Tarifas e Integrações de VT da Otimiza.pro.
 
-Fonte oficial: http://www.soul.com.br/tarifas/
+Fonte (operadora): http://www.soul.com.br/tarifas/
 
 Integração em Alvorada: SOUL com SOUL: duas linhas no mesmo sentido em até 1h30, pagando só a tarifa de maior valor (comuns, executivas e TM5). SOUL com Soul Municipal (VAL), ou o inverso: até 1h30, paga a maior tarifa (só linhas comuns). Não há integração com o Consórcio Metropolitano (TM1, TM2 e TM3).
 
@@ -1238,15 +1322,17 @@ Integração em Alvorada: SOUL com SOUL: duas linhas no mesmo sentido em até 1h
 
 Em Bento Gonçalves (RS), a passagem de ônibus custa R$ 6,60, conforme Decreto nº 13.352/2026; valor conferido em 17/10/2026 pela Base Nacional de Tarifas e Integrações de VT da Otimiza.pro.
 
-Fonte oficial: https://www.bentogoncalves.rs.gov.br/prefeitura-subsidia-transporte-coletivo-e-mantem-tarifa-em-r-660/
+Fonte (página oficial): https://www.bentogoncalves.rs.gov.br/prefeitura-subsidia-transporte-coletivo-e-mantem-tarifa-em-r-660/
 
 ### Cachoeirinha (RS)
 
-Ainda não há tarifa de ônibus conferida para Cachoeirinha (RS) na Base Nacional de Tarifas e Integrações de VT da Otimiza.pro.
+Em Cachoeirinha (RS), a passagem de ônibus custa R$ 4,50 desde 01/03/2025, segundo a imprensa (Diário do Transporte, 01/03/2025); valor conferido em 18/10/2026 pela Base Nacional de Tarifas e Integrações de VT da Otimiza.pro.
 
-Fonte oficial: https://www.teubilhete.com.br/upload/outro2/CODIGOSVTNOVO2.pdf
+Fonte (imprensa): https://diariodotransporte.com.br/2025/03/01/cachoeirinha-rs-reajusta-tarifa-de-transporte-publico-apos-seis-anos/
 
 Vale-transporte em Cachoeirinha: cartão Cartão TEU! Vale-Transporte; emitido por Consórcio Gestor da Bilhetagem Metropolitana, fundado em 2005 pelas associadas da ATM, com 21 empresas concessionárias e permissionárias da RMPA (normas da Resolução CETM nº 037/2004 da Metroplan); a página não informa o CNPJ; canal de compra da empresa: Três canais: TEU! Online (pessoa física ou jurídica, boleto, sem limite de cartões, cadastro manual dos funcionários; login em até 24 horas após o cadastro); Valesul (só pessoa jurídica, boleto, cadastro automático por arquivo .txt); Postos de Venda TEU! (pagamento à vista, até 10 cartões numerados, sem cadastro de funcionários); liberação do crédito: créditos carregados em 3 dias úteis após o pagamento do boleto, nos validadores dos ônibus (TEU! Online); cartões entregues em até 5 dias úteis no posto da região; taxa na compra: TEU! Online: 'taxa única' para todo o pedido, valor não publicado; Valesul: taxa variável conforme o pedido de crédito; Postos de Venda: sem taxa administrativa; validade dos créditos: a carga comprada no TEU! Online, na Valesul ou no aplicativo KIM fica 120 dias disponível para ser inserida no cartão (desde 01/03/2023).
+
+Integração em Cachoeirinha: Com o cartão TEU!, quem usa uma linha municipal da Transbus e uma intermunicipal da Transcal em até 90 minutos paga só a tarifa de maior valor (no sentido bairro e capital, a segunda viagem cobra só a diferença). Regra em vigor desde 18/03/2019; dado de imprensa de 2019, não reconferido em fonte oficial.
 
 ### Canoas (RS)
 
@@ -1254,7 +1340,7 @@ Em Canoas (RS), o ônibus é gratuito (tarifa zero) desde 05/2024, conforme Decr
 
 Em 2021, o sistema de ônibus de Canoas (RS) levou 8 milhões de passageiros, segundo dados declarados pelo município à Pesquisa Nacional de Mobilidade Urbana (PEMOB), do governo federal. A idade média da frota de ônibus era de 10 anos em 2021. Dados consolidados pela Base Nacional de Tarifas e Integrações de VT da Otimiza.pro.
 
-Fonte oficial: https://www.canoas.rs.gov.br/noticias/canoas-torna-o-passe-livre-definitivo-no-transporte-publico/
+Fonte (página oficial): https://www.canoas.rs.gov.br/noticias/canoas-torna-o-passe-livre-definitivo-no-transporte-publico/
 
 Tarifa zero em Canoas: Passe Livre universal no transporte coletivo municipal, sem prazo de término desde 27/02/2026
 
@@ -1264,7 +1350,7 @@ Em Caxias do Sul (RS), a passagem de ônibus custa de R$ 6,50 a R$ 9,00 (varia c
 
 Em 2021, o sistema de ônibus de Caxias do Sul (RS) levou 21 milhões de passageiros, segundo dados declarados pelo município à Pesquisa Nacional de Mobilidade Urbana (PEMOB), do governo federal. A idade média da frota de ônibus era de 6 anos em 2021. Dados consolidados pela Base Nacional de Tarifas e Integrações de VT da Otimiza.pro.
 
-Fonte oficial: https://doe.caxias.rs.gov.br/site/download/5940
+Fonte (página oficial): https://doe.caxias.rs.gov.br/site/download/5940
 
 Integração em Caxias do Sul: Até três linhas dentro de uma hora pagando uma tarifa, só com cartão de bilhetagem eletrônica; linhas conforme a matriz de integração
 
@@ -1272,7 +1358,7 @@ Integração em Caxias do Sul: Até três linhas dentro de uma hora pagando uma 
 
 Em Erechim (RS), a passagem de ônibus custa de R$ 5,50 a R$ 6,00 (varia com o cartão ou o meio de pagamento) desde 18/04/2024, segundo a publicação oficial (Prefeitura de Erechim, página Transporte e notícia de 17/04/2024); valor conferido em 18/10/2026 pela Base Nacional de Tarifas e Integrações de VT da Otimiza.pro.
 
-Fonte oficial: https://www.pmerechim.rs.gov.br/pagina/160/transporte
+Fonte (página oficial): https://www.pmerechim.rs.gov.br/pagina/160/transporte
 
 Vale-transporte em Erechim: cartão Carteira comum (cartão de transporte), que a Gaurama descreve como usada pelas empresas e por pessoas físicas; emitido por Empresa de Transportes Gaurama Ltda. (CNPJ 89.423.768/0001-81); escritório na Rua Jerônimo Teixeira, 348, Centro (seg. a sex., 8h às 11h45 e 13h30 às 17h45; sáb., 8h às 11h45); canal de compra da empresa: Compra online no sistema da empresa: depois de vincular um e-mail ao cadastro (por e-mail ou WhatsApp), a Gaurama envia o passo a passo; o pedido é liberado com pagamento por Pix, TED ou depósito e envio do comprovante. Também no escritório, com Pix ou dinheiro. Contato urbano@urbanoerechim.com.br e WhatsApp (54) 99144-7046.; liberação do crédito: créditos disponíveis em até 24 horas após o e-mail de liberação, na compra online; no escritório, recarga na hora.
 
@@ -1282,7 +1368,7 @@ Em Gravataí (RS), a passagem de ônibus custa R$ 8,50 desde 09/05/2026, conform
 
 Em 2018, o sistema de ônibus de Gravataí (RS) levou 7,3 milhões de passageiros, segundo dados declarados pelo município à Pesquisa Nacional de Mobilidade Urbana (PEMOB), do governo federal. A idade média da frota de ônibus era de 7 anos em 2018. Dados consolidados pela Base Nacional de Tarifas e Integrações de VT da Otimiza.pro.
 
-Fonte oficial: https://www.sogil.com.br/tarifas
+Fonte (operadora): https://www.sogil.com.br/tarifas
 
 Integração em Gravataí: Integração tarifária entre linhas da SOGIL com o cartão TEU!: dois ônibus pelo valor de uma passagem (cobra complemento se a segunda for mais cara), no mesmo sentido, em até 1h30 da primeira validação. Vale municipal comum com municipal comum, municipal com intermunicipal comum e municipal com metropolitana TM; linhas municipais iguais não integram, intermunicipais não integram entre si e seletivas e SD não recebem integração.
 
@@ -1290,15 +1376,21 @@ Integração em Gravataí: Integração tarifária entre linhas da SOGIL com o c
 
 Em Lajeado (RS), a passagem de ônibus custa R$ 6,00 desde 20/04/2026, segundo a publicação oficial (Prefeitura de Lajeado, notícia de 16/04/2026); valor conferido em 18/10/2026 pela Base Nacional de Tarifas e Integrações de VT da Otimiza.pro.
 
-Fonte oficial: https://www.lajeado.rs.gov.br/noticia/14360/892
+Fonte (página oficial): https://www.lajeado.rs.gov.br/noticia/14360/892
 
 Vale-transporte em Lajeado: cartão cartão inteligente do Tio Lajeado, emitido para os funcionários das empresas; emitido por Tio Lajeado, empresa criada pela Expresso Azul para o sistema de transporte integrado; central na Rua João Abott, 1213, loja 06, Centro; e-mail valetransportes@tiolajeado.com.br; canal de compra da empresa: Cadastro da empresa por e-mail, com razão social, nome fantasia, endereço, CEP, CNPJ, IE, telefone e e-mail (perguntas frequentes do site); o link 'Recarga de Cartão' leva ao TDMax Web Commerce de Lajeado (https://max00458.itstransdata.com/TDMaxWebcommerce/), que estava no ar em 18/10/2026.
+
+### Novo Hamburgo (RS)
+
+Em Novo Hamburgo (RS), a passagem de ônibus custa R$ 5,20, segundo a imprensa (Diário do Transporte, 04/03/2026, com declaração do prefeito Gustavo Finck); valor conferido em 17/10/2026 pela Base Nacional de Tarifas e Integrações de VT da Otimiza.pro.
+
+Fonte (imprensa): https://diariodotransporte.com.br/2026/03/04/viacao-santa-clara-de-novo-hamburgo-rs-recebe-cinco-onibus-zero-quilometro-para-renovacao-da-frota-do-transporte-publico/
 
 ### Passo Fundo (RS)
 
 Em Passo Fundo (RS), a passagem de ônibus custa R$ 6,00 desde 01/11/2025, conforme Decreto nº 150/2025; valor conferido em 18/10/2026 pela Base Nacional de Tarifas e Integrações de VT da Otimiza.pro.
 
-Fonte oficial: https://www.pmpf.rs.gov.br/mobipf/sistema-de-transporte-coletivo/
+Fonte (página oficial): https://www.pmpf.rs.gov.br/mobipf/sistema-de-transporte-coletivo/
 
 Vale-transporte em Passo Fundo: cartão cartão do Transporte Público de Passo Fundo, vinculado ao CPF do colaborador; emitido por Coleurb Coletivo Urbano Ltda., operadora da bilhetagem; Av. Sete de Setembro, 97, Centro; canal de compra da empresa: Site da Coleurb: a empresa se cadastra pelo CNPJ, recebe senha inicial por e-mail e compra créditos para os funcionários; o site liga ao TDMax Web Commerce (https://max00623.itstransdata.com/TDMaxWebCommerce/); liberação do crédito: na recarga individual por WhatsApp, até 24 horas após o pagamento; taxa na compra: a recarga individual por WhatsApp cobra R$ 1,50 de taxa de conveniência.
 
@@ -1308,7 +1400,7 @@ Em Pelotas (RS), a passagem de ônibus custa R$ 6,25 desde 03/03/2026, segundo a
 
 Em 2018, o sistema de ônibus de Pelotas (RS) levou 33 milhões de passageiros, segundo dados declarados pelo município à Pesquisa Nacional de Mobilidade Urbana (PEMOB), do governo federal. A idade média da frota de ônibus era de 5,2 anos em 2018. Dados consolidados pela Base Nacional de Tarifas e Integrações de VT da Otimiza.pro.
 
-Fonte oficial: https://www.pelotas.com.br/noticia/tarifa-do-transporte-publico-e-reajustada-abaixo-da-inflacao
+Fonte (página oficial): https://www.pelotas.com.br/noticia/tarifa-do-transporte-publico-e-reajustada-abaixo-da-inflacao
 
 ### Porto Alegre (RS)
 
@@ -1316,11 +1408,11 @@ Em Porto Alegre (RS), a passagem de ônibus custa R$ 5,30 desde 19/02/2026, conf
 
 Em Porto Alegre (RS), o GTFS oficial mais recente da EPTC, de 18/09/2025, lista 395 linhas de ônibus. Em 2021, o sistema de ônibus levou 109 milhões de passageiros, segundo dados declarados pelo município à Pesquisa Nacional de Mobilidade Urbana (PEMOB), do governo federal. A idade média da frota de ônibus era de 7,9 anos em 2021. Dados consolidados pela Base Nacional de Tarifas e Integrações de VT da Otimiza.pro.
 
-Fonte oficial: https://prefeitura.poa.br/transporte
+Fonte (página oficial): https://prefeitura.poa.br/transporte
 
 Vale-transporte em Porto Alegre: a empresa compra em 2 sistemas, TRI (e SIM da Trensurb, no mesmo portal) e TEU!.
 
-TRI (e SIM da Trensurb, no mesmo portal): cobre ônibus municipais de Porto Alegre e trem metropolitano (Trensurb); não vale nas lotações, que só aceitam créditos de passagem antecipada; cartão Cartão TRI Vale-Transporte (ou SIM Vale-Transporte, da Trensurb, pedido no mesmo portal); emitido por TRI, operado pela ATP (Associação dos Transportadores de Passageiros de Porto Alegre); canal de compra da empresa: portal VT Web do TRI (vtclientapp.tripoa.net.br, 'comercialização de vales-transporte do TRI e do SIM'); empresas com até 15 funcionários também podem se cadastrar na sede da ATP (Av. Protásio Alves, 3885); liberação do crédito: até 2 dias úteis após o pagamento; Pix ou cartão pagos até 18h: até 24 h; depois das 18h ou por boleto: até 48 h; a carga entra ao passar o cartão no validador do ônibus.
+TRI (e SIM da Trensurb, no mesmo portal): cobre ônibus municipais de Porto Alegre e trem metropolitano (Trensurb); não vale nas lotações, que só aceitam créditos de passagem antecipada; cartão Cartão TRI Vale-Transporte (ou SIM Vale-Transporte, da Trensurb, pedido no mesmo portal); emitido por TRI, operado pela ATP (Associação das Empresas de Transporte de Passageiros de Porto Alegre); canal de compra da empresa: portal VT Web do TRI (vtclientapp.tripoa.net.br, 'comercialização de vales-transporte do TRI e do SIM'); empresas com até 15 funcionários também podem se cadastrar na sede da ATP (Av. Protásio Alves, 3885); liberação do crédito: até 2 dias úteis após o pagamento; Pix ou cartão pagos até 18h: até 24 h; depois das 18h ou por boleto: até 48 h; a carga entra ao passar o cartão no validador do ônibus; taxa na compra: taxa de administração de 0,3% sobre o valor da fatura ('Ressarcimento do Custo e Processamento e Transmissão'), cobrada pela ATP no Contrato nº 120.05/26 com a Trensurb, de 2026, que diz que a taxa não pode ser reajustada (https://www.gov.br/trensurb/pt-br/fornecedores/contratos-de-despesas-vigentes/Contrato120.0526.pdf); as páginas do TRI para empregadores não publicam taxa.
 
 TEU!: cobre ônibus metropolitanos da Região Metropolitana de Porto Alegre e linhas urbanas de municípios que adotam o TEU!; a carga também pode ser inserida nos validadores da Trensurb; cartão Cartão TEU! Vale-Transporte; emitido por Consórcio Gestor da Bilhetagem Metropolitana (empresas associadas da ATM), sistema TEU!; canal de compra da empresa: três canais: TEU! Online (teuonline.com.br, pessoa física ou jurídica, boleto, sem limite de cartões); Valesul (valesb.com.br, só pessoa jurídica, boleto, cadastro por arquivo .txt); Postos de Venda TEU! (pagamento à vista, até 10 cartões numerados); liberação do crédito: 3 dias úteis após o pagamento do boleto (TEU! Online e Valesul), com carga nos validadores dos ônibus; taxa na compra: TEU! Online: 'taxa única' por pedido, valor não publicado; Valesul: taxa de serviço conforme a quantidade de funcionários e o valor da compra; Postos de Venda: sem taxa administrativa; validade dos créditos: a carga comprada fica 120 dias disponível para ser inserida no cartão, nos validadores dos ônibus ou da Trensurb (desde 01/03/2023).
 
@@ -1330,7 +1422,7 @@ Integração em Porto Alegre: 2º ônibus com 50% de desconto até 30 min após 
 
 Em Rio Grande (RS), a passagem de ônibus custa de R$ 5,68 a R$ 6,25 (varia com o cartão ou o meio de pagamento) desde 26/04/2026, segundo a publicação oficial (Prefeitura do Rio Grande, notícia de 24/04/2026); valor conferido em 18/10/2026 pela Base Nacional de Tarifas e Integrações de VT da Otimiza.pro.
 
-Fonte oficial: https://www2.riogrande.rs.gov.br/noticia/52289/52289
+Fonte (página oficial): https://www2.riogrande.rs.gov.br/noticia/52289/52289
 
 Vale-transporte em Rio Grande: cartão Cartão Rio Grande na modalidade Vale-transporte ('Gerencie seus Cartões Vale-transporte'); emitido por Transpessoal Transportes Ltda. (CNPJ 00.473.616/0003-41); canal de compra da empresa: Área 'Compre créditos VT' do site Cartão Rio Grande, que leva ao TDMax Web Commerce (https://max00536.itstransdata.com/TDMaxWebcommerce/); central de atendimento na Rua General Bacelar, 503, Centro (seg. a sex., 9h às 17h30), telefone (53) 3192-0052.
 
@@ -1338,11 +1430,23 @@ Vale-transporte em Rio Grande: cartão Cartão Rio Grande na modalidade Vale-tra
 
 Em Santa Cruz do Sul (RS), a passagem de ônibus custa R$ 5,80 desde 01/04/2026, conforme Decreto nº 12.774/2026; valor conferido em 18/10/2026 pela Base Nacional de Tarifas e Integrações de VT da Otimiza.pro.
 
-Fonte oficial: https://www.santacruz.rs.gov.br/decretos/docs/DECRETOS_2026/DECRETO_12774_Transporte_Coletivo_Urbano_rb.pdf
+Fonte (página oficial): https://www.santacruz.rs.gov.br/decretos/docs/DECRETOS_2026/DECRETO_12774_Transporte_Coletivo_Urbano_rb.pdf
 
 Vale-transporte em Santa Cruz do Sul: cartão Cartão Vale-Transporte do Consórcio TCS, para pessoa jurídica; emitido por Consórcio TCS (Consórcio TC Stadtbus); escritório na Rua Júlio de Castilhos, 495, Galeria Green Center, sala 26; canal de compra da empresa: Cadastro da empresa no site do consórcio (www.tcsconsorcio.com.br, com Loja Virtual em http://187.45.106.8:8080/ e loja Evox em https://santacruzdosul.afc.company.web.prd.evoxit.net/) ou presencialmente no escritório; validade dos créditos: indeterminada (créditos e cartão).
 
 Integração em Santa Cruz do Sul: Passagem Integrada: com cartão cadastrado no Consórcio TC Stadtbus, o passageiro pode fazer uma troca de ônibus para completar a viagem, sem pagar a segunda passagem se embarcar em até 75 minutos do primeiro embarque.
+
+### Santa Maria (RS)
+
+Em Santa Maria (RS), a passagem de ônibus custa de R$ 6,60 a R$ 7,25 (varia com o cartão ou o meio de pagamento) desde 09/03/2026, conforme Decreto municipal publicado em 04/03/2026; valor conferido em 17/10/2026 pela Base Nacional de Tarifas e Integrações de VT da Otimiza.pro. Quem usa vale-transporte paga R$ 6,65.
+
+Em 2018, o sistema de ônibus de Santa Maria (RS) levou 19 milhões de passageiros, segundo dados declarados pelo município à Pesquisa Nacional de Mobilidade Urbana (PEMOB), do governo federal. A idade média da frota de ônibus era de 9 anos em 2021. Dados consolidados pela Base Nacional de Tarifas e Integrações de VT da Otimiza.pro.
+
+Fonte (imprensa): https://diariodotransporte.com.br/2026/03/08/moradores-de-santa-maria-rs-passam-a-pagar-r-725-na-tarifa-do-transporte-coletivo-a-partir-desta-segunda-feira-09/
+
+Vale-transporte em Santa Maria: cartão Cartão Vale-Transporte (versão integrada a R$ 5,00).
+
+Integração em Santa Maria: Tarifa integrada de R$ 5,00 com Cartão Cidadão Integrado ou Cartão Vale-Transporte Integrado
 
 ### Viamão (RS)
 
@@ -1350,7 +1454,7 @@ Em Viamão (RS), a passagem de ônibus custa de R$ 5,50 a R$ 9,10 (varia com o t
 
 Em 2021, o sistema de ônibus de Viamão (RS) levou 2,9 milhões de passageiros, segundo dados declarados pelo município à Pesquisa Nacional de Mobilidade Urbana (PEMOB), do governo federal. A idade média da frota de ônibus era de 9,8 anos em 2021. Dados consolidados pela Base Nacional de Tarifas e Integrações de VT da Otimiza.pro.
 
-Fonte oficial: https://www.empresaviamao.com.br/valores-tarifas
+Fonte (operadora): https://www.empresaviamao.com.br/valores-tarifas
 
 ## SC
 
@@ -1358,7 +1462,7 @@ Fonte oficial: https://www.empresaviamao.com.br/valores-tarifas
 
 Em Balneário Camboriú (SC), o ônibus é gratuito (tarifa zero) desde 12/06/2023, conforme Lei Municipal nº 4.765/2023; valor conferido em 17/10/2026 pela Base Nacional de Tarifas e Integrações de VT da Otimiza.pro.
 
-Fonte oficial: https://antigo.bc.sc.gov.br/arquivos/licitacao/CR2KC4XT.pdf
+Fonte (página oficial): https://antigo.bc.sc.gov.br/arquivos/licitacao/CR2KC4XT.pdf
 
 Tarifa zero em Balneário Camboriú: Transporte coletivo urbano municipal gratuito para toda a população
 
@@ -1368,7 +1472,7 @@ Em Blumenau (SC), a passagem de ônibus custa de R$ 5,50 a R$ 7,00 (varia com o 
 
 Em 2018, o sistema de ônibus de Blumenau (SC) levou 26 milhões de passageiros, segundo dados declarados pelo município à Pesquisa Nacional de Mobilidade Urbana (PEMOB), do governo federal. A idade média da frota de ônibus era de 4 anos em 2021. Dados consolidados pela Base Nacional de Tarifas e Integrações de VT da Otimiza.pro.
 
-Fonte oficial: https://blumob.com.br/tarifa/
+Fonte (operadora): https://blumob.com.br/tarifa/
 
 Vale-transporte em Blumenau: cartão Cartão Vale Transporte (Trabalhador) da BluMob; emitido por BluMob Concessionária de Transporte Urbano de Blumenau SPE Ltda. (CNPJ 27.274.241/0001-85); canal de compra da empresa: Portal de Vendas da BluMob (https://salesportal.blumenau.prodatamobility.com.br/), indicado em 'Recarga para empresas'; contato vendasvt@blumob.com.br; Central de Atendimento na Rua Ceará, 47, Centro (seg. a sex., 7h30 às 17h; sáb., 8h às 12h, horário fixado no 26º Termo Aditivo ao Contrato nº 042/2017, DOM/SC de 17/03/2026).
 
@@ -1376,7 +1480,9 @@ Vale-transporte em Blumenau: cartão Cartão Vale Transporte (Trabalhador) da Bl
 
 Em Brusque (SC), a passagem de ônibus custa de R$ 3,50 a R$ 4,70 (varia com o cartão ou o meio de pagamento) desde 09/02/2026, conforme Decreto nº 10.592/2026; valor conferido em 17/10/2026 pela Base Nacional de Tarifas e Integrações de VT da Otimiza.pro.
 
-Fonte oficial: https://diariomunicipal.sc.gov.br/atos/7975645
+Fonte (página oficial): https://diariomunicipal.sc.gov.br/atos/7975645
+
+Vale-transporte em Brusque: cartão Cartão Vale Transporte do Nosso Brusque; emitido por Santa Terezinha e Santa Luzia, empresas do transporte coletivo de Brusque; canal de compra da empresa: link COMPRAR VT do site, que leva à Loja Virtual (vtclient.brusque.prodatamobility.com.br), com cadastro da empresa e recarga embarcada paga por boleto; também na Central de Atendimento, em dinheiro ou cheque.
 
 Tarifa zero em Brusque: Gratuidade no transporte coletivo aos domingos para toda a população
 
@@ -1384,7 +1490,7 @@ Tarifa zero em Brusque: Gratuidade no transporte coletivo aos domingos para toda
 
 Em Chapecó (SC), a passagem de ônibus custa R$ 5,00 desde 01/09/2025, segundo a publicação oficial (Prefeitura de Chapecó, notícia de 29/08/2025); valor conferido em 17/10/2026 pela Base Nacional de Tarifas e Integrações de VT da Otimiza.pro.
 
-Fonte oficial: https://www.chapeco.sc.gov.br/noticia/10908/prefeitura-de-chapeco-concede-reajuste-de-apenas-3-no-transporte-coletivo
+Fonte (página oficial): https://www.chapeco.sc.gov.br/noticia/10908/prefeitura-de-chapeco-concede-reajuste-de-apenas-3-no-transporte-coletivo
 
 Vale-transporte em Chapecó: cartão Cartão Vale Transporte (codificado, sem personalização, em comodato e vinculado ao contrato de trabalho); emitido por Auto Viação Chapecó (concessionária); canal de compra da empresa: Compra on-line no site www.autoviacao.com, com pagamento por boleto; também postos de atendimento (pix, dinheiro ou débito) e recarga embarcada nos validadores.
 
@@ -1394,7 +1500,7 @@ Integração em Chapecó: Integração temporal para usuários de cartão de qua
 
 Em Concórdia (SC), a passagem de ônibus custa R$ 1,50 desde 01/05/2025, conforme Decreto nº 9.316/2025; valor conferido em 18/10/2026 pela Base Nacional de Tarifas e Integrações de VT da Otimiza.pro.
 
-Fonte oficial: https://diariomunicipal.sc.gov.br/arquivosbd/atos/2025/05/1746100605_9316.doc
+Fonte (página oficial): https://diariomunicipal.sc.gov.br/arquivosbd/atos/2025/05/1746100605_9316.doc
 
 Vale-transporte em Concórdia: cartão Cartão VEM Vale Transporte, destinado a quem tem o benefício pago pelo empregador; emitido por Hodierna Transportes Ltda..
 
@@ -1406,7 +1512,7 @@ Tarifa zero em Concórdia: Transporte gratuito em 04/10/2026, dia de eleição (
 
 Em Criciúma (SC), a passagem de ônibus custa R$ 5,25 desde 02/02/2025, conforme Decreto SG/nº 256/25; valor conferido em 17/10/2026 pela Base Nacional de Tarifas e Integrações de VT da Otimiza.pro.
 
-Fonte oficial: https://cribus.com.br/tarifas
+Fonte (ato oficial reproduzido): https://cribus.com.br/tarifas
 
 Vale-transporte em Criciúma: cartão CriciúmaCard Vale-Transporte; emitido por Consórcio CriBus; canal de compra da empresa: Cadastro da empresa no consórcio e pedidos de crédito no ambiente virtual de Vale-Transporte; pagamento em dinheiro ou cheque na sede, depósito bancário identificado (CNPJ e número do pedido) ou boleto.
 
@@ -1416,7 +1522,7 @@ Em Florianópolis (SC), a passagem de ônibus custa de R$ 3,85 a R$ 7,70 (varia 
 
 Em 2018, o sistema de ônibus de Florianópolis (SC) levou 64 milhões de passageiros, segundo dados declarados pelo município à Pesquisa Nacional de Mobilidade Urbana (PEMOB), do governo federal. A idade média da frota de ônibus era de 5,8 anos em 2018. Dados consolidados pela Base Nacional de Tarifas e Integrações de VT da Otimiza.pro.
 
-Fonte oficial: https://diariomunicipal.sc.gov.br/arquivosbd/atos/2025/12/1767204593_decreto_n._28.860.pdf
+Fonte (página oficial): https://diariomunicipal.sc.gov.br/arquivosbd/atos/2025/12/1767204593_decreto_n._28.860.pdf
 
 Vale-transporte em Florianópolis: cartão Passe Rápido Vale-Transporte; emitido por Consórcio Fênix (bilhetagem Passe Rápido); canal de compra da empresa: portal Passe Rápido (app.passerapido.com.br, acesso Vale Transporte); cadastro de empresas e de cartões pelo e-mail cadastro@passerapido.com.br.
 
@@ -1426,7 +1532,7 @@ Integração em Florianópolis: Com cartão de transporte, integrações sem lim
 
 Em Itajaí (SC), a passagem de ônibus custa de R$ 4,30 a R$ 156,00 (varia com o cartão ou o meio de pagamento) desde 01/11/2023, conforme Decreto nº 13.063/2023; valor conferido em 18/10/2026 pela Base Nacional de Tarifas e Integrações de VT da Otimiza.pro. Quem usa vale-transporte paga R$ 5,13.
 
-Fonte oficial: https://intranet2.itajai.sc.gov.br/public/jornal-municipio/jornais/jornal_2023_2731_2683.pdf
+Fonte (página oficial): https://intranet2.itajai.sc.gov.br/public/jornal-municipio/jornais/jornal_2023_2731_2683.pdf
 
 Vale-transporte em Itajaí: cartão Cartão Eletrônico na modalidade trabalhador (o site do consórcio lista 'Cartão Eletrônico (comum ou trabalhador)'); emitido por Consórcio Atalaia, concessionária do transporte coletivo de Itajaí (Contrato de Concessão nº 100/2023); atendimento no Terminal Fazenda, das 7h às 17h30; canal de compra da empresa: Portal TDMax Web Commerce (https://max00362.itstransdata.com/TDMaxWebcommerce/), indicado no site do consórcio em 'Compra de Vale Transporte' (área para quem já tem cadastro e orientações para o primeiro cadastro). O PDF 'Informações gerais para a compra de vale transporte' publicado no site é de outra operadora (Melissatur, de Campo Mourão) e não foi usado..
 
@@ -1438,7 +1544,9 @@ Tarifa zero em Itajaí: Gratuidade em todas as linhas e terminais nos dias de vo
 
 Em Jaraguá do Sul (SC), a passagem de ônibus custa de R$ 5,25 a R$ 6,00 (varia com o cartão ou o meio de pagamento) desde 01/01/2026, conforme Decreto nº 19.940/2025; valor conferido em 17/10/2026 pela Base Nacional de Tarifas e Integrações de VT da Otimiza.pro.
 
-Fonte oficial: https://diariomunicipal.sc.gov.br/atos/7868202
+Fonte (página oficial): https://diariomunicipal.sc.gov.br/atos/7868202
+
+Vale-transporte em Jaraguá do Sul: cartão Cartão Jaraguá TEM Vale-Transporte; emitido por Senhora dos Campos Concessionária de Transporte Urbano de Jaraguá do Sul SPE Ltda., ligada à Viação Canarinho; canal de compra da empresa: Cartão cadastrado pela empresa, com créditos repassados por recarga embarcada; compra no SBE de Jaraguá do Sul (http://www.jaraguasbe.com.br/sbe-web, com cadastro de novo cliente) e no posto de atendimento do Terminal Urbano; pagamento por boleto bancário; validade dos créditos: créditos sem prazo de validade.
 
 ### Joinville (SC)
 
@@ -1446,7 +1554,7 @@ Em Joinville (SC), a passagem de ônibus custa R$ 6,50 desde 01/01/2026, segundo
 
 Em 2017, o sistema de ônibus de Joinville (SC) levou 3,4 milhões de passageiros, segundo dados declarados pelo município à Pesquisa Nacional de Mobilidade Urbana (PEMOB), do governo federal. A idade média da frota de ônibus era de 5,9 anos em 2017. Dados consolidados pela Base Nacional de Tarifas e Integrações de VT da Otimiza.pro.
 
-Fonte oficial: https://www.joinville.sc.gov.br/noticias/transporte-coletivo-e-coleta-de-lixo-terao-reajuste-abaixo-da-inflacao-em-2026/
+Fonte (página oficial): https://www.joinville.sc.gov.br/noticias/transporte-coletivo-e-coleta-de-lixo-terao-reajuste-abaixo-da-inflacao-em-2026/
 
 Integração em Joinville: O Cartão Ideal permite integração temporal
 
@@ -1454,19 +1562,21 @@ Integração em Joinville: O Cartão Ideal permite integração temporal
 
 Em Lages (SC), a passagem de ônibus custa de R$ 4,90 a R$ 5,25 (varia com o cartão ou o meio de pagamento) desde 01/01/2026, conforme Decreto nº 23.112/2025; valor conferido em 17/10/2026 pela Base Nacional de Tarifas e Integrações de VT da Otimiza.pro.
 
-Fonte oficial: https://diariomunicipal.sc.gov.br/atos/7865602
+Fonte (página oficial): https://diariomunicipal.sc.gov.br/atos/7865602
+
+Vale-transporte em Lages: cartão Cartão Vale-Transporte Bela Lages; emitido por Transul (transporte coletivo urbano de Lages); canal de compra da empresa: Portal TDMax WebCommerce indicado no site da Transul, com acesso para cadastrados e cadastro de novos; créditos comprados pela internet ficam disponíveis em até 72 horas após a confirmação bancária, por recarga nos validadores dos ônibus e no Terminal Urbano; nota fiscal enviada por e-mail.; liberação do crédito: até 72 horas após a confirmação bancária, com recarga nos validadores dos ônibus e no Terminal Urbano.
 
 ### Palhoça (SC)
 
 Em Palhoça (SC), a passagem de ônibus custa de R$ 6,66 a R$ 7,00 (varia com o cartão ou o meio de pagamento) desde 24/07/2026, conforme Decreto nº 3.966/2026; valor conferido em 17/10/2026 pela Base Nacional de Tarifas e Integrações de VT da Otimiza.pro.
 
-Fonte oficial: https://diariomunicipal.sc.gov.br/atos/8543402
+Fonte (página oficial): https://diariomunicipal.sc.gov.br/atos/8543402
 
 ### Rio do Sul (SC)
 
 Em Rio do Sul (SC), a passagem de ônibus custa R$ 6,10 desde 25/07/2025, conforme Decreto nº 14.466/2025; valor conferido em 18/10/2026 pela Base Nacional de Tarifas e Integrações de VT da Otimiza.pro.
 
-Fonte oficial: https://onibuscircular.com.br/aviso-de-reajuste-tarifario-transporte-coletivo-intermunicipal/
+Fonte (operadora): https://onibuscircular.com.br/aviso-de-reajuste-tarifario-transporte-coletivo-intermunicipal/
 
 Vale-transporte em Rio do Sul: cartão cartão de vale-transporte do trabalhador, da Ônibus Circular; emitido por Ônibus Circular Ltda. (CNPJ 85.775.633/0001-24), concessionária; agência de vendas na Av. Oscar Barcelos, 1180, Centro (8h às 17h, sem fechar ao meio-dia), com atendimento pelo e-mail vendas@expressotaioense.com.br. A Prefeitura compra dela os créditos de VT dos servidores por inexigibilidade (Contrato nº 189/2025, prorrogado até 30/09/2027 pelo Termo Aditivo nº 264/2026, https://www.diariomunicipal.sc.gov.br/atos/8739870); canal de compra da empresa: O empregador pede o cartão e passa os dados para cadastro pelo telefone e WhatsApp (47) 3521-0512 ou pelo e-mail vendas@expressotaioense.com.br; um representante da empresa ou o próprio funcionário retira o cartão na agência. Recarga online em circ.movitech.com.br para cartões comum e de vale-transporte, com cartão de crédito; recarga por Pix com envio do comprovante.; liberação do crédito: créditos comprados no site ou no aplicativo ficam disponíveis em até 2 horas, com recarga embarcada no validador (aviso de 27/03/2026); o aviso do aplicativo, de 23/01/2026, fala em até 12 horas.
 
@@ -1480,13 +1590,13 @@ Em São José (SC), a passagem de ônibus custa R$ 6,90 desde 22/07/2026, confor
 
 Em 2021, o sistema de ônibus de São José (SC) levou 2,3 milhões de passageiros, segundo dados declarados pelo município à Pesquisa Nacional de Mobilidade Urbana (PEMOB), do governo federal. Dados consolidados pela Base Nacional de Tarifas e Integrações de VT da Otimiza.pro.
 
-Fonte oficial: https://diariomunicipal.sc.gov.br/atos/8531985
+Fonte (página oficial): https://diariomunicipal.sc.gov.br/atos/8531985
 
 ### Tubarão (SC)
 
 Em Tubarão (SC), a passagem de ônibus custa de R$ 4,84 a R$ 5,00 (varia com o cartão ou o meio de pagamento) desde 02/06/2022, conforme Decreto nº 6.516/2022; valor conferido em 17/10/2026 pela Base Nacional de Tarifas e Integrações de VT da Otimiza.pro.
 
-Fonte oficial: https://diariomunicipal.sc.gov.br/atos/3942796
+Fonte (página oficial): https://diariomunicipal.sc.gov.br/atos/3942796
 
 ## SE
 
@@ -1496,9 +1606,9 @@ Em Aracaju (SE), a passagem de ônibus custa R$ 4,50 desde 15/05/2022, segundo a
 
 Em 2021, o sistema de ônibus de Aracaju (SE) levou 72 milhões de passageiros, segundo dados declarados pelo município à Pesquisa Nacional de Mobilidade Urbana (PEMOB), do governo federal. A idade média da frota de ônibus era de 10,4 anos em 2021. Dados consolidados pela Base Nacional de Tarifas e Integrações de VT da Otimiza.pro.
 
-Fonte oficial: https://smtt.aracaju.se.gov.br/prefeitura-de-aracaju-autoriza-reajuste-de-125-na-tarifa-do-transporte-coletivo/
+Fonte (página oficial): https://smtt.aracaju.se.gov.br/prefeitura-de-aracaju-autoriza-reajuste-de-125-na-tarifa-do-transporte-coletivo/
 
-Vale-transporte em Aracaju: cartão Mais Aracaju Vale-Transporte; emitido por AracajuCard (Setransp); canal de compra da empresa: VT Web Client (boleto); liberação do crédito: até 24h úteis; carga a bordo em até 2 dias úteis; taxa na compra: 1% dos pedidos do mês anterior, mínimo de 2 tarifas.
+Vale-transporte em Aracaju: cartão Mais Aracaju Vale-Transporte; emitido por AracajuCard (Setransp); canal de compra da empresa: VT Web Client (vtclient.aracaju.prodatamobility.com.br), com cadastro dos funcionários, pedidos de crédito de VT e pagamento por boleto; liberação do crédito: até 24h úteis; carga a bordo em até 2 dias úteis; taxa na compra: o 1% do total de pedidos de VT pagos no mês anterior (mínimo de 2 tarifas), listado na página Taxas de Serviços da AracajuCard, é o preço do Relatório de Saldo dos Cartões, serviço à parte, e não taxa na compra do VT.
 
 Integração em Aracaju: nos terminais de integração; com Socorro, São Cristóvão e Barra dos Coqueiros, uma passagem (dado de 2022)
 
@@ -1506,7 +1616,7 @@ Integração em Aracaju: nos terminais de integração; com Socorro, São Crist�
 
 Em Nossa Senhora do Socorro (SE), a passagem de ônibus custa R$ 4,50 desde 15/05/2022, conforme Resolução SMTT nº 01/2026; valor conferido em 17/10/2026 pela Base Nacional de Tarifas e Integrações de VT da Otimiza.pro.
 
-Fonte oficial: https://smtt.aracaju.se.gov.br/noticias/prefeitura-amplia-subsidio-e-mantem-tarifa-do-transporte-coletivo-congelada-em-r-450/
+Fonte (página oficial): https://smtt.aracaju.se.gov.br/noticias/prefeitura-amplia-subsidio-e-mantem-tarifa-do-transporte-coletivo-congelada-em-r-450/
 
 ## SP
 
@@ -1514,7 +1624,7 @@ Fonte oficial: https://smtt.aracaju.se.gov.br/noticias/prefeitura-amplia-subsidi
 
 Em Americana (SP), a passagem de ônibus custa de R$ 5,20 a R$ 6,15 (varia com o tipo de linha) desde 06/01/2026, segundo a publicação oficial (ARTESP, Relatório Tarifário RMC, vigência 06/01/2026, atualizado em 30/12/2025); valor conferido em 18/10/2026 pela Base Nacional de Tarifas e Integrações de VT da Otimiza.pro.
 
-Fonte oficial: https://www.artesp.sp.gov.br/dx/api/dam/v1/collections/b8655228-02b7-413b-b158-747ca48f5f52/items/4b4b0932-7f96-43e4-a5e2-e340527355ee/renditions/42a9f554-d7b7-4a77-83fc-f8c9964b9314?binary=true
+Fonte (página oficial): https://www.artesp.sp.gov.br/dx/api/dam/v1/collections/b8655228-02b7-413b-b158-747ca48f5f52/items/4b4b0932-7f96-43e4-a5e2-e340527355ee/renditions/42a9f554-d7b7-4a77-83fc-f8c9964b9314?binary=true
 
 Vale-transporte em Americana: a empresa compra em 2 sistemas, SOU Americana Vale-Transporte e BUS+ (linhas metropolitanas da EMTU na Região Metropolitana de Campinas).
 
@@ -1528,7 +1638,7 @@ Tarifa zero em Americana: Gratuidade em todo o transporte coletivo urbano nos di
 
 Em Araçatuba (SP), a passagem de ônibus custa de R$ 4,80 a R$ 5,30 (varia com o cartão ou o meio de pagamento) desde 06/10/2023, segundo a operadora pública (TUA, operadora, tabela de valores vigentes); valor conferido em 17/10/2026 pela Base Nacional de Tarifas e Integrações de VT da Otimiza.pro.
 
-Fonte oficial: http://tuatransportes.com.br/websites/tua/site/valores/valores.asp
+Fonte (operadora): http://tuatransportes.com.br/websites/tua/site/valores/valores.asp
 
 Vale-transporte em Araçatuba: cartão cartão TUA (Vale-Transporte); emitido por TUA; canal de compra da empresa: seção Vale Transporte para Empresas no site da TUA (conteúdo não lido); validade dos créditos: créditos válidos por 1 ano.
 
@@ -1536,7 +1646,7 @@ Vale-transporte em Araçatuba: cartão cartão TUA (Vale-Transporte); emitido po
 
 Em Araraquara (SP), a passagem de ônibus custa R$ 5,25 desde 03/01/2026, conforme Decreto nº 14.057/2025; valor conferido em 18/10/2026 pela Base Nacional de Tarifas e Integrações de VT da Otimiza.pro.
 
-Fonte oficial: https://araraquara.1dom.com.br/ato/01KDTCKNKVHTTY3KF1M95EM7P9
+Fonte (página oficial): https://araraquara.1dom.com.br/ato/01KDTCKNKVHTTY3KF1M95EM7P9
 
 Vale-transporte em Araraquara: cartão Cartão NovoCard Vale-Transporte; emitido por NovoCard / Consórcio Araraquara de Transportes (CAT); canal de compra da empresa: Sistema de vale-transporte eletrônico do CAT, no site do NovoCard: cadastro da empresa, inclusão dos colaboradores e pedido de crédito com boleto de vencimento em 15 dias; recarga embarcada no validador; liberação do crédito: até 2 dias úteis após o pagamento; boletos gerados até 16h45 em dia útil; taxa na compra: preço de conveniência de R$ 5,40 por boleto.
 
@@ -1548,7 +1658,7 @@ Tarifa zero em Araraquara: Tarifa gratuita durante o período de votação nas e
 
 Em Arujá (SP), a passagem de ônibus custa R$ 6,00 desde 01/01/2026, conforme Decreto nº 8.674/2025; valor conferido em 18/10/2026 pela Base Nacional de Tarifas e Integrações de VT da Otimiza.pro.
 
-Fonte oficial: https://www.arujatransporte.com.br/decreto-no-8-674-de-29-de-dezembro-de-2025/
+Fonte (ato oficial reproduzido): https://www.arujatransporte.com.br/decreto-no-8-674-de-29-de-dezembro-de-2025/
 
 Vale-transporte em Arujá: cartão Cartão TOP Vale-Transporte; emitido por Autopass (TOP); canal de compra da empresa: No site do TOP (boradetop.com.br), o item Vale-transporte da seção Para empresas leva ao cadastro da ViaNova (https://cadastro.portalvianova.com.br/cliente-cadastro/cliente-novo-cadastro-1.php); a ViaNova Benefícios, ligada à Autopass, vende o VT com um só pedido e um só boleto, permite importar dados da folha de pagamento e tem área do cliente com CNPJ e senha (https://www.portalvianova.com.br/); taxa na compra: em 2022, segundo o Diário do Transporte, a compra de VT do sistema metropolitano (Cartão BOM, venda pela ViaNova e Autopass) tinha taxa de 4% sobre o valor comprado, que a Autopass defendeu como remuneração da venda online (https://diariodotransporte.com.br/2022/02/21/empresa-de-beneficios-diz-conseguir-na-justica-dispensa-de-taxa-no-vt-do-cartao-bom-top-e-do-bilhete-unico-reducao-de-custo-pode-ser-de-r-69-milhoes-por-ano/); cobrança atual no TOP não confirmada.
 
@@ -1560,7 +1670,7 @@ Em Barueri (SP), a passagem de ônibus custa R$ 6,10 desde 05/01/2026, conforme 
 
 Em 2018, o sistema de ônibus de Barueri (SP) levou 33 milhões de passageiros, segundo dados declarados pelo município à Pesquisa Nacional de Mobilidade Urbana (PEMOB), do governo federal. A idade média da frota de ônibus era de 6 anos em 2021. Dados consolidados pela Base Nacional de Tarifas e Integrações de VT da Otimiza.pro.
 
-Fonte oficial: https://servicos.barueri.sp.gov.br/cms/Upload/Diario/pdf/JOB%20-1937%20-%2031Dez2025_639027074435697559.pdf
+Fonte (página oficial): https://servicos.barueri.sp.gov.br/cms/Upload/Diario/pdf/JOB%20-1937%20-%2031Dez2025_639027074435697559.pdf
 
 Vale-transporte em Barueri: a empresa compra em 2 sistemas, Benfácil Vale-Transporte, produto Barueri (ônibus municipais de Barueri) e TOP Vale-Transporte (ônibus metropolitanos e trilhos da Grande São Paulo).
 
@@ -1576,7 +1686,7 @@ Em Bauru (SP), a passagem de ônibus custa R$ 6,25 desde 20/08/2026, conforme De
 
 Em 2017, o sistema de ônibus de Bauru (SP) levou 32 milhões de passageiros, segundo dados declarados pelo município à Pesquisa Nacional de Mobilidade Urbana (PEMOB), do governo federal. A idade média da frota de ônibus era de 6,2 anos em 2017. Dados consolidados pela Base Nacional de Tarifas e Integrações de VT da Otimiza.pro.
 
-Fonte oficial: https://www2.bauru.sp.gov.br/arquivos/sist_diariooficial/2026/07/do_20260721_4155.pdf
+Fonte (página oficial): https://www2.bauru.sp.gov.br/arquivos/sist_diariooficial/2026/07/do_20260721_4155.pdf
 
 Vale-transporte em Bauru: cartão cartão cadastrado Transurb (benefício vale-transporte); emitido por Transurb, Associação das Empresas de Transporte Coletivo Urbano de Bauru; canal de compra da empresa: Portal de vale-transporte TDMax Web Commerce (https://max00109.itstransdata.com/TDMaxWebCommerce); a Loja da Transurb (Rua Ezequiel Ramos, 6-77) gerencia as aquisições eletrônicas de VT.
 
@@ -1586,7 +1696,7 @@ Integração em Bauru: Integração só com cartão, sem custo; o decreto manté
 
 Em Bragança Paulista (SP), a passagem de ônibus custa R$ 6,50, segundo a publicação oficial (Prefeitura de Bragança Paulista, Perguntas frequentes do Programa Tarifa Zero); valor conferido em 17/10/2026 pela Base Nacional de Tarifas e Integrações de VT da Otimiza.pro.
 
-Fonte oficial: https://braganca.sp.gov.br/perguntas-frequentes-programa-tarifa-zero
+Fonte (página oficial): https://braganca.sp.gov.br/perguntas-frequentes-programa-tarifa-zero
 
 Tarifa zero em Bragança Paulista: Tarifa zero fora dos horários de pico, de segunda a sábado, com Cartão Cidadão Bragantino, em todas as linhas urbanas
 
@@ -1596,7 +1706,7 @@ Tarifa zero em Bragança Paulista: Tarifa zero aos domingos
 
 Em Cajamar (SP), a passagem de ônibus custa R$ 5,10 desde 22/03/2026, conforme Decreto nº 7.691/2026; valor conferido em 18/10/2026 pela Base Nacional de Tarifas e Integrações de VT da Otimiza.pro.
 
-Fonte oficial: https://cajamar.sp.gov.br/decretos/wp-content/uploads/sites/28/2026/03/decreto-7691-26.pdf
+Fonte (página oficial): https://cajamar.sp.gov.br/decretos/wp-content/uploads/sites/28/2026/03/decreto-7691-26.pdf
 
 Vale-transporte em Cajamar: a empresa compra em 2 sistemas, BEM Vale-Transporte (linhas municipais de Cajamar) e TOP Vale-Transporte (ônibus metropolitanos e trilhos da Grande São Paulo).
 
@@ -1614,7 +1724,7 @@ Em Campinas (SP), a passagem de ônibus custa de R$ 6,00 a R$ 6,50 (varia com o 
 
 Em 2021, o sistema de ônibus de Campinas (SP) levou 93 milhões de passageiros, segundo dados declarados pelo município à Pesquisa Nacional de Mobilidade Urbana (PEMOB), do governo federal. A idade média da frota de ônibus era de 4 anos em 2019. Dados consolidados pela Base Nacional de Tarifas e Integrações de VT da Otimiza.pro.
 
-Fonte oficial: http://www.emdec.com.br/eficiente/sites/portalemdec/pt-br/site.php?secao=tarifas
+Fonte (página oficial): http://www.emdec.com.br/eficiente/sites/portalemdec/pt-br/site.php?secao=tarifas
 
 Vale-transporte em Campinas: cartão Bilhete Único Vale-Transporte; emitido por Transurc (associação das empresas de transporte coletivo urbano de Campinas); canal de compra da empresa: Sistema VT.NET da Transurc (transurc.com.br/servicos/comprar-passes-vt-net), pagamento por boleto, mínimo R$ 10; a empresa se cadastra e recebe senha após análise de até 2 dias; liberação do crédito: Créditos disponíveis no cartão do funcionário 1 dia após o processamento da venda; o funcionário ativa na catraca; taxa na compra: 1ª via gratuita; 2ª via custa uma tarifa vigente e fica pronta em 2 dias úteis.
 
@@ -1624,7 +1734,7 @@ Integração em Campinas: Bilhete Único Comum e Vale-Transporte: duas integraç
 
 Em Caraguatatuba (SP), a passagem de ônibus custa de R$ 4,60 a R$ 5,00 (varia com o cartão ou o meio de pagamento) desde 01/06/2023, segundo a publicação oficial (Prefeitura de Caraguatatuba, notícia de 23/05/2023); valor conferido em 18/10/2026 pela Base Nacional de Tarifas e Integrações de VT da Otimiza.pro.
 
-Fonte oficial: https://www.caraguatatuba.sp.gov.br/pmc/2023/05/prefeitura-assina-nova-concessao-do-transporte-e-anuncia-seis-novos-onibus-integracao-gratuita-novas-linhas-e-modernizacao-do-sistema/
+Fonte (página oficial): https://www.caraguatatuba.sp.gov.br/pmc/2023/05/prefeitura-assina-nova-concessao-do-transporte-e-anuncia-seis-novos-onibus-integracao-gratuita-novas-linhas-e-modernizacao-do-sistema/
 
 Vale-transporte em Caraguatatuba: cartão cartão SOU de vale-transporte (a página da SOU traz formulários de compra de vale-transporte e de retirada de cartões VT); emitido por SOU Transportes (Sancetur, Santa Cecília Turismo Ltda., concessionária); canal de compra da empresa: Loja virtual de VT no sistema TDMax Web Commerce (https://max00489.itstransdata.com/TDMaxwebcommerce/), com login da empresa e cadastro de empresas novas; em 2026-10-18 a tela mostrava 'ERRO DE CONFIGURAÇÃO'; os links dos formulários 'Vale Transporte' e 'Retirada de Cartões VT' na página da SOU não tinham arquivo publicado.
 
@@ -1636,19 +1746,19 @@ Em Carapicuíba (SP), a passagem de ônibus custa R$ 6,10 desde 05/01/2026, conf
 
 Em 2018, o sistema de ônibus de Carapicuíba (SP) levou 35 milhões de passageiros, segundo dados declarados pelo município à Pesquisa Nacional de Mobilidade Urbana (PEMOB), do governo federal. A idade média da frota de ônibus era de 5 anos em 2018. Dados consolidados pela Base Nacional de Tarifas e Integrações de VT da Otimiza.pro.
 
-Fonte oficial: https://www.carapicuiba.sp.gov.br/publicos/a18d15c67d140459d96d890efbb233af.pdf
+Fonte (página oficial): https://www.carapicuiba.sp.gov.br/publicos/a18d15c67d140459d96d890efbb233af.pdf
 
 ### Catanduva (SP)
 
 Em Catanduva (SP), a passagem de ônibus custa R$ 4,00, segundo a publicação oficial (Prefeitura de Catanduva, página Transporte Coletivo, atualização de 03/02/2026); valor conferido em 18/10/2026 pela Base Nacional de Tarifas e Integrações de VT da Otimiza.pro.
 
-Fonte oficial: https://www.catanduva.sp.gov.br/portal/servicos/1075/transporte-coletivo/
+Fonte (página oficial): https://www.catanduva.sp.gov.br/portal/servicos/1075/transporte-coletivo/
 
 ### Cotia (SP)
 
 Em Cotia (SP), a passagem de ônibus custa R$ 5,30 desde 01/2023, segundo a publicação oficial (Prefeitura de Cotia, 08/01/2026 e 02/07/2026); valor conferido em 17/10/2026 pela Base Nacional de Tarifas e Integrações de VT da Otimiza.pro. Quem usa vale-transporte paga R$ 7,50.
 
-Fonte oficial: https://cotia.sp.gov.br/entenda-como-funciona-o-custeio-do-transporte-publico-em-cotia/
+Fonte (página oficial): https://cotia.sp.gov.br/entenda-como-funciona-o-custeio-do-transporte-publico-em-cotia/
 
 Vale-transporte em Cotia: cartão cartão de vale-transporte; emitido por Viação Raposo Tavares; validade dos créditos: créditos adquiridos antes do decreto continuam debitados a R$ 5,30 por viagem.
 
@@ -1658,7 +1768,7 @@ Tarifa zero em Cotia: Tarifa Zero Inclusiva aos domingos em todas as linhas muni
 
 Em Cubatão (SP), a passagem de ônibus custa R$ 5,00 desde 01/11/2022, conforme Decreto nº 11.768/2022; valor conferido em 18/10/2026 pela Base Nacional de Tarifas e Integrações de VT da Otimiza.pro.
 
-Fonte oficial: https://diariooficial.cubatao.sp.gov.br/index.php?edicao=2069
+Fonte (página oficial): https://diariooficial.cubatao.sp.gov.br/index.php?edicao=2069
 
 Vale-transporte em Cubatão: cartão cartão de vale-transporte da SOU (a página cita o formulário de retirada de cartões VT); emitido por SOU Transportes (Cubatão); canal de compra da empresa: Loja virtual de VT no sistema TDMax Web Commerce (https://max00433.itstransdata.com/TDMaxwebcommerce/), com login da empresa e cadastro de empresas novas; em 2026-10-18 a tela mostrava 'ERRO DE CONFIGURAÇÃO'.
 
@@ -1670,7 +1780,7 @@ Em Diadema (SP), a passagem de ônibus custa de R$ 4,50 a R$ 5,90 (varia com o c
 
 Em 2021, o sistema de ônibus de Diadema (SP) levou 13 milhões de passageiros, segundo dados declarados pelo município à Pesquisa Nacional de Mobilidade Urbana (PEMOB), do governo federal. A idade média da frota de ônibus era de 6,4 anos em 2021. Dados consolidados pela Base Nacional de Tarifas e Integrações de VT da Otimiza.pro.
 
-Fonte oficial: https://soudiadema.com.br/tarifa/
+Fonte (ato oficial reproduzido): https://soudiadema.com.br/tarifa/
 
 Vale-transporte em Diadema: cartão Cartão SOU + Diadema Vale Transporte; canal de compra da empresa: Loja virtual Buspay (valetransporte.buspay.com.br) e pontos de venda; taxa na compra: 2ª via do cartão: R$ 37,50.
 
@@ -1680,13 +1790,13 @@ Integração em Diadema: Integração temporal fora dos terminais por 50 minutos
 
 Em Embu das Artes (SP), a passagem de ônibus custa R$ 5,80 desde 06/01/2026, conforme Decreto nº 3.381/2025; valor conferido em 17/10/2026 pela Base Nacional de Tarifas e Integrações de VT da Otimiza.pro.
 
-Fonte oficial: https://www.taboaoemfoco.com.br/wp-content/uploads/2025/12/Tarifa-de-Onibus-2026-Embu-das-Artes.pdf
+Fonte (ato oficial reproduzido): https://www.taboaoemfoco.com.br/wp-content/uploads/2025/12/Tarifa-de-Onibus-2026-Embu-das-Artes.pdf
 
 ### Ferraz de Vasconcelos (SP)
 
 Em Ferraz de Vasconcelos (SP), a passagem de ônibus custa R$ 6,00 desde 01/01/2025, conforme Decreto nº 7.044/2024; valor conferido em 17/10/2026 pela Base Nacional de Tarifas e Integrações de VT da Otimiza.pro.
 
-Fonte oficial: https://ferrazdevasconcelos.sp.gov.br/web/wp-content/uploads/2025/02/Decreto-7044-24-Dispoe-sobre-o-reajuste-da-tarifa-do-servico-de-transporte-publico-coletivo-urbano-do-Municipio.pdf
+Fonte (página oficial): https://ferrazdevasconcelos.sp.gov.br/web/wp-content/uploads/2025/02/Decreto-7044-24-Dispoe-sobre-o-reajuste-da-tarifa-do-servico-de-transporte-publico-coletivo-urbano-do-Municipio.pdf
 
 Tarifa zero em Ferraz de Vasconcelos: Ônibus municipais gratuitos aos domingos e feriados (Programa Gratuidade do Transporte Público Coletivo Urbano)
 
@@ -1696,11 +1806,33 @@ Em Franca (SP), a passagem de ônibus custa R$ 4,00 desde 18/01/2026, segundo a 
 
 Em 2017, o sistema de ônibus de Franca (SP) levou 16 milhões de passageiros, segundo dados declarados pelo município à Pesquisa Nacional de Mobilidade Urbana (PEMOB), do governo federal. A idade média da frota de ônibus era de 6,3 anos em 2017. Dados consolidados pela Base Nacional de Tarifas e Integrações de VT da Otimiza.pro.
 
-Fonte oficial: https://movfranca.com.br/servicos/tarifas/
+Fonte (operadora): https://movfranca.com.br/servicos/tarifas/
 
 Vale-transporte em Franca: cartão MoV Vale-Transporte; emitido por MoV Franca; canal de compra da empresa: Sistema de compras no site da MoV Franca: cadastro da empresa (CNPJ, razão social, inscrição) sujeito a análise, depois cadastro dos funcionários e pedido; liberação do crédito: até 2 dias úteis após a compensação bancária; carga automática no validador do ônibus; taxa na compra: taxa de conveniência de 3% sobre o total do pedido.
 
 Integração em Franca: Com o cartão MoV Comum, até duas viagens em duas horas pagando uma tarifa
+
+### Francisco Morato (SP)
+
+Em Francisco Morato (SP), a passagem de ônibus custa R$ 6,00 desde 16/02/2026, segundo a imprensa (Diário do Transporte, 16/02/2026); valor conferido em 17/10/2026 pela Base Nacional de Tarifas e Integrações de VT da Otimiza.pro.
+
+Fonte (imprensa): https://diariodotransporte.com.br/2026/02/16/caieiras-francisco-morato-franco-da-rocha-e-mairipora-em-sao-paulo-aumentam-tarifas-de-onibus-municipais-de-r-550-para-r-600/
+
+### Franco da Rocha (SP)
+
+Em Franco da Rocha (SP), a passagem de ônibus custa R$ 6,00 desde 16/02/2026, segundo a imprensa (Diário do Transporte, 16/02/2026); valor conferido em 17/10/2026 pela Base Nacional de Tarifas e Integrações de VT da Otimiza.pro.
+
+Fonte (imprensa): https://diariodotransporte.com.br/2026/02/16/caieiras-francisco-morato-franco-da-rocha-e-mairipora-em-sao-paulo-aumentam-tarifas-de-onibus-municipais-de-r-550-para-r-600/
+
+### Guarujá (SP)
+
+No Guarujá (SP), a passagem de ônibus custa R$ 5,30 desde 22/02/2026, conforme Decreto nº 17.383/2026; valor conferido em 17/10/2026 pela Base Nacional de Tarifas e Integrações de VT da Otimiza.pro.
+
+No Guarujá (SP), a idade média da frota de ônibus era de 7 anos em 2019. Dados consolidados pela Base Nacional de Tarifas e Integrações de VT da Otimiza.pro.
+
+Fonte (imprensa): https://diariodotransporte.com.br/2026/02/04/prefeitura-de-guaruja-sp-fixa-novo-valor-da-passagem-de-onibus-em-r-530/
+
+Vale-transporte no Guarujá: validade dos créditos: vales adquiridos antes do reajuste puderam ser usados por até 30 dias.
 
 ### Guarulhos (SP)
 
@@ -1708,7 +1840,7 @@ Em Guarulhos (SP), a passagem de ônibus custa R$ 6,20 desde 01/01/2026, conform
 
 Em 2018, o sistema de ônibus de Guarulhos (SP) levou 144 milhões de passageiros, segundo dados declarados pelo município à Pesquisa Nacional de Mobilidade Urbana (PEMOB), do governo federal. A idade média da frota de ônibus era de 8 anos em 2019. Dados consolidados pela Base Nacional de Tarifas e Integrações de VT da Otimiza.pro.
 
-Fonte oficial: https://www.guarulhos.sp.gov.br/diario-oficial/uploads/pdf/277381807.pdf
+Fonte (página oficial): https://www.guarulhos.sp.gov.br/diario-oficial/uploads/pdf/277381807.pdf
 
 Vale-transporte em Guarulhos: cartão Bilhete Único Vale-Transporte (Guarupass); emitido por Guarupass, Associação das Concessionárias de Transporte de Guarulhos; canal de compra da empresa: Sistema VT Guarupass (guarupass.com.br/valetransporte).
 
@@ -1718,7 +1850,7 @@ Integração em Guarulhos: Bilhete Único: quantas viagens forem necessárias em
 
 Em Hortolândia (SP), a passagem de ônibus custa de R$ 4,30 a R$ 4,50 (varia com o cartão ou o meio de pagamento) desde 02/02/2019, conforme Decreto nº 4.118/2019; valor conferido em 17/10/2026 pela Base Nacional de Tarifas e Integrações de VT da Otimiza.pro.
 
-Fonte oficial: https://www.hortolandia.sp.gov.br/linhasdeonibus/
+Fonte (página oficial): https://www.hortolandia.sp.gov.br/linhasdeonibus/
 
 Vale-transporte em Hortolândia: cartão Bilhete Único Vale-Transporte; emitido por Viação Lira.
 
@@ -1728,7 +1860,7 @@ Integração em Hortolândia: Com o Bilhete Único, a segunda viagem do dia é g
 
 Em Ilhabela (SP), a passagem de ônibus custa de R$ 4,80 a R$ 10,00 (varia com o cartão ou o meio de pagamento) desde 26/01/2026, conforme Decreto nº 11.645/2026; valor conferido em 18/10/2026 pela Base Nacional de Tarifas e Integrações de VT da Otimiza.pro.
 
-Fonte oficial: https://www.ilhabela.sp.gov.br/uploads/diario_oficial_-_23-01-2026_assinado_23053607.pdf
+Fonte (página oficial): https://www.ilhabela.sp.gov.br/uploads/diario_oficial_-_23-01-2026_assinado_23053607.pdf
 
 Vale-transporte em Ilhabela: cartão Cartão Bilhete Eletrônico Recarregável Fênix Fácil (a página lista os tipos Comum, Estudante, Idoso 65, PCD e PCD com acompanhante, sem um tipo VT próprio); emitido por Expresso Fênix (Fênix Fácil), concessionária; canal de compra da empresa: Compra online de VT no TDMax Web Commerce (https://max00152.itstransdata.com/TDMaxWebCommerce/), com login da empresa e cadastro de empresas novas; em 2026-10-18 a tela mostrava 'ERRO DE CONFIGURAÇÃO'; validade dos créditos: créditos de VT valem 1 ano a partir da compra e podem ser revalidados uma vez por igual período, a pedido do usuário; após mudança de tarifa, o VT pode ser usado por até 45 dias ou trocado em até 30 dias (Decreto 11.403/2025, art. 23).
 
@@ -1738,21 +1870,29 @@ Integração em Ilhabela: Com o Cartão Bilhete Eletrônico Recarregável, segun
 
 Em Indaiatuba (SP), a passagem de ônibus custa R$ 4,10 desde 10/02/2019, segundo a operadora pública (SOU Indaiatuba, operadora); valor conferido em 17/10/2026 pela Base Nacional de Tarifas e Integrações de VT da Otimiza.pro.
 
-Fonte oficial: https://soutransportes.com.br/indaiatuba/
+Fonte (operadora): https://soutransportes.com.br/indaiatuba/
 
 ### Itapecerica da Serra (SP)
 
 Ainda não há tarifa de ônibus conferida para Itapecerica da Serra (SP) na Base Nacional de Tarifas e Integrações de VT da Otimiza.pro.
 
-Fonte oficial: https://www.itapecerica.sp.gov.br/noticias/financas/transporte-para-todos-vai-oferecer-onibus-gratuito-na-cidade-aos-finais-de-semana-e-feriados
+Fonte (página oficial): https://www.itapecerica.sp.gov.br/noticias/financas/transporte-para-todos-vai-oferecer-onibus-gratuito-na-cidade-aos-finais-de-semana-e-feriados
 
 Tarifa zero em Itapecerica da Serra: Ônibus municipais gratuitos aos sábados, domingos e feriados (Transporte Para Todos)
+
+### Itapetininga (SP)
+
+Em Itapetininga (SP), o ônibus é gratuito (tarifa zero) desde 30/12/2023, segundo a imprensa (Diário do Transporte, 31/08/2026); valor conferido em 17/10/2026 pela Base Nacional de Tarifas e Integrações de VT da Otimiza.pro.
+
+Fonte (imprensa): https://diariodotransporte.com.br/2026/08/31/itapetininga-sp-fecha-contrato-de-r-421-milhoes-por-cinco-anos-para-25-onibus-do-transporte-coletivo-gratuito/
+
+Tarifa zero em Itapetininga: Ônibus municipais sem cobrança para todos (Programa Ônibus de Graça)
 
 ### Itapevi (SP)
 
 Em Itapevi (SP), a passagem de ônibus custa R$ 6,10 desde 05/01/2026, conforme Decreto nº 6.020/2025; valor conferido em 18/10/2026 pela Base Nacional de Tarifas e Integrações de VT da Otimiza.pro.
 
-Fonte oficial: https://itapevi.sp.gov.br/wp-content/uploads/2026/05/decreto-6.020-de-2025-aumento-de-tarifa-de-onibus-2026.pdf
+Fonte (página oficial): https://itapevi.sp.gov.br/wp-content/uploads/2026/05/decreto-6.020-de-2025-aumento-de-tarifa-de-onibus-2026.pdf
 
 Vale-transporte em Itapevi: a empresa compra em 2 sistemas, Benfácil Vale-Transporte, produto Itapevi (ônibus municipais de Itapevi) e TOP Vale-Transporte (ônibus metropolitanos e trilhos da Grande São Paulo).
 
@@ -1766,13 +1906,13 @@ Integração em Itapevi: Com o Cartão Benfácil, troca de ônibus no Terminal p
 
 Em Itaquaquecetuba (SP), a passagem de ônibus custa de R$ 6,00 a R$ 6,30 (varia com o cartão ou o meio de pagamento) desde 01/01/2026, conforme Decreto nº 8.659/2025; valor conferido em 17/10/2026 pela Base Nacional de Tarifas e Integrações de VT da Otimiza.pro. Quem usa vale-transporte paga R$ 7,10.
 
-Fonte oficial: https://www.itaquaquecetuba.sp.gov.br/diario-oficial/documento.php?id=17244
+Fonte (página oficial): https://www.itaquaquecetuba.sp.gov.br/diario-oficial/documento.php?id=17244
 
 ### Itatiba (SP)
 
 Em Itatiba (SP), a passagem de ônibus custa de R$ 3,95 a R$ 4,45 (varia com o cartão ou o meio de pagamento) desde 04/05/2026, conforme Decreto nº 8.306/2026; valor conferido em 18/10/2026 pela Base Nacional de Tarifas e Integrações de VT da Otimiza.pro. Quem usa vale-transporte paga R$ 9,22.
 
-Fonte oficial: https://www.itatiba.sp.gov.br/secretarias/negocios-juridicos/atos-oficiais/decretos/decreto-n-8306-de-29-de-abril-de-2026
+Fonte (página oficial): https://www.itatiba.sp.gov.br/secretarias/negocios-juridicos/atos-oficiais/decretos/decreto-n-8306-de-29-de-abril-de-2026
 
 Vale-transporte em Itatiba: a empresa compra em 2 sistemas, TCI cartão trabalhador (vale-transporte) e BUS+ (linhas metropolitanas da EMTU na Região Metropolitana de Campinas).
 
@@ -1784,7 +1924,7 @@ BUS+ (linhas metropolitanas da EMTU na Região Metropolitana de Campinas): cobre
 
 Em Jacareí (SP), a passagem de ônibus custa de R$ 4,50 a R$ 5,00 (varia com o cartão ou o meio de pagamento) desde 13/07/2026, conforme Decreto nº 633/2026; valor conferido em 17/10/2026 pela Base Nacional de Tarifas e Integrações de VT da Otimiza.pro. Quem usa vale-transporte paga R$ 8,06.
 
-Fonte oficial: https://www.jtu.com.br/doc/downloads/985
+Fonte (página oficial): https://www.jtu.com.br/doc/downloads/985
 
 Vale-transporte em Jacareí: cartão Cartão Vale Transporte (Superpasse); emitido por JTU (bilhetagem Prodata); canal de compra da empresa: Sales Portal da JTU (salesportal.jacarei.prodatamobility.com.br): cadastro do funcionário gera o número do cartão; após o pagamento do primeiro boleto o funcionário retira o cartão no guichê da rodoviária com RG; liberação do crédito: recarga por boleto no portal de vendas liberada em até 48 horas.
 
@@ -1794,7 +1934,7 @@ Integração em Jacareí: Integração nas linhas municipais somente com cartão
 
 Em Jaguariúna (SP), a passagem de ônibus custa de R$ 5,27 a R$ 9,40 (varia com o tipo de linha) desde 06/01/2026, segundo a publicação oficial (ARTESP, Relatório Tarifário RMC, vigência 06/01/2026, atualizado em 30/12/2025); valor conferido em 18/10/2026 pela Base Nacional de Tarifas e Integrações de VT da Otimiza.pro.
 
-Fonte oficial: https://www.artesp.sp.gov.br/dx/api/dam/v1/collections/b8655228-02b7-413b-b158-747ca48f5f52/items/4b4b0932-7f96-43e4-a5e2-e340527355ee/renditions/42a9f554-d7b7-4a77-83fc-f8c9964b9314?binary=true
+Fonte (página oficial): https://www.artesp.sp.gov.br/dx/api/dam/v1/collections/b8655228-02b7-413b-b158-747ca48f5f52/items/4b4b0932-7f96-43e4-a5e2-e340527355ee/renditions/42a9f554-d7b7-4a77-83fc-f8c9964b9314?binary=true
 
 Vale-transporte em Jaguariúna: a empresa compra em 2 sistemas, Vale-transporte do ônibus municipal de Jaguariúna e BUS+ (linhas metropolitanas da EMTU na Região Metropolitana de Campinas).
 
@@ -1806,7 +1946,7 @@ BUS+ (linhas metropolitanas da EMTU na Região Metropolitana de Campinas): cobre
 
 Em Jaú (SP), a passagem de ônibus custa R$ 5,00 desde 06/12/2025, conforme Decreto nº 9.156/2025; valor conferido em 18/10/2026 pela Base Nacional de Tarifas e Integrações de VT da Otimiza.pro.
 
-Fonte oficial: https://www.dosp.com.br/exibe_do.php?i=NzQ0OTY4
+Fonte (página oficial): https://www.dosp.com.br/exibe_do.php?i=NzQ0OTY4
 
 Vale-transporte em Jaú: emitido por Paraty Fretamento, Turismo e Transporte Ltda. (concessionária).
 
@@ -1816,7 +1956,7 @@ Em Jundiaí (SP), a passagem de ônibus custa de R$ 5,60 a R$ 6,15 (varia com o 
 
 Em 2021, o sistema de ônibus de Jundiaí (SP) levou 17 milhões de passageiros, segundo dados declarados pelo município à Pesquisa Nacional de Mobilidade Urbana (PEMOB), do governo federal. A idade média da frota de ônibus era de 4 anos em 2021. Dados consolidados pela Base Nacional de Tarifas e Integrações de VT da Otimiza.pro.
 
-Fonte oficial: https://jundiai.sp.gov.br/mobilidade/indicadores-e-informacoes/transporte-coletivo/
+Fonte (página oficial): https://jundiai.sp.gov.br/mobilidade/indicadores-e-informacoes/transporte-coletivo/
 
 Vale-transporte em Jundiaí: cartão Cartão Bilhete Único Vale Transporte.
 
@@ -1826,7 +1966,7 @@ Em Limeira (SP), a passagem de ônibus custa R$ 5,70 desde 01/01/2026, conforme 
 
 Em 2021, o sistema de ônibus de Limeira (SP) levou 6,1 milhões de passageiros, segundo dados declarados pelo município à Pesquisa Nacional de Mobilidade Urbana (PEMOB), do governo federal. Dados consolidados pela Base Nacional de Tarifas e Integrações de VT da Otimiza.pro.
 
-Fonte oficial: https://limeira.sp.gov.br/tarifa-de-onibus-passa-a-custar-r-570-a-partir-desta-quinta-feira-1-em-limeira
+Fonte (página oficial): https://limeira.sp.gov.br/tarifa-de-onibus-passa-a-custar-r-570-a-partir-desta-quinta-feira-1-em-limeira
 
 Vale-transporte em Limeira: cartão cartão eletrônico de vale-transporte; validade dos créditos: créditos com valor antigo valeram por 30 dias após o reajuste; depois perderam a validade.
 
@@ -1834,7 +1974,7 @@ Vale-transporte em Limeira: cartão cartão eletrônico de vale-transporte; vali
 
 Em Louveira (SP), a passagem de ônibus custa de R$ 2,00 a R$ 6,00 (varia com o cartão ou o meio de pagamento) desde 06/12/2023, conforme Decreto nº 6.415/2023; valor conferido em 18/10/2026 pela Base Nacional de Tarifas e Integrações de VT da Otimiza.pro.
 
-Fonte oficial: https://www.dosp.com.br/exibe_do.php?i=NDMzMjM2
+Fonte (página oficial): https://www.dosp.com.br/exibe_do.php?i=NDMzMjM2
 
 Vale-transporte em Louveira: cartão MoV Vale-Transporte; emitido por MoV Louveira (concessionária); canal de compra da empresa: Presencial no posto MoV (Rua Antônio Chicalhoni, 51), com cópia do CNPJ e lista dos colaboradores, e recarga por cartão; ou pelo Portal de Vendas MoV (http://189.44.98.122:9948/login), com cadastro da empresa e dos funcionários, pedido de créditos e boleto; liberação do crédito: recarga liberada nos ônibus em até 3 dias úteis após o pagamento; cartões entregues em até 5 dias úteis; taxa na compra: portal: taxa de conveniência de 3% sobre o total do pedido, mínimo de R$ 3,90.
 
@@ -1844,13 +1984,15 @@ Tarifa zero em Louveira: Transporte gratuito aos sábados, domingos e feriados p
 
 Em Marília (SP), a passagem de ônibus custa R$ 5,75 desde 02/05/2024, conforme Decisão judicial de 2ª instância no processo nº 1003391-44.2024.8.26.0344; valor conferido em 17/10/2026 pela Base Nacional de Tarifas e Integrações de VT da Otimiza.pro.
 
-Fonte oficial: https://www.marilia.sp.gov.br/portal/noticias/0/3/13616/tarifa-de-onibus-do-transporte-coletivo-urbano-em-marilia-tera-subsidio-da-prefeitura-municipal
+Fonte (página oficial): https://www.marilia.sp.gov.br/portal/noticias/0/3/13616/tarifa-de-onibus-do-transporte-coletivo-urbano-em-marilia-tera-subsidio-da-prefeitura-municipal
+
+Vale-transporte em Marília: cartão Marília Card Vale-Transporte; emitido por AMTU, Associação Mariliense de Transporte Urbano (associação das empresas de ônibus de Marília); canal de compra da empresa: Adesão ao convênio de VT pelo contato com a AMTU (CNPJ, contrato social e lista de funcionários; análise em até 5 dias úteis); compra dos créditos no Web Commerce TDMax da Transdata (max00175.itstransdata.com/TDMaxwebcommerce), aberto pelo botão Comprar Vale Transporte do site; créditos carregados no Marília Card do trabalhador, válidos em todas as linhas do sistema de Marília..
 
 ### Matão (SP)
 
 Em Matão (SP), a passagem de ônibus custa R$ 5,60, segundo a operadora pública (Paraty Mobilidade, operadora, tabela de tarifas das linhas urbanas de 2026, atualizada em 01/07/2026); valor conferido em 18/10/2026 pela Base Nacional de Tarifas e Integrações de VT da Otimiza.pro.
 
-Fonte oficial: https://paratymobilidade.com.br/documentos/urbana2026.pdf
+Fonte (operadora): https://paratymobilidade.com.br/documentos/urbana2026.pdf
 
 Vale-transporte em Matão: cartão MOVE Vale-Transporte (impresso com nome, CPF e número do cartão; pessoal e intransferível, fica com o trabalhador se ele mudar de emprego); emitido por MOVE, bilhetagem da Viação Paraty (Paraty Mobilidade); canal de compra da empresa: A empresa se cadastra pelo procedimento e formulário da página MOVE VT e pede os cartões dos funcionários pelo formulário 'Solicitar novo cartão', escolhendo o ponto de retirada (em Matão, Loja Matão, Av. Quinze de Novembro, 826); os pedidos de crédito são feitos no portal de recarga com CNPJ e senha (Pedidos, Incluir), com pagamento por boleto bancário; o portal de recarga é o VT Client da Prodata (https://vtclient.americo.prodatamobility.com.br/); Central de Atendimento ao Vale-Transporte da Viação Paraty: (16) 3334-7800, ramal 282; liberação do crédito: após a compensação do boleto, o pedido fica liberado para recarga em até 72 horas; o crédito é liberado a bordo, nos validadores, e nos pontos de atendimento; a 1ª via do cartão fica pronta para retirada pelo próprio funcionário em 5 dias úteis; taxa na compra: as perguntas frequentes do MOVE VT não citam cobrança sobre o pedido de crédito.
 
@@ -1860,7 +2002,7 @@ Em Mauá (SP), a passagem de ônibus custa de R$ 4,90 a R$ 5,90 (varia com o car
 
 Em Mauá (SP), a idade média da frota de ônibus era de 4 anos em 2021. Dados consolidados pela Base Nacional de Tarifas e Integrações de VT da Otimiza.pro.
 
-Fonte oficial: https://dom.maua.sp.gov.br/public/docs/8920d8a5ff3fe962120561b9a7a347e8.pdf
+Fonte (página oficial): https://dom.maua.sp.gov.br/public/docs/8920d8a5ff3fe962120561b9a7a347e8.pdf
 
 Vale-transporte em Mauá: cartão Vale-Transporte no Cartão SIM; emitido por Suzantur (BusFácil).
 
@@ -1870,13 +2012,13 @@ Em Mogi das Cruzes (SP), a passagem de ônibus custa R$ 5,50 desde 31/03/2026, c
 
 Em 2018, o sistema de ônibus de Mogi das Cruzes (SP) levou 46 milhões de passageiros, segundo dados declarados pelo município à Pesquisa Nacional de Mobilidade Urbana (PEMOB), do governo federal. A idade média da frota de ônibus era de 3 anos em 2018. Dados consolidados pela Base Nacional de Tarifas e Integrações de VT da Otimiza.pro.
 
-Fonte oficial: https://diario-oficial.mogidascruzes.sp.gov.br/media/diarios/2026/03/30/EXECUTIVO_EXTRAORDINARIA_21_-_30.03.2026_-_conformidade.pdf
+Fonte (página oficial): https://diario-oficial.mogidascruzes.sp.gov.br/media/diarios/2026/03/30/EXECUTIVO_EXTRAORDINARIA_21_-_30.03.2026_-_conformidade.pdf
 
 ### Mogi Mirim (SP)
 
 Em Mogi Mirim (SP), a passagem de ônibus custa R$ 5,00 desde 01/07/2025, conforme Decreto nº 9.555/2025; valor conferido em 18/10/2026 pela Base Nacional de Tarifas e Integrações de VT da Otimiza.pro. Quem usa vale-transporte paga R$ 6,00.
 
-Fonte oficial: https://www.mogimirim.sp.gov.br/uploads/legislacao/45193/XgvJXup44KFSTXnwKUlVO_2r3As0SlFb.pdf
+Fonte (página oficial): https://www.mogimirim.sp.gov.br/uploads/legislacao/45193/XgvJXup44KFSTXnwKUlVO_2r3As0SlFb.pdf
 
 Vale-transporte em Mogi Mirim: cartão Cartão Vale Transporte; emitido por SOU Mogi Mirim (concessionária); canal de compra da empresa: Portal TDMax Web Commerce Mogi Mirim (https://max00365.itstransdata.com/TDMaxwebcommerce/), com login e cadastro do comprador, indicado no menu 'Vale Transporte' do site da SOU Mogi Mirim; a página lista também formulários para retirada de cartões VT; validade dos créditos: Créditos comprados antes de 01/07/2025 valeram pela tarifa anterior até 01/08/2025 (Decreto nº 9.555/2025, art. 2º)..
 
@@ -1886,7 +2028,7 @@ Em Osasco (SP), a passagem de ônibus custa de R$ 5,80 a R$ 6,10 (varia com o ca
 
 Em 2021, o sistema de ônibus de Osasco (SP) levou 18 milhões de passageiros, segundo dados declarados pelo município à Pesquisa Nacional de Mobilidade Urbana (PEMOB), do governo federal. A idade média da frota de ônibus era de 4,2 anos em 2021. Dados consolidados pela Base Nacional de Tarifas e Integrações de VT da Otimiza.pro.
 
-Fonte oficial: https://osasco.sp.gov.br/wp-content/uploads/2025/12/iomo-2945.pdf
+Fonte (página oficial): https://osasco.sp.gov.br/wp-content/uploads/2025/12/iomo-2945.pdf
 
 Vale-transporte em Osasco: cartão BEM Vale-Transporte; emitido por BEM (Bilhete Eletrônico Municipal de Osasco); canal de compra da empresa: Loja Virtual BEM VT (salesclient.bemosasco.com.br), pagamento por boleto no valor total; 1ª via retirada no posto da Av. Presidente Médici, 1340; liberação do crédito: Cartão liberado para uso no dia seguinte à confirmação de recebimento pela empresa na Loja Virtual; taxa na compra: Desde 01/07/2022, uma tarifa e meia vigente por cartão recarregado na compra do VT.
 
@@ -1894,7 +2036,7 @@ Vale-transporte em Osasco: cartão BEM Vale-Transporte; emitido por BEM (Bilhete
 
 Em Paulínia (SP), a passagem de ônibus custa de R$ 1,00 a R$ 6,55 (varia com o tipo de linha) desde 06/01/2026, segundo a publicação oficial (ARTESP, Relatório Tarifário RMC, vigência 06/01/2026, atualizado em 30/12/2025); valor conferido em 18/10/2026 pela Base Nacional de Tarifas e Integrações de VT da Otimiza.pro.
 
-Fonte oficial: https://www.artesp.sp.gov.br/dx/api/dam/v1/collections/b8655228-02b7-413b-b158-747ca48f5f52/items/4b4b0932-7f96-43e4-a5e2-e340527355ee/renditions/42a9f554-d7b7-4a77-83fc-f8c9964b9314?binary=true
+Fonte (página oficial): https://www.artesp.sp.gov.br/dx/api/dam/v1/collections/b8655228-02b7-413b-b158-747ca48f5f52/items/4b4b0932-7f96-43e4-a5e2-e340527355ee/renditions/42a9f554-d7b7-4a77-83fc-f8c9964b9314?binary=true
 
 Vale-transporte em Paulínia: a empresa compra em 2 sistemas, MoV Paulínia Vale-Transporte e BUS+ (linhas metropolitanas da EMTU na Região Metropolitana de Campinas).
 
@@ -1902,11 +2044,13 @@ MoV Paulínia Vale-Transporte: cobre ônibus municipais de Paulínia; cartão Ca
 
 BUS+ (linhas metropolitanas da EMTU na Região Metropolitana de Campinas): cobre ônibus intermunicipais metropolitanos da RMC (EMTU, regulação da ARTESP); cartão Cartão BUS+ Vale-Transporte; emitido por Consórcio BUS+; canal de compra da empresa: Presencial nos postos BUS+ (cópia do CNPJ e lista dos colaboradores; cartões retirados após 5 dias úteis) ou online no site BUS+ (portal de VT http://vtclient.busmais.prodatamobility.com.br/wfm_home.aspx), com recarga a bordo; liberação do crédito: até 2 dias úteis após a compensação bancária (recarga a bordo); na compra online, cartões emitidos em 5 dias úteis após a compensação; taxa na compra: online: taxa de conveniência de 3%, mínimo de R$ 3,90; presencial: sem custo.
 
+Integração em Paulínia: Integração temporal de 40 minutos nas linhas municipais com os cartões MoV: dois ônibus com uma só passagem, apenas no mesmo sentido (não vale na volta da mesma linha). Fonte: Diário do Transporte (imprensa), 24/04/2022, no início da operação da MoV; o site da operadora não trata de integração.
+
 ### Pindamonhangaba (SP)
 
 Em Pindamonhangaba (SP), a passagem de ônibus custa de R$ 4,50 a R$ 5,50 (varia com o cartão ou o meio de pagamento) desde 15/09/2026, conforme Decreto Municipal nº 7150; valor conferido em 17/10/2026 pela Base Nacional de Tarifas e Integrações de VT da Otimiza.pro.
 
-Fonte oficial: https://www.vivapinda.com.br/tarifas/
+Fonte (operadora): https://www.vivapinda.com.br/tarifas/
 
 Vale-transporte em Pindamonhangaba: cartão bilhete eletrônico Viva Pinda; emitido por Viva Transporte Coletivo Ltda. (Viva Pinda).
 
@@ -1916,7 +2060,7 @@ Em Piracicaba (SP), a passagem de ônibus custa de R$ 6,40 a R$ 6,50 (varia com 
 
 Em 2017, o sistema de ônibus de Piracicaba (SP) levou 21 milhões de passageiros, segundo dados declarados pelo município à Pesquisa Nacional de Mobilidade Urbana (PEMOB), do governo federal. A idade média da frota de ônibus era de 6 anos em 2017. Dados consolidados pela Base Nacional de Tarifas e Integrações de VT da Otimiza.pro.
 
-Fonte oficial: https://piramobilidade.com.br/tarifas/
+Fonte (operadora): https://piramobilidade.com.br/tarifas/
 
 Vale-transporte em Piracicaba: cartão Cartão Vale-Transporte da Pira Mobilidade; emitido por Pira Mobilidade (Rápido Sumaré Ltda.); canal de compra da empresa: Compra on-line no site da Pira Mobilidade, com cadastro da empresa e associação dos funcionários; pagamento por boleto; liberação do crédito: Até 72 horas úteis após a confirmação do pagamento do boleto; boleto vence em até 7 dias corridos.
 
@@ -1926,7 +2070,7 @@ Em Praia Grande (SP), a passagem de ônibus custa R$ 5,25 desde 09/02/2025, conf
 
 Em 2021, o sistema de ônibus de Praia Grande (SP) levou 13 milhões de passageiros, segundo dados declarados pelo município à Pesquisa Nacional de Mobilidade Urbana (PEMOB), do governo federal. A idade média da frota de ônibus era de 3 anos em 2021. Dados consolidados pela Base Nacional de Tarifas e Integrações de VT da Otimiza.pro.
 
-Fonte oficial: https://www.praiagrande.sp.gov.br/Administracao/leisdecretos_view.asp?codLeis=8508
+Fonte (página oficial): https://www.praiagrande.sp.gov.br/Administracao/leisdecretos_view.asp?codLeis=8508
 
 Integração em Praia Grande: Linhas municipais integradas entre si e com as intermunicipais nos terminais Tatico e Tude Bastos. Quem chega aos terminais por linha intermunicipal no sentido São Vicente/Cubatão/Santos para Praia Grande não paga para usar as linhas municipais; no sentido contrário há cobrança.
 
@@ -1934,13 +2078,17 @@ Integração em Praia Grande: Linhas municipais integradas entre si e com as int
 
 Em Presidente Prudente (SP), a passagem de ônibus custa R$ 5,00 desde 03/01/2023, segundo a operadora pública (SOU Prudente, operadora); valor conferido em 17/10/2026 pela Base Nacional de Tarifas e Integrações de VT da Otimiza.pro.
 
-Fonte oficial: https://soutransportes.com.br/presidente-prudente/
+Fonte (operadora): https://soutransportes.com.br/presidente-prudente/
+
+Integração em Presidente Prudente: Na nova rede (12 terminais e linhas expressas), integração de duas horas com o cartão do sistema, sem nova tarifa
+
+Tarifa zero em Presidente Prudente: Tarifa Zero aos sábados e domingos nos ônibus do transporte coletivo urbano
 
 ### Ribeirão Preto (SP)
 
 Em Ribeirão Preto (SP), a passagem de ônibus custa R$ 5,00 desde 16/02/2022, conforme Decreto nº 026/2022; valor conferido em 17/10/2026 pela Base Nacional de Tarifas e Integrações de VT da Otimiza.pro.
 
-Fonte oficial: https://www.rpmobilidade.com.br/tarifas/valores-e-tarifas/
+Fonte (operadora): https://www.rpmobilidade.com.br/tarifas/valores-e-tarifas/
 
 Vale-transporte em Ribeirão Preto: cartão Cartão NOSSO Vale-Transporte; emitido por Consórcio PróUrbano (Central NOSSO); canal de compra da empresa: Portal NOSSO Vale-Transporte (VTWEBClient), após cadastro da empresa pelo 0800 16 16 001 ou e-mail; recargas só pelo portal; liberação do crédito: Cartão do colaborador pronto para retirada em 48 horas úteis; retirada só pelo titular, com biometria facial; taxa na compra: 2ª via: 6 tarifas vigentes; validade dos créditos: Cartão válido por 3 anos.
 
@@ -1950,7 +2098,7 @@ Integração em Ribeirão Preto: Até 3 linhas distintas e não concorrentes, co
 
 Em Rio Claro (SP), a passagem de ônibus custa R$ 4,90 desde 30/12/2023, conforme Decreto nº 13.170/2023; valor conferido em 18/10/2026 pela Base Nacional de Tarifas e Integrações de VT da Otimiza.pro.
 
-Fonte oficial: https://www.dosp.com.br/exibe_do.php?i=NDM2MTM1
+Fonte (página oficial): https://www.dosp.com.br/exibe_do.php?i=NDM2MTM1
 
 Vale-transporte em Rio Claro: cartão Cartão SOU Vale-Transporte; emitido por Sancetur (SOU Rio Claro); canal de compra da empresa: Portal de vendas Prodata (https://salesportal.rioclaro.prodatamobility.com.br/): cadastro da empresa e dos funcionários, pedido e boleto; retirada dos cartões com autorização carimbada da empresa; validade dos créditos: Na mudança de tarifa, o VT antigo pode ser usado por 90 dias a partir da nova tarifa ou trocado (Decreto nº 13.204, de 29/12/2023).
 
@@ -1960,7 +2108,7 @@ Integração em Rio Claro: Integração temporal entre linhas só com cartão el
 
 Em Salto (SP), a passagem de ônibus custa R$ 3,80 desde 01/09/2023, conforme Decreto nº 257/2023; valor conferido em 18/10/2026 pela Base Nacional de Tarifas e Integrações de VT da Otimiza.pro.
 
-Fonte oficial: https://www.dosp.com.br/exibe_do.php?i=Mzk3ODk2
+Fonte (página oficial): https://www.dosp.com.br/exibe_do.php?i=Mzk3ODk2
 
 Vale-transporte em Salto: cartão Cartão SOU Vale-Transporte; emitido por SOU Salto (concessionária); canal de compra da empresa: Loja virtual VTWeb Client da SOU Salto (https://vtclient.salto.prodatamobility.com.br/wfm_home.aspx), com cadastro de pessoa jurídica por CPF, CNPJ ou CEI e compra de créditos eletrônicos para o cartão VT (a página de entrada oferece também cadastro de funcionários para empregador pessoa física); retirada dos cartões com autorização impressa e carimbada pela empresa (formulário no site da SOU).
 
@@ -1970,13 +2118,13 @@ Tarifa zero em Salto: Isenção da tarifa comum para todos os usuários aos domi
 
 Em Santa Bárbara d'Oeste (SP), a passagem de ônibus custa R$ 5,90 desde 15/06/2025, segundo a publicação oficial (Prefeitura de Santa Bárbara d'Oeste, 13/06/2025); valor conferido em 17/10/2026 pela Base Nacional de Tarifas e Integrações de VT da Otimiza.pro.
 
-Fonte oficial: https://www.santabarbara.sp.gov.br/portal/noticias/0/3/72247/tarifa-do-transporte-coletivo-tera-novo-valor-a-partir-de-domingo-em-santa-barbara/
+Fonte (página oficial): https://www.santabarbara.sp.gov.br/portal/noticias/0/3/72247/tarifa-do-transporte-coletivo-tera-novo-valor-a-partir-de-domingo-em-santa-barbara/
 
 ### Santana de Parnaíba (SP)
 
 Em Santana de Parnaíba (SP), a passagem de ônibus custa R$ 4,50, segundo a operadora pública (BEM Santana de Parnaíba, bilhetagem do grupo Urubupungá, perguntas frequentes); valor conferido em 18/10/2026 pela Base Nacional de Tarifas e Integrações de VT da Otimiza.pro.
 
-Fonte oficial: http://www.bemsantana.com.br/perguntas-frequentes/
+Fonte (operadora): http://www.bemsantana.com.br/perguntas-frequentes/
 
 Vale-transporte em Santana de Parnaíba: a empresa compra em 2 sistemas, BEM Vale-Transporte (linhas municipais de Santana de Parnaíba) e TOP Vale-Transporte (ônibus metropolitanos e trilhos da Grande São Paulo).
 
@@ -1990,9 +2138,9 @@ Em Santo André (SP), a passagem de ônibus custa R$ 5,90 desde 06/01/2025, segu
 
 Em 2021, o sistema de ônibus de Santo André (SP) levou 33 milhões de passageiros, segundo dados declarados pelo município à Pesquisa Nacional de Mobilidade Urbana (PEMOB), do governo federal. A idade média da frota de ônibus era de 6,1 anos em 2021. Dados consolidados pela Base Nacional de Tarifas e Integrações de VT da Otimiza.pro.
 
-Fonte oficial: https://satrans.santoandre.sp.gov.br/portal/servicos/1007/onibus
+Fonte (página oficial): https://satrans.santoandre.sp.gov.br/portal/servicos/1007/onibus
 
-Vale-transporte em Santo André: cartão Bilhete Único Andreense Vale-Transporte; emitido por AESA (aesanet.com.br), segundo a SA-Trans; validade dos créditos: Tempo de uso dos créditos definido pelo Decreto nº 18.184/2023 e pela Lei nº 10.740/2023.
+Vale-transporte em Santo André: cartão Bilhete Único Andreense Vale-Transporte; emitido por AESA (Associação das Empresas de Transporte de Santo André); canal de compra da empresa: Web Commerce da AESA, só para a empresa empregadora, com cadastro e compra pela internet e pagamento por boleto bancário ou boleto Pix; ou compra direta nos pontos de venda; taxa na compra: Web Commerce: 2,5% sobre o valor total dos créditos adquiridos, a título de conveniência; compra direta nos pontos de venda isenta dessa cobrança; tarifa bancária de R$ 2,49 por boleto bancário (CEF, desde 28/08/2019) e de R$ 1,50 por boleto Pix (desde 20/07/2022); validade dos créditos: Tempo de uso dos créditos definido pelo Decreto nº 18.184/2023 e pela Lei nº 10.740/2023 (SA-Trans).
 
 Integração em Santo André: Bilhete Único Andreense: até 3 linhas municipais numa mesma viagem (mesma direção; retorno é outra viagem) com uma tarifa, em até 90 minutos nos dias úteis e 120 minutos nos fins de semana e feriados.
 
@@ -2002,7 +2150,7 @@ Em Santos (SP), a passagem de ônibus custa R$ 5,25 desde 25/02/2023, segundo a 
 
 Em 2021, o sistema de ônibus de Santos (SP) levou 21 milhões de passageiros, segundo dados declarados pelo município à Pesquisa Nacional de Mobilidade Urbana (PEMOB), do governo federal. A idade média da frota de ônibus era de 4 anos em 2021. Dados consolidados pela Base Nacional de Tarifas e Integrações de VT da Otimiza.pro.
 
-Fonte oficial: https://www.santos.sp.gov.br/?q=noticia%2Ftransporte-coletivo-de-santos-ja-conta-com-outro-onibus-100-eletrico
+Fonte (página oficial): https://www.santos.sp.gov.br/?q=noticia%2Ftransporte-coletivo-de-santos-ja-conta-com-outro-onibus-100-eletrico
 
 Integração em Santos: Das 41 linhas municipais, 39 são integradas ao VLT
 
@@ -2012,7 +2160,7 @@ Em São Bernardo do Campo (SP), a passagem de ônibus custa R$ 5,95 desde 01/01/
 
 Em 2021, o sistema de ônibus de São Bernardo do Campo (SP) levou 43 milhões de passageiros, segundo dados declarados pelo município à Pesquisa Nacional de Mobilidade Urbana (PEMOB), do governo federal. A idade média da frota de ônibus era de 8,6 anos em 2021. Dados consolidados pela Base Nacional de Tarifas e Integrações de VT da Otimiza.pro.
 
-Fonte oficial: https://www.saobernardo.sp.gov.br/documents/10181/1598718/NM+2413+de+29.12.2023+-++Conte%C3%BAdo+Integral.pdf/d80e1f6e-225b-8ed5-513c-761ad7fbf74c
+Fonte (página oficial): https://www.saobernardo.sp.gov.br/documents/10181/1598718/NM+2413+de+29.12.2023+-++Conte%C3%BAdo+Integral.pdf/d80e1f6e-225b-8ed5-513c-761ad7fbf74c
 
 Vale-transporte em São Bernardo do Campo: a empresa compra em 2 sistemas, Cartão Legal Vale-Transporte (ônibus municipais de São Bernardo do Campo) e TOP Vale-Transporte (ônibus metropolitanos e trilhos da Grande São Paulo).
 
@@ -2028,7 +2176,7 @@ Tarifa zero em São Bernardo do Campo: Tarifa dispensada no transporte coletivo 
 
 Em São Caetano do Sul (SP), a passagem de ônibus custa R$ 5,00 desde 15/07/2026, e quem tem o cartão do morador não paga, segundo a publicação oficial (Prefeitura de São Caetano do Sul, notícia de 13/07/2026); valor conferido em 17/10/2026 pela Base Nacional de Tarifas e Integrações de VT da Otimiza.pro.
 
-Fonte oficial: https://www.saocaetanodosul.sp.gov.br/noticia/6766
+Fonte (página oficial): https://www.saocaetanodosul.sp.gov.br/noticia/6766
 
 ### São Carlos (SP)
 
@@ -2036,7 +2184,7 @@ Em São Carlos (SP), a passagem de ônibus custa R$ 5,25 desde 31/12/2024, segun
 
 Em 2018, o sistema de ônibus de São Carlos (SP) levou 22 milhões de passageiros, segundo dados declarados pelo município à Pesquisa Nacional de Mobilidade Urbana (PEMOB), do governo federal. A idade média da frota de ônibus era de 10 anos em 2021. Dados consolidados pela Base Nacional de Tarifas e Integrações de VT da Otimiza.pro.
 
-Fonte oficial: https://www.saocarlos.sp.gov.br/index.php/noticias-2026/181104-prefeitura-aciona-a-justica-para-assegurar-a-circulacao-do-transporte-coletivo-durante-paralisacao.html
+Fonte (página oficial): https://www.saocarlos.sp.gov.br/index.php/noticias-2026/181104-prefeitura-aciona-a-justica-para-assegurar-a-circulacao-do-transporte-coletivo-durante-paralisacao.html
 
 Tarifa zero em São Carlos: Tarifa Zero aos sábados, domingos e feriados em todo o sistema; ampliada em 2026 com linhas para Babilônia e Novo Horizonte
 
@@ -2046,7 +2194,7 @@ Em São José do Rio Preto (SP), a passagem de ônibus custa de R$ 5,00 a R$ 5,5
 
 Em São José do Rio Preto (SP), a idade média da frota de ônibus era de 6 anos em 2021. Dados consolidados pela Base Nacional de Tarifas e Integrações de VT da Otimiza.pro.
 
-Fonte oficial: https://www.riopreto.sp.gov.br/noticias/prefeitura-mantem-tarifa-do-transporte-publico-pelo-2-ano-consecutivo
+Fonte (página oficial): https://www.riopreto.sp.gov.br/noticias/prefeitura-mantem-tarifa-do-transporte-publico-pelo-2-ano-consecutivo
 
 Vale-transporte em São José do Rio Preto: cartão Cartão Vale Transporte (RioPretrans); emitido por Consórcio RioPretrans; canal de compra da empresa: Venda online no site da RioPretrans, após cadastro do empregador (pessoa física ou jurídica); o consórcio emite nota fiscal.
 
@@ -2060,7 +2208,7 @@ Em São José dos Campos (SP), a passagem de ônibus custa de R$ 5,25 a R$ 6,50 
 
 Em 2021, o sistema de ônibus de São José dos Campos (SP) levou 90 milhões de passageiros, segundo dados declarados pelo município à Pesquisa Nacional de Mobilidade Urbana (PEMOB), do governo federal. A idade média da frota de ônibus era de 7,5 anos em 2021. Dados consolidados pela Base Nacional de Tarifas e Integrações de VT da Otimiza.pro.
 
-Fonte oficial: https://www.sjc.sp.gov.br/noticias/2026/janeiro/19/prefeitura-atualiza-as-tarifas-do-servico-do-transporte-publico/
+Fonte (página oficial): https://www.sjc.sp.gov.br/noticias/2026/janeiro/19/prefeitura-atualiza-as-tarifas-do-servico-do-transporte-publico/
 
 Vale-transporte em São José dos Campos: cartão Cartão Eletrônico Vale-Transporte (Bilhete Único); emitido por Consórcio 123 (segundo página da Prefeitura de 2019).
 
@@ -2072,7 +2220,7 @@ Em São Paulo (SP), a passagem de ônibus custa R$ 5,30 desde 06/01/2026, confor
 
 Em São Paulo (SP), o GTFS oficial da SPTrans vigente em 17/10/2026 lista 1.349 linhas de ônibus, 8 de metrô e 7 de trem. Em 2020, o sistema de ônibus levou 1,6 bilhão de passageiros, segundo dados declarados pelo município à Pesquisa Nacional de Mobilidade Urbana (PEMOB), do governo federal. A idade média da frota de ônibus era de 4,9 anos em 2020. Dados consolidados pela Base Nacional de Tarifas e Integrações de VT da Otimiza.pro.
 
-Fonte oficial: https://www.sptrans.com.br/tarifas/
+Fonte (operadora): https://www.sptrans.com.br/tarifas/
 
 Vale-transporte em São Paulo: a empresa compra em 2 sistemas, Bilhete Único (SPTrans) e TOP Transporte (Autopass).
 
@@ -2088,7 +2236,7 @@ Tarifa zero em São Paulo: ônibus municipal grátis aos domingos e em 25/12, 01
 
 Em São Sebastião (SP), a passagem de ônibus custa R$ 2,95 desde 15/06/2025, conforme Decreto nº 9.748/2025; valor conferido em 18/10/2026 pela Base Nacional de Tarifas e Integrações de VT da Otimiza.pro.
 
-Fonte oficial: https://soutransportes.com.br/wp-content/uploads/2026/08/Decreto-9748-2025-Aumento-Tarifa-2015.pdf
+Fonte (ato oficial reproduzido): https://soutransportes.com.br/wp-content/uploads/2026/08/Decreto-9748-2025-Aumento-Tarifa-2015.pdf
 
 Vale-transporte em São Sebastião: cartão cartão SOU (vale-transporte); emitido por SOU Transportes (Sancetur, Santa Cecília Turismo Ltda., concessionária); canal de compra da empresa: Sales Portal de compra de VT (https://salesportal.ssbsc.prodatamobility.com.br/login//): a empresa se cadastra e recebe usuário e senha por e-mail, cadastra ou importa os funcionários, faz pedidos por dias úteis, pelo pedido anterior ou por cartão e emite boleto; os cartões são retirados com formulário de autorização da empresa.
 
@@ -2100,7 +2248,7 @@ Em São Vicente (SP), a passagem de ônibus custa R$ 4,95 desde 01/2025, segundo
 
 Em 2021, o sistema de ônibus de São Vicente (SP) levou 2,5 milhões de passageiros, segundo dados declarados pelo município à Pesquisa Nacional de Mobilidade Urbana (PEMOB), do governo federal. A idade média da frota de ônibus era de 15 anos em 2021. Dados consolidados pela Base Nacional de Tarifas e Integrações de VT da Otimiza.pro.
 
-Fonte oficial: https://www.saovicente.sp.gov.br/institucional/perguntas-e-respostas-sobre-a-integracao-do-vlt
+Fonte (página oficial): https://www.saovicente.sp.gov.br/institucional/perguntas-e-respostas-sobre-a-integracao-do-vlt
 
 Integração em São Vicente: Integração entre ônibus municipal (amarelinho) e VLT, nos dois sentidos, só com BR Card comum ou vale-transporte; o cartão SOU não integra; não vale com ônibus intermunicipal; tempo conta a partir da validação
 
@@ -2108,7 +2256,7 @@ Integração em São Vicente: Integração entre ônibus municipal (amarelinho) 
 
 Em Sertãozinho (SP), a passagem de ônibus custa R$ 6,50 desde 17/08/2026, conforme Decreto nº 8.649/2026; valor conferido em 18/10/2026 pela Base Nacional de Tarifas e Integrações de VT da Otimiza.pro.
 
-Fonte oficial: https://www.dosp.com.br/exibe_do.php?i=ODYxOTIw
+Fonte (página oficial): https://www.dosp.com.br/exibe_do.php?i=ODYxOTIw
 
 Vale-transporte em Sertãozinho: emitido por Viação Sertanezina Ltda. (concessionária); canal de compra da empresa: Portal TDMax Web Commerce Sertãozinho (https://max00396.itstransdata.com/TDMaxwebcommerce/), com login e cadastro do comprador, indicado no link 'Vale Transporte' do site da Viação Sertanezina.
 
@@ -2120,7 +2268,7 @@ Em Sorocaba (SP), a passagem de ônibus custa R$ 5,30 desde 30/01/2026, conforme
 
 Em 2021, o sistema de ônibus de Sorocaba (SP) levou 36 milhões de passageiros, segundo dados declarados pelo município à Pesquisa Nacional de Mobilidade Urbana (PEMOB), do governo federal. A idade média da frota de ônibus era de 4 anos em 2021. Dados consolidados pela Base Nacional de Tarifas e Integrações de VT da Otimiza.pro.
 
-Fonte oficial: https://www.urbes.com.br/consultar-tarifas
+Fonte (página oficial): https://www.urbes.com.br/consultar-tarifas
 
 Vale-transporte em Sorocaba: cartão Cartão Vale-Transporte (URBES); emitido por URBES; canal de compra da empresa: Sistema VT da URBES (urbes.com.br/valetransporte); atendimento VT (15) 3191-1448.
 
@@ -2132,7 +2280,7 @@ Em Sumaré (SP), a passagem de ônibus custa de R$ 4,95 a R$ 6,70 (varia com o c
 
 Em 2018, o sistema de ônibus de Sumaré (SP) levou 4,7 milhões de passageiros, segundo dados declarados pelo município à Pesquisa Nacional de Mobilidade Urbana (PEMOB), do governo federal. A idade média da frota de ônibus era de 9,8 anos em 2018. Dados consolidados pela Base Nacional de Tarifas e Integrações de VT da Otimiza.pro.
 
-Fonte oficial: https://www.artesp.sp.gov.br/dx/api/dam/v1/collections/b8655228-02b7-413b-b158-747ca48f5f52/items/4b4b0932-7f96-43e4-a5e2-e340527355ee/renditions/42a9f554-d7b7-4a77-83fc-f8c9964b9314?binary=true
+Fonte (página oficial): https://www.artesp.sp.gov.br/dx/api/dam/v1/collections/b8655228-02b7-413b-b158-747ca48f5f52/items/4b4b0932-7f96-43e4-a5e2-e340527355ee/renditions/42a9f554-d7b7-4a77-83fc-f8c9964b9314?binary=true
 
 Vale-transporte em Sumaré: a empresa compra em 2 sistemas, MoV Sumaré Vale-Transporte e BUS+ (linhas metropolitanas da EMTU na Região Metropolitana de Campinas).
 
@@ -2146,7 +2294,7 @@ Em Suzano (SP), a passagem de ônibus custa R$ 6,30 desde 18/01/2026, conforme D
 
 Em Suzano (SP), a idade média da frota de ônibus era de 7 anos em 2018. Dados consolidados pela Base Nacional de Tarifas e Integrações de VT da Otimiza.pro.
 
-Fonte oficial: https://suzano.sp.gov.br/wp-content/uploads/2026/01/Edicao-EXTRA-011.1-16.01.2026.pdf
+Fonte (página oficial): https://suzano.sp.gov.br/wp-content/uploads/2026/01/Edicao-EXTRA-011.1-16.01.2026.pdf
 
 Vale-transporte em Suzano: a empresa compra em 2 sistemas, ONpag VT (linhas municipais de Suzano) e TOP Vale-Transporte (ônibus metropolitanos e trilhos da Grande São Paulo).
 
@@ -2156,21 +2304,29 @@ TOP Vale-Transporte (ônibus metropolitanos e trilhos da Grande São Paulo): cob
 
 Integração em Suzano: O cartão ONpag Comum permite integrações dentro de 60 minutos, de acordo com as normas do município; as regras completas não estão publicadas nas páginas da Radial e da Onpag (consultadas em 2026-10-18)
 
+### Taboão da Serra (SP)
+
+Em Taboão da Serra (SP), a passagem de ônibus custa R$ 5,80 desde 28/12/2024, segundo a imprensa (Diário do Transporte, 06/01/2026 e 27/12/2024); valor conferido em 17/10/2026 pela Base Nacional de Tarifas e Integrações de VT da Otimiza.pro.
+
+Em 2018, o sistema de ônibus de Taboão da Serra (SP) levou 15 milhões de passageiros, segundo dados declarados pelo município à Pesquisa Nacional de Mobilidade Urbana (PEMOB), do governo federal. A idade média da frota de ônibus era de 6,8 anos em 2021. Dados consolidados pela Base Nacional de Tarifas e Integrações de VT da Otimiza.pro.
+
+Fonte (imprensa): https://diariodotransporte.com.br/2026/01/06/taboao-da-serra-sp-mantem-tarifa-de-onibus-em-r-580-para-inicio-de-2026/
+
 ### Tatuí (SP)
 
 Em Tatuí (SP), a passagem de ônibus custa de R$ 3,50 a R$ 3,70 (varia com o cartão ou o meio de pagamento), segundo a publicação oficial (Prefeitura de Tatuí, página Valores de Passagens e Cartões de Embarque, atualizada em 12/02/2026); valor conferido em 18/10/2026 pela Base Nacional de Tarifas e Integrações de VT da Otimiza.pro.
 
-Fonte oficial: https://portal.tatui.sp.gov.br/cidadao/transporte-publico/valores-de-passagens-e-cartoes
+Fonte (página oficial): https://portal.tatui.sp.gov.br/cidadao/transporte-publico/valores-de-passagens-e-cartoes
 
 Integração em Tatuí: Com o Cartão Popular, as integrações entre linhas municipais são livres, sem nova tarifa, em até 60 minutos, em sentido único de deslocamento (sem caracterizar retorno), controladas pelo cartão do usuário; quem paga em dinheiro não tem integração
 
 ### Taubaté (SP)
 
-Em Taubaté (SP), a passagem de ônibus custa R$ 4,70 desde 03/2022, segundo a operadora pública (ABC Transportes, operadora, página de tarifas); valor conferido em 17/10/2026 pela Base Nacional de Tarifas e Integrações de VT da Otimiza.pro.
+Em Taubaté (SP), a passagem de ônibus custa de R$ 4,50 a R$ 4,70 (varia com o cartão ou o meio de pagamento) desde 03/2022, segundo a operadora pública (ABC Transportes, operadora, página de tarifas); valor conferido em 17/10/2026 pela Base Nacional de Tarifas e Integrações de VT da Otimiza.pro.
 
 Em 2021, o sistema de ônibus de Taubaté (SP) levou 3,4 milhões de passageiros, segundo dados declarados pelo município à Pesquisa Nacional de Mobilidade Urbana (PEMOB), do governo federal. A idade média da frota de ônibus era de 4 anos em 2021. Dados consolidados pela Base Nacional de Tarifas e Integrações de VT da Otimiza.pro.
 
-Fonte oficial: https://www.abctransportes.com.br/tarifa/
+Fonte (operadora): https://www.abctransportes.com.br/tarifa/
 
 Vale-transporte em Taubaté: cartão Cartão Rápido Cidadão 2.0 Vale Transporte; emitido por Cartão Rápido (bilhetagem da ABC Transportes); canal de compra da empresa: Portal de Vendas do Cartão Rápido; a empresa compra os créditos e a recarga ocorre a bordo, no validador.
 
@@ -2180,7 +2336,7 @@ Integração em Taubaté: Com o Cartão Rápido, integração temporal de até 7
 
 Em Valinhos (SP), a passagem de ônibus custa de R$ 3,70 a R$ 6,50 (varia com o tipo de linha) desde 06/01/2026, segundo a publicação oficial (ARTESP, Relatório Tarifário RMC, vigência 06/01/2026, atualizado em 30/12/2025); valor conferido em 18/10/2026 pela Base Nacional de Tarifas e Integrações de VT da Otimiza.pro.
 
-Fonte oficial: https://www.artesp.sp.gov.br/dx/api/dam/v1/collections/b8655228-02b7-413b-b158-747ca48f5f52/items/4b4b0932-7f96-43e4-a5e2-e340527355ee/renditions/42a9f554-d7b7-4a77-83fc-f8c9964b9314?binary=true
+Fonte (página oficial): https://www.artesp.sp.gov.br/dx/api/dam/v1/collections/b8655228-02b7-413b-b158-747ca48f5f52/items/4b4b0932-7f96-43e4-a5e2-e340527355ee/renditions/42a9f554-d7b7-4a77-83fc-f8c9964b9314?binary=true
 
 Vale-transporte em Valinhos: a empresa compra em 2 sistemas, SOU Valinhos Vale-Transporte e BUS+ (linhas metropolitanas da EMTU na Região Metropolitana de Campinas).
 
@@ -2196,7 +2352,7 @@ Tarifa zero em Valinhos: Tarifa zero em todos os domingos e feriados oficiais (n
 
 Em Vinhedo (SP), a passagem de ônibus custa R$ 6,50 desde 06/01/2026, segundo a publicação oficial (ARTESP, Relatório Tarifário RMC, vigência 06/01/2026, atualizado em 30/12/2025); valor conferido em 18/10/2026 pela Base Nacional de Tarifas e Integrações de VT da Otimiza.pro.
 
-Fonte oficial: https://www.artesp.sp.gov.br/dx/api/dam/v1/collections/b8655228-02b7-413b-b158-747ca48f5f52/items/4b4b0932-7f96-43e4-a5e2-e340527355ee/renditions/42a9f554-d7b7-4a77-83fc-f8c9964b9314?binary=true
+Fonte (página oficial): https://www.artesp.sp.gov.br/dx/api/dam/v1/collections/b8655228-02b7-413b-b158-747ca48f5f52/items/4b4b0932-7f96-43e4-a5e2-e340527355ee/renditions/42a9f554-d7b7-4a77-83fc-f8c9964b9314?binary=true
 
 Vale-transporte em Vinhedo: a empresa compra em 2 sistemas, MoV Vinhedo Vale-Transporte e BUS+ (linhas metropolitanas da EMTU na Região Metropolitana de Campinas).
 
@@ -2212,7 +2368,7 @@ Integração em Vinhedo: Bilhete Único: integração de duas ou mais linhas em 
 
 Em Araguaína (TO), a passagem de ônibus custa R$ 4,00 desde 10/03/2019, segundo a operadora (Araguaína Transportes S.A., página 'Valor da tarifa'); valor conferido em 17/10/2026 pela Base Nacional de Tarifas e Integrações de VT da Otimiza.pro. Quem usa vale-transporte paga R$ 3,75.
 
-Fonte oficial: https://www.araguainatransportes.com.br/valor-da-tarifa
+Fonte (operadora): https://www.araguainatransportes.com.br/valor-da-tarifa
 
 Vale-transporte em Araguaína: cartão Cartão BEM (Bilhete Eletrônico Municipal); emitido por Araguaína Transportes S.A.; canal de compra da empresa: Sistema web da operadora (SBE), com link na página 'Valor da tarifa' (endereço http por IP, sem criptografia).
 
@@ -2224,7 +2380,7 @@ Em Palmas (TO), a passagem de ônibus custa R$ 4,85 desde 12/05/2025, conforme D
 
 Em 2018, o sistema de ônibus de Palmas (TO) levou 28 milhões de passageiros, segundo dados declarados pelo município à Pesquisa Nacional de Mobilidade Urbana (PEMOB), do governo federal. A idade média da frota de ônibus era de 5,9 anos em 2018. Dados consolidados pela Base Nacional de Tarifas e Integrações de VT da Otimiza.pro.
 
-Fonte oficial: https://legislativo.palmas.to.gov.br/media/leis/decreto-2.693-2025-04-30-2-5-2025-14-30-23.pdf
+Fonte (página oficial): https://legislativo.palmas.to.gov.br/media/leis/decreto-2.693-2025-04-30-2-5-2025-14-30-23.pdf
 
 Vale-transporte em Palmas: cartão Cartão VT Sou; emitido por Sancetur (Sou Palmas); canal de compra da empresa: salesportal.palmas.prodatamobility.com.br; validade dos créditos: na mudança de tarifa: 45 dias para usar ou 30 para trocar (Decreto 2.698/2025, art. 13).
 

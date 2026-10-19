@@ -25,4 +25,4 @@ Quem compartilha ou adapta este material precisa citar a Otimiza.pro, indicar a 
 
 > Fonte: Otimiza.pro, Base Nacional de Tarifas e Integrações de Operadoras do Transporte Público e Vale-Transporte, versão AAAA.MM.DD. https://github.com/OtimizaPro/tarifas_integracoestarifarias_transportepublico_brasileiro
 
-Cada valor traz também a fonte oficial de origem (coluna `fonte_url`). Recomendamos citar as duas.
+Cada valor traz também a fonte de origem (coluna `fonte_url`). Recomendamos citar as duas.
