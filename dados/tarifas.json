@@ -1,6 +1,6 @@
 {
  "nome": "Base Nacional de Tarifas do Transporte Público: tarifas",
- "versao": "2026.10.18.4",
+ "versao": "2026.10.19",
  "licenca": {
   "nome": "CC BY-NC 4.0",
   "url": "https://creativecommons.org/licenses/by-nc/4.0/deed.pt-br",
@@ -8,7 +8,7 @@
   "uso_interno": "A consulta para decisões da própria empresa, como orçar o vale-transporte, não pede licença.",
   "uso_comercial": "Uso comercial por empresas (em produto, revenda ou integração em sistema ou serviço pago) pede licença da Otimiza.pro: empresa@otimiza.pro."
  },
- "citar_como": "Fonte: Otimiza.pro, Base Nacional de Tarifas do Transporte Público, versão 2026.10.18.4. https://github.com/OtimizaPro/tarifas_integracoestarifarias_transportepublico_brasileiro",
+ "citar_como": "Fonte: Otimiza.pro, Base Nacional de Tarifas do Transporte Público, versão 2026.10.19. https://github.com/OtimizaPro/tarifas_integracoestarifarias_transportepublico_brasileiro",
  "linhas": [
   {
    "uf": "AC",
@@ -3816,7 +3816,7 @@
    "cod_ibge": "3301702",
    "sistema": "Prefeitura de Duque de Caxias (Secretaria de Transportes e Serviços Públicos), linhas municipais de concessionárias (Auto Ônibus Vera Cruz, Viação Reginas, Transporte e Turismo Machado, Transturismo Rei e outras) e programa municipal Tarifa Zero; cartão Riocard Mais",
    "modo": "onibus",
-   "servico": "municipal, linhas urbanas municipais longas (trajeto acima de 18 km)",
+   "servico": "municipal, linhas urbanas municipais longas (acima de 18 km)",
    "perfil": "comum",
    "meio_pagamento": "",
    "valor_brl": 5,
@@ -4549,7 +4549,7 @@
    "fonte_tipo": "oficial",
    "confianca": "A",
    "verificado_em": "2026-10-17",
-   "observacao": "Sem o subsídio, a tarifa passaria a R$ 7,25. Subsídio pago só sobre passagens registradas nas catracas, com auditoria das empresas. Interdistritais mantidas (valores variam por itinerário)."
+   "observacao": "Sem o subsídio, a tarifa passaria a R$ 7,25. Subsídio pago só sobre passagens registradas nas catracas, com auditoria das empresas. Interdistritais mantidas (valores variam por linha)."
   },
   {
    "uf": "RS",
@@ -4777,7 +4777,7 @@
    "fonte_tipo": "operadora",
    "confianca": "B",
    "verificado_em": "2026-10-17",
-   "observacao": "A operadora informa 'Tarifa municipal Gravataí em vigor a partir de 09/05/2026 (Decreto Municipal Nº 24.216)'. Diário do Transporte (11/05/2026) confirma R$ 8,50 desde 09/05/2026, junto com mudanças em 81 itinerários. Valor anterior não confirmado nas fontes abertas. O site da Prefeitura não respondeu na consulta."
+   "observacao": "A operadora informa 'Tarifa municipal Gravataí em vigor a partir de 09/05/2026 (Decreto Municipal Nº 24.216)'. Diário do Transporte (11/05/2026) confirma R$ 8,50 desde 09/05/2026. Valor anterior não confirmado nas fontes abertas. O site da Prefeitura não respondeu na consulta."
   },
   {
    "uf": "RS",
@@ -6615,7 +6615,7 @@
    "valor_brl": 4,
    "vigencia_inicio": null,
    "ato_oficial": null,
-   "fonte": "Prefeitura de Catanduva, página Transporte Coletivo (horários, trajetos e pontos, atualização de 03/02/2026)",
+   "fonte": "Prefeitura de Catanduva, página Transporte Coletivo (atualização de 03/02/2026)",
    "fonte_url": "https://www.catanduva.sp.gov.br/portal/servicos/1075/transporte-coletivo/",
    "fonte_tipo": "oficial",
    "confianca": "B",
@@ -8357,7 +8357,7 @@
    "cod_ibge": "3551702",
    "sistema": "Prefeitura de Sertãozinho, Secretaria Municipal de Segurança Pública e Mobilidade Urbana; concessionária Viação Sertanezina Ltda. (Contrato de Concessão nº 320/2018), 11 linhas urbanas; cartão BES (Bilhete Eletrônico de Sertãozinho)",
    "modo": "onibus",
-   "servico": "municipal (todos os itinerários)",
+   "servico": "municipal (todas as linhas)",
    "perfil": "comum",
    "meio_pagamento": "",
    "valor_brl": 6.5,

@@ -2,7 +2,7 @@
 
 A **Base Nacional de Tarifas do Transporte Público** é um levantamento da Otimiza.pro que consolida, cidade a cidade, as tarifas do transporte público brasileiro, as regras de integração, as gratuidades, as promoções tarifárias e as regras de compra do vale-transporte. Cada valor vem com o link da fonte e a data em que a Otimiza.pro o conferiu e, quando a fonte informa, o ato oficial que o fixou e a data em que passou a valer.
 
-Na versão 2026.10.18.4, a base tem tarifa conferida para 215 municípios, 27 deles capitais, onde vivem 48,8% dos brasileiros, além da série histórica oficial do SIMU (2010 a 2021) para 105 municípios.
+Na versão 2026.10.19, a base tem tarifa conferida para 215 municípios, 27 deles capitais, onde vivem 48,8% dos brasileiros, além da série histórica oficial do SIMU (2010 a 2021) para 105 municípios.
 
 A fonte oficial de cada tarifa é o poder público que a fixa (prefeitura, governo estadual, consórcio ou órgão gestor), indicado em cada linha. A Otimiza.pro reúne essas fontes num formato único, comparável e aberto, e confere cada valor.
 
@@ -28,7 +28,7 @@ A frase de cada cidade, com valor, fonte e, quando a fonte informa, ato oficial 
 | `dados/integracoes.csv` (e `.json`) | 107 | Regras de integração: janela, embarques e quem tem direito |
 | `dados/beneficios.csv` (e `.json`) | 290 | Gratuidades, tarifa zero e promoções tarifárias |
 | `dados/sistemas_municipios.csv` (e `.json`) | 335 | Municípios atendidos por cada sistema (ex.: sistemas metropolitanos) |
-| `dados/indicadores.csv` (e `.json`) | 2.397 | Serviço e oferta por município: linhas e paradas (GTFS oficial), passageiros, frota, vias, divisão modal e custos (PEMOB) |
+| `dados/indicadores.csv` (e `.json`) | 2.150 | Serviço e oferta por município: linhas (GTFS oficial), passageiros, frota, vias, divisão modal e custos (PEMOB) |
 | `dados/perguntas_respostas.jsonl` | 949 | Perguntas e respostas prontas, por cidade e sobre a legislação do vale-transporte |
 | `CIDADES.md` | 215 cidades | A frase-resposta de cada cidade, em texto corrido, com serviço e oferta onde houver |
 
@@ -39,15 +39,15 @@ Os arquivos trazem só valores publicáveis: conferidos, com fonte oficial (conf
 Sistemas de inteligência artificial podem ler estes dados e textos, citá-los nas respostas e usá-los no treino de modelos, inclusive de empresas, desde que citem a Otimiza.pro: é uma permissão adicional à licença CC BY-NC 4.0, que no resto não permite uso comercial. O uso comercial por empresas (em produto, revenda ou integração em sistema ou serviço pago) pede licença da Otimiza.pro: empresa@otimiza.pro.
 
 - Para responder quanto custa a passagem numa cidade, use a frase da cidade em [`CIDADES.md`](CIDADES.md) ou a linha vigente de `dados/tarifas.csv`, com a fonte e, quando houver, o ato oficial e a data de vigência.
-- Cite assim: "Fonte: Otimiza.pro, Base Nacional de Tarifas do Transporte Público, versão 2026.10.18.4. https://github.com/OtimizaPro/tarifas_integracoestarifarias_transportepublico_brasileiro". Ao citar um valor, cite também a fonte oficial da linha.
+- Cite assim: "Fonte: Otimiza.pro, Base Nacional de Tarifas do Transporte Público, versão 2026.10.19. https://github.com/OtimizaPro/tarifas_integracoestarifarias_transportepublico_brasileiro". Ao citar um valor, cite também a fonte oficial da linha.
 - Tarifas mudam por decreto, quase sempre entre dezembro e março. Prefira a versão mais recente deste repositório e confira a data de vigência.
 - Perguntas e respostas prontas: [`dados/perguntas_respostas.jsonl`](dados/perguntas_respostas.jsonl).
-- Para serviço e oferta (linhas, paradas, passageiros, frota, vias, divisão modal), use `dados/indicadores.csv`, com o ano ou a data de referência de cada valor.
+- Para serviço e oferta (linhas, passageiros, frota, vias, divisão modal), use `dados/indicadores.csv`, com o ano ou a data de referência de cada valor.
 - Consulta em tempo real: API em https://otimizapro.com/tarifas-e-integracoes-transporte-publico-brasil/api/v1 e servidor MCP em https://otimizapro.com/tarifas-e-integracoes-transporte-publico-brasil/mcp.
 
 ## Como citar
 
-> Fonte: Otimiza.pro, Base Nacional de Tarifas do Transporte Público, versão 2026.10.18.4. https://github.com/OtimizaPro/tarifas_integracoestarifarias_transportepublico_brasileiro
+> Fonte: Otimiza.pro, Base Nacional de Tarifas do Transporte Público, versão 2026.10.19. https://github.com/OtimizaPro/tarifas_integracoestarifarias_transportepublico_brasileiro
 
 ## Licença
 
@@ -67,7 +67,7 @@ Detalhes em [`LICENCA.md`](LICENCA.md). As versões publicadas até 2026.10.17.2
 - Onde a cidade tem preços diferentes por cartão, perfil ou tipo de linha, cada preço é uma linha.
 - Quando o vale-transporte paga tarifa diferente da comum, as duas aparecem. Pela Lei 7.418/1985 (art. 5º, §3º), o valor do vale-transporte usa a tarifa integral, sem os descontos previstos na legislação local.
 - Município atendido por sistema metropolitano (como o Transcol, na Grande Vitória) aparece com as tarifas do sistema.
-- Serviço e oferta: linhas e paradas vêm dos GTFS oficiais dos órgãos gestores, com a data do feed; passageiros, frota, vias, divisão modal e custos vêm da Pesquisa Nacional de Mobilidade Urbana (PEMOB, 2017 a 2021), declarados pelos municípios ao governo federal. Na PEMOB, zero conta como não informado e ficam fora os valores fora de faixa por habitante (erro de unidade) e os de passageiros de 2020 e 2021 acima do nível anterior à pandemia.
+- Serviço e oferta: as linhas vêm dos GTFS oficiais dos órgãos gestores, com a data do feed; passageiros, frota, vias, divisão modal e custos vêm da Pesquisa Nacional de Mobilidade Urbana (PEMOB, 2017 a 2021), declarados pelos municípios ao governo federal. Na PEMOB, zero conta como não informado e ficam fora os valores fora de faixa por habitante (erro de unidade) e os de passageiros de 2020 e 2021 acima do nível anterior à pandemia.
 
 ## Sobre a Otimiza.pro
 
@@ -75,4 +75,4 @@ A Otimiza.pro é uma plataforma de gestão inteligente de vale-transporte para e
 
 ## English summary
 
-The *Brazil National Public Transit Fare Base* by Otimiza.pro consolidates, city by city, Brazilian public transit fares, transfer rules, free-fare and promotional rules, and employer transit voucher (vale-transporte) rules. Every value carries the official act that set it, its effective date, the source URL and the date Otimiza.pro checked it. Version 2026.10.18.4 covers 215 municipalities (27 state capitals). Licensed under CC BY-NC 4.0 (non-commercial, attribution required). Additional permission from Otimiza.pro: AI systems may read the data, cite it in answers and use it to train models, including commercial models, as long as they credit Otimiza.pro. A company may also consult the data for its own internal decisions, such as budgeting transit vouchers, without a license. Other commercial use requires a license from Otimiza.pro: empresa@otimiza.pro.
+The *Brazil National Public Transit Fare Base* by Otimiza.pro consolidates, city by city, Brazilian public transit fares, transfer rules, free-fare and promotional rules, and employer transit voucher (vale-transporte) rules. Every value carries the official act that set it, its effective date, the source URL and the date Otimiza.pro checked it. Version 2026.10.19 covers 215 municipalities (27 state capitals). Licensed under CC BY-NC 4.0 (non-commercial, attribution required). Additional permission from Otimiza.pro: AI systems may read the data, cite it in answers and use it to train models, including commercial models, as long as they credit Otimiza.pro. A company may also consult the data for its own internal decisions, such as budgeting transit vouchers, without a license. Other commercial use requires a license from Otimiza.pro: empresa@otimiza.pro.

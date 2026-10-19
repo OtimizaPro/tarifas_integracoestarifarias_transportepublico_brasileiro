@@ -1,6 +1,6 @@
 {
  "nome": "Base Nacional de Tarifas do Transporte Público: vale_transporte",
- "versao": "2026.10.18.4",
+ "versao": "2026.10.19",
  "licenca": {
   "nome": "CC BY-NC 4.0",
   "url": "https://creativecommons.org/licenses/by-nc/4.0/deed.pt-br",
@@ -8,7 +8,7 @@
   "uso_interno": "A consulta para decisões da própria empresa, como orçar o vale-transporte, não pede licença.",
   "uso_comercial": "Uso comercial por empresas (em produto, revenda ou integração em sistema ou serviço pago) pede licença da Otimiza.pro: empresa@otimiza.pro."
  },
- "citar_como": "Fonte: Otimiza.pro, Base Nacional de Tarifas do Transporte Público, versão 2026.10.18.4. https://github.com/OtimizaPro/tarifas_integracoestarifarias_transportepublico_brasileiro",
+ "citar_como": "Fonte: Otimiza.pro, Base Nacional de Tarifas do Transporte Público, versão 2026.10.19. https://github.com/OtimizaPro/tarifas_integracoestarifarias_transportepublico_brasileiro",
  "linhas": [
   {
    "uf": "AC",
@@ -2855,7 +2855,7 @@
    "tem_taxa_na_compra": "sim",
    "taxa_na_compra": "online: taxa de conveniência de 3% sobre o valor, mínimo de R$ 3,90; presencial: sem custo",
    "validade_credito": null,
-   "limites": "Até 6 usos por dia; reapresentação na mesma catraca, no mesmo ônibus e na mesma linha após 30 minutos; uso só no trajeto residência-trabalho. Na opção presencial, retirar o cartão, comprar créditos e recarregar 'não possuem nenhum custo', segundo a página. Em Itatiba, o relatório da ARTESP lista as seletivas 614 (Itatiba a Campinas, com seções até Valinhos) e 615 (Itatiba a Campinas via Valinhos) e a linha comum 758 (Itatiba a Morungaba). A tarifa varia por linha (Relatório Tarifário RMC da ARTESP, vigência 06/01/2026).",
+   "limites": "Até 6 usos por dia; reapresentação na mesma catraca, no mesmo ônibus e na mesma linha após 30 minutos; uso só no deslocamento entre a residência e o trabalho. Na opção presencial, retirar o cartão, comprar créditos e recarregar 'não possuem nenhum custo', segundo a página. Em Itatiba, o relatório da ARTESP lista as seletivas 614 (Itatiba a Campinas, com seções até Valinhos) e 615 (Itatiba a Campinas via Valinhos) e a linha comum 758 (Itatiba a Morungaba). A tarifa varia por linha (Relatório Tarifário RMC da ARTESP, vigência 06/01/2026).",
    "fonte_url": "https://busmais.com.br/cartoes/vale-transporte/",
    "confianca": "B",
    "verificado_em": "2026-10-18"
@@ -3455,7 +3455,7 @@
    "tem_taxa_na_compra": null,
    "taxa_na_compra": null,
    "validade_credito": null,
-   "limites": "O Decreto nº 8.649/2026 fixa uma só tarifa para todos os itinerários, sem distinção para o VT. O site da operadora não informa taxa, prazo nem custo do cartão.",
+   "limites": "O Decreto nº 8.649/2026 fixa uma só tarifa para todas as linhas, sem distinção para o VT. O site da operadora não informa taxa, prazo nem custo do cartão.",
    "fonte_url": "https://www.sertanezina.com.br/linha-urbana",
    "confianca": "B",
    "verificado_em": "2026-10-18"
@@ -3830,7 +3830,7 @@
    "tem_taxa_na_compra": "sim",
    "taxa_na_compra": "online: taxa de conveniência de 3% sobre o valor, mínimo de R$ 3,90; presencial: sem custo",
    "validade_credito": null,
-   "limites": "Até 6 usos por dia; reapresentação na mesma catraca, no mesmo ônibus e na mesma linha após 30 minutos; uso só no trajeto residência-trabalho. Na opção presencial, retirar o cartão, comprar créditos e recarregar 'não possuem nenhum custo', segundo a página. Em Valinhos há linhas comuns para Campinas (674 a 683) e Vinhedo (685), com seções de integração com as linhas municipais de Valinhos a R$ 6,50. A tarifa varia por linha (Relatório Tarifário RMC da ARTESP, vigência 06/01/2026).",
+   "limites": "Até 6 usos por dia; reapresentação na mesma catraca, no mesmo ônibus e na mesma linha após 30 minutos; uso só no deslocamento entre a residência e o trabalho. Na opção presencial, retirar o cartão, comprar créditos e recarregar 'não possuem nenhum custo', segundo a página. Em Valinhos há linhas comuns para Campinas (674 a 683) e Vinhedo (685), com seções de integração com as linhas municipais de Valinhos a R$ 6,50. A tarifa varia por linha (Relatório Tarifário RMC da ARTESP, vigência 06/01/2026).",
    "fonte_url": "https://busmais.com.br/cartoes/vale-transporte/",
    "confianca": "B",
    "verificado_em": "2026-10-18"

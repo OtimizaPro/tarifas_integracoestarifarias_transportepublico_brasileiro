@@ -1,7 +1,7 @@
 {
   "name": "tarifas-transporte-publico-brasil",
   "title": "Base Nacional de Tarifas do Transporte Público",
-  "version": "2026.10.18.4",
+  "version": "2026.10.19",
   "homepage": "https://github.com/OtimizaPro/tarifas_integracoestarifarias_transportepublico_brasileiro",
   "licenses": [
     {
@@ -405,7 +405,7 @@
       "path": "dados/indicadores.csv",
       "format": "csv",
       "encoding": "utf-8",
-      "description": "Serviço e oferta por município: linhas e paradas (GTFS oficial), passageiros, frota, vias, divisão modal e custos (PEMOB)",
+      "description": "Serviço e oferta por município: linhas (GTFS oficial), passageiros, frota, vias, divisão modal e custos (PEMOB)",
       "schema": {
         "fields": [
           {

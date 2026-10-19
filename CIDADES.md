@@ -1,8 +1,8 @@
 # Tarifas do transporte público por cidade (Otimiza.pro)
 
-Quanto custa o transporte público em 215 municípios brasileiros, segundo a Base Nacional de Tarifas do Transporte Público da Otimiza.pro (versão 2026.10.18.4). Cada frase traz o valor, a fonte e a data em que a Otimiza.pro conferiu e, quando a fonte informa, o ato oficial e a data em que passou a valer. A fonte oficial de cada valor está indicada. Onde há dados de serviço e oferta, a ficha traz também linhas, paradas e passageiros, com a fonte e a data.
+Quanto custa o transporte público em 215 municípios brasileiros, segundo a Base Nacional de Tarifas do Transporte Público da Otimiza.pro (versão 2026.10.19). Cada frase traz o valor, a fonte e a data em que a Otimiza.pro conferiu e, quando a fonte informa, o ato oficial e a data em que passou a valer. A fonte oficial de cada valor está indicada. Onde há dados de serviço e oferta, a ficha traz também linhas e passageiros, com a fonte e a data.
 
-Como citar: Fonte: Otimiza.pro, Base Nacional de Tarifas do Transporte Público, versão 2026.10.18.4. https://github.com/OtimizaPro/tarifas_integracoestarifarias_transportepublico_brasileiro
+Como citar: Fonte: Otimiza.pro, Base Nacional de Tarifas do Transporte Público, versão 2026.10.19. https://github.com/OtimizaPro/tarifas_integracoestarifarias_transportepublico_brasileiro
 
 ## AC
 
@@ -130,7 +130,7 @@ Fonte oficial: https://www.pmvc.ba.gov.br/tarifa-do-transporte-coletivo-tera-rea
 
 Vale-transporte em Vitória da Conquista: cartão Cartão BEM; emitido por Atuv; canal de compra da empresa: recarga do usuário por Pix via WhatsApp 'Atuv Recargas'; validade dos créditos: Créditos adquiridos no novo Sistema de Bilhetagem Eletrônica valem 1 ano a partir da aquisição. Créditos de VT anteriores ao reajuste: uso pelo trabalhador em até 45 dias ou troca pelo empregador em até 30 dias contados da alteração da tarifa; depois disso perdem a validade..
 
-Integração em Vitória da Conquista: Integração tarifária: mais de um deslocamento pagando só o primeiro, desde que o trajeto não tenha linha direta, os veículos sigam um único sentido e a baldeação ocorra em até 90 minutos
+Integração em Vitória da Conquista: Integração tarifária: mais de um deslocamento pagando só o primeiro, desde que não haja linha direta entre a origem e o destino, os veículos sigam um único sentido e a baldeação ocorra em até 90 minutos
 
 ## CE
 
@@ -168,7 +168,7 @@ Tarifa zero em Eusébio: TRUE (Transporte Regular Urbano de Eusébio) gratuito p
 
 Em Fortaleza (CE), a passagem de ônibus custa R$ 5,40 desde 02/01/2026, conforme Decreto nº 16.547/2025; valor conferido em 18/10/2026 pela Base Nacional de Tarifas do Transporte Público da Otimiza.pro.
 
-Em Fortaleza (CE), o GTFS oficial mais recente da Etufor, de 03/04/2026, lista 325 linhas de ônibus, com 5.490 pontos de parada. O GTFS oficial mais recente do Metrofor, de 01/01/2025, lista 3 linhas de metrô. Em 2018, o sistema de ônibus levou 304 milhões de passageiros, segundo dados declarados pelo município à Pesquisa Nacional de Mobilidade Urbana (PEMOB), do governo federal. A idade média da frota de ônibus era de 5,9 anos em 2018. Dados consolidados pela Base Nacional de Tarifas do Transporte Público da Otimiza.pro.
+Em Fortaleza (CE), o GTFS oficial mais recente da Etufor, de 03/04/2026, lista 325 linhas de ônibus. O GTFS oficial mais recente do Metrofor, de 01/01/2025, lista 3 linhas de metrô. Em 2018, o sistema de ônibus levou 304 milhões de passageiros, segundo dados declarados pelo município à Pesquisa Nacional de Mobilidade Urbana (PEMOB), do governo federal. A idade média da frota de ônibus era de 5,9 anos em 2018. Dados consolidados pela Base Nacional de Tarifas do Transporte Público da Otimiza.pro.
 
 Fonte oficial: https://diariooficial.fortaleza.ce.gov.br/api/nodes/ebaab252-475d-457d-aab2-52475d257d95/content?name=22122025%20-%2018219.pdf
 
@@ -244,7 +244,7 @@ Fonte oficial: https://colatina.legonline.com.br/ato-normativo/compilado/24519
 
 Vale-transporte em Colatina: cartão cartão Vale Transporte do Consórcio Noroeste (pertence à empresa empregadora; recarregável, sem carga mínima); emitido por Consórcio Noroeste (bilhetagem VipCard); canal de compra da empresa: Link Recarga Pessoa Jurídica no site do Consórcio Noroeste, que leva ao portal SIGOM (http://webservicos.consorcionoroeste.com.br/wbc-st5/), com login da empresa; atendimento (27) 3723-4334, Av. Getúlio Vargas, 43, Scalla Center, Centro.
 
-Integração em Colatina: Integração temporal: duas linhas de trajetos diferentes pagando uma só passagem, com a troca feita em até 45 minutos, no ponto definido para a integração, também na volta; não é permitido retornar pela mesma linha para evitar a segunda tarifa
+Integração em Colatina: Integração temporal: duas linhas diferentes pagando uma só passagem, com a troca feita em até 45 minutos, no ponto definido para a integração, também na volta; não é permitido retornar pela mesma linha para evitar a segunda tarifa
 
 Tarifa zero em Colatina: Transporte público gratuito nos dias de votação: 04/10/2026 e, se houver 2º turno, 25/10/2026
 
@@ -384,7 +384,7 @@ Fonte oficial: https://diariooficial.saoluis.ma.gov.br/uploads/Digitalizados/dia
 
 Vale-transporte em São Luís: cartão cartão Vale Transporte da bilhetagem eletrônica do SET; emitido por SET (Sindicato das Empresas de Transporte de Passageiros de São Luís); canal de compra da empresa: Portal de Vendas do SET (https://salesportal.saoluis.prodatamobility.com.br/), aberto pelo botão 'Comprar vale transporte' do site www.setsl.com.br: acesso por CNPJ, cadastro de funcionários e pedido pago por boleto. Venda de crédito e emissão de cartões de Vale Transporte também no Posto de Atendimento Apicum (Rua Dom Xisto Albano, 08), de segunda a sexta, das 7h às 17h. O app Bilhete Fácil SLZ não recarrega VT, porque essa compra é feita por empresas ou órgãos públicos (O Imparcial, 28/04/2025); validade dos créditos: no app Bilhete Fácil SLZ, que não atende o VT, os créditos do Passe Fácil e da meia passagem valem 365 dias (O Imparcial, 28/04/2025).
 
-Integração em São Luís: Bilhete Único: com o cartão de transporte ou a carteira de estudante, o passageiro tem até 2 horas para trocar de ônibus pagando uma única passagem, desde que siga no mesmo sentido da viagem, com troca em qualquer ponto de parada; no sentido contrário, pode embarcar em qualquer ônibus em até 1 hora contada da validação do cartão. Vale só nas linhas integradas (R$ 4,20); ficam fora as linhas não integradas (R$ 3,70), as intermunicipais (Raposa, Paço do Lumiar, Ribamar) e a linha BR 135.
+Integração em São Luís: Bilhete Único: com o cartão de transporte ou a carteira de estudante, o passageiro tem até 2 horas para trocar de ônibus pagando uma única passagem, desde que siga no mesmo sentido da viagem, com troca também fora dos terminais; no sentido contrário, pode embarcar em qualquer ônibus em até 1 hora contada da validação do cartão. Vale só nas linhas integradas (R$ 4,20); ficam fora as linhas não integradas (R$ 3,70), as intermunicipais (Raposa, Paço do Lumiar, Ribamar) e a linha BR 135.
 
 ### Timon (MA)
 
@@ -400,7 +400,7 @@ Tarifa zero em Timon: Linhas urbanas sem cobrança no 1º turno das Eleições 2
 
 Em Belo Horizonte (MG), a passagem de ônibus custa R$ 6,25 desde 01/01/2026, conforme Portaria SUMOB nº 122/2025; valor conferido em 17/10/2026 pela Base Nacional de Tarifas do Transporte Público da Otimiza.pro.
 
-Em Belo Horizonte (MG), o GTFS oficial da BHTrans/SUMOB vigente em 17/10/2026 lista 328 linhas de ônibus, com 9.617 pontos de parada. Em 2018, o sistema de ônibus levou 397 milhões de passageiros, segundo dados declarados pelo município à Pesquisa Nacional de Mobilidade Urbana (PEMOB), do governo federal. A idade média da frota de ônibus era de 2,5 anos em 2019. Dados consolidados pela Base Nacional de Tarifas do Transporte Público da Otimiza.pro.
+Em Belo Horizonte (MG), o GTFS oficial da BHTrans/SUMOB vigente em 17/10/2026 lista 328 linhas de ônibus. Em 2018, o sistema de ônibus levou 397 milhões de passageiros, segundo dados declarados pelo município à Pesquisa Nacional de Mobilidade Urbana (PEMOB), do governo federal. A idade média da frota de ônibus era de 2,5 anos em 2019. Dados consolidados pela Base Nacional de Tarifas do Transporte Público da Otimiza.pro.
 
 Fonte oficial: https://www.transfacil.com.br/noticia/21
 
@@ -552,7 +552,7 @@ Fonte oficial: https://dosp.com.br/exibe_do.php?i=ODAzMzY3
 
 Vale-transporte em Uberaba: cartão Cartão Prático Vale-Transporte; emitido por Transube; canal de compra da empresa: compra online pela empresa no Webcommerce da Transube (sistema TDMax, link 'Vale Transporte' no site); a carga é transferida ao cartão pelo validador do ônibus quando o cartão é usado; validade dos créditos: 12 meses da data de aquisição; depois disso os créditos expiram (Decreto nº 2.026/2026, art. 4º).
 
-Integração em Uberaba: Com o cartão, o usuário embarca em até duas linhas diferentes em 90 minutos pagando só a primeira passagem; as linhas não podem ter trajeto em comum e ao menos uma não deve passar pelos terminais, entre outros critérios técnicos
+Integração em Uberaba: Com o cartão, o usuário embarca em até duas linhas diferentes em 90 minutos pagando só a primeira passagem; as linhas não podem ser concorrentes e ao menos uma não deve passar pelos terminais, entre outros critérios técnicos
 
 ### Uberlândia (MG)
 
@@ -728,7 +728,7 @@ Fonte oficial: https://www.joaopessoa.pb.gov.br/wp-content/uploads/2026/01/2026_
 
 Vale-transporte em João Pessoa: cartão NuBus Vale-Transporte; emitido por Sintur-JP; canal de compra da empresa: portal.nubusjp.com.br (boleto ou na sede); liberação do crédito: até 48h após a confirmação do pagamento; taxa na compra: aquisição gratuita, segundo a operadora.
 
-Integração em João Pessoa: 90 min (eram 60) com uma passagem, em todas as paradas
+Integração em João Pessoa: 90 min (eram 60) com uma passagem, sem precisar de terminal
 
 ### Santa Rita (PB)
 
@@ -850,7 +850,7 @@ Fonte oficial: https://www.apucarana.pr.gov.br/site/apucarana-autoriza-atualizac
 
 Vale-transporte em Apucarana: cartão Cartão Passe Fácil (a modalidade de VT não é descrita nas páginas da Prefeitura); o aplicativo BiPay funciona como carteira digital, com QR Code no validador; emitido por Viação Apucarana Ltda. (VAL), que fornece o Cartão Passe Fácil mediante cadastro; 1ª via gratuita na sede da VAL, ao lado do Terminal Urbano; canal de compra da empresa: Portal de empresas da BDOS Bilhetagem Digital para Apucarana (https://apucarana.bilhetagemdigital.com.br/empresas): o código do portal traz cadastro de colaboradores, grupos, pedidos e o tipo de cliente 'Vale-Transporte', com pagamento por Pix ou boleto. O endereço foi achado por analogia com o portal de Maringá, que usa a mesma plataforma e o mesmo aplicativo BiPay; não foi achada página da VAL ou da Prefeitura que o indique..
 
-Integração em Apucarana: Programa Apucarana Integrada, desde 10/08/2026: com o Cartão Passe Fácil ou o aplicativo BiPay, o passageiro troca de ônibus em qualquer ponto da cidade sem pagar nova tarifa e sem precisar passar pelo Terminal Urbano; o tempo é de 1 hora na maioria das linhas e de 1h20 em alguns trajetos, contado da passagem do cartão pela roleta. Pagamento em dinheiro, débito ou crédito não dá integração. A notícia de lançamento (10/07/2026) fala em embarque 'em uma segunda ou mais linhas'.
+Integração em Apucarana: Programa Apucarana Integrada, desde 10/08/2026: com o Cartão Passe Fácil ou o aplicativo BiPay, o passageiro troca de ônibus em qualquer ponto da cidade sem pagar nova tarifa e sem precisar passar pelo Terminal Urbano; o tempo é de 1 hora na maioria das linhas e de 1h20 em algumas linhas, contado da passagem do cartão pela roleta. Pagamento em dinheiro, débito ou crédito não dá integração. A notícia de lançamento (10/07/2026) fala em embarque 'em uma segunda ou mais linhas'.
 
 Tarifa zero em Apucarana: Transporte coletivo urbano gratuito das 6h às 19h no 1º turno das Eleições 2026 (04/10/2026) e, se houver, no 2º turno (25/10/2026)
 
@@ -960,7 +960,7 @@ Passe Fácil (TCCC): cobre ônibus urbanos de Maringá; cartão cartão do siste
 
 Vale-transporte intermunicipal da Cidade Verde: cobre ônibus intermunicipais da região de Maringá (linhas atendidas não especificadas no contrato); cartão cartões magnéticos de vale-transporte da Cidade Verde (com emissão de 2ª via); emitido por Cidade Verde Transporte Rodoviário Ltda. (CNPJ 72.073.117/0001-06), de Sarandi; a TCCC lista a Cidade Verde entre as empresas da sua rede; canal de compra da empresa: O IPPLAM contratou da Cidade Verde, por inexigibilidade, o fornecimento de créditos eletrônicos de vale-transporte e de cartões magnéticos para servidores usuários do transporte coletivo intermunicipal (Contrato nº 08/2026, extrato no Diário Oficial de Maringá nº 4886, de 24/07/2026)..
 
-Integração em Maringá: Integração Temporal Inteligente só com Cartão Passe Fácil ou aplicativo BiPay: uma integração por usuário, para até 2 trajetos em linhas diferentes, sem repetir a linha anterior, dentro do tempo contado do primeiro registro na catraca (Decreto nº 1539/2025, art. 1º, § 2º, e art. 2º). A TCCC publica o tempo por linha, de 1h10 a 1h55 (ex.: 007 Interbairros Zona Norte 1h10; 008 Interbairros 1h25; 233 Cj. Guaiapó 1h55). Pagamento com cartão bancário por aproximação não integra. Com as linhas metropolitanas diretas de Sarandi e Paiçandu: tarifa integral no primeiro sistema e 50% (R$ 2,90) no segundo.
+Integração em Maringá: Integração Temporal Inteligente só com Cartão Passe Fácil ou aplicativo BiPay: uma integração por usuário, para até 2 viagens em linhas diferentes, sem repetir a linha anterior, dentro do tempo contado do primeiro registro na catraca (Decreto nº 1539/2025, art. 1º, § 2º, e art. 2º). A TCCC publica o tempo por linha, de 1h10 a 1h55 (ex.: 007 Interbairros Zona Norte 1h10; 008 Interbairros 1h25; 233 Cj. Guaiapó 1h55). Pagamento com cartão bancário por aproximação não integra. Com as linhas metropolitanas diretas de Sarandi e Paiçandu: tarifa integral no primeiro sistema e 50% (R$ 2,90) no segundo.
 
 ### Paranaguá (PR)
 
@@ -1122,7 +1122,7 @@ Vale-transporte em Petrópolis: cartão Riocard Mais Vale-Transporte (Convencion
 
 No Rio de Janeiro (RJ), a passagem de ônibus custa R$ 5,00 desde 04/01/2026, conforme Decreto Rio nº 57.473/2025; valor conferido em 17/10/2026 pela Base Nacional de Tarifas do Transporte Público da Otimiza.pro.
 
-No Rio de Janeiro (RJ), o GTFS oficial da Secretaria Municipal de Transportes do Rio (SMTR) vigente em 17/10/2026 lista 498 linhas de ônibus, com 7.520 pontos de parada. Dados consolidados pela Base Nacional de Tarifas do Transporte Público da Otimiza.pro.
+No Rio de Janeiro (RJ), o GTFS oficial da Secretaria Municipal de Transportes do Rio (SMTR) vigente em 17/10/2026 lista 498 linhas de ônibus. Dados consolidados pela Base Nacional de Tarifas do Transporte Público da Otimiza.pro.
 
 Fonte oficial: https://carioca.rio/wp-content/uploads/2026/01/Decreto-57.473_2025.pdf
 
@@ -1314,7 +1314,7 @@ Fonte oficial: https://www.pelotas.com.br/noticia/tarifa-do-transporte-publico-e
 
 Em Porto Alegre (RS), a passagem de ônibus custa R$ 5,30 desde 19/02/2026, conforme Decreto 23.669/2026; valor conferido em 17/10/2026 pela Base Nacional de Tarifas do Transporte Público da Otimiza.pro.
 
-Em Porto Alegre (RS), o GTFS oficial mais recente da EPTC, de 18/09/2025, lista 395 linhas de ônibus, com 5.909 pontos de parada. Em 2021, o sistema de ônibus levou 109 milhões de passageiros, segundo dados declarados pelo município à Pesquisa Nacional de Mobilidade Urbana (PEMOB), do governo federal. A idade média da frota de ônibus era de 7,9 anos em 2021. Dados consolidados pela Base Nacional de Tarifas do Transporte Público da Otimiza.pro.
+Em Porto Alegre (RS), o GTFS oficial mais recente da EPTC, de 18/09/2025, lista 395 linhas de ônibus. Em 2021, o sistema de ônibus levou 109 milhões de passageiros, segundo dados declarados pelo município à Pesquisa Nacional de Mobilidade Urbana (PEMOB), do governo federal. A idade média da frota de ônibus era de 7,9 anos em 2021. Dados consolidados pela Base Nacional de Tarifas do Transporte Público da Otimiza.pro.
 
 Fonte oficial: https://prefeitura.poa.br/transporte
 
@@ -1420,7 +1420,7 @@ Fonte oficial: https://diariomunicipal.sc.gov.br/arquivosbd/atos/2025/12/1767204
 
 Vale-transporte em Florianópolis: cartão Passe Rápido Vale-Transporte; emitido por Consórcio Fênix (bilhetagem Passe Rápido); canal de compra da empresa: portal Passe Rápido (app.passerapido.com.br, acesso Vale Transporte); cadastro de empresas e de cartões pelo e-mail cadastro@passerapido.com.br.
 
-Integração em Florianópolis: Com cartão de transporte, integrações sem limite de quantidade em até 180 minutos após o primeiro registro do cartão no período, nos terminais de integração (área segregada) ou em qualquer ponto de parada, pela catraca eletrônica; dentro do terminal, o transbordo é livre enquanto o passageiro não passa pela barreira de controle tarifário. Na integração entre linha social e linha distrital ou urbana há complemento, que em 2026 é de R$ 2,35 no Cartão Cidadão, R$ 2,60 no Vale-Transporte e no Turista e R$ 1,18 no estudante. Base: Decreto nº 1.968/2003, alterado pelo Decreto nº 23.496, de 24/01/2022 (texto lido na reprodução do LegisWeb; a publicação no Diário Oficial do Município não foi aberta), citados como política de integração vigente nos Decretos nº 27.313/2024 e nº 28.860/2025; complementos no anexo do Decreto nº 28.860/2025.
+Integração em Florianópolis: Com cartão de transporte, integrações sem limite de quantidade em até 180 minutos após o primeiro registro do cartão no período, nos terminais de integração (área segregada) ou fora deles, pela catraca eletrônica; dentro do terminal, o transbordo é livre enquanto o passageiro não passa pela barreira de controle tarifário. Na integração entre linha social e linha distrital ou urbana há complemento, que em 2026 é de R$ 2,35 no Cartão Cidadão, R$ 2,60 no Vale-Transporte e no Turista e R$ 1,18 no estudante. Base: Decreto nº 1.968/2003, alterado pelo Decreto nº 23.496, de 24/01/2022 (texto lido na reprodução do LegisWeb; a publicação no Diário Oficial do Município não foi aberta), citados como política de integração vigente nos Decretos nº 27.313/2024 e nº 28.860/2025; complementos no anexo do Decreto nº 28.860/2025.
 
 ### Itajaí (SC)
 
@@ -1432,7 +1432,7 @@ Vale-transporte em Itajaí: cartão Cartão Eletrônico na modalidade trabalhado
 
 Integração em Itajaí: Com a tarifa-base do cartão eletrônico (R$ 4,30) é permitida uma integração, em até 90 minutos do registro do usuário no sistema (Decreto nº 13.063/2023, art. 1º). A tarifa paga a bordo em dinheiro (R$ 4,50) não dá integração (art. 2º). A tarifa diária (R$ 6,00) dá direito a mais de uma integração até 23h59 do dia (art. 3º). Aos domingos e feriados, o crédito antecipado de R$ 1,00 mantém as integrações de cada modalidade e o dinheiro só tem a integração física dentro dos terminais (Decreto nº 13.890/2025).
 
-Tarifa zero em Itajaí: Gratuidade em todas as linhas, itinerários e terminais nos dias de votação das Eleições de 2026 (04/10/2026 e 25/10/2026, se houver 2º turno), com frota e horários de dia útil
+Tarifa zero em Itajaí: Gratuidade em todas as linhas e terminais nos dias de votação das Eleições de 2026 (04/10/2026 e 25/10/2026, se houver 2º turno), com frota e horários de dia útil
 
 ### Jaraguá do Sul (SC)
 
@@ -1540,7 +1540,7 @@ Fonte oficial: https://araraquara.1dom.com.br/ato/01KDTCKNKVHTTY3KF1M95EM7P9
 
 Vale-transporte em Araraquara: cartão Cartão NovoCard Vale-Transporte; emitido por NovoCard / Consórcio Araraquara de Transportes (CAT); canal de compra da empresa: Sistema de vale-transporte eletrônico do CAT, no site do NovoCard: cadastro da empresa, inclusão dos colaboradores e pedido de crédito com boleto de vencimento em 15 dias; recarga embarcada no validador; liberação do crédito: até 2 dias úteis após o pagamento; boletos gerados até 16h45 em dia útil; taxa na compra: preço de conveniência de R$ 5,40 por boleto.
 
-Integração em Araraquara: Com o NovoCard, integração em qualquer ponto da cidade, uma vez por viagem, com tempo de 60, 80 ou 120 minutos conforme a frequência da linha; não vale ida e volta na mesma linha nem reembarque na mesma linha ou em linha de mesmo trajeto e sentido.
+Integração em Araraquara: Com o NovoCard, integração em qualquer ponto da cidade, uma vez por viagem, com tempo de 60, 80 ou 120 minutos conforme a frequência da linha; não vale ida e volta na mesma linha nem reembarque na mesma linha ou em linha concorrente no mesmo sentido.
 
 Tarifa zero em Araraquara: Tarifa gratuita durante o período de votação nas eleições de 04/10/2026 e 25/10/2026 (segundo turno, se houver), com horários de dia útil.
 
@@ -1640,7 +1640,7 @@ Fonte oficial: https://www.carapicuiba.sp.gov.br/publicos/a18d15c67d140459d96d89
 
 ### Catanduva (SP)
 
-Em Catanduva (SP), a passagem de ônibus custa R$ 4,00, segundo a publicação oficial (Prefeitura de Catanduva, página Transporte Coletivo, horários, trajetos e pontos, atualização de 03/02/2026); valor conferido em 18/10/2026 pela Base Nacional de Tarifas do Transporte Público da Otimiza.pro.
+Em Catanduva (SP), a passagem de ônibus custa R$ 4,00, segundo a publicação oficial (Prefeitura de Catanduva, página Transporte Coletivo, atualização de 03/02/2026); valor conferido em 18/10/2026 pela Base Nacional de Tarifas do Transporte Público da Otimiza.pro.
 
 Fonte oficial: https://www.catanduva.sp.gov.br/portal/servicos/1075/transporte-coletivo/
 
@@ -2070,7 +2070,7 @@ Integração em São José dos Campos: Bilhete Único: uma tarifa para até 4 li
 
 Em São Paulo (SP), a passagem de ônibus custa R$ 5,30 desde 06/01/2026, conforme Portaria SMT.GAB nº 005/2026; valor conferido em 17/10/2026 pela Base Nacional de Tarifas do Transporte Público da Otimiza.pro. Quem usa vale-transporte paga R$ 5,82.
 
-Em São Paulo (SP), o GTFS oficial da SPTrans vigente em 17/10/2026 lista 1.349 linhas de ônibus, 8 de metrô e 7 de trem, com 22.273 pontos de parada. Em 2020, o sistema de ônibus levou 1,6 bilhão de passageiros, segundo dados declarados pelo município à Pesquisa Nacional de Mobilidade Urbana (PEMOB), do governo federal. A idade média da frota de ônibus era de 4,9 anos em 2020. Dados consolidados pela Base Nacional de Tarifas do Transporte Público da Otimiza.pro.
+Em São Paulo (SP), o GTFS oficial da SPTrans vigente em 17/10/2026 lista 1.349 linhas de ônibus, 8 de metrô e 7 de trem. Em 2020, o sistema de ônibus levou 1,6 bilhão de passageiros, segundo dados declarados pelo município à Pesquisa Nacional de Mobilidade Urbana (PEMOB), do governo federal. A idade média da frota de ônibus era de 4,9 anos em 2020. Dados consolidados pela Base Nacional de Tarifas do Transporte Público da Otimiza.pro.
 
 Fonte oficial: https://www.sptrans.com.br/tarifas/
 
