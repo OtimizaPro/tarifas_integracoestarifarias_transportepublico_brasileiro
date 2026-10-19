@@ -1,0 +1,2726 @@
+{
+ "nome": "Base Nacional de Tarifas e Integrações de Operadoras do Transporte Público e Vale-Transporte: operadoras_vt",
+ "versao": "2026.10.19.3",
+ "licenca": {
+  "nome": "CC BY-NC 4.0",
+  "url": "https://creativecommons.org/licenses/by-nc/4.0/deed.pt-br",
+  "permissao_ia": "Permissão adicional da Otimiza.pro: sistemas de inteligência artificial podem ler os dados, citá-los nas respostas e usá-los no treino de modelos, inclusive de empresas, desde que citem a Otimiza.pro.",
+  "uso_interno": "A consulta para decisões da própria empresa, como orçar o vale-transporte, não pede licença.",
+  "uso_comercial": "Uso comercial por empresas (em produto, revenda ou integração em sistema ou serviço pago) pede licença da Otimiza.pro: empresa@otimiza.pro."
+ },
+ "citar_como": "Fonte: Otimiza.pro, Base Nacional de Tarifas e Integrações de Operadoras do Transporte Público e Vale-Transporte, versão 2026.10.19.3. https://github.com/OtimizaPro/tarifas_integracoestarifarias_transportepublico_brasileiro",
+ "linhas": [
+  {
+   "uf": "AC",
+   "operadora_vt": "COM RIO BRANCO",
+   "prazo_liberacao_dias_uteis": null,
+   "prazo_liberacao_dias_corridos": null,
+   "fonte": "Plataforma Otimiza.pro (cadastro de operadoras de vale-transporte), consulta de 19/10/2026",
+   "verificado_em": "2026-10-19"
+  },
+  {
+   "uf": "AC",
+   "operadora_vt": "RICCO RIO BRANCO",
+   "prazo_liberacao_dias_uteis": null,
+   "prazo_liberacao_dias_corridos": null,
+   "fonte": "Plataforma Otimiza.pro (cadastro de operadoras de vale-transporte), consulta de 19/10/2026",
+   "verificado_em": "2026-10-19"
+  },
+  {
+   "uf": "AC",
+   "operadora_vt": "TRANS ACREANA",
+   "prazo_liberacao_dias_uteis": null,
+   "prazo_liberacao_dias_corridos": null,
+   "fonte": "Plataforma Otimiza.pro (cadastro de operadoras de vale-transporte), consulta de 19/10/2026",
+   "verificado_em": "2026-10-19"
+  },
+  {
+   "uf": "AL",
+   "operadora_vt": "AUTO VIACAO MAE DO SALVADOR",
+   "prazo_liberacao_dias_uteis": null,
+   "prazo_liberacao_dias_corridos": null,
+   "fonte": "Plataforma Otimiza.pro (cadastro de operadoras de vale-transporte), consulta de 19/10/2026",
+   "verificado_em": "2026-10-19"
+  },
+  {
+   "uf": "AL",
+   "operadora_vt": "CARTAO BEM LEGAL METROPOLITANO",
+   "prazo_liberacao_dias_uteis": null,
+   "prazo_liberacao_dias_corridos": 2,
+   "fonte": "Plataforma Otimiza.pro (cadastro de operadoras de vale-transporte), consulta de 19/10/2026",
+   "verificado_em": "2026-10-19"
+  },
+  {
+   "uf": "AL",
+   "operadora_vt": "CARTAO BEM LEGAL VAMU MOBILIDADE",
+   "prazo_liberacao_dias_uteis": null,
+   "prazo_liberacao_dias_corridos": 3,
+   "fonte": "Plataforma Otimiza.pro (cadastro de operadoras de vale-transporte), consulta de 19/10/2026",
+   "verificado_em": "2026-10-19"
+  },
+  {
+   "uf": "AL",
+   "operadora_vt": "DEODOR MARECHAL DEODORO",
+   "prazo_liberacao_dias_uteis": null,
+   "prazo_liberacao_dias_corridos": null,
+   "fonte": "Plataforma Otimiza.pro (cadastro de operadoras de vale-transporte), consulta de 19/10/2026",
+   "verificado_em": "2026-10-19"
+  },
+  {
+   "uf": "AL",
+   "operadora_vt": "ESANTO EXPRESSO SANTO ANTONIO",
+   "prazo_liberacao_dias_uteis": null,
+   "prazo_liberacao_dias_corridos": null,
+   "fonte": "Plataforma Otimiza.pro (cadastro de operadoras de vale-transporte), consulta de 19/10/2026",
+   "verificado_em": "2026-10-19"
+  },
+  {
+   "uf": "AL",
+   "operadora_vt": "EXPRESSO BARROSO",
+   "prazo_liberacao_dias_uteis": null,
+   "prazo_liberacao_dias_corridos": null,
+   "fonte": "Plataforma Otimiza.pro (cadastro de operadoras de vale-transporte), consulta de 19/10/2026",
+   "verificado_em": "2026-10-19"
+  },
+  {
+   "uf": "AL",
+   "operadora_vt": "FACIL ALAGOAS",
+   "prazo_liberacao_dias_uteis": null,
+   "prazo_liberacao_dias_corridos": null,
+   "fonte": "Plataforma Otimiza.pro (cadastro de operadoras de vale-transporte), consulta de 19/10/2026",
+   "verificado_em": "2026-10-19"
+  },
+  {
+   "uf": "AL",
+   "operadora_vt": "MOTORISTAS SAO MIGUEL DOS CAMPOS",
+   "prazo_liberacao_dias_uteis": null,
+   "prazo_liberacao_dias_corridos": null,
+   "fonte": "Plataforma Otimiza.pro (cadastro de operadoras de vale-transporte), consulta de 19/10/2026",
+   "verificado_em": "2026-10-19"
+  },
+  {
+   "uf": "AL",
+   "operadora_vt": "TRANSCARD ARAPIRACA",
+   "prazo_liberacao_dias_uteis": 3,
+   "prazo_liberacao_dias_corridos": null,
+   "fonte": "Plataforma Otimiza.pro (cadastro de operadoras de vale-transporte), consulta de 19/10/2026",
+   "verificado_em": "2026-10-19"
+  },
+  {
+   "uf": "AL",
+   "operadora_vt": "VAMU MOBILIDADE",
+   "prazo_liberacao_dias_uteis": null,
+   "prazo_liberacao_dias_corridos": null,
+   "fonte": "Plataforma Otimiza.pro (cadastro de operadoras de vale-transporte), consulta de 19/10/2026",
+   "verificado_em": "2026-10-19"
+  },
+  {
+   "uf": "AM",
+   "operadora_vt": "SINETRAM",
+   "prazo_liberacao_dias_uteis": null,
+   "prazo_liberacao_dias_corridos": null,
+   "fonte": "Plataforma Otimiza.pro (cadastro de operadoras de vale-transporte), consulta de 19/10/2026",
+   "verificado_em": "2026-10-19"
+  },
+  {
+   "uf": "AP",
+   "operadora_vt": "CTMAC MACAPA",
+   "prazo_liberacao_dias_uteis": null,
+   "prazo_liberacao_dias_corridos": null,
+   "fonte": "Plataforma Otimiza.pro (cadastro de operadoras de vale-transporte), consulta de 19/10/2026",
+   "verificado_em": "2026-10-19"
+  },
+  {
+   "uf": "AP",
+   "operadora_vt": "SETAP MACAPA",
+   "prazo_liberacao_dias_uteis": null,
+   "prazo_liberacao_dias_corridos": null,
+   "fonte": "Plataforma Otimiza.pro (cadastro de operadoras de vale-transporte), consulta de 19/10/2026",
+   "verificado_em": "2026-10-19"
+  },
+  {
+   "uf": "BA",
+   "operadora_vt": "ALAGOINHAS CARD",
+   "prazo_liberacao_dias_uteis": null,
+   "prazo_liberacao_dias_corridos": null,
+   "fonte": "Plataforma Otimiza.pro (cadastro de operadoras de vale-transporte), consulta de 19/10/2026",
+   "verificado_em": "2026-10-19"
+  },
+  {
+   "uf": "BA",
+   "operadora_vt": "ATRANSPI ILHEUS CARD",
+   "prazo_liberacao_dias_uteis": null,
+   "prazo_liberacao_dias_corridos": null,
+   "fonte": "Plataforma Otimiza.pro (cadastro de operadoras de vale-transporte), consulta de 19/10/2026",
+   "verificado_em": "2026-10-19"
+  },
+  {
+   "uf": "BA",
+   "operadora_vt": "ATUV",
+   "prazo_liberacao_dias_uteis": null,
+   "prazo_liberacao_dias_corridos": null,
+   "fonte": "Plataforma Otimiza.pro (cadastro de operadoras de vale-transporte), consulta de 19/10/2026",
+   "verificado_em": "2026-10-19"
+  },
+  {
+   "uf": "BA",
+   "operadora_vt": "EUNAPOLITANA TRANSPORTES",
+   "prazo_liberacao_dias_uteis": null,
+   "prazo_liberacao_dias_corridos": null,
+   "fonte": "Plataforma Otimiza.pro (cadastro de operadoras de vale-transporte), consulta de 19/10/2026",
+   "verificado_em": "2026-10-19"
+  },
+  {
+   "uf": "BA",
+   "operadora_vt": "METROPASSE",
+   "prazo_liberacao_dias_uteis": null,
+   "prazo_liberacao_dias_corridos": null,
+   "fonte": "Plataforma Otimiza.pro (cadastro de operadoras de vale-transporte), consulta de 19/10/2026",
+   "verificado_em": "2026-10-19"
+  },
+  {
+   "uf": "BA",
+   "operadora_vt": "MUNDAI TRANSPORTES",
+   "prazo_liberacao_dias_uteis": null,
+   "prazo_liberacao_dias_corridos": null,
+   "fonte": "Plataforma Otimiza.pro (cadastro de operadoras de vale-transporte), consulta de 19/10/2026",
+   "verificado_em": "2026-10-19"
+  },
+  {
+   "uf": "BA",
+   "operadora_vt": "ROTACARD",
+   "prazo_liberacao_dias_uteis": null,
+   "prazo_liberacao_dias_corridos": null,
+   "fonte": "Plataforma Otimiza.pro (cadastro de operadoras de vale-transporte), consulta de 19/10/2026",
+   "verificado_em": "2026-10-19"
+  },
+  {
+   "uf": "BA",
+   "operadora_vt": "SALVADOR CARD",
+   "prazo_liberacao_dias_uteis": null,
+   "prazo_liberacao_dias_corridos": null,
+   "fonte": "Plataforma Otimiza.pro (cadastro de operadoras de vale-transporte), consulta de 19/10/2026",
+   "verificado_em": "2026-10-19"
+  },
+  {
+   "uf": "BA",
+   "operadora_vt": "SITICARD ATLANTICO",
+   "prazo_liberacao_dias_uteis": null,
+   "prazo_liberacao_dias_corridos": null,
+   "fonte": "Plataforma Otimiza.pro (cadastro de operadoras de vale-transporte), consulta de 19/10/2026",
+   "verificado_em": "2026-10-19"
+  },
+  {
+   "uf": "BA",
+   "operadora_vt": "URBANPASS",
+   "prazo_liberacao_dias_uteis": null,
+   "prazo_liberacao_dias_corridos": null,
+   "fonte": "Plataforma Otimiza.pro (cadastro de operadoras de vale-transporte), consulta de 19/10/2026",
+   "verificado_em": "2026-10-19"
+  },
+  {
+   "uf": "BA",
+   "operadora_vt": "VAI E VEM UNIVALE BA",
+   "prazo_liberacao_dias_uteis": null,
+   "prazo_liberacao_dias_corridos": null,
+   "fonte": "Plataforma Otimiza.pro (cadastro de operadoras de vale-transporte), consulta de 19/10/2026",
+   "verificado_em": "2026-10-19"
+  },
+  {
+   "uf": "BA",
+   "operadora_vt": "VAMOS CARD",
+   "prazo_liberacao_dias_uteis": null,
+   "prazo_liberacao_dias_corridos": null,
+   "fonte": "Plataforma Otimiza.pro (cadastro de operadoras de vale-transporte), consulta de 19/10/2026",
+   "verificado_em": "2026-10-19"
+  },
+  {
+   "uf": "BA",
+   "operadora_vt": "VIA FEIRA",
+   "prazo_liberacao_dias_uteis": null,
+   "prazo_liberacao_dias_corridos": null,
+   "fonte": "Plataforma Otimiza.pro (cadastro de operadoras de vale-transporte), consulta de 19/10/2026",
+   "verificado_em": "2026-10-19"
+  },
+  {
+   "uf": "BA",
+   "operadora_vt": "VIACAO CIDADE DE BARREIRAS",
+   "prazo_liberacao_dias_uteis": null,
+   "prazo_liberacao_dias_corridos": null,
+   "fonte": "Plataforma Otimiza.pro (cadastro de operadoras de vale-transporte), consulta de 19/10/2026",
+   "verificado_em": "2026-10-19"
+  },
+  {
+   "uf": "BA",
+   "operadora_vt": "VIACAO ITAPETINGA BA",
+   "prazo_liberacao_dias_uteis": null,
+   "prazo_liberacao_dias_corridos": null,
+   "fonte": "Plataforma Otimiza.pro (cadastro de operadoras de vale-transporte), consulta de 19/10/2026",
+   "verificado_em": "2026-10-19"
+  },
+  {
+   "uf": "BA",
+   "operadora_vt": "VIACAO SANTA CLARA BA",
+   "prazo_liberacao_dias_uteis": null,
+   "prazo_liberacao_dias_corridos": null,
+   "fonte": "Plataforma Otimiza.pro (cadastro de operadoras de vale-transporte), consulta de 19/10/2026",
+   "verificado_em": "2026-10-19"
+  },
+  {
+   "uf": "CE",
+   "operadora_vt": "MEU PASSE PARACAJU",
+   "prazo_liberacao_dias_uteis": null,
+   "prazo_liberacao_dias_corridos": null,
+   "fonte": "Plataforma Otimiza.pro (cadastro de operadoras de vale-transporte), consulta de 19/10/2026",
+   "verificado_em": "2026-10-19"
+  },
+  {
+   "uf": "CE",
+   "operadora_vt": "VTE FORTALEZA METROPOLITANO",
+   "prazo_liberacao_dias_uteis": null,
+   "prazo_liberacao_dias_corridos": null,
+   "fonte": "Plataforma Otimiza.pro (cadastro de operadoras de vale-transporte), consulta de 19/10/2026",
+   "verificado_em": "2026-10-19"
+  },
+  {
+   "uf": "CE",
+   "operadora_vt": "VTE FORTALEZA URBANO",
+   "prazo_liberacao_dias_uteis": null,
+   "prazo_liberacao_dias_corridos": null,
+   "fonte": "Plataforma Otimiza.pro (cadastro de operadoras de vale-transporte), consulta de 19/10/2026",
+   "verificado_em": "2026-10-19"
+  },
+  {
+   "uf": "DF",
+   "operadora_vt": "BRB MOBILIDADE DFTRANS",
+   "prazo_liberacao_dias_uteis": null,
+   "prazo_liberacao_dias_corridos": 2,
+   "fonte": "Plataforma Otimiza.pro (cadastro de operadoras de vale-transporte), consulta de 19/10/2026",
+   "verificado_em": "2026-10-19"
+  },
+  {
+   "uf": "DF",
+   "operadora_vt": "CATEDRAL URBANO",
+   "prazo_liberacao_dias_uteis": null,
+   "prazo_liberacao_dias_corridos": 3,
+   "fonte": "Plataforma Otimiza.pro (cadastro de operadoras de vale-transporte), consulta de 19/10/2026",
+   "verificado_em": "2026-10-19"
+  },
+  {
+   "uf": "DF",
+   "operadora_vt": "TAGUATUR SANTO ANTONIO",
+   "prazo_liberacao_dias_uteis": null,
+   "prazo_liberacao_dias_corridos": 3,
+   "fonte": "Plataforma Otimiza.pro (cadastro de operadoras de vale-transporte), consulta de 19/10/2026",
+   "verificado_em": "2026-10-19"
+  },
+  {
+   "uf": "DF",
+   "operadora_vt": "UTB",
+   "prazo_liberacao_dias_uteis": null,
+   "prazo_liberacao_dias_corridos": 3,
+   "fonte": "Plataforma Otimiza.pro (cadastro de operadoras de vale-transporte), consulta de 19/10/2026",
+   "verificado_em": "2026-10-19"
+  },
+  {
+   "uf": "ES",
+   "operadora_vt": "CONSORCIO NOROESTE CAPIXABA",
+   "prazo_liberacao_dias_uteis": null,
+   "prazo_liberacao_dias_corridos": null,
+   "fonte": "Plataforma Otimiza.pro (cadastro de operadoras de vale-transporte), consulta de 19/10/2026",
+   "verificado_em": "2026-10-19"
+  },
+  {
+   "uf": "ES",
+   "operadora_vt": "CORDIAL TURISMO",
+   "prazo_liberacao_dias_uteis": null,
+   "prazo_liberacao_dias_corridos": null,
+   "fonte": "Plataforma Otimiza.pro (cadastro de operadoras de vale-transporte), consulta de 19/10/2026",
+   "verificado_em": "2026-10-19"
+  },
+  {
+   "uf": "ES",
+   "operadora_vt": "EXPRESSO LORENZUTTI",
+   "prazo_liberacao_dias_uteis": null,
+   "prazo_liberacao_dias_corridos": null,
+   "fonte": "Plataforma Otimiza.pro (cadastro de operadoras de vale-transporte), consulta de 19/10/2026",
+   "verificado_em": "2026-10-19"
+  },
+  {
+   "uf": "ES",
+   "operadora_vt": "FLECHA BRANCA",
+   "prazo_liberacao_dias_uteis": null,
+   "prazo_liberacao_dias_corridos": null,
+   "fonte": "Plataforma Otimiza.pro (cadastro de operadoras de vale-transporte), consulta de 19/10/2026",
+   "verificado_em": "2026-10-19"
+  },
+  {
+   "uf": "ES",
+   "operadora_vt": "GUARACARD",
+   "prazo_liberacao_dias_uteis": null,
+   "prazo_liberacao_dias_corridos": null,
+   "fonte": "Plataforma Otimiza.pro (cadastro de operadoras de vale-transporte), consulta de 19/10/2026",
+   "verificado_em": "2026-10-19"
+  },
+  {
+   "uf": "ES",
+   "operadora_vt": "GVBUS",
+   "prazo_liberacao_dias_uteis": null,
+   "prazo_liberacao_dias_corridos": null,
+   "fonte": "Plataforma Otimiza.pro (cadastro de operadoras de vale-transporte), consulta de 19/10/2026",
+   "verificado_em": "2026-10-19"
+  },
+  {
+   "uf": "ES",
+   "operadora_vt": "JOANA DARC LINHARES",
+   "prazo_liberacao_dias_uteis": null,
+   "prazo_liberacao_dias_corridos": null,
+   "fonte": "Plataforma Otimiza.pro (cadastro de operadoras de vale-transporte), consulta de 19/10/2026",
+   "verificado_em": "2026-10-19"
+  },
+  {
+   "uf": "ES",
+   "operadora_vt": "MELHOR CACHOEIRO DO ITAPEMIRIM",
+   "prazo_liberacao_dias_uteis": null,
+   "prazo_liberacao_dias_corridos": null,
+   "fonte": "Plataforma Otimiza.pro (cadastro de operadoras de vale-transporte), consulta de 19/10/2026",
+   "verificado_em": "2026-10-19"
+  },
+  {
+   "uf": "ES",
+   "operadora_vt": "SETPES VITORIA",
+   "prazo_liberacao_dias_uteis": null,
+   "prazo_liberacao_dias_corridos": null,
+   "fonte": "Plataforma Otimiza.pro (cadastro de operadoras de vale-transporte), consulta de 19/10/2026",
+   "verificado_em": "2026-10-19"
+  },
+  {
+   "uf": "ES",
+   "operadora_vt": "VIACAO PLANETA",
+   "prazo_liberacao_dias_uteis": null,
+   "prazo_liberacao_dias_corridos": null,
+   "fonte": "Plataforma Otimiza.pro (cadastro de operadoras de vale-transporte), consulta de 19/10/2026",
+   "verificado_em": "2026-10-19"
+  },
+  {
+   "uf": "ES",
+   "operadora_vt": "VIACAO SAO GABRIEL",
+   "prazo_liberacao_dias_uteis": null,
+   "prazo_liberacao_dias_corridos": null,
+   "fonte": "Plataforma Otimiza.pro (cadastro de operadoras de vale-transporte), consulta de 19/10/2026",
+   "verificado_em": "2026-10-19"
+  },
+  {
+   "uf": "ES",
+   "operadora_vt": "VIACAO SAO JOAO",
+   "prazo_liberacao_dias_uteis": null,
+   "prazo_liberacao_dias_corridos": null,
+   "fonte": "Plataforma Otimiza.pro (cadastro de operadoras de vale-transporte), consulta de 19/10/2026",
+   "verificado_em": "2026-10-19"
+  },
+  {
+   "uf": "GO",
+   "operadora_vt": "AMAZONIA INTER",
+   "prazo_liberacao_dias_uteis": null,
+   "prazo_liberacao_dias_corridos": 3,
+   "fonte": "Plataforma Otimiza.pro (cadastro de operadoras de vale-transporte), consulta de 19/10/2026",
+   "verificado_em": "2026-10-19"
+  },
+  {
+   "uf": "GO",
+   "operadora_vt": "SITPASS",
+   "prazo_liberacao_dias_uteis": null,
+   "prazo_liberacao_dias_corridos": 2,
+   "fonte": "Plataforma Otimiza.pro (cadastro de operadoras de vale-transporte), consulta de 19/10/2026",
+   "verificado_em": "2026-10-19"
+  },
+  {
+   "uf": "GO",
+   "operadora_vt": "TAGUATUR AGUAS LINDAS",
+   "prazo_liberacao_dias_uteis": null,
+   "prazo_liberacao_dias_corridos": 3,
+   "fonte": "Plataforma Otimiza.pro (cadastro de operadoras de vale-transporte), consulta de 19/10/2026",
+   "verificado_em": "2026-10-19"
+  },
+  {
+   "uf": "GO",
+   "operadora_vt": "TRANSDUARTE CATALAO",
+   "prazo_liberacao_dias_uteis": null,
+   "prazo_liberacao_dias_corridos": null,
+   "fonte": "Plataforma Otimiza.pro (cadastro de operadoras de vale-transporte), consulta de 19/10/2026",
+   "verificado_em": "2026-10-19"
+  },
+  {
+   "uf": "GO",
+   "operadora_vt": "TRANSLOCAVE JATAI",
+   "prazo_liberacao_dias_uteis": null,
+   "prazo_liberacao_dias_corridos": null,
+   "fonte": "Plataforma Otimiza.pro (cadastro de operadoras de vale-transporte), consulta de 19/10/2026",
+   "verificado_em": "2026-10-19"
+  },
+  {
+   "uf": "GO",
+   "operadora_vt": "URBAN ANAPOLIS",
+   "prazo_liberacao_dias_uteis": null,
+   "prazo_liberacao_dias_corridos": 3,
+   "fonte": "Plataforma Otimiza.pro (cadastro de operadoras de vale-transporte), consulta de 19/10/2026",
+   "verificado_em": "2026-10-19"
+  },
+  {
+   "uf": "GO",
+   "operadora_vt": "VAI DE VAL",
+   "prazo_liberacao_dias_uteis": null,
+   "prazo_liberacao_dias_corridos": null,
+   "fonte": "Plataforma Otimiza.pro (cadastro de operadoras de vale-transporte), consulta de 19/10/2026",
+   "verificado_em": "2026-10-19"
+  },
+  {
+   "uf": "GO",
+   "operadora_vt": "VIA SUL MOBILIDADE",
+   "prazo_liberacao_dias_uteis": null,
+   "prazo_liberacao_dias_corridos": 3,
+   "fonte": "Plataforma Otimiza.pro (cadastro de operadoras de vale-transporte), consulta de 19/10/2026",
+   "verificado_em": "2026-10-19"
+  },
+  {
+   "uf": "GO",
+   "operadora_vt": "VIACAO ARAGUARINA",
+   "prazo_liberacao_dias_uteis": null,
+   "prazo_liberacao_dias_corridos": null,
+   "fonte": "Plataforma Otimiza.pro (cadastro de operadoras de vale-transporte), consulta de 19/10/2026",
+   "verificado_em": "2026-10-19"
+  },
+  {
+   "uf": "MA",
+   "operadora_vt": "RATRANS IMPERATRIZ",
+   "prazo_liberacao_dias_uteis": null,
+   "prazo_liberacao_dias_corridos": null,
+   "fonte": "Plataforma Otimiza.pro (cadastro de operadoras de vale-transporte), consulta de 19/10/2026",
+   "verificado_em": "2026-10-19"
+  },
+  {
+   "uf": "MA",
+   "operadora_vt": "SBE SAO LUIS",
+   "prazo_liberacao_dias_uteis": 3,
+   "prazo_liberacao_dias_corridos": null,
+   "fonte": "Plataforma Otimiza.pro (cadastro de operadoras de vale-transporte), consulta de 19/10/2026",
+   "verificado_em": "2026-10-19"
+  },
+  {
+   "uf": "MA",
+   "operadora_vt": "TIMONENSE",
+   "prazo_liberacao_dias_uteis": null,
+   "prazo_liberacao_dias_corridos": 3,
+   "fonte": "Plataforma Otimiza.pro (cadastro de operadoras de vale-transporte), consulta de 19/10/2026",
+   "verificado_em": "2026-10-19"
+  },
+  {
+   "uf": "MA",
+   "operadora_vt": "ZANCHETTUR",
+   "prazo_liberacao_dias_uteis": null,
+   "prazo_liberacao_dias_corridos": null,
+   "fonte": "Plataforma Otimiza.pro (cadastro de operadoras de vale-transporte), consulta de 19/10/2026",
+   "verificado_em": "2026-10-19"
+  },
+  {
+   "uf": "MG",
+   "operadora_vt": "AUTO OMNIBUS FLORAMAR POCOS DE CALDAS",
+   "prazo_liberacao_dias_uteis": null,
+   "prazo_liberacao_dias_corridos": null,
+   "fonte": "Plataforma Otimiza.pro (cadastro de operadoras de vale-transporte), consulta de 19/10/2026",
+   "verificado_em": "2026-10-19"
+  },
+  {
+   "uf": "MG",
+   "operadora_vt": "AUTOTRANS BRUMADINHO",
+   "prazo_liberacao_dias_uteis": null,
+   "prazo_liberacao_dias_corridos": null,
+   "fonte": "Plataforma Otimiza.pro (cadastro de operadoras de vale-transporte), consulta de 19/10/2026",
+   "verificado_em": "2026-10-19"
+  },
+  {
+   "uf": "MG",
+   "operadora_vt": "AUTOTRANS BUSE LAVRAS",
+   "prazo_liberacao_dias_uteis": null,
+   "prazo_liberacao_dias_corridos": null,
+   "fonte": "Plataforma Otimiza.pro (cadastro de operadoras de vale-transporte), consulta de 19/10/2026",
+   "verificado_em": "2026-10-19"
+  },
+  {
+   "uf": "MG",
+   "operadora_vt": "AUTOTRANS IPATINGA TIMOTEO",
+   "prazo_liberacao_dias_uteis": null,
+   "prazo_liberacao_dias_corridos": null,
+   "fonte": "Plataforma Otimiza.pro (cadastro de operadoras de vale-transporte), consulta de 19/10/2026",
+   "verificado_em": "2026-10-19"
+  },
+  {
+   "uf": "MG",
+   "operadora_vt": "AUTOTRANS VARGINHA",
+   "prazo_liberacao_dias_uteis": null,
+   "prazo_liberacao_dias_corridos": null,
+   "fonte": "Plataforma Otimiza.pro (cadastro de operadoras de vale-transporte), consulta de 19/10/2026",
+   "verificado_em": "2026-10-19"
+  },
+  {
+   "uf": "MG",
+   "operadora_vt": "BETIMCARD",
+   "prazo_liberacao_dias_uteis": null,
+   "prazo_liberacao_dias_corridos": null,
+   "fonte": "Plataforma Otimiza.pro (cadastro de operadoras de vale-transporte), consulta de 19/10/2026",
+   "verificado_em": "2026-10-19"
+  },
+  {
+   "uf": "MG",
+   "operadora_vt": "BHBUS",
+   "prazo_liberacao_dias_uteis": null,
+   "prazo_liberacao_dias_corridos": 3,
+   "fonte": "Plataforma Otimiza.pro (cadastro de operadoras de vale-transporte), consulta de 19/10/2026",
+   "verificado_em": "2026-10-19"
+  },
+  {
+   "uf": "MG",
+   "operadora_vt": "CAF TRANSPORTES",
+   "prazo_liberacao_dias_uteis": null,
+   "prazo_liberacao_dias_corridos": null,
+   "fonte": "Plataforma Otimiza.pro (cadastro de operadoras de vale-transporte), consulta de 19/10/2026",
+   "verificado_em": "2026-10-19"
+  },
+  {
+   "uf": "MG",
+   "operadora_vt": "CARTAO TREC CARD",
+   "prazo_liberacao_dias_uteis": null,
+   "prazo_liberacao_dias_corridos": null,
+   "fonte": "Plataforma Otimiza.pro (cadastro de operadoras de vale-transporte), consulta de 19/10/2026",
+   "verificado_em": "2026-10-19"
+  },
+  {
+   "uf": "MG",
+   "operadora_vt": "CONSORCIO ROTA REAL",
+   "prazo_liberacao_dias_uteis": null,
+   "prazo_liberacao_dias_corridos": null,
+   "fonte": "Plataforma Otimiza.pro (cadastro de operadoras de vale-transporte), consulta de 19/10/2026",
+   "verificado_em": "2026-10-19"
+  },
+  {
+   "uf": "MG",
+   "operadora_vt": "DIVPASS",
+   "prazo_liberacao_dias_uteis": null,
+   "prazo_liberacao_dias_corridos": null,
+   "fonte": "Plataforma Otimiza.pro (cadastro de operadoras de vale-transporte), consulta de 19/10/2026",
+   "verificado_em": "2026-10-19"
+  },
+  {
+   "uf": "MG",
+   "operadora_vt": "EXPRESSO GARDENIA",
+   "prazo_liberacao_dias_uteis": null,
+   "prazo_liberacao_dias_corridos": null,
+   "fonte": "Plataforma Otimiza.pro (cadastro de operadoras de vale-transporte), consulta de 19/10/2026",
+   "verificado_em": "2026-10-19"
+  },
+  {
+   "uf": "MG",
+   "operadora_vt": "EXPRESSO PLANALTO POUSO ALEGRE",
+   "prazo_liberacao_dias_uteis": null,
+   "prazo_liberacao_dias_corridos": null,
+   "fonte": "Plataforma Otimiza.pro (cadastro de operadoras de vale-transporte), consulta de 19/10/2026",
+   "verificado_em": "2026-10-19"
+  },
+  {
+   "uf": "MG",
+   "operadora_vt": "FABRI FACIL",
+   "prazo_liberacao_dias_uteis": null,
+   "prazo_liberacao_dias_corridos": null,
+   "fonte": "Plataforma Otimiza.pro (cadastro de operadoras de vale-transporte), consulta de 19/10/2026",
+   "verificado_em": "2026-10-19"
+  },
+  {
+   "uf": "MG",
+   "operadora_vt": "MAX TUOR",
+   "prazo_liberacao_dias_uteis": null,
+   "prazo_liberacao_dias_corridos": null,
+   "fonte": "Plataforma Otimiza.pro (cadastro de operadoras de vale-transporte), consulta de 19/10/2026",
+   "verificado_em": "2026-10-19"
+  },
+  {
+   "uf": "MG",
+   "operadora_vt": "MOBI GV",
+   "prazo_liberacao_dias_uteis": null,
+   "prazo_liberacao_dias_corridos": null,
+   "fonte": "Plataforma Otimiza.pro (cadastro de operadoras de vale-transporte), consulta de 19/10/2026",
+   "verificado_em": "2026-10-19"
+  },
+  {
+   "uf": "MG",
+   "operadora_vt": "MOOV JUIZ DE FORA",
+   "prazo_liberacao_dias_uteis": null,
+   "prazo_liberacao_dias_corridos": null,
+   "fonte": "Plataforma Otimiza.pro (cadastro de operadoras de vale-transporte), consulta de 19/10/2026",
+   "verificado_em": "2026-10-19"
+  },
+  {
+   "uf": "MG",
+   "operadora_vt": "OTIMO",
+   "prazo_liberacao_dias_uteis": null,
+   "prazo_liberacao_dias_corridos": null,
+   "fonte": "Plataforma Otimiza.pro (cadastro de operadoras de vale-transporte), consulta de 19/10/2026",
+   "verificado_em": "2026-10-19"
+  },
+  {
+   "uf": "MG",
+   "operadora_vt": "SANTA CRUZ PAY",
+   "prazo_liberacao_dias_uteis": null,
+   "prazo_liberacao_dias_corridos": null,
+   "fonte": "Plataforma Otimiza.pro (cadastro de operadoras de vale-transporte), consulta de 19/10/2026",
+   "verificado_em": "2026-10-19"
+  },
+  {
+   "uf": "MG",
+   "operadora_vt": "SIT FACIL UBERLANDIA",
+   "prazo_liberacao_dias_uteis": null,
+   "prazo_liberacao_dias_corridos": null,
+   "fonte": "Plataforma Otimiza.pro (cadastro de operadoras de vale-transporte), consulta de 19/10/2026",
+   "verificado_em": "2026-10-19"
+  },
+  {
+   "uf": "MG",
+   "operadora_vt": "TCL CATAQUASES",
+   "prazo_liberacao_dias_uteis": null,
+   "prazo_liberacao_dias_corridos": null,
+   "fonte": "Plataforma Otimiza.pro (cadastro de operadoras de vale-transporte), consulta de 19/10/2026",
+   "verificado_em": "2026-10-19"
+  },
+  {
+   "uf": "MG",
+   "operadora_vt": "TRANSUBE UBERABA",
+   "prazo_liberacao_dias_uteis": null,
+   "prazo_liberacao_dias_corridos": null,
+   "fonte": "Plataforma Otimiza.pro (cadastro de operadoras de vale-transporte), consulta de 19/10/2026",
+   "verificado_em": "2026-10-19"
+  },
+  {
+   "uf": "MG",
+   "operadora_vt": "TUPI TRANSPORTE",
+   "prazo_liberacao_dias_uteis": null,
+   "prazo_liberacao_dias_corridos": null,
+   "fonte": "Plataforma Otimiza.pro (cadastro de operadoras de vale-transporte), consulta de 19/10/2026",
+   "verificado_em": "2026-10-19"
+  },
+  {
+   "uf": "MG",
+   "operadora_vt": "TURI TRANSCARD SETE LAGOAS",
+   "prazo_liberacao_dias_uteis": null,
+   "prazo_liberacao_dias_corridos": null,
+   "fonte": "Plataforma Otimiza.pro (cadastro de operadoras de vale-transporte), consulta de 19/10/2026",
+   "verificado_em": "2026-10-19"
+  },
+  {
+   "uf": "MG",
+   "operadora_vt": "UBERTRANS",
+   "prazo_liberacao_dias_uteis": null,
+   "prazo_liberacao_dias_corridos": null,
+   "fonte": "Plataforma Otimiza.pro (cadastro de operadoras de vale-transporte), consulta de 19/10/2026",
+   "verificado_em": "2026-10-19"
+  },
+  {
+   "uf": "MG",
+   "operadora_vt": "UNIVALE MG",
+   "prazo_liberacao_dias_uteis": null,
+   "prazo_liberacao_dias_corridos": null,
+   "fonte": "Plataforma Otimiza.pro (cadastro de operadoras de vale-transporte), consulta de 19/10/2026",
+   "verificado_em": "2026-10-19"
+  },
+  {
+   "uf": "MG",
+   "operadora_vt": "VIACAO BRAULINO",
+   "prazo_liberacao_dias_uteis": null,
+   "prazo_liberacao_dias_corridos": null,
+   "fonte": "Plataforma Otimiza.pro (cadastro de operadoras de vale-transporte), consulta de 19/10/2026",
+   "verificado_em": "2026-10-19"
+  },
+  {
+   "uf": "MG",
+   "operadora_vt": "VIACAO REAL LAVRAS",
+   "prazo_liberacao_dias_uteis": null,
+   "prazo_liberacao_dias_corridos": null,
+   "fonte": "Plataforma Otimiza.pro (cadastro de operadoras de vale-transporte), consulta de 19/10/2026",
+   "verificado_em": "2026-10-19"
+  },
+  {
+   "uf": "MG",
+   "operadora_vt": "VIACAO REAL VARGINHA",
+   "prazo_liberacao_dias_uteis": null,
+   "prazo_liberacao_dias_corridos": null,
+   "fonte": "Plataforma Otimiza.pro (cadastro de operadoras de vale-transporte), consulta de 19/10/2026",
+   "verificado_em": "2026-10-19"
+  },
+  {
+   "uf": "MG",
+   "operadora_vt": "VIACAO SAO CRISTOVAO",
+   "prazo_liberacao_dias_uteis": null,
+   "prazo_liberacao_dias_corridos": null,
+   "fonte": "Plataforma Otimiza.pro (cadastro de operadoras de vale-transporte), consulta de 19/10/2026",
+   "verificado_em": "2026-10-19"
+  },
+  {
+   "uf": "MG",
+   "operadora_vt": "VIACAO UBA",
+   "prazo_liberacao_dias_uteis": null,
+   "prazo_liberacao_dias_corridos": null,
+   "fonte": "Plataforma Otimiza.pro (cadastro de operadoras de vale-transporte), consulta de 19/10/2026",
+   "verificado_em": "2026-10-19"
+  },
+  {
+   "uf": "MG",
+   "operadora_vt": "VIACAO VALE DO MUCURY",
+   "prazo_liberacao_dias_uteis": null,
+   "prazo_liberacao_dias_corridos": null,
+   "fonte": "Plataforma Otimiza.pro (cadastro de operadoras de vale-transporte), consulta de 19/10/2026",
+   "verificado_em": "2026-10-19"
+  },
+  {
+   "uf": "MS",
+   "operadora_vt": "GUAICURUS",
+   "prazo_liberacao_dias_uteis": null,
+   "prazo_liberacao_dias_corridos": null,
+   "fonte": "Plataforma Otimiza.pro (cadastro de operadoras de vale-transporte), consulta de 19/10/2026",
+   "verificado_em": "2026-10-19"
+  },
+  {
+   "uf": "MS",
+   "operadora_vt": "VIACAO CIDADE CORUMBA",
+   "prazo_liberacao_dias_uteis": null,
+   "prazo_liberacao_dias_corridos": null,
+   "fonte": "Plataforma Otimiza.pro (cadastro de operadoras de vale-transporte), consulta de 19/10/2026",
+   "verificado_em": "2026-10-19"
+  },
+  {
+   "uf": "MS",
+   "operadora_vt": "VIACAO DOURADOS",
+   "prazo_liberacao_dias_uteis": null,
+   "prazo_liberacao_dias_corridos": null,
+   "fonte": "Plataforma Otimiza.pro (cadastro de operadoras de vale-transporte), consulta de 19/10/2026",
+   "verificado_em": "2026-10-19"
+  },
+  {
+   "uf": "MT",
+   "operadora_vt": "AMTC RONDONOPOLIS",
+   "prazo_liberacao_dias_uteis": null,
+   "prazo_liberacao_dias_corridos": 3,
+   "fonte": "Plataforma Otimiza.pro (cadastro de operadoras de vale-transporte), consulta de 19/10/2026",
+   "verificado_em": "2026-10-19"
+  },
+  {
+   "uf": "MT",
+   "operadora_vt": "AMTU CUIABA",
+   "prazo_liberacao_dias_uteis": null,
+   "prazo_liberacao_dias_corridos": 2,
+   "fonte": "Plataforma Otimiza.pro (cadastro de operadoras de vale-transporte), consulta de 19/10/2026",
+   "verificado_em": "2026-10-19"
+  },
+  {
+   "uf": "PA",
+   "operadora_vt": "COOCATUR",
+   "prazo_liberacao_dias_uteis": null,
+   "prazo_liberacao_dias_corridos": null,
+   "fonte": "Plataforma Otimiza.pro (cadastro de operadoras de vale-transporte), consulta de 19/10/2026",
+   "verificado_em": "2026-10-19"
+  },
+  {
+   "uf": "PA",
+   "operadora_vt": "PASSE FACIL BELEM",
+   "prazo_liberacao_dias_uteis": null,
+   "prazo_liberacao_dias_corridos": 3,
+   "fonte": "Plataforma Otimiza.pro (cadastro de operadoras de vale-transporte), consulta de 19/10/2026",
+   "verificado_em": "2026-10-19"
+  },
+  {
+   "uf": "PA",
+   "operadora_vt": "PRA JA",
+   "prazo_liberacao_dias_uteis": null,
+   "prazo_liberacao_dias_corridos": 2,
+   "fonte": "Plataforma Otimiza.pro (cadastro de operadoras de vale-transporte), consulta de 19/10/2026",
+   "verificado_em": "2026-10-19"
+  },
+  {
+   "uf": "PA",
+   "operadora_vt": "SIME CASTANHAL",
+   "prazo_liberacao_dias_uteis": null,
+   "prazo_liberacao_dias_corridos": null,
+   "fonte": "Plataforma Otimiza.pro (cadastro de operadoras de vale-transporte), consulta de 19/10/2026",
+   "verificado_em": "2026-10-19"
+  },
+  {
+   "uf": "PA",
+   "operadora_vt": "STARTEC",
+   "prazo_liberacao_dias_uteis": null,
+   "prazo_liberacao_dias_corridos": null,
+   "fonte": "Plataforma Otimiza.pro (cadastro de operadoras de vale-transporte), consulta de 19/10/2026",
+   "verificado_em": "2026-10-19"
+  },
+  {
+   "uf": "PA",
+   "operadora_vt": "VIACAO TUCURUI",
+   "prazo_liberacao_dias_uteis": null,
+   "prazo_liberacao_dias_corridos": null,
+   "fonte": "Plataforma Otimiza.pro (cadastro de operadoras de vale-transporte), consulta de 19/10/2026",
+   "verificado_em": "2026-10-19"
+  },
+  {
+   "uf": "PA",
+   "operadora_vt": "VTM INTEGRACAO MARABA",
+   "prazo_liberacao_dias_uteis": null,
+   "prazo_liberacao_dias_corridos": null,
+   "fonte": "Plataforma Otimiza.pro (cadastro de operadoras de vale-transporte), consulta de 19/10/2026",
+   "verificado_em": "2026-10-19"
+  },
+  {
+   "uf": "PB",
+   "operadora_vt": "NUBUS JOAO PESSOA",
+   "prazo_liberacao_dias_uteis": null,
+   "prazo_liberacao_dias_corridos": null,
+   "fonte": "Plataforma Otimiza.pro (cadastro de operadoras de vale-transporte), consulta de 19/10/2026",
+   "verificado_em": "2026-10-19"
+  },
+  {
+   "uf": "PB",
+   "operadora_vt": "SITRANS CAMPINA GRANDE",
+   "prazo_liberacao_dias_uteis": null,
+   "prazo_liberacao_dias_corridos": null,
+   "fonte": "Plataforma Otimiza.pro (cadastro de operadoras de vale-transporte), consulta de 19/10/2026",
+   "verificado_em": "2026-10-19"
+  },
+  {
+   "uf": "PE",
+   "operadora_vt": "BEM FACIL CABO",
+   "prazo_liberacao_dias_uteis": null,
+   "prazo_liberacao_dias_corridos": null,
+   "fonte": "Plataforma Otimiza.pro (cadastro de operadoras de vale-transporte), consulta de 19/10/2026",
+   "verificado_em": "2026-10-19"
+  },
+  {
+   "uf": "PE",
+   "operadora_vt": "BORBOREMA",
+   "prazo_liberacao_dias_uteis": null,
+   "prazo_liberacao_dias_corridos": null,
+   "fonte": "Plataforma Otimiza.pro (cadastro de operadoras de vale-transporte), consulta de 19/10/2026",
+   "verificado_em": "2026-10-19"
+  },
+  {
+   "uf": "PE",
+   "operadora_vt": "CARTAO LEVA",
+   "prazo_liberacao_dias_uteis": null,
+   "prazo_liberacao_dias_corridos": null,
+   "fonte": "Plataforma Otimiza.pro (cadastro de operadoras de vale-transporte), consulta de 19/10/2026",
+   "verificado_em": "2026-10-19"
+  },
+  {
+   "uf": "PE",
+   "operadora_vt": "JOAFRA TRANSPORTE (SETRANVASF)",
+   "prazo_liberacao_dias_uteis": null,
+   "prazo_liberacao_dias_corridos": null,
+   "fonte": "Plataforma Otimiza.pro (cadastro de operadoras de vale-transporte), consulta de 19/10/2026",
+   "verificado_em": "2026-10-19"
+  },
+  {
+   "uf": "PE",
+   "operadora_vt": "SIM PETROLINA",
+   "prazo_liberacao_dias_uteis": null,
+   "prazo_liberacao_dias_corridos": null,
+   "fonte": "Plataforma Otimiza.pro (cadastro de operadoras de vale-transporte), consulta de 19/10/2026",
+   "verificado_em": "2026-10-19"
+  },
+  {
+   "uf": "PE",
+   "operadora_vt": "VEM GRANDE RECIFE",
+   "prazo_liberacao_dias_uteis": null,
+   "prazo_liberacao_dias_corridos": null,
+   "fonte": "Plataforma Otimiza.pro (cadastro de operadoras de vale-transporte), consulta de 19/10/2026",
+   "verificado_em": "2026-10-19"
+  },
+  {
+   "uf": "PI",
+   "operadora_vt": "ANDRADE TRANSPORTES TERESINA",
+   "prazo_liberacao_dias_uteis": null,
+   "prazo_liberacao_dias_corridos": null,
+   "fonte": "Plataforma Otimiza.pro (cadastro de operadoras de vale-transporte), consulta de 19/10/2026",
+   "verificado_em": "2026-10-19"
+  },
+  {
+   "uf": "PI",
+   "operadora_vt": "SETUT TERESINA",
+   "prazo_liberacao_dias_uteis": null,
+   "prazo_liberacao_dias_corridos": 3,
+   "fonte": "Plataforma Otimiza.pro (cadastro de operadoras de vale-transporte), consulta de 19/10/2026",
+   "verificado_em": "2026-10-19"
+  },
+  {
+   "uf": "PI",
+   "operadora_vt": "TRANSFURTADO PIAUI",
+   "prazo_liberacao_dias_uteis": null,
+   "prazo_liberacao_dias_corridos": null,
+   "fonte": "Plataforma Otimiza.pro (cadastro de operadoras de vale-transporte), consulta de 19/10/2026",
+   "verificado_em": "2026-10-19"
+  },
+  {
+   "uf": "PI",
+   "operadora_vt": "VIACAO CAMPOMAIORENSE",
+   "prazo_liberacao_dias_uteis": null,
+   "prazo_liberacao_dias_corridos": null,
+   "fonte": "Plataforma Otimiza.pro (cadastro de operadoras de vale-transporte), consulta de 19/10/2026",
+   "verificado_em": "2026-10-19"
+  },
+  {
+   "uf": "PR",
+   "operadora_vt": "GRANDE LONDRINA CAMBE E IBIPORA",
+   "prazo_liberacao_dias_uteis": null,
+   "prazo_liberacao_dias_corridos": null,
+   "fonte": "Plataforma Otimiza.pro (cadastro de operadoras de vale-transporte), consulta de 19/10/2026",
+   "verificado_em": "2026-10-19"
+  },
+  {
+   "uf": "PR",
+   "operadora_vt": "GRANDE LONDRINA LONDRINA",
+   "prazo_liberacao_dias_uteis": null,
+   "prazo_liberacao_dias_corridos": null,
+   "fonte": "Plataforma Otimiza.pro (cadastro de operadoras de vale-transporte), consulta de 19/10/2026",
+   "verificado_em": "2026-10-19"
+  },
+  {
+   "uf": "PR",
+   "operadora_vt": "METROCARD",
+   "prazo_liberacao_dias_uteis": null,
+   "prazo_liberacao_dias_corridos": null,
+   "fonte": "Plataforma Otimiza.pro (cadastro de operadoras de vale-transporte), consulta de 19/10/2026",
+   "verificado_em": "2026-10-19"
+  },
+  {
+   "uf": "PR",
+   "operadora_vt": "PASSE FACIL TCCC PAICANDU",
+   "prazo_liberacao_dias_uteis": null,
+   "prazo_liberacao_dias_corridos": null,
+   "fonte": "Plataforma Otimiza.pro (cadastro de operadoras de vale-transporte), consulta de 19/10/2026",
+   "verificado_em": "2026-10-19"
+  },
+  {
+   "uf": "PR",
+   "operadora_vt": "PASSE FACIL TCCC URBANO",
+   "prazo_liberacao_dias_uteis": null,
+   "prazo_liberacao_dias_corridos": null,
+   "fonte": "Plataforma Otimiza.pro (cadastro de operadoras de vale-transporte), consulta de 19/10/2026",
+   "verificado_em": "2026-10-19"
+  },
+  {
+   "uf": "PR",
+   "operadora_vt": "TRANSPIEDADE CAMPO LARGO",
+   "prazo_liberacao_dias_uteis": null,
+   "prazo_liberacao_dias_corridos": null,
+   "fonte": "Plataforma Otimiza.pro (cadastro de operadoras de vale-transporte), consulta de 19/10/2026",
+   "verificado_em": "2026-10-19"
+  },
+  {
+   "uf": "PR",
+   "operadora_vt": "TRIAR ARAUCARIA",
+   "prazo_liberacao_dias_uteis": null,
+   "prazo_liberacao_dias_corridos": 3,
+   "fonte": "Plataforma Otimiza.pro (cadastro de operadoras de vale-transporte), consulta de 19/10/2026",
+   "verificado_em": "2026-10-19"
+  },
+  {
+   "uf": "PR",
+   "operadora_vt": "URBS",
+   "prazo_liberacao_dias_uteis": null,
+   "prazo_liberacao_dias_corridos": null,
+   "fonte": "Plataforma Otimiza.pro (cadastro de operadoras de vale-transporte), consulta de 19/10/2026",
+   "verificado_em": "2026-10-19"
+  },
+  {
+   "uf": "PR",
+   "operadora_vt": "VALE SIM",
+   "prazo_liberacao_dias_uteis": null,
+   "prazo_liberacao_dias_corridos": null,
+   "fonte": "Plataforma Otimiza.pro (cadastro de operadoras de vale-transporte), consulta de 19/10/2026",
+   "verificado_em": "2026-10-19"
+  },
+  {
+   "uf": "PR",
+   "operadora_vt": "VEM SAO JOSE DOS PINHAIS",
+   "prazo_liberacao_dias_uteis": null,
+   "prazo_liberacao_dias_corridos": null,
+   "fonte": "Plataforma Otimiza.pro (cadastro de operadoras de vale-transporte), consulta de 19/10/2026",
+   "verificado_em": "2026-10-19"
+  },
+  {
+   "uf": "PR",
+   "operadora_vt": "VIACAO CAMPOS GERAIS",
+   "prazo_liberacao_dias_uteis": null,
+   "prazo_liberacao_dias_corridos": null,
+   "fonte": "Plataforma Otimiza.pro (cadastro de operadoras de vale-transporte), consulta de 19/10/2026",
+   "verificado_em": "2026-10-19"
+  },
+  {
+   "uf": "PR",
+   "operadora_vt": "VIACAO GARCIA",
+   "prazo_liberacao_dias_uteis": null,
+   "prazo_liberacao_dias_corridos": null,
+   "fonte": "Plataforma Otimiza.pro (cadastro de operadoras de vale-transporte), consulta de 19/10/2026",
+   "verificado_em": "2026-10-19"
+  },
+  {
+   "uf": "PR",
+   "operadora_vt": "VIACAO SANTA CLARA",
+   "prazo_liberacao_dias_uteis": null,
+   "prazo_liberacao_dias_corridos": null,
+   "fonte": "Plataforma Otimiza.pro (cadastro de operadoras de vale-transporte), consulta de 19/10/2026",
+   "verificado_em": "2026-10-19"
+  },
+  {
+   "uf": "PR",
+   "operadora_vt": "VIACAO UMURAMA",
+   "prazo_liberacao_dias_uteis": null,
+   "prazo_liberacao_dias_corridos": null,
+   "fonte": "Plataforma Otimiza.pro (cadastro de operadoras de vale-transporte), consulta de 19/10/2026",
+   "verificado_em": "2026-10-19"
+  },
+  {
+   "uf": "RJ",
+   "operadora_vt": "BAMONTE TRANSPORTE",
+   "prazo_liberacao_dias_uteis": null,
+   "prazo_liberacao_dias_corridos": null,
+   "fonte": "Plataforma Otimiza.pro (cadastro de operadoras de vale-transporte), consulta de 19/10/2026",
+   "verificado_em": "2026-10-19"
+  },
+  {
+   "uf": "RJ",
+   "operadora_vt": "BONFIM CARD",
+   "prazo_liberacao_dias_uteis": null,
+   "prazo_liberacao_dias_corridos": 3,
+   "fonte": "Plataforma Otimiza.pro (cadastro de operadoras de vale-transporte), consulta de 19/10/2026",
+   "verificado_em": "2026-10-19"
+  },
+  {
+   "uf": "RJ",
+   "operadora_vt": "CARTAO JAE",
+   "prazo_liberacao_dias_uteis": 2,
+   "prazo_liberacao_dias_corridos": null,
+   "fonte": "Plataforma Otimiza.pro (cadastro de operadoras de vale-transporte), consulta de 19/10/2026",
+   "verificado_em": "2026-10-19"
+  },
+  {
+   "uf": "RJ",
+   "operadora_vt": "EXPRESSO PINTO E PALMA",
+   "prazo_liberacao_dias_uteis": null,
+   "prazo_liberacao_dias_corridos": null,
+   "fonte": "Plataforma Otimiza.pro (cadastro de operadoras de vale-transporte), consulta de 19/10/2026",
+   "verificado_em": "2026-10-19"
+  },
+  {
+   "uf": "RJ",
+   "operadora_vt": "FACIL TRANSPORTES",
+   "prazo_liberacao_dias_uteis": null,
+   "prazo_liberacao_dias_corridos": null,
+   "fonte": "Plataforma Otimiza.pro (cadastro de operadoras de vale-transporte), consulta de 19/10/2026",
+   "verificado_em": "2026-10-19"
+  },
+  {
+   "uf": "RJ",
+   "operadora_vt": "GLOBAL MOB",
+   "prazo_liberacao_dias_uteis": null,
+   "prazo_liberacao_dias_corridos": 3,
+   "fonte": "Plataforma Otimiza.pro (cadastro de operadoras de vale-transporte), consulta de 19/10/2026",
+   "verificado_em": "2026-10-19"
+  },
+  {
+   "uf": "RJ",
+   "operadora_vt": "MOOV PARAIBA DO SUL",
+   "prazo_liberacao_dias_uteis": null,
+   "prazo_liberacao_dias_corridos": null,
+   "fonte": "Plataforma Otimiza.pro (cadastro de operadoras de vale-transporte), consulta de 19/10/2026",
+   "verificado_em": "2026-10-19"
+  },
+  {
+   "uf": "RJ",
+   "operadora_vt": "NOVOVALE VANS",
+   "prazo_liberacao_dias_uteis": null,
+   "prazo_liberacao_dias_corridos": null,
+   "fonte": "Plataforma Otimiza.pro (cadastro de operadoras de vale-transporte), consulta de 19/10/2026",
+   "verificado_em": "2026-10-19"
+  },
+  {
+   "uf": "RJ",
+   "operadora_vt": "PARTIU NOVA FRIBURGO",
+   "prazo_liberacao_dias_uteis": null,
+   "prazo_liberacao_dias_corridos": null,
+   "fonte": "Plataforma Otimiza.pro (cadastro de operadoras de vale-transporte), consulta de 19/10/2026",
+   "verificado_em": "2026-10-19"
+  },
+  {
+   "uf": "RJ",
+   "operadora_vt": "RIOCARD",
+   "prazo_liberacao_dias_uteis": null,
+   "prazo_liberacao_dias_corridos": 3,
+   "fonte": "Plataforma Otimiza.pro (cadastro de operadoras de vale-transporte), consulta de 19/10/2026",
+   "verificado_em": "2026-10-19"
+  },
+  {
+   "uf": "RJ",
+   "operadora_vt": "SAO MIGUEL DE RESENDE",
+   "prazo_liberacao_dias_uteis": null,
+   "prazo_liberacao_dias_corridos": null,
+   "fonte": "Plataforma Otimiza.pro (cadastro de operadoras de vale-transporte), consulta de 19/10/2026",
+   "verificado_em": "2026-10-19"
+  },
+  {
+   "uf": "RJ",
+   "operadora_vt": "SINDPASS",
+   "prazo_liberacao_dias_uteis": null,
+   "prazo_liberacao_dias_corridos": null,
+   "fonte": "Plataforma Otimiza.pro (cadastro de operadoras de vale-transporte), consulta de 19/10/2026",
+   "verificado_em": "2026-10-19"
+  },
+  {
+   "uf": "RJ",
+   "operadora_vt": "TRANSA TRANSPORTES",
+   "prazo_liberacao_dias_uteis": null,
+   "prazo_liberacao_dias_corridos": null,
+   "fonte": "Plataforma Otimiza.pro (cadastro de operadoras de vale-transporte), consulta de 19/10/2026",
+   "verificado_em": "2026-10-19"
+  },
+  {
+   "uf": "RJ",
+   "operadora_vt": "UTIL UNIAO TRANSPORTE",
+   "prazo_liberacao_dias_uteis": null,
+   "prazo_liberacao_dias_corridos": null,
+   "fonte": "Plataforma Otimiza.pro (cadastro de operadoras de vale-transporte), consulta de 19/10/2026",
+   "verificado_em": "2026-10-19"
+  },
+  {
+   "uf": "RJ",
+   "operadora_vt": "VANCARD",
+   "prazo_liberacao_dias_uteis": null,
+   "prazo_liberacao_dias_corridos": null,
+   "fonte": "Plataforma Otimiza.pro (cadastro de operadoras de vale-transporte), consulta de 19/10/2026",
+   "verificado_em": "2026-10-19"
+  },
+  {
+   "uf": "RJ",
+   "operadora_vt": "VIACAO ITAPETINGA RJ",
+   "prazo_liberacao_dias_uteis": null,
+   "prazo_liberacao_dias_corridos": null,
+   "fonte": "Plataforma Otimiza.pro (cadastro de operadoras de vale-transporte), consulta de 19/10/2026",
+   "verificado_em": "2026-10-19"
+  },
+  {
+   "uf": "RJ",
+   "operadora_vt": "VIACAO PROGRESSO",
+   "prazo_liberacao_dias_uteis": null,
+   "prazo_liberacao_dias_corridos": null,
+   "fonte": "Plataforma Otimiza.pro (cadastro de operadoras de vale-transporte), consulta de 19/10/2026",
+   "verificado_em": "2026-10-19"
+  },
+  {
+   "uf": "RJ",
+   "operadora_vt": "VIACAO SAMPAIO",
+   "prazo_liberacao_dias_uteis": null,
+   "prazo_liberacao_dias_corridos": null,
+   "fonte": "Plataforma Otimiza.pro (cadastro de operadoras de vale-transporte), consulta de 19/10/2026",
+   "verificado_em": "2026-10-19"
+  },
+  {
+   "uf": "RJ",
+   "operadora_vt": "VSL CARD VIACAO SANTA LUCIA",
+   "prazo_liberacao_dias_uteis": null,
+   "prazo_liberacao_dias_corridos": null,
+   "fonte": "Plataforma Otimiza.pro (cadastro de operadoras de vale-transporte), consulta de 19/10/2026",
+   "verificado_em": "2026-10-19"
+  },
+  {
+   "uf": "RN",
+   "operadora_vt": "BEM CARD",
+   "prazo_liberacao_dias_uteis": null,
+   "prazo_liberacao_dias_corridos": null,
+   "fonte": "Plataforma Otimiza.pro (cadastro de operadoras de vale-transporte), consulta de 19/10/2026",
+   "verificado_em": "2026-10-19"
+  },
+  {
+   "uf": "RN",
+   "operadora_vt": "MOSSORO CARD",
+   "prazo_liberacao_dias_uteis": null,
+   "prazo_liberacao_dias_corridos": null,
+   "fonte": "Plataforma Otimiza.pro (cadastro de operadoras de vale-transporte), consulta de 19/10/2026",
+   "verificado_em": "2026-10-19"
+  },
+  {
+   "uf": "RN",
+   "operadora_vt": "NUBUS NATAL",
+   "prazo_liberacao_dias_uteis": null,
+   "prazo_liberacao_dias_corridos": null,
+   "fonte": "Plataforma Otimiza.pro (cadastro de operadoras de vale-transporte), consulta de 19/10/2026",
+   "verificado_em": "2026-10-19"
+  },
+  {
+   "uf": "RN",
+   "operadora_vt": "RN CARD",
+   "prazo_liberacao_dias_uteis": null,
+   "prazo_liberacao_dias_corridos": null,
+   "fonte": "Plataforma Otimiza.pro (cadastro de operadoras de vale-transporte), consulta de 19/10/2026",
+   "verificado_em": "2026-10-19"
+  },
+  {
+   "uf": "RN",
+   "operadora_vt": "TRANSNORTE TRANSPORTES AQUAVIARIOS",
+   "prazo_liberacao_dias_uteis": null,
+   "prazo_liberacao_dias_corridos": null,
+   "fonte": "Plataforma Otimiza.pro (cadastro de operadoras de vale-transporte), consulta de 19/10/2026",
+   "verificado_em": "2026-10-19"
+  },
+  {
+   "uf": "RO",
+   "operadora_vt": "COM CARD PORTO VELHO",
+   "prazo_liberacao_dias_uteis": null,
+   "prazo_liberacao_dias_corridos": null,
+   "fonte": "Plataforma Otimiza.pro (cadastro de operadoras de vale-transporte), consulta de 19/10/2026",
+   "verificado_em": "2026-10-19"
+  },
+  {
+   "uf": "RR",
+   "operadora_vt": "BOA VISTA CARD",
+   "prazo_liberacao_dias_uteis": null,
+   "prazo_liberacao_dias_corridos": null,
+   "fonte": "Plataforma Otimiza.pro (cadastro de operadoras de vale-transporte), consulta de 19/10/2026",
+   "verificado_em": "2026-10-19"
+  },
+  {
+   "uf": "RS",
+   "operadora_vt": "AUTO VIACAO VALE DO SOL",
+   "prazo_liberacao_dias_uteis": null,
+   "prazo_liberacao_dias_corridos": null,
+   "fonte": "Plataforma Otimiza.pro (cadastro de operadoras de vale-transporte), consulta de 19/10/2026",
+   "verificado_em": "2026-10-19"
+  },
+  {
+   "uf": "RS",
+   "operadora_vt": "AVIPAN URBANO",
+   "prazo_liberacao_dias_uteis": null,
+   "prazo_liberacao_dias_corridos": null,
+   "fonte": "Plataforma Otimiza.pro (cadastro de operadoras de vale-transporte), consulta de 19/10/2026",
+   "verificado_em": "2026-10-19"
+  },
+  {
+   "uf": "RS",
+   "operadora_vt": "CARTAO BA",
+   "prazo_liberacao_dias_uteis": null,
+   "prazo_liberacao_dias_corridos": null,
+   "fonte": "Plataforma Otimiza.pro (cadastro de operadoras de vale-transporte), consulta de 19/10/2026",
+   "verificado_em": "2026-10-19"
+  },
+  {
+   "uf": "RS",
+   "operadora_vt": "CARTAO RIO GRANDE",
+   "prazo_liberacao_dias_uteis": null,
+   "prazo_liberacao_dias_corridos": null,
+   "fonte": "Plataforma Otimiza.pro (cadastro de operadoras de vale-transporte), consulta de 19/10/2026",
+   "verificado_em": "2026-10-19"
+  },
+  {
+   "uf": "RS",
+   "operadora_vt": "CARTAO SIM SANTA MARIA",
+   "prazo_liberacao_dias_uteis": null,
+   "prazo_liberacao_dias_corridos": null,
+   "fonte": "Plataforma Otimiza.pro (cadastro de operadoras de vale-transporte), consulta de 19/10/2026",
+   "verificado_em": "2026-10-19"
+  },
+  {
+   "uf": "RS",
+   "operadora_vt": "CARTAO VIM SA",
+   "prazo_liberacao_dias_uteis": null,
+   "prazo_liberacao_dias_corridos": null,
+   "fonte": "Plataforma Otimiza.pro (cadastro de operadoras de vale-transporte), consulta de 19/10/2026",
+   "verificado_em": "2026-10-19"
+  },
+  {
+   "uf": "RS",
+   "operadora_vt": "CARTAO VINO VT",
+   "prazo_liberacao_dias_uteis": null,
+   "prazo_liberacao_dias_corridos": null,
+   "fonte": "Plataforma Otimiza.pro (cadastro de operadoras de vale-transporte), consulta de 19/10/2026",
+   "verificado_em": "2026-10-19"
+  },
+  {
+   "uf": "RS",
+   "operadora_vt": "CITRAL",
+   "prazo_liberacao_dias_uteis": null,
+   "prazo_liberacao_dias_corridos": null,
+   "fonte": "Plataforma Otimiza.pro (cadastro de operadoras de vale-transporte), consulta de 19/10/2026",
+   "verificado_em": "2026-10-19"
+  },
+  {
+   "uf": "RS",
+   "operadora_vt": "COLEO SAO LEOPOLDO",
+   "prazo_liberacao_dias_uteis": null,
+   "prazo_liberacao_dias_corridos": 3,
+   "fonte": "Plataforma Otimiza.pro (cadastro de operadoras de vale-transporte), consulta de 19/10/2026",
+   "verificado_em": "2026-10-19"
+  },
+  {
+   "uf": "RS",
+   "operadora_vt": "COLEURB",
+   "prazo_liberacao_dias_uteis": null,
+   "prazo_liberacao_dias_corridos": null,
+   "fonte": "Plataforma Otimiza.pro (cadastro de operadoras de vale-transporte), consulta de 19/10/2026",
+   "verificado_em": "2026-10-19"
+  },
+  {
+   "uf": "RS",
+   "operadora_vt": "CONSORCIO TCS",
+   "prazo_liberacao_dias_uteis": null,
+   "prazo_liberacao_dias_corridos": null,
+   "fonte": "Plataforma Otimiza.pro (cadastro de operadoras de vale-transporte), consulta de 19/10/2026",
+   "verificado_em": "2026-10-19"
+  },
+  {
+   "uf": "RS",
+   "operadora_vt": "EMPRESA LOUZADA",
+   "prazo_liberacao_dias_uteis": null,
+   "prazo_liberacao_dias_corridos": null,
+   "fonte": "Plataforma Otimiza.pro (cadastro de operadoras de vale-transporte), consulta de 19/10/2026",
+   "verificado_em": "2026-10-19"
+  },
+  {
+   "uf": "RS",
+   "operadora_vt": "ESTEIO MOB",
+   "prazo_liberacao_dias_uteis": null,
+   "prazo_liberacao_dias_corridos": 3,
+   "fonte": "Plataforma Otimiza.pro (cadastro de operadoras de vale-transporte), consulta de 19/10/2026",
+   "verificado_em": "2026-10-19"
+  },
+  {
+   "uf": "RS",
+   "operadora_vt": "EXPRESSO EMBAIXADOR",
+   "prazo_liberacao_dias_uteis": null,
+   "prazo_liberacao_dias_corridos": null,
+   "fonte": "Plataforma Otimiza.pro (cadastro de operadoras de vale-transporte), consulta de 19/10/2026",
+   "verificado_em": "2026-10-19"
+  },
+  {
+   "uf": "RS",
+   "operadora_vt": "EXPRESSO FRONTEIRA D OESTE",
+   "prazo_liberacao_dias_uteis": null,
+   "prazo_liberacao_dias_corridos": null,
+   "fonte": "Plataforma Otimiza.pro (cadastro de operadoras de vale-transporte), consulta de 19/10/2026",
+   "verificado_em": "2026-10-19"
+  },
+  {
+   "uf": "RS",
+   "operadora_vt": "EXPRESSO SANTO ANTONIO",
+   "prazo_liberacao_dias_uteis": null,
+   "prazo_liberacao_dias_corridos": null,
+   "fonte": "Plataforma Otimiza.pro (cadastro de operadoras de vale-transporte), consulta de 19/10/2026",
+   "verificado_em": "2026-10-19"
+  },
+  {
+   "uf": "RS",
+   "operadora_vt": "EXPRESSO TODA HORA",
+   "prazo_liberacao_dias_uteis": null,
+   "prazo_liberacao_dias_corridos": null,
+   "fonte": "Plataforma Otimiza.pro (cadastro de operadoras de vale-transporte), consulta de 19/10/2026",
+   "verificado_em": "2026-10-19"
+  },
+  {
+   "uf": "RS",
+   "operadora_vt": "EXPRESSO VITORIA",
+   "prazo_liberacao_dias_uteis": null,
+   "prazo_liberacao_dias_corridos": null,
+   "fonte": "Plataforma Otimiza.pro (cadastro de operadoras de vale-transporte), consulta de 19/10/2026",
+   "verificado_em": "2026-10-19"
+  },
+  {
+   "uf": "RS",
+   "operadora_vt": "MIX MOB",
+   "prazo_liberacao_dias_uteis": null,
+   "prazo_liberacao_dias_corridos": null,
+   "fonte": "Plataforma Otimiza.pro (cadastro de operadoras de vale-transporte), consulta de 19/10/2026",
+   "verificado_em": "2026-10-19"
+  },
+  {
+   "uf": "RS",
+   "operadora_vt": "OZELAME",
+   "prazo_liberacao_dias_uteis": null,
+   "prazo_liberacao_dias_corridos": null,
+   "fonte": "Plataforma Otimiza.pro (cadastro de operadoras de vale-transporte), consulta de 19/10/2026",
+   "verificado_em": "2026-10-19"
+  },
+  {
+   "uf": "RS",
+   "operadora_vt": "PRATI CAPAO DO LEAO",
+   "prazo_liberacao_dias_uteis": 3,
+   "prazo_liberacao_dias_corridos": null,
+   "fonte": "Plataforma Otimiza.pro (cadastro de operadoras de vale-transporte), consulta de 19/10/2026",
+   "verificado_em": "2026-10-19"
+  },
+  {
+   "uf": "RS",
+   "operadora_vt": "PRATI PELOTAS",
+   "prazo_liberacao_dias_uteis": null,
+   "prazo_liberacao_dias_corridos": null,
+   "fonte": "Plataforma Otimiza.pro (cadastro de operadoras de vale-transporte), consulta de 19/10/2026",
+   "verificado_em": "2026-10-19"
+  },
+  {
+   "uf": "RS",
+   "operadora_vt": "STU",
+   "prazo_liberacao_dias_uteis": null,
+   "prazo_liberacao_dias_corridos": null,
+   "fonte": "Plataforma Otimiza.pro (cadastro de operadoras de vale-transporte), consulta de 19/10/2026",
+   "verificado_em": "2026-10-19"
+  },
+  {
+   "uf": "RS",
+   "operadora_vt": "TEU ONLINE",
+   "prazo_liberacao_dias_uteis": null,
+   "prazo_liberacao_dias_corridos": 3,
+   "fonte": "Plataforma Otimiza.pro (cadastro de operadoras de vale-transporte), consulta de 19/10/2026",
+   "verificado_em": "2026-10-19"
+  },
+  {
+   "uf": "RS",
+   "operadora_vt": "TIARAJU",
+   "prazo_liberacao_dias_uteis": null,
+   "prazo_liberacao_dias_corridos": null,
+   "fonte": "Plataforma Otimiza.pro (cadastro de operadoras de vale-transporte), consulta de 19/10/2026",
+   "verificado_em": "2026-10-19"
+  },
+  {
+   "uf": "RS",
+   "operadora_vt": "TORRESCAR",
+   "prazo_liberacao_dias_uteis": null,
+   "prazo_liberacao_dias_corridos": null,
+   "fonte": "Plataforma Otimiza.pro (cadastro de operadoras de vale-transporte), consulta de 19/10/2026",
+   "verificado_em": "2026-10-19"
+  },
+  {
+   "uf": "RS",
+   "operadora_vt": "TRI POA",
+   "prazo_liberacao_dias_uteis": null,
+   "prazo_liberacao_dias_corridos": 2,
+   "fonte": "Plataforma Otimiza.pro (cadastro de operadoras de vale-transporte), consulta de 19/10/2026",
+   "verificado_em": "2026-10-19"
+  },
+  {
+   "uf": "RS",
+   "operadora_vt": "URBANO ERECHIM",
+   "prazo_liberacao_dias_uteis": null,
+   "prazo_liberacao_dias_corridos": null,
+   "fonte": "Plataforma Otimiza.pro (cadastro de operadoras de vale-transporte), consulta de 19/10/2026",
+   "verificado_em": "2026-10-19"
+  },
+  {
+   "uf": "RS",
+   "operadora_vt": "USEPASSE",
+   "prazo_liberacao_dias_uteis": null,
+   "prazo_liberacao_dias_corridos": null,
+   "fonte": "Plataforma Otimiza.pro (cadastro de operadoras de vale-transporte), consulta de 19/10/2026",
+   "verificado_em": "2026-10-19"
+  },
+  {
+   "uf": "RS",
+   "operadora_vt": "VIACAO MONTENEGRO",
+   "prazo_liberacao_dias_uteis": null,
+   "prazo_liberacao_dias_corridos": null,
+   "fonte": "Plataforma Otimiza.pro (cadastro de operadoras de vale-transporte), consulta de 19/10/2026",
+   "verificado_em": "2026-10-19"
+  },
+  {
+   "uf": "RS",
+   "operadora_vt": "VIACAO SANTO ANTONIO GARIBALDI",
+   "prazo_liberacao_dias_uteis": null,
+   "prazo_liberacao_dias_corridos": null,
+   "fonte": "Plataforma Otimiza.pro (cadastro de operadoras de vale-transporte), consulta de 19/10/2026",
+   "verificado_em": "2026-10-19"
+  },
+  {
+   "uf": "RS",
+   "operadora_vt": "VIACAO SANTO ANTONIO VERANOPOLIS",
+   "prazo_liberacao_dias_uteis": null,
+   "prazo_liberacao_dias_corridos": null,
+   "fonte": "Plataforma Otimiza.pro (cadastro de operadoras de vale-transporte), consulta de 19/10/2026",
+   "verificado_em": "2026-10-19"
+  },
+  {
+   "uf": "RS",
+   "operadora_vt": "VISATE",
+   "prazo_liberacao_dias_uteis": null,
+   "prazo_liberacao_dias_corridos": null,
+   "fonte": "Plataforma Otimiza.pro (cadastro de operadoras de vale-transporte), consulta de 19/10/2026",
+   "verificado_em": "2026-10-19"
+  },
+  {
+   "uf": "SC",
+   "operadora_vt": "ACTU CRIBUS",
+   "prazo_liberacao_dias_uteis": null,
+   "prazo_liberacao_dias_corridos": 3,
+   "fonte": "Plataforma Otimiza.pro (cadastro de operadoras de vale-transporte), consulta de 19/10/2026",
+   "verificado_em": "2026-10-19"
+  },
+  {
+   "uf": "SC",
+   "operadora_vt": "AUTO VIACAO CHAPECO",
+   "prazo_liberacao_dias_uteis": null,
+   "prazo_liberacao_dias_corridos": null,
+   "fonte": "Plataforma Otimiza.pro (cadastro de operadoras de vale-transporte), consulta de 19/10/2026",
+   "verificado_em": "2026-10-19"
+  },
+  {
+   "uf": "SC",
+   "operadora_vt": "BLUMOB",
+   "prazo_liberacao_dias_uteis": null,
+   "prazo_liberacao_dias_corridos": 3,
+   "fonte": "Plataforma Otimiza.pro (cadastro de operadoras de vale-transporte), consulta de 19/10/2026",
+   "verificado_em": "2026-10-19"
+  },
+  {
+   "uf": "SC",
+   "operadora_vt": "CANARINHO GUARAMIRIM TEM",
+   "prazo_liberacao_dias_uteis": null,
+   "prazo_liberacao_dias_corridos": null,
+   "fonte": "Plataforma Otimiza.pro (cadastro de operadoras de vale-transporte), consulta de 19/10/2026",
+   "verificado_em": "2026-10-19"
+  },
+  {
+   "uf": "SC",
+   "operadora_vt": "CANARINHO JARAGUA DO SUL",
+   "prazo_liberacao_dias_uteis": null,
+   "prazo_liberacao_dias_corridos": 2,
+   "fonte": "Plataforma Otimiza.pro (cadastro de operadoras de vale-transporte), consulta de 19/10/2026",
+   "verificado_em": "2026-10-19"
+  },
+  {
+   "uf": "SC",
+   "operadora_vt": "CARTAO FORQUILHINHA",
+   "prazo_liberacao_dias_uteis": null,
+   "prazo_liberacao_dias_corridos": null,
+   "fonte": "Plataforma Otimiza.pro (cadastro de operadoras de vale-transporte), consulta de 19/10/2026",
+   "verificado_em": "2026-10-19"
+  },
+  {
+   "uf": "SC",
+   "operadora_vt": "CARTAO VEM HODIERNA",
+   "prazo_liberacao_dias_uteis": null,
+   "prazo_liberacao_dias_corridos": null,
+   "fonte": "Plataforma Otimiza.pro (cadastro de operadoras de vale-transporte), consulta de 19/10/2026",
+   "verificado_em": "2026-10-19"
+  },
+  {
+   "uf": "SC",
+   "operadora_vt": "COLETIVO RAINHA",
+   "prazo_liberacao_dias_uteis": null,
+   "prazo_liberacao_dias_corridos": null,
+   "fonte": "Plataforma Otimiza.pro (cadastro de operadoras de vale-transporte), consulta de 19/10/2026",
+   "verificado_em": "2026-10-19"
+  },
+  {
+   "uf": "SC",
+   "operadora_vt": "EXPRESSO FATIMA",
+   "prazo_liberacao_dias_uteis": null,
+   "prazo_liberacao_dias_corridos": null,
+   "fonte": "Plataforma Otimiza.pro (cadastro de operadoras de vale-transporte), consulta de 19/10/2026",
+   "verificado_em": "2026-10-19"
+  },
+  {
+   "uf": "SC",
+   "operadora_vt": "ICARENSE CRICIUMA X RINCAO",
+   "prazo_liberacao_dias_uteis": null,
+   "prazo_liberacao_dias_corridos": null,
+   "fonte": "Plataforma Otimiza.pro (cadastro de operadoras de vale-transporte), consulta de 19/10/2026",
+   "verificado_em": "2026-10-19"
+  },
+  {
+   "uf": "SC",
+   "operadora_vt": "ICARENSE ICARA X CRICIUMA",
+   "prazo_liberacao_dias_uteis": null,
+   "prazo_liberacao_dias_corridos": null,
+   "fonte": "Plataforma Otimiza.pro (cadastro de operadoras de vale-transporte), consulta de 19/10/2026",
+   "verificado_em": "2026-10-19"
+  },
+  {
+   "uf": "SC",
+   "operadora_vt": "LAGUNATUR",
+   "prazo_liberacao_dias_uteis": null,
+   "prazo_liberacao_dias_corridos": null,
+   "fonte": "Plataforma Otimiza.pro (cadastro de operadoras de vale-transporte), consulta de 19/10/2026",
+   "verificado_em": "2026-10-19"
+  },
+  {
+   "uf": "SC",
+   "operadora_vt": "LDL INDAIAL",
+   "prazo_liberacao_dias_uteis": null,
+   "prazo_liberacao_dias_corridos": null,
+   "fonte": "Plataforma Otimiza.pro (cadastro de operadoras de vale-transporte), consulta de 19/10/2026",
+   "verificado_em": "2026-10-19"
+  },
+  {
+   "uf": "SC",
+   "operadora_vt": "MELISSATUR",
+   "prazo_liberacao_dias_uteis": null,
+   "prazo_liberacao_dias_corridos": null,
+   "fonte": "Plataforma Otimiza.pro (cadastro de operadoras de vale-transporte), consulta de 19/10/2026",
+   "verificado_em": "2026-10-19"
+  },
+  {
+   "uf": "SC",
+   "operadora_vt": "NAVEGANTES",
+   "prazo_liberacao_dias_uteis": null,
+   "prazo_liberacao_dias_corridos": null,
+   "fonte": "Plataforma Otimiza.pro (cadastro de operadoras de vale-transporte), consulta de 19/10/2026",
+   "verificado_em": "2026-10-19"
+  },
+  {
+   "uf": "SC",
+   "operadora_vt": "NOSSO BRUSQUE",
+   "prazo_liberacao_dias_uteis": null,
+   "prazo_liberacao_dias_corridos": null,
+   "fonte": "Plataforma Otimiza.pro (cadastro de operadoras de vale-transporte), consulta de 19/10/2026",
+   "verificado_em": "2026-10-19"
+  },
+  {
+   "uf": "SC",
+   "operadora_vt": "PASSE RAPIDO BIGUACU",
+   "prazo_liberacao_dias_uteis": null,
+   "prazo_liberacao_dias_corridos": null,
+   "fonte": "Plataforma Otimiza.pro (cadastro de operadoras de vale-transporte), consulta de 19/10/2026",
+   "verificado_em": "2026-10-19"
+  },
+  {
+   "uf": "SC",
+   "operadora_vt": "PASSE RAPIDO ESTRELA",
+   "prazo_liberacao_dias_uteis": null,
+   "prazo_liberacao_dias_corridos": null,
+   "fonte": "Plataforma Otimiza.pro (cadastro de operadoras de vale-transporte), consulta de 19/10/2026",
+   "verificado_em": "2026-10-19"
+  },
+  {
+   "uf": "SC",
+   "operadora_vt": "PASSE RAPIDO FLORIANOPOLIS",
+   "prazo_liberacao_dias_uteis": null,
+   "prazo_liberacao_dias_corridos": null,
+   "fonte": "Plataforma Otimiza.pro (cadastro de operadoras de vale-transporte), consulta de 19/10/2026",
+   "verificado_em": "2026-10-19"
+  },
+  {
+   "uf": "SC",
+   "operadora_vt": "PASSE RAPIDO IMPERATRIZ",
+   "prazo_liberacao_dias_uteis": null,
+   "prazo_liberacao_dias_corridos": null,
+   "fonte": "Plataforma Otimiza.pro (cadastro de operadoras de vale-transporte), consulta de 19/10/2026",
+   "verificado_em": "2026-10-19"
+  },
+  {
+   "uf": "SC",
+   "operadora_vt": "PASSE RAPIDO JOTUR",
+   "prazo_liberacao_dias_uteis": null,
+   "prazo_liberacao_dias_corridos": null,
+   "fonte": "Plataforma Otimiza.pro (cadastro de operadoras de vale-transporte), consulta de 19/10/2026",
+   "verificado_em": "2026-10-19"
+  },
+  {
+   "uf": "SC",
+   "operadora_vt": "PASSE RAPIDO SANTA TEREZINHA",
+   "prazo_liberacao_dias_uteis": null,
+   "prazo_liberacao_dias_corridos": null,
+   "fonte": "Plataforma Otimiza.pro (cadastro de operadoras de vale-transporte), consulta de 19/10/2026",
+   "verificado_em": "2026-10-19"
+  },
+  {
+   "uf": "SC",
+   "operadora_vt": "PASSEBUS",
+   "prazo_liberacao_dias_uteis": null,
+   "prazo_liberacao_dias_corridos": null,
+   "fonte": "Plataforma Otimiza.pro (cadastro de operadoras de vale-transporte), consulta de 19/10/2026",
+   "verificado_em": "2026-10-19"
+  },
+  {
+   "uf": "SC",
+   "operadora_vt": "TRANSFATIMA",
+   "prazo_liberacao_dias_uteis": null,
+   "prazo_liberacao_dias_corridos": null,
+   "fonte": "Plataforma Otimiza.pro (cadastro de operadoras de vale-transporte), consulta de 19/10/2026",
+   "verificado_em": "2026-10-19"
+  },
+  {
+   "uf": "SC",
+   "operadora_vt": "TRANSPIEDADE ITAJAI",
+   "prazo_liberacao_dias_uteis": null,
+   "prazo_liberacao_dias_corridos": null,
+   "fonte": "Plataforma Otimiza.pro (cadastro de operadoras de vale-transporte), consulta de 19/10/2026",
+   "verificado_em": "2026-10-19"
+  },
+  {
+   "uf": "SC",
+   "operadora_vt": "TRANSUL LAGES",
+   "prazo_liberacao_dias_uteis": null,
+   "prazo_liberacao_dias_corridos": null,
+   "fonte": "Plataforma Otimiza.pro (cadastro de operadoras de vale-transporte), consulta de 19/10/2026",
+   "verificado_em": "2026-10-19"
+  },
+  {
+   "uf": "SC",
+   "operadora_vt": "VERDE VALE",
+   "prazo_liberacao_dias_uteis": null,
+   "prazo_liberacao_dias_corridos": null,
+   "fonte": "Plataforma Otimiza.pro (cadastro de operadoras de vale-transporte), consulta de 19/10/2026",
+   "verificado_em": "2026-10-19"
+  },
+  {
+   "uf": "SC",
+   "operadora_vt": "VERDES MARES",
+   "prazo_liberacao_dias_uteis": null,
+   "prazo_liberacao_dias_corridos": null,
+   "fonte": "Plataforma Otimiza.pro (cadastro de operadoras de vale-transporte), consulta de 19/10/2026",
+   "verificado_em": "2026-10-19"
+  },
+  {
+   "uf": "SC",
+   "operadora_vt": "VIACAO PRAIANA",
+   "prazo_liberacao_dias_uteis": null,
+   "prazo_liberacao_dias_corridos": null,
+   "fonte": "Plataforma Otimiza.pro (cadastro de operadoras de vale-transporte), consulta de 19/10/2026",
+   "verificado_em": "2026-10-19"
+  },
+  {
+   "uf": "SE",
+   "operadora_vt": "ARACAJUCARD",
+   "prazo_liberacao_dias_uteis": null,
+   "prazo_liberacao_dias_corridos": 3,
+   "fonte": "Plataforma Otimiza.pro (cadastro de operadoras de vale-transporte), consulta de 19/10/2026",
+   "verificado_em": "2026-10-19"
+  },
+  {
+   "uf": "SE",
+   "operadora_vt": "COOPERTALSE ARACAJU",
+   "prazo_liberacao_dias_uteis": null,
+   "prazo_liberacao_dias_corridos": null,
+   "fonte": "Plataforma Otimiza.pro (cadastro de operadoras de vale-transporte), consulta de 19/10/2026",
+   "verificado_em": "2026-10-19"
+  },
+  {
+   "uf": "SP",
+   "operadora_vt": "AESA SANTO ANDRE",
+   "prazo_liberacao_dias_uteis": null,
+   "prazo_liberacao_dias_corridos": 3,
+   "fonte": "Plataforma Otimiza.pro (cadastro de operadoras de vale-transporte), consulta de 19/10/2026",
+   "verificado_em": "2026-10-19"
+  },
+  {
+   "uf": "SP",
+   "operadora_vt": "AMERICANA SANCETUR",
+   "prazo_liberacao_dias_uteis": null,
+   "prazo_liberacao_dias_corridos": null,
+   "fonte": "Plataforma Otimiza.pro (cadastro de operadoras de vale-transporte), consulta de 19/10/2026",
+   "verificado_em": "2026-10-19"
+  },
+  {
+   "uf": "SP",
+   "operadora_vt": "AMTU MARILIA",
+   "prazo_liberacao_dias_uteis": null,
+   "prazo_liberacao_dias_corridos": 3,
+   "fonte": "Plataforma Otimiza.pro (cadastro de operadoras de vale-transporte), consulta de 19/10/2026",
+   "verificado_em": "2026-10-19"
+  },
+  {
+   "uf": "SP",
+   "operadora_vt": "BEM CAIEIRAS",
+   "prazo_liberacao_dias_uteis": null,
+   "prazo_liberacao_dias_corridos": 3,
+   "fonte": "Plataforma Otimiza.pro (cadastro de operadoras de vale-transporte), consulta de 19/10/2026",
+   "verificado_em": "2026-10-19"
+  },
+  {
+   "uf": "SP",
+   "operadora_vt": "BEM CAJAMAR",
+   "prazo_liberacao_dias_uteis": null,
+   "prazo_liberacao_dias_corridos": 3,
+   "fonte": "Plataforma Otimiza.pro (cadastro de operadoras de vale-transporte), consulta de 19/10/2026",
+   "verificado_em": "2026-10-19"
+  },
+  {
+   "uf": "SP",
+   "operadora_vt": "BEM FRANCO DA ROCHA",
+   "prazo_liberacao_dias_uteis": null,
+   "prazo_liberacao_dias_corridos": 3,
+   "fonte": "Plataforma Otimiza.pro (cadastro de operadoras de vale-transporte), consulta de 19/10/2026",
+   "verificado_em": "2026-10-19"
+  },
+  {
+   "uf": "SP",
+   "operadora_vt": "BEM OSASCO",
+   "prazo_liberacao_dias_uteis": null,
+   "prazo_liberacao_dias_corridos": 3,
+   "fonte": "Plataforma Otimiza.pro (cadastro de operadoras de vale-transporte), consulta de 19/10/2026",
+   "verificado_em": "2026-10-19"
+  },
+  {
+   "uf": "SP",
+   "operadora_vt": "BEM SANTANA DE PARNAIBA",
+   "prazo_liberacao_dias_uteis": null,
+   "prazo_liberacao_dias_corridos": null,
+   "fonte": "Plataforma Otimiza.pro (cadastro de operadoras de vale-transporte), consulta de 19/10/2026",
+   "verificado_em": "2026-10-19"
+  },
+  {
+   "uf": "SP",
+   "operadora_vt": "BENFACIL BARUERI",
+   "prazo_liberacao_dias_uteis": null,
+   "prazo_liberacao_dias_corridos": null,
+   "fonte": "Plataforma Otimiza.pro (cadastro de operadoras de vale-transporte), consulta de 19/10/2026",
+   "verificado_em": "2026-10-19"
+  },
+  {
+   "uf": "SP",
+   "operadora_vt": "BENFACIL ITAPEVI",
+   "prazo_liberacao_dias_uteis": null,
+   "prazo_liberacao_dias_corridos": null,
+   "fonte": "Plataforma Otimiza.pro (cadastro de operadoras de vale-transporte), consulta de 19/10/2026",
+   "verificado_em": "2026-10-19"
+  },
+  {
+   "uf": "SP",
+   "operadora_vt": "BENFACIL JANDIRA",
+   "prazo_liberacao_dias_uteis": null,
+   "prazo_liberacao_dias_corridos": 2,
+   "fonte": "Plataforma Otimiza.pro (cadastro de operadoras de vale-transporte), consulta de 19/10/2026",
+   "verificado_em": "2026-10-19"
+  },
+  {
+   "uf": "SP",
+   "operadora_vt": "BLUE CARD VIACAO BRAGANCA",
+   "prazo_liberacao_dias_uteis": null,
+   "prazo_liberacao_dias_corridos": null,
+   "fonte": "Plataforma Otimiza.pro (cadastro de operadoras de vale-transporte), consulta de 19/10/2026",
+   "verificado_em": "2026-10-19"
+  },
+  {
+   "uf": "SP",
+   "operadora_vt": "BR MOBILIDADE",
+   "prazo_liberacao_dias_uteis": null,
+   "prazo_liberacao_dias_corridos": 3,
+   "fonte": "Plataforma Otimiza.pro (cadastro de operadoras de vale-transporte), consulta de 19/10/2026",
+   "verificado_em": "2026-10-19"
+  },
+  {
+   "uf": "SP",
+   "operadora_vt": "BUSMAIS",
+   "prazo_liberacao_dias_uteis": null,
+   "prazo_liberacao_dias_corridos": 3,
+   "fonte": "Plataforma Otimiza.pro (cadastro de operadoras de vale-transporte), consulta de 19/10/2026",
+   "verificado_em": "2026-10-19"
+  },
+  {
+   "uf": "SP",
+   "operadora_vt": "CAMPESTRE",
+   "prazo_liberacao_dias_uteis": null,
+   "prazo_liberacao_dias_corridos": null,
+   "fonte": "Plataforma Otimiza.pro (cadastro de operadoras de vale-transporte), consulta de 19/10/2026",
+   "verificado_em": "2026-10-19"
+  },
+  {
+   "uf": "SP",
+   "operadora_vt": "CARTAO LEGAL SBC",
+   "prazo_liberacao_dias_uteis": null,
+   "prazo_liberacao_dias_corridos": 3,
+   "fonte": "Plataforma Otimiza.pro (cadastro de operadoras de vale-transporte), consulta de 19/10/2026",
+   "verificado_em": "2026-10-19"
+  },
+  {
+   "uf": "SP",
+   "operadora_vt": "CARTAO TOP",
+   "prazo_liberacao_dias_uteis": null,
+   "prazo_liberacao_dias_corridos": 4,
+   "fonte": "Plataforma Otimiza.pro (cadastro de operadoras de vale-transporte), consulta de 19/10/2026",
+   "verificado_em": "2026-10-19"
+  },
+  {
+   "uf": "SP",
+   "operadora_vt": "CITTY MAIS BERTIOGA",
+   "prazo_liberacao_dias_uteis": null,
+   "prazo_liberacao_dias_corridos": null,
+   "fonte": "Plataforma Otimiza.pro (cadastro de operadoras de vale-transporte), consulta de 19/10/2026",
+   "verificado_em": "2026-10-19"
+  },
+  {
+   "uf": "SP",
+   "operadora_vt": "CITTY MAIS GUARUJA",
+   "prazo_liberacao_dias_uteis": null,
+   "prazo_liberacao_dias_corridos": null,
+   "fonte": "Plataforma Otimiza.pro (cadastro de operadoras de vale-transporte), consulta de 19/10/2026",
+   "verificado_em": "2026-10-19"
+  },
+  {
+   "uf": "SP",
+   "operadora_vt": "COM CARD BRAGANCA PAULISTA",
+   "prazo_liberacao_dias_uteis": null,
+   "prazo_liberacao_dias_corridos": null,
+   "fonte": "Plataforma Otimiza.pro (cadastro de operadoras de vale-transporte), consulta de 19/10/2026",
+   "verificado_em": "2026-10-19"
+  },
+  {
+   "uf": "SP",
+   "operadora_vt": "CONSORCIO SAO JOSE 123",
+   "prazo_liberacao_dias_uteis": null,
+   "prazo_liberacao_dias_corridos": null,
+   "fonte": "Plataforma Otimiza.pro (cadastro de operadoras de vale-transporte), consulta de 19/10/2026",
+   "verificado_em": "2026-10-19"
+  },
+  {
+   "uf": "SP",
+   "operadora_vt": "CTCB BOTUCATU",
+   "prazo_liberacao_dias_uteis": null,
+   "prazo_liberacao_dias_corridos": null,
+   "fonte": "Plataforma Otimiza.pro (cadastro de operadoras de vale-transporte), consulta de 19/10/2026",
+   "verificado_em": "2026-10-19"
+  },
+  {
+   "uf": "SP",
+   "operadora_vt": "EMBU CARD",
+   "prazo_liberacao_dias_uteis": null,
+   "prazo_liberacao_dias_corridos": 2,
+   "fonte": "Plataforma Otimiza.pro (cadastro de operadoras de vale-transporte), consulta de 19/10/2026",
+   "verificado_em": "2026-10-19"
+  },
+  {
+   "uf": "SP",
+   "operadora_vt": "EXPRESSO ADAMANTINA",
+   "prazo_liberacao_dias_uteis": null,
+   "prazo_liberacao_dias_corridos": null,
+   "fonte": "Plataforma Otimiza.pro (cadastro de operadoras de vale-transporte), consulta de 19/10/2026",
+   "verificado_em": "2026-10-19"
+  },
+  {
+   "uf": "SP",
+   "operadora_vt": "EXPRESSO DE PRATA BAURU",
+   "prazo_liberacao_dias_uteis": null,
+   "prazo_liberacao_dias_corridos": null,
+   "fonte": "Plataforma Otimiza.pro (cadastro de operadoras de vale-transporte), consulta de 19/10/2026",
+   "verificado_em": "2026-10-19"
+  },
+  {
+   "uf": "SP",
+   "operadora_vt": "EXPRESSO ITAMARATI SEMIURBANO ITAMARATI",
+   "prazo_liberacao_dias_uteis": null,
+   "prazo_liberacao_dias_corridos": null,
+   "fonte": "Plataforma Otimiza.pro (cadastro de operadoras de vale-transporte), consulta de 19/10/2026",
+   "verificado_em": "2026-10-19"
+  },
+  {
+   "uf": "SP",
+   "operadora_vt": "EXPRESSO ITAMARATI SUBURBANO LUWASA",
+   "prazo_liberacao_dias_uteis": null,
+   "prazo_liberacao_dias_corridos": null,
+   "fonte": "Plataforma Otimiza.pro (cadastro de operadoras de vale-transporte), consulta de 19/10/2026",
+   "verificado_em": "2026-10-19"
+  },
+  {
+   "uf": "SP",
+   "operadora_vt": "EXPRESSO ITAMARATI URBANO VOTUPORANGA",
+   "prazo_liberacao_dias_uteis": null,
+   "prazo_liberacao_dias_corridos": null,
+   "fonte": "Plataforma Otimiza.pro (cadastro de operadoras de vale-transporte), consulta de 19/10/2026",
+   "verificado_em": "2026-10-19"
+  },
+  {
+   "uf": "SP",
+   "operadora_vt": "GRUPO SAO JOAO",
+   "prazo_liberacao_dias_uteis": null,
+   "prazo_liberacao_dias_corridos": null,
+   "fonte": "Plataforma Otimiza.pro (cadastro de operadoras de vale-transporte), consulta de 19/10/2026",
+   "verificado_em": "2026-10-19"
+  },
+  {
+   "uf": "SP",
+   "operadora_vt": "GUARUPASS INTERMUNICIPAL",
+   "prazo_liberacao_dias_uteis": 2,
+   "prazo_liberacao_dias_corridos": null,
+   "fonte": "Plataforma Otimiza.pro (cadastro de operadoras de vale-transporte), consulta de 19/10/2026",
+   "verificado_em": "2026-10-19"
+  },
+  {
+   "uf": "SP",
+   "operadora_vt": "GUARUPASS MUNICIPAL",
+   "prazo_liberacao_dias_uteis": 2,
+   "prazo_liberacao_dias_corridos": null,
+   "fonte": "Plataforma Otimiza.pro (cadastro de operadoras de vale-transporte), consulta de 19/10/2026",
+   "verificado_em": "2026-10-19"
+  },
+  {
+   "uf": "SP",
+   "operadora_vt": "GUERINO TUPA",
+   "prazo_liberacao_dias_uteis": null,
+   "prazo_liberacao_dias_corridos": null,
+   "fonte": "Plataforma Otimiza.pro (cadastro de operadoras de vale-transporte), consulta de 19/10/2026",
+   "verificado_em": "2026-10-19"
+  },
+  {
+   "uf": "SP",
+   "operadora_vt": "ITACARD",
+   "prazo_liberacao_dias_uteis": null,
+   "prazo_liberacao_dias_corridos": null,
+   "fonte": "Plataforma Otimiza.pro (cadastro de operadoras de vale-transporte), consulta de 19/10/2026",
+   "verificado_em": "2026-10-19"
+  },
+  {
+   "uf": "SP",
+   "operadora_vt": "JTU JACAREI",
+   "prazo_liberacao_dias_uteis": null,
+   "prazo_liberacao_dias_corridos": null,
+   "fonte": "Plataforma Otimiza.pro (cadastro de operadoras de vale-transporte), consulta de 19/10/2026",
+   "verificado_em": "2026-10-19"
+  },
+  {
+   "uf": "SP",
+   "operadora_vt": "METROPOLIS JAGUARIUNA",
+   "prazo_liberacao_dias_uteis": null,
+   "prazo_liberacao_dias_corridos": null,
+   "fonte": "Plataforma Otimiza.pro (cadastro de operadoras de vale-transporte), consulta de 19/10/2026",
+   "verificado_em": "2026-10-19"
+  },
+  {
+   "uf": "SP",
+   "operadora_vt": "MOBILIDADE VINHEDO",
+   "prazo_liberacao_dias_uteis": null,
+   "prazo_liberacao_dias_corridos": null,
+   "fonte": "Plataforma Otimiza.pro (cadastro de operadoras de vale-transporte), consulta de 19/10/2026",
+   "verificado_em": "2026-10-19"
+  },
+  {
+   "uf": "SP",
+   "operadora_vt": "MOC BUS MONTES CLAROS",
+   "prazo_liberacao_dias_uteis": null,
+   "prazo_liberacao_dias_corridos": null,
+   "fonte": "Plataforma Otimiza.pro (cadastro de operadoras de vale-transporte), consulta de 19/10/2026",
+   "verificado_em": "2026-10-19"
+  },
+  {
+   "uf": "SP",
+   "operadora_vt": "MOGIPASSES",
+   "prazo_liberacao_dias_uteis": null,
+   "prazo_liberacao_dias_corridos": null,
+   "fonte": "Plataforma Otimiza.pro (cadastro de operadoras de vale-transporte), consulta de 19/10/2026",
+   "verificado_em": "2026-10-19"
+  },
+  {
+   "uf": "SP",
+   "operadora_vt": "MOOV ITAQUA",
+   "prazo_liberacao_dias_uteis": null,
+   "prazo_liberacao_dias_corridos": null,
+   "fonte": "Plataforma Otimiza.pro (cadastro de operadoras de vale-transporte), consulta de 19/10/2026",
+   "verificado_em": "2026-10-19"
+  },
+  {
+   "uf": "SP",
+   "operadora_vt": "MOV FRANCA",
+   "prazo_liberacao_dias_uteis": 2,
+   "prazo_liberacao_dias_corridos": null,
+   "fonte": "Plataforma Otimiza.pro (cadastro de operadoras de vale-transporte), consulta de 19/10/2026",
+   "verificado_em": "2026-10-19"
+  },
+  {
+   "uf": "SP",
+   "operadora_vt": "MOV ITU",
+   "prazo_liberacao_dias_uteis": null,
+   "prazo_liberacao_dias_corridos": null,
+   "fonte": "Plataforma Otimiza.pro (cadastro de operadoras de vale-transporte), consulta de 19/10/2026",
+   "verificado_em": "2026-10-19"
+  },
+  {
+   "uf": "SP",
+   "operadora_vt": "MOV NOVA ODESSA",
+   "prazo_liberacao_dias_uteis": null,
+   "prazo_liberacao_dias_corridos": null,
+   "fonte": "Plataforma Otimiza.pro (cadastro de operadoras de vale-transporte), consulta de 19/10/2026",
+   "verificado_em": "2026-10-19"
+  },
+  {
+   "uf": "SP",
+   "operadora_vt": "MOV PAULINIA",
+   "prazo_liberacao_dias_uteis": null,
+   "prazo_liberacao_dias_corridos": 3,
+   "fonte": "Plataforma Otimiza.pro (cadastro de operadoras de vale-transporte), consulta de 19/10/2026",
+   "verificado_em": "2026-10-19"
+  },
+  {
+   "uf": "SP",
+   "operadora_vt": "MOV URBANO SUMARE",
+   "prazo_liberacao_dias_uteis": null,
+   "prazo_liberacao_dias_corridos": 2,
+   "fonte": "Plataforma Otimiza.pro (cadastro de operadoras de vale-transporte), consulta de 19/10/2026",
+   "verificado_em": "2026-10-19"
+  },
+  {
+   "uf": "SP",
+   "operadora_vt": "NOSSA SENHORA DE FATIMA AUTO ONIBUS",
+   "prazo_liberacao_dias_uteis": null,
+   "prazo_liberacao_dias_corridos": null,
+   "fonte": "Plataforma Otimiza.pro (cadastro de operadoras de vale-transporte), consulta de 19/10/2026",
+   "verificado_em": "2026-10-19"
+  },
+  {
+   "uf": "SP",
+   "operadora_vt": "NOSSO RIBEIRAO PRETO MOBILIDADE",
+   "prazo_liberacao_dias_uteis": null,
+   "prazo_liberacao_dias_corridos": null,
+   "fonte": "Plataforma Otimiza.pro (cadastro de operadoras de vale-transporte), consulta de 19/10/2026",
+   "verificado_em": "2026-10-19"
+  },
+  {
+   "uf": "SP",
+   "operadora_vt": "NOVO CARD ARARAQUARA",
+   "prazo_liberacao_dias_uteis": 2,
+   "prazo_liberacao_dias_corridos": null,
+   "fonte": "Plataforma Otimiza.pro (cadastro de operadoras de vale-transporte), consulta de 19/10/2026",
+   "verificado_em": "2026-10-19"
+  },
+  {
+   "uf": "SP",
+   "operadora_vt": "ONPAG CARAPICUIBA",
+   "prazo_liberacao_dias_uteis": 3,
+   "prazo_liberacao_dias_corridos": null,
+   "fonte": "Plataforma Otimiza.pro (cadastro de operadoras de vale-transporte), consulta de 19/10/2026",
+   "verificado_em": "2026-10-19"
+  },
+  {
+   "uf": "SP",
+   "operadora_vt": "ONPAG FERRAZ DE VASCONCELOS",
+   "prazo_liberacao_dias_uteis": null,
+   "prazo_liberacao_dias_corridos": null,
+   "fonte": "Plataforma Otimiza.pro (cadastro de operadoras de vale-transporte), consulta de 19/10/2026",
+   "verificado_em": "2026-10-19"
+  },
+  {
+   "uf": "SP",
+   "operadora_vt": "ONPAG FRANCISCO MORATO",
+   "prazo_liberacao_dias_uteis": null,
+   "prazo_liberacao_dias_corridos": null,
+   "fonte": "Plataforma Otimiza.pro (cadastro de operadoras de vale-transporte), consulta de 19/10/2026",
+   "verificado_em": "2026-10-19"
+  },
+  {
+   "uf": "SP",
+   "operadora_vt": "ONPAG POA",
+   "prazo_liberacao_dias_uteis": null,
+   "prazo_liberacao_dias_corridos": null,
+   "fonte": "Plataforma Otimiza.pro (cadastro de operadoras de vale-transporte), consulta de 19/10/2026",
+   "verificado_em": "2026-10-19"
+  },
+  {
+   "uf": "SP",
+   "operadora_vt": "ONPAG SUZANO",
+   "prazo_liberacao_dias_uteis": null,
+   "prazo_liberacao_dias_corridos": null,
+   "fonte": "Plataforma Otimiza.pro (cadastro de operadoras de vale-transporte), consulta de 19/10/2026",
+   "verificado_em": "2026-10-19"
+  },
+  {
+   "uf": "SP",
+   "operadora_vt": "PASSARO MARRON",
+   "prazo_liberacao_dias_uteis": null,
+   "prazo_liberacao_dias_corridos": null,
+   "fonte": "Plataforma Otimiza.pro (cadastro de operadoras de vale-transporte), consulta de 19/10/2026",
+   "verificado_em": "2026-10-19"
+  },
+  {
+   "uf": "SP",
+   "operadora_vt": "PEVETUR",
+   "prazo_liberacao_dias_uteis": null,
+   "prazo_liberacao_dias_corridos": null,
+   "fonte": "Plataforma Otimiza.pro (cadastro de operadoras de vale-transporte), consulta de 19/10/2026",
+   "verificado_em": "2026-10-19"
+  },
+  {
+   "uf": "SP",
+   "operadora_vt": "PIRACICABANA",
+   "prazo_liberacao_dias_uteis": null,
+   "prazo_liberacao_dias_corridos": null,
+   "fonte": "Plataforma Otimiza.pro (cadastro de operadoras de vale-transporte), consulta de 19/10/2026",
+   "verificado_em": "2026-10-19"
+  },
+  {
+   "uf": "SP",
+   "operadora_vt": "PIX CARTAO TOP",
+   "prazo_liberacao_dias_uteis": null,
+   "prazo_liberacao_dias_corridos": null,
+   "fonte": "Plataforma Otimiza.pro (cadastro de operadoras de vale-transporte), consulta de 19/10/2026",
+   "verificado_em": "2026-10-19"
+  },
+  {
+   "uf": "SP",
+   "operadora_vt": "PIX SPTRANS",
+   "prazo_liberacao_dias_uteis": null,
+   "prazo_liberacao_dias_corridos": null,
+   "fonte": "Plataforma Otimiza.pro (cadastro de operadoras de vale-transporte), consulta de 19/10/2026",
+   "verificado_em": "2026-10-19"
+  },
+  {
+   "uf": "SP",
+   "operadora_vt": "RAPIDO CAMPINAS CAMPO LIMPO",
+   "prazo_liberacao_dias_uteis": null,
+   "prazo_liberacao_dias_corridos": null,
+   "fonte": "Plataforma Otimiza.pro (cadastro de operadoras de vale-transporte), consulta de 19/10/2026",
+   "verificado_em": "2026-10-19"
+  },
+  {
+   "uf": "SP",
+   "operadora_vt": "RAPIDO CAMPINAS SOROCABA METROPOLITANO",
+   "prazo_liberacao_dias_uteis": null,
+   "prazo_liberacao_dias_corridos": null,
+   "fonte": "Plataforma Otimiza.pro (cadastro de operadoras de vale-transporte), consulta de 19/10/2026",
+   "verificado_em": "2026-10-19"
+  },
+  {
+   "uf": "SP",
+   "operadora_vt": "RAPIDO CAMPINAS URBANO AVARE E PARANAPANEMA",
+   "prazo_liberacao_dias_uteis": null,
+   "prazo_liberacao_dias_corridos": null,
+   "fonte": "Plataforma Otimiza.pro (cadastro de operadoras de vale-transporte), consulta de 19/10/2026",
+   "verificado_em": "2026-10-19"
+  },
+  {
+   "uf": "SP",
+   "operadora_vt": "RAPIDO CAMPINAS URBANO LOUVEIRA E VINHEDO",
+   "prazo_liberacao_dias_uteis": null,
+   "prazo_liberacao_dias_corridos": null,
+   "fonte": "Plataforma Otimiza.pro (cadastro de operadoras de vale-transporte), consulta de 19/10/2026",
+   "verificado_em": "2026-10-19"
+  },
+  {
+   "uf": "SP",
+   "operadora_vt": "RAPIDO D OESTE",
+   "prazo_liberacao_dias_uteis": null,
+   "prazo_liberacao_dias_corridos": null,
+   "fonte": "Plataforma Otimiza.pro (cadastro de operadoras de vale-transporte), consulta de 19/10/2026",
+   "verificado_em": "2026-10-19"
+  },
+  {
+   "uf": "SP",
+   "operadora_vt": "RAPIDO SUMARE JUNDIAI (ARTESP)",
+   "prazo_liberacao_dias_uteis": null,
+   "prazo_liberacao_dias_corridos": null,
+   "fonte": "Plataforma Otimiza.pro (cadastro de operadoras de vale-transporte), consulta de 19/10/2026",
+   "verificado_em": "2026-10-19"
+  },
+  {
+   "uf": "SP",
+   "operadora_vt": "RAPIDO SUMARE LOUVEIRA",
+   "prazo_liberacao_dias_uteis": null,
+   "prazo_liberacao_dias_corridos": null,
+   "fonte": "Plataforma Otimiza.pro (cadastro de operadoras de vale-transporte), consulta de 19/10/2026",
+   "verificado_em": "2026-10-19"
+  },
+  {
+   "uf": "SP",
+   "operadora_vt": "RAPIDO SUMARE PIRA MOBILIDADE",
+   "prazo_liberacao_dias_uteis": null,
+   "prazo_liberacao_dias_corridos": null,
+   "fonte": "Plataforma Otimiza.pro (cadastro de operadoras de vale-transporte), consulta de 19/10/2026",
+   "verificado_em": "2026-10-19"
+  },
+  {
+   "uf": "SP",
+   "operadora_vt": "RAPIDO SUMARE VINHEDO",
+   "prazo_liberacao_dias_uteis": null,
+   "prazo_liberacao_dias_corridos": 2,
+   "fonte": "Plataforma Otimiza.pro (cadastro de operadoras de vale-transporte), consulta de 19/10/2026",
+   "verificado_em": "2026-10-19"
+  },
+  {
+   "uf": "SP",
+   "operadora_vt": "RAPIDO TAUBATE",
+   "prazo_liberacao_dias_uteis": null,
+   "prazo_liberacao_dias_corridos": null,
+   "fonte": "Plataforma Otimiza.pro (cadastro de operadoras de vale-transporte), consulta de 19/10/2026",
+   "verificado_em": "2026-10-19"
+  },
+  {
+   "uf": "SP",
+   "operadora_vt": "RIBE TRANSPORTE",
+   "prazo_liberacao_dias_uteis": null,
+   "prazo_liberacao_dias_corridos": null,
+   "fonte": "Plataforma Otimiza.pro (cadastro de operadoras de vale-transporte), consulta de 19/10/2026",
+   "verificado_em": "2026-10-19"
+  },
+  {
+   "uf": "SP",
+   "operadora_vt": "RIGRAS",
+   "prazo_liberacao_dias_uteis": null,
+   "prazo_liberacao_dias_corridos": null,
+   "fonte": "Plataforma Otimiza.pro (cadastro de operadoras de vale-transporte), consulta de 19/10/2026",
+   "verificado_em": "2026-10-19"
+  },
+  {
+   "uf": "SP",
+   "operadora_vt": "RIOPRETRANS",
+   "prazo_liberacao_dias_uteis": null,
+   "prazo_liberacao_dias_corridos": null,
+   "fonte": "Plataforma Otimiza.pro (cadastro de operadoras de vale-transporte), consulta de 19/10/2026",
+   "verificado_em": "2026-10-19"
+  },
+  {
+   "uf": "SP",
+   "operadora_vt": "RITMO",
+   "prazo_liberacao_dias_uteis": null,
+   "prazo_liberacao_dias_corridos": null,
+   "fonte": "Plataforma Otimiza.pro (cadastro de operadoras de vale-transporte), consulta de 19/10/2026",
+   "verificado_em": "2026-10-19"
+  },
+  {
+   "uf": "SP",
+   "operadora_vt": "SAO PEDRO",
+   "prazo_liberacao_dias_uteis": null,
+   "prazo_liberacao_dias_corridos": null,
+   "fonte": "Plataforma Otimiza.pro (cadastro de operadoras de vale-transporte), consulta de 19/10/2026",
+   "verificado_em": "2026-10-19"
+  },
+  {
+   "uf": "SP",
+   "operadora_vt": "SIM MAUA",
+   "prazo_liberacao_dias_uteis": null,
+   "prazo_liberacao_dias_corridos": null,
+   "fonte": "Plataforma Otimiza.pro (cadastro de operadoras de vale-transporte), consulta de 19/10/2026",
+   "verificado_em": "2026-10-19"
+  },
+  {
+   "uf": "SP",
+   "operadora_vt": "SOU AMERICANA",
+   "prazo_liberacao_dias_uteis": null,
+   "prazo_liberacao_dias_corridos": null,
+   "fonte": "Plataforma Otimiza.pro (cadastro de operadoras de vale-transporte), consulta de 19/10/2026",
+   "verificado_em": "2026-10-19"
+  },
+  {
+   "uf": "SP",
+   "operadora_vt": "SOU AMPARO",
+   "prazo_liberacao_dias_uteis": null,
+   "prazo_liberacao_dias_corridos": null,
+   "fonte": "Plataforma Otimiza.pro (cadastro de operadoras de vale-transporte), consulta de 19/10/2026",
+   "verificado_em": "2026-10-19"
+  },
+  {
+   "uf": "SP",
+   "operadora_vt": "SOU ATIBAIA",
+   "prazo_liberacao_dias_uteis": null,
+   "prazo_liberacao_dias_corridos": null,
+   "fonte": "Plataforma Otimiza.pro (cadastro de operadoras de vale-transporte), consulta de 19/10/2026",
+   "verificado_em": "2026-10-19"
+  },
+  {
+   "uf": "SP",
+   "operadora_vt": "SOU CARAGUATATUBA",
+   "prazo_liberacao_dias_uteis": null,
+   "prazo_liberacao_dias_corridos": null,
+   "fonte": "Plataforma Otimiza.pro (cadastro de operadoras de vale-transporte), consulta de 19/10/2026",
+   "verificado_em": "2026-10-19"
+  },
+  {
+   "uf": "SP",
+   "operadora_vt": "SOU CUBATAO",
+   "prazo_liberacao_dias_uteis": null,
+   "prazo_liberacao_dias_corridos": null,
+   "fonte": "Plataforma Otimiza.pro (cadastro de operadoras de vale-transporte), consulta de 19/10/2026",
+   "verificado_em": "2026-10-19"
+  },
+  {
+   "uf": "SP",
+   "operadora_vt": "SOU DIADEMA",
+   "prazo_liberacao_dias_uteis": null,
+   "prazo_liberacao_dias_corridos": 3,
+   "fonte": "Plataforma Otimiza.pro (cadastro de operadoras de vale-transporte), consulta de 19/10/2026",
+   "verificado_em": "2026-10-19"
+  },
+  {
+   "uf": "SP",
+   "operadora_vt": "SOU INDAIATUBA",
+   "prazo_liberacao_dias_uteis": null,
+   "prazo_liberacao_dias_corridos": null,
+   "fonte": "Plataforma Otimiza.pro (cadastro de operadoras de vale-transporte), consulta de 19/10/2026",
+   "verificado_em": "2026-10-19"
+  },
+  {
+   "uf": "SP",
+   "operadora_vt": "SOU ITANHAEM",
+   "prazo_liberacao_dias_uteis": null,
+   "prazo_liberacao_dias_corridos": null,
+   "fonte": "Plataforma Otimiza.pro (cadastro de operadoras de vale-transporte), consulta de 19/10/2026",
+   "verificado_em": "2026-10-19"
+  },
+  {
+   "uf": "SP",
+   "operadora_vt": "SOU JARINU",
+   "prazo_liberacao_dias_uteis": null,
+   "prazo_liberacao_dias_corridos": null,
+   "fonte": "Plataforma Otimiza.pro (cadastro de operadoras de vale-transporte), consulta de 19/10/2026",
+   "verificado_em": "2026-10-19"
+  },
+  {
+   "uf": "SP",
+   "operadora_vt": "SOU LIMEIRA",
+   "prazo_liberacao_dias_uteis": null,
+   "prazo_liberacao_dias_corridos": null,
+   "fonte": "Plataforma Otimiza.pro (cadastro de operadoras de vale-transporte), consulta de 19/10/2026",
+   "verificado_em": "2026-10-19"
+  },
+  {
+   "uf": "SP",
+   "operadora_vt": "SOU MOGI MIRIM/GUACU",
+   "prazo_liberacao_dias_uteis": null,
+   "prazo_liberacao_dias_corridos": null,
+   "fonte": "Plataforma Otimiza.pro (cadastro de operadoras de vale-transporte), consulta de 19/10/2026",
+   "verificado_em": "2026-10-19"
+  },
+  {
+   "uf": "SP",
+   "operadora_vt": "SOU PERUIBE",
+   "prazo_liberacao_dias_uteis": null,
+   "prazo_liberacao_dias_corridos": null,
+   "fonte": "Plataforma Otimiza.pro (cadastro de operadoras de vale-transporte), consulta de 19/10/2026",
+   "verificado_em": "2026-10-19"
+  },
+  {
+   "uf": "SP",
+   "operadora_vt": "SOU PRESIDENTE PRUDENTE",
+   "prazo_liberacao_dias_uteis": null,
+   "prazo_liberacao_dias_corridos": null,
+   "fonte": "Plataforma Otimiza.pro (cadastro de operadoras de vale-transporte), consulta de 19/10/2026",
+   "verificado_em": "2026-10-19"
+  },
+  {
+   "uf": "SP",
+   "operadora_vt": "SOU RIO CLARO",
+   "prazo_liberacao_dias_uteis": null,
+   "prazo_liberacao_dias_corridos": null,
+   "fonte": "Plataforma Otimiza.pro (cadastro de operadoras de vale-transporte), consulta de 19/10/2026",
+   "verificado_em": "2026-10-19"
+  },
+  {
+   "uf": "SP",
+   "operadora_vt": "SOU SALTO",
+   "prazo_liberacao_dias_uteis": null,
+   "prazo_liberacao_dias_corridos": null,
+   "fonte": "Plataforma Otimiza.pro (cadastro de operadoras de vale-transporte), consulta de 19/10/2026",
+   "verificado_em": "2026-10-19"
+  },
+  {
+   "uf": "SP",
+   "operadora_vt": "SOU SAO CARLOS",
+   "prazo_liberacao_dias_uteis": null,
+   "prazo_liberacao_dias_corridos": null,
+   "fonte": "Plataforma Otimiza.pro (cadastro de operadoras de vale-transporte), consulta de 19/10/2026",
+   "verificado_em": "2026-10-19"
+  },
+  {
+   "uf": "SP",
+   "operadora_vt": "SOU SAO SEBASTIAO",
+   "prazo_liberacao_dias_uteis": null,
+   "prazo_liberacao_dias_corridos": null,
+   "fonte": "Plataforma Otimiza.pro (cadastro de operadoras de vale-transporte), consulta de 19/10/2026",
+   "verificado_em": "2026-10-19"
+  },
+  {
+   "uf": "SP",
+   "operadora_vt": "SOU SAO VICENTE",
+   "prazo_liberacao_dias_uteis": null,
+   "prazo_liberacao_dias_corridos": null,
+   "fonte": "Plataforma Otimiza.pro (cadastro de operadoras de vale-transporte), consulta de 19/10/2026",
+   "verificado_em": "2026-10-19"
+  },
+  {
+   "uf": "SP",
+   "operadora_vt": "SOU UBATUBA",
+   "prazo_liberacao_dias_uteis": null,
+   "prazo_liberacao_dias_corridos": null,
+   "fonte": "Plataforma Otimiza.pro (cadastro de operadoras de vale-transporte), consulta de 19/10/2026",
+   "verificado_em": "2026-10-19"
+  },
+  {
+   "uf": "SP",
+   "operadora_vt": "SOU VALINHOS",
+   "prazo_liberacao_dias_uteis": null,
+   "prazo_liberacao_dias_corridos": null,
+   "fonte": "Plataforma Otimiza.pro (cadastro de operadoras de vale-transporte), consulta de 19/10/2026",
+   "verificado_em": "2026-10-19"
+  },
+  {
+   "uf": "SP",
+   "operadora_vt": "SPTRANS",
+   "prazo_liberacao_dias_uteis": null,
+   "prazo_liberacao_dias_corridos": null,
+   "fonte": "Plataforma Otimiza.pro (cadastro de operadoras de vale-transporte), consulta de 19/10/2026",
+   "verificado_em": "2026-10-19"
+  },
+  {
+   "uf": "SP",
+   "operadora_vt": "TCI TRANSPORTE",
+   "prazo_liberacao_dias_uteis": null,
+   "prazo_liberacao_dias_corridos": null,
+   "fonte": "Plataforma Otimiza.pro (cadastro de operadoras de vale-transporte), consulta de 19/10/2026",
+   "verificado_em": "2026-10-19"
+  },
+  {
+   "uf": "SP",
+   "operadora_vt": "TRANSURB BAURU",
+   "prazo_liberacao_dias_uteis": null,
+   "prazo_liberacao_dias_corridos": null,
+   "fonte": "Plataforma Otimiza.pro (cadastro de operadoras de vale-transporte), consulta de 19/10/2026",
+   "verificado_em": "2026-10-19"
+  },
+  {
+   "uf": "SP",
+   "operadora_vt": "TRANSURB JUNDIAI",
+   "prazo_liberacao_dias_uteis": null,
+   "prazo_liberacao_dias_corridos": null,
+   "fonte": "Plataforma Otimiza.pro (cadastro de operadoras de vale-transporte), consulta de 19/10/2026",
+   "verificado_em": "2026-10-19"
+  },
+  {
+   "uf": "SP",
+   "operadora_vt": "TRANSURC CAMPINAS",
+   "prazo_liberacao_dias_uteis": null,
+   "prazo_liberacao_dias_corridos": null,
+   "fonte": "Plataforma Otimiza.pro (cadastro de operadoras de vale-transporte), consulta de 19/10/2026",
+   "verificado_em": "2026-10-19"
+  },
+  {
+   "uf": "SP",
+   "operadora_vt": "TRAVESSIAS BILHETE INTELIGENTE",
+   "prazo_liberacao_dias_uteis": null,
+   "prazo_liberacao_dias_corridos": null,
+   "fonte": "Plataforma Otimiza.pro (cadastro de operadoras de vale-transporte), consulta de 19/10/2026",
+   "verificado_em": "2026-10-19"
+  },
+  {
+   "uf": "SP",
+   "operadora_vt": "URBES",
+   "prazo_liberacao_dias_uteis": null,
+   "prazo_liberacao_dias_corridos": null,
+   "fonte": "Plataforma Otimiza.pro (cadastro de operadoras de vale-transporte), consulta de 19/10/2026",
+   "verificado_em": "2026-10-19"
+  },
+  {
+   "uf": "SP",
+   "operadora_vt": "VB TRANSPORTE RODOVIARIO",
+   "prazo_liberacao_dias_uteis": null,
+   "prazo_liberacao_dias_corridos": null,
+   "fonte": "Plataforma Otimiza.pro (cadastro de operadoras de vale-transporte), consulta de 19/10/2026",
+   "verificado_em": "2026-10-19"
+  },
+  {
+   "uf": "SP",
+   "operadora_vt": "VB TRANSPORTES SUBURBANO ARTESP",
+   "prazo_liberacao_dias_uteis": null,
+   "prazo_liberacao_dias_corridos": null,
+   "fonte": "Plataforma Otimiza.pro (cadastro de operadoras de vale-transporte), consulta de 19/10/2026",
+   "verificado_em": "2026-10-19"
+  },
+  {
+   "uf": "SP",
+   "operadora_vt": "VIA AGIL",
+   "prazo_liberacao_dias_uteis": null,
+   "prazo_liberacao_dias_corridos": null,
+   "fonte": "Plataforma Otimiza.pro (cadastro de operadoras de vale-transporte), consulta de 19/10/2026",
+   "verificado_em": "2026-10-19"
+  },
+  {
+   "uf": "SP",
+   "operadora_vt": "VIA ITUPEVA",
+   "prazo_liberacao_dias_uteis": null,
+   "prazo_liberacao_dias_corridos": null,
+   "fonte": "Plataforma Otimiza.pro (cadastro de operadoras de vale-transporte), consulta de 19/10/2026",
+   "verificado_em": "2026-10-19"
+  },
+  {
+   "uf": "SP",
+   "operadora_vt": "VIACAO ATIBAIA",
+   "prazo_liberacao_dias_uteis": null,
+   "prazo_liberacao_dias_corridos": null,
+   "fonte": "Plataforma Otimiza.pro (cadastro de operadoras de vale-transporte), consulta de 19/10/2026",
+   "verificado_em": "2026-10-19"
+  },
+  {
+   "uf": "SP",
+   "operadora_vt": "VIACAO CAMBUI",
+   "prazo_liberacao_dias_uteis": null,
+   "prazo_liberacao_dias_corridos": null,
+   "fonte": "Plataforma Otimiza.pro (cadastro de operadoras de vale-transporte), consulta de 19/10/2026",
+   "verificado_em": "2026-10-19"
+  },
+  {
+   "uf": "SP",
+   "operadora_vt": "VIACAO JACAREI",
+   "prazo_liberacao_dias_uteis": null,
+   "prazo_liberacao_dias_corridos": null,
+   "fonte": "Plataforma Otimiza.pro (cadastro de operadoras de vale-transporte), consulta de 19/10/2026",
+   "verificado_em": "2026-10-19"
+  },
+  {
+   "uf": "SP",
+   "operadora_vt": "VIACAO SAO BENTO VSBCARD",
+   "prazo_liberacao_dias_uteis": null,
+   "prazo_liberacao_dias_corridos": null,
+   "fonte": "Plataforma Otimiza.pro (cadastro de operadoras de vale-transporte), consulta de 19/10/2026",
+   "verificado_em": "2026-10-19"
+  },
+  {
+   "uf": "SP",
+   "operadora_vt": "VIACAO SERTANEZINA",
+   "prazo_liberacao_dias_uteis": null,
+   "prazo_liberacao_dias_corridos": null,
+   "fonte": "Plataforma Otimiza.pro (cadastro de operadoras de vale-transporte), consulta de 19/10/2026",
+   "verificado_em": "2026-10-19"
+  },
+  {
+   "uf": "SP",
+   "operadora_vt": "VIACAO VALE DO RIBEIRA",
+   "prazo_liberacao_dias_uteis": null,
+   "prazo_liberacao_dias_corridos": null,
+   "fonte": "Plataforma Otimiza.pro (cadastro de operadoras de vale-transporte), consulta de 19/10/2026",
+   "verificado_em": "2026-10-19"
+  },
+  {
+   "uf": "SP",
+   "operadora_vt": "VIASOL RIO CLARO",
+   "prazo_liberacao_dias_uteis": null,
+   "prazo_liberacao_dias_corridos": null,
+   "fonte": "Plataforma Otimiza.pro (cadastro de operadoras de vale-transporte), consulta de 19/10/2026",
+   "verificado_em": "2026-10-19"
+  },
+  {
+   "uf": "SP",
+   "operadora_vt": "VIPE CARTAO SITS",
+   "prazo_liberacao_dias_uteis": null,
+   "prazo_liberacao_dias_corridos": null,
+   "fonte": "Plataforma Otimiza.pro (cadastro de operadoras de vale-transporte), consulta de 19/10/2026",
+   "verificado_em": "2026-10-19"
+  },
+  {
+   "uf": "TO",
+   "operadora_vt": "EXPRESSO MIRACEMA",
+   "prazo_liberacao_dias_uteis": null,
+   "prazo_liberacao_dias_corridos": null,
+   "fonte": "Plataforma Otimiza.pro (cadastro de operadoras de vale-transporte), consulta de 19/10/2026",
+   "verificado_em": "2026-10-19"
+  },
+  {
+   "uf": "TO",
+   "operadora_vt": "PASSAREDO ARAGUAINA",
+   "prazo_liberacao_dias_uteis": null,
+   "prazo_liberacao_dias_corridos": null,
+   "fonte": "Plataforma Otimiza.pro (cadastro de operadoras de vale-transporte), consulta de 19/10/2026",
+   "verificado_em": "2026-10-19"
+  },
+  {
+   "uf": "TO",
+   "operadora_vt": "SOU PALMAS",
+   "prazo_liberacao_dias_uteis": 3,
+   "prazo_liberacao_dias_corridos": null,
+   "fonte": "Plataforma Otimiza.pro (cadastro de operadoras de vale-transporte), consulta de 19/10/2026",
+   "verificado_em": "2026-10-19"
+  }
+ ]
+}

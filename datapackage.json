@@ -1,7 +1,7 @@
 {
   "name": "tarifas-transporte-publico-brasil",
   "title": "Base Nacional de Tarifas e Integrações de Operadoras do Transporte Público e Vale-Transporte",
-  "version": "2026.10.19.2",
+  "version": "2026.10.19.3",
   "homepage": "https://github.com/OtimizaPro/tarifas_integracoestarifarias_transportepublico_brasileiro",
   "licenses": [
     {
@@ -395,6 +395,108 @@
           },
           {
             "name": "cod_ibge",
+            "type": "string"
+          }
+        ]
+      }
+    },
+    {
+      "name": "linhas",
+      "path": "dados/linhas.csv",
+      "format": "csv",
+      "encoding": "utf-8",
+      "description": "Linhas do transporte público por município e por UF (municipais, intermunicipais e metropolitanas): número, nome, modo, operadora de vale-transporte e tarifa de cada linha, da base operacional da Otimiza.pro",
+      "schema": {
+        "fields": [
+          {
+            "name": "uf",
+            "type": "string"
+          },
+          {
+            "name": "municipio",
+            "type": "string"
+          },
+          {
+            "name": "cod_ibge",
+            "type": "string"
+          },
+          {
+            "name": "abrangencia",
+            "type": "string"
+          },
+          {
+            "name": "linha",
+            "type": "string"
+          },
+          {
+            "name": "nome_da_linha",
+            "type": "string"
+          },
+          {
+            "name": "modo",
+            "type": "string"
+          },
+          {
+            "name": "servico",
+            "type": "string"
+          },
+          {
+            "name": "operadora_vt",
+            "type": "string"
+          },
+          {
+            "name": "tarifa_brl",
+            "type": "number"
+          },
+          {
+            "name": "status",
+            "type": "string"
+          },
+          {
+            "name": "fonte",
+            "type": "string"
+          },
+          {
+            "name": "confianca",
+            "type": "string"
+          },
+          {
+            "name": "verificado_em",
+            "type": "string"
+          }
+        ]
+      }
+    },
+    {
+      "name": "operadoras_vt",
+      "path": "dados/operadoras_vt.csv",
+      "format": "csv",
+      "encoding": "utf-8",
+      "description": "Operadoras de vale-transporte por UF, com o prazo de liberação do crédito quando informado, do cadastro da Plataforma Otimiza.pro",
+      "schema": {
+        "fields": [
+          {
+            "name": "uf",
+            "type": "string"
+          },
+          {
+            "name": "operadora_vt",
+            "type": "string"
+          },
+          {
+            "name": "prazo_liberacao_dias_uteis",
+            "type": "integer"
+          },
+          {
+            "name": "prazo_liberacao_dias_corridos",
+            "type": "integer"
+          },
+          {
+            "name": "fonte",
+            "type": "string"
+          },
+          {
+            "name": "verificado_em",
             "type": "string"
           }
         ]
