@@ -1,8 +1,8 @@
 # Tarifas do transporte público por cidade (Otimiza.pro)
 
-Quanto custa o transporte público em 232 municípios brasileiros, segundo a Base Nacional de Tarifas e Integrações de VT da Otimiza.pro (versão 2026.10.19.5). Cada frase traz o valor, a fonte e a data em que a Otimiza.pro conferiu e, quando a fonte informa, o ato oficial e a data em que passou a valer. A fonte oficial de cada valor está indicada. Onde há dados de serviço e oferta, a ficha traz também linhas e passageiros, com a fonte e a data.
+Quanto custa o transporte público em 232 municípios brasileiros, segundo a Base Nacional de Tarifas e Integrações de VT da Otimiza.pro (versão 2026.10.19.6). Cada frase traz o valor, a fonte e a data em que a Otimiza.pro conferiu e, quando a fonte informa, o ato oficial e a data em que passou a valer. A fonte oficial de cada valor está indicada. Onde há dados de serviço e oferta, a ficha traz também linhas e passageiros, com a fonte e a data.
 
-Como citar: Fonte: Otimiza.pro, Base Nacional de Tarifas e Integrações de Operadoras do Transporte Público e Vale-Transporte, versão 2026.10.19.5. https://github.com/OtimizaPro/tarifas_integracoestarifarias_transportepublico_brasileiro
+Como citar: Fonte: Otimiza.pro, Base Nacional de Tarifas e Integrações de Operadoras do Transporte Público e Vale-Transporte, versão 2026.10.19.6. https://github.com/OtimizaPro/tarifas_integracoestarifarias_transportepublico_brasileiro
 
 ## AC
 
@@ -229,6 +229,8 @@ Vale-transporte em Aracruz: cartão Cartão Vale-Transporte (Decreto 34.446/2018
 Em Cachoeiro de Itapemirim (ES), a passagem de ônibus custa de R$ 4,00 a R$ 5,25 (varia com o cartão ou o meio de pagamento) desde 29/03/2026, conforme Decreto nº 36.967/2026; valor conferido em 17/10/2026 pela Base Nacional de Tarifas e Integrações de VT da Otimiza.pro.
 
 Fonte (página oficial): https://diario.cachoeiro.es.gov.br/uploads/dio/2/2026/d36967-decreto-reajuste-tarifa-do-transporte-coletivo-municipal-para-2026-1774647977.pdf
+
+Vale-transporte em Cachoeiro de Itapemirim: cartão Cartão Melhor Vale-Transporte; emitido por Consórcio Cachoeiro Integrado (CCI, CNPJ 10.518.988/0001-39); o site do Cartão Melhor usa o e-mail e as redes da Viação Flecha Branca; canal de compra da empresa: Loja Virtual do CCI (VTWeb Client da Prodata, vtclient.cachoeiro.prodatamobility.com.br), com cadastro de pessoa jurídica; o empregador compra os créditos e a recarga é feita a bordo, nos validadores. Atendimento na loja do Cartão Melhor no Shopping Cachoeiro.; taxa na compra: taxa administrativa por pedido: R$ 10,20 para pedidos até R$ 1.020,00 e 1% sobre o valor do boleto acima disso (página Taxa Administrativa do Cartão Melhor, na seção de serviços, ao lado da compra de crédito de vale-transporte).
 
 Integração em Cachoeiro de Itapemirim: Integração entre linhas urbanas e distritais: o segundo trecho paga 50% da tarifa de R$ 5,25 (Decreto nº 27.201/2017); não há subsídio tarifário nessa integração
 
@@ -531,6 +533,8 @@ Tarifa zero em Juiz de Fora: Ônibus grátis aos domingos e feriados nacionais (
 Em Montes Claros (MG), a passagem de ônibus custa R$ 4,60 desde 16/02/2025, conforme Decreto nº 4.942; valor conferido em 17/10/2026 pela Base Nacional de Tarifas e Integrações de VT da Otimiza.pro.
 
 Fonte (operadora): https://www.mocbus.com.br/index.php/tarifa
+
+Vale-transporte em Montes Claros: cartão SIM Card Vale-Transporte; emitido por Consórcio MOCBUS (CNPJ 33.935.652/0001-77), concessionário do transporte coletivo urbano de Montes Claros; canal de compra da empresa: Só a empresa empregadora pede o SIM Card Vale-Transporte à MOCBUS; login e senha enviados por e-mail depois da confirmação dos dados pelo 0800; compra e recarga pela internet no Sales Portal da MOCBUS (salesportal.montesclaros.prodatamobility.com.br, a Área do Cliente do site), com boleto gerado no portal; carga a bordo nos validadores em até 5 dias úteis após a comprovação do pagamento.; taxa na compra: nenhuma prevista: no contrato da Loja Virtual Montes Claros, a empresa paga os créditos no ato do pedido, por boleto (cláusula 7.2), pela tarifa vigente (cláusula 9.1), e a cessão do cartão é gratuita (cláusula 7.1); o contrato não tem cláusula de taxa de serviço (https://salesportal.montesclaros.prodatamobility.com.br/policies/teste.html).
 
 Integração em Montes Claros: Integração temporal e espacial: troca sem nova cobrança em até 1 hora, se o 2º embarque for em eixo diferente do 1º, conforme a matriz de integração por linha e sentido. Exige cartão da bilhetagem.
 
@@ -1628,7 +1632,7 @@ Fonte (página oficial): https://www.artesp.sp.gov.br/dx/api/dam/v1/collections/
 
 Vale-transporte em Americana: a empresa compra em 2 sistemas, SOU Americana Vale-Transporte e BUS+ (linhas metropolitanas da EMTU na Região Metropolitana de Campinas).
 
-SOU Americana Vale-Transporte: cobre ônibus municipais de Americana; cartão Cartão SOU Vale-Transporte; emitido por Sancetur (SOU Americana), autorizada pelo Decreto nº 13.716/2025 a facilitar a compra pelas empresas; canal de compra da empresa: Portal de vendas Prodata (Sales Portal, https://salesportal.americanasc.prodatamobility.com.br/login//): cadastro da empresa, cadastro e importação de funcionários, pedido por dias úteis ou por cartão e boleto; retirada dos cartões no terminal de cadastro (Av. Dr. Antônio Lobo, Centro, sala 16) com autorização carimbada da empresa.
+SOU Americana Vale-Transporte: cobre ônibus municipais de Americana; cartão Cartão SOU Vale-Transporte; emitido por Sancetur (SOU Americana), autorizada pelo Decreto nº 13.716/2025 a facilitar a compra pelas empresas; canal de compra da empresa: Portal de vendas Prodata (Sales Portal, https://salesportal.americanasc.prodatamobility.com.br/login//): cadastro da empresa, cadastro e importação de funcionários, pedido por dias úteis ou por cartão e boleto; retirada dos cartões no terminal de cadastro (Av. Dr. Antônio Lobo, Centro, sala 16) com autorização carimbada da empresa; taxa na compra: recarga via web: 2% sobre cada pedido, com mínimo de uma tarifa vigente, referente aos custos e taxas administrativas (item 5.2 do termo de adesão do Sales Portal) (https://salesportal.americanasc.prodatamobility.com.br/policies/teste.html).
 
 BUS+ (linhas metropolitanas da EMTU na Região Metropolitana de Campinas): cobre ônibus intermunicipais metropolitanos da RMC (EMTU, regulação da ARTESP); cartão Cartão BUS+ Vale-Transporte; emitido por Consórcio BUS+; canal de compra da empresa: Presencial nos postos BUS+ (cópia do CNPJ e lista dos colaboradores; cartões retirados após 5 dias úteis) ou online no site BUS+ (portal de VT http://vtclient.busmais.prodatamobility.com.br/wfm_home.aspx), com recarga a bordo; liberação do crédito: até 2 dias úteis após a compensação bancária (recarga a bordo); na compra online, cartões emitidos em 5 dias úteis após a compensação; taxa na compra: online: taxa de conveniência de 3%, mínimo de R$ 3,90; presencial: sem custo.
 
@@ -1726,7 +1730,7 @@ Em 2021, o sistema de ônibus de Campinas (SP) levou 93 milhões de passageiros,
 
 Fonte (página oficial): http://www.emdec.com.br/eficiente/sites/portalemdec/pt-br/site.php?secao=tarifas
 
-Vale-transporte em Campinas: cartão Bilhete Único Vale-Transporte; emitido por Transurc (associação das empresas de transporte coletivo urbano de Campinas); canal de compra da empresa: Sistema VT.NET da Transurc (transurc.com.br/servicos/comprar-passes-vt-net), pagamento por boleto, mínimo R$ 10; a empresa se cadastra e recebe senha após análise de até 2 dias; liberação do crédito: Créditos disponíveis no cartão do funcionário 1 dia após o processamento da venda; o funcionário ativa na catraca; taxa na compra: 1ª via gratuita; 2ª via custa uma tarifa vigente e fica pronta em 2 dias úteis.
+Vale-transporte em Campinas: cartão Bilhete Único Vale-Transporte; emitido por Transurc (associação das empresas de transporte coletivo urbano de Campinas); canal de compra da empresa: Sistema VT.NET da Transurc (transurc.com.br/servicos/comprar-passes-vt-net), pagamento por boleto, mínimo R$ 10; a empresa se cadastra e recebe senha após análise de até 2 dias; liberação do crédito: Créditos disponíveis no cartão do funcionário 1 dia após o processamento da venda; o funcionário ativa na catraca; taxa na compra: VT.NET: 2,50% sobre o valor da compra pela internet, 'visando cobrir os custos de processamento e transmissão de créditos eletrônicos'; compra na sede da Transurc sem essa taxa (itens 6.6 e 6.7 do Contrato de Adesão do VT.NET, de 2018) (https://vtnet.transurc.com.br/vtnet_2011/cliente/cadastro_novo_pj.asp?tipoCadastro=novo).
 
 Integração em Campinas: Bilhete Único Comum e Vale-Transporte: duas integrações em 2 horas, a 1ª gratuita e a 2ª por R$ 0,50. Escolar e Universitário: duas integrações gratuitas em 2 horas. QR Code não integra.
 
@@ -1747,6 +1751,12 @@ Em Carapicuíba (SP), a passagem de ônibus custa R$ 6,10 desde 05/01/2026, conf
 Em 2018, o sistema de ônibus de Carapicuíba (SP) levou 35 milhões de passageiros, segundo dados declarados pelo município à Pesquisa Nacional de Mobilidade Urbana (PEMOB), do governo federal. A idade média da frota de ônibus era de 5 anos em 2018. Dados consolidados pela Base Nacional de Tarifas e Integrações de VT da Otimiza.pro.
 
 Fonte (página oficial): https://www.carapicuiba.sp.gov.br/publicos/a18d15c67d140459d96d890efbb233af.pdf
+
+Vale-transporte em Carapicuíba: a empresa compra em 2 sistemas, ONpag VT de Carapicuíba e TOP Vale-Transporte (ônibus metropolitanos e trilhos da Grande São Paulo).
+
+ONpag VT de Carapicuíba: cobre ônibus municipais de Carapicuíba; cartão cartão ONpag Vale-Transporte; emitido por ONpag (bilhetagem das linhas municipais de Carapicuíba); canal de compra da empresa: Portal ONpag (portalonpag.com.br/carapicuiba): Portal de Vendas VT em sistema SIGOM (191.242.203.30:8026/wbc-st5), com a opção Cadastrar Empresa; Portal de Consultas VT (onpagservices.com.br) e Portal do Cliente (qaconnect.com.br); atendimento a empresas da ONpag pelo (11) 5610-2020..
+
+TOP Vale-Transporte (ônibus metropolitanos e trilhos da Grande São Paulo): cobre ônibus intermunicipais metropolitanos da Região Metropolitana de São Paulo (regulados pela ARTESP; o site da EMTU redireciona para a ARTESP), Metrô e trens metropolitanos; cartão Cartão TOP Vale-Transporte; emitido por Autopass (TOP); canal de compra da empresa: No site do TOP (boradetop.com.br), o item Vale-transporte da seção Para empresas leva ao cadastro da ViaNova Autopass (https://cadastro.portalvianova.com.br/cliente-cadastro/cliente-novo-cadastro-1.php), que vende VT com boleto único; a empresa cadastra os colaboradores por planilha Excel ou integração com o ERP, e a ViaNova emite a primeira via para quem ainda não tem cartão; liberação do crédito: a ViaNova permite programar a data de liberação dos créditos.
 
 ### Catanduva (SP)
 
@@ -1797,6 +1807,12 @@ Fonte (ato oficial reproduzido): https://www.taboaoemfoco.com.br/wp-content/uplo
 Em Ferraz de Vasconcelos (SP), a passagem de ônibus custa R$ 6,00 desde 01/01/2025, conforme Decreto nº 7.044/2024; valor conferido em 17/10/2026 pela Base Nacional de Tarifas e Integrações de VT da Otimiza.pro.
 
 Fonte (página oficial): https://ferrazdevasconcelos.sp.gov.br/web/wp-content/uploads/2025/02/Decreto-7044-24-Dispoe-sobre-o-reajuste-da-tarifa-do-servico-de-transporte-publico-coletivo-urbano-do-Municipio.pdf
+
+Vale-transporte em Ferraz de Vasconcelos: a empresa compra em 2 sistemas, ONpag VT de Ferraz de Vasconcelos e TOP Vale-Transporte (ônibus metropolitanos e trilhos da Grande São Paulo).
+
+ONpag VT de Ferraz de Vasconcelos: cobre ônibus municipais de Ferraz de Vasconcelos; cartão cartão ONpag Vale-Transporte; emitido por ONpag (bilhetagem das linhas municipais de Ferraz de Vasconcelos); canal de compra da empresa: Portal ONpag (portalonpag.com.br/ferrazdeVasconcelo): Portal de Vendas VT e Portal de Consultas VT no Onpass VT (onpassvt.com.br, Sales Portal da Prodata, o mesmo de Suzano e Poá), com cadastro da empresa e pedido de VT; Portal do Cliente (qaconnect.com.br); há loja ONpag em Ferraz de Vasconcelos..
+
+TOP Vale-Transporte (ônibus metropolitanos e trilhos da Grande São Paulo): cobre ônibus intermunicipais metropolitanos da Região Metropolitana de São Paulo (regulados pela ARTESP; o site da EMTU redireciona para a ARTESP), Metrô e trens metropolitanos; cartão Cartão TOP Vale-Transporte; emitido por Autopass (TOP); canal de compra da empresa: No site do TOP (boradetop.com.br), o item Vale-transporte da seção Para empresas leva ao cadastro da ViaNova Autopass (https://cadastro.portalvianova.com.br/cliente-cadastro/cliente-novo-cadastro-1.php), que vende VT com boleto único; a empresa cadastra os colaboradores por planilha Excel ou integração com o ERP, e a ViaNova emite a primeira via para quem ainda não tem cartão; liberação do crédito: a ViaNova permite programar a data de liberação dos créditos.
 
 Tarifa zero em Ferraz de Vasconcelos: Ônibus municipais gratuitos aos domingos e feriados (Programa Gratuidade do Transporte Público Coletivo Urbano)
 
@@ -1872,6 +1888,12 @@ Em Indaiatuba (SP), a passagem de ônibus custa R$ 4,10 desde 10/02/2019, segund
 
 Fonte (operadora): https://soutransportes.com.br/indaiatuba/
 
+Vale-transporte em Indaiatuba: a empresa compra em 2 sistemas, SOU Indaiatuba Vale-Transporte e BUS+ (linhas metropolitanas da EMTU na Região Metropolitana de Campinas).
+
+SOU Indaiatuba Vale-Transporte: cobre ônibus municipais de Indaiatuba; cartão Cartão SOU Vale-Transporte; emitido por Sancetur (Santa Cecília Turismo Ltda.), marca SOU Indaiatuba; canal de compra da empresa: Sales Portal da Prodata (salesportal.indaiatubaidt.prodatamobility.com.br), no menu Vale Transporte do site da SOU, com manual: cadastro da empresa (plano 'VT(APP400) CT'), funcionários, pedido e boleto; recarga embarcada; cartões retirados com autorização carimbada da empresa.; taxa na compra: Recarga via web: 2% sobre cada pedido, com mínimo de uma tarifa (o termo cita R$ 4,10), referente aos custos e taxas administrativas (item 5.2 do Termo de Adesão do Sales Portal, última atualização setembro/2021) (https://salesportal.indaiatubaidt.prodatamobility.com.br/policies/teste.html).
+
+BUS+ (linhas metropolitanas da EMTU na Região Metropolitana de Campinas): cobre ônibus intermunicipais metropolitanos da RMC (EMTU, regulação da ARTESP) que atendem Indaiatuba; cartão Cartão BUS+ Vale-Transporte; emitido por Consórcio BUS+; canal de compra da empresa: Presencial nos postos BUS+ (cópia do CNPJ e relação dos colaboradores com nome completo, sexo, CPF, RG, data de nascimento e nome da mãe; cartões retirados em até 5 dias úteis) ou online no site BUS+, com pagamento eletrônico e recarga a bordo; liberação do crédito: até 2 dias úteis após a compensação bancária (recarga a bordo); na compra online, cartões emitidos em 5 dias úteis após a compensação; taxa na compra: online: taxa de conveniência de 3% sobre o valor, mínimo de R$ 3,90; presencial: sem custo.
+
 ### Itapecerica da Serra (SP)
 
 Ainda não há tarifa de ônibus conferida para Itapecerica da Serra (SP) na Base Nacional de Tarifas e Integrações de VT da Otimiza.pro.
@@ -1926,7 +1948,7 @@ Em Jacareí (SP), a passagem de ônibus custa de R$ 4,50 a R$ 5,00 (varia com o 
 
 Fonte (página oficial): https://www.jtu.com.br/doc/downloads/985
 
-Vale-transporte em Jacareí: cartão Cartão Vale Transporte (Superpasse); emitido por JTU (bilhetagem Prodata); canal de compra da empresa: Sales Portal da JTU (salesportal.jacarei.prodatamobility.com.br): cadastro do funcionário gera o número do cartão; após o pagamento do primeiro boleto o funcionário retira o cartão no guichê da rodoviária com RG; liberação do crédito: recarga por boleto no portal de vendas liberada em até 48 horas.
+Vale-transporte em Jacareí: cartão Cartão Vale Transporte (Superpasse); emitido por JTU (bilhetagem Prodata); canal de compra da empresa: Sales Portal da JTU (salesportal.jacarei.prodatamobility.com.br): cadastro do funcionário gera o número do cartão; após o pagamento do primeiro boleto o funcionário retira o cartão no guichê da rodoviária com RG; liberação do crédito: recarga por boleto no portal de vendas liberada em até 48 horas; taxa na compra: Loja Virtual: 1% sobre o valor de cada pedido de crédito, como 'preço de utilização da Loja Virtual'; compra direta na sede da JTU sem custo adicional (minuta do contrato de uso da Loja Virtual) (https://salesportal.jacarei.prodatamobility.com.br/policies/teste.html).
 
 Integração em Jacareí: Integração nas linhas municipais somente com cartão eletrônico
 
@@ -1958,7 +1980,7 @@ Em 2021, o sistema de ônibus de Jundiaí (SP) levou 17 milhões de passageiros,
 
 Fonte (página oficial): https://jundiai.sp.gov.br/mobilidade/indicadores-e-informacoes/transporte-coletivo/
 
-Vale-transporte em Jundiaí: cartão Cartão Bilhete Único Vale Transporte.
+Vale-transporte em Jundiaí: cartão Cartão Bilhete Único Vale Transporte; taxa na compra: Loja Virtual: taxa de conveniência de até 2,00% sobre o valor total de cada pedido pago, com mínimo de R$ 3,90 por pedido (item 5.5 do Termo de Adesão e Uso, de 23/11/2020) (http://vt.cartaosim.com.br/wfm_Contract.aspx).
 
 ### Limeira (SP)
 
@@ -2080,6 +2102,8 @@ Em Presidente Prudente (SP), a passagem de ônibus custa R$ 5,00 desde 03/01/202
 
 Fonte (operadora): https://soutransportes.com.br/presidente-prudente/
 
+Vale-transporte em Presidente Prudente: cartão Cartão SOU Vale-Transporte; emitido por Sancetur (Santa Cecília Turismo Ltda.), que vende com exclusividade os cartões da SOU Presidente Prudente; canal de compra da empresa: Sales Portal da Prodata (salesportal.presidenteprudente.prodatamobility.com.br), no menu Vale Transporte do site da SOU, com manual: cadastro da empresa (plano 'VT (APP400,910) CT'), funcionários, pedido e boleto; recarga embarcada; cartões retirados com autorização da empresa.; taxa na compra: Recarga via web: 2% sobre cada pedido, com mínimo de uma tarifa vigente, referente aos custos e taxas administrativas (item 5.2 do Termo de Adesão do Sales Portal, última atualização dezembro/2021) (https://salesportal.presidenteprudente.prodatamobility.com.br/policies/teste.html).
+
 Integração em Presidente Prudente: Na nova rede (12 terminais e linhas expressas), integração de duas horas com o cartão do sistema, sem nova tarifa
 
 Tarifa zero em Presidente Prudente: Tarifa Zero aos sábados e domingos nos ônibus do transporte coletivo urbano
@@ -2090,7 +2114,7 @@ Em Ribeirão Preto (SP), a passagem de ônibus custa R$ 5,00 desde 16/02/2022, c
 
 Fonte (operadora): https://www.rpmobilidade.com.br/tarifas/valores-e-tarifas/
 
-Vale-transporte em Ribeirão Preto: cartão Cartão NOSSO Vale-Transporte; emitido por Consórcio PróUrbano (Central NOSSO); canal de compra da empresa: Portal NOSSO Vale-Transporte (VTWEBClient), após cadastro da empresa pelo 0800 16 16 001 ou e-mail; recargas só pelo portal; liberação do crédito: Cartão do colaborador pronto para retirada em 48 horas úteis; retirada só pelo titular, com biometria facial; taxa na compra: 2ª via: 6 tarifas vigentes; validade dos créditos: Cartão válido por 3 anos.
+Vale-transporte em Ribeirão Preto: cartão Cartão NOSSO Vale-Transporte; emitido por Consórcio PróUrbano (Central NOSSO); canal de compra da empresa: Portal NOSSO Vale-Transporte (VTWEBClient), após cadastro da empresa pelo 0800 16 16 001 ou e-mail; recargas só pelo portal; liberação do crédito: Cartão do colaborador pronto para retirada em 48 horas úteis; retirada só pelo titular, com biometria facial; taxa na compra: despesa administrativa de 2% sobre o valor de cada pedido pago, ou de 1 tarifa vigente quando os 2% não chegam a uma tarifa (cláusula 5.3 do contrato de adesão exibido no portal de VT) (http://187.32.96.202:8080/wfm_Contract.aspx); validade dos créditos: Cartão válido por 3 anos.
 
 Integração em Ribeirão Preto: Até 3 linhas distintas e não concorrentes, com transbordos em até 120 minutos do primeiro embarque, sem acréscimo tarifário.
 
@@ -2100,7 +2124,7 @@ Em Rio Claro (SP), a passagem de ônibus custa R$ 4,90 desde 30/12/2023, conform
 
 Fonte (página oficial): https://www.dosp.com.br/exibe_do.php?i=NDM2MTM1
 
-Vale-transporte em Rio Claro: cartão Cartão SOU Vale-Transporte; emitido por Sancetur (SOU Rio Claro); canal de compra da empresa: Portal de vendas Prodata (https://salesportal.rioclaro.prodatamobility.com.br/): cadastro da empresa e dos funcionários, pedido e boleto; retirada dos cartões com autorização carimbada da empresa; validade dos créditos: Na mudança de tarifa, o VT antigo pode ser usado por 90 dias a partir da nova tarifa ou trocado (Decreto nº 13.204, de 29/12/2023).
+Vale-transporte em Rio Claro: cartão Cartão SOU Vale-Transporte; emitido por Sancetur (SOU Rio Claro); canal de compra da empresa: Portal de vendas Prodata (https://salesportal.rioclaro.prodatamobility.com.br/): cadastro da empresa e dos funcionários, pedido e boleto; retirada dos cartões com autorização carimbada da empresa; taxa na compra: recarga via web: 2% sobre cada pedido, com mínimo de uma tarifa vigente, referente aos custos e taxas administrativas (item 5.2 do termo de adesão do Sales Portal) (https://salesportal.rioclaro.prodatamobility.com.br/policies/teste.html); validade dos créditos: Na mudança de tarifa, o VT antigo pode ser usado por 90 dias a partir da nova tarifa ou trocado (Decreto nº 13.204, de 29/12/2023).
 
 Integração em Rio Claro: Integração temporal entre linhas só com cartão eletrônico, em qualquer ponto onde duas linhas se cruzem; não vale com linha que esteja voltando para o bairro de origem.
 
@@ -2186,6 +2210,8 @@ Em 2018, o sistema de ônibus de São Carlos (SP) levou 22 milhões de passageir
 
 Fonte (página oficial): https://www.saocarlos.sp.gov.br/index.php/noticias-2026/181104-prefeitura-aciona-a-justica-para-assegurar-a-circulacao-do-transporte-coletivo-durante-paralisacao.html
 
+Vale-transporte em São Carlos: cartão Cartão SOU Vale-Transporte; emitido por Rigras Transportes Coletivos e Turismo Ltda. (marca SOU São Carlos); canal de compra da empresa: Loja Virtual VTWeb Client da Prodata (vtclient.saocarlos.prodatamobility.com.br), no menu Vale Transporte do site da SOU: cadastro da empresa e dos colaboradores, pedido e boleto pago com 3 dias úteis de antecedência; recarga embarcada em até 30 dias da compra (depois, nos postos de atendimento); cartões novos retirados na central em até 3 dias úteis.; taxa na compra: Recarga via web: 4% sobre cada pedido, com mínimo de uma tarifa vigente, referente aos custos e taxas administrativas para a utilização do sistema (item 5.2 do Termo de Adesão, última atualização abril/2023, datado de 01/05/2023) (http://vtclient.saocarlos.prodatamobility.com.br/wfm_Contract.aspx).
+
 Tarifa zero em São Carlos: Tarifa Zero aos sábados, domingos e feriados em todo o sistema; ampliada em 2026 com linhas para Babilônia e Novo Horizonte
 
 ### São José do Rio Preto (SP)
@@ -2238,7 +2264,7 @@ Em São Sebastião (SP), a passagem de ônibus custa R$ 2,95 desde 15/06/2025, c
 
 Fonte (ato oficial reproduzido): https://soutransportes.com.br/wp-content/uploads/2026/08/Decreto-9748-2025-Aumento-Tarifa-2015.pdf
 
-Vale-transporte em São Sebastião: cartão cartão SOU (vale-transporte); emitido por SOU Transportes (Sancetur, Santa Cecília Turismo Ltda., concessionária); canal de compra da empresa: Sales Portal de compra de VT (https://salesportal.ssbsc.prodatamobility.com.br/login//): a empresa se cadastra e recebe usuário e senha por e-mail, cadastra ou importa os funcionários, faz pedidos por dias úteis, pelo pedido anterior ou por cartão e emite boleto; os cartões são retirados com formulário de autorização da empresa.
+Vale-transporte em São Sebastião: cartão cartão SOU (vale-transporte); emitido por SOU Transportes (Sancetur, Santa Cecília Turismo Ltda., concessionária); canal de compra da empresa: Sales Portal de compra de VT (https://salesportal.ssbsc.prodatamobility.com.br/login//): a empresa se cadastra e recebe usuário e senha por e-mail, cadastra ou importa os funcionários, faz pedidos por dias úteis, pelo pedido anterior ou por cartão e emite boleto; os cartões são retirados com formulário de autorização da empresa; taxa na compra: recarga via web: 2% sobre cada pedido, com mínimo de uma tarifa vigente, referente aos custos e taxas administrativas (item 5.2 do termo de adesão do Sales Portal) (https://salesportal.ssbsc.prodatamobility.com.br/policies/teste.html).
 
 Integração em São Sebastião: Tempo de integração de 120 minutos, mantido pelo decreto de 2025 junto com as demais características das linhas
 
@@ -2249,6 +2275,12 @@ Em São Vicente (SP), a passagem de ônibus custa R$ 4,95 desde 01/2025, segundo
 Em 2021, o sistema de ônibus de São Vicente (SP) levou 2,5 milhões de passageiros, segundo dados declarados pelo município à Pesquisa Nacional de Mobilidade Urbana (PEMOB), do governo federal. A idade média da frota de ônibus era de 15 anos em 2021. Dados consolidados pela Base Nacional de Tarifas e Integrações de VT da Otimiza.pro.
 
 Fonte (página oficial): https://www.saovicente.sp.gov.br/institucional/perguntas-e-respostas-sobre-a-integracao-do-vlt
+
+Vale-transporte em São Vicente: a empresa compra em 2 sistemas, SOU São Vicente Vale-Transporte e BR Card Vale-Transporte (BR Mobilidade Baixada Santista).
+
+SOU São Vicente Vale-Transporte: cobre ônibus municipais de São Vicente; cartão Cartão SOU Vale-Transporte; emitido por Sancetur (Santa Cecília Turismo Ltda.), que vende com exclusividade os cartões da SOU São Vicente; canal de compra da empresa: Loja Virtual VTWeb Client da Prodata (vtclient.saovicente.prodatamobility.com.br), no menu Vale Transporte do site da SOU, com dúvidas pelo e-mail vt@sousaovicente.com.br; há também um Sales Portal (salesportal.saovicente.prodatamobility.com.br, plano 'VT SSV (401)') com o mesmo termo. Pedido e boleto pago com 3 dias úteis de antecedência; recarga embarcada em até 30 dias da compra.; taxa na compra: Recarga via web: 3% sobre cada pedido, com mínimo de uma tarifa vigente, referente aos custos e taxas administrativas (item 5.2 do Termo de Adesão, última atualização agosto/2022, igual no VTWeb Client e no Sales Portal) (http://vtclient.saovicente.prodatamobility.com.br/wfm_Contract.aspx).
+
+BR Card Vale-Transporte (BR Mobilidade Baixada Santista): cobre ônibus intermunicipais metropolitanos da Baixada Santista e VLT; cartão BR Card Vale-Transporte; emitido por Consórcio BR Mobilidade Baixada Santista (Viação Piracicabana S/A e Comporte Participações S.A.), PPP do Sistema Integrado Metropolitano da Baixada Santista; canal de compra da empresa: Portal VT (portalvt.brmobilidadebs.com.br): a empresa se cadastra com CNPJ, inclui os funcionários, faz o pedido escolhendo a data de liberação e paga por boleto bancário com vencimento de 10 dias; os créditos ficam disponíveis de 24 a 72 horas após a confirmação do pagamento, para recarga a bordo, nos pontos de recarga ou nas lojas..
 
 Integração em São Vicente: Integração entre ônibus municipal (amarelinho) e VLT, nos dois sentidos, só com BR Card comum ou vale-transporte; o cartão SOU não integra; não vale com ônibus intermunicipal; tempo conta a partir da validação
 
@@ -2328,7 +2360,7 @@ Em 2021, o sistema de ônibus de Taubaté (SP) levou 3,4 milhões de passageiros
 
 Fonte (operadora): https://www.abctransportes.com.br/tarifa/
 
-Vale-transporte em Taubaté: cartão Cartão Rápido Cidadão 2.0 Vale Transporte; emitido por Cartão Rápido (bilhetagem da ABC Transportes); canal de compra da empresa: Portal de Vendas do Cartão Rápido; a empresa compra os créditos e a recarga ocorre a bordo, no validador.
+Vale-transporte em Taubaté: cartão Cartão Rápido Cidadão 2.0 Vale Transporte; emitido por Cartão Rápido (bilhetagem da ABC Transportes); canal de compra da empresa: Portal de Vendas do Cartão Rápido; a empresa compra os créditos e a recarga ocorre a bordo, no validador; taxa na compra: Loja Virtual: tarifa de administração de 1,5% sobre o valor total de cada pedido pago, com mínimo de uma tarifa vigente (cláusula 5.3 do termo de adesão) (https://salesportal.taubate.prodatamobility.com.br/policies/teste.html).
 
 Integração em Taubaté: Com o Cartão Rápido, integração temporal de até 75 minutos para outra linha da tabela de integração, sem nova tarifa
 
@@ -2340,7 +2372,7 @@ Fonte (página oficial): https://www.artesp.sp.gov.br/dx/api/dam/v1/collections/
 
 Vale-transporte em Valinhos: a empresa compra em 2 sistemas, SOU Valinhos Vale-Transporte e BUS+ (linhas metropolitanas da EMTU na Região Metropolitana de Campinas).
 
-SOU Valinhos Vale-Transporte: cobre ônibus municipais de Valinhos; cartão Cartão SOU Vale-Transporte; emitido por SOU Valinhos (concessionária); canal de compra da empresa: Portal de vendas Prodata (Sales Portal, https://salesportal.sanceturvl.prodatamobility.com.br/login//): cadastro da empresa por CNPJ, cadastro ou importação de funcionários, pedido por dias úteis, por pedido anterior ou por valor por cartão, e boleto; retirada dos cartões com autorização impressa, assinada e carimbada pela empresa (formulário no site da SOU).
+SOU Valinhos Vale-Transporte: cobre ônibus municipais de Valinhos; cartão Cartão SOU Vale-Transporte; emitido por SOU Valinhos (concessionária); canal de compra da empresa: Portal de vendas Prodata (Sales Portal, https://salesportal.sanceturvl.prodatamobility.com.br/login//): cadastro da empresa por CNPJ, cadastro ou importação de funcionários, pedido por dias úteis, por pedido anterior ou por valor por cartão, e boleto; retirada dos cartões com autorização impressa, assinada e carimbada pela empresa (formulário no site da SOU); taxa na compra: recarga via web: 2% sobre cada pedido, com mínimo de uma tarifa vigente, referente aos custos e taxas administrativas (item 5.2 do termo de adesão do Sales Portal) (https://salesportal.sanceturvl.prodatamobility.com.br/policies/teste.html).
 
 BUS+ (linhas metropolitanas da EMTU na Região Metropolitana de Campinas): cobre ônibus intermunicipais metropolitanos da RMC (EMTU, regulação da ARTESP); cartão Cartão BUS+ Vale-Transporte; emitido por Consórcio BUS+; canal de compra da empresa: Presencial nos postos BUS+ (cópia do CNPJ e relação dos colaboradores com nome completo, sexo, CPF, RG, data de nascimento e nome da mãe; cartões retirados em até 5 dias úteis) ou online no site BUS+, com pagamento eletrônico e recarga a bordo; liberação do crédito: até 2 dias úteis após a compensação bancária (recarga a bordo); na compra online, cartões emitidos em 5 dias úteis após a compensação; taxa na compra: online: taxa de conveniência de 3% sobre o valor, mínimo de R$ 3,90; presencial: sem custo.
 
