@@ -1,16 +1,16 @@
 # Tarifas do transporte público por cidade (Otimiza.pro)
 
-Quanto custa o transporte público em 215 municípios brasileiros, segundo a Base Nacional de Tarifas do Transporte Público da Otimiza.pro (versão 2026.10.19). Cada frase traz o valor, a fonte e a data em que a Otimiza.pro conferiu e, quando a fonte informa, o ato oficial e a data em que passou a valer. A fonte oficial de cada valor está indicada. Onde há dados de serviço e oferta, a ficha traz também linhas e passageiros, com a fonte e a data.
+Quanto custa o transporte público em 215 municípios brasileiros, segundo a Base Nacional de Tarifas e Integrações de VT da Otimiza.pro (versão 2026.10.19.2). Cada frase traz o valor, a fonte e a data em que a Otimiza.pro conferiu e, quando a fonte informa, o ato oficial e a data em que passou a valer. A fonte oficial de cada valor está indicada. Onde há dados de serviço e oferta, a ficha traz também linhas e passageiros, com a fonte e a data.
 
-Como citar: Fonte: Otimiza.pro, Base Nacional de Tarifas do Transporte Público, versão 2026.10.19. https://github.com/OtimizaPro/tarifas_integracoestarifarias_transportepublico_brasileiro
+Como citar: Fonte: Otimiza.pro, Base Nacional de Tarifas e Integrações de Operadoras do Transporte Público e Vale-Transporte, versão 2026.10.19.2. https://github.com/OtimizaPro/tarifas_integracoestarifarias_transportepublico_brasileiro
 
 ## AC
 
 ### Rio Branco (AC)
 
-Em Rio Branco (AC), a passagem de ônibus custa R$ 3,50 desde 26/10/2021, conforme Decreto 1.438/2021; valor conferido em 17/10/2026 pela Base Nacional de Tarifas do Transporte Público da Otimiza.pro.
+Em Rio Branco (AC), a passagem de ônibus custa R$ 3,50 desde 26/10/2021, conforme Decreto 1.438/2021; valor conferido em 17/10/2026 pela Base Nacional de Tarifas e Integrações de VT da Otimiza.pro.
 
-Em 2017, o sistema de ônibus de Rio Branco (AC) levou 30 milhões de passageiros, segundo dados declarados pelo município à Pesquisa Nacional de Mobilidade Urbana (PEMOB), do governo federal. A idade média da frota de ônibus era de 6,5 anos em 2017. Dados consolidados pela Base Nacional de Tarifas do Transporte Público da Otimiza.pro.
+Em 2017, o sistema de ônibus de Rio Branco (AC) levou 30 milhões de passageiros, segundo dados declarados pelo município à Pesquisa Nacional de Mobilidade Urbana (PEMOB), do governo federal. A idade média da frota de ônibus era de 6,5 anos em 2017. Dados consolidados pela Base Nacional de Tarifas e Integrações de VT da Otimiza.pro.
 
 Fonte oficial: https://cgm.riobranco.ac.gov.br/lai/wp-content/uploads/2015/06/DECRETO-N%C2%BA-1438-2021-Altera%C3%A7%C3%A3o-da-Tarifa-no-valor-de-R-350..pdf
 
@@ -22,7 +22,7 @@ Integração em Rio Branco: Sistema Integrado de Transporte Urbano (SITURB): o P
 
 ### Maceió (AL)
 
-Em Maceió (AL), a passagem de ônibus custa de R$ 3,49 a R$ 4,00 (varia com o cartão ou o meio de pagamento) desde 31/05/2023, conforme Decreto 9.449/2023; valor conferido em 17/10/2026 pela Base Nacional de Tarifas do Transporte Público da Otimiza.pro.
+Em Maceió (AL), a passagem de ônibus custa de R$ 3,49 a R$ 4,00 (varia com o cartão ou o meio de pagamento) desde 31/05/2023, conforme Decreto 9.449/2023; valor conferido em 17/10/2026 pela Base Nacional de Tarifas e Integrações de VT da Otimiza.pro.
 
 Fonte oficial: https://www.normasbrasil.com.br/norma/decreto-9449-2023-maceio_446054.html
 
@@ -36,9 +36,9 @@ Tarifa zero em Maceió: Domingo é Livre: ônibus grátis aos domingos com o Vam
 
 ### Manaus (AM)
 
-Em Manaus (AM), a passagem de ônibus custa R$ 5,00 desde 01/03/2026, segundo a operadora (Sinetram); valor conferido em 17/10/2026 pela Base Nacional de Tarifas do Transporte Público da Otimiza.pro.
+Em Manaus (AM), a passagem de ônibus custa R$ 5,00 desde 01/03/2026, segundo a operadora (Sinetram); valor conferido em 17/10/2026 pela Base Nacional de Tarifas e Integrações de VT da Otimiza.pro.
 
-Em 2021, o sistema de ônibus de Manaus (AM) levou 191 milhões de passageiros, segundo dados declarados pelo município à Pesquisa Nacional de Mobilidade Urbana (PEMOB), do governo federal. A idade média da frota de ônibus era de 8,8 anos em 2021. Dados consolidados pela Base Nacional de Tarifas do Transporte Público da Otimiza.pro.
+Em 2021, o sistema de ônibus de Manaus (AM) levou 191 milhões de passageiros, segundo dados declarados pelo município à Pesquisa Nacional de Mobilidade Urbana (PEMOB), do governo federal. A idade média da frota de ônibus era de 8,8 anos em 2021. Dados consolidados pela Base Nacional de Tarifas e Integrações de VT da Otimiza.pro.
 
 Fonte oficial: https://www.sinetram.com.br/p/cartao-comum
 
@@ -50,7 +50,7 @@ Integração em Manaus: Integração físico-tarifária nos terminais fechados d
 
 ### Macapá (AP)
 
-Ainda não há tarifa de ônibus conferida para Macapá (AP) na Base Nacional de Tarifas do Transporte Público da Otimiza.pro.
+Ainda não há tarifa de ônibus conferida para Macapá (AP) na Base Nacional de Tarifas e Integrações de VT da Otimiza.pro.
 
 Fonte oficial: https://macapa.ap.gov.br/prefeitura-de-macapa-garante-tarifa-social-e-organiza-interdicoes-para-celebracao-da-sexta-feira-santa-no-santuario-de-fatima/
 
@@ -60,7 +60,7 @@ Vale-transporte em Macapá: cartão Cartão Vale-Transporte empresarial da bilhe
 
 ### Alagoinhas (BA)
 
-Em Alagoinhas (BA), a passagem de ônibus custa R$ 4,60 desde 12/01/2026, segundo a publicação oficial (Prefeitura de Alagoinhas, notícia de 03/01/2026); valor conferido em 17/10/2026 pela Base Nacional de Tarifas do Transporte Público da Otimiza.pro.
+Em Alagoinhas (BA), a passagem de ônibus custa R$ 4,60 desde 12/01/2026, segundo a publicação oficial (Prefeitura de Alagoinhas, notícia de 03/01/2026); valor conferido em 17/10/2026 pela Base Nacional de Tarifas e Integrações de VT da Otimiza.pro.
 
 Fonte oficial: https://www.alagoinhas.ba.gov.br/index.php/tarifa-do-transporte-coletivo-de-alagoinhas-tem-reajuste-anual/
 
@@ -68,7 +68,7 @@ Tarifa zero em Alagoinhas: Transporte coletivo urbano gratuito aos domingos e fe
 
 ### Barreiras (BA)
 
-Em Barreiras (BA), a passagem de ônibus custa de R$ 4,50 a R$ 5,00 (varia com o cartão ou o meio de pagamento) desde 15/01/2026, conforme Decreto nº 04/2026; valor conferido em 17/10/2026 pela Base Nacional de Tarifas do Transporte Público da Otimiza.pro.
+Em Barreiras (BA), a passagem de ônibus custa de R$ 4,50 a R$ 5,00 (varia com o cartão ou o meio de pagamento) desde 15/01/2026, conforme Decreto nº 04/2026; valor conferido em 17/10/2026 pela Base Nacional de Tarifas e Integrações de VT da Otimiza.pro.
 
 Fonte oficial: https://pmbarreiras.diariomtransparente.com.br/publicacao?referencia=12927
 
@@ -76,9 +76,9 @@ Tarifa zero em Barreiras: Gratuidade universal em todas as linhas urbanas e rura
 
 ### Feira de Santana (BA)
 
-Em Feira de Santana (BA), a passagem de ônibus custa de R$ 5,40 a R$ 5,90 (varia com o cartão ou o meio de pagamento) desde 17/01/2026, conforme Decreto nº 14.334/2026; valor conferido em 17/10/2026 pela Base Nacional de Tarifas do Transporte Público da Otimiza.pro.
+Em Feira de Santana (BA), a passagem de ônibus custa de R$ 5,40 a R$ 5,90 (varia com o cartão ou o meio de pagamento) desde 17/01/2026, conforme Decreto nº 14.334/2026; valor conferido em 17/10/2026 pela Base Nacional de Tarifas e Integrações de VT da Otimiza.pro.
 
-Em 2020, o sistema de ônibus de Feira de Santana (BA) levou 28 milhões de passageiros, segundo dados declarados pelo município à Pesquisa Nacional de Mobilidade Urbana (PEMOB), do governo federal. A idade média da frota de ônibus era de 5 anos em 2020. Dados consolidados pela Base Nacional de Tarifas do Transporte Público da Otimiza.pro.
+Em 2020, o sistema de ônibus de Feira de Santana (BA) levou 28 milhões de passageiros, segundo dados declarados pelo município à Pesquisa Nacional de Mobilidade Urbana (PEMOB), do governo federal. A idade média da frota de ônibus era de 5 anos em 2020. Dados consolidados pela Base Nacional de Tarifas e Integrações de VT da Otimiza.pro.
 
 Fonte oficial: https://diariooficial.feiradesantana.ba.gov.br/atos/executivo/1BBDDL8J160120261739.pdf
 
@@ -88,7 +88,7 @@ Integração em Feira de Santana: Integração temporal com cartão Via Feira re
 
 ### Lauro de Freitas (BA)
 
-Em Lauro de Freitas (BA), a passagem de ônibus custa R$ 5,20 desde 27/03/2024, segundo a publicação oficial (AGERBA, Certificado de Autorização de Tráfego, CAT metropolitano da Expresso Luxo Vitória); valor conferido em 17/10/2026 pela Base Nacional de Tarifas do Transporte Público da Otimiza.pro.
+Em Lauro de Freitas (BA), a passagem de ônibus custa R$ 5,20 desde 27/03/2024, segundo a publicação oficial (AGERBA, Certificado de Autorização de Tráfego, CAT metropolitano da Expresso Luxo Vitória); valor conferido em 17/10/2026 pela Base Nacional de Tarifas e Integrações de VT da Otimiza.pro.
 
 Fonte oficial: https://www.ba.gov.br/agerba/sites/site-agerba/files/2025-08/CAT%20financeiro%20-%20Expresso%20Luxo%20%28metropolitano%29%20%281%29.pdf
 
@@ -96,9 +96,9 @@ Integração em Lauro de Freitas: A AGERBA informa que a integração com o metr
 
 ### Salvador (BA)
 
-Em Salvador (BA), a passagem de ônibus custa R$ 5,90 desde 05/01/2026, conforme Portaria ARSAL nº 001/2026; valor conferido em 18/10/2026 pela Base Nacional de Tarifas do Transporte Público da Otimiza.pro.
+Em Salvador (BA), a passagem de ônibus custa R$ 5,90 desde 05/01/2026, conforme Portaria ARSAL nº 001/2026; valor conferido em 18/10/2026 pela Base Nacional de Tarifas e Integrações de VT da Otimiza.pro.
 
-Em 2018, o sistema de ônibus de Salvador (BA) levou 460 milhões de passageiros, segundo dados declarados pelo município à Pesquisa Nacional de Mobilidade Urbana (PEMOB), do governo federal. A idade média da frota de ônibus era de 6 anos em 2021. Dados consolidados pela Base Nacional de Tarifas do Transporte Público da Otimiza.pro.
+Em 2018, o sistema de ônibus de Salvador (BA) levou 460 milhões de passageiros, segundo dados declarados pelo município à Pesquisa Nacional de Mobilidade Urbana (PEMOB), do governo federal. A idade média da frota de ônibus era de 6 anos em 2021. Dados consolidados pela Base Nacional de Tarifas e Integrações de VT da Otimiza.pro.
 
 Fonte oficial: http://www.dom.salvador.ba.gov.br/images/stories/pdf/2025/dezembro/dom-9182-31-12-2025.pdf
 
@@ -112,7 +112,7 @@ Integração em Salvador: ônibus x ônibus: uma integração, mesmo sentido, ou
 
 ### Simões Filho (BA)
 
-Em Simões Filho (BA), a passagem de ônibus custa de R$ 4,50 a R$ 5,20 (varia com o tipo de linha), segundo a operadora (Metropasse, página Empresas e Tarifas); valor conferido em 18/10/2026 pela Base Nacional de Tarifas do Transporte Público da Otimiza.pro.
+Em Simões Filho (BA), a passagem de ônibus custa de R$ 4,50 a R$ 5,20 (varia com o tipo de linha), segundo a operadora (Metropasse, página Empresas e Tarifas); valor conferido em 18/10/2026 pela Base Nacional de Tarifas e Integrações de VT da Otimiza.pro.
 
 Fonte oficial: http://www.metropasse.com.br/empresas-e-tarifas/
 
@@ -122,9 +122,9 @@ Integração em Simões Filho: Integração tarifária do Metropasse: por até 3
 
 ### Vitória da Conquista (BA)
 
-Em Vitória da Conquista (BA), a passagem de ônibus custa de R$ 4,00 a R$ 4,50 (varia com o cartão ou o meio de pagamento) desde 01/01/2026, conforme Decreto nº 24.046/2025; valor conferido em 17/10/2026 pela Base Nacional de Tarifas do Transporte Público da Otimiza.pro.
+Em Vitória da Conquista (BA), a passagem de ônibus custa de R$ 4,00 a R$ 4,50 (varia com o cartão ou o meio de pagamento) desde 01/01/2026, conforme Decreto nº 24.046/2025; valor conferido em 17/10/2026 pela Base Nacional de Tarifas e Integrações de VT da Otimiza.pro.
 
-Em 2017, o sistema de ônibus de Vitória da Conquista (BA) levou 28 milhões de passageiros, segundo dados declarados pelo município à Pesquisa Nacional de Mobilidade Urbana (PEMOB), do governo federal. A idade média da frota de ônibus era de 7,8 anos em 2017. Dados consolidados pela Base Nacional de Tarifas do Transporte Público da Otimiza.pro.
+Em 2017, o sistema de ônibus de Vitória da Conquista (BA) levou 28 milhões de passageiros, segundo dados declarados pelo município à Pesquisa Nacional de Mobilidade Urbana (PEMOB), do governo federal. A idade média da frota de ônibus era de 7,8 anos em 2017. Dados consolidados pela Base Nacional de Tarifas e Integrações de VT da Otimiza.pro.
 
 Fonte oficial: https://www.pmvc.ba.gov.br/tarifa-do-transporte-coletivo-tera-reajuste-a-partir-de-1o-de-janeiro-de-2026/
 
@@ -136,9 +136,9 @@ Integração em Vitória da Conquista: Integração tarifária: mais de um deslo
 
 ### Caucaia (CE)
 
-Em Caucaia (CE), o ônibus é gratuito (tarifa zero) desde 01/09/2021, conforme Decreto nº 1.221/2021; valor conferido em 17/10/2026 pela Base Nacional de Tarifas do Transporte Público da Otimiza.pro.
+Em Caucaia (CE), o ônibus é gratuito (tarifa zero) desde 01/09/2021, conforme Decreto nº 1.221/2021; valor conferido em 17/10/2026 pela Base Nacional de Tarifas e Integrações de VT da Otimiza.pro.
 
-Em Caucaia (CE), a idade média da frota de ônibus era de 4 anos em 2018. Dados consolidados pela Base Nacional de Tarifas do Transporte Público da Otimiza.pro.
+Em Caucaia (CE), a idade média da frota de ônibus era de 4 anos em 2018. Dados consolidados pela Base Nacional de Tarifas e Integrações de VT da Otimiza.pro.
 
 Fonte oficial: https://www.caucaia.ce.gov.br/arquivos/3234/Decreto_1515_2025_0000001.pdf
 
@@ -146,7 +146,7 @@ Tarifa zero em Caucaia: Gratuidade para todos no transporte coletivo rodoviário
 
 ### Crato (CE)
 
-No Crato (CE), a passagem de ônibus (intermunicipal Juazeiro do Norte x Crato) custa R$ 4,65, segundo a operadora (Viametro Cariri, tabela de tarifas; Prefeitura de Juazeiro do Norte, notícia de 21/03/2022); valor conferido em 17/10/2026 pela Base Nacional de Tarifas do Transporte Público da Otimiza.pro.
+No Crato (CE), a passagem de ônibus (intermunicipal Juazeiro do Norte x Crato) custa R$ 4,65, segundo a operadora (Viametro Cariri, tabela de tarifas; Prefeitura de Juazeiro do Norte, notícia de 21/03/2022); valor conferido em 17/10/2026 pela Base Nacional de Tarifas e Integrações de VT da Otimiza.pro.
 
 Fonte oficial: https://viametrocariri.com.br/index.php?page=tarifas
 
@@ -156,7 +156,7 @@ Integração no Crato: Bilhete Único Metropolitano do Cariri: paga o primeiro �
 
 ### Eusébio (CE)
 
-Em Eusébio (CE), a passagem de ônibus custa R$ 5,95, e há linhas gratuitas; valor conferido em 18/10/2026 pela Base Nacional de Tarifas do Transporte Público da Otimiza.pro.
+Em Eusébio (CE), a passagem de ônibus custa R$ 5,95, e há linhas gratuitas; valor conferido em 18/10/2026 pela Base Nacional de Tarifas e Integrações de VT da Otimiza.pro.
 
 Fonte oficial: https://www.vtefortaleza.com.br/
 
@@ -166,9 +166,9 @@ Tarifa zero em Eusébio: TRUE (Transporte Regular Urbano de Eusébio) gratuito p
 
 ### Fortaleza (CE)
 
-Em Fortaleza (CE), a passagem de ônibus custa R$ 5,40 desde 02/01/2026, conforme Decreto nº 16.547/2025; valor conferido em 18/10/2026 pela Base Nacional de Tarifas do Transporte Público da Otimiza.pro.
+Em Fortaleza (CE), a passagem de ônibus custa R$ 5,40 desde 02/01/2026, conforme Decreto nº 16.547/2025; valor conferido em 18/10/2026 pela Base Nacional de Tarifas e Integrações de VT da Otimiza.pro.
 
-Em Fortaleza (CE), o GTFS oficial mais recente da Etufor, de 03/04/2026, lista 325 linhas de ônibus. O GTFS oficial mais recente do Metrofor, de 01/01/2025, lista 3 linhas de metrô. Em 2018, o sistema de ônibus levou 304 milhões de passageiros, segundo dados declarados pelo município à Pesquisa Nacional de Mobilidade Urbana (PEMOB), do governo federal. A idade média da frota de ônibus era de 5,9 anos em 2018. Dados consolidados pela Base Nacional de Tarifas do Transporte Público da Otimiza.pro.
+Em Fortaleza (CE), o GTFS oficial mais recente da Etufor, de 03/04/2026, lista 325 linhas de ônibus. O GTFS oficial mais recente do Metrofor, de 01/01/2025, lista 3 linhas de metrô. Em 2018, o sistema de ônibus levou 304 milhões de passageiros, segundo dados declarados pelo município à Pesquisa Nacional de Mobilidade Urbana (PEMOB), do governo federal. A idade média da frota de ônibus era de 5,9 anos em 2018. Dados consolidados pela Base Nacional de Tarifas e Integrações de VT da Otimiza.pro.
 
 Fonte oficial: https://diariooficial.fortaleza.ce.gov.br/api/nodes/ebaab252-475d-457d-aab2-52475d257d95/content?name=22122025%20-%2018219.pdf
 
@@ -180,9 +180,9 @@ Tarifa zero em Fortaleza: Ônibus gratuitos para todos das 6h às 18h nos doming
 
 ### Juazeiro do Norte (CE)
 
-Em Juazeiro do Norte (CE), a passagem de ônibus custa R$ 3,00 desde 03/2022, conforme Decreto municipal publicado em 18/03/2022; valor conferido em 17/10/2026 pela Base Nacional de Tarifas do Transporte Público da Otimiza.pro.
+Em Juazeiro do Norte (CE), a passagem de ônibus custa R$ 3,00 desde 03/2022, conforme Decreto municipal publicado em 18/03/2022; valor conferido em 17/10/2026 pela Base Nacional de Tarifas e Integrações de VT da Otimiza.pro.
 
-Em 2018, o sistema de ônibus de Juazeiro do Norte (CE) levou 7 milhões de passageiros, segundo dados declarados pelo município à Pesquisa Nacional de Mobilidade Urbana (PEMOB), do governo federal. A idade média da frota de ônibus era de 6 anos em 2018. Dados consolidados pela Base Nacional de Tarifas do Transporte Público da Otimiza.pro.
+Em 2018, o sistema de ônibus de Juazeiro do Norte (CE) levou 7 milhões de passageiros, segundo dados declarados pelo município à Pesquisa Nacional de Mobilidade Urbana (PEMOB), do governo federal. A idade média da frota de ônibus era de 6 anos em 2018. Dados consolidados pela Base Nacional de Tarifas e Integrações de VT da Otimiza.pro.
 
 Fonte oficial: https://viametrocariri.com.br/index.php?page=tarifas
 
@@ -194,9 +194,9 @@ Integração em Juazeiro do Norte: Bilhete Único Metropolitano do Cariri: paga 
 
 ### Brasília (DF)
 
-Em Brasília (DF), a passagem de ônibus custa de R$ 2,70 a R$ 5,50 (varia com o tipo de linha) desde 13/01/2020, conforme Decreto distrital nº 40.381/2020; valor conferido em 18/10/2026 pela Base Nacional de Tarifas do Transporte Público da Otimiza.pro.
+Em Brasília (DF), a passagem de ônibus custa de R$ 2,70 a R$ 5,50 (varia com o tipo de linha) desde 13/01/2020, conforme Decreto distrital nº 40.381/2020; valor conferido em 18/10/2026 pela Base Nacional de Tarifas e Integrações de VT da Otimiza.pro.
 
-Em 2021, o sistema de ônibus de Brasília (DF) levou 277 milhões de passageiros, segundo dados declarados pelo município à Pesquisa Nacional de Mobilidade Urbana (PEMOB), do governo federal. A idade média da frota de ônibus era de 4,5 anos em 2020. Dados consolidados pela Base Nacional de Tarifas do Transporte Público da Otimiza.pro.
+Em 2021, o sistema de ônibus de Brasília (DF) levou 277 milhões de passageiros, segundo dados declarados pelo município à Pesquisa Nacional de Mobilidade Urbana (PEMOB), do governo federal. A idade média da frota de ônibus era de 4,5 anos em 2020. Dados consolidados pela Base Nacional de Tarifas e Integrações de VT da Otimiza.pro.
 
 Fonte oficial: https://www.dodf.df.gov.br/index/visualizar-arquivo/?pasta=2020%7C01_Janeiro%7CDODF%20007%2010-01-2020%7C&arquivo=DODF%20007%2010-01-2020%20INTEGRA.pdf
 
@@ -210,7 +210,7 @@ Tarifa zero em Brasília: Programa Vai de Graça: isenção da tarifa do usuári
 
 ### Aracruz (ES)
 
-Em Aracruz (ES), a passagem de ônibus custa R$ 5,05 desde 03/2026, conforme Decreto nº 50.772/2026; valor conferido em 18/10/2026 pela Base Nacional de Tarifas do Transporte Público da Otimiza.pro.
+Em Aracruz (ES), a passagem de ônibus custa R$ 5,05 desde 03/2026, conforme Decreto nº 50.772/2026; valor conferido em 18/10/2026 pela Base Nacional de Tarifas e Integrações de VT da Otimiza.pro.
 
 Fonte oficial: https://aracruz.es.gov.br/storage/56980/50772-ANEXO_merged.pdf
 
@@ -218,7 +218,7 @@ Vale-transporte em Aracruz: cartão Cartão Vale-Transporte (Decreto 34.446/2018
 
 ### Cachoeiro de Itapemirim (ES)
 
-Em Cachoeiro de Itapemirim (ES), a passagem de ônibus custa de R$ 4,00 a R$ 5,25 (varia com o cartão ou o meio de pagamento) desde 29/03/2026, conforme Decreto nº 36.967/2026; valor conferido em 17/10/2026 pela Base Nacional de Tarifas do Transporte Público da Otimiza.pro.
+Em Cachoeiro de Itapemirim (ES), a passagem de ônibus custa de R$ 4,00 a R$ 5,25 (varia com o cartão ou o meio de pagamento) desde 29/03/2026, conforme Decreto nº 36.967/2026; valor conferido em 17/10/2026 pela Base Nacional de Tarifas e Integrações de VT da Otimiza.pro.
 
 Fonte oficial: https://diario.cachoeiro.es.gov.br/uploads/dio/2/2026/d36967-decreto-reajuste-tarifa-do-transporte-coletivo-municipal-para-2026-1774647977.pdf
 
@@ -226,9 +226,9 @@ Integração em Cachoeiro de Itapemirim: Integração entre linhas urbanas e dis
 
 ### Cariacica (ES)
 
-Em Cariacica (ES), a passagem de ônibus do sistema Transcol (Grande Vitória) (Transcol: Vitória, Cariacica, Serra, Viana e intermunicipal metropolitano) custa R$ 5,10 desde 11/01/2026, conforme Portaria SEMOBI nº 003-S/2026; valor conferido em 18/10/2026 pela Base Nacional de Tarifas do Transporte Público da Otimiza.pro.
+Em Cariacica (ES), a passagem de ônibus do sistema Transcol (Grande Vitória) (Transcol: Vitória, Cariacica, Serra, Viana e intermunicipal metropolitano) custa R$ 5,10 desde 11/01/2026, conforme Portaria SEMOBI nº 003-S/2026; valor conferido em 18/10/2026 pela Base Nacional de Tarifas e Integrações de VT da Otimiza.pro.
 
-Em 2018, o sistema de ônibus de Cariacica (ES) levou 86 milhões de passageiros, segundo dados declarados pelo município à Pesquisa Nacional de Mobilidade Urbana (PEMOB), do governo federal. A idade média da frota de ônibus era de 8,4 anos em 2018. Dados consolidados pela Base Nacional de Tarifas do Transporte Público da Otimiza.pro.
+Em 2018, o sistema de ônibus de Cariacica (ES) levou 86 milhões de passageiros, segundo dados declarados pelo município à Pesquisa Nacional de Mobilidade Urbana (PEMOB), do governo federal. A idade média da frota de ônibus era de 8,4 anos em 2018. Dados consolidados pela Base Nacional de Tarifas e Integrações de VT da Otimiza.pro.
 
 Fonte oficial: https://ioes.dio.es.gov.br/portal/edicoes/download/10814
 
@@ -238,7 +238,7 @@ Integração em Cariacica: integração física nos terminais do Transcol, pagan
 
 ### Colatina (ES)
 
-Em Colatina (ES), a passagem de ônibus custa R$ 4,40 desde 26/02/2023, conforme Decreto nº 27.776/2023; valor conferido em 18/10/2026 pela Base Nacional de Tarifas do Transporte Público da Otimiza.pro.
+Em Colatina (ES), a passagem de ônibus custa R$ 4,40 desde 26/02/2023, conforme Decreto nº 27.776/2023; valor conferido em 18/10/2026 pela Base Nacional de Tarifas e Integrações de VT da Otimiza.pro.
 
 Fonte oficial: https://colatina.legonline.com.br/ato-normativo/compilado/24519
 
@@ -250,7 +250,7 @@ Tarifa zero em Colatina: Transporte público gratuito nos dias de votação: 04/
 
 ### Serra (ES)
 
-Em Serra (ES), a passagem de ônibus do sistema Transcol (Grande Vitória) (Transcol: Vitória, Cariacica, Serra, Viana e intermunicipal metropolitano) custa R$ 5,10 desde 11/01/2026, conforme Portaria SEMOBI nº 003-S/2026; valor conferido em 18/10/2026 pela Base Nacional de Tarifas do Transporte Público da Otimiza.pro.
+Em Serra (ES), a passagem de ônibus do sistema Transcol (Grande Vitória) (Transcol: Vitória, Cariacica, Serra, Viana e intermunicipal metropolitano) custa R$ 5,10 desde 11/01/2026, conforme Portaria SEMOBI nº 003-S/2026; valor conferido em 18/10/2026 pela Base Nacional de Tarifas e Integrações de VT da Otimiza.pro.
 
 Fonte oficial: https://ioes.dio.es.gov.br/portal/edicoes/download/10814
 
@@ -260,9 +260,9 @@ Integração em Serra: integração física nos terminais do Transcol, pagando u
 
 ### Vila Velha (ES)
 
-Em Vila Velha (ES), a passagem de ônibus do sistema Transcol (Grande Vitória) (Transcol: Vitória, Cariacica, Serra, Viana e intermunicipal metropolitano) custa R$ 5,10 desde 11/01/2026, conforme Portaria SEMOBI nº 003-S/2026; valor conferido em 18/10/2026 pela Base Nacional de Tarifas do Transporte Público da Otimiza.pro.
+Em Vila Velha (ES), a passagem de ônibus do sistema Transcol (Grande Vitória) (Transcol: Vitória, Cariacica, Serra, Viana e intermunicipal metropolitano) custa R$ 5,10 desde 11/01/2026, conforme Portaria SEMOBI nº 003-S/2026; valor conferido em 18/10/2026 pela Base Nacional de Tarifas e Integrações de VT da Otimiza.pro.
 
-Em 2020, o sistema de ônibus de Vila Velha (ES) levou 3,6 milhões de passageiros, segundo dados declarados pelo município à Pesquisa Nacional de Mobilidade Urbana (PEMOB), do governo federal. A idade média da frota de ônibus era de 12,8 anos em 2020. Dados consolidados pela Base Nacional de Tarifas do Transporte Público da Otimiza.pro.
+Em 2020, o sistema de ônibus de Vila Velha (ES) levou 3,6 milhões de passageiros, segundo dados declarados pelo município à Pesquisa Nacional de Mobilidade Urbana (PEMOB), do governo federal. A idade média da frota de ônibus era de 12,8 anos em 2020. Dados consolidados pela Base Nacional de Tarifas e Integrações de VT da Otimiza.pro.
 
 Fonte oficial: https://ioes.dio.es.gov.br/portal/edicoes/download/10814
 
@@ -272,7 +272,7 @@ Integração em Vila Velha: integração física nos terminais do Transcol, paga
 
 ### Vitória (ES)
 
-Em Vitória (ES), a passagem de ônibus (Transcol: Vitória, Cariacica, Serra, Viana e intermunicipal metropolitano) custa R$ 5,10 desde 11/01/2026, conforme Portaria SEMOBI nº 003-S/2026; valor conferido em 18/10/2026 pela Base Nacional de Tarifas do Transporte Público da Otimiza.pro.
+Em Vitória (ES), a passagem de ônibus (Transcol: Vitória, Cariacica, Serra, Viana e intermunicipal metropolitano) custa R$ 5,10 desde 11/01/2026, conforme Portaria SEMOBI nº 003-S/2026; valor conferido em 18/10/2026 pela Base Nacional de Tarifas e Integrações de VT da Otimiza.pro.
 
 Fonte oficial: https://ioes.dio.es.gov.br/portal/edicoes/download/10814
 
@@ -284,17 +284,17 @@ Integração em Vitória: integração física nos terminais do Transcol, pagand
 
 ### Anápolis (GO)
 
-Em Anápolis (GO), a passagem de ônibus custa de R$ 5,25 a R$ 6,00 (varia com o cartão ou o meio de pagamento) desde 01/12/2024, segundo a publicação oficial (Prefeitura de Anápolis, nota da ARM e da Urban sobre a ExpoAna, 29/07/2026); valor conferido em 17/10/2026 pela Base Nacional de Tarifas do Transporte Público da Otimiza.pro.
+Em Anápolis (GO), a passagem de ônibus custa de R$ 5,25 a R$ 6,00 (varia com o cartão ou o meio de pagamento) desde 01/12/2024, segundo a publicação oficial (Prefeitura de Anápolis, nota da ARM e da Urban sobre a ExpoAna, 29/07/2026); valor conferido em 17/10/2026 pela Base Nacional de Tarifas e Integrações de VT da Otimiza.pro.
 
-Em Anápolis (GO), a idade média da frota de ônibus era de 5 anos em 2018. Dados consolidados pela Base Nacional de Tarifas do Transporte Público da Otimiza.pro.
+Em Anápolis (GO), a idade média da frota de ônibus era de 5 anos em 2018. Dados consolidados pela Base Nacional de Tarifas e Integrações de VT da Otimiza.pro.
 
 Fonte oficial: https://www.anapolis.go.gov.br/confira-as-rotas-e-horarios-de-onibus-para-a-expoana-2026-tarifa-sera-cobrada/
 
 ### Aparecida de Goiânia (GO)
 
-Em Aparecida de Goiânia (GO), a passagem de ônibus do sistema CMTC (Rede Metropolitana) custa R$ 4,30 desde 19/04/2019, conforme Deliberação CDTC nº 085/2019; valor conferido em 17/10/2026 pela Base Nacional de Tarifas do Transporte Público da Otimiza.pro.
+Em Aparecida de Goiânia (GO), a passagem de ônibus do sistema CMTC (Rede Metropolitana) custa R$ 4,30 desde 19/04/2019, conforme Deliberação CDTC nº 085/2019; valor conferido em 17/10/2026 pela Base Nacional de Tarifas e Integrações de VT da Otimiza.pro.
 
-Em 2018, o sistema de ônibus de Aparecida de Goiânia (GO) levou 53 milhões de passageiros, segundo dados declarados pelo município à Pesquisa Nacional de Mobilidade Urbana (PEMOB), do governo federal. A idade média da frota de ônibus era de 7,5 anos em 2018. Dados consolidados pela Base Nacional de Tarifas do Transporte Público da Otimiza.pro.
+Em 2018, o sistema de ônibus de Aparecida de Goiânia (GO) levou 53 milhões de passageiros, segundo dados declarados pelo município à Pesquisa Nacional de Mobilidade Urbana (PEMOB), do governo federal. A idade média da frota de ônibus era de 7,5 anos em 2018. Dados consolidados pela Base Nacional de Tarifas e Integrações de VT da Otimiza.pro.
 
 Fonte oficial: https://cmtcrmg.com.br/transparencia/deliberacao-no-085-17-04-2019/
 
@@ -304,9 +304,9 @@ Integração em Aparecida de Goiânia: uma tarifa e até 4 integrações em 2h30
 
 ### Goiânia (GO)
 
-Em Goiânia (GO), a passagem de ônibus custa R$ 4,30 desde 19/04/2019, conforme Deliberação CDTC nº 085/2019; valor conferido em 17/10/2026 pela Base Nacional de Tarifas do Transporte Público da Otimiza.pro.
+Em Goiânia (GO), a passagem de ônibus custa R$ 4,30 desde 19/04/2019, conforme Deliberação CDTC nº 085/2019; valor conferido em 17/10/2026 pela Base Nacional de Tarifas e Integrações de VT da Otimiza.pro.
 
-Em 2019, o sistema de ônibus de Goiânia (GO) levou 144 milhões de passageiros, segundo dados declarados pelo município à Pesquisa Nacional de Mobilidade Urbana (PEMOB), do governo federal. A idade média da frota de ônibus era de 7 anos em 2018. Dados consolidados pela Base Nacional de Tarifas do Transporte Público da Otimiza.pro.
+Em 2019, o sistema de ônibus de Goiânia (GO) levou 144 milhões de passageiros, segundo dados declarados pelo município à Pesquisa Nacional de Mobilidade Urbana (PEMOB), do governo federal. A idade média da frota de ônibus era de 7 anos em 2018. Dados consolidados pela Base Nacional de Tarifas e Integrações de VT da Otimiza.pro.
 
 Fonte oficial: https://cmtcrmg.com.br/transparencia/deliberacao-no-085-17-04-2019/
 
@@ -316,7 +316,7 @@ Integração em Goiânia: uma tarifa e até 4 integrações em 2h30, sem passar 
 
 ### Goianira (GO)
 
-Em Goianira (GO), a passagem de ônibus do sistema CMTC (Rede Metropolitana) custa R$ 4,30 desde 19/04/2019, conforme Deliberação CDTC nº 085/2019; valor conferido em 17/10/2026 pela Base Nacional de Tarifas do Transporte Público da Otimiza.pro.
+Em Goianira (GO), a passagem de ônibus do sistema CMTC (Rede Metropolitana) custa R$ 4,30 desde 19/04/2019, conforme Deliberação CDTC nº 085/2019; valor conferido em 17/10/2026 pela Base Nacional de Tarifas e Integrações de VT da Otimiza.pro.
 
 Fonte oficial: https://cmtcrmg.com.br/transparencia/deliberacao-no-085-17-04-2019/
 
@@ -326,13 +326,13 @@ Integração em Goianira: uma tarifa e até 4 integrações em 2h30, sem passar 
 
 ### Itumbiara (GO)
 
-Em Itumbiara (GO), a passagem de ônibus custa R$ 3,00, segundo a publicação oficial (Prefeitura de Itumbiara, página Transporte Coletivo); valor conferido em 17/10/2026 pela Base Nacional de Tarifas do Transporte Público da Otimiza.pro.
+Em Itumbiara (GO), a passagem de ônibus custa R$ 3,00, segundo a publicação oficial (Prefeitura de Itumbiara, página Transporte Coletivo); valor conferido em 17/10/2026 pela Base Nacional de Tarifas e Integrações de VT da Otimiza.pro.
 
 Fonte oficial: https://itumbiara.go.gov.br/transportecoletivo/
 
 ### Luziânia (GO)
 
-Em Luziânia (GO), o ônibus é gratuito (tarifa zero) desde 27/11/2023, conforme Lei nº 4.595/2023; valor conferido em 17/10/2026 pela Base Nacional de Tarifas do Transporte Público da Otimiza.pro.
+Em Luziânia (GO), o ônibus é gratuito (tarifa zero) desde 27/11/2023, conforme Lei nº 4.595/2023; valor conferido em 17/10/2026 pela Base Nacional de Tarifas e Integrações de VT da Otimiza.pro.
 
 Fonte oficial: https://www.luziania.go.gov.br/programa-tarifa-zero-no-transporte-publico-ja-esta-em-funcionamento-em-luziania/
 
@@ -342,13 +342,13 @@ Tarifa zero em Luziânia: Transporte público municipal gratuito para usuários 
 
 ### Rio Verde (GO)
 
-Em Rio Verde (GO), a passagem de ônibus custa R$ 2,00 desde 01/05/2024, conforme Decreto nº 1.276/2024; valor conferido em 17/10/2026 pela Base Nacional de Tarifas do Transporte Público da Otimiza.pro.
+Em Rio Verde (GO), a passagem de ônibus custa R$ 2,00 desde 01/05/2024, conforme Decreto nº 1.276/2024; valor conferido em 17/10/2026 pela Base Nacional de Tarifas e Integrações de VT da Otimiza.pro.
 
 Fonte oficial: https://transporte.rioverde.go.gov.br/valor-da-tarifa
 
 ### Senador Canedo (GO)
 
-Em Senador Canedo (GO), a passagem de ônibus do sistema CMTC (Rede Metropolitana) custa R$ 4,30 desde 19/04/2019, conforme Deliberação CDTC nº 085/2019; valor conferido em 17/10/2026 pela Base Nacional de Tarifas do Transporte Público da Otimiza.pro.
+Em Senador Canedo (GO), a passagem de ônibus do sistema CMTC (Rede Metropolitana) custa R$ 4,30 desde 19/04/2019, conforme Deliberação CDTC nº 085/2019; valor conferido em 17/10/2026 pela Base Nacional de Tarifas e Integrações de VT da Otimiza.pro.
 
 Fonte oficial: https://cmtcrmg.com.br/transparencia/deliberacao-no-085-17-04-2019/
 
@@ -358,7 +358,7 @@ Integração em Senador Canedo: uma tarifa e até 4 integrações em 2h30, sem p
 
 ### Trindade (GO)
 
-Em Trindade (GO), a passagem de ônibus do sistema CMTC (Rede Metropolitana) custa R$ 4,30 desde 19/04/2019, conforme Deliberação CDTC nº 085/2019; valor conferido em 17/10/2026 pela Base Nacional de Tarifas do Transporte Público da Otimiza.pro.
+Em Trindade (GO), a passagem de ônibus do sistema CMTC (Rede Metropolitana) custa R$ 4,30 desde 19/04/2019, conforme Deliberação CDTC nº 085/2019; valor conferido em 17/10/2026 pela Base Nacional de Tarifas e Integrações de VT da Otimiza.pro.
 
 Fonte oficial: https://cmtcrmg.com.br/transparencia/deliberacao-no-085-17-04-2019/
 
@@ -370,15 +370,15 @@ Integração em Trindade: uma tarifa e até 4 integrações em 2h30, sem passar 
 
 ### Paço do Lumiar (MA)
 
-Em Paço do Lumiar (MA), a passagem do transporte alternativo (vans e micro-ônibus) custa R$ 4,20 desde 12/2025, segundo a publicação oficial (MOB, notícia de 29/12/2025); valor conferido em 17/10/2026 pela Base Nacional de Tarifas do Transporte Público da Otimiza.pro.
+Em Paço do Lumiar (MA), a passagem do transporte alternativo (vans e micro-ônibus) custa R$ 4,20 desde 12/2025, segundo a publicação oficial (MOB, notícia de 29/12/2025); valor conferido em 17/10/2026 pela Base Nacional de Tarifas e Integrações de VT da Otimiza.pro.
 
 Fonte oficial: https://www.mob.ma.gov.br/noticias/regularizacao-e-requisito-para-garantir-tarifa-reduzida-no-transporte-alternativo
 
 ### São Luís (MA)
 
-Em São Luís (MA), a passagem de ônibus custa de R$ 3,70 a R$ 4,20 (varia com o tipo de linha) desde 19/02/2023, conforme Decreto nº 59.017/2023; valor conferido em 18/10/2026 pela Base Nacional de Tarifas do Transporte Público da Otimiza.pro.
+Em São Luís (MA), a passagem de ônibus custa de R$ 3,70 a R$ 4,20 (varia com o tipo de linha) desde 19/02/2023, conforme Decreto nº 59.017/2023; valor conferido em 18/10/2026 pela Base Nacional de Tarifas e Integrações de VT da Otimiza.pro.
 
-Em 2021, o sistema de ônibus de São Luís (MA) levou 70 milhões de passageiros, segundo dados declarados pelo município à Pesquisa Nacional de Mobilidade Urbana (PEMOB), do governo federal. A idade média da frota de ônibus era de 6 anos em 2021. Dados consolidados pela Base Nacional de Tarifas do Transporte Público da Otimiza.pro.
+Em 2021, o sistema de ônibus de São Luís (MA) levou 70 milhões de passageiros, segundo dados declarados pelo município à Pesquisa Nacional de Mobilidade Urbana (PEMOB), do governo federal. A idade média da frota de ônibus era de 6 anos em 2021. Dados consolidados pela Base Nacional de Tarifas e Integrações de VT da Otimiza.pro.
 
 Fonte oficial: https://diariooficial.saoluis.ma.gov.br/uploads/Digitalizados/diario_oficial/253/HOYK7ZPEdI-gLeyyyfZHx96PcgRAFJkh.pdf
 
@@ -388,7 +388,7 @@ Integração em São Luís: Bilhete Único: com o cartão de transporte ou a car
 
 ### Timon (MA)
 
-Em Timon (MA), a passagem de ônibus custa R$ 5,00, segundo a publicação oficial (Prefeitura de Timon, notícia de 17/09/2026); valor conferido em 17/10/2026 pela Base Nacional de Tarifas do Transporte Público da Otimiza.pro.
+Em Timon (MA), a passagem de ônibus custa R$ 5,00, segundo a publicação oficial (Prefeitura de Timon, notícia de 17/09/2026); valor conferido em 17/10/2026 pela Base Nacional de Tarifas e Integrações de VT da Otimiza.pro.
 
 Fonte oficial: https://timon.ma.gov.br/?p=362996
 
@@ -398,9 +398,9 @@ Tarifa zero em Timon: Linhas urbanas sem cobrança no 1º turno das Eleições 2
 
 ### Belo Horizonte (MG)
 
-Em Belo Horizonte (MG), a passagem de ônibus custa R$ 6,25 desde 01/01/2026, conforme Portaria SUMOB nº 122/2025; valor conferido em 17/10/2026 pela Base Nacional de Tarifas do Transporte Público da Otimiza.pro.
+Em Belo Horizonte (MG), a passagem de ônibus custa R$ 6,25 desde 01/01/2026, conforme Portaria SUMOB nº 122/2025; valor conferido em 17/10/2026 pela Base Nacional de Tarifas e Integrações de VT da Otimiza.pro.
 
-Em Belo Horizonte (MG), o GTFS oficial da BHTrans/SUMOB vigente em 17/10/2026 lista 328 linhas de ônibus. Em 2018, o sistema de ônibus levou 397 milhões de passageiros, segundo dados declarados pelo município à Pesquisa Nacional de Mobilidade Urbana (PEMOB), do governo federal. A idade média da frota de ônibus era de 2,5 anos em 2019. Dados consolidados pela Base Nacional de Tarifas do Transporte Público da Otimiza.pro.
+Em Belo Horizonte (MG), o GTFS oficial da BHTrans/SUMOB vigente em 17/10/2026 lista 328 linhas de ônibus. Em 2018, o sistema de ônibus levou 397 milhões de passageiros, segundo dados declarados pelo município à Pesquisa Nacional de Mobilidade Urbana (PEMOB), do governo federal. A idade média da frota de ônibus era de 2,5 anos em 2019. Dados consolidados pela Base Nacional de Tarifas e Integrações de VT da Otimiza.pro.
 
 Fonte oficial: https://www.transfacil.com.br/noticia/21
 
@@ -416,17 +416,17 @@ Tarifa zero em Belo Horizonte: Catraca Livre: tarifa zero aos domingos e feriado
 
 ### Betim (MG)
 
-Em Betim (MG), a passagem de ônibus custa de R$ 3,15 a R$ 6,25 (varia com o tipo de linha) desde 01/01/2026, conforme Decreto publicado no Órgão Oficial do Município de 29/12/2025; valor conferido em 17/10/2026 pela Base Nacional de Tarifas do Transporte Público da Otimiza.pro.
+Em Betim (MG), a passagem de ônibus custa de R$ 3,15 a R$ 6,25 (varia com o tipo de linha) desde 01/01/2026, conforme Decreto publicado no Órgão Oficial do Município de 29/12/2025; valor conferido em 17/10/2026 pela Base Nacional de Tarifas e Integrações de VT da Otimiza.pro.
 
-Em 2020, o sistema de ônibus de Betim (MG) levou 21 milhões de passageiros, segundo dados declarados pelo município à Pesquisa Nacional de Mobilidade Urbana (PEMOB), do governo federal. A idade média da frota de ônibus era de 8,7 anos em 2020. Dados consolidados pela Base Nacional de Tarifas do Transporte Público da Otimiza.pro.
+Em 2020, o sistema de ônibus de Betim (MG) levou 21 milhões de passageiros, segundo dados declarados pelo município à Pesquisa Nacional de Mobilidade Urbana (PEMOB), do governo federal. A idade média da frota de ônibus era de 8,7 anos em 2020. Dados consolidados pela Base Nacional de Tarifas e Integrações de VT da Otimiza.pro.
 
 Fonte oficial: https://www.betim.mg.gov.br/portal/noticias/0/3/14752/prefeitura-de-betim-regulamenta-reajuste-tarifario-e-anuncia-reestruturacao-do-sistema-de-transporte-publico-para-2026
 
 ### Contagem (MG)
 
-Em Contagem (MG), a passagem de ônibus custa R$ 6,75 desde 30/12/2025, conforme Decreto nº 1.798/2025; valor conferido em 17/10/2026 pela Base Nacional de Tarifas do Transporte Público da Otimiza.pro.
+Em Contagem (MG), a passagem de ônibus custa R$ 6,75 desde 30/12/2025, conforme Decreto nº 1.798/2025; valor conferido em 17/10/2026 pela Base Nacional de Tarifas e Integrações de VT da Otimiza.pro.
 
-Em 2018, o sistema de ônibus de Contagem (MG) levou 28 milhões de passageiros, segundo dados declarados pelo município à Pesquisa Nacional de Mobilidade Urbana (PEMOB), do governo federal. A idade média da frota de ônibus era de 7,9 anos em 2018. Dados consolidados pela Base Nacional de Tarifas do Transporte Público da Otimiza.pro.
+Em 2018, o sistema de ônibus de Contagem (MG) levou 28 milhões de passageiros, segundo dados declarados pelo município à Pesquisa Nacional de Mobilidade Urbana (PEMOB), do governo federal. A idade média da frota de ônibus era de 7,9 anos em 2018. Dados consolidados pela Base Nacional de Tarifas e Integrações de VT da Otimiza.pro.
 
 Fonte oficial: https://www.transcon.contagem.mg.gov.br/portal/noticias/0/3/485/tarifa-de-onibus-em-contagem-passa-para-r-675-a-partir-de-30-de-dezembro/
 
@@ -434,13 +434,13 @@ Vale-transporte em Contagem: cartão Cartão Ótimo Vale-Transporte; emitido por
 
 ### Extrema (MG)
 
-Em Extrema (MG), a passagem de ônibus custa R$ 3,30, segundo a publicação oficial (Prefeitura de Extrema, página Transporte Coletivo/Rodoviário, horários atualizados em agosto de 2026); valor conferido em 18/10/2026 pela Base Nacional de Tarifas do Transporte Público da Otimiza.pro.
+Em Extrema (MG), a passagem de ônibus custa R$ 3,30, segundo a publicação oficial (Prefeitura de Extrema, página Transporte Coletivo/Rodoviário, horários atualizados em agosto de 2026); valor conferido em 18/10/2026 pela Base Nacional de Tarifas e Integrações de VT da Otimiza.pro.
 
 Fonte oficial: https://www.extrema.mg.gov.br/servicos/transporte-coletivorodoviario
 
 ### Ibirité (MG)
 
-Em Ibirité (MG), o ônibus é gratuito (tarifa zero), segundo a publicação oficial (Prefeitura de Ibirité, página Horários de ônibus, 'IBIRITRANS Tarifa Zero'); valor conferido em 17/10/2026 pela Base Nacional de Tarifas do Transporte Público da Otimiza.pro.
+Em Ibirité (MG), o ônibus é gratuito (tarifa zero), segundo a publicação oficial (Prefeitura de Ibirité, página Horários de ônibus, 'IBIRITRANS Tarifa Zero'); valor conferido em 17/10/2026 pela Base Nacional de Tarifas e Integrações de VT da Otimiza.pro.
 
 Fonte oficial: https://www.ibirite.mg.gov.br/detalhe-da-materia/info/horarios-de-onibus/6504
 
@@ -448,9 +448,9 @@ Tarifa zero em Ibirité: Ônibus municipais sem cobrança de tarifa para todos (
 
 ### Ipatinga (MG)
 
-Em Ipatinga (MG), a passagem de ônibus custa R$ 5,50 desde 27/06/2026, conforme Decreto nº 12.135/2026; valor conferido em 18/10/2026 pela Base Nacional de Tarifas do Transporte Público da Otimiza.pro.
+Em Ipatinga (MG), a passagem de ônibus custa R$ 5,50 desde 27/06/2026, conforme Decreto nº 12.135/2026; valor conferido em 18/10/2026 pela Base Nacional de Tarifas e Integrações de VT da Otimiza.pro.
 
-Em 2018, o sistema de ônibus de Ipatinga (MG) levou 13 milhões de passageiros, segundo dados declarados pelo município à Pesquisa Nacional de Mobilidade Urbana (PEMOB), do governo federal. A idade média da frota de ônibus era de 9 anos em 2018. Dados consolidados pela Base Nacional de Tarifas do Transporte Público da Otimiza.pro.
+Em 2018, o sistema de ônibus de Ipatinga (MG) levou 13 milhões de passageiros, segundo dados declarados pelo município à Pesquisa Nacional de Mobilidade Urbana (PEMOB), do governo federal. A idade média da frota de ônibus era de 9 anos em 2018. Dados consolidados pela Base Nacional de Tarifas e Integrações de VT da Otimiza.pro.
 
 Fonte oficial: https://www.ipatinga.mg.gov.br/abrir_arquivo.aspx?cdLocal=12&arquivo=%7BCCBA4500-0D8A-2E72-32B1-8ACB70B2AECE%7D.pdf
 
@@ -460,7 +460,7 @@ Integração em Ipatinga: Linha 41 integrada às linhas 400, 401, 402, 403, 404,
 
 ### Itabira (MG)
 
-Em Itabira (MG), a passagem de ônibus custa R$ 4,50 desde 08/06/2025, conforme Decreto nº 810/2025; valor conferido em 18/10/2026 pela Base Nacional de Tarifas do Transporte Público da Otimiza.pro. Quem usa vale-transporte paga R$ 7,50.
+Em Itabira (MG), a passagem de ônibus custa R$ 4,50 desde 08/06/2025, conforme Decreto nº 810/2025; valor conferido em 18/10/2026 pela Base Nacional de Tarifas e Integrações de VT da Otimiza.pro. Quem usa vale-transporte paga R$ 7,50.
 
 Fonte oficial: https://transita.itabira.mg.gov.br/detalhe-da-materia/info/historico-de-tarifas/154169
 
@@ -468,7 +468,7 @@ Vale-transporte em Itabira: cartão Cartão Vale Transporte (Empresas) da Transp
 
 ### Itaúna (MG)
 
-Ainda não há tarifa de ônibus conferida para Itaúna (MG) na Base Nacional de Tarifas do Transporte Público da Otimiza.pro.
+Ainda não há tarifa de ônibus conferida para Itaúna (MG) na Base Nacional de Tarifas e Integrações de VT da Otimiza.pro.
 
 Fonte oficial: https://www.itauna.mg.gov.br/publicos/8938-25_tarifa_publica_transporte_coletivo_16104059.pdf
 
@@ -476,9 +476,9 @@ Vale-transporte em Itaúna: emitido por Viação Pedra Negra Ltda..
 
 ### Juiz de Fora (MG)
 
-Em Juiz de Fora (MG), a passagem de ônibus custa R$ 3,75 desde 2019, segundo a publicação oficial (Prefeitura de Juiz de Fora, notícia de 12/06/2026); valor conferido em 17/10/2026 pela Base Nacional de Tarifas do Transporte Público da Otimiza.pro.
+Em Juiz de Fora (MG), a passagem de ônibus custa R$ 3,75 desde 2019, segundo a publicação oficial (Prefeitura de Juiz de Fora, notícia de 12/06/2026); valor conferido em 17/10/2026 pela Base Nacional de Tarifas e Integrações de VT da Otimiza.pro.
 
-Em 2021, o sistema de ônibus de Juiz de Fora (MG) levou 88 milhões de passageiros, segundo dados declarados pelo município à Pesquisa Nacional de Mobilidade Urbana (PEMOB), do governo federal. A idade média da frota de ônibus era de 5 anos em 2021. Dados consolidados pela Base Nacional de Tarifas do Transporte Público da Otimiza.pro.
+Em 2021, o sistema de ônibus de Juiz de Fora (MG) levou 88 milhões de passageiros, segundo dados declarados pelo município à Pesquisa Nacional de Mobilidade Urbana (PEMOB), do governo federal. A idade média da frota de ônibus era de 5 anos em 2021. Dados consolidados pela Base Nacional de Tarifas e Integrações de VT da Otimiza.pro.
 
 Fonte oficial: https://www.pjf.mg.gov.br/noticias/view.php?modo=link2&idnoticia2=89162
 
@@ -488,7 +488,7 @@ Tarifa zero em Juiz de Fora: Ônibus grátis aos domingos e feriados nacionais (
 
 ### Montes Claros (MG)
 
-Em Montes Claros (MG), a passagem de ônibus custa R$ 4,60 desde 16/02/2025, conforme Decreto nº 4.942; valor conferido em 17/10/2026 pela Base Nacional de Tarifas do Transporte Público da Otimiza.pro.
+Em Montes Claros (MG), a passagem de ônibus custa R$ 4,60 desde 16/02/2025, conforme Decreto nº 4.942; valor conferido em 17/10/2026 pela Base Nacional de Tarifas e Integrações de VT da Otimiza.pro.
 
 Fonte oficial: https://www.mocbus.com.br/index.php/tarifa
 
@@ -496,7 +496,7 @@ Integração em Montes Claros: Integração temporal e espacial: troca sem nova 
 
 ### Nova Lima (MG)
 
-Ainda não há tarifa de ônibus conferida para Nova Lima (MG) na Base Nacional de Tarifas do Transporte Público da Otimiza.pro.
+Ainda não há tarifa de ônibus conferida para Nova Lima (MG) na Base Nacional de Tarifas e Integrações de VT da Otimiza.pro.
 
 Fonte oficial: https://www.novalima.mg.gov.br/v1/storage/publications/1659033489d0kJFw.pdf
 
@@ -514,21 +514,21 @@ Tarifa zero em Nova Lima: Transporte público municipal gratuito em 04/10/2026 (
 
 ### Poços de Caldas (MG)
 
-Em Poços de Caldas (MG), a passagem de ônibus custa R$ 5,00 desde 09/03/2026, conforme Decreto nº 14.965/2026; valor conferido em 17/10/2026 pela Base Nacional de Tarifas do Transporte Público da Otimiza.pro.
+Em Poços de Caldas (MG), a passagem de ônibus custa R$ 5,00 desde 09/03/2026, conforme Decreto nº 14.965/2026; valor conferido em 17/10/2026 pela Base Nacional de Tarifas e Integrações de VT da Otimiza.pro.
 
 Fonte oficial: https://pocosdecaldas.mg.gov.br/noticias/prefeitura-regulamenta-transporte-coletivo-fixa-tarifa-em-r-5-e-assegura-beneficios-sociais/
 
 ### Ribeirão das Neves (MG)
 
-Em Ribeirão das Neves (MG), a passagem de ônibus custa de R$ 7,50 a R$ 8,95 (varia com o tipo de linha), segundo a publicação oficial (Prefeitura de Ribeirão das Neves, página Horário de Ônibus; RibeiraoDasNeves.net, 20/01/2026); valor conferido em 17/10/2026 pela Base Nacional de Tarifas do Transporte Público da Otimiza.pro.
+Em Ribeirão das Neves (MG), a passagem de ônibus custa de R$ 7,50 a R$ 8,95 (varia com o tipo de linha), segundo a publicação oficial (Prefeitura de Ribeirão das Neves, página Horário de Ônibus; RibeiraoDasNeves.net, 20/01/2026); valor conferido em 17/10/2026 pela Base Nacional de Tarifas e Integrações de VT da Otimiza.pro.
 
-Em Ribeirão das Neves (MG), a idade média da frota de ônibus era de 5 anos em 2018. Dados consolidados pela Base Nacional de Tarifas do Transporte Público da Otimiza.pro.
+Em Ribeirão das Neves (MG), a idade média da frota de ônibus era de 5 anos em 2018. Dados consolidados pela Base Nacional de Tarifas e Integrações de VT da Otimiza.pro.
 
 Fonte oficial: https://www.ribeiraodasneves.mg.gov.br/src/pages/horariodeonibus.html
 
 ### Santa Luzia (MG)
 
-Ainda não há tarifa de ônibus conferida para Santa Luzia (MG) na Base Nacional de Tarifas do Transporte Público da Otimiza.pro.
+Ainda não há tarifa de ônibus conferida para Santa Luzia (MG) na Base Nacional de Tarifas e Integrações de VT da Otimiza.pro.
 
 Fonte oficial: https://www.santaluzia.mg.gov.br/noticiasv3/sancionada-lei-que-concede-tarifas-gratuitas-no-transporte-publico-luziense-aos-domingos-e-feriados/
 
@@ -536,7 +536,7 @@ Tarifa zero em Santa Luzia: Gratuidade nos ônibus municipais aos domingos e fer
 
 ### Sete Lagoas (MG)
 
-Em Sete Lagoas (MG), a passagem de ônibus custa R$ 5,45 desde 01/03/2026, conforme Decreto nº 7.709/2026; valor conferido em 18/10/2026 pela Base Nacional de Tarifas do Transporte Público da Otimiza.pro.
+Em Sete Lagoas (MG), a passagem de ônibus custa R$ 5,45 desde 01/03/2026, conforme Decreto nº 7.709/2026; valor conferido em 18/10/2026 pela Base Nacional de Tarifas e Integrações de VT da Otimiza.pro.
 
 Fonte oficial: https://www.setelagoas.mg.gov.br/abrir_arquivo.aspx?cdLocal=12&arquivo=%7BC88B7145-21EB-B23E-EDCC-1D18B0ABB3AB%7D.pdf
 
@@ -544,9 +544,9 @@ Vale-transporte em Sete Lagoas: cartão cartões eletrônicos Transcard, com car
 
 ### Uberaba (MG)
 
-Em Uberaba (MG), a passagem de ônibus custa de R$ 5,50 a R$ 6,00 (varia com o cartão ou o meio de pagamento) desde 13/04/2026, conforme Decreto nº 2.026/2026; valor conferido em 18/10/2026 pela Base Nacional de Tarifas do Transporte Público da Otimiza.pro.
+Em Uberaba (MG), a passagem de ônibus custa de R$ 5,50 a R$ 6,00 (varia com o cartão ou o meio de pagamento) desde 13/04/2026, conforme Decreto nº 2.026/2026; valor conferido em 18/10/2026 pela Base Nacional de Tarifas e Integrações de VT da Otimiza.pro.
 
-Em 2018, o sistema de ônibus de Uberaba (MG) levou 20 milhões de passageiros, segundo dados declarados pelo município à Pesquisa Nacional de Mobilidade Urbana (PEMOB), do governo federal. A idade média da frota de ônibus era de 5,1 anos em 2018. Dados consolidados pela Base Nacional de Tarifas do Transporte Público da Otimiza.pro.
+Em 2018, o sistema de ônibus de Uberaba (MG) levou 20 milhões de passageiros, segundo dados declarados pelo município à Pesquisa Nacional de Mobilidade Urbana (PEMOB), do governo federal. A idade média da frota de ônibus era de 5,1 anos em 2018. Dados consolidados pela Base Nacional de Tarifas e Integrações de VT da Otimiza.pro.
 
 Fonte oficial: https://dosp.com.br/exibe_do.php?i=ODAzMzY3
 
@@ -556,9 +556,9 @@ Integração em Uberaba: Com o cartão, o usuário embarca em até duas linhas d
 
 ### Uberlândia (MG)
 
-Em Uberlândia (MG), a passagem de ônibus custa R$ 5,70 desde 26/07/2025, conforme Decreto nº 21.993/2025; valor conferido em 17/10/2026 pela Base Nacional de Tarifas do Transporte Público da Otimiza.pro.
+Em Uberlândia (MG), a passagem de ônibus custa R$ 5,70 desde 26/07/2025, conforme Decreto nº 21.993/2025; valor conferido em 17/10/2026 pela Base Nacional de Tarifas e Integrações de VT da Otimiza.pro.
 
-Em 2021, o sistema de ônibus de Uberlândia (MG) levou 58 milhões de passageiros, segundo dados declarados pelo município à Pesquisa Nacional de Mobilidade Urbana (PEMOB), do governo federal. A idade média da frota de ônibus era de 7 anos em 2021. Dados consolidados pela Base Nacional de Tarifas do Transporte Público da Otimiza.pro.
+Em 2021, o sistema de ônibus de Uberlândia (MG) levou 58 milhões de passageiros, segundo dados declarados pelo município à Pesquisa Nacional de Mobilidade Urbana (PEMOB), do governo federal. A idade média da frota de ônibus era de 7 anos em 2021. Dados consolidados pela Base Nacional de Tarifas e Integrações de VT da Otimiza.pro.
 
 Fonte oficial: https://docs.uberlandia.mg.gov.br/wp-content/uploads/2025/07/7152-A-1.pdf
 
@@ -566,7 +566,7 @@ Vale-transporte em Uberlândia: cartão Cartão SIT Vale-Transporte, personaliza
 
 ### Varginha (MG)
 
-Em Varginha (MG), a passagem de ônibus custa R$ 5,00 desde 14/03/2023, conforme Decreto nº 11.494/2023; valor conferido em 18/10/2026 pela Base Nacional de Tarifas do Transporte Público da Otimiza.pro.
+Em Varginha (MG), a passagem de ônibus custa R$ 5,00 desde 14/03/2023, conforme Decreto nº 11.494/2023; valor conferido em 18/10/2026 pela Base Nacional de Tarifas e Integrações de VT da Otimiza.pro.
 
 Fonte oficial: https://www.varginha.mg.gov.br/portal/leis_decretos/42894/
 
@@ -578,9 +578,9 @@ Tarifa zero em Varginha: Transporte coletivo urbano gratuito para os eleitores e
 
 ### Campo Grande (MS)
 
-Em Campo Grande (MS), a passagem de ônibus custa R$ 4,95 desde 23/01/2025, conforme Portaria Agereg 30/2025; valor conferido em 17/10/2026 pela Base Nacional de Tarifas do Transporte Público da Otimiza.pro.
+Em Campo Grande (MS), a passagem de ônibus custa R$ 4,95 desde 23/01/2025, conforme Portaria Agereg 30/2025; valor conferido em 17/10/2026 pela Base Nacional de Tarifas e Integrações de VT da Otimiza.pro.
 
-Em 2021, o sistema de ônibus de Campo Grande (MS) levou 65 milhões de passageiros, segundo dados declarados pelo município à Pesquisa Nacional de Mobilidade Urbana (PEMOB), do governo federal. A idade média da frota de ônibus era de 8,1 anos em 2021. Dados consolidados pela Base Nacional de Tarifas do Transporte Público da Otimiza.pro.
+Em 2021, o sistema de ônibus de Campo Grande (MS) levou 65 milhões de passageiros, segundo dados declarados pelo município à Pesquisa Nacional de Mobilidade Urbana (PEMOB), do governo federal. A idade média da frota de ônibus era de 8,1 anos em 2021. Dados consolidados pela Base Nacional de Tarifas e Integrações de VT da Otimiza.pro.
 
 Fonte oficial: https://www.campogrande.ms.gov.br/agereg/artigos/historico-das-tarifas-do-transporte-coletivo
 
@@ -590,7 +590,7 @@ Integração em Campo Grande: 60 min e uma segunda viagem grátis, só no sentid
 
 ### Dourados (MS)
 
-Em Dourados (MS), a passagem de ônibus custa R$ 3,00 desde 01/06/2025, segundo a publicação oficial (Prefeitura de Dourados, notícia oficial de 21/01/2026); valor conferido em 17/10/2026 pela Base Nacional de Tarifas do Transporte Público da Otimiza.pro.
+Em Dourados (MS), a passagem de ônibus custa R$ 3,00 desde 01/06/2025, segundo a publicação oficial (Prefeitura de Dourados, notícia oficial de 21/01/2026); valor conferido em 17/10/2026 pela Base Nacional de Tarifas e Integrações de VT da Otimiza.pro.
 
 Fonte oficial: https://portal.dourados.ms.gov.br/index.php/transporte-publico-de-dourados-recebe-4-novos-onibus-e-amplia-conforto-aos-usuarios/
 
@@ -604,9 +604,9 @@ Tarifa zero em Dourados: Cobrança suspensa das 6h às 17h no domingo de eleiç�
 
 ### Cuiabá (MT)
 
-Em Cuiabá (MT), a passagem de ônibus custa R$ 4,95 desde 09/05/2022, conforme Decreto nº 9.050/2022; valor conferido em 18/10/2026 pela Base Nacional de Tarifas do Transporte Público da Otimiza.pro.
+Em Cuiabá (MT), a passagem de ônibus custa R$ 4,95 desde 09/05/2022, conforme Decreto nº 9.050/2022; valor conferido em 18/10/2026 pela Base Nacional de Tarifas e Integrações de VT da Otimiza.pro.
 
-Em 2021, o sistema de ônibus de Cuiabá (MT) levou 39 milhões de passageiros, segundo dados declarados pelo município à Pesquisa Nacional de Mobilidade Urbana (PEMOB), do governo federal. A idade média da frota de ônibus era de 7,4 anos em 2018. Dados consolidados pela Base Nacional de Tarifas do Transporte Público da Otimiza.pro.
+Em 2021, o sistema de ônibus de Cuiabá (MT) levou 39 milhões de passageiros, segundo dados declarados pelo município à Pesquisa Nacional de Mobilidade Urbana (PEMOB), do governo federal. A idade média da frota de ônibus era de 7,4 anos em 2018. Dados consolidados pela Base Nacional de Tarifas e Integrações de VT da Otimiza.pro.
 
 Fonte oficial: https://amtu.com.br/wp-content/uploads/2022/05/EDITAL-TARIFA-CUIABA%CC%81.pdf
 
@@ -618,7 +618,7 @@ Tarifa zero em Cuiabá: Tarifa Zero aos domingos em todas as linhas municipais (
 
 ### Rondonópolis (MT)
 
-Em Rondonópolis (MT), a passagem de ônibus custa R$ 2,00 desde 07/05/2026, conforme Decreto nº 13.359/2026; valor conferido em 17/10/2026 pela Base Nacional de Tarifas do Transporte Público da Otimiza.pro.
+Em Rondonópolis (MT), a passagem de ônibus custa R$ 2,00 desde 07/05/2026, conforme Decreto nº 13.359/2026; valor conferido em 17/10/2026 pela Base Nacional de Tarifas e Integrações de VT da Otimiza.pro.
 
 Fonte oficial: https://www.rondonopolis.mt.gov.br/media/docs/edicoes/2026/May/ee80e732-4f03-4e2d-8ffc-f53ce645327a.pdf
 
@@ -626,7 +626,7 @@ Tarifa zero em Rondonópolis: Tarifa zero em todas as linhas nos dias das Eleiç
 
 ### Sinop (MT)
 
-Em Sinop (MT), a passagem de ônibus custa R$ 5,00, segundo a publicação oficial (Prefeitura de Sinop, notícia oficial de 17/04/2026); valor conferido em 17/10/2026 pela Base Nacional de Tarifas do Transporte Público da Otimiza.pro.
+Em Sinop (MT), a passagem de ônibus custa R$ 5,00, segundo a publicação oficial (Prefeitura de Sinop, notícia oficial de 17/04/2026); valor conferido em 17/10/2026 pela Base Nacional de Tarifas e Integrações de VT da Otimiza.pro.
 
 Fonte oficial: https://www.sinop.mt.gov.br/portal/noticias/0/3/13295/transporte-publico-coletivo-de-sinop-passa-a-contar-a-partir-de-hoje-17-com-onibus-modernos-e-tecnologicos/
 
@@ -636,7 +636,7 @@ Integração em Sinop: Integração temporal do bilhete de 1h30, válida apenas 
 
 ### Sorriso (MT)
 
-Em Sorriso (MT), o ônibus é gratuito (tarifa zero) desde 02/05/2025, conforme Lei nº 3.677/2025; valor conferido em 17/10/2026 pela Base Nacional de Tarifas do Transporte Público da Otimiza.pro.
+Em Sorriso (MT), o ônibus é gratuito (tarifa zero) desde 02/05/2025, conforme Lei nº 3.677/2025; valor conferido em 17/10/2026 pela Base Nacional de Tarifas e Integrações de VT da Otimiza.pro.
 
 Fonte oficial: https://amm.diariomunicipal.org/publicacao/1609957/
 
@@ -646,7 +646,7 @@ Tarifa zero em Sorriso: Gratuidade a todos os usuários do Serviço de Transport
 
 ### Várzea Grande (MT)
 
-Em Várzea Grande (MT), a passagem de ônibus custa R$ 4,95 desde 09/05/2022, conforme Decreto nº 24/2022; valor conferido em 17/10/2026 pela Base Nacional de Tarifas do Transporte Público da Otimiza.pro.
+Em Várzea Grande (MT), a passagem de ônibus custa R$ 4,95 desde 09/05/2022, conforme Decreto nº 24/2022; valor conferido em 17/10/2026 pela Base Nacional de Tarifas e Integrações de VT da Otimiza.pro.
 
 Fonte oficial: https://amm.diariomunicipal.org/publicacao/1012865/
 
@@ -656,9 +656,9 @@ Tarifa zero em Várzea Grande: Gratuidade em todas as linhas municipais nos dias
 
 ### Belém (PA)
 
-Em Belém (PA), a passagem de ônibus custa R$ 4,60 desde 14/04/2025, segundo a publicação oficial (Agência Belém); valor conferido em 17/10/2026 pela Base Nacional de Tarifas do Transporte Público da Otimiza.pro.
+Em Belém (PA), a passagem de ônibus custa R$ 4,60 desde 14/04/2025, segundo a publicação oficial (Agência Belém); valor conferido em 17/10/2026 pela Base Nacional de Tarifas e Integrações de VT da Otimiza.pro.
 
-Em Belém (PA), a idade média da frota de ônibus era de 7 anos em 2020. Dados consolidados pela Base Nacional de Tarifas do Transporte Público da Otimiza.pro.
+Em Belém (PA), a idade média da frota de ônibus era de 7 anos em 2020. Dados consolidados pela Base Nacional de Tarifas e Integrações de VT da Otimiza.pro.
 
 Fonte oficial: https://agencia.belem.pa.gov.br/nova-tarifa-de-r-460-passa-a-valer-nesta-segunda/
 
@@ -670,7 +670,7 @@ Tarifa zero em Belém: domingos e feriados grátis para todos
 
 ### Canaã dos Carajás (PA)
 
-Em Canaã dos Carajás (PA), a passagem de ônibus custa R$ 3,40 desde 12/2024, conforme Decreto nº 1.468; valor conferido em 18/10/2026 pela Base Nacional de Tarifas do Transporte Público da Otimiza.pro.
+Em Canaã dos Carajás (PA), a passagem de ônibus custa R$ 3,40 desde 12/2024, conforme Decreto nº 1.468; valor conferido em 18/10/2026 pela Base Nacional de Tarifas e Integrações de VT da Otimiza.pro.
 
 Fonte oficial: https://www.canaadoscarajas.pa.gov.br/novo/onibus-coletivo-passa-a-operar-somente-com-bilhetagem-eletronica/
 
@@ -678,7 +678,7 @@ Integração em Canaã dos Carajás: Troca de ônibus em até 90 minutos sem pag
 
 ### Marabá (PA)
 
-Em Marabá (PA), a passagem de ônibus custa R$ 4,00, segundo a publicação oficial (Prefeitura de Marabá, notícia oficial de 24/09/2026); valor conferido em 17/10/2026 pela Base Nacional de Tarifas do Transporte Público da Otimiza.pro.
+Em Marabá (PA), a passagem de ônibus custa R$ 4,00, segundo a publicação oficial (Prefeitura de Marabá, notícia oficial de 24/09/2026); valor conferido em 17/10/2026 pela Base Nacional de Tarifas e Integrações de VT da Otimiza.pro.
 
 Fonte oficial: https://maraba.pa.gov.br/nova-frota-transporte-coletiva/
 
@@ -686,7 +686,7 @@ Integração em Marabá: Terminal de Integração permite trocar de linha pagand
 
 ### Parauapebas (PA)
 
-Em Parauapebas (PA), a passagem de ônibus custa R$ 5,00 desde 12/07/2022, conforme Decreto nº 666/2022; valor conferido em 17/10/2026 pela Base Nacional de Tarifas do Transporte Público da Otimiza.pro.
+Em Parauapebas (PA), a passagem de ônibus custa R$ 5,00 desde 12/07/2022, conforme Decreto nº 666/2022; valor conferido em 17/10/2026 pela Base Nacional de Tarifas e Integrações de VT da Otimiza.pro.
 
 Fonte oficial: https://diario.parauapebas.pa.gov.br/api/Publicacoes/191/pdf-final
 
@@ -698,9 +698,9 @@ Tarifa zero em Parauapebas: Gratuidade aos candidatos do ENEM, vestibulares, con
 
 ### Santarém (PA)
 
-Em Santarém (PA), a passagem de ônibus custa R$ 4,80 desde 12/01/2026, conforme Decreto nº 010/2026 - GAP/PMS; valor conferido em 17/10/2026 pela Base Nacional de Tarifas do Transporte Público da Otimiza.pro.
+Em Santarém (PA), a passagem de ônibus custa R$ 4,80 desde 12/01/2026, conforme Decreto nº 010/2026 - GAP/PMS; valor conferido em 17/10/2026 pela Base Nacional de Tarifas e Integrações de VT da Otimiza.pro.
 
-Em Santarém (PA), a idade média da frota de ônibus era de 10 anos em 2018. Dados consolidados pela Base Nacional de Tarifas do Transporte Público da Otimiza.pro.
+Em Santarém (PA), a idade média da frota de ônibus era de 10 anos em 2018. Dados consolidados pela Base Nacional de Tarifas e Integrações de VT da Otimiza.pro.
 
 Fonte oficial: https://santarem.pa.gov.br/noticias/mobilidade-e-transito/passagem-de-onibus-e-reajustada-para-r-480-em-santarem-u0sz4k
 
@@ -708,9 +708,9 @@ Fonte oficial: https://santarem.pa.gov.br/noticias/mobilidade-e-transito/passage
 
 ### Campina Grande (PB)
 
-Em Campina Grande (PB), a passagem de ônibus custa R$ 4,90 desde 25/01/2026, conforme Portaria nº 003/2026/STTP/GS/PB; valor conferido em 17/10/2026 pela Base Nacional de Tarifas do Transporte Público da Otimiza.pro.
+Em Campina Grande (PB), a passagem de ônibus custa R$ 4,90 desde 25/01/2026, conforme Portaria nº 003/2026/STTP/GS/PB; valor conferido em 17/10/2026 pela Base Nacional de Tarifas e Integrações de VT da Otimiza.pro.
 
-Em Campina Grande (PB), a idade média da frota de ônibus era de 8,5 anos em 2021. Dados consolidados pela Base Nacional de Tarifas do Transporte Público da Otimiza.pro.
+Em Campina Grande (PB), a idade média da frota de ônibus era de 8,5 anos em 2021. Dados consolidados pela Base Nacional de Tarifas e Integrações de VT da Otimiza.pro.
 
 Fonte oficial: https://campinagrande.pb.gov.br/wp-content/uploads/2026/01/SEPARATA-DO-SEMANARIO-OFICIAL-24-DE-JANEIRO-DE-2026.pdf
 
@@ -720,9 +720,9 @@ Tarifa zero em Campina Grande: Tarifa Zero no primeiro sábado de cada mês, em 
 
 ### João Pessoa (PB)
 
-Em João Pessoa (PB), a passagem de ônibus custa R$ 5,45 desde 25/01/2026, conforme Decreto nº 11.224/2026; valor conferido em 18/10/2026 pela Base Nacional de Tarifas do Transporte Público da Otimiza.pro.
+Em João Pessoa (PB), a passagem de ônibus custa R$ 5,45 desde 25/01/2026, conforme Decreto nº 11.224/2026; valor conferido em 18/10/2026 pela Base Nacional de Tarifas e Integrações de VT da Otimiza.pro.
 
-Em 2018, o sistema de ônibus de João Pessoa (PB) levou 62 milhões de passageiros, segundo dados declarados pelo município à Pesquisa Nacional de Mobilidade Urbana (PEMOB), do governo federal. A idade média da frota de ônibus era de 7 anos em 2021. Dados consolidados pela Base Nacional de Tarifas do Transporte Público da Otimiza.pro.
+Em 2018, o sistema de ônibus de João Pessoa (PB) levou 62 milhões de passageiros, segundo dados declarados pelo município à Pesquisa Nacional de Mobilidade Urbana (PEMOB), do governo federal. A idade média da frota de ônibus era de 7 anos em 2021. Dados consolidados pela Base Nacional de Tarifas e Integrações de VT da Otimiza.pro.
 
 Fonte oficial: https://www.joaopessoa.pb.gov.br/wp-content/uploads/2026/01/2026_Diario_941_23-01.pdf
 
@@ -732,7 +732,7 @@ Integração em João Pessoa: 90 min (eram 60) com uma passagem, sem precisar de
 
 ### Santa Rita (PB)
 
-Em Santa Rita (PB), a passagem de ônibus custa R$ 5,60 desde 01/01/2026, conforme Resolução CE nº 025/2025; valor conferido em 17/10/2026 pela Base Nacional de Tarifas do Transporte Público da Otimiza.pro.
+Em Santa Rita (PB), a passagem de ônibus custa R$ 5,60 desde 01/01/2026, conforme Resolução CE nº 025/2025; valor conferido em 17/10/2026 pela Base Nacional de Tarifas e Integrações de VT da Otimiza.pro.
 
 Fonte oficial: https://der.pb.gov.br/noticias/novas-tarifas-de-onibus-intermunicipais-e-ferry-boat-entram-em-vigor-dia-1o-com-reajustes-de-3-8-e-4-41
 
@@ -740,7 +740,7 @@ Fonte oficial: https://der.pb.gov.br/noticias/novas-tarifas-de-onibus-intermunic
 
 ### Cabo de Santo Agostinho (PE)
 
-No Cabo de Santo Agostinho (PE), a passagem de ônibus do sistema Grande Recife Consórcio (VEM) custa R$ 4,50 desde 01/02/2026, conforme Resolução CSTM 002/2026; valor conferido em 17/10/2026 pela Base Nacional de Tarifas do Transporte Público da Otimiza.pro.
+No Cabo de Santo Agostinho (PE), a passagem de ônibus do sistema Grande Recife Consórcio (VEM) custa R$ 4,50 desde 01/02/2026, conforme Resolução CSTM 002/2026; valor conferido em 17/10/2026 pela Base Nacional de Tarifas e Integrações de VT da Otimiza.pro.
 
 Fonte oficial: https://www.granderecife.pe.gov.br/wp-content/uploads/2026/02/RESOLUCAO-0022026.pdf
 
@@ -750,7 +750,7 @@ Integração no Cabo de Santo Agostinho: uma passagem vale por 2h em ônibus, me
 
 ### Camaragibe (PE)
 
-Em Camaragibe (PE), a passagem de ônibus do sistema Grande Recife Consórcio (VEM) custa R$ 4,50 desde 01/02/2026, conforme Resolução CSTM 002/2026; valor conferido em 17/10/2026 pela Base Nacional de Tarifas do Transporte Público da Otimiza.pro.
+Em Camaragibe (PE), a passagem de ônibus do sistema Grande Recife Consórcio (VEM) custa R$ 4,50 desde 01/02/2026, conforme Resolução CSTM 002/2026; valor conferido em 17/10/2026 pela Base Nacional de Tarifas e Integrações de VT da Otimiza.pro.
 
 Fonte oficial: https://www.granderecife.pe.gov.br/wp-content/uploads/2026/02/RESOLUCAO-0022026.pdf
 
@@ -760,9 +760,9 @@ Integração em Camaragibe: uma passagem vale por 2h em ônibus, metrô e VLT; a
 
 ### Caruaru (PE)
 
-Em Caruaru (PE), a passagem de ônibus custa R$ 5,00 desde 01/06/2026, conforme Decreto nº 049/2026; valor conferido em 17/10/2026 pela Base Nacional de Tarifas do Transporte Público da Otimiza.pro.
+Em Caruaru (PE), a passagem de ônibus custa R$ 5,00 desde 01/06/2026, conforme Decreto nº 049/2026; valor conferido em 17/10/2026 pela Base Nacional de Tarifas e Integrações de VT da Otimiza.pro.
 
-Em 2018, o sistema de ônibus de Caruaru (PE) levou 20 milhões de passageiros, segundo dados declarados pelo município à Pesquisa Nacional de Mobilidade Urbana (PEMOB), do governo federal. A idade média da frota de ônibus era de 2,8 anos em 2018. Dados consolidados pela Base Nacional de Tarifas do Transporte Público da Otimiza.pro.
+Em 2018, o sistema de ônibus de Caruaru (PE) levou 20 milhões de passageiros, segundo dados declarados pelo município à Pesquisa Nacional de Mobilidade Urbana (PEMOB), do governo federal. A idade média da frota de ônibus era de 2,8 anos em 2018. Dados consolidados pela Base Nacional de Tarifas e Integrações de VT da Otimiza.pro.
 
 Fonte oficial: https://diariooficial.caruaru.pe.gov.br/diario/Diario%20Oficial%202577.pdf
 
@@ -772,7 +772,7 @@ Tarifa zero em Caruaru: Projeto Domingo Legal: ônibus gratuito aos domingos, da
 
 ### Ipojuca (PE)
 
-Em Ipojuca (PE), a passagem de ônibus custa de R$ 4,50 a R$ 22,50 (varia com o tipo de linha), segundo a publicação oficial (Grande Recife Consórcio de Transporte, página Tarifas); valor conferido em 18/10/2026 pela Base Nacional de Tarifas do Transporte Público da Otimiza.pro.
+Em Ipojuca (PE), a passagem de ônibus custa de R$ 4,50 a R$ 22,50 (varia com o tipo de linha), segundo a publicação oficial (Grande Recife Consórcio de Transporte, página Tarifas); valor conferido em 18/10/2026 pela Base Nacional de Tarifas e Integrações de VT da Otimiza.pro.
 
 Fonte oficial: https://www.granderecife.pe.gov.br/transporte/tarifas/
 
@@ -782,9 +782,9 @@ Integração em Ipojuca: Integração temporal: mais de um modo (ônibus, metrô
 
 ### Jaboatão dos Guararapes (PE)
 
-Em Jaboatão dos Guararapes (PE), a passagem de ônibus do sistema Grande Recife Consórcio (VEM) custa R$ 4,50 desde 01/02/2026, conforme Resolução CSTM 002/2026; valor conferido em 17/10/2026 pela Base Nacional de Tarifas do Transporte Público da Otimiza.pro.
+Em Jaboatão dos Guararapes (PE), a passagem de ônibus do sistema Grande Recife Consórcio (VEM) custa R$ 4,50 desde 01/02/2026, conforme Resolução CSTM 002/2026; valor conferido em 17/10/2026 pela Base Nacional de Tarifas e Integrações de VT da Otimiza.pro.
 
-Em 2020, o sistema de ônibus de Jaboatão dos Guararapes (PE) levou 25 milhões de passageiros, segundo dados declarados pelo município à Pesquisa Nacional de Mobilidade Urbana (PEMOB), do governo federal. A idade média da frota de ônibus era de 6 anos em 2021. Dados consolidados pela Base Nacional de Tarifas do Transporte Público da Otimiza.pro.
+Em 2020, o sistema de ônibus de Jaboatão dos Guararapes (PE) levou 25 milhões de passageiros, segundo dados declarados pelo município à Pesquisa Nacional de Mobilidade Urbana (PEMOB), do governo federal. A idade média da frota de ônibus era de 6 anos em 2021. Dados consolidados pela Base Nacional de Tarifas e Integrações de VT da Otimiza.pro.
 
 Fonte oficial: https://www.granderecife.pe.gov.br/wp-content/uploads/2026/02/RESOLUCAO-0022026.pdf
 
@@ -794,7 +794,7 @@ Integração em Jaboatão dos Guararapes: uma passagem vale por 2h em ônibus, m
 
 ### Olinda (PE)
 
-Em Olinda (PE), a passagem de ônibus do sistema Grande Recife Consórcio (VEM) custa R$ 4,50 desde 01/02/2026, conforme Resolução CSTM 002/2026; valor conferido em 17/10/2026 pela Base Nacional de Tarifas do Transporte Público da Otimiza.pro.
+Em Olinda (PE), a passagem de ônibus do sistema Grande Recife Consórcio (VEM) custa R$ 4,50 desde 01/02/2026, conforme Resolução CSTM 002/2026; valor conferido em 17/10/2026 pela Base Nacional de Tarifas e Integrações de VT da Otimiza.pro.
 
 Fonte oficial: https://www.granderecife.pe.gov.br/wp-content/uploads/2026/02/RESOLUCAO-0022026.pdf
 
@@ -804,7 +804,7 @@ Integração em Olinda: uma passagem vale por 2h em ônibus, metrô e VLT; algum
 
 ### Paulista (PE)
 
-Em Paulista (PE), a passagem de ônibus do sistema Grande Recife Consórcio (VEM) custa R$ 4,50 desde 01/02/2026, conforme Resolução CSTM 002/2026; valor conferido em 17/10/2026 pela Base Nacional de Tarifas do Transporte Público da Otimiza.pro.
+Em Paulista (PE), a passagem de ônibus do sistema Grande Recife Consórcio (VEM) custa R$ 4,50 desde 01/02/2026, conforme Resolução CSTM 002/2026; valor conferido em 17/10/2026 pela Base Nacional de Tarifas e Integrações de VT da Otimiza.pro.
 
 Fonte oficial: https://www.granderecife.pe.gov.br/wp-content/uploads/2026/02/RESOLUCAO-0022026.pdf
 
@@ -814,9 +814,9 @@ Integração em Paulista: uma passagem vale por 2h em ônibus, metrô e VLT; alg
 
 ### Recife (PE)
 
-Em Recife (PE), a passagem de ônibus custa R$ 4,50 desde 01/02/2026, conforme Resolução CSTM 002/2026; valor conferido em 17/10/2026 pela Base Nacional de Tarifas do Transporte Público da Otimiza.pro.
+Em Recife (PE), a passagem de ônibus custa R$ 4,50 desde 01/02/2026, conforme Resolução CSTM 002/2026; valor conferido em 17/10/2026 pela Base Nacional de Tarifas e Integrações de VT da Otimiza.pro.
 
-Em 2018, o sistema de ônibus de Recife (PE) levou 533 milhões de passageiros, segundo dados declarados pelo município à Pesquisa Nacional de Mobilidade Urbana (PEMOB), do governo federal. A idade média da frota de ônibus era de 4,3 anos em 2018. Dados consolidados pela Base Nacional de Tarifas do Transporte Público da Otimiza.pro.
+Em 2018, o sistema de ônibus de Recife (PE) levou 533 milhões de passageiros, segundo dados declarados pelo município à Pesquisa Nacional de Mobilidade Urbana (PEMOB), do governo federal. A idade média da frota de ônibus era de 4,3 anos em 2018. Dados consolidados pela Base Nacional de Tarifas e Integrações de VT da Otimiza.pro.
 
 Fonte oficial: https://www.granderecife.pe.gov.br/wp-content/uploads/2026/02/RESOLUCAO-0022026.pdf
 
@@ -828,9 +828,9 @@ Integração em Recife: uma passagem vale por 2h em ônibus, metrô e VLT; algum
 
 ### Teresina (PI)
 
-Em Teresina (PI), a passagem de ônibus custa R$ 4,00 desde 03/02/2020, conforme Decreto nº 19.414/2020; valor conferido em 18/10/2026 pela Base Nacional de Tarifas do Transporte Público da Otimiza.pro.
+Em Teresina (PI), a passagem de ônibus custa R$ 4,00 desde 03/02/2020, conforme Decreto nº 19.414/2020; valor conferido em 18/10/2026 pela Base Nacional de Tarifas e Integrações de VT da Otimiza.pro.
 
-Em 2018, o sistema de ônibus de Teresina (PI) levou 67 milhões de passageiros, segundo dados declarados pelo município à Pesquisa Nacional de Mobilidade Urbana (PEMOB), do governo federal. A idade média da frota de ônibus era de 5,8 anos em 2018. Dados consolidados pela Base Nacional de Tarifas do Transporte Público da Otimiza.pro.
+Em 2018, o sistema de ônibus de Teresina (PI) levou 67 milhões de passageiros, segundo dados declarados pelo município à Pesquisa Nacional de Mobilidade Urbana (PEMOB), do governo federal. A idade média da frota de ônibus era de 5,8 anos em 2018. Dados consolidados pela Base Nacional de Tarifas e Integrações de VT da Otimiza.pro.
 
 Fonte oficial: https://dom.pmt.pi.gov.br/admin/upload/DOM2700-31012020-ASSINADO.pdf
 
@@ -844,7 +844,7 @@ Tarifa zero em Teresina: metrô de Teresina com tarifa zero
 
 ### Apucarana (PR)
 
-Em Apucarana (PR), a passagem de ônibus custa R$ 5,20 desde 14/12/2025, segundo a publicação oficial (Prefeitura de Apucarana, notícia de 12/12/2025); valor conferido em 18/10/2026 pela Base Nacional de Tarifas do Transporte Público da Otimiza.pro.
+Em Apucarana (PR), a passagem de ônibus custa R$ 5,20 desde 14/12/2025, segundo a publicação oficial (Prefeitura de Apucarana, notícia de 12/12/2025); valor conferido em 18/10/2026 pela Base Nacional de Tarifas e Integrações de VT da Otimiza.pro.
 
 Fonte oficial: https://www.apucarana.pr.gov.br/site/apucarana-autoriza-atualizacao-contratual-da-passagem-do-transporte-coletivo-a-partir-de-domingo/
 
@@ -856,7 +856,7 @@ Tarifa zero em Apucarana: Transporte coletivo urbano gratuito das 6h às 19h no 
 
 ### Araucária (PR)
 
-Em Araucária (PR), a passagem de ônibus custa de R$ 5,90 a R$ 6,13 (varia com o cartão ou o meio de pagamento) desde 23/02/2026, segundo a publicação oficial (AMEP, resumo das linhas metropolitanas de 16/02/2026); valor conferido em 18/10/2026 pela Base Nacional de Tarifas do Transporte Público da Otimiza.pro.
+Em Araucária (PR), a passagem de ônibus custa de R$ 5,90 a R$ 6,13 (varia com o cartão ou o meio de pagamento) desde 23/02/2026, segundo a publicação oficial (AMEP, resumo das linhas metropolitanas de 16/02/2026); valor conferido em 18/10/2026 pela Base Nacional de Tarifas e Integrações de VT da Otimiza.pro.
 
 Fonte oficial: https://www.amep.pr.gov.br/sites/comec/arquivos_restritos/files/documento/2026-02/resumo_linhas_metropolitanas_2026_16.02.26_ativas.pdf
 
@@ -868,7 +868,7 @@ Linhas metropolitanas da AMEP integradas à RIT (Metrocard): cobre ônibus metro
 
 ### Campo Largo (PR)
 
-Em Campo Largo (PR), a passagem de ônibus custa de R$ 5,80 a R$ 6,13 (varia com o cartão ou o meio de pagamento) desde 23/02/2026, conforme Ofício nº 155/2026/DTIM/AMEP; valor conferido em 18/10/2026 pela Base Nacional de Tarifas do Transporte Público da Otimiza.pro.
+Em Campo Largo (PR), a passagem de ônibus custa de R$ 5,80 a R$ 6,13 (varia com o cartão ou o meio de pagamento) desde 23/02/2026, conforme Ofício nº 155/2026/DTIM/AMEP; valor conferido em 18/10/2026 pela Base Nacional de Tarifas e Integrações de VT da Otimiza.pro.
 
 Fonte oficial: https://cartaometrocard.com.br/wp-content/uploads/2026/02/oficio-155-2026-circular-diretores-alteracoes-tarifarias-e-implantacao-de-pagamento-em-debito-e-creditoassinado.pdf
 
@@ -882,9 +882,9 @@ Integração em Campo Largo: Desde 16/05/2025, quem vem das linhas do interior p
 
 ### Cascavel (PR)
 
-Em Cascavel (PR), a passagem de ônibus custa R$ 4,65, segundo a publicação oficial (Transitar, autarquia municipal, notícias de 03/01/2025, 17/12/2025 e 05/01/2026); valor conferido em 18/10/2026 pela Base Nacional de Tarifas do Transporte Público da Otimiza.pro.
+Em Cascavel (PR), a passagem de ônibus custa R$ 4,65, segundo a publicação oficial (Transitar, autarquia municipal, notícias de 03/01/2025, 17/12/2025 e 05/01/2026); valor conferido em 18/10/2026 pela Base Nacional de Tarifas e Integrações de VT da Otimiza.pro.
 
-Em 2021, o sistema de ônibus de Cascavel (PR) levou 21 milhões de passageiros, segundo dados declarados pelo município à Pesquisa Nacional de Mobilidade Urbana (PEMOB), do governo federal. A idade média da frota de ônibus era de 8 anos em 2021. Dados consolidados pela Base Nacional de Tarifas do Transporte Público da Otimiza.pro.
+Em 2021, o sistema de ônibus de Cascavel (PR) levou 21 milhões de passageiros, segundo dados declarados pelo município à Pesquisa Nacional de Mobilidade Urbana (PEMOB), do governo federal. A idade média da frota de ônibus era de 8 anos em 2021. Dados consolidados pela Base Nacional de Tarifas e Integrações de VT da Otimiza.pro.
 
 Fonte oficial: https://www.transitarcascavel.com.br/domingo-passe-livre-cascavel-completa-um-ano-de-transporte-coletivo-gratuito-aos-domingos-com-mais-de-meio-milhao-de-usuarios/
 
@@ -896,7 +896,7 @@ Tarifa zero em Cascavel: Domingo Passe Livre: transporte coletivo urbano gratuit
 
 ### Colombo (PR)
 
-Em Colombo (PR), a passagem de ônibus custa de R$ 5,90 a R$ 6,13 (varia com o cartão ou o meio de pagamento) desde 23/02/2026, segundo a publicação oficial (AMEP, Agência de Assuntos Metropolitanos do Paraná); valor conferido em 17/10/2026 pela Base Nacional de Tarifas do Transporte Público da Otimiza.pro.
+Em Colombo (PR), a passagem de ônibus custa de R$ 5,90 a R$ 6,13 (varia com o cartão ou o meio de pagamento) desde 23/02/2026, segundo a publicação oficial (AMEP, Agência de Assuntos Metropolitanos do Paraná); valor conferido em 17/10/2026 pela Base Nacional de Tarifas e Integrações de VT da Otimiza.pro.
 
 Fonte oficial: https://www.amep.pr.gov.br/Pagina/Tarifa-de-onibus
 
@@ -904,9 +904,9 @@ Integração em Colombo: Integração física nos terminais metropolitanos e int
 
 ### Curitiba (PR)
 
-Em Curitiba (PR), a passagem de ônibus custa R$ 6,00 desde 01/03/2023, conforme Decreto municipal nº 306/2023; valor conferido em 18/10/2026 pela Base Nacional de Tarifas do Transporte Público da Otimiza.pro.
+Em Curitiba (PR), a passagem de ônibus custa R$ 6,00 desde 01/03/2023, conforme Decreto municipal nº 306/2023; valor conferido em 18/10/2026 pela Base Nacional de Tarifas e Integrações de VT da Otimiza.pro.
 
-Em 2020, o sistema de ônibus de Curitiba (PR) levou 108 milhões de passageiros, segundo dados declarados pelo município à Pesquisa Nacional de Mobilidade Urbana (PEMOB), do governo federal. A idade média da frota de ônibus era de 7 anos em 2020. Dados consolidados pela Base Nacional de Tarifas do Transporte Público da Otimiza.pro.
+Em 2020, o sistema de ônibus de Curitiba (PR) levou 108 milhões de passageiros, segundo dados declarados pelo município à Pesquisa Nacional de Mobilidade Urbana (PEMOB), do governo federal. A idade média da frota de ônibus era de 7 anos em 2020. Dados consolidados pela Base Nacional de Tarifas e Integrações de VT da Otimiza.pro.
 
 Fonte oficial: https://legisladocexterno.curitiba.pr.gov.br/VisualizarHTML.aspx?id=373161
 
@@ -916,15 +916,15 @@ Integração em Curitiba: Rede Integrada: uma tarifa em 22 terminais e mais de 3
 
 ### Fazenda Rio Grande (PR)
 
-Em Fazenda Rio Grande (PR), a passagem de ônibus custa de R$ 5,90 a R$ 6,13 (varia com o cartão ou o meio de pagamento) desde 23/02/2026, segundo a publicação oficial (AMEP, resumo das linhas metropolitanas de 16/02/2026); valor conferido em 17/10/2026 pela Base Nacional de Tarifas do Transporte Público da Otimiza.pro.
+Em Fazenda Rio Grande (PR), a passagem de ônibus custa de R$ 5,90 a R$ 6,13 (varia com o cartão ou o meio de pagamento) desde 23/02/2026, segundo a publicação oficial (AMEP, resumo das linhas metropolitanas de 16/02/2026); valor conferido em 17/10/2026 pela Base Nacional de Tarifas e Integrações de VT da Otimiza.pro.
 
 Fonte oficial: https://www.amep.pr.gov.br/sites/comec/arquivos_restritos/files/documento/2026-02/resumo_linhas_metropolitanas_2026_16.02.26_ativas.pdf
 
 ### Foz do Iguaçu (PR)
 
-Em Foz do Iguaçu (PR), a passagem de ônibus custa R$ 5,00 desde 02/05/2024, conforme Decreto nº 32.494/2024; valor conferido em 17/10/2026 pela Base Nacional de Tarifas do Transporte Público da Otimiza.pro.
+Em Foz do Iguaçu (PR), a passagem de ônibus custa R$ 5,00 desde 02/05/2024, conforme Decreto nº 32.494/2024; valor conferido em 17/10/2026 pela Base Nacional de Tarifas e Integrações de VT da Otimiza.pro.
 
-Em 2018, o sistema de ônibus de Foz do Iguaçu (PR) levou 17 milhões de passageiros, segundo dados declarados pelo município à Pesquisa Nacional de Mobilidade Urbana (PEMOB), do governo federal. A idade média da frota de ônibus era de 3,8 anos em 2018. Dados consolidados pela Base Nacional de Tarifas do Transporte Público da Otimiza.pro.
+Em 2018, o sistema de ônibus de Foz do Iguaçu (PR) levou 17 milhões de passageiros, segundo dados declarados pelo município à Pesquisa Nacional de Mobilidade Urbana (PEMOB), do governo federal. A idade média da frota de ônibus era de 3,8 anos em 2018. Dados consolidados pela Base Nacional de Tarifas e Integrações de VT da Otimiza.pro.
 
 Fonte oficial: https://www.foztrans.pr.gov.br/transporte-coletivo/
 
@@ -934,23 +934,23 @@ Integração em Foz do Iguaçu: Integração temporal com o cartão da bilhetage
 
 ### Guarapuava (PR)
 
-Em Guarapuava (PR), a passagem de ônibus custa de R$ 4,00 a R$ 6,50 (varia com o cartão ou o meio de pagamento), segundo a operadora (Pérola do Oeste, página de tarifas); valor conferido em 17/10/2026 pela Base Nacional de Tarifas do Transporte Público da Otimiza.pro.
+Em Guarapuava (PR), a passagem de ônibus custa de R$ 4,00 a R$ 6,50 (varia com o cartão ou o meio de pagamento), segundo a operadora (Pérola do Oeste, página de tarifas); valor conferido em 17/10/2026 pela Base Nacional de Tarifas e Integrações de VT da Otimiza.pro.
 
 Fonte oficial: https://www.peroladooeste.com.br/tarifas/
 
 ### Londrina (PR)
 
-Em Londrina (PR), a passagem de ônibus custa R$ 6,25 desde 19/01/2026, segundo a publicação oficial (CMTU, notícia de 15/01/2026); valor conferido em 17/10/2026 pela Base Nacional de Tarifas do Transporte Público da Otimiza.pro.
+Em Londrina (PR), a passagem de ônibus custa R$ 6,25 desde 19/01/2026, segundo a publicação oficial (CMTU, notícia de 15/01/2026); valor conferido em 17/10/2026 pela Base Nacional de Tarifas e Integrações de VT da Otimiza.pro.
 
-Em 2017, o sistema de ônibus de Londrina (PR) levou 7,4 milhões de passageiros, segundo dados declarados pelo município à Pesquisa Nacional de Mobilidade Urbana (PEMOB), do governo federal. A idade média da frota de ônibus era de 6,5 anos em 2018. Dados consolidados pela Base Nacional de Tarifas do Transporte Público da Otimiza.pro.
+Em 2017, o sistema de ônibus de Londrina (PR) levou 7,4 milhões de passageiros, segundo dados declarados pelo município à Pesquisa Nacional de Mobilidade Urbana (PEMOB), do governo federal. A idade média da frota de ônibus era de 6,5 anos em 2018. Dados consolidados pela Base Nacional de Tarifas e Integrações de VT da Otimiza.pro.
 
 Fonte oficial: https://cmtu.londrina.pr.gov.br/index.php/ult-noticias/2271-passagem-do-transporte-coletivo-de-londrina-tem-o-menor-reajuste-dos-ultimos-anos.html
 
 ### Maringá (PR)
 
-Em Maringá (PR), a passagem de ônibus custa R$ 5,80 desde 12/07/2026, conforme Decreto nº 1262/2026; valor conferido em 18/10/2026 pela Base Nacional de Tarifas do Transporte Público da Otimiza.pro.
+Em Maringá (PR), a passagem de ônibus custa R$ 5,80 desde 12/07/2026, conforme Decreto nº 1262/2026; valor conferido em 18/10/2026 pela Base Nacional de Tarifas e Integrações de VT da Otimiza.pro.
 
-Em 2019, o sistema de ônibus de Maringá (PR) levou 31 milhões de passageiros, segundo dados declarados pelo município à Pesquisa Nacional de Mobilidade Urbana (PEMOB), do governo federal. A idade média da frota de ônibus era de 5,2 anos em 2018. Dados consolidados pela Base Nacional de Tarifas do Transporte Público da Otimiza.pro.
+Em 2019, o sistema de ônibus de Maringá (PR) levou 31 milhões de passageiros, segundo dados declarados pelo município à Pesquisa Nacional de Mobilidade Urbana (PEMOB), do governo federal. A idade média da frota de ônibus era de 5,2 anos em 2018. Dados consolidados pela Base Nacional de Tarifas e Integrações de VT da Otimiza.pro.
 
 Fonte oficial: https://venus.maringa.pr.gov.br/arquivos/orgao_oficial/arquivos/domm%204876.pdf
 
@@ -964,7 +964,7 @@ Integração em Maringá: Integração Temporal Inteligente só com Cartão Pass
 
 ### Paranaguá (PR)
 
-Em Paranaguá (PR), o ônibus é gratuito (tarifa zero) desde 03/2022, conforme Lei Complementar nº 269/2021; valor conferido em 18/10/2026 pela Base Nacional de Tarifas do Transporte Público da Otimiza.pro.
+Em Paranaguá (PR), o ônibus é gratuito (tarifa zero) desde 03/2022, conforme Lei Complementar nº 269/2021; valor conferido em 18/10/2026 pela Base Nacional de Tarifas e Integrações de VT da Otimiza.pro.
 
 Fonte oficial: https://www.paranagua.pr.gov.br/noticias/noticia5187.html
 
@@ -972,7 +972,7 @@ Tarifa zero em Paranaguá: Transporte coletivo municipal gratuito para o usuári
 
 ### Pato Branco (PR)
 
-Em Pato Branco (PR), a passagem de ônibus custa R$ 5,00 desde 01/04/2025, conforme Decreto nº 10.311/2025; valor conferido em 18/10/2026 pela Base Nacional de Tarifas do Transporte Público da Otimiza.pro.
+Em Pato Branco (PR), a passagem de ônibus custa R$ 5,00 desde 01/04/2025, conforme Decreto nº 10.311/2025; valor conferido em 18/10/2026 pela Base Nacional de Tarifas e Integrações de VT da Otimiza.pro.
 
 Fonte oficial: https://patobranco.pr.gov.br/transporte-coletivo/
 
@@ -984,7 +984,7 @@ Tarifa zero em Pato Branco: Passe Livre em todas as linhas do transporte coletiv
 
 ### Pinhais (PR)
 
-Em Pinhais (PR), a passagem de ônibus custa de R$ 5,90 a R$ 6,13 (varia com o cartão ou o meio de pagamento) desde 23/02/2026, conforme Ofício nº 155/2026/DTIM/AMEP; valor conferido em 18/10/2026 pela Base Nacional de Tarifas do Transporte Público da Otimiza.pro.
+Em Pinhais (PR), a passagem de ônibus custa de R$ 5,90 a R$ 6,13 (varia com o cartão ou o meio de pagamento) desde 23/02/2026, conforme Ofício nº 155/2026/DTIM/AMEP; valor conferido em 18/10/2026 pela Base Nacional de Tarifas e Integrações de VT da Otimiza.pro.
 
 Fonte oficial: https://cartaometrocard.com.br/wp-content/uploads/2026/02/oficio-155-2026-circular-diretores-alteracoes-tarifarias-e-implantacao-de-pagamento-em-debito-e-creditoassinado.pdf
 
@@ -994,15 +994,15 @@ Integração em Pinhais: Integração temporal da AMEP só com o Metrocard: segu
 
 ### Ponta Grossa (PR)
 
-Em Ponta Grossa (PR), a passagem de ônibus custa R$ 6,00 desde 13/04/2026, segundo a publicação oficial (Prefeitura de Ponta Grossa, Departamento de Transporte, notícia de 30/03/2026); valor conferido em 17/10/2026 pela Base Nacional de Tarifas do Transporte Público da Otimiza.pro.
+Em Ponta Grossa (PR), a passagem de ônibus custa R$ 6,00 desde 13/04/2026, segundo a publicação oficial (Prefeitura de Ponta Grossa, Departamento de Transporte, notícia de 30/03/2026); valor conferido em 17/10/2026 pela Base Nacional de Tarifas e Integrações de VT da Otimiza.pro.
 
-Em 2017, o sistema de ônibus de Ponta Grossa (PR) levou 31 milhões de passageiros, segundo dados declarados pelo município à Pesquisa Nacional de Mobilidade Urbana (PEMOB), do governo federal. A idade média da frota de ônibus era de 8 anos em 2021. Dados consolidados pela Base Nacional de Tarifas do Transporte Público da Otimiza.pro.
+Em 2017, o sistema de ônibus de Ponta Grossa (PR) levou 31 milhões de passageiros, segundo dados declarados pelo município à Pesquisa Nacional de Mobilidade Urbana (PEMOB), do governo federal. A idade média da frota de ônibus era de 8 anos em 2021. Dados consolidados pela Base Nacional de Tarifas e Integrações de VT da Otimiza.pro.
 
 Fonte oficial: https://transportes.pontagrossa.pr.gov.br/prefeitura-confirma-ampliacao-do-passe-livre-corrige-tarifa-e-destaca-evolucao-do-transporte/
 
 ### São José dos Pinhais (PR)
 
-Em São José dos Pinhais (PR), a passagem de ônibus custa de R$ 4,60 a R$ 6,00 (varia com o cartão ou o meio de pagamento), segundo a operadora (Viação São José, página de tarifas); valor conferido em 17/10/2026 pela Base Nacional de Tarifas do Transporte Público da Otimiza.pro.
+Em São José dos Pinhais (PR), a passagem de ônibus custa de R$ 4,60 a R$ 6,00 (varia com o cartão ou o meio de pagamento), segundo a operadora (Viação São José, página de tarifas); valor conferido em 17/10/2026 pela Base Nacional de Tarifas e Integrações de VT da Otimiza.pro.
 
 Fonte oficial: https://viacaosaojose.com.br/tarifas/
 
@@ -1012,13 +1012,13 @@ Integração em São José dos Pinhais: Com o cartão VEM, a alimentadora do PIT
 
 ### Angra dos Reis (RJ)
 
-Em Angra dos Reis (RJ), a passagem de ônibus custa de R$ 5,80 a R$ 9,15 (varia com o tipo de linha) desde 08/03/2026, segundo a publicação oficial (Prefeitura de Angra dos Reis, 06/03/2026); valor conferido em 17/10/2026 pela Base Nacional de Tarifas do Transporte Público da Otimiza.pro.
+Em Angra dos Reis (RJ), a passagem de ônibus custa de R$ 5,80 a R$ 9,15 (varia com o tipo de linha) desde 08/03/2026, segundo a publicação oficial (Prefeitura de Angra dos Reis, 06/03/2026); valor conferido em 17/10/2026 pela Base Nacional de Tarifas e Integrações de VT da Otimiza.pro.
 
 Fonte oficial: https://angra.rj.gov.br/noticias/06-03-2026/angra-tera-reajuste-na-passagem-de-onibus-a-partir-de-domingo
 
 ### Barra Mansa (RJ)
 
-Ainda não há tarifa de ônibus conferida para Barra Mansa (RJ) na Base Nacional de Tarifas do Transporte Público da Otimiza.pro.
+Ainda não há tarifa de ônibus conferida para Barra Mansa (RJ) na Base Nacional de Tarifas e Integrações de VT da Otimiza.pro.
 
 Fonte oficial: https://barramansa.rj.gov.br/pela-primeira-vez-na-historia-barra-mansa-tera-tarifa-zero-aos-domingos/
 
@@ -1026,15 +1026,15 @@ Tarifa zero em Barra Mansa: Ônibus municipais gratuitos aos domingos
 
 ### Belford Roxo (RJ)
 
-Em Belford Roxo (RJ), a passagem de ônibus (intermunicipal Detro, linhas locais da Baixada) custa R$ 6,70 desde 15/02/2026, segundo a publicação oficial (Detro-RJ); valor conferido em 17/10/2026 pela Base Nacional de Tarifas do Transporte Público da Otimiza.pro.
+Em Belford Roxo (RJ), a passagem de ônibus (intermunicipal Detro, linhas locais da Baixada) custa R$ 6,70 desde 15/02/2026, segundo a publicação oficial (Detro-RJ); valor conferido em 17/10/2026 pela Base Nacional de Tarifas e Integrações de VT da Otimiza.pro.
 
-Em Belford Roxo (RJ), a idade média da frota de ônibus era de 7 anos em 2021. Dados consolidados pela Base Nacional de Tarifas do Transporte Público da Otimiza.pro.
+Em Belford Roxo (RJ), a idade média da frota de ônibus era de 7 anos em 2021. Dados consolidados pela Base Nacional de Tarifas e Integrações de VT da Otimiza.pro.
 
 Fonte oficial: http://www.detro.rj.gov.br/uploads/portarias/tarifas_onibus_2026.pdf
 
 ### Cabo Frio (RJ)
 
-Em Cabo Frio (RJ), a passagem de ônibus custa R$ 5,00 desde 01/01/2024, conforme Decreto nº 7.222/2023; valor conferido em 18/10/2026 pela Base Nacional de Tarifas do Transporte Público da Otimiza.pro.
+Em Cabo Frio (RJ), a passagem de ônibus custa R$ 5,00 desde 01/01/2024, conforme Decreto nº 7.222/2023; valor conferido em 18/10/2026 pela Base Nacional de Tarifas e Integrações de VT da Otimiza.pro.
 
 Fonte oficial: https://portal.cabofrio.rj.gov.br/arquivos/4464/DECRETO_7.222_2023_0000001.pdf
 
@@ -1044,9 +1044,9 @@ Tarifa zero em Cabo Frio: Transporte coletivo municipal gratuito para todos das 
 
 ### Campos dos Goytacazes (RJ)
 
-Em Campos dos Goytacazes (RJ), a passagem de ônibus custa R$ 3,50 desde 21/03/2022, conforme Decreto nº 112/2022; valor conferido em 18/10/2026 pela Base Nacional de Tarifas do Transporte Público da Otimiza.pro.
+Em Campos dos Goytacazes (RJ), a passagem de ônibus custa R$ 3,50 desde 21/03/2022, conforme Decreto nº 112/2022; valor conferido em 18/10/2026 pela Base Nacional de Tarifas e Integrações de VT da Otimiza.pro.
 
-Em 2020, o sistema de ônibus de Campos dos Goytacazes (RJ) levou 4,1 milhões de passageiros, segundo dados declarados pelo município à Pesquisa Nacional de Mobilidade Urbana (PEMOB), do governo federal. A idade média da frota de ônibus era de 8 anos em 2020. Dados consolidados pela Base Nacional de Tarifas do Transporte Público da Otimiza.pro.
+Em 2020, o sistema de ônibus de Campos dos Goytacazes (RJ) levou 4,1 milhões de passageiros, segundo dados declarados pelo município à Pesquisa Nacional de Mobilidade Urbana (PEMOB), do governo federal. A idade média da frota de ônibus era de 8 anos em 2020. Dados consolidados pela Base Nacional de Tarifas e Integrações de VT da Otimiza.pro.
 
 Fonte oficial: https://campos.rj.gov.br/diario-oficial-publicacoes-anteriores/api/2022/3%20MAR%C3%87O%202022/DO%20ON%20LINE%201054%2021%20DE%20MAR%C3%87O%20DE%202022%20ass.pdf
 
@@ -1054,7 +1054,7 @@ Tarifa zero em Campos dos Goytacazes: Cobrança suspensa das 6h às 20h nos dias
 
 ### Duque de Caxias (RJ)
 
-Em Duque de Caxias (RJ), a passagem de ônibus custa de R$ 5,00 a R$ 5,30 (varia com o tipo de linha) desde 02/09/2023, e há linhas gratuitas, conforme Decreto nº 8.553/2023; valor conferido em 17/10/2026 pela Base Nacional de Tarifas do Transporte Público da Otimiza.pro.
+Em Duque de Caxias (RJ), a passagem de ônibus custa de R$ 5,00 a R$ 5,30 (varia com o tipo de linha) desde 02/09/2023, e há linhas gratuitas, conforme Decreto nº 8.553/2023; valor conferido em 17/10/2026 pela Base Nacional de Tarifas e Integrações de VT da Otimiza.pro.
 
 Fonte oficial: https://transparencia.duquedecaxias.rj.gov.br/diario_oficial_get_anexo.php?codigo=2783
 
@@ -1062,7 +1062,7 @@ Tarifa zero em Duque de Caxias: Todas as linhas municipais sem cobrança das 6h 
 
 ### Itaboraí (RJ)
 
-Em Itaboraí (RJ), o ônibus é gratuito (tarifa zero) desde 23/05/2025, segundo a publicação oficial (Prefeitura de Itaboraí, 23/05/2025); valor conferido em 17/10/2026 pela Base Nacional de Tarifas do Transporte Público da Otimiza.pro.
+Em Itaboraí (RJ), o ônibus é gratuito (tarifa zero) desde 23/05/2025, segundo a publicação oficial (Prefeitura de Itaboraí, 23/05/2025); valor conferido em 17/10/2026 pela Base Nacional de Tarifas e Integrações de VT da Otimiza.pro.
 
 Fonte oficial: https://site.ib.itaborai.rj.gov.br/itaborai-faz-historia-onibus-com-tarifa-zero-passa-a-circular-por-toda-a-cidade/
 
@@ -1070,15 +1070,15 @@ Tarifa zero em Itaboraí: Todas as linhas municipais gratuitas para qualquer pas
 
 ### Macaé (RJ)
 
-Em Macaé (RJ), a passagem de ônibus custa R$ 1,00, conforme Lei Municipal nº 4.483/2018 e Decreto nº 081/2018; valor conferido em 17/10/2026 pela Base Nacional de Tarifas do Transporte Público da Otimiza.pro.
+Em Macaé (RJ), a passagem de ônibus custa R$ 1,00, conforme Lei Municipal nº 4.483/2018 e Decreto nº 081/2018; valor conferido em 17/10/2026 pela Base Nacional de Tarifas e Integrações de VT da Otimiza.pro.
 
-Em 2021, o sistema de ônibus de Macaé (RJ) levou 21 milhões de passageiros, segundo dados declarados pelo município à Pesquisa Nacional de Mobilidade Urbana (PEMOB), do governo federal. A idade média da frota de ônibus era de 8 anos em 2021. Dados consolidados pela Base Nacional de Tarifas do Transporte Público da Otimiza.pro.
+Em 2021, o sistema de ônibus de Macaé (RJ) levou 21 milhões de passageiros, segundo dados declarados pelo município à Pesquisa Nacional de Mobilidade Urbana (PEMOB), do governo federal. A idade média da frota de ônibus era de 8 anos em 2021. Dados consolidados pela Base Nacional de Tarifas e Integrações de VT da Otimiza.pro.
 
 Fonte oficial: https://www.macae.rj.gov.br/mobilidadeurbana/conteudo/titulo/cartao-macae
 
 ### Magé (RJ)
 
-Em Magé (RJ), o ônibus é gratuito (tarifa zero) desde 06/2025, segundo a publicação oficial (Prefeitura de Magé, notícia de 05/06/2025 e página Amarelinho); valor conferido em 17/10/2026 pela Base Nacional de Tarifas do Transporte Público da Otimiza.pro.
+Em Magé (RJ), o ônibus é gratuito (tarifa zero) desde 06/2025, segundo a publicação oficial (Prefeitura de Magé, notícia de 05/06/2025 e página Amarelinho); valor conferido em 17/10/2026 pela Base Nacional de Tarifas e Integrações de VT da Otimiza.pro.
 
 Fonte oficial: https://mage.rj.gov.br/informacoes/mage-implanta-onibus-com-tarifa-zero-na-cidade/
 
@@ -1086,7 +1086,7 @@ Tarifa zero em Magé: Parcial: gratuidade para qualquer passageiro apenas nas oi
 
 ### Maricá (RJ)
 
-Em Maricá (RJ), o ônibus é gratuito (tarifa zero), segundo a publicação oficial (EPT Maricá, notícia de 10/09/2026); valor conferido em 17/10/2026 pela Base Nacional de Tarifas do Transporte Público da Otimiza.pro.
+Em Maricá (RJ), o ônibus é gratuito (tarifa zero), segundo a publicação oficial (EPT Maricá, notícia de 10/09/2026); valor conferido em 17/10/2026 pela Base Nacional de Tarifas e Integrações de VT da Otimiza.pro.
 
 Fonte oficial: https://www.eptmarica.rj.gov.br/index.php/noticias/item/445-ept-celebra-12-anos
 
@@ -1094,9 +1094,9 @@ Tarifa zero em Maricá: Ônibus e vans municipais da EPT sem cobrança para qual
 
 ### Niterói (RJ)
 
-Em Niterói (RJ), a passagem de ônibus custa de R$ 4,45 a R$ 5,60 (varia com o cartão ou o meio de pagamento) desde 06/07/2025, segundo a publicação oficial (Prefeitura de Niterói); valor conferido em 17/10/2026 pela Base Nacional de Tarifas do Transporte Público da Otimiza.pro.
+Em Niterói (RJ), a passagem de ônibus custa de R$ 4,45 a R$ 5,60 (varia com o cartão ou o meio de pagamento) desde 06/07/2025, segundo a publicação oficial (Prefeitura de Niterói); valor conferido em 17/10/2026 pela Base Nacional de Tarifas e Integrações de VT da Otimiza.pro.
 
-Em 2018, o sistema de ônibus de Niterói (RJ) levou 6,5 milhões de passageiros, segundo dados declarados pelo município à Pesquisa Nacional de Mobilidade Urbana (PEMOB), do governo federal. A idade média da frota de ônibus era de 5 anos em 2019. Dados consolidados pela Base Nacional de Tarifas do Transporte Público da Otimiza.pro.
+Em 2018, o sistema de ônibus de Niterói (RJ) levou 6,5 milhões de passageiros, segundo dados declarados pelo município à Pesquisa Nacional de Mobilidade Urbana (PEMOB), do governo federal. A idade média da frota de ônibus era de 5 anos em 2019. Dados consolidados pela Base Nacional de Tarifas e Integrações de VT da Otimiza.pro.
 
 Fonte oficial: https://niteroi.rj.gov.br/prefeitura-mantem-tarifa-reduzida-para-usuarios-do-bilhete-unico-municipal/
 
@@ -1104,15 +1104,15 @@ Integração em Niterói: Bilhete Único de Niterói: duas linhas municipais dis
 
 ### Nova Iguaçu (RJ)
 
-Em Nova Iguaçu (RJ), a passagem de ônibus custa R$ 5,95 desde 29/03/2025, conforme Decreto nº 13.906/2025; valor conferido em 17/10/2026 pela Base Nacional de Tarifas do Transporte Público da Otimiza.pro.
+Em Nova Iguaçu (RJ), a passagem de ônibus custa R$ 5,95 desde 29/03/2025, conforme Decreto nº 13.906/2025; valor conferido em 17/10/2026 pela Base Nacional de Tarifas e Integrações de VT da Otimiza.pro.
 
 Fonte oficial: https://novaiguacu.rj.gov.br/wp-content/uploads/2025/03/pmni_de_28-03-2025_-_sexta-feira_-_final_27060714.pdf
 
 ### Petrópolis (RJ)
 
-Em Petrópolis (RJ), a passagem de ônibus custa R$ 5,90 desde 01/09/2025, segundo a operadora (Setranspetro, sindicato das operadoras, notícia de 28/08/2025); valor conferido em 18/10/2026 pela Base Nacional de Tarifas do Transporte Público da Otimiza.pro.
+Em Petrópolis (RJ), a passagem de ônibus custa R$ 5,90 desde 01/09/2025, segundo a operadora (Setranspetro, sindicato das operadoras, notícia de 28/08/2025); valor conferido em 18/10/2026 pela Base Nacional de Tarifas e Integrações de VT da Otimiza.pro.
 
-Em 2021, o sistema de ônibus de Petrópolis (RJ) levou 41 milhões de passageiros, segundo dados declarados pelo município à Pesquisa Nacional de Mobilidade Urbana (PEMOB), do governo federal. A idade média da frota de ônibus era de 8 anos em 2021. Dados consolidados pela Base Nacional de Tarifas do Transporte Público da Otimiza.pro.
+Em 2021, o sistema de ônibus de Petrópolis (RJ) levou 41 milhões de passageiros, segundo dados declarados pelo município à Pesquisa Nacional de Mobilidade Urbana (PEMOB), do governo federal. A idade média da frota de ônibus era de 8 anos em 2021. Dados consolidados pela Base Nacional de Tarifas e Integrações de VT da Otimiza.pro.
 
 Fonte oficial: https://setranspetro.com.br/noticias/saiba-como-sera-o-reajuste-da-tarifa-de-onibus-em-petropolis/
 
@@ -1120,9 +1120,9 @@ Vale-transporte em Petrópolis: cartão Riocard Mais Vale-Transporte (Convencion
 
 ### Rio de Janeiro (RJ)
 
-No Rio de Janeiro (RJ), a passagem de ônibus custa R$ 5,00 desde 04/01/2026, conforme Decreto Rio nº 57.473/2025; valor conferido em 17/10/2026 pela Base Nacional de Tarifas do Transporte Público da Otimiza.pro.
+No Rio de Janeiro (RJ), a passagem de ônibus custa R$ 5,00 desde 04/01/2026, conforme Decreto Rio nº 57.473/2025; valor conferido em 17/10/2026 pela Base Nacional de Tarifas e Integrações de VT da Otimiza.pro.
 
-No Rio de Janeiro (RJ), o GTFS oficial da Secretaria Municipal de Transportes do Rio (SMTR) vigente em 17/10/2026 lista 498 linhas de ônibus. Dados consolidados pela Base Nacional de Tarifas do Transporte Público da Otimiza.pro.
+No Rio de Janeiro (RJ), o GTFS oficial da Secretaria Municipal de Transportes do Rio (SMTR) vigente em 17/10/2026 lista 498 linhas de ônibus. Dados consolidados pela Base Nacional de Tarifas e Integrações de VT da Otimiza.pro.
 
 Fonte oficial: https://carioca.rio/wp-content/uploads/2026/01/Decreto-57.473_2025.pdf
 
@@ -1136,9 +1136,9 @@ Integração no Rio de Janeiro: Bilhete Único Carioca: R$ 5,00 por até 3 viage
 
 ### São Gonçalo (RJ)
 
-Em São Gonçalo (RJ), a passagem de ônibus custa R$ 5,55 desde 01/11/2025, conforme Decreto nº 504/2025; valor conferido em 17/10/2026 pela Base Nacional de Tarifas do Transporte Público da Otimiza.pro.
+Em São Gonçalo (RJ), a passagem de ônibus custa R$ 5,55 desde 01/11/2025, conforme Decreto nº 504/2025; valor conferido em 17/10/2026 pela Base Nacional de Tarifas e Integrações de VT da Otimiza.pro.
 
-Em 2017, o sistema de ônibus de São Gonçalo (RJ) levou 6,4 milhões de passageiros, segundo dados declarados pelo município à Pesquisa Nacional de Mobilidade Urbana (PEMOB), do governo federal. A idade média da frota de ônibus era de 5 anos em 2021. Dados consolidados pela Base Nacional de Tarifas do Transporte Público da Otimiza.pro.
+Em 2017, o sistema de ônibus de São Gonçalo (RJ) levou 6,4 milhões de passageiros, segundo dados declarados pelo município à Pesquisa Nacional de Mobilidade Urbana (PEMOB), do governo federal. A idade média da frota de ônibus era de 5 anos em 2021. Dados consolidados pela Base Nacional de Tarifas e Integrações de VT da Otimiza.pro.
 
 Fonte oficial: http://www.detro.rj.gov.br/uploads/portarias/tarifas_onibus_2026.pdf
 
@@ -1148,7 +1148,7 @@ Tarifa zero em São Gonçalo: Ônibus municipais grátis das 7h às 18h nos dias
 
 ### São João da Barra (RJ)
 
-Em São João da Barra (RJ), o ônibus é gratuito (tarifa zero), segundo a publicação oficial (Prefeitura de São João da Barra, notícias de 29/09/2026 e 14/10/2026); valor conferido em 18/10/2026 pela Base Nacional de Tarifas do Transporte Público da Otimiza.pro.
+Em São João da Barra (RJ), o ônibus é gratuito (tarifa zero), segundo a publicação oficial (Prefeitura de São João da Barra, notícias de 29/09/2026 e 14/10/2026); valor conferido em 18/10/2026 pela Base Nacional de Tarifas e Integrações de VT da Otimiza.pro.
 
 Fonte oficial: https://www.sjb.rj.gov.br/site/noticia/renovacao_da_frota_do_transporte_gratuito_prossegue_em_sjb/17635
 
@@ -1156,7 +1156,7 @@ Tarifa zero em São João da Barra: Transporte público municipal gratuito para 
 
 ### Saquarema (RJ)
 
-Em Saquarema (RJ), a passagem de ônibus custa de R$ 2,00 a R$ 6,88 (varia com o cartão ou o meio de pagamento) desde 01/04/2026, conforme Decreto nº 3.196/2026; valor conferido em 18/10/2026 pela Base Nacional de Tarifas do Transporte Público da Otimiza.pro.
+Em Saquarema (RJ), a passagem de ônibus custa de R$ 2,00 a R$ 6,88 (varia com o cartão ou o meio de pagamento) desde 01/04/2026, conforme Decreto nº 3.196/2026; valor conferido em 18/10/2026 pela Base Nacional de Tarifas e Integrações de VT da Otimiza.pro.
 
 Fonte oficial: https://transparencia.saquarema.rj.gov.br/wp-content/uploads/2026/04/DEC-3196-2026.pdf
 
@@ -1166,7 +1166,7 @@ Tarifa zero em Saquarema: Transporte coletivo municipal gratuito das 6h às 20h 
 
 ### Volta Redonda (RJ)
 
-Em Volta Redonda (RJ), a passagem de ônibus custa de R$ 3,80 a R$ 5,50 (varia com o cartão ou o meio de pagamento) desde 02/02/2025, segundo a publicação oficial (Prefeitura de Volta Redonda, 28/01/2025); valor conferido em 17/10/2026 pela Base Nacional de Tarifas do Transporte Público da Otimiza.pro.
+Em Volta Redonda (RJ), a passagem de ônibus custa de R$ 3,80 a R$ 5,50 (varia com o cartão ou o meio de pagamento) desde 02/02/2025, segundo a publicação oficial (Prefeitura de Volta Redonda, 28/01/2025); valor conferido em 17/10/2026 pela Base Nacional de Tarifas e Integrações de VT da Otimiza.pro.
 
 Fonte oficial: https://www.voltaredonda.rj.gov.br/comunicacao/noticias/41-stmu/9305-volta-redonda-reduz-para-r$-3,80-a-passagem-de-onibus-para-quem-tem-vr-card/
 
@@ -1176,9 +1176,9 @@ Integração em Volta Redonda: Programa Viaje +: dois ônibus municipais pagando
 
 ### Natal (RN)
 
-Em Natal (RN), a passagem de ônibus custa R$ 5,20 desde 29/03/2026, conforme Decreto 13.686/2026; valor conferido em 17/10/2026 pela Base Nacional de Tarifas do Transporte Público da Otimiza.pro.
+Em Natal (RN), a passagem de ônibus custa R$ 5,20 desde 29/03/2026, conforme Decreto 13.686/2026; valor conferido em 17/10/2026 pela Base Nacional de Tarifas e Integrações de VT da Otimiza.pro.
 
-Em 2021, o sistema de ônibus de Natal (RN) levou 48 milhões de passageiros, segundo dados declarados pelo município à Pesquisa Nacional de Mobilidade Urbana (PEMOB), do governo federal. A idade média da frota de ônibus era de 10 anos em 2021. Dados consolidados pela Base Nacional de Tarifas do Transporte Público da Otimiza.pro.
+Em 2021, o sistema de ônibus de Natal (RN) levou 48 milhões de passageiros, segundo dados declarados pelo município à Pesquisa Nacional de Mobilidade Urbana (PEMOB), do governo federal. A idade média da frota de ônibus era de 10 anos em 2021. Dados consolidados pela Base Nacional de Tarifas e Integrações de VT da Otimiza.pro.
 
 Fonte oficial: https://novaarearestrita.tce.rn.gov.br/AreaRestrita/Legislacao/download/Portarias_tce_rn/2_000107_2026_cgp_07.04.2026.1106.pdf
 
@@ -1192,9 +1192,9 @@ Tarifa zero em Natal: domingo grátis nas linhas urbanas com o cartão NuBus; fe
 
 ### Porto Velho (RO)
 
-Em Porto Velho (RO), a passagem de ônibus custa R$ 3,00 desde 24/03/2025, conforme Decreto 20.846/2025; valor conferido em 17/10/2026 pela Base Nacional de Tarifas do Transporte Público da Otimiza.pro.
+Em Porto Velho (RO), a passagem de ônibus custa R$ 3,00 desde 24/03/2025, conforme Decreto 20.846/2025; valor conferido em 17/10/2026 pela Base Nacional de Tarifas e Integrações de VT da Otimiza.pro.
 
-Em 2018, o sistema de ônibus de Porto Velho (RO) levou 18 milhões de passageiros, segundo dados declarados pelo município à Pesquisa Nacional de Mobilidade Urbana (PEMOB), do governo federal. A idade média da frota de ônibus era de 6 anos em 2021. Dados consolidados pela Base Nacional de Tarifas do Transporte Público da Otimiza.pro.
+Em 2018, o sistema de ônibus de Porto Velho (RO) levou 18 milhões de passageiros, segundo dados declarados pelo município à Pesquisa Nacional de Mobilidade Urbana (PEMOB), do governo federal. A idade média da frota de ônibus era de 6 anos em 2021. Dados consolidados pela Base Nacional de Tarifas e Integrações de VT da Otimiza.pro.
 
 Fonte oficial: https://agencia.portovelho.ro.gov.br/uploads/editor/files/Fixa%20os%20valores%20das%20Tarifas%20P%C3%BAblicas%20do%20Servi%C3%A7o%20de%20Transporte%20Coletivo%20Urbano.pdf
 
@@ -1204,7 +1204,7 @@ Integração em Porto Velho: 90 min, só num sentido e só com cartão
 
 ### Vilhena (RO)
 
-Em Vilhena (RO), o ônibus é gratuito (tarifa zero) desde 08/2025, segundo a publicação oficial (Prefeitura de Vilhena, notícias oficiais de 14/08/2025 e 02/10/2026); valor conferido em 17/10/2026 pela Base Nacional de Tarifas do Transporte Público da Otimiza.pro.
+Em Vilhena (RO), o ônibus é gratuito (tarifa zero) desde 08/2025, segundo a publicação oficial (Prefeitura de Vilhena, notícias oficiais de 14/08/2025 e 02/10/2026); valor conferido em 17/10/2026 pela Base Nacional de Tarifas e Integrações de VT da Otimiza.pro.
 
 Fonte oficial: https://vilhena.ro.gov.br/vilhena-implanta-tarifa-zero-no-transporte-urbano-coletivo/
 
@@ -1216,7 +1216,7 @@ Tarifa zero em Vilhena: Transporte coletivo urbano gratuito para toda a populaç
 
 ### Boa Vista (RR)
 
-Em Boa Vista (RR), a passagem de ônibus custa R$ 5,50 desde 01/01/2024, conforme Decreto 36E/2025 mantém o valor; valor conferido em 17/10/2026 pela Base Nacional de Tarifas do Transporte Público da Otimiza.pro.
+Em Boa Vista (RR), a passagem de ônibus custa R$ 5,50 desde 01/01/2024, conforme Decreto 36E/2025 mantém o valor; valor conferido em 17/10/2026 pela Base Nacional de Tarifas e Integrações de VT da Otimiza.pro.
 
 Fonte oficial: https://www.normasbrasil.com.br/norma/decreto-36-2025-boa-vista_477425.html
 
@@ -1228,7 +1228,7 @@ Integração em Boa Vista: Integração entre bairros com o cartão: quem usa o 
 
 ### Alvorada (RS)
 
-Em Alvorada (RS), a passagem de ônibus custa de R$ 8,30 a R$ 9,45 (varia com o tipo de linha) desde 02/06/2026, segundo a operadora (SOUL, página de tarifas e Metroplan, aviso de 26/05/2026); valor conferido em 17/10/2026 pela Base Nacional de Tarifas do Transporte Público da Otimiza.pro.
+Em Alvorada (RS), a passagem de ônibus custa de R$ 8,30 a R$ 9,45 (varia com o tipo de linha) desde 02/06/2026, segundo a operadora (SOUL, página de tarifas e Metroplan, aviso de 26/05/2026); valor conferido em 17/10/2026 pela Base Nacional de Tarifas e Integrações de VT da Otimiza.pro.
 
 Fonte oficial: http://www.soul.com.br/tarifas/
 
@@ -1236,13 +1236,13 @@ Integração em Alvorada: SOUL com SOUL: duas linhas no mesmo sentido em até 1h
 
 ### Bento Gonçalves (RS)
 
-Em Bento Gonçalves (RS), a passagem de ônibus custa R$ 6,60, conforme Decreto nº 13.352/2026; valor conferido em 17/10/2026 pela Base Nacional de Tarifas do Transporte Público da Otimiza.pro.
+Em Bento Gonçalves (RS), a passagem de ônibus custa R$ 6,60, conforme Decreto nº 13.352/2026; valor conferido em 17/10/2026 pela Base Nacional de Tarifas e Integrações de VT da Otimiza.pro.
 
 Fonte oficial: https://www.bentogoncalves.rs.gov.br/prefeitura-subsidia-transporte-coletivo-e-mantem-tarifa-em-r-660/
 
 ### Cachoeirinha (RS)
 
-Ainda não há tarifa de ônibus conferida para Cachoeirinha (RS) na Base Nacional de Tarifas do Transporte Público da Otimiza.pro.
+Ainda não há tarifa de ônibus conferida para Cachoeirinha (RS) na Base Nacional de Tarifas e Integrações de VT da Otimiza.pro.
 
 Fonte oficial: https://www.teubilhete.com.br/upload/outro2/CODIGOSVTNOVO2.pdf
 
@@ -1250,9 +1250,9 @@ Vale-transporte em Cachoeirinha: cartão Cartão TEU! Vale-Transporte; emitido p
 
 ### Canoas (RS)
 
-Em Canoas (RS), o ônibus é gratuito (tarifa zero) desde 05/2024, conforme Decreto municipal assinado em 27/02/2026 que torna o Passe Livre definitivo; valor conferido em 17/10/2026 pela Base Nacional de Tarifas do Transporte Público da Otimiza.pro.
+Em Canoas (RS), o ônibus é gratuito (tarifa zero) desde 05/2024, conforme Decreto municipal assinado em 27/02/2026 que torna o Passe Livre definitivo; valor conferido em 17/10/2026 pela Base Nacional de Tarifas e Integrações de VT da Otimiza.pro.
 
-Em 2021, o sistema de ônibus de Canoas (RS) levou 8 milhões de passageiros, segundo dados declarados pelo município à Pesquisa Nacional de Mobilidade Urbana (PEMOB), do governo federal. A idade média da frota de ônibus era de 10 anos em 2021. Dados consolidados pela Base Nacional de Tarifas do Transporte Público da Otimiza.pro.
+Em 2021, o sistema de ônibus de Canoas (RS) levou 8 milhões de passageiros, segundo dados declarados pelo município à Pesquisa Nacional de Mobilidade Urbana (PEMOB), do governo federal. A idade média da frota de ônibus era de 10 anos em 2021. Dados consolidados pela Base Nacional de Tarifas e Integrações de VT da Otimiza.pro.
 
 Fonte oficial: https://www.canoas.rs.gov.br/noticias/canoas-torna-o-passe-livre-definitivo-no-transporte-publico/
 
@@ -1260,9 +1260,9 @@ Tarifa zero em Canoas: Passe Livre universal no transporte coletivo municipal, s
 
 ### Caxias do Sul (RS)
 
-Em Caxias do Sul (RS), a passagem de ônibus custa de R$ 6,50 a R$ 9,00 (varia com o cartão ou o meio de pagamento) desde 01/01/2026, conforme Decreto nº 24.025/2025; valor conferido em 17/10/2026 pela Base Nacional de Tarifas do Transporte Público da Otimiza.pro. Quem usa vale-transporte paga R$ 8,30.
+Em Caxias do Sul (RS), a passagem de ônibus custa de R$ 6,50 a R$ 9,00 (varia com o cartão ou o meio de pagamento) desde 01/01/2026, conforme Decreto nº 24.025/2025; valor conferido em 17/10/2026 pela Base Nacional de Tarifas e Integrações de VT da Otimiza.pro. Quem usa vale-transporte paga R$ 8,30.
 
-Em 2021, o sistema de ônibus de Caxias do Sul (RS) levou 21 milhões de passageiros, segundo dados declarados pelo município à Pesquisa Nacional de Mobilidade Urbana (PEMOB), do governo federal. A idade média da frota de ônibus era de 6 anos em 2021. Dados consolidados pela Base Nacional de Tarifas do Transporte Público da Otimiza.pro.
+Em 2021, o sistema de ônibus de Caxias do Sul (RS) levou 21 milhões de passageiros, segundo dados declarados pelo município à Pesquisa Nacional de Mobilidade Urbana (PEMOB), do governo federal. A idade média da frota de ônibus era de 6 anos em 2021. Dados consolidados pela Base Nacional de Tarifas e Integrações de VT da Otimiza.pro.
 
 Fonte oficial: https://doe.caxias.rs.gov.br/site/download/5940
 
@@ -1270,7 +1270,7 @@ Integração em Caxias do Sul: Até três linhas dentro de uma hora pagando uma 
 
 ### Erechim (RS)
 
-Em Erechim (RS), a passagem de ônibus custa de R$ 5,50 a R$ 6,00 (varia com o cartão ou o meio de pagamento) desde 18/04/2024, segundo a publicação oficial (Prefeitura de Erechim, página Transporte e notícia de 17/04/2024); valor conferido em 18/10/2026 pela Base Nacional de Tarifas do Transporte Público da Otimiza.pro.
+Em Erechim (RS), a passagem de ônibus custa de R$ 5,50 a R$ 6,00 (varia com o cartão ou o meio de pagamento) desde 18/04/2024, segundo a publicação oficial (Prefeitura de Erechim, página Transporte e notícia de 17/04/2024); valor conferido em 18/10/2026 pela Base Nacional de Tarifas e Integrações de VT da Otimiza.pro.
 
 Fonte oficial: https://www.pmerechim.rs.gov.br/pagina/160/transporte
 
@@ -1278,9 +1278,9 @@ Vale-transporte em Erechim: cartão Carteira comum (cartão de transporte), que 
 
 ### Gravataí (RS)
 
-Em Gravataí (RS), a passagem de ônibus custa R$ 8,50 desde 09/05/2026, conforme Decreto Municipal nº 24.216; valor conferido em 17/10/2026 pela Base Nacional de Tarifas do Transporte Público da Otimiza.pro.
+Em Gravataí (RS), a passagem de ônibus custa R$ 8,50 desde 09/05/2026, conforme Decreto Municipal nº 24.216; valor conferido em 17/10/2026 pela Base Nacional de Tarifas e Integrações de VT da Otimiza.pro.
 
-Em 2018, o sistema de ônibus de Gravataí (RS) levou 7,3 milhões de passageiros, segundo dados declarados pelo município à Pesquisa Nacional de Mobilidade Urbana (PEMOB), do governo federal. A idade média da frota de ônibus era de 7 anos em 2018. Dados consolidados pela Base Nacional de Tarifas do Transporte Público da Otimiza.pro.
+Em 2018, o sistema de ônibus de Gravataí (RS) levou 7,3 milhões de passageiros, segundo dados declarados pelo município à Pesquisa Nacional de Mobilidade Urbana (PEMOB), do governo federal. A idade média da frota de ônibus era de 7 anos em 2018. Dados consolidados pela Base Nacional de Tarifas e Integrações de VT da Otimiza.pro.
 
 Fonte oficial: https://www.sogil.com.br/tarifas
 
@@ -1288,7 +1288,7 @@ Integração em Gravataí: Integração tarifária entre linhas da SOGIL com o c
 
 ### Lajeado (RS)
 
-Em Lajeado (RS), a passagem de ônibus custa R$ 6,00 desde 20/04/2026, segundo a publicação oficial (Prefeitura de Lajeado, notícia de 16/04/2026); valor conferido em 18/10/2026 pela Base Nacional de Tarifas do Transporte Público da Otimiza.pro.
+Em Lajeado (RS), a passagem de ônibus custa R$ 6,00 desde 20/04/2026, segundo a publicação oficial (Prefeitura de Lajeado, notícia de 16/04/2026); valor conferido em 18/10/2026 pela Base Nacional de Tarifas e Integrações de VT da Otimiza.pro.
 
 Fonte oficial: https://www.lajeado.rs.gov.br/noticia/14360/892
 
@@ -1296,7 +1296,7 @@ Vale-transporte em Lajeado: cartão cartão inteligente do Tio Lajeado, emitido 
 
 ### Passo Fundo (RS)
 
-Em Passo Fundo (RS), a passagem de ônibus custa R$ 6,00 desde 01/11/2025, conforme Decreto nº 150/2025; valor conferido em 18/10/2026 pela Base Nacional de Tarifas do Transporte Público da Otimiza.pro.
+Em Passo Fundo (RS), a passagem de ônibus custa R$ 6,00 desde 01/11/2025, conforme Decreto nº 150/2025; valor conferido em 18/10/2026 pela Base Nacional de Tarifas e Integrações de VT da Otimiza.pro.
 
 Fonte oficial: https://www.pmpf.rs.gov.br/mobipf/sistema-de-transporte-coletivo/
 
@@ -1304,17 +1304,17 @@ Vale-transporte em Passo Fundo: cartão cartão do Transporte Público de Passo 
 
 ### Pelotas (RS)
 
-Em Pelotas (RS), a passagem de ônibus custa R$ 6,25 desde 03/03/2026, segundo a publicação oficial (Prefeitura de Pelotas, notícia de 02/03/2026); valor conferido em 17/10/2026 pela Base Nacional de Tarifas do Transporte Público da Otimiza.pro.
+Em Pelotas (RS), a passagem de ônibus custa R$ 6,25 desde 03/03/2026, segundo a publicação oficial (Prefeitura de Pelotas, notícia de 02/03/2026); valor conferido em 17/10/2026 pela Base Nacional de Tarifas e Integrações de VT da Otimiza.pro.
 
-Em 2018, o sistema de ônibus de Pelotas (RS) levou 33 milhões de passageiros, segundo dados declarados pelo município à Pesquisa Nacional de Mobilidade Urbana (PEMOB), do governo federal. A idade média da frota de ônibus era de 5,2 anos em 2018. Dados consolidados pela Base Nacional de Tarifas do Transporte Público da Otimiza.pro.
+Em 2018, o sistema de ônibus de Pelotas (RS) levou 33 milhões de passageiros, segundo dados declarados pelo município à Pesquisa Nacional de Mobilidade Urbana (PEMOB), do governo federal. A idade média da frota de ônibus era de 5,2 anos em 2018. Dados consolidados pela Base Nacional de Tarifas e Integrações de VT da Otimiza.pro.
 
 Fonte oficial: https://www.pelotas.com.br/noticia/tarifa-do-transporte-publico-e-reajustada-abaixo-da-inflacao
 
 ### Porto Alegre (RS)
 
-Em Porto Alegre (RS), a passagem de ônibus custa R$ 5,30 desde 19/02/2026, conforme Decreto 23.669/2026; valor conferido em 17/10/2026 pela Base Nacional de Tarifas do Transporte Público da Otimiza.pro.
+Em Porto Alegre (RS), a passagem de ônibus custa R$ 5,30 desde 19/02/2026, conforme Decreto 23.669/2026; valor conferido em 17/10/2026 pela Base Nacional de Tarifas e Integrações de VT da Otimiza.pro.
 
-Em Porto Alegre (RS), o GTFS oficial mais recente da EPTC, de 18/09/2025, lista 395 linhas de ônibus. Em 2021, o sistema de ônibus levou 109 milhões de passageiros, segundo dados declarados pelo município à Pesquisa Nacional de Mobilidade Urbana (PEMOB), do governo federal. A idade média da frota de ônibus era de 7,9 anos em 2021. Dados consolidados pela Base Nacional de Tarifas do Transporte Público da Otimiza.pro.
+Em Porto Alegre (RS), o GTFS oficial mais recente da EPTC, de 18/09/2025, lista 395 linhas de ônibus. Em 2021, o sistema de ônibus levou 109 milhões de passageiros, segundo dados declarados pelo município à Pesquisa Nacional de Mobilidade Urbana (PEMOB), do governo federal. A idade média da frota de ônibus era de 7,9 anos em 2021. Dados consolidados pela Base Nacional de Tarifas e Integrações de VT da Otimiza.pro.
 
 Fonte oficial: https://prefeitura.poa.br/transporte
 
@@ -1328,7 +1328,7 @@ Integração em Porto Alegre: 2º ônibus com 50% de desconto até 30 min após 
 
 ### Rio Grande (RS)
 
-Em Rio Grande (RS), a passagem de ônibus custa de R$ 5,68 a R$ 6,25 (varia com o cartão ou o meio de pagamento) desde 26/04/2026, segundo a publicação oficial (Prefeitura do Rio Grande, notícia de 24/04/2026); valor conferido em 18/10/2026 pela Base Nacional de Tarifas do Transporte Público da Otimiza.pro.
+Em Rio Grande (RS), a passagem de ônibus custa de R$ 5,68 a R$ 6,25 (varia com o cartão ou o meio de pagamento) desde 26/04/2026, segundo a publicação oficial (Prefeitura do Rio Grande, notícia de 24/04/2026); valor conferido em 18/10/2026 pela Base Nacional de Tarifas e Integrações de VT da Otimiza.pro.
 
 Fonte oficial: https://www2.riogrande.rs.gov.br/noticia/52289/52289
 
@@ -1336,7 +1336,7 @@ Vale-transporte em Rio Grande: cartão Cartão Rio Grande na modalidade Vale-tra
 
 ### Santa Cruz do Sul (RS)
 
-Em Santa Cruz do Sul (RS), a passagem de ônibus custa R$ 5,80 desde 01/04/2026, conforme Decreto nº 12.774/2026; valor conferido em 18/10/2026 pela Base Nacional de Tarifas do Transporte Público da Otimiza.pro.
+Em Santa Cruz do Sul (RS), a passagem de ônibus custa R$ 5,80 desde 01/04/2026, conforme Decreto nº 12.774/2026; valor conferido em 18/10/2026 pela Base Nacional de Tarifas e Integrações de VT da Otimiza.pro.
 
 Fonte oficial: https://www.santacruz.rs.gov.br/decretos/docs/DECRETOS_2026/DECRETO_12774_Transporte_Coletivo_Urbano_rb.pdf
 
@@ -1346,9 +1346,9 @@ Integração em Santa Cruz do Sul: Passagem Integrada: com cartão cadastrado no
 
 ### Viamão (RS)
 
-Em Viamão (RS), a passagem de ônibus custa de R$ 5,50 a R$ 9,10 (varia com o tipo de linha) desde 02/06/2026, segundo a operadora (Empresa Viamão, tabela 'Tarifa Municipal Urbano', com logotipos da Prefeitura e da Secretaria de Mobilidade Urbana); valor conferido em 17/10/2026 pela Base Nacional de Tarifas do Transporte Público da Otimiza.pro.
+Em Viamão (RS), a passagem de ônibus custa de R$ 5,50 a R$ 9,10 (varia com o tipo de linha) desde 02/06/2026, segundo a operadora (Empresa Viamão, tabela 'Tarifa Municipal Urbano', com logotipos da Prefeitura e da Secretaria de Mobilidade Urbana); valor conferido em 17/10/2026 pela Base Nacional de Tarifas e Integrações de VT da Otimiza.pro.
 
-Em 2021, o sistema de ônibus de Viamão (RS) levou 2,9 milhões de passageiros, segundo dados declarados pelo município à Pesquisa Nacional de Mobilidade Urbana (PEMOB), do governo federal. A idade média da frota de ônibus era de 9,8 anos em 2021. Dados consolidados pela Base Nacional de Tarifas do Transporte Público da Otimiza.pro.
+Em 2021, o sistema de ônibus de Viamão (RS) levou 2,9 milhões de passageiros, segundo dados declarados pelo município à Pesquisa Nacional de Mobilidade Urbana (PEMOB), do governo federal. A idade média da frota de ônibus era de 9,8 anos em 2021. Dados consolidados pela Base Nacional de Tarifas e Integrações de VT da Otimiza.pro.
 
 Fonte oficial: https://www.empresaviamao.com.br/valores-tarifas
 
@@ -1356,7 +1356,7 @@ Fonte oficial: https://www.empresaviamao.com.br/valores-tarifas
 
 ### Balneário Camboriú (SC)
 
-Em Balneário Camboriú (SC), o ônibus é gratuito (tarifa zero) desde 12/06/2023, conforme Lei Municipal nº 4.765/2023; valor conferido em 17/10/2026 pela Base Nacional de Tarifas do Transporte Público da Otimiza.pro.
+Em Balneário Camboriú (SC), o ônibus é gratuito (tarifa zero) desde 12/06/2023, conforme Lei Municipal nº 4.765/2023; valor conferido em 17/10/2026 pela Base Nacional de Tarifas e Integrações de VT da Otimiza.pro.
 
 Fonte oficial: https://antigo.bc.sc.gov.br/arquivos/licitacao/CR2KC4XT.pdf
 
@@ -1364,9 +1364,9 @@ Tarifa zero em Balneário Camboriú: Transporte coletivo urbano municipal gratui
 
 ### Blumenau (SC)
 
-Em Blumenau (SC), a passagem de ônibus custa de R$ 5,50 a R$ 7,00 (varia com o cartão ou o meio de pagamento) desde 23/03/2026, segundo a operadora pública (BluMob, página Tarifa); valor conferido em 18/10/2026 pela Base Nacional de Tarifas do Transporte Público da Otimiza.pro.
+Em Blumenau (SC), a passagem de ônibus custa de R$ 5,50 a R$ 7,00 (varia com o cartão ou o meio de pagamento) desde 23/03/2026, segundo a operadora pública (BluMob, página Tarifa); valor conferido em 18/10/2026 pela Base Nacional de Tarifas e Integrações de VT da Otimiza.pro.
 
-Em 2018, o sistema de ônibus de Blumenau (SC) levou 26 milhões de passageiros, segundo dados declarados pelo município à Pesquisa Nacional de Mobilidade Urbana (PEMOB), do governo federal. A idade média da frota de ônibus era de 4 anos em 2021. Dados consolidados pela Base Nacional de Tarifas do Transporte Público da Otimiza.pro.
+Em 2018, o sistema de ônibus de Blumenau (SC) levou 26 milhões de passageiros, segundo dados declarados pelo município à Pesquisa Nacional de Mobilidade Urbana (PEMOB), do governo federal. A idade média da frota de ônibus era de 4 anos em 2021. Dados consolidados pela Base Nacional de Tarifas e Integrações de VT da Otimiza.pro.
 
 Fonte oficial: https://blumob.com.br/tarifa/
 
@@ -1374,7 +1374,7 @@ Vale-transporte em Blumenau: cartão Cartão Vale Transporte (Trabalhador) da Bl
 
 ### Brusque (SC)
 
-Em Brusque (SC), a passagem de ônibus custa de R$ 3,50 a R$ 4,70 (varia com o cartão ou o meio de pagamento) desde 09/02/2026, conforme Decreto nº 10.592/2026; valor conferido em 17/10/2026 pela Base Nacional de Tarifas do Transporte Público da Otimiza.pro.
+Em Brusque (SC), a passagem de ônibus custa de R$ 3,50 a R$ 4,70 (varia com o cartão ou o meio de pagamento) desde 09/02/2026, conforme Decreto nº 10.592/2026; valor conferido em 17/10/2026 pela Base Nacional de Tarifas e Integrações de VT da Otimiza.pro.
 
 Fonte oficial: https://diariomunicipal.sc.gov.br/atos/7975645
 
@@ -1382,7 +1382,7 @@ Tarifa zero em Brusque: Gratuidade no transporte coletivo aos domingos para toda
 
 ### Chapecó (SC)
 
-Em Chapecó (SC), a passagem de ônibus custa R$ 5,00 desde 01/09/2025, segundo a publicação oficial (Prefeitura de Chapecó, notícia de 29/08/2025); valor conferido em 17/10/2026 pela Base Nacional de Tarifas do Transporte Público da Otimiza.pro.
+Em Chapecó (SC), a passagem de ônibus custa R$ 5,00 desde 01/09/2025, segundo a publicação oficial (Prefeitura de Chapecó, notícia de 29/08/2025); valor conferido em 17/10/2026 pela Base Nacional de Tarifas e Integrações de VT da Otimiza.pro.
 
 Fonte oficial: https://www.chapeco.sc.gov.br/noticia/10908/prefeitura-de-chapeco-concede-reajuste-de-apenas-3-no-transporte-coletivo
 
@@ -1392,7 +1392,7 @@ Integração em Chapecó: Integração temporal para usuários de cartão de qua
 
 ### Concórdia (SC)
 
-Em Concórdia (SC), a passagem de ônibus custa R$ 1,50 desde 01/05/2025, conforme Decreto nº 9.316/2025; valor conferido em 18/10/2026 pela Base Nacional de Tarifas do Transporte Público da Otimiza.pro.
+Em Concórdia (SC), a passagem de ônibus custa R$ 1,50 desde 01/05/2025, conforme Decreto nº 9.316/2025; valor conferido em 18/10/2026 pela Base Nacional de Tarifas e Integrações de VT da Otimiza.pro.
 
 Fonte oficial: https://diariomunicipal.sc.gov.br/arquivosbd/atos/2025/05/1746100605_9316.doc
 
@@ -1404,7 +1404,7 @@ Tarifa zero em Concórdia: Transporte gratuito em 04/10/2026, dia de eleição (
 
 ### Criciúma (SC)
 
-Em Criciúma (SC), a passagem de ônibus custa R$ 5,25 desde 02/02/2025, conforme Decreto SG/nº 256/25; valor conferido em 17/10/2026 pela Base Nacional de Tarifas do Transporte Público da Otimiza.pro.
+Em Criciúma (SC), a passagem de ônibus custa R$ 5,25 desde 02/02/2025, conforme Decreto SG/nº 256/25; valor conferido em 17/10/2026 pela Base Nacional de Tarifas e Integrações de VT da Otimiza.pro.
 
 Fonte oficial: https://cribus.com.br/tarifas
 
@@ -1412,9 +1412,9 @@ Vale-transporte em Criciúma: cartão CriciúmaCard Vale-Transporte; emitido por
 
 ### Florianópolis (SC)
 
-Em Florianópolis (SC), a passagem de ônibus custa de R$ 3,85 a R$ 7,70 (varia com o cartão ou o meio de pagamento) desde 01/01/2026, conforme Decreto nº 28.860/2025; valor conferido em 18/10/2026 pela Base Nacional de Tarifas do Transporte Público da Otimiza.pro. Quem usa vale-transporte paga R$ 7,20.
+Em Florianópolis (SC), a passagem de ônibus custa de R$ 3,85 a R$ 7,70 (varia com o cartão ou o meio de pagamento) desde 01/01/2026, conforme Decreto nº 28.860/2025; valor conferido em 18/10/2026 pela Base Nacional de Tarifas e Integrações de VT da Otimiza.pro. Quem usa vale-transporte paga R$ 7,20.
 
-Em 2018, o sistema de ônibus de Florianópolis (SC) levou 64 milhões de passageiros, segundo dados declarados pelo município à Pesquisa Nacional de Mobilidade Urbana (PEMOB), do governo federal. A idade média da frota de ônibus era de 5,8 anos em 2018. Dados consolidados pela Base Nacional de Tarifas do Transporte Público da Otimiza.pro.
+Em 2018, o sistema de ônibus de Florianópolis (SC) levou 64 milhões de passageiros, segundo dados declarados pelo município à Pesquisa Nacional de Mobilidade Urbana (PEMOB), do governo federal. A idade média da frota de ônibus era de 5,8 anos em 2018. Dados consolidados pela Base Nacional de Tarifas e Integrações de VT da Otimiza.pro.
 
 Fonte oficial: https://diariomunicipal.sc.gov.br/arquivosbd/atos/2025/12/1767204593_decreto_n._28.860.pdf
 
@@ -1424,7 +1424,7 @@ Integração em Florianópolis: Com cartão de transporte, integrações sem lim
 
 ### Itajaí (SC)
 
-Em Itajaí (SC), a passagem de ônibus custa de R$ 4,30 a R$ 156,00 (varia com o cartão ou o meio de pagamento) desde 01/11/2023, conforme Decreto nº 13.063/2023; valor conferido em 18/10/2026 pela Base Nacional de Tarifas do Transporte Público da Otimiza.pro. Quem usa vale-transporte paga R$ 5,13.
+Em Itajaí (SC), a passagem de ônibus custa de R$ 4,30 a R$ 156,00 (varia com o cartão ou o meio de pagamento) desde 01/11/2023, conforme Decreto nº 13.063/2023; valor conferido em 18/10/2026 pela Base Nacional de Tarifas e Integrações de VT da Otimiza.pro. Quem usa vale-transporte paga R$ 5,13.
 
 Fonte oficial: https://intranet2.itajai.sc.gov.br/public/jornal-municipio/jornais/jornal_2023_2731_2683.pdf
 
@@ -1436,15 +1436,15 @@ Tarifa zero em Itajaí: Gratuidade em todas as linhas e terminais nos dias de vo
 
 ### Jaraguá do Sul (SC)
 
-Em Jaraguá do Sul (SC), a passagem de ônibus custa de R$ 5,25 a R$ 6,00 (varia com o cartão ou o meio de pagamento) desde 01/01/2026, conforme Decreto nº 19.940/2025; valor conferido em 17/10/2026 pela Base Nacional de Tarifas do Transporte Público da Otimiza.pro.
+Em Jaraguá do Sul (SC), a passagem de ônibus custa de R$ 5,25 a R$ 6,00 (varia com o cartão ou o meio de pagamento) desde 01/01/2026, conforme Decreto nº 19.940/2025; valor conferido em 17/10/2026 pela Base Nacional de Tarifas e Integrações de VT da Otimiza.pro.
 
 Fonte oficial: https://diariomunicipal.sc.gov.br/atos/7868202
 
 ### Joinville (SC)
 
-Em Joinville (SC), a passagem de ônibus custa R$ 6,50 desde 01/01/2026, segundo a publicação oficial (Prefeitura de Joinville, notícia de 19/12/2025); valor conferido em 17/10/2026 pela Base Nacional de Tarifas do Transporte Público da Otimiza.pro.
+Em Joinville (SC), a passagem de ônibus custa R$ 6,50 desde 01/01/2026, segundo a publicação oficial (Prefeitura de Joinville, notícia de 19/12/2025); valor conferido em 17/10/2026 pela Base Nacional de Tarifas e Integrações de VT da Otimiza.pro.
 
-Em 2017, o sistema de ônibus de Joinville (SC) levou 3,4 milhões de passageiros, segundo dados declarados pelo município à Pesquisa Nacional de Mobilidade Urbana (PEMOB), do governo federal. A idade média da frota de ônibus era de 5,9 anos em 2017. Dados consolidados pela Base Nacional de Tarifas do Transporte Público da Otimiza.pro.
+Em 2017, o sistema de ônibus de Joinville (SC) levou 3,4 milhões de passageiros, segundo dados declarados pelo município à Pesquisa Nacional de Mobilidade Urbana (PEMOB), do governo federal. A idade média da frota de ônibus era de 5,9 anos em 2017. Dados consolidados pela Base Nacional de Tarifas e Integrações de VT da Otimiza.pro.
 
 Fonte oficial: https://www.joinville.sc.gov.br/noticias/transporte-coletivo-e-coleta-de-lixo-terao-reajuste-abaixo-da-inflacao-em-2026/
 
@@ -1452,19 +1452,19 @@ Integração em Joinville: O Cartão Ideal permite integração temporal
 
 ### Lages (SC)
 
-Em Lages (SC), a passagem de ônibus custa de R$ 4,90 a R$ 5,25 (varia com o cartão ou o meio de pagamento) desde 01/01/2026, conforme Decreto nº 23.112/2025; valor conferido em 17/10/2026 pela Base Nacional de Tarifas do Transporte Público da Otimiza.pro.
+Em Lages (SC), a passagem de ônibus custa de R$ 4,90 a R$ 5,25 (varia com o cartão ou o meio de pagamento) desde 01/01/2026, conforme Decreto nº 23.112/2025; valor conferido em 17/10/2026 pela Base Nacional de Tarifas e Integrações de VT da Otimiza.pro.
 
 Fonte oficial: https://diariomunicipal.sc.gov.br/atos/7865602
 
 ### Palhoça (SC)
 
-Em Palhoça (SC), a passagem de ônibus custa de R$ 6,66 a R$ 7,00 (varia com o cartão ou o meio de pagamento) desde 24/07/2026, conforme Decreto nº 3.966/2026; valor conferido em 17/10/2026 pela Base Nacional de Tarifas do Transporte Público da Otimiza.pro.
+Em Palhoça (SC), a passagem de ônibus custa de R$ 6,66 a R$ 7,00 (varia com o cartão ou o meio de pagamento) desde 24/07/2026, conforme Decreto nº 3.966/2026; valor conferido em 17/10/2026 pela Base Nacional de Tarifas e Integrações de VT da Otimiza.pro.
 
 Fonte oficial: https://diariomunicipal.sc.gov.br/atos/8543402
 
 ### Rio do Sul (SC)
 
-Em Rio do Sul (SC), a passagem de ônibus custa R$ 6,10 desde 25/07/2025, conforme Decreto nº 14.466/2025; valor conferido em 18/10/2026 pela Base Nacional de Tarifas do Transporte Público da Otimiza.pro.
+Em Rio do Sul (SC), a passagem de ônibus custa R$ 6,10 desde 25/07/2025, conforme Decreto nº 14.466/2025; valor conferido em 18/10/2026 pela Base Nacional de Tarifas e Integrações de VT da Otimiza.pro.
 
 Fonte oficial: https://onibuscircular.com.br/aviso-de-reajuste-tarifario-transporte-coletivo-intermunicipal/
 
@@ -1476,15 +1476,15 @@ Tarifa zero em Rio do Sul: Transporte coletivo municipal e intermunicipal gratui
 
 ### São José (SC)
 
-Em São José (SC), a passagem de ônibus custa R$ 6,90 desde 22/07/2026, conforme Decreto nº 24716/2026; valor conferido em 17/10/2026 pela Base Nacional de Tarifas do Transporte Público da Otimiza.pro.
+Em São José (SC), a passagem de ônibus custa R$ 6,90 desde 22/07/2026, conforme Decreto nº 24716/2026; valor conferido em 17/10/2026 pela Base Nacional de Tarifas e Integrações de VT da Otimiza.pro.
 
-Em 2021, o sistema de ônibus de São José (SC) levou 2,3 milhões de passageiros, segundo dados declarados pelo município à Pesquisa Nacional de Mobilidade Urbana (PEMOB), do governo federal. Dados consolidados pela Base Nacional de Tarifas do Transporte Público da Otimiza.pro.
+Em 2021, o sistema de ônibus de São José (SC) levou 2,3 milhões de passageiros, segundo dados declarados pelo município à Pesquisa Nacional de Mobilidade Urbana (PEMOB), do governo federal. Dados consolidados pela Base Nacional de Tarifas e Integrações de VT da Otimiza.pro.
 
 Fonte oficial: https://diariomunicipal.sc.gov.br/atos/8531985
 
 ### Tubarão (SC)
 
-Em Tubarão (SC), a passagem de ônibus custa de R$ 4,84 a R$ 5,00 (varia com o cartão ou o meio de pagamento) desde 02/06/2022, conforme Decreto nº 6.516/2022; valor conferido em 17/10/2026 pela Base Nacional de Tarifas do Transporte Público da Otimiza.pro.
+Em Tubarão (SC), a passagem de ônibus custa de R$ 4,84 a R$ 5,00 (varia com o cartão ou o meio de pagamento) desde 02/06/2022, conforme Decreto nº 6.516/2022; valor conferido em 17/10/2026 pela Base Nacional de Tarifas e Integrações de VT da Otimiza.pro.
 
 Fonte oficial: https://diariomunicipal.sc.gov.br/atos/3942796
 
@@ -1492,9 +1492,9 @@ Fonte oficial: https://diariomunicipal.sc.gov.br/atos/3942796
 
 ### Aracaju (SE)
 
-Em Aracaju (SE), a passagem de ônibus custa R$ 4,50 desde 15/05/2022, segundo a publicação oficial (SMTT); valor conferido em 17/10/2026 pela Base Nacional de Tarifas do Transporte Público da Otimiza.pro.
+Em Aracaju (SE), a passagem de ônibus custa R$ 4,50 desde 15/05/2022, segundo a publicação oficial (SMTT); valor conferido em 17/10/2026 pela Base Nacional de Tarifas e Integrações de VT da Otimiza.pro.
 
-Em 2021, o sistema de ônibus de Aracaju (SE) levou 72 milhões de passageiros, segundo dados declarados pelo município à Pesquisa Nacional de Mobilidade Urbana (PEMOB), do governo federal. A idade média da frota de ônibus era de 10,4 anos em 2021. Dados consolidados pela Base Nacional de Tarifas do Transporte Público da Otimiza.pro.
+Em 2021, o sistema de ônibus de Aracaju (SE) levou 72 milhões de passageiros, segundo dados declarados pelo município à Pesquisa Nacional de Mobilidade Urbana (PEMOB), do governo federal. A idade média da frota de ônibus era de 10,4 anos em 2021. Dados consolidados pela Base Nacional de Tarifas e Integrações de VT da Otimiza.pro.
 
 Fonte oficial: https://smtt.aracaju.se.gov.br/prefeitura-de-aracaju-autoriza-reajuste-de-125-na-tarifa-do-transporte-coletivo/
 
@@ -1504,7 +1504,7 @@ Integração em Aracaju: nos terminais de integração; com Socorro, São Crist�
 
 ### Nossa Senhora do Socorro (SE)
 
-Em Nossa Senhora do Socorro (SE), a passagem de ônibus custa R$ 4,50 desde 15/05/2022, conforme Resolução SMTT nº 01/2026; valor conferido em 17/10/2026 pela Base Nacional de Tarifas do Transporte Público da Otimiza.pro.
+Em Nossa Senhora do Socorro (SE), a passagem de ônibus custa R$ 4,50 desde 15/05/2022, conforme Resolução SMTT nº 01/2026; valor conferido em 17/10/2026 pela Base Nacional de Tarifas e Integrações de VT da Otimiza.pro.
 
 Fonte oficial: https://smtt.aracaju.se.gov.br/noticias/prefeitura-amplia-subsidio-e-mantem-tarifa-do-transporte-coletivo-congelada-em-r-450/
 
@@ -1512,7 +1512,7 @@ Fonte oficial: https://smtt.aracaju.se.gov.br/noticias/prefeitura-amplia-subsidi
 
 ### Americana (SP)
 
-Em Americana (SP), a passagem de ônibus custa de R$ 5,20 a R$ 6,15 (varia com o tipo de linha) desde 06/01/2026, segundo a publicação oficial (ARTESP, Relatório Tarifário RMC, vigência 06/01/2026, atualizado em 30/12/2025); valor conferido em 18/10/2026 pela Base Nacional de Tarifas do Transporte Público da Otimiza.pro.
+Em Americana (SP), a passagem de ônibus custa de R$ 5,20 a R$ 6,15 (varia com o tipo de linha) desde 06/01/2026, segundo a publicação oficial (ARTESP, Relatório Tarifário RMC, vigência 06/01/2026, atualizado em 30/12/2025); valor conferido em 18/10/2026 pela Base Nacional de Tarifas e Integrações de VT da Otimiza.pro.
 
 Fonte oficial: https://www.artesp.sp.gov.br/dx/api/dam/v1/collections/b8655228-02b7-413b-b158-747ca48f5f52/items/4b4b0932-7f96-43e4-a5e2-e340527355ee/renditions/42a9f554-d7b7-4a77-83fc-f8c9964b9314?binary=true
 
@@ -1526,7 +1526,7 @@ Tarifa zero em Americana: Gratuidade em todo o transporte coletivo urbano nos di
 
 ### Araçatuba (SP)
 
-Em Araçatuba (SP), a passagem de ônibus custa de R$ 4,80 a R$ 5,30 (varia com o cartão ou o meio de pagamento) desde 06/10/2023, segundo a operadora pública (TUA, operadora, tabela de valores vigentes); valor conferido em 17/10/2026 pela Base Nacional de Tarifas do Transporte Público da Otimiza.pro.
+Em Araçatuba (SP), a passagem de ônibus custa de R$ 4,80 a R$ 5,30 (varia com o cartão ou o meio de pagamento) desde 06/10/2023, segundo a operadora pública (TUA, operadora, tabela de valores vigentes); valor conferido em 17/10/2026 pela Base Nacional de Tarifas e Integrações de VT da Otimiza.pro.
 
 Fonte oficial: http://tuatransportes.com.br/websites/tua/site/valores/valores.asp
 
@@ -1534,7 +1534,7 @@ Vale-transporte em Araçatuba: cartão cartão TUA (Vale-Transporte); emitido po
 
 ### Araraquara (SP)
 
-Em Araraquara (SP), a passagem de ônibus custa R$ 5,25 desde 03/01/2026, conforme Decreto nº 14.057/2025; valor conferido em 18/10/2026 pela Base Nacional de Tarifas do Transporte Público da Otimiza.pro.
+Em Araraquara (SP), a passagem de ônibus custa R$ 5,25 desde 03/01/2026, conforme Decreto nº 14.057/2025; valor conferido em 18/10/2026 pela Base Nacional de Tarifas e Integrações de VT da Otimiza.pro.
 
 Fonte oficial: https://araraquara.1dom.com.br/ato/01KDTCKNKVHTTY3KF1M95EM7P9
 
@@ -1546,7 +1546,7 @@ Tarifa zero em Araraquara: Tarifa gratuita durante o período de votação nas e
 
 ### Arujá (SP)
 
-Em Arujá (SP), a passagem de ônibus custa R$ 6,00 desde 01/01/2026, conforme Decreto nº 8.674/2025; valor conferido em 18/10/2026 pela Base Nacional de Tarifas do Transporte Público da Otimiza.pro.
+Em Arujá (SP), a passagem de ônibus custa R$ 6,00 desde 01/01/2026, conforme Decreto nº 8.674/2025; valor conferido em 18/10/2026 pela Base Nacional de Tarifas e Integrações de VT da Otimiza.pro.
 
 Fonte oficial: https://www.arujatransporte.com.br/decreto-no-8-674-de-29-de-dezembro-de-2025/
 
@@ -1556,9 +1556,9 @@ Integração em Arujá: A tabela de integração da Arujá Transporte lista, par
 
 ### Barueri (SP)
 
-Em Barueri (SP), a passagem de ônibus custa R$ 6,10 desde 05/01/2026, conforme Decreto nº 10.306/2025; valor conferido em 18/10/2026 pela Base Nacional de Tarifas do Transporte Público da Otimiza.pro.
+Em Barueri (SP), a passagem de ônibus custa R$ 6,10 desde 05/01/2026, conforme Decreto nº 10.306/2025; valor conferido em 18/10/2026 pela Base Nacional de Tarifas e Integrações de VT da Otimiza.pro.
 
-Em 2018, o sistema de ônibus de Barueri (SP) levou 33 milhões de passageiros, segundo dados declarados pelo município à Pesquisa Nacional de Mobilidade Urbana (PEMOB), do governo federal. A idade média da frota de ônibus era de 6 anos em 2021. Dados consolidados pela Base Nacional de Tarifas do Transporte Público da Otimiza.pro.
+Em 2018, o sistema de ônibus de Barueri (SP) levou 33 milhões de passageiros, segundo dados declarados pelo município à Pesquisa Nacional de Mobilidade Urbana (PEMOB), do governo federal. A idade média da frota de ônibus era de 6 anos em 2021. Dados consolidados pela Base Nacional de Tarifas e Integrações de VT da Otimiza.pro.
 
 Fonte oficial: https://servicos.barueri.sp.gov.br/cms/Upload/Diario/pdf/JOB%20-1937%20-%2031Dez2025_639027074435697559.pdf
 
@@ -1572,9 +1572,9 @@ Integração em Barueri: Com o Cartão Benfácil, troca de ônibus no Terminal p
 
 ### Bauru (SP)
 
-Em Bauru (SP), a passagem de ônibus custa R$ 6,25 desde 20/08/2026, conforme Decreto nº 19.518/2026; valor conferido em 18/10/2026 pela Base Nacional de Tarifas do Transporte Público da Otimiza.pro.
+Em Bauru (SP), a passagem de ônibus custa R$ 6,25 desde 20/08/2026, conforme Decreto nº 19.518/2026; valor conferido em 18/10/2026 pela Base Nacional de Tarifas e Integrações de VT da Otimiza.pro.
 
-Em 2017, o sistema de ônibus de Bauru (SP) levou 32 milhões de passageiros, segundo dados declarados pelo município à Pesquisa Nacional de Mobilidade Urbana (PEMOB), do governo federal. A idade média da frota de ônibus era de 6,2 anos em 2017. Dados consolidados pela Base Nacional de Tarifas do Transporte Público da Otimiza.pro.
+Em 2017, o sistema de ônibus de Bauru (SP) levou 32 milhões de passageiros, segundo dados declarados pelo município à Pesquisa Nacional de Mobilidade Urbana (PEMOB), do governo federal. A idade média da frota de ônibus era de 6,2 anos em 2017. Dados consolidados pela Base Nacional de Tarifas e Integrações de VT da Otimiza.pro.
 
 Fonte oficial: https://www2.bauru.sp.gov.br/arquivos/sist_diariooficial/2026/07/do_20260721_4155.pdf
 
@@ -1584,7 +1584,7 @@ Integração em Bauru: Integração só com cartão, sem custo; o decreto manté
 
 ### Bragança Paulista (SP)
 
-Em Bragança Paulista (SP), a passagem de ônibus custa R$ 6,50, segundo a publicação oficial (Prefeitura de Bragança Paulista, Perguntas frequentes do Programa Tarifa Zero); valor conferido em 17/10/2026 pela Base Nacional de Tarifas do Transporte Público da Otimiza.pro.
+Em Bragança Paulista (SP), a passagem de ônibus custa R$ 6,50, segundo a publicação oficial (Prefeitura de Bragança Paulista, Perguntas frequentes do Programa Tarifa Zero); valor conferido em 17/10/2026 pela Base Nacional de Tarifas e Integrações de VT da Otimiza.pro.
 
 Fonte oficial: https://braganca.sp.gov.br/perguntas-frequentes-programa-tarifa-zero
 
@@ -1594,7 +1594,7 @@ Tarifa zero em Bragança Paulista: Tarifa zero aos domingos
 
 ### Cajamar (SP)
 
-Em Cajamar (SP), a passagem de ônibus custa R$ 5,10 desde 22/03/2026, conforme Decreto nº 7.691/2026; valor conferido em 18/10/2026 pela Base Nacional de Tarifas do Transporte Público da Otimiza.pro.
+Em Cajamar (SP), a passagem de ônibus custa R$ 5,10 desde 22/03/2026, conforme Decreto nº 7.691/2026; valor conferido em 18/10/2026 pela Base Nacional de Tarifas e Integrações de VT da Otimiza.pro.
 
 Fonte oficial: https://cajamar.sp.gov.br/decretos/wp-content/uploads/sites/28/2026/03/decreto-7691-26.pdf
 
@@ -1610,9 +1610,9 @@ Tarifa zero em Cajamar: Ônibus municipais gratuitos para os eleitores em 04/10/
 
 ### Campinas (SP)
 
-Em Campinas (SP), a passagem de ônibus custa de R$ 6,00 a R$ 6,50 (varia com o cartão ou o meio de pagamento) desde 01/01/2026, segundo a publicação oficial (EMDEC); valor conferido em 17/10/2026 pela Base Nacional de Tarifas do Transporte Público da Otimiza.pro.
+Em Campinas (SP), a passagem de ônibus custa de R$ 6,00 a R$ 6,50 (varia com o cartão ou o meio de pagamento) desde 01/01/2026, segundo a publicação oficial (EMDEC); valor conferido em 17/10/2026 pela Base Nacional de Tarifas e Integrações de VT da Otimiza.pro.
 
-Em 2021, o sistema de ônibus de Campinas (SP) levou 93 milhões de passageiros, segundo dados declarados pelo município à Pesquisa Nacional de Mobilidade Urbana (PEMOB), do governo federal. A idade média da frota de ônibus era de 4 anos em 2019. Dados consolidados pela Base Nacional de Tarifas do Transporte Público da Otimiza.pro.
+Em 2021, o sistema de ônibus de Campinas (SP) levou 93 milhões de passageiros, segundo dados declarados pelo município à Pesquisa Nacional de Mobilidade Urbana (PEMOB), do governo federal. A idade média da frota de ônibus era de 4 anos em 2019. Dados consolidados pela Base Nacional de Tarifas e Integrações de VT da Otimiza.pro.
 
 Fonte oficial: http://www.emdec.com.br/eficiente/sites/portalemdec/pt-br/site.php?secao=tarifas
 
@@ -1622,7 +1622,7 @@ Integração em Campinas: Bilhete Único Comum e Vale-Transporte: duas integraç
 
 ### Caraguatatuba (SP)
 
-Em Caraguatatuba (SP), a passagem de ônibus custa de R$ 4,60 a R$ 5,00 (varia com o cartão ou o meio de pagamento) desde 01/06/2023, segundo a publicação oficial (Prefeitura de Caraguatatuba, notícia de 23/05/2023); valor conferido em 18/10/2026 pela Base Nacional de Tarifas do Transporte Público da Otimiza.pro.
+Em Caraguatatuba (SP), a passagem de ônibus custa de R$ 4,60 a R$ 5,00 (varia com o cartão ou o meio de pagamento) desde 01/06/2023, segundo a publicação oficial (Prefeitura de Caraguatatuba, notícia de 23/05/2023); valor conferido em 18/10/2026 pela Base Nacional de Tarifas e Integrações de VT da Otimiza.pro.
 
 Fonte oficial: https://www.caraguatatuba.sp.gov.br/pmc/2023/05/prefeitura-assina-nova-concessao-do-transporte-e-anuncia-seis-novos-onibus-integracao-gratuita-novas-linhas-e-modernizacao-do-sistema/
 
@@ -1632,21 +1632,21 @@ Integração em Caraguatatuba: Com o Cartão SOU, a segunda viagem é gratuita s
 
 ### Carapicuíba (SP)
 
-Em Carapicuíba (SP), a passagem de ônibus custa R$ 6,10 desde 05/01/2026, conforme Decreto nº 5.461/2025; valor conferido em 17/10/2026 pela Base Nacional de Tarifas do Transporte Público da Otimiza.pro.
+Em Carapicuíba (SP), a passagem de ônibus custa R$ 6,10 desde 05/01/2026, conforme Decreto nº 5.461/2025; valor conferido em 17/10/2026 pela Base Nacional de Tarifas e Integrações de VT da Otimiza.pro.
 
-Em 2018, o sistema de ônibus de Carapicuíba (SP) levou 35 milhões de passageiros, segundo dados declarados pelo município à Pesquisa Nacional de Mobilidade Urbana (PEMOB), do governo federal. A idade média da frota de ônibus era de 5 anos em 2018. Dados consolidados pela Base Nacional de Tarifas do Transporte Público da Otimiza.pro.
+Em 2018, o sistema de ônibus de Carapicuíba (SP) levou 35 milhões de passageiros, segundo dados declarados pelo município à Pesquisa Nacional de Mobilidade Urbana (PEMOB), do governo federal. A idade média da frota de ônibus era de 5 anos em 2018. Dados consolidados pela Base Nacional de Tarifas e Integrações de VT da Otimiza.pro.
 
 Fonte oficial: https://www.carapicuiba.sp.gov.br/publicos/a18d15c67d140459d96d890efbb233af.pdf
 
 ### Catanduva (SP)
 
-Em Catanduva (SP), a passagem de ônibus custa R$ 4,00, segundo a publicação oficial (Prefeitura de Catanduva, página Transporte Coletivo, atualização de 03/02/2026); valor conferido em 18/10/2026 pela Base Nacional de Tarifas do Transporte Público da Otimiza.pro.
+Em Catanduva (SP), a passagem de ônibus custa R$ 4,00, segundo a publicação oficial (Prefeitura de Catanduva, página Transporte Coletivo, atualização de 03/02/2026); valor conferido em 18/10/2026 pela Base Nacional de Tarifas e Integrações de VT da Otimiza.pro.
 
 Fonte oficial: https://www.catanduva.sp.gov.br/portal/servicos/1075/transporte-coletivo/
 
 ### Cotia (SP)
 
-Em Cotia (SP), a passagem de ônibus custa R$ 5,30 desde 01/2023, segundo a publicação oficial (Prefeitura de Cotia, 08/01/2026 e 02/07/2026); valor conferido em 17/10/2026 pela Base Nacional de Tarifas do Transporte Público da Otimiza.pro. Quem usa vale-transporte paga R$ 7,50.
+Em Cotia (SP), a passagem de ônibus custa R$ 5,30 desde 01/2023, segundo a publicação oficial (Prefeitura de Cotia, 08/01/2026 e 02/07/2026); valor conferido em 17/10/2026 pela Base Nacional de Tarifas e Integrações de VT da Otimiza.pro. Quem usa vale-transporte paga R$ 7,50.
 
 Fonte oficial: https://cotia.sp.gov.br/entenda-como-funciona-o-custeio-do-transporte-publico-em-cotia/
 
@@ -1656,7 +1656,7 @@ Tarifa zero em Cotia: Tarifa Zero Inclusiva aos domingos em todas as linhas muni
 
 ### Cubatão (SP)
 
-Em Cubatão (SP), a passagem de ônibus custa R$ 5,00 desde 01/11/2022, conforme Decreto nº 11.768/2022; valor conferido em 18/10/2026 pela Base Nacional de Tarifas do Transporte Público da Otimiza.pro.
+Em Cubatão (SP), a passagem de ônibus custa R$ 5,00 desde 01/11/2022, conforme Decreto nº 11.768/2022; valor conferido em 18/10/2026 pela Base Nacional de Tarifas e Integrações de VT da Otimiza.pro.
 
 Fonte oficial: https://diariooficial.cubatao.sp.gov.br/index.php?edicao=2069
 
@@ -1666,9 +1666,9 @@ Tarifa zero em Cubatão: Linhas convencionais do transporte coletivo municipal g
 
 ### Diadema (SP)
 
-Em Diadema (SP), a passagem de ônibus custa de R$ 4,50 a R$ 5,90 (varia com o cartão ou o meio de pagamento) desde 12/01/2026, conforme Decreto nº 8.662/2026; valor conferido em 17/10/2026 pela Base Nacional de Tarifas do Transporte Público da Otimiza.pro. Quem usa vale-transporte paga R$ 7,50.
+Em Diadema (SP), a passagem de ônibus custa de R$ 4,50 a R$ 5,90 (varia com o cartão ou o meio de pagamento) desde 12/01/2026, conforme Decreto nº 8.662/2026; valor conferido em 17/10/2026 pela Base Nacional de Tarifas e Integrações de VT da Otimiza.pro. Quem usa vale-transporte paga R$ 7,50.
 
-Em 2021, o sistema de ônibus de Diadema (SP) levou 13 milhões de passageiros, segundo dados declarados pelo município à Pesquisa Nacional de Mobilidade Urbana (PEMOB), do governo federal. A idade média da frota de ônibus era de 6,4 anos em 2021. Dados consolidados pela Base Nacional de Tarifas do Transporte Público da Otimiza.pro.
+Em 2021, o sistema de ônibus de Diadema (SP) levou 13 milhões de passageiros, segundo dados declarados pelo município à Pesquisa Nacional de Mobilidade Urbana (PEMOB), do governo federal. A idade média da frota de ônibus era de 6,4 anos em 2021. Dados consolidados pela Base Nacional de Tarifas e Integrações de VT da Otimiza.pro.
 
 Fonte oficial: https://soudiadema.com.br/tarifa/
 
@@ -1678,13 +1678,13 @@ Integração em Diadema: Integração temporal fora dos terminais por 50 minutos
 
 ### Embu das Artes (SP)
 
-Em Embu das Artes (SP), a passagem de ônibus custa R$ 5,80 desde 06/01/2026, conforme Decreto nº 3.381/2025; valor conferido em 17/10/2026 pela Base Nacional de Tarifas do Transporte Público da Otimiza.pro.
+Em Embu das Artes (SP), a passagem de ônibus custa R$ 5,80 desde 06/01/2026, conforme Decreto nº 3.381/2025; valor conferido em 17/10/2026 pela Base Nacional de Tarifas e Integrações de VT da Otimiza.pro.
 
 Fonte oficial: https://www.taboaoemfoco.com.br/wp-content/uploads/2025/12/Tarifa-de-Onibus-2026-Embu-das-Artes.pdf
 
 ### Ferraz de Vasconcelos (SP)
 
-Em Ferraz de Vasconcelos (SP), a passagem de ônibus custa R$ 6,00 desde 01/01/2025, conforme Decreto nº 7.044/2024; valor conferido em 17/10/2026 pela Base Nacional de Tarifas do Transporte Público da Otimiza.pro.
+Em Ferraz de Vasconcelos (SP), a passagem de ônibus custa R$ 6,00 desde 01/01/2025, conforme Decreto nº 7.044/2024; valor conferido em 17/10/2026 pela Base Nacional de Tarifas e Integrações de VT da Otimiza.pro.
 
 Fonte oficial: https://ferrazdevasconcelos.sp.gov.br/web/wp-content/uploads/2025/02/Decreto-7044-24-Dispoe-sobre-o-reajuste-da-tarifa-do-servico-de-transporte-publico-coletivo-urbano-do-Municipio.pdf
 
@@ -1692,9 +1692,9 @@ Tarifa zero em Ferraz de Vasconcelos: Ônibus municipais gratuitos aos domingos 
 
 ### Franca (SP)
 
-Em Franca (SP), a passagem de ônibus custa R$ 4,00 desde 18/01/2026, segundo a operadora pública (MoV Franca, operadora, tabela de tarifas vigentes); valor conferido em 17/10/2026 pela Base Nacional de Tarifas do Transporte Público da Otimiza.pro.
+Em Franca (SP), a passagem de ônibus custa R$ 4,00 desde 18/01/2026, segundo a operadora pública (MoV Franca, operadora, tabela de tarifas vigentes); valor conferido em 17/10/2026 pela Base Nacional de Tarifas e Integrações de VT da Otimiza.pro.
 
-Em 2017, o sistema de ônibus de Franca (SP) levou 16 milhões de passageiros, segundo dados declarados pelo município à Pesquisa Nacional de Mobilidade Urbana (PEMOB), do governo federal. A idade média da frota de ônibus era de 6,3 anos em 2017. Dados consolidados pela Base Nacional de Tarifas do Transporte Público da Otimiza.pro.
+Em 2017, o sistema de ônibus de Franca (SP) levou 16 milhões de passageiros, segundo dados declarados pelo município à Pesquisa Nacional de Mobilidade Urbana (PEMOB), do governo federal. A idade média da frota de ônibus era de 6,3 anos em 2017. Dados consolidados pela Base Nacional de Tarifas e Integrações de VT da Otimiza.pro.
 
 Fonte oficial: https://movfranca.com.br/servicos/tarifas/
 
@@ -1704,9 +1704,9 @@ Integração em Franca: Com o cartão MoV Comum, até duas viagens em duas horas
 
 ### Guarulhos (SP)
 
-Em Guarulhos (SP), a passagem de ônibus custa R$ 6,20 desde 01/01/2026, conforme Decreto nº 43.527/2025; valor conferido em 17/10/2026 pela Base Nacional de Tarifas do Transporte Público da Otimiza.pro.
+Em Guarulhos (SP), a passagem de ônibus custa R$ 6,20 desde 01/01/2026, conforme Decreto nº 43.527/2025; valor conferido em 17/10/2026 pela Base Nacional de Tarifas e Integrações de VT da Otimiza.pro.
 
-Em 2018, o sistema de ônibus de Guarulhos (SP) levou 144 milhões de passageiros, segundo dados declarados pelo município à Pesquisa Nacional de Mobilidade Urbana (PEMOB), do governo federal. A idade média da frota de ônibus era de 8 anos em 2019. Dados consolidados pela Base Nacional de Tarifas do Transporte Público da Otimiza.pro.
+Em 2018, o sistema de ônibus de Guarulhos (SP) levou 144 milhões de passageiros, segundo dados declarados pelo município à Pesquisa Nacional de Mobilidade Urbana (PEMOB), do governo federal. A idade média da frota de ônibus era de 8 anos em 2019. Dados consolidados pela Base Nacional de Tarifas e Integrações de VT da Otimiza.pro.
 
 Fonte oficial: https://www.guarulhos.sp.gov.br/diario-oficial/uploads/pdf/277381807.pdf
 
@@ -1716,7 +1716,7 @@ Integração em Guarulhos: Bilhete Único: quantas viagens forem necessárias em
 
 ### Hortolândia (SP)
 
-Em Hortolândia (SP), a passagem de ônibus custa de R$ 4,30 a R$ 4,50 (varia com o cartão ou o meio de pagamento) desde 02/02/2019, conforme Decreto nº 4.118/2019; valor conferido em 17/10/2026 pela Base Nacional de Tarifas do Transporte Público da Otimiza.pro.
+Em Hortolândia (SP), a passagem de ônibus custa de R$ 4,30 a R$ 4,50 (varia com o cartão ou o meio de pagamento) desde 02/02/2019, conforme Decreto nº 4.118/2019; valor conferido em 17/10/2026 pela Base Nacional de Tarifas e Integrações de VT da Otimiza.pro.
 
 Fonte oficial: https://www.hortolandia.sp.gov.br/linhasdeonibus/
 
@@ -1726,7 +1726,7 @@ Integração em Hortolândia: Com o Bilhete Único, a segunda viagem do dia é g
 
 ### Ilhabela (SP)
 
-Em Ilhabela (SP), a passagem de ônibus custa de R$ 4,80 a R$ 10,00 (varia com o cartão ou o meio de pagamento) desde 26/01/2026, conforme Decreto nº 11.645/2026; valor conferido em 18/10/2026 pela Base Nacional de Tarifas do Transporte Público da Otimiza.pro.
+Em Ilhabela (SP), a passagem de ônibus custa de R$ 4,80 a R$ 10,00 (varia com o cartão ou o meio de pagamento) desde 26/01/2026, conforme Decreto nº 11.645/2026; valor conferido em 18/10/2026 pela Base Nacional de Tarifas e Integrações de VT da Otimiza.pro.
 
 Fonte oficial: https://www.ilhabela.sp.gov.br/uploads/diario_oficial_-_23-01-2026_assinado_23053607.pdf
 
@@ -1736,13 +1736,13 @@ Integração em Ilhabela: Com o Cartão Bilhete Eletrônico Recarregável, segun
 
 ### Indaiatuba (SP)
 
-Em Indaiatuba (SP), a passagem de ônibus custa R$ 4,10 desde 10/02/2019, segundo a operadora pública (SOU Indaiatuba, operadora); valor conferido em 17/10/2026 pela Base Nacional de Tarifas do Transporte Público da Otimiza.pro.
+Em Indaiatuba (SP), a passagem de ônibus custa R$ 4,10 desde 10/02/2019, segundo a operadora pública (SOU Indaiatuba, operadora); valor conferido em 17/10/2026 pela Base Nacional de Tarifas e Integrações de VT da Otimiza.pro.
 
 Fonte oficial: https://soutransportes.com.br/indaiatuba/
 
 ### Itapecerica da Serra (SP)
 
-Ainda não há tarifa de ônibus conferida para Itapecerica da Serra (SP) na Base Nacional de Tarifas do Transporte Público da Otimiza.pro.
+Ainda não há tarifa de ônibus conferida para Itapecerica da Serra (SP) na Base Nacional de Tarifas e Integrações de VT da Otimiza.pro.
 
 Fonte oficial: https://www.itapecerica.sp.gov.br/noticias/financas/transporte-para-todos-vai-oferecer-onibus-gratuito-na-cidade-aos-finais-de-semana-e-feriados
 
@@ -1750,7 +1750,7 @@ Tarifa zero em Itapecerica da Serra: Ônibus municipais gratuitos aos sábados, 
 
 ### Itapevi (SP)
 
-Em Itapevi (SP), a passagem de ônibus custa R$ 6,10 desde 05/01/2026, conforme Decreto nº 6.020/2025; valor conferido em 18/10/2026 pela Base Nacional de Tarifas do Transporte Público da Otimiza.pro.
+Em Itapevi (SP), a passagem de ônibus custa R$ 6,10 desde 05/01/2026, conforme Decreto nº 6.020/2025; valor conferido em 18/10/2026 pela Base Nacional de Tarifas e Integrações de VT da Otimiza.pro.
 
 Fonte oficial: https://itapevi.sp.gov.br/wp-content/uploads/2026/05/decreto-6.020-de-2025-aumento-de-tarifa-de-onibus-2026.pdf
 
@@ -1764,13 +1764,13 @@ Integração em Itapevi: Com o Cartão Benfácil, troca de ônibus no Terminal p
 
 ### Itaquaquecetuba (SP)
 
-Em Itaquaquecetuba (SP), a passagem de ônibus custa de R$ 6,00 a R$ 6,30 (varia com o cartão ou o meio de pagamento) desde 01/01/2026, conforme Decreto nº 8.659/2025; valor conferido em 17/10/2026 pela Base Nacional de Tarifas do Transporte Público da Otimiza.pro. Quem usa vale-transporte paga R$ 7,10.
+Em Itaquaquecetuba (SP), a passagem de ônibus custa de R$ 6,00 a R$ 6,30 (varia com o cartão ou o meio de pagamento) desde 01/01/2026, conforme Decreto nº 8.659/2025; valor conferido em 17/10/2026 pela Base Nacional de Tarifas e Integrações de VT da Otimiza.pro. Quem usa vale-transporte paga R$ 7,10.
 
 Fonte oficial: https://www.itaquaquecetuba.sp.gov.br/diario-oficial/documento.php?id=17244
 
 ### Itatiba (SP)
 
-Em Itatiba (SP), a passagem de ônibus custa de R$ 3,95 a R$ 4,45 (varia com o cartão ou o meio de pagamento) desde 04/05/2026, conforme Decreto nº 8.306/2026; valor conferido em 18/10/2026 pela Base Nacional de Tarifas do Transporte Público da Otimiza.pro. Quem usa vale-transporte paga R$ 9,22.
+Em Itatiba (SP), a passagem de ônibus custa de R$ 3,95 a R$ 4,45 (varia com o cartão ou o meio de pagamento) desde 04/05/2026, conforme Decreto nº 8.306/2026; valor conferido em 18/10/2026 pela Base Nacional de Tarifas e Integrações de VT da Otimiza.pro. Quem usa vale-transporte paga R$ 9,22.
 
 Fonte oficial: https://www.itatiba.sp.gov.br/secretarias/negocios-juridicos/atos-oficiais/decretos/decreto-n-8306-de-29-de-abril-de-2026
 
@@ -1782,7 +1782,7 @@ BUS+ (linhas metropolitanas da EMTU na Região Metropolitana de Campinas): cobre
 
 ### Jacareí (SP)
 
-Em Jacareí (SP), a passagem de ônibus custa de R$ 4,50 a R$ 5,00 (varia com o cartão ou o meio de pagamento) desde 13/07/2026, conforme Decreto nº 633/2026; valor conferido em 17/10/2026 pela Base Nacional de Tarifas do Transporte Público da Otimiza.pro. Quem usa vale-transporte paga R$ 8,06.
+Em Jacareí (SP), a passagem de ônibus custa de R$ 4,50 a R$ 5,00 (varia com o cartão ou o meio de pagamento) desde 13/07/2026, conforme Decreto nº 633/2026; valor conferido em 17/10/2026 pela Base Nacional de Tarifas e Integrações de VT da Otimiza.pro. Quem usa vale-transporte paga R$ 8,06.
 
 Fonte oficial: https://www.jtu.com.br/doc/downloads/985
 
@@ -1792,7 +1792,7 @@ Integração em Jacareí: Integração nas linhas municipais somente com cartão
 
 ### Jaguariúna (SP)
 
-Em Jaguariúna (SP), a passagem de ônibus custa de R$ 5,27 a R$ 9,40 (varia com o tipo de linha) desde 06/01/2026, segundo a publicação oficial (ARTESP, Relatório Tarifário RMC, vigência 06/01/2026, atualizado em 30/12/2025); valor conferido em 18/10/2026 pela Base Nacional de Tarifas do Transporte Público da Otimiza.pro.
+Em Jaguariúna (SP), a passagem de ônibus custa de R$ 5,27 a R$ 9,40 (varia com o tipo de linha) desde 06/01/2026, segundo a publicação oficial (ARTESP, Relatório Tarifário RMC, vigência 06/01/2026, atualizado em 30/12/2025); valor conferido em 18/10/2026 pela Base Nacional de Tarifas e Integrações de VT da Otimiza.pro.
 
 Fonte oficial: https://www.artesp.sp.gov.br/dx/api/dam/v1/collections/b8655228-02b7-413b-b158-747ca48f5f52/items/4b4b0932-7f96-43e4-a5e2-e340527355ee/renditions/42a9f554-d7b7-4a77-83fc-f8c9964b9314?binary=true
 
@@ -1804,7 +1804,7 @@ BUS+ (linhas metropolitanas da EMTU na Região Metropolitana de Campinas): cobre
 
 ### Jaú (SP)
 
-Em Jaú (SP), a passagem de ônibus custa R$ 5,00 desde 06/12/2025, conforme Decreto nº 9.156/2025; valor conferido em 18/10/2026 pela Base Nacional de Tarifas do Transporte Público da Otimiza.pro.
+Em Jaú (SP), a passagem de ônibus custa R$ 5,00 desde 06/12/2025, conforme Decreto nº 9.156/2025; valor conferido em 18/10/2026 pela Base Nacional de Tarifas e Integrações de VT da Otimiza.pro.
 
 Fonte oficial: https://www.dosp.com.br/exibe_do.php?i=NzQ0OTY4
 
@@ -1812,9 +1812,9 @@ Vale-transporte em Jaú: emitido por Paraty Fretamento, Turismo e Transporte Ltd
 
 ### Jundiaí (SP)
 
-Em Jundiaí (SP), a passagem de ônibus custa de R$ 5,60 a R$ 6,15 (varia com o cartão ou o meio de pagamento) desde 06/07/2025, segundo a publicação oficial (Prefeitura de Jundiaí, página Transporte Coletivo, Tarifas Públicas 2025); valor conferido em 17/10/2026 pela Base Nacional de Tarifas do Transporte Público da Otimiza.pro.
+Em Jundiaí (SP), a passagem de ônibus custa de R$ 5,60 a R$ 6,15 (varia com o cartão ou o meio de pagamento) desde 06/07/2025, segundo a publicação oficial (Prefeitura de Jundiaí, página Transporte Coletivo, Tarifas Públicas 2025); valor conferido em 17/10/2026 pela Base Nacional de Tarifas e Integrações de VT da Otimiza.pro.
 
-Em 2021, o sistema de ônibus de Jundiaí (SP) levou 17 milhões de passageiros, segundo dados declarados pelo município à Pesquisa Nacional de Mobilidade Urbana (PEMOB), do governo federal. A idade média da frota de ônibus era de 4 anos em 2021. Dados consolidados pela Base Nacional de Tarifas do Transporte Público da Otimiza.pro.
+Em 2021, o sistema de ônibus de Jundiaí (SP) levou 17 milhões de passageiros, segundo dados declarados pelo município à Pesquisa Nacional de Mobilidade Urbana (PEMOB), do governo federal. A idade média da frota de ônibus era de 4 anos em 2021. Dados consolidados pela Base Nacional de Tarifas e Integrações de VT da Otimiza.pro.
 
 Fonte oficial: https://jundiai.sp.gov.br/mobilidade/indicadores-e-informacoes/transporte-coletivo/
 
@@ -1822,9 +1822,9 @@ Vale-transporte em Jundiaí: cartão Cartão Bilhete Único Vale Transporte.
 
 ### Limeira (SP)
 
-Em Limeira (SP), a passagem de ônibus custa R$ 5,70 desde 01/01/2026, conforme Decreto publicado no Jornal Oficial de 31/12/2025; valor conferido em 17/10/2026 pela Base Nacional de Tarifas do Transporte Público da Otimiza.pro.
+Em Limeira (SP), a passagem de ônibus custa R$ 5,70 desde 01/01/2026, conforme Decreto publicado no Jornal Oficial de 31/12/2025; valor conferido em 17/10/2026 pela Base Nacional de Tarifas e Integrações de VT da Otimiza.pro.
 
-Em 2021, o sistema de ônibus de Limeira (SP) levou 6,1 milhões de passageiros, segundo dados declarados pelo município à Pesquisa Nacional de Mobilidade Urbana (PEMOB), do governo federal. Dados consolidados pela Base Nacional de Tarifas do Transporte Público da Otimiza.pro.
+Em 2021, o sistema de ônibus de Limeira (SP) levou 6,1 milhões de passageiros, segundo dados declarados pelo município à Pesquisa Nacional de Mobilidade Urbana (PEMOB), do governo federal. Dados consolidados pela Base Nacional de Tarifas e Integrações de VT da Otimiza.pro.
 
 Fonte oficial: https://limeira.sp.gov.br/tarifa-de-onibus-passa-a-custar-r-570-a-partir-desta-quinta-feira-1-em-limeira
 
@@ -1832,7 +1832,7 @@ Vale-transporte em Limeira: cartão cartão eletrônico de vale-transporte; vali
 
 ### Louveira (SP)
 
-Em Louveira (SP), a passagem de ônibus custa de R$ 2,00 a R$ 6,00 (varia com o cartão ou o meio de pagamento) desde 06/12/2023, conforme Decreto nº 6.415/2023; valor conferido em 18/10/2026 pela Base Nacional de Tarifas do Transporte Público da Otimiza.pro.
+Em Louveira (SP), a passagem de ônibus custa de R$ 2,00 a R$ 6,00 (varia com o cartão ou o meio de pagamento) desde 06/12/2023, conforme Decreto nº 6.415/2023; valor conferido em 18/10/2026 pela Base Nacional de Tarifas e Integrações de VT da Otimiza.pro.
 
 Fonte oficial: https://www.dosp.com.br/exibe_do.php?i=NDMzMjM2
 
@@ -1842,13 +1842,13 @@ Tarifa zero em Louveira: Transporte gratuito aos sábados, domingos e feriados p
 
 ### Marília (SP)
 
-Em Marília (SP), a passagem de ônibus custa R$ 5,75 desde 02/05/2024, conforme Decisão judicial de 2ª instância no processo nº 1003391-44.2024.8.26.0344; valor conferido em 17/10/2026 pela Base Nacional de Tarifas do Transporte Público da Otimiza.pro.
+Em Marília (SP), a passagem de ônibus custa R$ 5,75 desde 02/05/2024, conforme Decisão judicial de 2ª instância no processo nº 1003391-44.2024.8.26.0344; valor conferido em 17/10/2026 pela Base Nacional de Tarifas e Integrações de VT da Otimiza.pro.
 
 Fonte oficial: https://www.marilia.sp.gov.br/portal/noticias/0/3/13616/tarifa-de-onibus-do-transporte-coletivo-urbano-em-marilia-tera-subsidio-da-prefeitura-municipal
 
 ### Matão (SP)
 
-Em Matão (SP), a passagem de ônibus custa R$ 5,60, segundo a operadora pública (Paraty Mobilidade, operadora, tabela de tarifas das linhas urbanas de 2026, atualizada em 01/07/2026); valor conferido em 18/10/2026 pela Base Nacional de Tarifas do Transporte Público da Otimiza.pro.
+Em Matão (SP), a passagem de ônibus custa R$ 5,60, segundo a operadora pública (Paraty Mobilidade, operadora, tabela de tarifas das linhas urbanas de 2026, atualizada em 01/07/2026); valor conferido em 18/10/2026 pela Base Nacional de Tarifas e Integrações de VT da Otimiza.pro.
 
 Fonte oficial: https://paratymobilidade.com.br/documentos/urbana2026.pdf
 
@@ -1856,9 +1856,9 @@ Vale-transporte em Matão: cartão MOVE Vale-Transporte (impresso com nome, CPF 
 
 ### Mauá (SP)
 
-Em Mauá (SP), a passagem de ônibus custa de R$ 4,90 a R$ 5,90 (varia com o cartão ou o meio de pagamento) desde 06/01/2026, conforme Decreto nº 9.530/2025; valor conferido em 17/10/2026 pela Base Nacional de Tarifas do Transporte Público da Otimiza.pro. Quem usa vale-transporte paga R$ 7,50.
+Em Mauá (SP), a passagem de ônibus custa de R$ 4,90 a R$ 5,90 (varia com o cartão ou o meio de pagamento) desde 06/01/2026, conforme Decreto nº 9.530/2025; valor conferido em 17/10/2026 pela Base Nacional de Tarifas e Integrações de VT da Otimiza.pro. Quem usa vale-transporte paga R$ 7,50.
 
-Em Mauá (SP), a idade média da frota de ônibus era de 4 anos em 2021. Dados consolidados pela Base Nacional de Tarifas do Transporte Público da Otimiza.pro.
+Em Mauá (SP), a idade média da frota de ônibus era de 4 anos em 2021. Dados consolidados pela Base Nacional de Tarifas e Integrações de VT da Otimiza.pro.
 
 Fonte oficial: https://dom.maua.sp.gov.br/public/docs/8920d8a5ff3fe962120561b9a7a347e8.pdf
 
@@ -1866,15 +1866,15 @@ Vale-transporte em Mauá: cartão Vale-Transporte no Cartão SIM; emitido por Su
 
 ### Mogi das Cruzes (SP)
 
-Em Mogi das Cruzes (SP), a passagem de ônibus custa R$ 5,50 desde 31/03/2026, conforme Decreto nº 24.277/2026; valor conferido em 17/10/2026 pela Base Nacional de Tarifas do Transporte Público da Otimiza.pro.
+Em Mogi das Cruzes (SP), a passagem de ônibus custa R$ 5,50 desde 31/03/2026, conforme Decreto nº 24.277/2026; valor conferido em 17/10/2026 pela Base Nacional de Tarifas e Integrações de VT da Otimiza.pro.
 
-Em 2018, o sistema de ônibus de Mogi das Cruzes (SP) levou 46 milhões de passageiros, segundo dados declarados pelo município à Pesquisa Nacional de Mobilidade Urbana (PEMOB), do governo federal. A idade média da frota de ônibus era de 3 anos em 2018. Dados consolidados pela Base Nacional de Tarifas do Transporte Público da Otimiza.pro.
+Em 2018, o sistema de ônibus de Mogi das Cruzes (SP) levou 46 milhões de passageiros, segundo dados declarados pelo município à Pesquisa Nacional de Mobilidade Urbana (PEMOB), do governo federal. A idade média da frota de ônibus era de 3 anos em 2018. Dados consolidados pela Base Nacional de Tarifas e Integrações de VT da Otimiza.pro.
 
 Fonte oficial: https://diario-oficial.mogidascruzes.sp.gov.br/media/diarios/2026/03/30/EXECUTIVO_EXTRAORDINARIA_21_-_30.03.2026_-_conformidade.pdf
 
 ### Mogi Mirim (SP)
 
-Em Mogi Mirim (SP), a passagem de ônibus custa R$ 5,00 desde 01/07/2025, conforme Decreto nº 9.555/2025; valor conferido em 18/10/2026 pela Base Nacional de Tarifas do Transporte Público da Otimiza.pro. Quem usa vale-transporte paga R$ 6,00.
+Em Mogi Mirim (SP), a passagem de ônibus custa R$ 5,00 desde 01/07/2025, conforme Decreto nº 9.555/2025; valor conferido em 18/10/2026 pela Base Nacional de Tarifas e Integrações de VT da Otimiza.pro. Quem usa vale-transporte paga R$ 6,00.
 
 Fonte oficial: https://www.mogimirim.sp.gov.br/uploads/legislacao/45193/XgvJXup44KFSTXnwKUlVO_2r3As0SlFb.pdf
 
@@ -1882,9 +1882,9 @@ Vale-transporte em Mogi Mirim: cartão Cartão Vale Transporte; emitido por SOU 
 
 ### Osasco (SP)
 
-Em Osasco (SP), a passagem de ônibus custa de R$ 5,80 a R$ 6,10 (varia com o cartão ou o meio de pagamento) desde 05/01/2026, conforme Decreto nº 14.984/2025; valor conferido em 17/10/2026 pela Base Nacional de Tarifas do Transporte Público da Otimiza.pro.
+Em Osasco (SP), a passagem de ônibus custa de R$ 5,80 a R$ 6,10 (varia com o cartão ou o meio de pagamento) desde 05/01/2026, conforme Decreto nº 14.984/2025; valor conferido em 17/10/2026 pela Base Nacional de Tarifas e Integrações de VT da Otimiza.pro.
 
-Em 2021, o sistema de ônibus de Osasco (SP) levou 18 milhões de passageiros, segundo dados declarados pelo município à Pesquisa Nacional de Mobilidade Urbana (PEMOB), do governo federal. A idade média da frota de ônibus era de 4,2 anos em 2021. Dados consolidados pela Base Nacional de Tarifas do Transporte Público da Otimiza.pro.
+Em 2021, o sistema de ônibus de Osasco (SP) levou 18 milhões de passageiros, segundo dados declarados pelo município à Pesquisa Nacional de Mobilidade Urbana (PEMOB), do governo federal. A idade média da frota de ônibus era de 4,2 anos em 2021. Dados consolidados pela Base Nacional de Tarifas e Integrações de VT da Otimiza.pro.
 
 Fonte oficial: https://osasco.sp.gov.br/wp-content/uploads/2025/12/iomo-2945.pdf
 
@@ -1892,7 +1892,7 @@ Vale-transporte em Osasco: cartão BEM Vale-Transporte; emitido por BEM (Bilhete
 
 ### Paulínia (SP)
 
-Em Paulínia (SP), a passagem de ônibus custa de R$ 1,00 a R$ 6,55 (varia com o tipo de linha) desde 06/01/2026, segundo a publicação oficial (ARTESP, Relatório Tarifário RMC, vigência 06/01/2026, atualizado em 30/12/2025); valor conferido em 18/10/2026 pela Base Nacional de Tarifas do Transporte Público da Otimiza.pro.
+Em Paulínia (SP), a passagem de ônibus custa de R$ 1,00 a R$ 6,55 (varia com o tipo de linha) desde 06/01/2026, segundo a publicação oficial (ARTESP, Relatório Tarifário RMC, vigência 06/01/2026, atualizado em 30/12/2025); valor conferido em 18/10/2026 pela Base Nacional de Tarifas e Integrações de VT da Otimiza.pro.
 
 Fonte oficial: https://www.artesp.sp.gov.br/dx/api/dam/v1/collections/b8655228-02b7-413b-b158-747ca48f5f52/items/4b4b0932-7f96-43e4-a5e2-e340527355ee/renditions/42a9f554-d7b7-4a77-83fc-f8c9964b9314?binary=true
 
@@ -1904,7 +1904,7 @@ BUS+ (linhas metropolitanas da EMTU na Região Metropolitana de Campinas): cobre
 
 ### Pindamonhangaba (SP)
 
-Em Pindamonhangaba (SP), a passagem de ônibus custa de R$ 4,50 a R$ 5,50 (varia com o cartão ou o meio de pagamento) desde 15/09/2026, conforme Decreto Municipal nº 7150; valor conferido em 17/10/2026 pela Base Nacional de Tarifas do Transporte Público da Otimiza.pro.
+Em Pindamonhangaba (SP), a passagem de ônibus custa de R$ 4,50 a R$ 5,50 (varia com o cartão ou o meio de pagamento) desde 15/09/2026, conforme Decreto Municipal nº 7150; valor conferido em 17/10/2026 pela Base Nacional de Tarifas e Integrações de VT da Otimiza.pro.
 
 Fonte oficial: https://www.vivapinda.com.br/tarifas/
 
@@ -1912,9 +1912,9 @@ Vale-transporte em Pindamonhangaba: cartão bilhete eletrônico Viva Pinda; emit
 
 ### Piracicaba (SP)
 
-Em Piracicaba (SP), a passagem de ônibus custa de R$ 6,40 a R$ 6,50 (varia com o cartão ou o meio de pagamento) desde 19/06/2025, conforme Decreto nº 20.528/2025; valor conferido em 17/10/2026 pela Base Nacional de Tarifas do Transporte Público da Otimiza.pro. Quem usa vale-transporte paga R$ 6,58.
+Em Piracicaba (SP), a passagem de ônibus custa de R$ 6,40 a R$ 6,50 (varia com o cartão ou o meio de pagamento) desde 19/06/2025, conforme Decreto nº 20.528/2025; valor conferido em 17/10/2026 pela Base Nacional de Tarifas e Integrações de VT da Otimiza.pro. Quem usa vale-transporte paga R$ 6,58.
 
-Em 2017, o sistema de ônibus de Piracicaba (SP) levou 21 milhões de passageiros, segundo dados declarados pelo município à Pesquisa Nacional de Mobilidade Urbana (PEMOB), do governo federal. A idade média da frota de ônibus era de 6 anos em 2017. Dados consolidados pela Base Nacional de Tarifas do Transporte Público da Otimiza.pro.
+Em 2017, o sistema de ônibus de Piracicaba (SP) levou 21 milhões de passageiros, segundo dados declarados pelo município à Pesquisa Nacional de Mobilidade Urbana (PEMOB), do governo federal. A idade média da frota de ônibus era de 6 anos em 2017. Dados consolidados pela Base Nacional de Tarifas e Integrações de VT da Otimiza.pro.
 
 Fonte oficial: https://piramobilidade.com.br/tarifas/
 
@@ -1922,9 +1922,9 @@ Vale-transporte em Piracicaba: cartão Cartão Vale-Transporte da Pira Mobilidad
 
 ### Praia Grande (SP)
 
-Em Praia Grande (SP), a passagem de ônibus custa R$ 5,25 desde 09/02/2025, conforme Decreto nº 8.188/2025; valor conferido em 17/10/2026 pela Base Nacional de Tarifas do Transporte Público da Otimiza.pro.
+Em Praia Grande (SP), a passagem de ônibus custa R$ 5,25 desde 09/02/2025, conforme Decreto nº 8.188/2025; valor conferido em 17/10/2026 pela Base Nacional de Tarifas e Integrações de VT da Otimiza.pro.
 
-Em 2021, o sistema de ônibus de Praia Grande (SP) levou 13 milhões de passageiros, segundo dados declarados pelo município à Pesquisa Nacional de Mobilidade Urbana (PEMOB), do governo federal. A idade média da frota de ônibus era de 3 anos em 2021. Dados consolidados pela Base Nacional de Tarifas do Transporte Público da Otimiza.pro.
+Em 2021, o sistema de ônibus de Praia Grande (SP) levou 13 milhões de passageiros, segundo dados declarados pelo município à Pesquisa Nacional de Mobilidade Urbana (PEMOB), do governo federal. A idade média da frota de ônibus era de 3 anos em 2021. Dados consolidados pela Base Nacional de Tarifas e Integrações de VT da Otimiza.pro.
 
 Fonte oficial: https://www.praiagrande.sp.gov.br/Administracao/leisdecretos_view.asp?codLeis=8508
 
@@ -1932,13 +1932,13 @@ Integração em Praia Grande: Linhas municipais integradas entre si e com as int
 
 ### Presidente Prudente (SP)
 
-Em Presidente Prudente (SP), a passagem de ônibus custa R$ 5,00 desde 03/01/2023, segundo a operadora pública (SOU Prudente, operadora); valor conferido em 17/10/2026 pela Base Nacional de Tarifas do Transporte Público da Otimiza.pro.
+Em Presidente Prudente (SP), a passagem de ônibus custa R$ 5,00 desde 03/01/2023, segundo a operadora pública (SOU Prudente, operadora); valor conferido em 17/10/2026 pela Base Nacional de Tarifas e Integrações de VT da Otimiza.pro.
 
 Fonte oficial: https://soutransportes.com.br/presidente-prudente/
 
 ### Ribeirão Preto (SP)
 
-Em Ribeirão Preto (SP), a passagem de ônibus custa R$ 5,00 desde 16/02/2022, conforme Decreto nº 026/2022; valor conferido em 17/10/2026 pela Base Nacional de Tarifas do Transporte Público da Otimiza.pro.
+Em Ribeirão Preto (SP), a passagem de ônibus custa R$ 5,00 desde 16/02/2022, conforme Decreto nº 026/2022; valor conferido em 17/10/2026 pela Base Nacional de Tarifas e Integrações de VT da Otimiza.pro.
 
 Fonte oficial: https://www.rpmobilidade.com.br/tarifas/valores-e-tarifas/
 
@@ -1948,7 +1948,7 @@ Integração em Ribeirão Preto: Até 3 linhas distintas e não concorrentes, co
 
 ### Rio Claro (SP)
 
-Em Rio Claro (SP), a passagem de ônibus custa R$ 4,90 desde 30/12/2023, conforme Decreto nº 13.170/2023; valor conferido em 18/10/2026 pela Base Nacional de Tarifas do Transporte Público da Otimiza.pro.
+Em Rio Claro (SP), a passagem de ônibus custa R$ 4,90 desde 30/12/2023, conforme Decreto nº 13.170/2023; valor conferido em 18/10/2026 pela Base Nacional de Tarifas e Integrações de VT da Otimiza.pro.
 
 Fonte oficial: https://www.dosp.com.br/exibe_do.php?i=NDM2MTM1
 
@@ -1958,7 +1958,7 @@ Integração em Rio Claro: Integração temporal entre linhas só com cartão el
 
 ### Salto (SP)
 
-Em Salto (SP), a passagem de ônibus custa R$ 3,80 desde 01/09/2023, conforme Decreto nº 257/2023; valor conferido em 18/10/2026 pela Base Nacional de Tarifas do Transporte Público da Otimiza.pro.
+Em Salto (SP), a passagem de ônibus custa R$ 3,80 desde 01/09/2023, conforme Decreto nº 257/2023; valor conferido em 18/10/2026 pela Base Nacional de Tarifas e Integrações de VT da Otimiza.pro.
 
 Fonte oficial: https://www.dosp.com.br/exibe_do.php?i=Mzk3ODk2
 
@@ -1968,13 +1968,13 @@ Tarifa zero em Salto: Isenção da tarifa comum para todos os usuários aos domi
 
 ### Santa Bárbara d'Oeste (SP)
 
-Em Santa Bárbara d'Oeste (SP), a passagem de ônibus custa R$ 5,90 desde 15/06/2025, segundo a publicação oficial (Prefeitura de Santa Bárbara d'Oeste, 13/06/2025); valor conferido em 17/10/2026 pela Base Nacional de Tarifas do Transporte Público da Otimiza.pro.
+Em Santa Bárbara d'Oeste (SP), a passagem de ônibus custa R$ 5,90 desde 15/06/2025, segundo a publicação oficial (Prefeitura de Santa Bárbara d'Oeste, 13/06/2025); valor conferido em 17/10/2026 pela Base Nacional de Tarifas e Integrações de VT da Otimiza.pro.
 
 Fonte oficial: https://www.santabarbara.sp.gov.br/portal/noticias/0/3/72247/tarifa-do-transporte-coletivo-tera-novo-valor-a-partir-de-domingo-em-santa-barbara/
 
 ### Santana de Parnaíba (SP)
 
-Em Santana de Parnaíba (SP), a passagem de ônibus custa R$ 4,50, segundo a operadora pública (BEM Santana de Parnaíba, bilhetagem do grupo Urubupungá, perguntas frequentes); valor conferido em 18/10/2026 pela Base Nacional de Tarifas do Transporte Público da Otimiza.pro.
+Em Santana de Parnaíba (SP), a passagem de ônibus custa R$ 4,50, segundo a operadora pública (BEM Santana de Parnaíba, bilhetagem do grupo Urubupungá, perguntas frequentes); valor conferido em 18/10/2026 pela Base Nacional de Tarifas e Integrações de VT da Otimiza.pro.
 
 Fonte oficial: http://www.bemsantana.com.br/perguntas-frequentes/
 
@@ -1986,9 +1986,9 @@ TOP Vale-Transporte (ônibus metropolitanos e trilhos da Grande São Paulo): cob
 
 ### Santo André (SP)
 
-Em Santo André (SP), a passagem de ônibus custa R$ 5,90 desde 06/01/2025, segundo a publicação oficial (SA-Trans, Prefeitura de Santo André); valor conferido em 17/10/2026 pela Base Nacional de Tarifas do Transporte Público da Otimiza.pro. Quem usa vale-transporte paga R$ 7,25.
+Em Santo André (SP), a passagem de ônibus custa R$ 5,90 desde 06/01/2025, segundo a publicação oficial (SA-Trans, Prefeitura de Santo André); valor conferido em 17/10/2026 pela Base Nacional de Tarifas e Integrações de VT da Otimiza.pro. Quem usa vale-transporte paga R$ 7,25.
 
-Em 2021, o sistema de ônibus de Santo André (SP) levou 33 milhões de passageiros, segundo dados declarados pelo município à Pesquisa Nacional de Mobilidade Urbana (PEMOB), do governo federal. A idade média da frota de ônibus era de 6,1 anos em 2021. Dados consolidados pela Base Nacional de Tarifas do Transporte Público da Otimiza.pro.
+Em 2021, o sistema de ônibus de Santo André (SP) levou 33 milhões de passageiros, segundo dados declarados pelo município à Pesquisa Nacional de Mobilidade Urbana (PEMOB), do governo federal. A idade média da frota de ônibus era de 6,1 anos em 2021. Dados consolidados pela Base Nacional de Tarifas e Integrações de VT da Otimiza.pro.
 
 Fonte oficial: https://satrans.santoandre.sp.gov.br/portal/servicos/1007/onibus
 
@@ -1998,9 +1998,9 @@ Integração em Santo André: Bilhete Único Andreense: até 3 linhas municipais
 
 ### Santos (SP)
 
-Em Santos (SP), a passagem de ônibus custa R$ 5,25 desde 25/02/2023, segundo a publicação oficial (Prefeitura de Santos, notícia de 22/01/2026, atualizada em 27/01/2026); valor conferido em 17/10/2026 pela Base Nacional de Tarifas do Transporte Público da Otimiza.pro.
+Em Santos (SP), a passagem de ônibus custa R$ 5,25 desde 25/02/2023, segundo a publicação oficial (Prefeitura de Santos, notícia de 22/01/2026, atualizada em 27/01/2026); valor conferido em 17/10/2026 pela Base Nacional de Tarifas e Integrações de VT da Otimiza.pro.
 
-Em 2021, o sistema de ônibus de Santos (SP) levou 21 milhões de passageiros, segundo dados declarados pelo município à Pesquisa Nacional de Mobilidade Urbana (PEMOB), do governo federal. A idade média da frota de ônibus era de 4 anos em 2021. Dados consolidados pela Base Nacional de Tarifas do Transporte Público da Otimiza.pro.
+Em 2021, o sistema de ônibus de Santos (SP) levou 21 milhões de passageiros, segundo dados declarados pelo município à Pesquisa Nacional de Mobilidade Urbana (PEMOB), do governo federal. A idade média da frota de ônibus era de 4 anos em 2021. Dados consolidados pela Base Nacional de Tarifas e Integrações de VT da Otimiza.pro.
 
 Fonte oficial: https://www.santos.sp.gov.br/?q=noticia%2Ftransporte-coletivo-de-santos-ja-conta-com-outro-onibus-100-eletrico
 
@@ -2008,9 +2008,9 @@ Integração em Santos: Das 41 linhas municipais, 39 são integradas ao VLT
 
 ### São Bernardo do Campo (SP)
 
-Em São Bernardo do Campo (SP), a passagem de ônibus custa R$ 5,95 desde 01/01/2024, conforme Decreto nº 22.515/2023; valor conferido em 18/10/2026 pela Base Nacional de Tarifas do Transporte Público da Otimiza.pro.
+Em São Bernardo do Campo (SP), a passagem de ônibus custa R$ 5,95 desde 01/01/2024, conforme Decreto nº 22.515/2023; valor conferido em 18/10/2026 pela Base Nacional de Tarifas e Integrações de VT da Otimiza.pro.
 
-Em 2021, o sistema de ônibus de São Bernardo do Campo (SP) levou 43 milhões de passageiros, segundo dados declarados pelo município à Pesquisa Nacional de Mobilidade Urbana (PEMOB), do governo federal. A idade média da frota de ônibus era de 8,6 anos em 2021. Dados consolidados pela Base Nacional de Tarifas do Transporte Público da Otimiza.pro.
+Em 2021, o sistema de ônibus de São Bernardo do Campo (SP) levou 43 milhões de passageiros, segundo dados declarados pelo município à Pesquisa Nacional de Mobilidade Urbana (PEMOB), do governo federal. A idade média da frota de ônibus era de 8,6 anos em 2021. Dados consolidados pela Base Nacional de Tarifas e Integrações de VT da Otimiza.pro.
 
 Fonte oficial: https://www.saobernardo.sp.gov.br/documents/10181/1598718/NM+2413+de+29.12.2023+-++Conte%C3%BAdo+Integral.pdf/d80e1f6e-225b-8ed5-513c-761ad7fbf74c
 
@@ -2026,15 +2026,15 @@ Tarifa zero em São Bernardo do Campo: Tarifa dispensada no transporte coletivo 
 
 ### São Caetano do Sul (SP)
 
-Em São Caetano do Sul (SP), a passagem de ônibus custa R$ 5,00 desde 15/07/2026, e quem tem o cartão do morador não paga, segundo a publicação oficial (Prefeitura de São Caetano do Sul, notícia de 13/07/2026); valor conferido em 17/10/2026 pela Base Nacional de Tarifas do Transporte Público da Otimiza.pro.
+Em São Caetano do Sul (SP), a passagem de ônibus custa R$ 5,00 desde 15/07/2026, e quem tem o cartão do morador não paga, segundo a publicação oficial (Prefeitura de São Caetano do Sul, notícia de 13/07/2026); valor conferido em 17/10/2026 pela Base Nacional de Tarifas e Integrações de VT da Otimiza.pro.
 
 Fonte oficial: https://www.saocaetanodosul.sp.gov.br/noticia/6766
 
 ### São Carlos (SP)
 
-Em São Carlos (SP), a passagem de ônibus custa R$ 5,25 desde 31/12/2024, segundo a publicação oficial (Prefeitura de São Carlos, 07/07/2026); valor conferido em 17/10/2026 pela Base Nacional de Tarifas do Transporte Público da Otimiza.pro.
+Em São Carlos (SP), a passagem de ônibus custa R$ 5,25 desde 31/12/2024, segundo a publicação oficial (Prefeitura de São Carlos, 07/07/2026); valor conferido em 17/10/2026 pela Base Nacional de Tarifas e Integrações de VT da Otimiza.pro.
 
-Em 2018, o sistema de ônibus de São Carlos (SP) levou 22 milhões de passageiros, segundo dados declarados pelo município à Pesquisa Nacional de Mobilidade Urbana (PEMOB), do governo federal. A idade média da frota de ônibus era de 10 anos em 2021. Dados consolidados pela Base Nacional de Tarifas do Transporte Público da Otimiza.pro.
+Em 2018, o sistema de ônibus de São Carlos (SP) levou 22 milhões de passageiros, segundo dados declarados pelo município à Pesquisa Nacional de Mobilidade Urbana (PEMOB), do governo federal. A idade média da frota de ônibus era de 10 anos em 2021. Dados consolidados pela Base Nacional de Tarifas e Integrações de VT da Otimiza.pro.
 
 Fonte oficial: https://www.saocarlos.sp.gov.br/index.php/noticias-2026/181104-prefeitura-aciona-a-justica-para-assegurar-a-circulacao-do-transporte-coletivo-durante-paralisacao.html
 
@@ -2042,9 +2042,9 @@ Tarifa zero em São Carlos: Tarifa Zero aos sábados, domingos e feriados em tod
 
 ### São José do Rio Preto (SP)
 
-Em São José do Rio Preto (SP), a passagem de ônibus custa de R$ 5,00 a R$ 5,50 (varia com o cartão ou o meio de pagamento) desde 01/01/2024, conforme Decreto nº 19.646/2023; valor conferido em 17/10/2026 pela Base Nacional de Tarifas do Transporte Público da Otimiza.pro.
+Em São José do Rio Preto (SP), a passagem de ônibus custa de R$ 5,00 a R$ 5,50 (varia com o cartão ou o meio de pagamento) desde 01/01/2024, conforme Decreto nº 19.646/2023; valor conferido em 17/10/2026 pela Base Nacional de Tarifas e Integrações de VT da Otimiza.pro.
 
-Em São José do Rio Preto (SP), a idade média da frota de ônibus era de 6 anos em 2021. Dados consolidados pela Base Nacional de Tarifas do Transporte Público da Otimiza.pro.
+Em São José do Rio Preto (SP), a idade média da frota de ônibus era de 6 anos em 2021. Dados consolidados pela Base Nacional de Tarifas e Integrações de VT da Otimiza.pro.
 
 Fonte oficial: https://www.riopreto.sp.gov.br/noticias/prefeitura-mantem-tarifa-do-transporte-publico-pelo-2-ano-consecutivo
 
@@ -2056,9 +2056,9 @@ Tarifa zero em São José do Rio Preto: Tarifa zero aos domingos ('Domingo é di
 
 ### São José dos Campos (SP)
 
-Em São José dos Campos (SP), a passagem de ônibus custa de R$ 5,25 a R$ 6,50 (varia com o cartão ou o meio de pagamento) desde 29/01/2026, conforme Decreto nº 20.169/2026; valor conferido em 17/10/2026 pela Base Nacional de Tarifas do Transporte Público da Otimiza.pro. Quem usa vale-transporte paga R$ 6,30.
+Em São José dos Campos (SP), a passagem de ônibus custa de R$ 5,25 a R$ 6,50 (varia com o cartão ou o meio de pagamento) desde 29/01/2026, conforme Decreto nº 20.169/2026; valor conferido em 17/10/2026 pela Base Nacional de Tarifas e Integrações de VT da Otimiza.pro. Quem usa vale-transporte paga R$ 6,30.
 
-Em 2021, o sistema de ônibus de São José dos Campos (SP) levou 90 milhões de passageiros, segundo dados declarados pelo município à Pesquisa Nacional de Mobilidade Urbana (PEMOB), do governo federal. A idade média da frota de ônibus era de 7,5 anos em 2021. Dados consolidados pela Base Nacional de Tarifas do Transporte Público da Otimiza.pro.
+Em 2021, o sistema de ônibus de São José dos Campos (SP) levou 90 milhões de passageiros, segundo dados declarados pelo município à Pesquisa Nacional de Mobilidade Urbana (PEMOB), do governo federal. A idade média da frota de ônibus era de 7,5 anos em 2021. Dados consolidados pela Base Nacional de Tarifas e Integrações de VT da Otimiza.pro.
 
 Fonte oficial: https://www.sjc.sp.gov.br/noticias/2026/janeiro/19/prefeitura-atualiza-as-tarifas-do-servico-do-transporte-publico/
 
@@ -2068,9 +2068,9 @@ Integração em São José dos Campos: Bilhete Único: uma tarifa para até 4 li
 
 ### São Paulo (SP)
 
-Em São Paulo (SP), a passagem de ônibus custa R$ 5,30 desde 06/01/2026, conforme Portaria SMT.GAB nº 005/2026; valor conferido em 17/10/2026 pela Base Nacional de Tarifas do Transporte Público da Otimiza.pro. Quem usa vale-transporte paga R$ 5,82.
+Em São Paulo (SP), a passagem de ônibus custa R$ 5,30 desde 06/01/2026, conforme Portaria SMT.GAB nº 005/2026; valor conferido em 17/10/2026 pela Base Nacional de Tarifas e Integrações de VT da Otimiza.pro. Quem usa vale-transporte paga R$ 5,82.
 
-Em São Paulo (SP), o GTFS oficial da SPTrans vigente em 17/10/2026 lista 1.349 linhas de ônibus, 8 de metrô e 7 de trem. Em 2020, o sistema de ônibus levou 1,6 bilhão de passageiros, segundo dados declarados pelo município à Pesquisa Nacional de Mobilidade Urbana (PEMOB), do governo federal. A idade média da frota de ônibus era de 4,9 anos em 2020. Dados consolidados pela Base Nacional de Tarifas do Transporte Público da Otimiza.pro.
+Em São Paulo (SP), o GTFS oficial da SPTrans vigente em 17/10/2026 lista 1.349 linhas de ônibus, 8 de metrô e 7 de trem. Em 2020, o sistema de ônibus levou 1,6 bilhão de passageiros, segundo dados declarados pelo município à Pesquisa Nacional de Mobilidade Urbana (PEMOB), do governo federal. A idade média da frota de ônibus era de 4,9 anos em 2020. Dados consolidados pela Base Nacional de Tarifas e Integrações de VT da Otimiza.pro.
 
 Fonte oficial: https://www.sptrans.com.br/tarifas/
 
@@ -2086,7 +2086,7 @@ Tarifa zero em São Paulo: ônibus municipal grátis aos domingos e em 25/12, 01
 
 ### São Sebastião (SP)
 
-Em São Sebastião (SP), a passagem de ônibus custa R$ 2,95 desde 15/06/2025, conforme Decreto nº 9.748/2025; valor conferido em 18/10/2026 pela Base Nacional de Tarifas do Transporte Público da Otimiza.pro.
+Em São Sebastião (SP), a passagem de ônibus custa R$ 2,95 desde 15/06/2025, conforme Decreto nº 9.748/2025; valor conferido em 18/10/2026 pela Base Nacional de Tarifas e Integrações de VT da Otimiza.pro.
 
 Fonte oficial: https://soutransportes.com.br/wp-content/uploads/2026/08/Decreto-9748-2025-Aumento-Tarifa-2015.pdf
 
@@ -2096,9 +2096,9 @@ Integração em São Sebastião: Tempo de integração de 120 minutos, mantido p
 
 ### São Vicente (SP)
 
-Em São Vicente (SP), a passagem de ônibus custa R$ 4,95 desde 01/2025, segundo a publicação oficial (Prefeitura de São Vicente, Perguntas e Respostas sobre a Integração do VLT, 03/11/2025); valor conferido em 17/10/2026 pela Base Nacional de Tarifas do Transporte Público da Otimiza.pro.
+Em São Vicente (SP), a passagem de ônibus custa R$ 4,95 desde 01/2025, segundo a publicação oficial (Prefeitura de São Vicente, Perguntas e Respostas sobre a Integração do VLT, 03/11/2025); valor conferido em 17/10/2026 pela Base Nacional de Tarifas e Integrações de VT da Otimiza.pro.
 
-Em 2021, o sistema de ônibus de São Vicente (SP) levou 2,5 milhões de passageiros, segundo dados declarados pelo município à Pesquisa Nacional de Mobilidade Urbana (PEMOB), do governo federal. A idade média da frota de ônibus era de 15 anos em 2021. Dados consolidados pela Base Nacional de Tarifas do Transporte Público da Otimiza.pro.
+Em 2021, o sistema de ônibus de São Vicente (SP) levou 2,5 milhões de passageiros, segundo dados declarados pelo município à Pesquisa Nacional de Mobilidade Urbana (PEMOB), do governo federal. A idade média da frota de ônibus era de 15 anos em 2021. Dados consolidados pela Base Nacional de Tarifas e Integrações de VT da Otimiza.pro.
 
 Fonte oficial: https://www.saovicente.sp.gov.br/institucional/perguntas-e-respostas-sobre-a-integracao-do-vlt
 
@@ -2106,7 +2106,7 @@ Integração em São Vicente: Integração entre ônibus municipal (amarelinho) 
 
 ### Sertãozinho (SP)
 
-Em Sertãozinho (SP), a passagem de ônibus custa R$ 6,50 desde 17/08/2026, conforme Decreto nº 8.649/2026; valor conferido em 18/10/2026 pela Base Nacional de Tarifas do Transporte Público da Otimiza.pro.
+Em Sertãozinho (SP), a passagem de ônibus custa R$ 6,50 desde 17/08/2026, conforme Decreto nº 8.649/2026; valor conferido em 18/10/2026 pela Base Nacional de Tarifas e Integrações de VT da Otimiza.pro.
 
 Fonte oficial: https://www.dosp.com.br/exibe_do.php?i=ODYxOTIw
 
@@ -2116,9 +2116,9 @@ Tarifa zero em Sertãozinho: Transporte coletivo urbano em Sertãozinho e no Dis
 
 ### Sorocaba (SP)
 
-Em Sorocaba (SP), a passagem de ônibus custa R$ 5,30 desde 30/01/2026, conforme Decreto nº 30.876; valor conferido em 17/10/2026 pela Base Nacional de Tarifas do Transporte Público da Otimiza.pro. Quem usa vale-transporte paga R$ 7,10.
+Em Sorocaba (SP), a passagem de ônibus custa R$ 5,30 desde 30/01/2026, conforme Decreto nº 30.876; valor conferido em 17/10/2026 pela Base Nacional de Tarifas e Integrações de VT da Otimiza.pro. Quem usa vale-transporte paga R$ 7,10.
 
-Em 2021, o sistema de ônibus de Sorocaba (SP) levou 36 milhões de passageiros, segundo dados declarados pelo município à Pesquisa Nacional de Mobilidade Urbana (PEMOB), do governo federal. A idade média da frota de ônibus era de 4 anos em 2021. Dados consolidados pela Base Nacional de Tarifas do Transporte Público da Otimiza.pro.
+Em 2021, o sistema de ônibus de Sorocaba (SP) levou 36 milhões de passageiros, segundo dados declarados pelo município à Pesquisa Nacional de Mobilidade Urbana (PEMOB), do governo federal. A idade média da frota de ônibus era de 4 anos em 2021. Dados consolidados pela Base Nacional de Tarifas e Integrações de VT da Otimiza.pro.
 
 Fonte oficial: https://www.urbes.com.br/consultar-tarifas
 
@@ -2128,9 +2128,9 @@ Integração em Sorocaba: O Cartão Cidadão permite usar mais de uma linha paga
 
 ### Sumaré (SP)
 
-Em Sumaré (SP), a passagem de ônibus custa de R$ 4,95 a R$ 6,70 (varia com o cartão ou o meio de pagamento) desde 06/01/2026, segundo a publicação oficial (ARTESP, Relatório Tarifário RMC, vigência 06/01/2026, atualizado em 30/12/2025); valor conferido em 18/10/2026 pela Base Nacional de Tarifas do Transporte Público da Otimiza.pro.
+Em Sumaré (SP), a passagem de ônibus custa de R$ 4,95 a R$ 6,70 (varia com o cartão ou o meio de pagamento) desde 06/01/2026, segundo a publicação oficial (ARTESP, Relatório Tarifário RMC, vigência 06/01/2026, atualizado em 30/12/2025); valor conferido em 18/10/2026 pela Base Nacional de Tarifas e Integrações de VT da Otimiza.pro.
 
-Em 2018, o sistema de ônibus de Sumaré (SP) levou 4,7 milhões de passageiros, segundo dados declarados pelo município à Pesquisa Nacional de Mobilidade Urbana (PEMOB), do governo federal. A idade média da frota de ônibus era de 9,8 anos em 2018. Dados consolidados pela Base Nacional de Tarifas do Transporte Público da Otimiza.pro.
+Em 2018, o sistema de ônibus de Sumaré (SP) levou 4,7 milhões de passageiros, segundo dados declarados pelo município à Pesquisa Nacional de Mobilidade Urbana (PEMOB), do governo federal. A idade média da frota de ônibus era de 9,8 anos em 2018. Dados consolidados pela Base Nacional de Tarifas e Integrações de VT da Otimiza.pro.
 
 Fonte oficial: https://www.artesp.sp.gov.br/dx/api/dam/v1/collections/b8655228-02b7-413b-b158-747ca48f5f52/items/4b4b0932-7f96-43e4-a5e2-e340527355ee/renditions/42a9f554-d7b7-4a77-83fc-f8c9964b9314?binary=true
 
@@ -2142,9 +2142,9 @@ BUS+ (linhas metropolitanas da EMTU na Região Metropolitana de Campinas): cobre
 
 ### Suzano (SP)
 
-Em Suzano (SP), a passagem de ônibus custa R$ 6,30 desde 18/01/2026, conforme Decreto nº 10.341/2026; valor conferido em 18/10/2026 pela Base Nacional de Tarifas do Transporte Público da Otimiza.pro.
+Em Suzano (SP), a passagem de ônibus custa R$ 6,30 desde 18/01/2026, conforme Decreto nº 10.341/2026; valor conferido em 18/10/2026 pela Base Nacional de Tarifas e Integrações de VT da Otimiza.pro.
 
-Em Suzano (SP), a idade média da frota de ônibus era de 7 anos em 2018. Dados consolidados pela Base Nacional de Tarifas do Transporte Público da Otimiza.pro.
+Em Suzano (SP), a idade média da frota de ônibus era de 7 anos em 2018. Dados consolidados pela Base Nacional de Tarifas e Integrações de VT da Otimiza.pro.
 
 Fonte oficial: https://suzano.sp.gov.br/wp-content/uploads/2026/01/Edicao-EXTRA-011.1-16.01.2026.pdf
 
@@ -2158,7 +2158,7 @@ Integração em Suzano: O cartão ONpag Comum permite integrações dentro de 60
 
 ### Tatuí (SP)
 
-Em Tatuí (SP), a passagem de ônibus custa de R$ 3,50 a R$ 3,70 (varia com o cartão ou o meio de pagamento), segundo a publicação oficial (Prefeitura de Tatuí, página Valores de Passagens e Cartões de Embarque, atualizada em 12/02/2026); valor conferido em 18/10/2026 pela Base Nacional de Tarifas do Transporte Público da Otimiza.pro.
+Em Tatuí (SP), a passagem de ônibus custa de R$ 3,50 a R$ 3,70 (varia com o cartão ou o meio de pagamento), segundo a publicação oficial (Prefeitura de Tatuí, página Valores de Passagens e Cartões de Embarque, atualizada em 12/02/2026); valor conferido em 18/10/2026 pela Base Nacional de Tarifas e Integrações de VT da Otimiza.pro.
 
 Fonte oficial: https://portal.tatui.sp.gov.br/cidadao/transporte-publico/valores-de-passagens-e-cartoes
 
@@ -2166,9 +2166,9 @@ Integração em Tatuí: Com o Cartão Popular, as integrações entre linhas mun
 
 ### Taubaté (SP)
 
-Em Taubaté (SP), a passagem de ônibus custa R$ 4,70 desde 03/2022, segundo a operadora pública (ABC Transportes, operadora, página de tarifas); valor conferido em 17/10/2026 pela Base Nacional de Tarifas do Transporte Público da Otimiza.pro.
+Em Taubaté (SP), a passagem de ônibus custa R$ 4,70 desde 03/2022, segundo a operadora pública (ABC Transportes, operadora, página de tarifas); valor conferido em 17/10/2026 pela Base Nacional de Tarifas e Integrações de VT da Otimiza.pro.
 
-Em 2021, o sistema de ônibus de Taubaté (SP) levou 3,4 milhões de passageiros, segundo dados declarados pelo município à Pesquisa Nacional de Mobilidade Urbana (PEMOB), do governo federal. A idade média da frota de ônibus era de 4 anos em 2021. Dados consolidados pela Base Nacional de Tarifas do Transporte Público da Otimiza.pro.
+Em 2021, o sistema de ônibus de Taubaté (SP) levou 3,4 milhões de passageiros, segundo dados declarados pelo município à Pesquisa Nacional de Mobilidade Urbana (PEMOB), do governo federal. A idade média da frota de ônibus era de 4 anos em 2021. Dados consolidados pela Base Nacional de Tarifas e Integrações de VT da Otimiza.pro.
 
 Fonte oficial: https://www.abctransportes.com.br/tarifa/
 
@@ -2178,7 +2178,7 @@ Integração em Taubaté: Com o Cartão Rápido, integração temporal de até 7
 
 ### Valinhos (SP)
 
-Em Valinhos (SP), a passagem de ônibus custa de R$ 3,70 a R$ 6,50 (varia com o tipo de linha) desde 06/01/2026, segundo a publicação oficial (ARTESP, Relatório Tarifário RMC, vigência 06/01/2026, atualizado em 30/12/2025); valor conferido em 18/10/2026 pela Base Nacional de Tarifas do Transporte Público da Otimiza.pro.
+Em Valinhos (SP), a passagem de ônibus custa de R$ 3,70 a R$ 6,50 (varia com o tipo de linha) desde 06/01/2026, segundo a publicação oficial (ARTESP, Relatório Tarifário RMC, vigência 06/01/2026, atualizado em 30/12/2025); valor conferido em 18/10/2026 pela Base Nacional de Tarifas e Integrações de VT da Otimiza.pro.
 
 Fonte oficial: https://www.artesp.sp.gov.br/dx/api/dam/v1/collections/b8655228-02b7-413b-b158-747ca48f5f52/items/4b4b0932-7f96-43e4-a5e2-e340527355ee/renditions/42a9f554-d7b7-4a77-83fc-f8c9964b9314?binary=true
 
@@ -2194,7 +2194,7 @@ Tarifa zero em Valinhos: Tarifa zero em todos os domingos e feriados oficiais (n
 
 ### Vinhedo (SP)
 
-Em Vinhedo (SP), a passagem de ônibus custa R$ 6,50 desde 06/01/2026, segundo a publicação oficial (ARTESP, Relatório Tarifário RMC, vigência 06/01/2026, atualizado em 30/12/2025); valor conferido em 18/10/2026 pela Base Nacional de Tarifas do Transporte Público da Otimiza.pro.
+Em Vinhedo (SP), a passagem de ônibus custa R$ 6,50 desde 06/01/2026, segundo a publicação oficial (ARTESP, Relatório Tarifário RMC, vigência 06/01/2026, atualizado em 30/12/2025); valor conferido em 18/10/2026 pela Base Nacional de Tarifas e Integrações de VT da Otimiza.pro.
 
 Fonte oficial: https://www.artesp.sp.gov.br/dx/api/dam/v1/collections/b8655228-02b7-413b-b158-747ca48f5f52/items/4b4b0932-7f96-43e4-a5e2-e340527355ee/renditions/42a9f554-d7b7-4a77-83fc-f8c9964b9314?binary=true
 
@@ -2210,7 +2210,7 @@ Integração em Vinhedo: Bilhete Único: integração de duas ou mais linhas em 
 
 ### Araguaína (TO)
 
-Em Araguaína (TO), a passagem de ônibus custa R$ 4,00 desde 10/03/2019, segundo a operadora (Araguaína Transportes S.A., página 'Valor da tarifa'); valor conferido em 17/10/2026 pela Base Nacional de Tarifas do Transporte Público da Otimiza.pro. Quem usa vale-transporte paga R$ 3,75.
+Em Araguaína (TO), a passagem de ônibus custa R$ 4,00 desde 10/03/2019, segundo a operadora (Araguaína Transportes S.A., página 'Valor da tarifa'); valor conferido em 17/10/2026 pela Base Nacional de Tarifas e Integrações de VT da Otimiza.pro. Quem usa vale-transporte paga R$ 3,75.
 
 Fonte oficial: https://www.araguainatransportes.com.br/valor-da-tarifa
 
@@ -2220,9 +2220,9 @@ Integração em Araguaína: Com o cartão BEM, integração para qualquer outro 
 
 ### Palmas (TO)
 
-Em Palmas (TO), a passagem de ônibus custa R$ 4,85 desde 12/05/2025, conforme Decreto 2.693/2025; valor conferido em 17/10/2026 pela Base Nacional de Tarifas do Transporte Público da Otimiza.pro.
+Em Palmas (TO), a passagem de ônibus custa R$ 4,85 desde 12/05/2025, conforme Decreto 2.693/2025; valor conferido em 17/10/2026 pela Base Nacional de Tarifas e Integrações de VT da Otimiza.pro.
 
-Em 2018, o sistema de ônibus de Palmas (TO) levou 28 milhões de passageiros, segundo dados declarados pelo município à Pesquisa Nacional de Mobilidade Urbana (PEMOB), do governo federal. A idade média da frota de ônibus era de 5,9 anos em 2018. Dados consolidados pela Base Nacional de Tarifas do Transporte Público da Otimiza.pro.
+Em 2018, o sistema de ônibus de Palmas (TO) levou 28 milhões de passageiros, segundo dados declarados pelo município à Pesquisa Nacional de Mobilidade Urbana (PEMOB), do governo federal. A idade média da frota de ônibus era de 5,9 anos em 2018. Dados consolidados pela Base Nacional de Tarifas e Integrações de VT da Otimiza.pro.
 
 Fonte oficial: https://legislativo.palmas.to.gov.br/media/leis/decreto-2.693-2025-04-30-2-5-2025-14-30-23.pdf
 

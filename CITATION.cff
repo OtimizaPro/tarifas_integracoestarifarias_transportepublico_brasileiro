@@ -1,12 +1,12 @@
 cff-version: 1.2.0
 message: "Se usar estes dados, cite a Otimiza.pro como abaixo."
-title: "Base Nacional de Tarifas do Transporte Público"
+title: "Base Nacional de Tarifas e Integrações de Operadoras do Transporte Público e Vale-Transporte"
 abstract: "Tarifas, integrações, gratuidades, promoções tarifárias e regras de vale-transporte do transporte público brasileiro, com a fonte e a data de conferência de cada valor e, quando a fonte informa, o ato oficial e a vigência."
 type: dataset
 authors:
   - name: "Otimiza.pro"
     website: "https://otimizapro.com"
-version: "2026.10.19"
+version: "2026.10.19.2"
 date-released: "2026-10-19"
 license: CC-BY-NC-4.0
 repository-code: "https://github.com/OtimizaPro/tarifas_integracoestarifarias_transportepublico_brasileiro"
