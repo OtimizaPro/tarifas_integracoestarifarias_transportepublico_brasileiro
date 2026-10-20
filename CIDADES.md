@@ -1,8 +1,8 @@
 # Tarifas do transporte público por cidade (Otimiza.pro)
 
-Quanto custa o transporte público em 248 municípios brasileiros, segundo a Base Nacional de Tarifas e Integrações de VT da Otimiza.pro (versão 2026.10.20.3). Cada frase traz o valor, a fonte e a data em que a Otimiza.pro conferiu e, quando a fonte informa, o ato oficial e a data em que passou a valer. A fonte oficial de cada valor está indicada. Onde há dados de serviço e oferta, a ficha traz também linhas e passageiros, com a fonte e a data.
+Quanto custa o transporte público em 266 municípios brasileiros, segundo a Base Nacional de Tarifas e Integrações de VT da Otimiza.pro (versão 2026.10.20.4). Cada frase traz o valor, a fonte e a data em que a Otimiza.pro conferiu e, quando a fonte informa, o ato oficial e a data em que passou a valer. A fonte oficial de cada valor está indicada. Onde há dados de serviço e oferta, a ficha traz também linhas e passageiros, com a fonte e a data.
 
-Como citar: Fonte: Otimiza.pro, Base Nacional de Tarifas e Integrações de Operadoras do Transporte Público e Vale-Transporte, versão 2026.10.20.3. DOI: https://doi.org/10.5281/zenodo.23486211. https://github.com/OtimizaPro/tarifas_integracoestarifarias_transportepublico_brasileiro
+Como citar: Fonte: Otimiza.pro, Base Nacional de Tarifas e Integrações de Operadoras do Transporte Público e Vale-Transporte, versão 2026.10.20.4. DOI: https://doi.org/10.5281/zenodo.23486211. https://github.com/OtimizaPro/tarifas_integracoestarifarias_transportepublico_brasileiro
 
 ## AC
 
@@ -30,6 +30,16 @@ Integração em Rio Branco: Sistema Integrado de Transporte Urbano (SITURB): o P
 
 ## AL
 
+### Arapiraca (AL)
+
+Em Arapiraca (AL), a passagem de ônibus custa R$ 4,00, conforme Deliberação do CMTT em 21/11/2023 pela manutenção do valor; valor conferido em 20/10/2026 pela Base Nacional de Tarifas e Integrações de VT da Otimiza.pro.
+
+Página da cidade: https://otimizapro.com/tarifa/al/arapiraca
+
+Fonte (imprensa): https://reportermaceio.com.br/arapiraca-conselho-municipal-de-transportes-e-transito-de-arapiraca-mantem-valor-da-tarifa-do-transporte-coletivo-de-passageiros-em-r-400/
+
+Tarifa zero em Arapiraca: Transporte coletivo gratuito no 1º turno das Eleições 2026 (04/10/2026) e no eventual 2º turno (25/10/2026), com frota de dia útil
+
 ### Maceió (AL)
 
 Em Maceió (AL), a passagem de ônibus custa de R$ 3,49 a R$ 4,00 (varia com o cartão ou o meio de pagamento) desde 31/05/2023, conforme Decreto 9.449/2023; valor conferido em 17/10/2026 pela Base Nacional de Tarifas e Integrações de VT da Otimiza.pro.
@@ -43,6 +53,16 @@ Vale-transporte em Maceió: cartão Vamu Vale-Transporte; emitido por Vamu Mobil
 Integração em Maceió: 90 min, 2 ônibus, uma passagem
 
 Tarifa zero em Maceió: Domingo é Livre: ônibus grátis aos domingos com o Vamu Cidadão
+
+### Rio Largo (AL)
+
+Em Rio Largo (AL), a passagem de ônibus custa R$ 1,00, segundo a imprensa (Tribuna Hoje, 13/01/2025); valor conferido em 20/10/2026 pela Base Nacional de Tarifas e Integrações de VT da Otimiza.pro.
+
+Página da cidade: https://otimizapro.com/tarifa/al/rio-largo
+
+Fonte (imprensa): https://tribunahoje.com/noticias/cidades/2025/01/13/149947-bora-de-busao-rio-largo-recebe-nova-linha-de-onibus-com-a-tarifa-municipal-mais-barata-do-brasil-por-r1
+
+Integração em Rio Largo: Transbordo na Forene entre as linhas municipais de R$ 1 e as linhas do SIMM de Maceió, pagando a tarifa Cidadão de R$ 4,00 ou com VT
 
 ## AM
 
@@ -148,6 +168,14 @@ Cartão Vale Transporte do Siticard (ônibus urbanos de Itabuna): cobre ônibus 
 
 Rotacard (linhas semiurbanas da Rota Transportes entre Itabuna, Ilhéus e cidades vizinhas): cobre ônibus semiurbanos intermunicipais da Rota Transportes, regulados pela Agerba; cartão Rotacard; emitido por Rota Transportes Rodoviários Ltda., com sede em Itabuna; canal de compra da empresa: portal de recarga para empresas da Bilhetagem Digital (rota.bilhetagemdigital.com.br/empresas), no item Recarga empresas do site da Rota ('Recarregue aqui os cartões da sua equipe'); taxa na compra: não citada no site da Rota.
 
+### Juazeiro (BA)
+
+Em Juazeiro (BA), a passagem de ônibus custa de R$ 4,60 a R$ 5,60 (varia com o tipo de linha), conforme Contrato nº 259/2025; valor conferido em 20/10/2026 pela Base Nacional de Tarifas e Integrações de VT da Otimiza.pro.
+
+Página da cidade: https://otimizapro.com/tarifa/ba/juazeiro
+
+Fonte (página oficial): https://www.juazeiro.ba.gov.br/wp-content/uploads/2025/08/CT-259-2025-ATLANTICO-TRANSP.pdf
+
 ### Lauro de Freitas (BA)
 
 Em Lauro de Freitas (BA), a passagem de ônibus custa R$ 5,20 desde 27/03/2024, segundo a publicação oficial (AGERBA, Certificado de Autorização de Tráfego, CAT metropolitano da Expresso Luxo Vitória); valor conferido em 17/10/2026 pela Base Nacional de Tarifas e Integrações de VT da Otimiza.pro.
@@ -157,6 +185,14 @@ Página da cidade: https://otimizapro.com/tarifa/ba/lauro-de-freitas
 Fonte (página oficial): https://www.ba.gov.br/agerba/sites/site-agerba/files/2025-08/CAT%20financeiro%20-%20Expresso%20Luxo%20%28metropolitano%29%20%281%29.pdf
 
 Integração em Lauro de Freitas: A AGERBA informa que a integração com o metrô no Terminal Aeroporto dá acesso a Lauro de Freitas 'mediante tarifa integrada', sem detalhar valor ou janela
+
+### Porto Seguro (BA)
+
+Em Porto Seguro (BA), a passagem de ônibus custa R$ 5,00 desde 13/01/2025, conforme Decreto nº 16.625/2025; valor conferido em 20/10/2026 pela Base Nacional de Tarifas e Integrações de VT da Otimiza.pro.
+
+Página da cidade: https://otimizapro.com/tarifa/ba/porto-seguro
+
+Fonte (imprensa): https://atarde.com.br/politica/prefeito-de-porto-seguro-aumenta-tarifa-do-transporte-para-r-5-1302451
 
 ### Salvador (BA)
 
@@ -269,6 +305,22 @@ Fonte (operadora): https://viametrocariri.com.br/index.php?page=tarifas
 Vale-transporte em Juazeiro do Norte: cartão VT do Bilhete Único Metropolitano (exige Vale-transporte Metropolitano); a operadora também cita 'Vale Transporte Eletrônico' em seu site; emitido por Viametro Cariri, com subsídio do Governo do Ceará no Bilhete Único.
 
 Integração em Juazeiro do Norte: Bilhete Único Metropolitano do Cariri: paga o primeiro ônibus e tem até 2 horas para embarcar no segundo sem pagar; vale entre linhas metropolitanas (Juazeiro, Crato, Barbalha, Missão Velha), entre linhas urbanas de Juazeiro ou entre as duas redes. Os valores de tarifa citados nessa página oficial (R$ 2,40 e R$ 2,30) estão desatualizados frente à tabela atual da operadora.
+
+### Maracanaú (CE)
+
+Em Maracanaú (CE), a passagem de ônibus custa R$ 3,60, segundo a imprensa (O POVO, 02/02/2026); valor conferido em 20/10/2026 pela Base Nacional de Tarifas e Integrações de VT da Otimiza.pro.
+
+Página da cidade: https://otimizapro.com/tarifa/ce/maracanau
+
+Fonte (imprensa): https://mais.opovo.com.br/jornal/politica/2026/02/02/maracanau-tem-gratuidade-para-85-da-populacao.html
+
+### Sobral (CE)
+
+Em Sobral (CE), a passagem de ônibus custa R$ 1,50 desde 01/06/2023, segundo a imprensa (Sobral Agora, mai/2023); valor conferido em 20/10/2026 pela Base Nacional de Tarifas e Integrações de VT da Otimiza.pro.
+
+Página da cidade: https://otimizapro.com/tarifa/ce/sobral
+
+Fonte (imprensa): https://sobralagora.com.br/2023/05/sobral-atencao-coletivos-da-transol-terao-aumento-no-valor-da-passagem-a-partir-de-1o-de-junho/
 
 ## DF
 
@@ -392,6 +444,14 @@ Integração em Vitória: integração física nos terminais do Transcol, pagand
 
 ## GO
 
+### Águas Lindas de Goiás (GO)
+
+Em Águas Lindas de Goiás (GO), a passagem de ônibus custa R$ 4,75, segundo a imprensa (Metrópoles, 10/05/2026); valor conferido em 20/10/2026 pela Base Nacional de Tarifas e Integrações de VT da Otimiza.pro.
+
+Página da cidade: https://otimizapro.com/tarifa/go/aguas-lindas-de-goias
+
+Fonte (imprensa): https://www.metropoles.com/distrito-federal/entorno/ao-custo-de-r-600-mil-terminal-rodoviario-e-desativado-antes-da-inauguracao
+
 ### Anápolis (GO)
 
 Em Anápolis (GO), a passagem de ônibus custa de R$ 5,25 a R$ 6,00 (varia com o cartão ou o meio de pagamento) desde 01/12/2024, segundo a publicação oficial (Prefeitura de Anápolis, nota da ARM e da Urban sobre a ExpoAna, 29/07/2026); valor conferido em 17/10/2026 pela Base Nacional de Tarifas e Integrações de VT da Otimiza.pro.
@@ -493,6 +553,14 @@ Fonte (página oficial): https://cmtcrmg.com.br/transparencia/deliberacao-no-085
 Vale-transporte em Trindade: cartão Bilhete Único Empresa; emitido por Sitpass (RedeMob Consórcio); canal de compra da empresa: sitpass.com.br (boleto, TED ou Pix); liberação do crédito: até 2 dias úteis após o pagamento; taxa na compra: sem custo de adesão nem de uso do site.
 
 Integração em Trindade: uma tarifa e até 4 integrações em 2h30, sem passar por terminal
+
+### Valparaíso de Goiás (GO)
+
+Em Valparaíso de Goiás (GO), a passagem de ônibus custa R$ 2,90 desde 09/05/2025, segundo a imprensa (Jornal O Grito, 02/03/2026); valor conferido em 20/10/2026 pela Base Nacional de Tarifas e Integrações de VT da Otimiza.pro.
+
+Página da cidade: https://otimizapro.com/tarifa/go/valparaiso-de-goias
+
+Fonte (imprensa): https://ogritonews.com.br/2026/03/02/transporte-coletivo-municipal-vai-de-val-volta-a-operar-em-valparaiso-de-goias/
 
 ## MA
 
@@ -1572,6 +1640,18 @@ Vale-transporte em Niterói: cartão Riocard Mais Vale-Transporte (personalizado
 
 Integração em Niterói: Bilhete Único de Niterói: duas linhas municipais distintas em até 1 hora pagando uma tarifa de R$ 4,45. Também integra com barcas e catamarãs, até 2 integrações por dia (a Prefeitura citou R$ 5,15 e R$ 8,15 em jul/2025).
 
+### Nova Friburgo (RJ)
+
+Em Nova Friburgo (RJ), a passagem de ônibus custa R$ 5,50 desde 01/04/2025, conforme Decreto nº 3.464/2025; valor conferido em 20/10/2026 pela Base Nacional de Tarifas e Integrações de VT da Otimiza.pro.
+
+Página da cidade: https://otimizapro.com/tarifa/rj/nova-friburgo
+
+Fonte (imprensa): https://www.correiodamanha.com.br/correio-serrano/2025/04/191581-nova-tarifa-de-onibus-passa-a-valer-em-nova-friburgo.html
+
+Integração em Nova Friburgo: Integração tarifária automática entre ônibus e vans municipais com o Cartão Partiu, sem cadastro prévio
+
+Tarifa zero em Nova Friburgo: Tarifa zero em todas as linhas urbanas em datas comemorativas definidas por decreto (em 2025: Páscoa, Dia das Mães, aniversário da cidade, Corpus Christi, Dia dos Pais, Dia das Crianças e Finados)
+
 ### Nova Iguaçu (RJ)
 
 Em Nova Iguaçu (RJ), a passagem de ônibus custa R$ 5,95 desde 29/03/2025, conforme Decreto nº 13.906/2025; valor conferido em 17/10/2026 pela Base Nacional de Tarifas e Integrações de VT da Otimiza.pro.
@@ -1599,6 +1679,14 @@ Em Resende (RJ), a passagem de ônibus custa R$ 4,40 desde 24/05/2023, segundo a
 Página da cidade: https://otimizapro.com/tarifa/rj/resende
 
 Fonte (página oficial): https://resende.rj.gov.br/noticias/princesinha-do-vale-nova-empresa-de-transporte-publico-de-resende-comeca-a-operar-nesta-quarta-feira
+
+### Rio das Ostras (RJ)
+
+Em Rio das Ostras (RJ), a passagem do transporte alternativo (vans e micro-ônibus) custa R$ 3,75 desde 01/03/2023, conforme Decreto nº 3534/2023; valor conferido em 20/10/2026 pela Base Nacional de Tarifas e Integrações de VT da Otimiza.pro.
+
+Página da cidade: https://otimizapro.com/tarifa/rj/rio-das-ostras
+
+Fonte (página oficial): https://www.riodasostras.rj.gov.br/subsistema-de-transporte-urbano-de-rio-das-ostras-tem-realinhamento-de-valor-de-tarifa/
 
 ### Rio de Janeiro (RJ)
 
@@ -2210,6 +2298,18 @@ Integração em Araraquara: Com o NovoCard, integração em qualquer ponto da ci
 
 Tarifa zero em Araraquara: Tarifa gratuita durante o período de votação nas eleições de 04/10/2026 e 25/10/2026 (segundo turno, se houver), com horários de dia útil.
 
+### Araras (SP)
+
+Em Araras (SP), a passagem de ônibus custa R$ 4,50 desde 19/12/2022; valor conferido em 20/10/2026 pela Base Nacional de Tarifas e Integrações de VT da Otimiza.pro.
+
+Página da cidade: https://otimizapro.com/tarifa/sp/araras
+
+Fonte (página oficial): https://araras.sp.gov.br/noticias/27391
+
+Vale-transporte em Araras: cartão Vale Transporte do TCA; emitido por SMTCA (TCA), autarquia municipal; canal de compra da empresa: A empresa faz o cadastro pelo site sbe-araras.dataprom.com e compra os créditos para os funcionários; o cartão é retirado no Terminal Urbano (Av. Zurita, 360), em dias úteis das 6h15 às 17h30, com documento com foto; quem já tem o cartão VT usa o mesmo cartão, qualquer que seja a empresa.
+
+Integração em Araras: Com o desconto de uma única unidade, o usuário usa duas linhas de ônibus que não sejam da mesma região, em até duas horas, em qualquer ponto da cidade, sem ir ao Terminal Urbano; não vale para ida e volta. Vale para cartão comum, estudante e vale-transporte.
+
 ### Arujá (SP)
 
 Em Arujá (SP), a passagem de ônibus custa R$ 6,00 desde 01/01/2026, conforme Decreto nº 8.674/2025; valor conferido em 18/10/2026 pela Base Nacional de Tarifas e Integrações de VT da Otimiza.pro.
@@ -2221,6 +2321,24 @@ Fonte (ato oficial reproduzido): https://www.arujatransporte.com.br/decreto-no-8
 Vale-transporte em Arujá: cartão TOP Vale-Transporte; emitido por Autopass (TOP); canal de compra da empresa: No site do TOP (boradetop.com.br), o item Vale-transporte da seção Para empresas leva ao cadastro da ViaNova (https://cadastro.portalvianova.com.br/cliente-cadastro/cliente-novo-cadastro-1.php); a ViaNova Benefícios, ligada à Autopass, vende o VT com um só pedido e um só boleto, permite importar dados da folha de pagamento e tem área do cliente com CNPJ e senha (https://www.portalvianova.com.br/); taxa na compra: em 2022, segundo o Diário do Transporte, a compra de VT do sistema metropolitano (Cartão BOM, venda pela ViaNova e Autopass) tinha taxa de 4% sobre o valor comprado, que a Autopass defendeu como remuneração da venda online (https://diariodotransporte.com.br/2022/02/21/empresa-de-beneficios-diz-conseguir-na-justica-dispensa-de-taxa-no-vt-do-cartao-bom-top-e-do-bilhete-unico-reducao-de-custo-pode-ser-de-r-69-milhoes-por-ano/); cobrança atual no TOP não confirmada.
 
 Integração em Arujá: A tabela de integração da Arujá Transporte lista, para cada linha municipal, as linhas com que integra e a diferença a pagar, de R$ 0,00 na integração comum e na escolar; a tabela ainda mostra a tarifa antiga de R$ 4,50 (escolar R$ 2,25), sinal de desatualização dos valores; a janela de tempo não é publicada
+
+### Atibaia (SP)
+
+Em Atibaia (SP), a passagem de ônibus custa R$ 4,60 desde 20/05/2019, segundo a publicação oficial (Prefeitura de Atibaia, notícia de 10/06/2025); valor conferido em 20/10/2026 pela Base Nacional de Tarifas e Integrações de VT da Otimiza.pro.
+
+Página da cidade: https://otimizapro.com/tarifa/sp/atibaia
+
+Fonte (página oficial): https://atibaia.sp.gov.br/noticias/mobilidade-urbana/renovacao-da-frota-transporte-publico-de-atibaia-recebe-20-onibus-zero-km
+
+Integração em Atibaia: Bilhete Único: com o cartão SOU Atibaia, até três embarques em linhas que levem ao destino pagando uma tarifa; não vale com pagamento da primeira tarifa em dinheiro nem para retorno ao ponto de partida
+
+### Barretos (SP)
+
+Em Barretos (SP), a passagem de ônibus custa R$ 4,30 desde 18/06/2025, segundo a publicação oficial (Prefeitura de Barretos, notícia 'Prefeitura de Barretos prorroga gratuidade no transporte coletivo até terça, 17', 16/06/2025, no portal oficial); valor conferido em 20/10/2026 pela Base Nacional de Tarifas e Integrações de VT da Otimiza.pro.
+
+Página da cidade: https://otimizapro.com/tarifa/sp/barretos
+
+Fonte (página oficial): https://www.barretos.sp.gov.br/noticia/16725/prefeitura-de-barretos-prorroga-gratuidade-no-transporte-coletivo-ate-terca-17
 
 ### Barueri (SP)
 
@@ -2253,6 +2371,26 @@ Fonte (página oficial): https://www2.bauru.sp.gov.br/arquivos/sist_diariooficia
 Vale-transporte em Bauru: cartão cadastrado Transurb (benefício vale-transporte); emitido por Transurb, Associação das Empresas de Transporte Coletivo Urbano de Bauru; canal de compra da empresa: Portal de vale-transporte TDMax Web Commerce (https://max00109.itstransdata.com/TDMaxWebCommerce); a Loja da Transurb (Rua Ezequiel Ramos, 6-77) gerencia as aquisições eletrônicas de VT.
 
 Integração em Bauru: Integração só com cartão, sem custo; o decreto mantém a isenção tarifária para viagem com característica de integração.
+
+### Birigui (SP)
+
+Em Birigui (SP), a passagem de ônibus custa R$ 4,75 desde 03/2022, conforme decreto publicado em edição extra do Diário Oficial de Birigui em 02/03/2022; valor conferido em 20/10/2026 pela Base Nacional de Tarifas e Integrações de VT da Otimiza.pro.
+
+Página da cidade: https://otimizapro.com/tarifa/sp/birigui
+
+Fonte (imprensa): https://www.hojemais.com.br/aracatuba/noticia/cotidiano/novo-contrato-do-transporte-coletivo-entra-em-vigor-em-birigui
+
+Vale-transporte em Birigui: cartão de vale-transporte da Translocave, retirado pelo funcionário no guichê de atendimento; emitido por Translocave Ltda. (operadora); canal de compra da empresa: Portal de vale-transporte de Birigui (http://birigui.translocave.com.br, que leva ao TDMax Web Commerce em https://max00508.itstransdata.com/TDMaxwebcommerce/, com login da empresa e cadastro de empresas novas): a empresa faz o cadastro pelo portal e os cartões são retirados pelos funcionários no guichê da Translocave (Av. João Cernach, s/n, Jardim Morumbi, Guichê 1), com documento com foto e comprovante de residência; em 2026-10-18 a tela do portal mostrava 'ERRO DE CONFIGURAÇÃO'.
+
+Tarifa zero em Birigui: Transporte coletivo gratuito em 04/10/2026 (1º turno), com linhas especiais das 7h30 às 17h saindo dos bairros para o terminal urbano e embarque pela porta traseira; o serviço normalmente não funciona aos domingos; na zona rural, veículos da Secretaria de Educação
+
+### Botucatu (SP)
+
+Em Botucatu (SP), a passagem de ônibus custa R$ 3,55, segundo a imprensa (Notícias Botucatu, 04/04/2025); valor conferido em 20/10/2026 pela Base Nacional de Tarifas e Integrações de VT da Otimiza.pro.
+
+Página da cidade: https://otimizapro.com/tarifa/sp/botucatu
+
+Fonte (imprensa): https://noticiasbotucatu.com.br/2025/04/04/transporte-coletivo-tera-linhas-especiais-para-shows-de-aniversario-de-botucatu/
 
 ### Bragança Paulista (SP)
 
@@ -2438,6 +2576,18 @@ BEM Vale-Transporte (linhas municipais de Franco da Rocha): cobre ônibus munici
 
 TOP Vale-Transporte (ônibus metropolitanos e trilhos da Grande São Paulo): cobre ônibus intermunicipais metropolitanos da Região Metropolitana de São Paulo (regulados pela ARTESP; o site da EMTU redireciona para a ARTESP), Metrô e trens metropolitanos; cartão TOP Vale-Transporte; emitido por Autopass (TOP); canal de compra da empresa: No site do TOP (boradetop.com.br), o item Vale-transporte da seção Para empresas leva ao cadastro da ViaNova Autopass (https://cadastro.portalvianova.com.br/cliente-cadastro/cliente-novo-cadastro-1.php), que vende VT com boleto único; a empresa cadastra os colaboradores por planilha Excel ou integração com o ERP, e a ViaNova emite a primeira via para quem ainda não tem cartão; liberação do crédito: a ViaNova permite programar a data de liberação dos créditos.
 
+### Guaratinguetá (SP)
+
+Em Guaratinguetá (SP), a passagem de ônibus custa R$ 5,50 desde 01/02/2024, conforme lei municipal de subsídio sancionada em 31/01/2024; valor conferido em 20/10/2026 pela Base Nacional de Tarifas e Integrações de VT da Otimiza.pro.
+
+Página da cidade: https://otimizapro.com/tarifa/sp/guaratingueta
+
+Fonte (imprensa): https://diariodotransporte.com.br/2025/02/10/prefeitura-de-guaratingueta-mantem-tarifa-do-transporte-publico-em-r-550-e-anuncia-retorno-da-linha-santa-maria/
+
+Vale-transporte em Guaratinguetá: cartão de vale-transporte do Meu TUG (os cartões antigos do Nubus, comuns, escolares e de VT, foram trocados a partir de setembro de 2025); emitido por Meu TUG, da concessionária Rodoviário Oceano (plataforma Smartbus, da Brainny); canal de compra da empresa: Desde 01/09/2025 os pedidos de compra de vale-transporte são feitos na plataforma Meu TUG (site meutug.com.br e aplicativo), mediante recadastramento; a plataforma Nubus deixou de aceitar pedidos e os saldos foram migrados em até 60 dias; troca presencial dos cartões na Rua Dr. Castro Santos, 595; suporte ti@rodotursaojose.com.br e suporte@meutug.com.br; o site meutug.com.br não abriu sem navegador em 2026-10-18; validade dos créditos: a validade das recargas segue a Lei Municipal nº 4.839/2018 e o Decreto Municipal nº 8.475/2018, citados pela Prefeitura.
+
+Tarifa zero em Guaratinguetá: Tarifa zero no transporte coletivo urbano em 04/10/2026, das 7h às 18h, para todos os usuários, com horários de dia útil e 23 ônibus
+
 ### Guarujá (SP)
 
 No Guarujá (SP), a passagem de ônibus custa R$ 5,30 desde 22/02/2026, conforme Decreto nº 17.383/2026; valor conferido em 17/10/2026 pela Base Nacional de Tarifas e Integrações de VT da Otimiza.pro.
@@ -2618,6 +2768,18 @@ Fonte (página oficial): https://jundiai.sp.gov.br/mobilidade/indicadores-e-info
 
 Vale-transporte em Jundiaí: cartão Bilhete Único Vale Transporte; taxa na compra: Loja Virtual: taxa de conveniência de até 2,00% sobre o valor total de cada pedido pago, com mínimo de R$ 3,90 por pedido (item 5.5 do Termo de Adesão e Uso, de 23/11/2020) (http://vt.cartaosim.com.br/wfm_Contract.aspx).
 
+### Lençóis Paulista (SP)
+
+Em Lençóis Paulista (SP), a passagem de ônibus custa R$ 2,00 desde 20/06/2022, segundo a publicação oficial (Prefeitura de Lençóis Paulista, notícia 'Prefeitura disponibiliza novos horários e novas linhas de ônibus circular a partir de 8 de janeiro', 05/01/2024); valor conferido em 20/10/2026 pela Base Nacional de Tarifas e Integrações de VT da Otimiza.pro.
+
+Página da cidade: https://otimizapro.com/tarifa/sp/lencois-paulista
+
+Fonte (página oficial): https://apl2.lencoispaulista.sp.gov.br/pmlp-site/Noticias/?noticia=8132
+
+Integração em Lençóis Paulista: Passe Único: com o Cartão Individual de Embarque, o passageiro pode fazer novo embarque em até 2 horas contadas da primeira utilização, trocando de linha em qualquer ponto, em todas as linhas e horários; quem paga em dinheiro não tem o benefício (vigente desde 19/12/2023)
+
+Tarifa zero em Lençóis Paulista: Ônibus circular sem cobrança de passagem em 04/10/2026 e, se houver 2º turno, em 25/10/2026, com escala de domingos e feriados nas linhas 6, 8, 10 e 11 e horários extras na linha 7 e na de Alfredo Guedes
+
 ### Limeira (SP)
 
 Em Limeira (SP), a passagem de ônibus custa R$ 5,70 desde 01/01/2026, conforme Decreto publicado no Jornal Oficial de 31/12/2025; valor conferido em 17/10/2026 pela Base Nacional de Tarifas e Integrações de VT da Otimiza.pro.
@@ -2689,6 +2851,14 @@ Vale-transporte em Mogi das Cruzes: a empresa compra em 2 sistemas, Mogi Passes 
 Mogi Passes Vale-Transporte: cobre ônibus municipais de Mogi das Cruzes; cartão Vale-Transporte da Mogi Passes; emitido por Mogi Passes, que gerencia e vende os bilhetes eletrônicos para as concessionárias do transporte municipal; canal de compra da empresa: A empresa solicita a compra de créditos eletrônicos à Mogi Passes, com recarga a bordo no validador e consulta do uso dos cartões nos últimos 30 dias; a página não indica portal, link ou procedimento de compra. A Mogi Passes tem 20 pontos de atendimento..
 
 TOP Vale-Transporte (ônibus metropolitanos e trilhos da Grande São Paulo): cobre ônibus intermunicipais metropolitanos da Região Metropolitana de São Paulo (regulados pela ARTESP; o site da EMTU redireciona para a ARTESP), Metrô e trens metropolitanos; cartão TOP Vale-Transporte; emitido por Autopass (TOP); canal de compra da empresa: No site do TOP (boradetop.com.br), o item Vale-transporte da seção Para empresas leva ao cadastro da ViaNova Autopass (https://cadastro.portalvianova.com.br/cliente-cadastro/cliente-novo-cadastro-1.php), que vende VT com boleto único; a empresa cadastra os colaboradores por planilha Excel ou integração com o ERP, e a ViaNova emite a primeira via para quem ainda não tem cartão; liberação do crédito: a ViaNova permite programar a data de liberação dos créditos.
+
+### Mogi Guaçu (SP)
+
+Em Mogi Guaçu (SP), a passagem de ônibus custa R$ 5,30, segundo a operadora (SOU Transportes, operadora do transporte coletivo de Mogi Guaçu, página da cidade, modificada em 14/09/2026); valor conferido em 20/10/2026 pela Base Nacional de Tarifas e Integrações de VT da Otimiza.pro.
+
+Página da cidade: https://otimizapro.com/tarifa/sp/mogi-guacu
+
+Fonte (operadora): https://soutransportes.com.br/mogi-guacu/
 
 ### Mogi Mirim (SP)
 
