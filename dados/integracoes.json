@@ -1,6 +1,6 @@
 {
  "nome": "Base Nacional de Tarifas e Integrações de Operadoras do Transporte Público e Vale-Transporte: integracoes",
- "versao": "2026.10.20.8",
+ "versao": "2026.10.20.9",
  "licenca": {
   "nome": "CC BY-NC 4.0",
   "url": "https://creativecommons.org/licenses/by-nc/4.0/deed.pt-br",
@@ -8,7 +8,7 @@
   "uso_interno": "A consulta para decisões da própria empresa, como orçar o vale-transporte, não pede licença.",
   "uso_comercial": "Uso comercial por empresas (em produto, revenda ou integração em sistema ou serviço pago) pede licença da Otimiza.pro: empresa@otimiza.pro."
  },
- "citar_como": "Fonte: Otimiza.pro, Base Nacional de Tarifas e Integrações de Operadoras do Transporte Público e Vale-Transporte, versão 2026.10.20.8. DOI: https://doi.org/10.5281/zenodo.23486211. https://github.com/OtimizaPro/tarifas_integracoestarifarias_transportepublico_brasileiro",
+ "citar_como": "Fonte: Otimiza.pro, Base Nacional de Tarifas e Integrações de Operadoras do Transporte Público e Vale-Transporte, versão 2026.10.20.9. DOI: https://doi.org/10.5281/zenodo.23486211. https://github.com/OtimizaPro/tarifas_integracoestarifarias_transportepublico_brasileiro",
  "linhas": [
   {
    "uf": "AC",
@@ -492,6 +492,18 @@
   },
   {
    "uf": "PA",
+   "municipio": "Benevides",
+   "cod_ibge": "1501501",
+   "regra": "O Pra Já permite integração entre as linhas do BRT Metropolitano com tarifa única de R$ 4,60.",
+   "janela_min": null,
+   "embarques": null,
+   "quem_tem_direito": "usuários do Pra Já (cartão ou aplicativo)",
+   "fonte_url": "https://diariodopara.com.br/para/como-tirar-o-cartao-pra-ja-e-usar-o-brt-metropolitano/",
+   "confianca": "B",
+   "verificado_em": "2026-10-20"
+  },
+  {
+   "uf": "PA",
    "municipio": "Canaã dos Carajás",
    "cod_ibge": "1502152",
    "regra": "Troca de ônibus em até 90 minutos sem pagar nova tarifa, pelo sistema de bilhetagem eletrônica",
@@ -585,6 +597,18 @@
    "fonte_url": "https://setut.com.br/faq-2",
    "confianca": "B",
    "verificado_em": "2026-10-18"
+  },
+  {
+   "uf": "PR",
+   "municipio": "Almirante Tamandaré",
+   "cod_ibge": "4100400",
+   "regra": "Integração temporal da AMEP, só com o Cartão Metrocard: a segunda linha metropolitana não paga nova tarifa se o embarque for em até 2h30 do pagamento da primeira; não vale na mesma linha nem com cartões de sistemas municipais. A página traz regras específicas para Almirante Tamandaré.",
+   "janela_min": 150,
+   "embarques": "2",
+   "quem_tem_direito": "usuários do Cartão Metrocard",
+   "fonte_url": "https://www.amep.pr.gov.br/integracaotemporal",
+   "confianca": "B",
+   "verificado_em": "2026-10-20"
   },
   {
    "uf": "PR",
@@ -787,6 +811,18 @@
    "embarques": "2",
    "quem_tem_direito": "usuários do Riocard Mais com o BUI habilitado (regras do BUI)",
    "fonte_url": "https://www.riocardmais.com.br/Tarifas",
+   "confianca": "B",
+   "verificado_em": "2026-10-20"
+  },
+  {
+   "uf": "RJ",
+   "municipio": "Rio Bonito",
+   "cod_ibge": "3304300",
+   "regra": "Bilhete Único Intermunicipal (BUI), em Rio Bonito desde 26/07/2026: dois meios de transporte numa mesma viagem, sendo um deles obrigatoriamente intermunicipal, com tarifa máxima de R$ 9,40 por integração; vale para ônibus municipais e intermunicipais, trens, metrô, barcas, BRT, VLT e vans legalizadas; até duas integrações por dia",
+   "janela_min": 180,
+   "embarques": "2",
+   "quem_tem_direito": "Pessoas de 5 a 64 anos com renda bruta mensal de até R$ 3.205,20, habilitadas no programa e com cartão Riocard Mais Expresso ou Riocard Mais Vale-Transporte",
+   "fonte_url": "https://riobonito.rj.gov.br/bilhete-unico-intermunicipal-comeca-a-valer-em-rio-bonito/",
    "confianca": "B",
    "verificado_em": "2026-10-20"
   },
@@ -1017,6 +1053,18 @@
    "fonte_url": "https://www.legisweb.com.br/legislacao/?id=426705",
    "confianca": "B",
    "verificado_em": "2026-10-18"
+  },
+  {
+   "uf": "SC",
+   "municipio": "Guaramirim",
+   "cod_ibge": "4206504",
+   "regra": "Integração temporal: a tarifa paga com o Cartão Eletrônico do Transporte Público Municipal vale por 60 minutos para desembarcar e embarcar em outra linha sem novo desconto; não vale para as linhas intermunicipais",
+   "janela_min": 60,
+   "embarques": null,
+   "quem_tem_direito": "usuários que pagam com o cartão eletrônico do transporte municipal",
+   "fonte_url": "https://diariomunicipal.sc.gov.br/arquivosbd/atos/2022/01/1641920382_decreto_n_1549.docx",
+   "confianca": "B",
+   "verificado_em": "2026-10-20"
   },
   {
    "uf": "SC",
@@ -1272,6 +1320,18 @@
   },
   {
    "uf": "SP",
+   "municipio": "Itanhaém",
+   "cod_ibge": "3522109",
+   "regra": "Bilhete Único: todas as linhas municipais são integradas, e o passageiro usa mais de um ônibus na mesma viagem sem pagar nova tarifa, com o cartão.",
+   "janela_min": null,
+   "embarques": null,
+   "quem_tem_direito": "usuários do cartão de transporte",
+   "fonte_url": "https://www.itanhaem.sp.gov.br/2025/04/10/prefeitura-autoriza-a-entrada-de-12-novos-onibus-coletivos-para-renovar-a-frota-municipal/",
+   "confianca": "B",
+   "verificado_em": "2026-10-20"
+  },
+  {
+   "uf": "SP",
    "municipio": "Itapevi",
    "cod_ibge": "3522505",
    "regra": "Com o Cartão Benfácil, troca de ônibus no Terminal pagando uma só passagem, nas linhas pré-estabelecidas; quem tem o Cartão Benfácil Comum ou Vale-Transporte paga a tarifa integrada ônibus/CPTM de R$ 10,00 desde 06/01/2026. A janela de tempo não é publicada.",
@@ -1509,6 +1569,18 @@
    "fonte_url": "https://www.cartaolegal.com/vale-transporte",
    "confianca": "B",
    "verificado_em": "2026-10-18"
+  },
+  {
+   "uf": "SP",
+   "municipio": "São José do Rio Pardo",
+   "cod_ibge": "3549706",
+   "regra": "Bilhete Único Municipal: segundo embarque em outro ônibus por R$ 1,10 dentro de 90 minutos do primeiro (R$ 3,00 + R$ 1,10, total de R$ 4,10, fixado no art. 4º do Decreto nº 7.923/2025); não vale para voltar ao ponto de partida.",
+   "janela_min": 90,
+   "embarques": "2",
+   "quem_tem_direito": "residentes no município com Bilhete Único vinculado ao CPF",
+   "fonte_url": "https://www.dosp.com.br/leituratexto?p=MjI0MDgwMw==",
+   "confianca": "B",
+   "verificado_em": "2026-10-20"
   },
   {
    "uf": "SP",

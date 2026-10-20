@@ -1,8 +1,8 @@
 # Tarifas do transporte público por cidade (Otimiza.pro)
 
-Quanto custa o transporte público em 369 municípios brasileiros, segundo a Base Nacional de Tarifas e Integrações de VT da Otimiza.pro (versão 2026.10.20.8). Cada frase traz o valor, a fonte e a data em que a Otimiza.pro conferiu e, quando a fonte informa, o ato oficial e a data em que passou a valer. A fonte oficial de cada valor está indicada. Onde há dados de serviço e oferta, a ficha traz também linhas e passageiros, com a fonte e a data.
+Quanto custa o transporte público em 387 municípios brasileiros, segundo a Base Nacional de Tarifas e Integrações de VT da Otimiza.pro (versão 2026.10.20.9). Cada frase traz o valor, a fonte e a data em que a Otimiza.pro conferiu e, quando a fonte informa, o ato oficial e a data em que passou a valer. A fonte oficial de cada valor está indicada. Onde há dados de serviço e oferta, a ficha traz também linhas e passageiros, com a fonte e a data.
 
-Como citar: Fonte: Otimiza.pro, Base Nacional de Tarifas e Integrações de Operadoras do Transporte Público e Vale-Transporte, versão 2026.10.20.8. DOI: https://doi.org/10.5281/zenodo.23486211. https://github.com/OtimizaPro/tarifas_integracoestarifarias_transportepublico_brasileiro
+Como citar: Fonte: Otimiza.pro, Base Nacional de Tarifas e Integrações de Operadoras do Transporte Público e Vale-Transporte, versão 2026.10.20.9. DOI: https://doi.org/10.5281/zenodo.23486211. https://github.com/OtimizaPro/tarifas_integracoestarifarias_transportepublico_brasileiro
 
 ## AC
 
@@ -768,6 +768,16 @@ Página da cidade: https://otimizapro.com/tarifa/mg/caratinga
 
 Fonte (página oficial): https://caratinga.mg.gov.br/wp-content/uploads/2026/09/05.-Edital-Concorrencia-14_2026.pdf
 
+### Cataguases (MG)
+
+Em Cataguases (MG), a passagem de ônibus custa R$ 4,10 desde 01/10/2025, conforme Decreto nº 6.139/2025; valor conferido em 20/10/2026 pela Base Nacional de Tarifas e Integrações de VT da Otimiza.pro.
+
+Página da cidade: https://otimizapro.com/tarifa/mg/cataguases
+
+Fonte (página oficial): https://www.cataguases.mg.gov.br/uploads/jornal-cataguases-28-9-25-2_05095018_20104207.pdf
+
+Vale-transporte em Cataguases: cartão KtaCard (cartão vale-transporte); canal de compra da empresa: a Transportes Coletivos Léo (TCL) faz recarga do cartão vale-transporte pelo aplicativo próprio e atende novos cartões, 2ª via e recargas no posto da empresa em Cataguases.
+
 ### Congonhas (MG)
 
 Em Congonhas (MG), a passagem de ônibus custa R$ 3,00, segundo a publicação oficial (Prefeitura de Congonhas, notícia de 27/02/2026); valor conferido em 20/10/2026 pela Base Nacional de Tarifas e Integrações de VT da Otimiza.pro.
@@ -1138,6 +1148,18 @@ Fonte (imprensa): https://www.itatiaia.com.br/valedoaco/ipatinga-e-timoteo-tem-r
 
 Tarifa zero em Timóteo: Gratuidade total em todas as linhas do sistema urbano nos dias de votação das eleições de 2026 (04/10 e, se houver, 25/10), das 7h às 18h, sem apresentação de documento; não vale nas linhas intermunicipais
 
+### Três Corações (MG)
+
+Em Três Corações (MG), a passagem de ônibus custa de R$ 3,00 a R$ 9,00 (varia com o cartão ou o meio de pagamento) desde 01/01/2024, segundo a publicação oficial (Prefeitura de Três Corações, notícia de 02/01/2024); valor conferido em 20/10/2026 pela Base Nacional de Tarifas e Integrações de VT da Otimiza.pro.
+
+Página da cidade: https://otimizapro.com/tarifa/mg/tres-coracoes
+
+Fonte (página oficial): https://www.trescoracoes.mg.gov.br/noticias/geral/confira-como-fica-a-tarifa-do-transporte-coletivo-a-partir-de-1-de-janeiro
+
+Vale-transporte em Três Corações: cartão Trec-Card Vale Transporte; emitido por Trectur (Viação Três Corações Ltda.); canal de compra da empresa: A empresa pede o formulário de cadastro à Trectur por e-mail (gerentevendas@trectur.com.br) ou telefone, com razão social, CNPJ, inscrição estadual, endereço, responsável pelas recargas e dados dos colaboradores; depois da emissão dos cartões, recebe login e senha para fazer as recargas no portal de Recargas de Vale-Transporte (SigomWeb); liberação do crédito: o cartão do colaborador fica pronto para retirada na Trectur 24 horas úteis depois da emissão.
+
+Tarifa zero em Três Corações: Transporte coletivo por ônibus gratuito nos dias 4 e 25 de outubro de 2026 (eleições), das 7h às 18h
+
 ### Ubá (MG)
 
 Em Ubá (MG), a passagem de ônibus custa R$ 4,80 desde 01/05/2025, conforme Decreto nº 7.512/2025; valor conferido em 20/10/2026 pela Base Nacional de Tarifas e Integrações de VT da Otimiza.pro.
@@ -1373,6 +1395,20 @@ Vale-transporte em Belém: cartão Passe Fácil Vale-Transporte; emitido por Set
 Integração em Belém: uma tarifa, com troca dentro do terminal ou estação BRT (Mangueirão, São Brás e Icoaraci)
 
 Tarifa zero em Belém: domingos e feriados grátis para todos
+
+### Benevides (PA)
+
+Ainda não há tarifa de ônibus conferida para Benevides (PA) na Base Nacional de Tarifas e Integrações de VT da Otimiza.pro.
+
+Página da cidade: https://otimizapro.com/tarifa/pa/benevides
+
+Fonte (página oficial): https://agenciapara.com.br/noticia/72127
+
+Vale-transporte em Benevides: cartão Pra Já (vale-transporte); emitido por Autopass, responsável pela bilhetagem digital do BRT Metropolitano (regulação da Arcon); canal de compra da empresa: a empresa se cadastra na plataforma TClient (https://tclient.inter.belem.orbi.autopasscorp.com/dashboard), onde solicita os cartões dos colaboradores e compra créditos mensalmente; taxa na compra: não citada nas páginas abertas.
+
+Integração em Benevides: O Pra Já permite integração entre as linhas do BRT Metropolitano com tarifa única de R$ 4,60.
+
+Tarifa zero em Benevides: Aos domingos e feriados, a passagem do BRT Metropolitano é gratuita para todos os usuários (notícia oficial de 01/11/2025).
 
 ### Canaã dos Carajás (PA)
 
@@ -1647,6 +1683,18 @@ Integração em Teresina: Inthegra: duas ou mais linhas no mesmo sentido pagando
 Tarifa zero em Teresina: metrô de Teresina com tarifa zero
 
 ## PR
+
+### Almirante Tamandaré (PR)
+
+Em Almirante Tamandaré (PR), a passagem de ônibus custa de R$ 5,90 a R$ 6,13 (varia com o cartão ou o meio de pagamento) desde 23/02/2026, conforme Ofício nº 155/2026/DTIM/AMEP; valor conferido em 20/10/2026 pela Base Nacional de Tarifas e Integrações de VT da Otimiza.pro.
+
+Página da cidade: https://otimizapro.com/tarifa/pr/almirante-tamandare
+
+Fonte (ato oficial reproduzido): https://cartaometrocard.com.br/wp-content/uploads/2026/02/oficio-155-2026-circular-diretores-alteracoes-tarifarias-e-implantacao-de-pagamento-em-debito-e-creditoassinado.pdf
+
+Vale-transporte em Almirante Tamandaré: cartão Metrocard na modalidade vale-transporte (cartão nominal, vinculado ao CPF); emitido por Associação Metrocard, representante das operadoras do transporte coletivo metropolitano; Central na Rua Tibagi, 366, Centro, Curitiba; canal de compra da empresa: Portal de compra de vale-transporte da Metrocard (link 'Cadastrar e Comprar Vale-transporte' no site da Metrocard, área 'Empresas Metropolitanas'): a empresa cadastra os funcionários e compra os créditos pela internet; cartões retirados na Central Metrocard; liberação do crédito: até 72 horas após a confirmação do pagamento, para recarga embarcada (perguntas frequentes da Metrocard); taxa na compra: Taxas de conveniência da Metrocard desde 05/01/2026 nas recargas: site R$ 1,50 no Pix e R$ 1,29 no boleto; aplicativo e WhatsApp R$ 1,50 no Pix; Carteira Google 3% da tarifa no Pix; terminais de autoatendimento R$ 1,50 no Pix e R$ 2,00 no débito; Rede PIU R$ 2,00; taxa zero nas 6 lojas Metrocard com pagamento em dinheiro (https://cartaometrocard.com.br/wp-content/uploads/2026/02/metrocard-taxas-a3-v2.pdf). O folheto não diz se o portal de compra de VT das empresas cobra taxa; mesmo tratamento da rodada 6 (Pinhais e Campo Largo).; validade dos créditos: cartões de vale-transporte não têm prazo de validade e podem ser usados enquanto tiverem créditos válidos (perguntas frequentes); a rodada 6 registrou validade de 730 dias para os créditos (comunicado da Associação Metrocard de 14/01/2026).
+
+Integração em Almirante Tamandaré: Integração temporal da AMEP, só com o Cartão Metrocard: a segunda linha metropolitana não paga nova tarifa se o embarque for em até 2h30 do pagamento da primeira; não vale na mesma linha nem com cartões de sistemas municipais. A página traz regras específicas para Almirante Tamandaré.
 
 ### Apucarana (PR)
 
@@ -1957,6 +2005,16 @@ Fonte (página oficial): https://umuarama.pr.gov.br/noticias/segurana-trnsito-e-
 Vale-transporte em Umuarama: cartão de vale-transporte Transcard; emitido por Viação Umuarama Ltda.; canal de compra da empresa: Web Commerce (Empresas) da Viação Umuarama (TDMax, max00070.itstransdata.com/TDMaxWebcommerce), com 'acesso para empresas conveniadas'; compra e recarga também no escritório da empresa, e recarga no terminal urbano.
 
 Tarifa zero em Umuarama: Transporte coletivo urbano gratuito para todos os passageiros, em todas as linhas e horários, no 1º turno das eleições (04/10/2026), sem exigir documento; vale também no 2º turno, se houver
+
+### União da Vitória (PR)
+
+Em União da Vitória (PR), a passagem de ônibus custa R$ 5,00 desde 05/05/2022, conforme Decreto Municipal nº 173/2022; valor conferido em 20/10/2026 pela Base Nacional de Tarifas e Integrações de VT da Otimiza.pro.
+
+Página da cidade: https://otimizapro.com/tarifa/pr/uniao-da-vitoria
+
+Fonte (imprensa): https://www.vvale.com.br/jornalocomercio/economia/diesel-em-alta-pressiona-transporte-coletivo-e-amplia-incertezas-em-uniao-da-vitoria/
+
+Tarifa zero em União da Vitória: Tarifa zero no transporte coletivo municipal aos domingos e feriados, com horários reestruturados nesses dias, decidida pela Prefeitura em parceria com a TCi.
 
 ## RJ
 
@@ -2282,6 +2340,16 @@ Fonte (imprensa): https://portalunibus.com.br/2025/03/27/interbairros-de-parnami
 
 Vale-transporte em Parnamirim: cartão RN Card Vale Transporte; emitido por RN Card; canal de compra da empresa: cadastro da empresa por e-mail (CNPJ e responsável pela compra), com login e senha do portal Web Commerce para compra on-line com carga embarcada; também venda convencional nos postos do RN Card em Parnamirim e em Natal; liberação do crédito: na compra por depósito ou DOC/TED, a recarga só é feita depois da compensação bancária; taxa na compra: não citada; a página chama de 'taxa' só o custo do cartão (1ª via R$ 5,00; 2ª via R$ 15,00), que não conta como taxa na compra; validade dos créditos: 1 ano.
 
+### São Gonçalo do Amarante (RN)
+
+Em São Gonçalo do Amarante (RN), a passagem de ônibus custa R$ 4,80 desde 11/08/2025, segundo a imprensa (Portal N10, 10/08/2025); valor conferido em 20/10/2026 pela Base Nacional de Tarifas e Integrações de VT da Otimiza.pro.
+
+Página da cidade: https://otimizapro.com/tarifa/rn/sao-goncalo-do-amarante
+
+Fonte (imprensa): https://portaln10.com.br/brasil/reajuste-no-transporte-de-sao-goncalo-do-amarante-leva-tarifa-a-r-480-306578/
+
+Vale-transporte em São Gonçalo do Amarante: cartão RN Card Vale Transporte (cartão de pessoa jurídica, associado ao CNPJ da empresa); emitido por RN Card; canal de compra da empresa: a empresa envia CNPJ e dados do responsável para atendimento@rncard.com.br, recebe login e senha do portal WEB COMMERCE e faz os pedidos de recarga só pela internet, com pagamento por boleto, depósito ou DOC/TED; os cartões de 1ª via são retirados num posto RN Card com solicitação em papel timbrado; liberação do crédito: até 72 horas úteis após o pagamento do boleto; o crédito passa ao cartão no validador; taxa na compra: não citada nas páginas abertas; a RN Card cobra R$ 5,00 pela 1ª via e R$ 15,00 pela 2ª via do cartão, que não contam como taxa na compra; validade dos créditos: créditos válidos por 1 ano; depois da liberação do pedido, o funcionário tem até 30 dias corridos para receber o crédito no validador, senão ele expira.
+
 ## RO
 
 ### Cacoal (RO)
@@ -2442,6 +2510,16 @@ TEU! (linhas metropolitanas da Metroplan e Trensurb): cobre ônibus metropolitan
 
 Tarifa zero em Esteio: transporte coletivo municipal gratuito para todos no 1º turno das eleições de 2026, com a grade de horários de sábado
 
+### Garibaldi (RS)
+
+Em Garibaldi (RS), a passagem de ônibus custa R$ 6,25 desde 01/06/2026, conforme Decreto Municipal nº 5.240/2026; valor conferido em 20/10/2026 pela Base Nacional de Tarifas e Integrações de VT da Otimiza.pro.
+
+Página da cidade: https://otimizapro.com/tarifa/rs/garibaldi
+
+Fonte (imprensa): https://www.jornaldocomercio.com/jornal-cidades/2026/06/1250722-passagem-de-onibus-em-garibaldi-aumenta-para-rs-625.html
+
+Vale-transporte em Garibaldi: cartão Vale-Transporte (cartão nominal da bilhetagem eletrônica); emitido por Transporte Coletivo Santo Antônio, com Ponto de Vendas em Garibaldi; canal de compra da empresa: Web commerce da operadora (TDMax, https://max00330.itstransdata.com/TDMaxwebcommerce): a empresa pede ao Ponto de Vendas a planilha de cadastro da empresa e dos colaboradores, recebe login e senha por e-mail, faz o pedido no site e paga boleto bancário em até 5 dias; ou compra direto no Ponto de Vendas com os cartões dos colaboradores; liberação do crédito: créditos disponíveis 48 horas após a compensação do pagamento, carregados ao aproximar o cartão do validador; cartão pronto em até 7 dias úteis após a solicitação pela empresa; taxa na compra: a página da operadora descreve a compra por boleto no web commerce e no Ponto de Vendas sem citar taxa; a ficha da revendedora Benefício Fácil dá 'Repasse (custo fixo ou percentual): Não possui'.
+
 ### Gramado (RS)
 
 Em Gramado (RS), a passagem de ônibus custa R$ 4,00 desde 01/08/2026, segundo a publicação oficial (Prefeitura de Gramado, 'Novo transporte público de Gramado terá 26 linhas, abrangendo bairros e o interior', 27/07/2026); valor conferido em 20/10/2026 pela Base Nacional de Tarifas e Integrações de VT da Otimiza.pro.
@@ -2523,6 +2601,16 @@ Vale-transporte em Novo Hamburgo: a empresa compra em 2 sistemas, MixMob Vale Tr
 MixMob Vale Transporte: cobre ônibus municipais de Novo Hamburgo; cartão MixMob Vale Transporte; emitido por Viação Santa Clara (Visac), operadora dos ônibus desde abril de 2024; bilhetagem atendida pela COMUR; canal de compra da empresa: Web Commerce TDMax do MixMob (max00565.itstransdata.com/tdmaxwebcommerce), ligado na página Para Empresas do portal MixMob da Prefeitura: a empresa se cadastra pelo CNPJ, cadastra os colaboradores pelo CPF, pede os cartões por e-mail (vt@comur.com.br; gravação em até 2 dias úteis e retirada com autorização) e compra os créditos, depois de aceitar os Termos de Uso, por boleto convencional (mínimo de R$ 100,00, compensação em até 72 horas úteis) ou boleto Pix (mínimo de R$ 40,00, até 24 horas úteis); os créditos entram no cartão no validador do ônibus; taxa na compra: Taxa de conveniência no Web Commerce, somada ao total da compra, de valor variável e não publicado (Manual de Compra: 'A taxa de conveniência pode variar: Verifique o valor unitário, total e a soma com a taxa de conveniência') (https://mixmob.novohamburgo.rs.gov.br/wp-content/uploads/2024/10/MANUAL-DE-COMPRA-MIXMOB.pdf).
 
 TEU!: cobre ônibus metropolitanos da Região Metropolitana de Porto Alegre e linhas urbanas de municípios que adotam o TEU!; a carga também pode ser inserida nos validadores da Trensurb; cartão TEU! Vale-Transporte; emitido por Consórcio Gestor da Bilhetagem Metropolitana (empresas associadas da ATM), sistema TEU!; canal de compra da empresa: três canais: TEU! Online (teuonline.com.br, pessoa física ou jurídica, boleto, sem limite de cartões); Valesul (valesb.com.br, só pessoa jurídica, boleto, cadastro por arquivo .txt); Postos de Venda TEU! (pagamento à vista, até 10 cartões numerados); liberação do crédito: 3 dias úteis após o pagamento do boleto (TEU! Online e Valesul), com carga nos validadores dos ônibus; taxa na compra: TEU! Online: 'taxa única' por pedido, valor não publicado; Valesul: taxa de serviço conforme a quantidade de funcionários e o valor da compra; Postos de Venda: sem taxa administrativa; validade dos créditos: a carga comprada fica 120 dias disponível para ser inserida no cartão, nos validadores dos ônibus ou da Trensurb (desde 01/03/2023).
+
+### Panambi (RS)
+
+Em Panambi (RS), a passagem de ônibus custa de R$ 6,80 a R$ 6,82 (varia com o cartão ou o meio de pagamento), segundo a operadora (Auto Viação Panambiense, Avipan, página inicial, quadro 'Passagens'); valor conferido em 20/10/2026 pela Base Nacional de Tarifas e Integrações de VT da Otimiza.pro.
+
+Página da cidade: https://otimizapro.com/tarifa/rs/panambi
+
+Fonte (operadora): https://avipan.com.br/
+
+Vale-transporte em Panambi: cartão PráTi Vale-transporte, 'destinado aos trabalhadores da indústria e do comércio', solicitado diretamente pelas empresas à Avipan; emitido por Auto Viação Panambiense Ltda. (Avipan), Av. Pres. Kennedy, 1895, Panambi; atendimento de segunda a sexta; canal de compra da empresa: pedido do cartão direto à Avipan; compra de créditos pelo portal TDMax da operadora (link 'Comprar passagens' do site, https://max00056.itstransdata.com/TDMaxwebcommerce/) ou na Avipan; também vendido por plataformas de VT, como a Benefício Fácil; liberação do crédito: 5 dias úteis após o pagamento; 1ª via do cartão em 10 dias úteis (ficha da Benefício Fácil); taxa na compra: o site da Avipan não fala em taxa; a ficha da revendedora Benefício Fácil diz 'Repasse (custo fixo ou percentual): Não possui'.
 
 ### Passo Fundo (RS)
 
@@ -2768,6 +2856,16 @@ Fonte (página oficial): https://edicao.dom.sc.gov.br/2023/10/1696868625_edicao_
 
 Vale-transporte em Caçador: emitido por Auto Coletivo Caçador Ltda.; canal de compra da empresa: Item 'Comprar Vale Transporte' do site da Auto Coletivo, que leva ao portal SBE (Sistema de Bilhetagem Eletrônica Dataprom) de Caçador, com login e cadastro; postos de venda autorizados.
 
+### Camboriú (SC)
+
+Em Camboriú (SC), a passagem de ônibus (intermunicipal) custa R$ 4,80 desde 19/07/2026, segundo a operadora (Viação Praiana Ltda., Informativo Oficial de Tarifas Vigentes, PDF ligado na página de horários do site da operadora); valor conferido em 20/10/2026 pela Base Nacional de Tarifas e Integrações de VT da Otimiza.pro.
+
+Página da cidade: https://otimizapro.com/tarifa/sc/camboriu
+
+Fonte (operadora): https://praiana.com.br/wp-content/uploads/2026/09/Informativo-de-Tarifas-Viacao-Praiana.pdf
+
+Vale-transporte em Camboriú: cartão eletrônico da Viação Praiana, um produto por ligação (na Benefício Fácil: 'Viação Praiana, Cartão Camboriú X Balneário Camboriú' e 'Cartão Itajaí X Camboriú'); emitido por Viação Praiana Ltda., agências de Itajaí ((47) 3248-4035, itajai@praiana.com.br) e Balneário Camboriú (bc@praiana.com.br); código do emissor 990 na Benefício Fácil; canal de compra da empresa: confecção do cartão e recarga nas agências da Praiana ('Entre em contato com a agência mais próxima para confeccionar seu cartão, fazer sua recarga', site da operadora); também vendido por plataformas de VT, como a Benefício Fácil; liberação do crédito: 5 dias úteis após o pagamento; 1ª via em 10 dias úteis (ficha da Benefício Fácil); taxa na compra: a ficha da revendedora Benefício Fácil diz 'Repasse (custo fixo ou percentual): Não possui'; o site da Praiana não fala em taxa.
+
 ### Chapecó (SC)
 
 Em Chapecó (SC), a passagem de ônibus custa R$ 5,00 desde 01/09/2025, segundo a publicação oficial (Prefeitura de Chapecó, notícia de 29/08/2025); valor conferido em 17/10/2026 pela Base Nacional de Tarifas e Integrações de VT da Otimiza.pro.
@@ -3004,6 +3102,16 @@ Página da cidade: https://otimizapro.com/tarifa/se/nossa-senhora-do-socorro
 
 Fonte (página oficial): https://smtt.aracaju.se.gov.br/noticias/prefeitura-amplia-subsidio-e-mantem-tarifa-do-transporte-coletivo-congelada-em-r-450/
 
+### São Cristóvão (SE)
+
+Em São Cristóvão (SE), a passagem de ônibus custa R$ 4,50 desde 16/05/2022, segundo a operadora (AracajuCard, Tabela de Preços VT, Mais Aracaju Vale Transporte e Pré-Pago); valor conferido em 20/10/2026 pela Base Nacional de Tarifas e Integrações de VT da Otimiza.pro.
+
+Página da cidade: https://otimizapro.com/tarifa/se/sao-cristovao
+
+Fonte (operadora): https://aracajucard.com.br/vale-transporte/tabela-precos-vt/
+
+Vale-transporte em São Cristóvão: cartão Mais Aracaju Vale-Transporte; emitido por AracajuCard Ltda.; canal de compra da empresa: VT Web Client (portal da AracajuCard): a empresa se loga com CNPJ ou CPF e senha, cadastra os funcionários e faz os pedidos de vale-transporte, pagos por boleto; a 1ª via dos cartões é retirada na sede da AracajuCard por portador nomeado, com agendamento; liberação do crédito: em até 24 horas úteis após a confirmação do pagamento do boleto; a 1ª via do cartão fica pronta em até 2 dias úteis após a compensação; taxa na compra: nenhuma taxa sobre o pedido de VT foi achada nas páginas abertas. O FAQ diz que há taxa para recarregar o cartão 'somente nos pontos comerciais vinculados à Rede Piu e por meio da atendente virtual Val', canais de recarga do usuário, sem dizer que valem para o VT. O relatório de saldo dos cartões custa 1% dos pedidos de VT do mês anterior (mínimo de duas tarifas), mas é serviço opcional, e a 2ª via custa 6 tarifas; nenhum dos dois conta como taxa na compra.
+
 ## SP
 
 ### Americana (SP)
@@ -3130,6 +3238,16 @@ TOP Vale-Transporte (ônibus metropolitanos e trilhos da Grande São Paulo): cob
 
 Integração em Barueri: Com o Cartão Benfácil, troca de ônibus no Terminal pagando uma só passagem, nas linhas pré-estabelecidas; quem tem o Cartão Benfácil Comum ou Vale-Transporte paga a tarifa integrada ônibus/CPTM de R$ 10,00 desde 06/01/2026. A janela de tempo não é publicada.
 
+### Batatais (SP)
+
+Em Batatais (SP), o ônibus é gratuito (tarifa zero), segundo a publicação oficial (Prefeitura de Batatais, quadro de horários do transporte municipal); valor conferido em 20/10/2026 pela Base Nacional de Tarifas e Integrações de VT da Otimiza.pro.
+
+Página da cidade: https://otimizapro.com/tarifa/sp/batatais
+
+Fonte (página oficial): https://www.batatais.sp.gov.br/uploads/tinymce/Servicos/horario_onibus_2023.pdf
+
+Tarifa zero em Batatais: Transporte público municipal gratuito para todos os passageiros, segundo o quadro de horários publicado pela prefeitura.
+
 ### Bauru (SP)
 
 Em Bauru (SP), a passagem de ônibus custa R$ 6,25 desde 20/08/2026, conforme Decreto nº 19.518/2026; valor conferido em 18/10/2026 pela Base Nacional de Tarifas e Integrações de VT da Otimiza.pro.
@@ -3151,6 +3269,16 @@ Em Bebedouro (SP), a passagem de ônibus custa R$ 5,00 desde 04/08/2025, conform
 Página da cidade: https://otimizapro.com/tarifa/sp/bebedouro
 
 Fonte (página oficial): https://www.bebedouro.sp.gov.br/portal/index.php/ver-todas-as-noticias/item/27228-prefeitura-e-concessionaria-entram-em-acordo-para-melhorias-no-transporte-coletivo-de-bebedouro
+
+### Bertioga (SP)
+
+Em Bertioga (SP), a passagem de ônibus custa R$ 5,50 desde 03/08/2026, conforme Decreto nº 5.260/2026; valor conferido em 20/10/2026 pela Base Nacional de Tarifas e Integrações de VT da Otimiza.pro.
+
+Página da cidade: https://otimizapro.com/tarifa/sp/bertioga
+
+Fonte (página oficial): https://www.bertioga.sp.gov.br/wp/wp-content/uploads/2026/07/ATOS-INTERNOS-1300-2.pdf
+
+Vale-transporte em Bertioga: cartão City+ Vale Transporte; emitido por City (City Transporte Intermodal Ltda., que mantém o site citymais.com.br; a concessionária de Bertioga é a City Transportes Urbano Global Ltda.); canal de compra da empresa: Portal de vendas para empresas (salesportal.citymais.autopasscorp.com), no bloco "Apenas para empresas: compra de vale transporte City+", opção Bertioga, do site citymais.com.br.
 
 ### Birigui (SP)
 
@@ -3488,6 +3616,14 @@ Fonte (página oficial): https://www.ibitinga.sp.gov.br/portal/noticias/0/3/3791
 
 Tarifa zero em Ibitinga: Transporte coletivo urbano municipal gratuito para toda a população, em quatro linhas.
 
+### Ibiúna (SP)
+
+Em Ibiúna (SP), a passagem de ônibus custa R$ 5,90 desde 02/03/2024, conforme Decreto nº 3.231/2024; valor conferido em 20/10/2026 pela Base Nacional de Tarifas e Integrações de VT da Otimiza.pro.
+
+Página da cidade: https://otimizapro.com/tarifa/sp/ibiuna
+
+Fonte (página oficial): https://ibiuna.sp.gov.br/download/ed-1166-19-09-2025/
+
 ### Ilhabela (SP)
 
 Em Ilhabela (SP), a passagem de ônibus custa de R$ 4,80 a R$ 10,00 (varia com o cartão ou o meio de pagamento) desde 26/01/2026, conforme Decreto nº 11.645/2026; valor conferido em 18/10/2026 pela Base Nacional de Tarifas e Integrações de VT da Otimiza.pro.
@@ -3513,6 +3649,20 @@ Vale-transporte em Indaiatuba: a empresa compra em 2 sistemas, SOU Indaiatuba Va
 SOU Indaiatuba Vale-Transporte: cobre ônibus municipais de Indaiatuba; cartão SOU Vale-Transporte; emitido por Sancetur (Santa Cecília Turismo Ltda.), marca SOU Indaiatuba; canal de compra da empresa: Sales Portal da Prodata (salesportal.indaiatubaidt.prodatamobility.com.br), no menu Vale Transporte do site da SOU, com manual: cadastro da empresa (plano 'VT(APP400) CT'), funcionários, pedido e boleto; recarga embarcada; cartões retirados com autorização carimbada da empresa.; taxa na compra: Recarga via web: 2% sobre cada pedido, com mínimo de uma tarifa (o termo cita R$ 4,10), referente aos custos e taxas administrativas (item 5.2 do Termo de Adesão do Sales Portal, última atualização setembro/2021) (https://salesportal.indaiatubaidt.prodatamobility.com.br/policies/teste.html).
 
 BUS+ (linhas metropolitanas da EMTU na Região Metropolitana de Campinas): cobre ônibus intermunicipais metropolitanos da RMC (EMTU, regulação da ARTESP) que atendem Indaiatuba; cartão BUS+ Vale-Transporte; emitido por Consórcio BUS+; canal de compra da empresa: Presencial nos postos BUS+ (cópia do CNPJ e relação dos colaboradores com nome completo, sexo, CPF, RG, data de nascimento e nome da mãe; cartões retirados em até 5 dias úteis) ou online no site BUS+, com pagamento eletrônico e recarga a bordo; liberação do crédito: até 2 dias úteis após a compensação bancária (recarga a bordo); na compra online, cartões emitidos em 5 dias úteis após a compensação; taxa na compra: online: taxa de conveniência de 3% sobre o valor, mínimo de R$ 3,90; presencial: sem custo.
+
+### Itanhaém (SP)
+
+Em Itanhaém (SP), a passagem de ônibus custa de R$ 4,00 a R$ 4,20 (varia com o cartão ou o meio de pagamento) desde 01/01/2025, conforme Decreto nº 4.656/2024; valor conferido em 20/10/2026 pela Base Nacional de Tarifas e Integrações de VT da Otimiza.pro.
+
+Página da cidade: https://otimizapro.com/tarifa/sp/itanhaem
+
+Fonte (página oficial): https://www2.itanhaem.sp.gov.br/wp-content/uploads/2024/12/902.pdf
+
+Vale-transporte em Itanhaém: cartão de transporte SOU, modalidade Vale Transporte (a página traz formulários de "Retirada de Cartões VT" e de "Vale Transporte"); emitido por Sancetur (SOU Transportes), com sistema TDMax da Transdata; canal de compra da empresa: Portal TDMax Web Commerce de Itanhaém (max00469.itstransdata.com/TDMaxwebcommerce), com login e cadastro da empresa, ligado ao item Vale Transporte do site da SOU; formulários de compra de VT para download.
+
+Integração em Itanhaém: Bilhete Único: todas as linhas municipais são integradas, e o passageiro usa mais de um ônibus na mesma viagem sem pagar nova tarifa, com o cartão.
+
+Tarifa zero em Itanhaém: Isenção de tarifa aos domingos e feriados para quem usa o cartão de transporte, limitada a duas viagens por dia, em todas as linhas e com integração.
 
 ### Itapecerica da Serra (SP)
 
@@ -4116,6 +4266,28 @@ Fonte (operadora): https://movsaojoao.com.br/evolucao-da-tarifa/
 
 Vale-transporte em São João da Boa Vista: cartão MoV São João da Boa Vista Vale-Transporte; emitido por MoV São João da Boa Vista (Rápido Sumaré); canal de compra da empresa: Portal de Vendas da MoV (http://189.44.98.122:8570, opção 'Vale-Transporte Empresa'): a empresa cadastra a empresa e os funcionários, faz o pedido de créditos e paga por boleto; cartões entregues no Posto de Atendimento (Rua Professor Hugo Sarmento, 344) em até 5 dias úteis; liberação do crédito: até três dias úteis após o pagamento; taxa na compra: taxa de conveniência de 3% sobre o valor do pedido, com mínimo de R$ 3,90, no Portal de Vendas (Vale-Transporte Empresa).
 
+### São Joaquim da Barra (SP)
+
+Em São Joaquim da Barra (SP), o ônibus é gratuito (tarifa zero) desde 06/08/2022, segundo a publicação oficial (Prefeitura de São Joaquim da Barra); valor conferido em 20/10/2026 pela Base Nacional de Tarifas e Integrações de VT da Otimiza.pro.
+
+Página da cidade: https://otimizapro.com/tarifa/sp/sao-joaquim-da-barra
+
+Fonte (página oficial): https://www.saojoaquimdabarra.sp.gov.br/noticias/2071/confira-os-horarios-do-transporte-urbano-gratuito-em-sao-joaquim-da-barra
+
+Tarifa zero em São Joaquim da Barra: Transporte coletivo urbano gratuito para todos os passageiros.
+
+### São José do Rio Pardo (SP)
+
+Em São José do Rio Pardo (SP), a passagem de ônibus custa R$ 3,00 desde 01/08/2025, conforme Decreto nº 7.923/2025; valor conferido em 20/10/2026 pela Base Nacional de Tarifas e Integrações de VT da Otimiza.pro.
+
+Página da cidade: https://otimizapro.com/tarifa/sp/sao-jose-do-rio-pardo
+
+Fonte (página oficial): https://www.dosp.com.br/leituratexto?p=MjI0MDgwMw==
+
+Integração em São José do Rio Pardo: Bilhete Único Municipal: segundo embarque em outro ônibus por R$ 1,10 dentro de 90 minutos do primeiro (R$ 3,00 + R$ 1,10, total de R$ 4,10, fixado no art. 4º do Decreto nº 7.923/2025); não vale para voltar ao ponto de partida.
+
+Tarifa zero em São José do Rio Pardo: Domingo Tarifa Zero: transporte coletivo urbano 100% gratuito aos domingos.
+
 ### São José do Rio Preto (SP)
 
 Em São José do Rio Preto (SP), a passagem de ônibus custa de R$ 5,00 a R$ 5,50 (varia com o cartão ou o meio de pagamento) desde 01/01/2024, conforme Decreto nº 19.646/2023; valor conferido em 17/10/2026 pela Base Nacional de Tarifas e Integrações de VT da Otimiza.pro.
@@ -4302,6 +4474,16 @@ Vale-transporte em Taubaté: cartão Rápido Cidadão 2.0 Vale Transporte; emiti
 
 Integração em Taubaté: Com o Cartão Rápido, integração temporal de até 75 minutos para outra linha da tabela de integração, sem nova tarifa
 
+### Tietê (SP)
+
+Em Tietê (SP), o ônibus é gratuito (tarifa zero) desde 01/08/2023, segundo a publicação oficial (Prefeitura Municipal de Tietê); valor conferido em 20/10/2026 pela Base Nacional de Tarifas e Integrações de VT da Otimiza.pro.
+
+Página da cidade: https://otimizapro.com/tarifa/sp/tiete
+
+Fonte (página oficial): https://www.tiete.sp.gov.br/noticia/2933/programa-de-transporte-coletivo-tarifa-zero-iniciara-em-1-de-agosto/
+
+Tarifa zero em Tietê: Transporte coletivo urbano gratuito para toda a população (Programa Tarifa Zero).
+
 ### Tupã (SP)
 
 Em Tupã (SP), o ônibus é gratuito (tarifa zero) desde 01/05/2025, segundo a publicação oficial (Prefeitura da Estância Turística de Tupã); valor conferido em 20/10/2026 pela Base Nacional de Tarifas e Integrações de VT da Otimiza.pro.
@@ -4343,6 +4525,18 @@ BUS+ (linhas metropolitanas da EMTU na Região Metropolitana de Campinas): cobre
 Integração em Valinhos: Integração temporal: o usuário pode usar uma segunda linha de ônibus em até 2 horas, contadas da primeira validação, sem pagar nova tarifa; só com cartão de bilhetagem eletrônica e em linha diferente da primeira viagem.
 
 Tarifa zero em Valinhos: Tarifa zero em todos os domingos e feriados oficiais (nacionais, estaduais e municipais); com cartão, a catraca libera sem desconto de crédito; sem cartão, o motorista libera.
+
+### Vargem Grande Paulista (SP)
+
+Em Vargem Grande Paulista (SP), o ônibus é gratuito (tarifa zero), segundo a imprensa (SBT News); valor conferido em 20/10/2026 pela Base Nacional de Tarifas e Integrações de VT da Otimiza.pro.
+
+Página da cidade: https://otimizapro.com/tarifa/sp/vargem-grande-paulista
+
+Fonte (imprensa): https://sbtnews.sbt.com.br/noticia/brasil/260969-transporte-publico-gratis-sonho-que-parece-distante-e-realidade-bem-perto-de-sp
+
+Vale-transporte em Vargem Grande Paulista: cartão TOP Vale-Transporte; emitido por Autopass (TOP); canal de compra da empresa: Site do TOP (boradetop.com.br), menu "Para empresas", item Vale-transporte, que leva ao cadastro da ViaNova Autopass (cadastro.portalvianova.com.br).
+
+Tarifa zero em Vargem Grande Paulista: Ônibus municipais gratuitos para todos os passageiros.
 
 ### Várzea Paulista (SP)
 

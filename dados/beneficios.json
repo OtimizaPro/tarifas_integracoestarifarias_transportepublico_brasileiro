@@ -1,6 +1,6 @@
 {
  "nome": "Base Nacional de Tarifas e Integrações de Operadoras do Transporte Público e Vale-Transporte: beneficios",
- "versao": "2026.10.20.8",
+ "versao": "2026.10.20.9",
  "licenca": {
   "nome": "CC BY-NC 4.0",
   "url": "https://creativecommons.org/licenses/by-nc/4.0/deed.pt-br",
@@ -8,7 +8,7 @@
   "uso_interno": "A consulta para decisões da própria empresa, como orçar o vale-transporte, não pede licença.",
   "uso_comercial": "Uso comercial por empresas (em produto, revenda ou integração em sistema ou serviço pago) pede licença da Otimiza.pro: empresa@otimiza.pro."
  },
- "citar_como": "Fonte: Otimiza.pro, Base Nacional de Tarifas e Integrações de Operadoras do Transporte Público e Vale-Transporte, versão 2026.10.20.8. DOI: https://doi.org/10.5281/zenodo.23486211. https://github.com/OtimizaPro/tarifas_integracoestarifarias_transportepublico_brasileiro",
+ "citar_como": "Fonte: Otimiza.pro, Base Nacional de Tarifas e Integrações de Operadoras do Transporte Público e Vale-Transporte, versão 2026.10.20.9. DOI: https://doi.org/10.5281/zenodo.23486211. https://github.com/OtimizaPro/tarifas_integracoestarifarias_transportepublico_brasileiro",
  "linhas": [
   {
    "uf": "AL",
@@ -1428,6 +1428,18 @@
   },
   {
    "uf": "MG",
+   "municipio": "Três Corações",
+   "cod_ibge": "3169307",
+   "tipo": "tarifa_zero_temporal",
+   "regra": "Transporte coletivo por ônibus gratuito nos dias 4 e 25 de outubro de 2026 (eleições), das 7h às 18h",
+   "desde": "2026-10-04",
+   "base_legal": "Decreto nº 5.779/2026",
+   "fonte_url": "https://www.trescoracoes.mg.gov.br/noticias/geral/transporte-publico-gratuito-nos-dias-4-e-25-de-outubro",
+   "confianca": "A",
+   "verificado_em": "2026-10-20"
+  },
+  {
+   "uf": "MG",
    "municipio": "Uberaba",
    "cod_ibge": "3170107",
    "tipo": "estudante",
@@ -1833,6 +1845,30 @@
    "fonte_url": "https://agencia.belem.pa.gov.br/tire-suas-duvidas-sobre-os-novos-onibus-de-belem/",
    "confianca": "B",
    "verificado_em": "2026-10-17"
+  },
+  {
+   "uf": "PA",
+   "municipio": "Benevides",
+   "cod_ibge": "1501501",
+   "tipo": "idoso",
+   "regra": "No BRT Metropolitano, as gratuidades são asseguradas a idosos, pessoas com deficiência e agentes em serviço.",
+   "desde": "2025-11-01",
+   "base_legal": null,
+   "fonte_url": "https://agenciapara.com.br/noticia/72127",
+   "confianca": "B",
+   "verificado_em": "2026-10-20"
+  },
+  {
+   "uf": "PA",
+   "municipio": "Benevides",
+   "cod_ibge": "1501501",
+   "tipo": "tarifa_zero_temporal",
+   "regra": "Aos domingos e feriados, a passagem do BRT Metropolitano é gratuita para todos os usuários (notícia oficial de 01/11/2025).",
+   "desde": "2025-11-01",
+   "base_legal": null,
+   "fonte_url": "https://agenciapara.com.br/noticia/72127",
+   "confianca": "B",
+   "verificado_em": "2026-10-20"
   },
   {
    "uf": "PA",
@@ -2591,6 +2627,18 @@
    "verificado_em": "2026-10-19"
   },
   {
+   "uf": "PR",
+   "municipio": "União da Vitória",
+   "cod_ibge": "4128203",
+   "tipo": "tarifa_zero_temporal",
+   "regra": "Tarifa zero no transporte coletivo municipal aos domingos e feriados, com horários reestruturados nesses dias, decidida pela Prefeitura em parceria com a TCi.",
+   "desde": "2025-05-01",
+   "base_legal": null,
+   "fonte_url": "https://diariodotransporte.com.br/2025/05/02/uniao-da-vitoria-pr-adota-tarifa-zero-no-transporte-publico-aos-domingos-e-feriados/",
+   "confianca": "B",
+   "verificado_em": "2026-10-20"
+  },
+  {
    "uf": "RJ",
    "municipio": "Araruama",
    "cod_ibge": "3300209",
@@ -2856,6 +2904,18 @@
   },
   {
    "uf": "RJ",
+   "municipio": "Rio Bonito",
+   "cod_ibge": "3304300",
+   "tipo": "tarifa_zero_temporal",
+   "regra": "Ônibus gratuitos no primeiro e no segundo turno das eleições de 2026 (segundo turno em 25 de outubro)",
+   "desde": "2026-10-04",
+   "base_legal": null,
+   "fonte_url": "https://riobonito.rj.gov.br/rio-bonito-tera-onibus-gratuitos-no-segundo-turno-das-eleicoes-assim-como-no-primeiro/",
+   "confianca": "B",
+   "verificado_em": "2026-10-20"
+  },
+  {
+   "uf": "RJ",
    "municipio": "Saquarema",
    "cod_ibge": "3305505",
    "tipo": "estudante",
@@ -2973,6 +3033,18 @@
    "fonte_url": "https://diariodotransporte.com.br/2026/04/26/tarifa-zero-nos-onibus-de-natal-rn-comeca-neste-domingo-26-para-usuarios-do-cartao-nubus/",
    "confianca": "B",
    "verificado_em": "2026-10-17"
+  },
+  {
+   "uf": "RN",
+   "municipio": "São Gonçalo do Amarante",
+   "cod_ibge": "2412005",
+   "tipo": "idoso",
+   "regra": "Idosos com mais de 65 anos emitem o cartão de gratuidade diretamente no posto da RN Card no Mercado Público de São Gonçalo do Amarante; pessoas com deficiência passam antes pela Secretaria de Ação Social do Município, com documentos e laudo médico.",
+   "desde": null,
+   "base_legal": null,
+   "fonte_url": "https://cooptagran.com.br/perguntas-frequentes/",
+   "confianca": "B",
+   "verificado_em": "2026-10-20"
   },
   {
    "uf": "RO",
@@ -3120,6 +3192,18 @@
   },
   {
    "uf": "RS",
+   "municipio": "Garibaldi",
+   "cod_ibge": "4308607",
+   "tipo": "idoso",
+   "regra": "Cartão Benefício para idosos a partir de 65 anos, com cadastro desde 09/11/2016 (documento de identidade com foto, CPF e comprovante de residência).",
+   "desde": null,
+   "base_legal": "'legislação vigente', sem citação do ato",
+   "fonte_url": "http://www.transportesantoantonio.com.br/transporte-urbano/garibaldi",
+   "confianca": "B",
+   "verificado_em": "2026-10-20"
+  },
+  {
+   "uf": "RS",
    "municipio": "Gramado",
    "cod_ibge": "4309100",
    "tipo": "idoso",
@@ -3211,6 +3295,30 @@
    "desde": null,
    "base_legal": null,
    "fonte_url": "https://vimsa.com.br/cartoes-vimsa/",
+   "confianca": "B",
+   "verificado_em": "2026-10-20"
+  },
+  {
+   "uf": "RS",
+   "municipio": "Panambi",
+   "cod_ibge": "4313904",
+   "tipo": "idoso",
+   "regra": "Cartão Sênior, passe livre personalizado para usuários a partir de 65 anos, com cadastro presencial na Avipan (RG e CPF).",
+   "desde": null,
+   "base_legal": "não citada na página",
+   "fonte_url": "https://avipan.com.br/cartoes-prati-2/",
+   "confianca": "B",
+   "verificado_em": "2026-10-20"
+  },
+  {
+   "uf": "RS",
+   "municipio": "Panambi",
+   "cod_ibge": "4313904",
+   "tipo": "tarifa_reduzida",
+   "regra": "Cartão Estudante para alunos de cursos autorizados pelo MEC, com créditos a R$ 3,41 (metade da tarifa do cartão), só em dias letivos.",
+   "desde": null,
+   "base_legal": "não citada na página",
+   "fonte_url": "https://avipan.com.br/cartoes-prati-2/",
    "confianca": "B",
    "verificado_em": "2026-10-20"
   },
@@ -3732,6 +3840,18 @@
   },
   {
    "uf": "SC",
+   "municipio": "São Miguel do Oeste",
+   "cod_ibge": "4217204",
+   "tipo": "tarifa_reduzida",
+   "regra": "Meia passagem (50% do valor) para estudantes e professores.",
+   "desde": "2021-02-26",
+   "base_legal": "Decreto nº 9.486/2021, art. 3º",
+   "fonte_url": "https://diariomunicipal.sc.gov.br/arquivosbd/atos/2021/02/1614256306_decreto_9.486__reajusta_tarifa_transporte_pblico.doc",
+   "confianca": "A",
+   "verificado_em": "2026-10-20"
+  },
+  {
+   "uf": "SC",
    "municipio": "Timbó",
    "cod_ibge": "4218202",
    "tipo": "tarifa_reduzida",
@@ -3777,6 +3897,18 @@
    "fonte_url": "https://aracajucard.com.br/gratuidades/",
    "confianca": "B",
    "verificado_em": "2026-10-17"
+  },
+  {
+   "uf": "SE",
+   "municipio": "São Cristóvão",
+   "cod_ibge": "2806701",
+   "tipo": "idoso",
+   "regra": "Cartão Mais Aracaju Gratuidade para idosos a partir de 65 anos (e cartão Especial para pessoas com deficiência), emitido pela AracajuCard.",
+   "desde": null,
+   "base_legal": null,
+   "fonte_url": "https://aracajucard.com.br/taxas-de-servicos/",
+   "confianca": "B",
+   "verificado_em": "2026-10-20"
   },
   {
    "uf": "SP",
@@ -3936,6 +4068,18 @@
   },
   {
    "uf": "SP",
+   "municipio": "Batatais",
+   "cod_ibge": "3505906",
+   "tipo": "tarifa_zero_universal",
+   "regra": "Transporte público municipal gratuito para todos os passageiros, segundo o quadro de horários publicado pela prefeitura.",
+   "desde": null,
+   "base_legal": null,
+   "fonte_url": "https://www.batatais.sp.gov.br/uploads/tinymce/Servicos/horario_onibus_2023.pdf",
+   "confianca": "A",
+   "verificado_em": "2026-10-20"
+  },
+  {
+   "uf": "SP",
    "municipio": "Bauru",
    "cod_ibge": "3506003",
    "tipo": "estudante",
@@ -3957,6 +4101,30 @@
    "fonte_url": "https://www.transurbbauru.com.br/cartoes/modalidades",
    "confianca": "B",
    "verificado_em": "2026-10-18"
+  },
+  {
+   "uf": "SP",
+   "municipio": "Bertioga",
+   "cod_ibge": "3506359",
+   "tipo": "estudante",
+   "regra": "Desconto de 50% sobre a tarifa para estudantes no município.",
+   "desde": null,
+   "base_legal": "Decreto nº 5.260/2026, art. 2º",
+   "fonte_url": "https://www.bertioga.sp.gov.br/wp/wp-content/uploads/2026/07/ATOS-INTERNOS-1300-2.pdf",
+   "confianca": "A",
+   "verificado_em": "2026-10-20"
+  },
+  {
+   "uf": "SP",
+   "municipio": "Bertioga",
+   "cod_ibge": "3506359",
+   "tipo": "idoso",
+   "regra": "Embarque gratuito para pessoas de 60 anos ou mais.",
+   "desde": null,
+   "base_legal": null,
+   "fonte_url": "https://www.bertioga.sp.gov.br/tarifas-de-onibus-passam-a-valer-r-550-em-bertioga",
+   "confianca": "A",
+   "verificado_em": "2026-10-20"
   },
   {
    "uf": "SP",
@@ -4401,6 +4569,18 @@
    "fonte_url": "https://www.ilhabela.sp.gov.br/uploads/diario_oficial_1632_30-07-2025_30055112.pdf",
    "confianca": "A",
    "verificado_em": "2026-10-18"
+  },
+  {
+   "uf": "SP",
+   "municipio": "Itanhaém",
+   "cod_ibge": "3522109",
+   "tipo": "tarifa_zero_temporal",
+   "regra": "Isenção de tarifa aos domingos e feriados para quem usa o cartão de transporte, limitada a duas viagens por dia, em todas as linhas e com integração.",
+   "desde": "2025-03-09",
+   "base_legal": "Decreto nº 4.656/2024, art. 2º",
+   "fonte_url": "https://www2.itanhaem.sp.gov.br/wp-content/uploads/2024/12/902.pdf",
+   "confianca": "A",
+   "verificado_em": "2026-10-20"
   },
   {
    "uf": "SP",
@@ -5208,6 +5388,54 @@
   },
   {
    "uf": "SP",
+   "municipio": "São Joaquim da Barra",
+   "cod_ibge": "3549409",
+   "tipo": "tarifa_zero_universal",
+   "regra": "Transporte coletivo urbano gratuito para todos os passageiros.",
+   "desde": "2022-08-06",
+   "base_legal": "contrato emergencial de 2022 citado pela prefeitura",
+   "fonte_url": "https://www.saojoaquimdabarra.sp.gov.br/noticias/564/servico-de-transporte-coletivo-urbano-voltara-a-normalidade-gratuitamente",
+   "confianca": "A",
+   "verificado_em": "2026-10-20"
+  },
+  {
+   "uf": "SP",
+   "municipio": "São José do Rio Pardo",
+   "cod_ibge": "3549706",
+   "tipo": "estudante",
+   "regra": "Desconto de 35% para estudantes regularmente matriculados.",
+   "desde": null,
+   "base_legal": "Lei Municipal nº 2.545/2002, mantida pelo art. 8º do Decreto nº 7.923/2025",
+   "fonte_url": "https://www.dosp.com.br/leituratexto?p=MjI0MDgwMw==",
+   "confianca": "A",
+   "verificado_em": "2026-10-20"
+  },
+  {
+   "uf": "SP",
+   "municipio": "São José do Rio Pardo",
+   "cod_ibge": "3549706",
+   "tipo": "idoso",
+   "regra": "Pessoas acima de 65 anos viajam de graça com o cartão do idoso, feito no escritório da TUGA; pessoas com deficiência também têm embarque gratuito.",
+   "desde": null,
+   "base_legal": null,
+   "fonte_url": "https://saojosedoriopardo.sp.gov.br/tarifa-de-transporte-publico-nao-sera-reajustada/",
+   "confianca": "A",
+   "verificado_em": "2026-10-20"
+  },
+  {
+   "uf": "SP",
+   "municipio": "São José do Rio Pardo",
+   "cod_ibge": "3549706",
+   "tipo": "tarifa_zero_temporal",
+   "regra": "Domingo Tarifa Zero: transporte coletivo urbano 100% gratuito aos domingos.",
+   "desde": null,
+   "base_legal": null,
+   "fonte_url": "https://saojosedoriopardo.sp.gov.br/domingo-tarifa-zero-em-sao-jose-do-rio-pardo/",
+   "confianca": "A",
+   "verificado_em": "2026-10-20"
+  },
+  {
+   "uf": "SP",
    "municipio": "São José do Rio Preto",
    "cod_ibge": "3549805",
    "tipo": "idoso",
@@ -5352,6 +5580,18 @@
   },
   {
    "uf": "SP",
+   "municipio": "Tietê",
+   "cod_ibge": "3554508",
+   "tipo": "tarifa_zero_universal",
+   "regra": "Transporte coletivo urbano gratuito para toda a população (Programa Tarifa Zero).",
+   "desde": "2023-08-01",
+   "base_legal": "Programa Tarifa Zero da prefeitura, com contrato por licitação",
+   "fonte_url": "https://www.tiete.sp.gov.br/noticia/2933/programa-de-transporte-coletivo-tarifa-zero-iniciara-em-1-de-agosto/",
+   "confianca": "A",
+   "verificado_em": "2026-10-20"
+  },
+  {
+   "uf": "SP",
    "municipio": "Tupã",
    "cod_ibge": "3555000",
    "tipo": "tarifa_zero_universal",
@@ -5421,6 +5661,18 @@
    "fonte_url": "https://www.valinhos.sp.gov.br/portal/leis_decretos/16944/",
    "confianca": "A",
    "verificado_em": "2026-10-18"
+  },
+  {
+   "uf": "SP",
+   "municipio": "Vargem Grande Paulista",
+   "cod_ibge": "3556453",
+   "tipo": "tarifa_zero_universal",
+   "regra": "Ônibus municipais gratuitos para todos os passageiros.",
+   "desde": "2019",
+   "base_legal": null,
+   "fonte_url": "https://sbtnews.sbt.com.br/noticia/brasil/260969-transporte-publico-gratis-sonho-que-parece-distante-e-realidade-bem-perto-de-sp",
+   "confianca": "B",
+   "verificado_em": "2026-10-20"
   },
   {
    "uf": "SP",
