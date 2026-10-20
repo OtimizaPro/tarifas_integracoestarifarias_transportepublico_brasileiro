@@ -1,6 +1,6 @@
 {
  "nome": "Base Nacional de Tarifas e Integrações de Operadoras do Transporte Público e Vale-Transporte: integracoes",
- "versao": "2026.10.20.5",
+ "versao": "2026.10.20.6",
  "licenca": {
   "nome": "CC BY-NC 4.0",
   "url": "https://creativecommons.org/licenses/by-nc/4.0/deed.pt-br",
@@ -8,7 +8,7 @@
   "uso_interno": "A consulta para decisões da própria empresa, como orçar o vale-transporte, não pede licença.",
   "uso_comercial": "Uso comercial por empresas (em produto, revenda ou integração em sistema ou serviço pago) pede licença da Otimiza.pro: empresa@otimiza.pro."
  },
- "citar_como": "Fonte: Otimiza.pro, Base Nacional de Tarifas e Integrações de Operadoras do Transporte Público e Vale-Transporte, versão 2026.10.20.5. DOI: https://doi.org/10.5281/zenodo.23486211. https://github.com/OtimizaPro/tarifas_integracoestarifarias_transportepublico_brasileiro",
+ "citar_como": "Fonte: Otimiza.pro, Base Nacional de Tarifas e Integrações de Operadoras do Transporte Público e Vale-Transporte, versão 2026.10.20.6. DOI: https://doi.org/10.5281/zenodo.23486211. https://github.com/OtimizaPro/tarifas_integracoestarifarias_transportepublico_brasileiro",
  "linhas": [
   {
    "uf": "AC",
@@ -204,6 +204,18 @@
   },
   {
    "uf": "ES",
+   "municipio": "Viana",
+   "cod_ibge": "3205101",
+   "regra": "Integração sem custo adicional para outras linhas nos terminais do Transcol (página Tarifas do GVBus). Viana não tem terminal; o Governo do ES anunciou um sistema de conexões temporais entre as linhas de Viana, mas a página oficial com as regras não abriu nesta rodada.",
+   "janela_min": null,
+   "embarques": null,
+   "quem_tem_direito": null,
+   "fonte_url": "https://www.gvbus.org.br/tarifas/",
+   "confianca": "B",
+   "verificado_em": "2026-10-20"
+  },
+  {
+   "uf": "ES",
    "municipio": "Vitória",
    "cod_ibge": "3205309",
    "regra": "integração física nos terminais do Transcol, pagando uma tarifa",
@@ -288,6 +300,18 @@
   },
   {
    "uf": "MG",
+   "municipio": "Ituiutaba",
+   "cod_ibge": "3134202",
+   "regra": "Integração gratuita no Terminal Central de Integração, onde o passageiro troca de ônibus sem pagar (o sistema todo é gratuito).",
+   "janela_min": null,
+   "embarques": null,
+   "quem_tem_direito": "toda a população",
+   "fonte_url": "https://www.ituiutaba.mg.gov.br/?pag=T1RVPU9EZz1PV0k9T1RrPU9UUT1OMlE9T0dNPU9XST1PR1U9T0dNPU9HWT1PV009T1dZPQ==&id=13432",
+   "confianca": "B",
+   "verificado_em": "2026-10-20"
+  },
+  {
+   "uf": "MG",
    "municipio": "Juiz de Fora",
    "cod_ibge": "3136702",
    "regra": "Bilhete Único JF: integração por sentido (ida ou volta), só entre regiões, em até 1h30, com 1 integração por deslocamento (2 ônibus) e sem limite diário",
@@ -321,6 +345,18 @@
    "fonte_url": "https://www.otimoonline.com.br/otimo-vale-transporte/",
    "confianca": "B",
    "verificado_em": "2026-10-18"
+  },
+  {
+   "uf": "MG",
+   "municipio": "Ouro Preto",
+   "cod_ibge": "3146107",
+   "regra": "Com o cartão eletrônico, o passageiro integra as linhas dos bairros com as linhas troncais do centro pagando uma única passagem; em dinheiro não há integração",
+   "janela_min": 60,
+   "embarques": null,
+   "quem_tem_direito": "usuários do cartão eletrônico",
+   "fonte_url": "https://consorciorotareal.com.br/duvidas-frequentes/",
+   "confianca": "B",
+   "verificado_em": "2026-10-20"
   },
   {
    "uf": "MG",
@@ -863,6 +899,18 @@
    "verificado_em": "2026-10-17"
   },
   {
+   "uf": "RS",
+   "municipio": "Sapucaia do Sul",
+   "cod_ibge": "4320008",
+   "regra": "integração temporal no sistema municipal: com pagamento por cartão, a segunda passagem é gratuita dentro de 1 hora (Diário do Transporte, 30/07/2026, citando a prefeitura); a integração entre todas as linhas municipais pelo cartão TEU! foi criada em 2021 (prefeitura, 'Novidade boa no transporte público: bilhete único por até uma hora')",
+   "janela_min": 60,
+   "embarques": "2",
+   "quem_tem_direito": "usuários que pagam com cartão (TEU!)",
+   "fonte_url": "https://diariodotransporte.com.br/2026/07/30/tarifa-do-transporte-publico-de-sapucaia-do-sul-rs-sofre-reajuste-para-r-600-a-partir-deste-sabado-1o/",
+   "confianca": "B",
+   "verificado_em": "2026-10-20"
+  },
+  {
    "uf": "SC",
    "municipio": "Chapecó",
    "cod_ibge": "4204202",
@@ -957,6 +1005,18 @@
    "fonte_url": "https://smtt.aracaju.se.gov.br/prefeitura-de-aracaju-autoriza-reajuste-de-125-na-tarifa-do-transporte-coletivo/",
    "confianca": "B",
    "verificado_em": "2026-10-17"
+  },
+  {
+   "uf": "SP",
+   "municipio": "Amparo",
+   "cod_ibge": "3501905",
+   "regra": "Com o cartão bilhete eletrônico, o passageiro faz duas viagens pagando só a primeira passagem, em qualquer linha, com até 2 horas para a segunda viagem. Notícia de 13/11/2024, quando a operadora era a Fênix; não se confirmou se a regra continua com a SOU.",
+   "janela_min": 120,
+   "embarques": "2",
+   "quem_tem_direito": "usuários do cartão bilhete eletrônico",
+   "fonte_url": "https://www.amparo.sp.gov.br/noticias/integracao-no-transporte-publico-de-amparo-traz-beneficio-de-viagens-com-tarifa-unica/",
+   "confianca": "B",
+   "verificado_em": "2026-10-20"
   },
   {
    "uf": "SP",
@@ -1149,6 +1209,18 @@
    "fonte_url": "https://www.jtu.com.br/page/multiplo",
    "confianca": "B",
    "verificado_em": "2026-10-17"
+  },
+  {
+   "uf": "SP",
+   "municipio": "Jandira",
+   "cod_ibge": "3525003",
+   "regra": "Quem tem o Cartão Benfácil Comum ou o Vale-Transporte paga a tarifa integrada com desconto na integração ônibus e trem da CPTM: R$ 10,00 a partir de 06/01/2026. O site não separa o valor por município.",
+   "janela_min": null,
+   "embarques": "ônibus municipal e trem da CPTM",
+   "quem_tem_direito": "portadores do Cartão Benfácil Comum e do Vale-Transporte",
+   "fonte_url": "https://www.benfacil.com/",
+   "confianca": "B",
+   "verificado_em": "2026-10-20"
   },
   {
    "uf": "SP",
@@ -1377,6 +1449,18 @@
    "fonte_url": "https://www.cartaorapidotaubate.com.br/integracao/",
    "confianca": "B",
    "verificado_em": "2026-10-17"
+  },
+  {
+   "uf": "SP",
+   "municipio": "Ubatuba",
+   "cod_ibge": "3555406",
+   "regra": "Bilhete único no cartão eletrônico, válido em todo o município por 3 horas (Lei Municipal nº 3.836/2015, citada no decreto de 2022). A notícia com a janela é de 21/01/2015, da época da Verdebus; não se confirmou a regra atual com a SOU.",
+   "janela_min": 180,
+   "embarques": null,
+   "quem_tem_direito": "usuários do cartão do Sistema de Bilhetagem Eletrônica",
+   "fonte_url": "https://www.ubatuba.sp.gov.br/smf/apos-dois-anos-sem-reajuste-ubatuba-tera-nova-tarifa-de-onibus/",
+   "confianca": "B",
+   "verificado_em": "2026-10-20"
   },
   {
    "uf": "SP",

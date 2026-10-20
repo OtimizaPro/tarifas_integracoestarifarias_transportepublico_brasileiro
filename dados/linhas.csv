@@ -14366,24 +14366,24 @@ RS,Santa Maria,4316907,municipal,S196 UNIVERSIDADE,Universidade,onibus,municipal
 RS,Santa Maria,4316907,municipal,S235 VILA OLIVEIRA,Vila Oliveira,onibus,municipal,CARTÃO SIM,6.65,conferido,"Base operacional da Otimiza.pro (DB ROTAS), consulta de 19/10/2026",A,2026-10-19
 RS,Santa Maria,4316907,municipal,S241 CAROLINA,Carolina,onibus,municipal,CARTÃO SIM,6.65,conferido,"Base operacional da Otimiza.pro (DB ROTAS), consulta de 19/10/2026",A,2026-10-19
 RS,Santa Maria,4316907,municipal,S541 BRIGADA ITARARÉ,Brigada Itararé,onibus,municipal,CARTÃO SIM,6.65,conferido,"Base operacional da Otimiza.pro (DB ROTAS), consulta de 19/10/2026",A,2026-10-19
-RS,Sapucaia do Sul,4320008,municipal,L01 COLINA VERDE,Colina Verde,onibus,municipal,CARTÃO TEU,4.15,conferido,"Base operacional da Otimiza.pro (DB ROTAS), consulta de 19/10/2026",A,2026-10-19
-RS,Sapucaia do Sul,4320008,municipal,L02 MORRO,Morro,onibus,municipal,CARTÃO TEU,4.15,conferido,"Base operacional da Otimiza.pro (DB ROTAS), consulta de 19/10/2026",A,2026-10-19
-RS,Sapucaia do Sul,4320008,municipal,L03 JARDIM AMÉRICA,Jardim América,onibus,municipal,CARTÃO TEU,4.15,conferido,"Base operacional da Otimiza.pro (DB ROTAS), consulta de 19/10/2026",A,2026-10-19
-RS,Sapucaia do Sul,4320008,municipal,L04 BELA VISTA,Bela Vista,onibus,municipal,CARTÃO TEU,4.15,conferido,"Base operacional da Otimiza.pro (DB ROTAS), consulta de 19/10/2026",A,2026-10-19
-RS,Sapucaia do Sul,4320008,municipal,L05 NOVO HORIZONTE,Novo Horizonte,onibus,municipal,CARTÃO TEU,4.15,conferido,"Base operacional da Otimiza.pro (DB ROTAS), consulta de 19/10/2026",A,2026-10-19
-RS,Sapucaia do Sul,4320008,municipal,L06 PEDRO SIMON,Pedro Simon,onibus,municipal,CARTÃO TEU,4.15,conferido,"Base operacional da Otimiza.pro (DB ROTAS), consulta de 19/10/2026",A,2026-10-19
-RS,Sapucaia do Sul,4320008,municipal,L08 WALDEREZ,Walderez,onibus,municipal,CARTÃO TEU,4.15,conferido,"Base operacional da Otimiza.pro (DB ROTAS), consulta de 19/10/2026",A,2026-10-19
-RS,Sapucaia do Sul,4320008,municipal,L09 BOA VISTA,Boa Vista,onibus,municipal,CARTÃO TEU,4.15,conferido,"Base operacional da Otimiza.pro (DB ROTAS), consulta de 19/10/2026",A,2026-10-19
-RS,Sapucaia do Sul,4320008,municipal,L10 IPIRANGA,Ipiranga,onibus,municipal,CARTÃO TEU,4.15,conferido,"Base operacional da Otimiza.pro (DB ROTAS), consulta de 19/10/2026",A,2026-10-19
-RS,Sapucaia do Sul,4320008,municipal,L12 SIAL,Sial,onibus,municipal,CARTÃO TEU,4.15,conferido,"Base operacional da Otimiza.pro (DB ROTAS), consulta de 19/10/2026",A,2026-10-19
-RS,Sapucaia do Sul,4320008,municipal,L13 PARQUE JOEL,Parque Joel,onibus,municipal,CARTÃO TEU,4.15,conferido,"Base operacional da Otimiza.pro (DB ROTAS), consulta de 19/10/2026",A,2026-10-19
-RS,Sapucaia do Sul,4320008,municipal,L14 PASQUALINE,Pasqualine,onibus,municipal,CARTÃO TEU,4.15,conferido,"Base operacional da Otimiza.pro (DB ROTAS), consulta de 19/10/2026",A,2026-10-19
-RS,Sapucaia do Sul,4320008,municipal,L15 TRÊS PORTOS,Três Portos,onibus,municipal,CARTÃO TEU,4.15,conferido,"Base operacional da Otimiza.pro (DB ROTAS), consulta de 19/10/2026",A,2026-10-19
-RS,Sapucaia do Sul,4320008,municipal,L16 COHAB HOSPITAL,Cohab Hospital,onibus,municipal,CARTÃO TEU,4.15,conferido,"Base operacional da Otimiza.pro (DB ROTAS), consulta de 19/10/2026",A,2026-10-19
-RS,Sapucaia do Sul,4320008,municipal,L18 FORTUNA,Fortuna,onibus,municipal,CARTÃO TEU,4.15,conferido,"Base operacional da Otimiza.pro (DB ROTAS), consulta de 19/10/2026",A,2026-10-19
-RS,Sapucaia do Sul,4320008,municipal,L19 HOSPITAL COHAB,Hospital Cohab,onibus,municipal,CARTÃO TEU,4.15,conferido,"Base operacional da Otimiza.pro (DB ROTAS), consulta de 19/10/2026",A,2026-10-19
-RS,Sapucaia do Sul,4320008,municipal,L20 HOSPITAL CARIOCA,Hospital Carioca,onibus,municipal,CARTÃO TEU,4.15,conferido,"Base operacional da Otimiza.pro (DB ROTAS), consulta de 19/10/2026",A,2026-10-19
-RS,Sapucaia do Sul,4320008,municipal,L21 RECANTO DOS JARDINS,Recanto dos Jardins,onibus,municipal,CARTÃO TEU,4.15,conferido,"Base operacional da Otimiza.pro (DB ROTAS), consulta de 19/10/2026",A,2026-10-19
+RS,Sapucaia do Sul,4320008,municipal,L01 COLINA VERDE,Colina Verde,onibus,municipal,CARTÃO TEU,,divergente,"Base operacional da Otimiza.pro (DB ROTAS), consulta de 19/10/2026",A,2026-10-19
+RS,Sapucaia do Sul,4320008,municipal,L02 MORRO,Morro,onibus,municipal,CARTÃO TEU,,divergente,"Base operacional da Otimiza.pro (DB ROTAS), consulta de 19/10/2026",A,2026-10-19
+RS,Sapucaia do Sul,4320008,municipal,L03 JARDIM AMÉRICA,Jardim América,onibus,municipal,CARTÃO TEU,,divergente,"Base operacional da Otimiza.pro (DB ROTAS), consulta de 19/10/2026",A,2026-10-19
+RS,Sapucaia do Sul,4320008,municipal,L04 BELA VISTA,Bela Vista,onibus,municipal,CARTÃO TEU,,divergente,"Base operacional da Otimiza.pro (DB ROTAS), consulta de 19/10/2026",A,2026-10-19
+RS,Sapucaia do Sul,4320008,municipal,L05 NOVO HORIZONTE,Novo Horizonte,onibus,municipal,CARTÃO TEU,,divergente,"Base operacional da Otimiza.pro (DB ROTAS), consulta de 19/10/2026",A,2026-10-19
+RS,Sapucaia do Sul,4320008,municipal,L06 PEDRO SIMON,Pedro Simon,onibus,municipal,CARTÃO TEU,,divergente,"Base operacional da Otimiza.pro (DB ROTAS), consulta de 19/10/2026",A,2026-10-19
+RS,Sapucaia do Sul,4320008,municipal,L08 WALDEREZ,Walderez,onibus,municipal,CARTÃO TEU,,divergente,"Base operacional da Otimiza.pro (DB ROTAS), consulta de 19/10/2026",A,2026-10-19
+RS,Sapucaia do Sul,4320008,municipal,L09 BOA VISTA,Boa Vista,onibus,municipal,CARTÃO TEU,,divergente,"Base operacional da Otimiza.pro (DB ROTAS), consulta de 19/10/2026",A,2026-10-19
+RS,Sapucaia do Sul,4320008,municipal,L10 IPIRANGA,Ipiranga,onibus,municipal,CARTÃO TEU,,divergente,"Base operacional da Otimiza.pro (DB ROTAS), consulta de 19/10/2026",A,2026-10-19
+RS,Sapucaia do Sul,4320008,municipal,L12 SIAL,Sial,onibus,municipal,CARTÃO TEU,,divergente,"Base operacional da Otimiza.pro (DB ROTAS), consulta de 19/10/2026",A,2026-10-19
+RS,Sapucaia do Sul,4320008,municipal,L13 PARQUE JOEL,Parque Joel,onibus,municipal,CARTÃO TEU,,divergente,"Base operacional da Otimiza.pro (DB ROTAS), consulta de 19/10/2026",A,2026-10-19
+RS,Sapucaia do Sul,4320008,municipal,L14 PASQUALINE,Pasqualine,onibus,municipal,CARTÃO TEU,,divergente,"Base operacional da Otimiza.pro (DB ROTAS), consulta de 19/10/2026",A,2026-10-19
+RS,Sapucaia do Sul,4320008,municipal,L15 TRÊS PORTOS,Três Portos,onibus,municipal,CARTÃO TEU,,divergente,"Base operacional da Otimiza.pro (DB ROTAS), consulta de 19/10/2026",A,2026-10-19
+RS,Sapucaia do Sul,4320008,municipal,L16 COHAB HOSPITAL,Cohab Hospital,onibus,municipal,CARTÃO TEU,,divergente,"Base operacional da Otimiza.pro (DB ROTAS), consulta de 19/10/2026",A,2026-10-19
+RS,Sapucaia do Sul,4320008,municipal,L18 FORTUNA,Fortuna,onibus,municipal,CARTÃO TEU,,divergente,"Base operacional da Otimiza.pro (DB ROTAS), consulta de 19/10/2026",A,2026-10-19
+RS,Sapucaia do Sul,4320008,municipal,L19 HOSPITAL COHAB,Hospital Cohab,onibus,municipal,CARTÃO TEU,,divergente,"Base operacional da Otimiza.pro (DB ROTAS), consulta de 19/10/2026",A,2026-10-19
+RS,Sapucaia do Sul,4320008,municipal,L20 HOSPITAL CARIOCA,Hospital Carioca,onibus,municipal,CARTÃO TEU,,divergente,"Base operacional da Otimiza.pro (DB ROTAS), consulta de 19/10/2026",A,2026-10-19
+RS,Sapucaia do Sul,4320008,municipal,L21 RECANTO DOS JARDINS,Recanto dos Jardins,onibus,municipal,CARTÃO TEU,,divergente,"Base operacional da Otimiza.pro (DB ROTAS), consulta de 19/10/2026",A,2026-10-19
 RS,São Leopoldo,4318705,municipal,15 CAMPINA / APARECIDA,Campina / Aparecida,onibus,municipal,CARTÃO COLEO,5.85,conferido,"Base operacional da Otimiza.pro (DB ROTAS), consulta de 19/10/2026",A,2026-10-19
 RS,São Leopoldo,4318705,municipal,15 CAMPINA / LUCIANA,Campina / Luciana,onibus,municipal,CARTÃO COLEO,5.85,conferido,"Base operacional da Otimiza.pro (DB ROTAS), consulta de 19/10/2026",A,2026-10-19
 RS,São Leopoldo,4318705,municipal,15 CAMPINA / PARQUE MAUÁ,Campina / Parque Mauá,onibus,municipal,CARTÃO COLEO,5.85,conferido,"Base operacional da Otimiza.pro (DB ROTAS), consulta de 19/10/2026",A,2026-10-19
