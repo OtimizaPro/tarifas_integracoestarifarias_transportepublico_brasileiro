@@ -1,7 +1,7 @@
 {
   "name": "tarifas-transporte-publico-brasil",
   "title": "Base Nacional de Tarifas e Integrações de Operadoras do Transporte Público e Vale-Transporte",
-  "version": "2026.10.20",
+  "version": "2026.10.20.2",
   "homepage": "https://github.com/OtimizaPro/tarifas_integracoestarifarias_transportepublico_brasileiro",
   "licenses": [
     {
@@ -472,7 +472,7 @@
       "path": "dados/operadoras_vt.csv",
       "format": "csv",
       "encoding": "utf-8",
-      "description": "Operadoras de vale-transporte por UF, com o prazo de liberação do crédito quando informado, do cadastro da Plataforma Otimiza.pro",
+      "description": "Operadoras de vale-transporte por UF, do cadastro da Plataforma Otimiza.pro, com o prazo de liberação do crédito quando informado e, quando conferidos, a cidade, o sistema e a taxa na compra do VT (a mesma da página de cada cidade)",
       "schema": {
         "fields": [
           {
@@ -481,6 +481,26 @@
           },
           {
             "name": "operadora_vt",
+            "type": "string"
+          },
+          {
+            "name": "municipios",
+            "type": "string"
+          },
+          {
+            "name": "cod_ibge",
+            "type": "string"
+          },
+          {
+            "name": "sistema",
+            "type": "string"
+          },
+          {
+            "name": "taxa_na_compra",
+            "type": "string"
+          },
+          {
+            "name": "taxa",
             "type": "string"
           },
           {
@@ -493,6 +513,14 @@
           },
           {
             "name": "fonte",
+            "type": "string"
+          },
+          {
+            "name": "fonte_cidade_sistema",
+            "type": "string"
+          },
+          {
+            "name": "fonte_taxa",
             "type": "string"
           },
           {
