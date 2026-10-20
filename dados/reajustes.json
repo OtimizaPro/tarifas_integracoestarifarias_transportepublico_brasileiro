@@ -1,6 +1,6 @@
 {
  "nome": "Base Nacional de Tarifas e Integrações de Operadoras do Transporte Público e Vale-Transporte: reajustes",
- "versao": "2026.10.20.6",
+ "versao": "2026.10.20.7",
  "licenca": {
   "nome": "CC BY-NC 4.0",
   "url": "https://creativecommons.org/licenses/by-nc/4.0/deed.pt-br",
@@ -8,7 +8,7 @@
   "uso_interno": "A consulta para decisões da própria empresa, como orçar o vale-transporte, não pede licença.",
   "uso_comercial": "Uso comercial por empresas (em produto, revenda ou integração em sistema ou serviço pago) pede licença da Otimiza.pro: empresa@otimiza.pro."
  },
- "citar_como": "Fonte: Otimiza.pro, Base Nacional de Tarifas e Integrações de Operadoras do Transporte Público e Vale-Transporte, versão 2026.10.20.6. DOI: https://doi.org/10.5281/zenodo.23486211. https://github.com/OtimizaPro/tarifas_integracoestarifarias_transportepublico_brasileiro",
+ "citar_como": "Fonte: Otimiza.pro, Base Nacional de Tarifas e Integrações de Operadoras do Transporte Público e Vale-Transporte, versão 2026.10.20.7. DOI: https://doi.org/10.5281/zenodo.23486211. https://github.com/OtimizaPro/tarifas_integracoestarifarias_transportepublico_brasileiro",
  "linhas": [
   {
    "uf": "SP",
@@ -256,6 +256,25 @@
    "fonte_tipo": "operadora_publica",
    "confianca": "B",
    "verificado_em": "2026-10-18"
+  },
+  {
+   "uf": "RS",
+   "municipio": "Gramado",
+   "cod_ibge": "4309100",
+   "sistema": "Prefeitura de Gramado (Secretaria de Segurança Pública, Trânsito, Transportes e Fiscalização); Novo Transporte Público, concessão licitada pela 1ª vez e operada pela empresa Gramado Transportes Público desde 01/08/2026, com o Cartão 'Nosso Transporte Público' (bilhetagem eletrônica com reconhecimento facial)",
+   "modo": "onibus",
+   "servico": "municipal",
+   "perfil": "comum",
+   "meio_pagamento": null,
+   "valor_brl": 4,
+   "valor_anterior_brl": 4.9,
+   "variacao_pct": -18.4,
+   "vigencia_inicio": "2026-08-01",
+   "ato_oficial": null,
+   "fonte_url": "https://www.gramado.rs.gov.br/cidadao/noticia/novo-transporte-publico-de-gramado-tera-26-linhas-abrangendo-bairros-e-o-interior",
+   "fonte_tipo": "oficial",
+   "confianca": "B",
+   "verificado_em": "2026-10-20"
   },
   {
    "uf": "SC",
@@ -655,6 +674,25 @@
    "fonte_tipo": "oficial",
    "confianca": "A",
    "verificado_em": "2026-10-18"
+  },
+  {
+   "uf": "MG",
+   "municipio": "Coronel Fabriciano",
+   "cod_ibge": "3119401",
+   "sistema": "Prefeitura Municipal de Coronel Fabriciano (poder concedente); Consórcio Fabriciano (Saritur, Univale e Acaiaca), com o cartão Fabri Fácil (Fabrifácil)",
+   "modo": "onibus",
+   "servico": "municipal (transporte coletivo urbano)",
+   "perfil": "comum",
+   "meio_pagamento": null,
+   "valor_brl": 5.8,
+   "valor_anterior_brl": null,
+   "variacao_pct": null,
+   "vigencia_inicio": "2026-07-04",
+   "ato_oficial": "Decreto nº 9.221, de 30/06/2026 (Diário Oficial Eletrônico do Município de Coronel Fabriciano, edição 2713, de 30/06/2026), art. 1º",
+   "fonte_url": "https://diario.fabriciano.mg.gov.br/storage/diario/175415202606306a442cf71ea2d-2713.pdf",
+   "fonte_tipo": "oficial",
+   "confianca": "A",
+   "verificado_em": "2026-10-20"
   },
   {
    "uf": "MG",
@@ -4154,6 +4192,25 @@
   },
   {
    "uf": "SP",
+   "municipio": "Várzea Paulista",
+   "cod_ibge": "3556503",
+   "sistema": "Prefeitura de Várzea Paulista (Unidade Gestora Municipal de Trânsito); transporte entre bairros pela Rápido Sumaré (Viação Sumaré) desde agosto de 2017; intermunicipais da Rápido Luxo Campinas regulados pela ARTESP; trens da Linha 7-Rubi pela TIC Trens desde 26/11/2025",
+   "modo": "trem",
+   "servico": "Linha 7-Rubi (TIC Trens), estação Várzea Paulista",
+   "perfil": "comum",
+   "meio_pagamento": null,
+   "valor_brl": 5.4,
+   "valor_anterior_brl": null,
+   "variacao_pct": null,
+   "vigencia_inicio": "2026-01-06",
+   "ato_oficial": null,
+   "fonte_url": "https://www.tictrens.com.br/sua-viagem/informacoes-uteis",
+   "fonte_tipo": "operadora_publica",
+   "confianca": "B",
+   "verificado_em": "2026-10-20"
+  },
+  {
+   "uf": "SP",
    "municipio": "Ribeirão Pires",
    "cod_ibge": "3543303",
    "sistema": "Prefeitura da Estância Turística de Ribeirão Pires; concessionária Suzantur (Grupo Suzantur); Cartão Busfácil e aplicativo Buspay",
@@ -5502,6 +5559,25 @@
    "verificado_em": "2026-10-17"
   },
   {
+   "uf": "MG",
+   "municipio": "Patrocínio",
+   "cod_ibge": "3148103",
+   "sistema": "Prefeitura de Patrocínio (Secretaria Municipal de Segurança Pública, Trânsito e Transportes, Sestran); transporte coletivo urbano concedido à Viação Paraíso Transportes Ltda., com subsídio tarifário municipal (Lei nº 5.873/2025); cartão da bilhetagem não identificado",
+   "modo": "onibus",
+   "servico": "municipal",
+   "perfil": "comum",
+   "meio_pagamento": null,
+   "valor_brl": 2.45,
+   "valor_anterior_brl": null,
+   "variacao_pct": null,
+   "vigencia_inicio": "2026-01-01",
+   "ato_oficial": "Decreto nº 4.774, de 30/12/2025 (regulamenta a Lei nº 5.873, de 12/12/2025)",
+   "fonte_url": "https://www.leis.patrocinio.mg.gov.br/images/legislacao/2025/Leis/DECRETO_N%C2%BA_4.774_DE_30_DE_DEZEMBRO_DE_2025.pdf",
+   "fonte_tipo": "oficial",
+   "confianca": "A",
+   "verificado_em": "2026-10-20"
+  },
+  {
    "uf": "SP",
    "municipio": "Arujá",
    "cod_ibge": "3503901",
@@ -5538,6 +5614,25 @@
    "fonte_tipo": "oficial_reproduzido",
    "confianca": "A",
    "verificado_em": "2026-10-18"
+  },
+  {
+   "uf": "PB",
+   "municipio": "Cabedelo",
+   "cod_ibge": "2503209",
+   "sistema": "sem transporte coletivo municipal (nenhum sistema municipal de ônibus achado); a cidade é atendida pelas linhas intermunicipais de característica urbana da Região Metropolitana de João Pessoa, reguladas pelo DER-PB (João Pessoa x Cabedelo, operadora Transnacional), e pelo trem urbano da CBTU",
+   "modo": "onibus",
+   "servico": "intermunicipal de característica urbana (João Pessoa x Cabedelo, Transnacional)",
+   "perfil": "comum",
+   "meio_pagamento": null,
+   "valor_brl": 5.6,
+   "valor_anterior_brl": null,
+   "variacao_pct": null,
+   "vigencia_inicio": "2026-01-01",
+   "ato_oficial": "Resolução CE nº 25, de 29/12/2025, do Conselho Executivo do DER-PB (DOE de 30/12/2025, republicada no DOE de 06/01/2026), art. 2º, art. 4º e planilha anexa",
+   "fonte_url": "https://www.normasbrasil.com.br/norma/resolucao-25-2025-pb_489083.html",
+   "fonte_tipo": "oficial_reproduzido",
+   "confianca": "A",
+   "verificado_em": "2026-10-20"
   },
   {
    "uf": "RJ",

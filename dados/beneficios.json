@@ -1,6 +1,6 @@
 {
  "nome": "Base Nacional de Tarifas e Integrações de Operadoras do Transporte Público e Vale-Transporte: beneficios",
- "versao": "2026.10.20.6",
+ "versao": "2026.10.20.7",
  "licenca": {
   "nome": "CC BY-NC 4.0",
   "url": "https://creativecommons.org/licenses/by-nc/4.0/deed.pt-br",
@@ -8,7 +8,7 @@
   "uso_interno": "A consulta para decisões da própria empresa, como orçar o vale-transporte, não pede licença.",
   "uso_comercial": "Uso comercial por empresas (em produto, revenda ou integração em sistema ou serviço pago) pede licença da Otimiza.pro: empresa@otimiza.pro."
  },
- "citar_como": "Fonte: Otimiza.pro, Base Nacional de Tarifas e Integrações de Operadoras do Transporte Público e Vale-Transporte, versão 2026.10.20.6. DOI: https://doi.org/10.5281/zenodo.23486211. https://github.com/OtimizaPro/tarifas_integracoestarifarias_transportepublico_brasileiro",
+ "citar_como": "Fonte: Otimiza.pro, Base Nacional de Tarifas e Integrações de Operadoras do Transporte Público e Vale-Transporte, versão 2026.10.20.7. DOI: https://doi.org/10.5281/zenodo.23486211. https://github.com/OtimizaPro/tarifas_integracoestarifarias_transportepublico_brasileiro",
  "linhas": [
   {
    "uf": "AL",
@@ -297,6 +297,18 @@
    "fonte_url": "https://www.pmvc.ba.gov.br/tarifa-do-transporte-coletivo-tera-reajuste-a-partir-de-1o-de-janeiro-de-2026/",
    "confianca": "A",
    "verificado_em": "2026-10-17"
+  },
+  {
+   "uf": "CE",
+   "municipio": "Aquiraz",
+   "cod_ibge": "2301000",
+   "tipo": "tarifa_zero_universal",
+   "regra": "Ônibus municipal gratuito do Sistema Gratuito de Transporte Urbano de Aquiraz (TGA), operado pela Prefeitura e custeado com dotação orçamentária própria. As topiques do transporte alternativo cobram tarifa.",
+   "desde": "2018-06-06",
+   "base_legal": "Lei Municipal nº 1.279/2018; Decreto nº 028/2018",
+   "fonte_url": "https://www.aquiraz.ce.gov.br/arquivos/2803/DECRETO_028_2018_0000001.pdf",
+   "confianca": "A",
+   "verificado_em": "2026-10-20"
   },
   {
    "uf": "CE",
@@ -636,6 +648,18 @@
   },
   {
    "uf": "GO",
+   "municipio": "Formosa",
+   "cod_ibge": "5208004",
+   "tipo": "tarifa_zero_universal",
+   "regra": "Ônibus municipal gratuito para todos, operado pela Prefeitura desde a saída da concessionária, custeado por fundo municipal específico",
+   "desde": "2021",
+   "base_legal": "lei municipal que criou o fundo e o comitê gestor",
+   "fonte_url": "https://idec.org.br/node/30469",
+   "confianca": "B",
+   "verificado_em": "2026-10-20"
+  },
+  {
+   "uf": "GO",
    "municipio": "Goiânia",
    "cod_ibge": "5208707",
    "tipo": "estudante",
@@ -888,6 +912,54 @@
   },
   {
    "uf": "MG",
+   "municipio": "Caratinga",
+   "cod_ibge": "3113404",
+   "tipo": "estudante",
+   "regra": "Meia-passagem para estudantes, com cadastro anual do passe escolar na Secretaria de Educação",
+   "desde": "1989",
+   "base_legal": "Lei municipal nº 1.769/1989",
+   "fonte_url": "https://caratinga.mg.gov.br/wp-content/uploads/2026/09/01.-Anexo_I_Projeto_Basico_FINAL.pdf",
+   "confianca": "A",
+   "verificado_em": "2026-10-20"
+  },
+  {
+   "uf": "MG",
+   "municipio": "Caratinga",
+   "cod_ibge": "3113404",
+   "tipo": "idoso",
+   "regra": "Gratuidade para idosos de 65 anos ou mais",
+   "desde": "1989",
+   "base_legal": "Lei municipal nº 1.776/1989 e Estatuto da Pessoa Idosa (Lei nº 10.741/2003)",
+   "fonte_url": "https://caratinga.mg.gov.br/wp-content/uploads/2026/09/01.-Anexo_I_Projeto_Basico_FINAL.pdf",
+   "confianca": "A",
+   "verificado_em": "2026-10-20"
+  },
+  {
+   "uf": "MG",
+   "municipio": "Caratinga",
+   "cod_ibge": "3113404",
+   "tipo": "tarifa_reduzida",
+   "regra": "Gratuidade para pessoas com deficiência e para doentes renais crônicos e transplantados",
+   "desde": null,
+   "base_legal": "Leis municipais nº 3.808/2021 (pessoa com deficiência) e nº 2.705/2002 (doentes renais crônicos e transplantados)",
+   "fonte_url": "https://caratinga.mg.gov.br/wp-content/uploads/2026/09/01.-Anexo_I_Projeto_Basico_FINAL.pdf",
+   "confianca": "A",
+   "verificado_em": "2026-10-20"
+  },
+  {
+   "uf": "MG",
+   "municipio": "Congonhas",
+   "cod_ibge": "3118007",
+   "tipo": "tarifa_zero_temporal",
+   "regra": "Transporte coletivo urbano gratuito em todas as linhas municipais e para todos os passageiros no dia do 1º turno das eleições de 2026 (04/10/2026) e, se houver, no 2º turno (25/10/2026), sem exigir documento",
+   "desde": "2026-10-04",
+   "base_legal": "Resolução TSE nº 23.751/2026",
+   "fonte_url": "https://www.congonhas.mg.gov.br/index.php/prefeitura-de-congonhas-garante-gratuidade-no-transporte-coletivo-neste-domingo-4/",
+   "confianca": "A",
+   "verificado_em": "2026-10-20"
+  },
+  {
+   "uf": "MG",
    "municipio": "Contagem",
    "cod_ibge": "3118601",
    "tipo": "idoso",
@@ -1080,6 +1152,18 @@
   },
   {
    "uf": "MG",
+   "municipio": "Mariana",
+   "cod_ibge": "3140001",
+   "tipo": "tarifa_zero_universal",
+   "regra": "Ônibus municipal gratuito para todos os passageiros, inclusive turistas, na sede e nos distritos, com subvenção da Prefeitura à operadora.",
+   "desde": "2022-02-01",
+   "base_legal": "Lei municipal aprovada em 29/12/2021; Lei nº 4.175/2026 (dotação de 2026)",
+   "fonte_url": "https://diariodotransporte.com.br/2022/02/02/tarifa-zero-entra-em-vigor-na-cidade-de-mariana-mg/",
+   "confianca": "B",
+   "verificado_em": "2026-10-20"
+  },
+  {
+   "uf": "MG",
    "municipio": "Nova Lima",
    "cod_ibge": "3144805",
    "tipo": "estudante",
@@ -1160,6 +1244,30 @@
    "base_legal": null,
    "fonte_url": "https://consorciorotareal.com.br/bilhetagem-eletronica/",
    "confianca": "B",
+   "verificado_em": "2026-10-20"
+  },
+  {
+   "uf": "MG",
+   "municipio": "Patrocínio",
+   "cod_ibge": "3148103",
+   "tipo": "estudante",
+   "regra": "Tarifa Zero Estudantil para estudantes regularmente matriculados em instituições de ensino públicas ou privadas reconhecidas, com cartão próprio após cadastro e comprovação de matrícula e frequência; as gratuidades já existentes (idosos, pessoas com deficiência e outras) seguem pelas leis próprias",
+   "desde": "2026-01-01",
+   "base_legal": "Lei nº 5.873/2025, art. 2º; Decreto nº 4.774/2025, art. 5º",
+   "fonte_url": "https://www.leis.patrocinio.mg.gov.br/images/legislacao/2025/Leis/DECRETO_N%C2%BA_4.774_DE_30_DE_DEZEMBRO_DE_2025.pdf",
+   "confianca": "A",
+   "verificado_em": "2026-10-20"
+  },
+  {
+   "uf": "MG",
+   "municipio": "Patrocínio",
+   "cod_ibge": "3148103",
+   "tipo": "tarifa_zero_temporal",
+   "regra": "Passe livre coletivo para todos os usuários do transporte urbano nos dias das eleições gerais de 2026 (04/10/2026 e, se houver, 25/10/2026)",
+   "desde": "2026-10-04",
+   "base_legal": "Decreto nº 4.925, de 31/08/2026",
+   "fonte_url": "https://www.leis.patrocinio.mg.gov.br/index.php/decretos/2026/8544-decreto-n-4925",
+   "confianca": "A",
    "verificado_em": "2026-10-20"
   },
   {
@@ -1656,6 +1764,30 @@
   },
   {
    "uf": "PA",
+   "municipio": "Marituba",
+   "cod_ibge": "1504422",
+   "tipo": "estudante",
+   "regra": "Desconto de 50% sobre a tarifa pública vigente (R$ 2,30) para estudantes regularmente matriculados, com o cartão Pra Já Escolar.",
+   "desde": null,
+   "base_legal": "Lei Estadual nº 9.219/2021, art. 9º; Resolução nº 007/2026 da Arcon-PA",
+   "fonte_url": "https://www.arcon.pa.gov.br/noticia/cartao-pra-ja-e-aplicativo-digital-ampliam-acesso-ao-brt-metropolitano",
+   "confianca": "A",
+   "verificado_em": "2026-10-20"
+  },
+  {
+   "uf": "PA",
+   "municipio": "Marituba",
+   "cod_ibge": "1504422",
+   "tipo": "idoso",
+   "regra": "Isenção tarifária para pessoas com 60 anos ou mais, crianças até seis anos, pessoas com deficiência permanente (e acompanhante, quando reconhecido pela junta médica), policiais e bombeiros militares, policiais civis e penais e carteiros em serviço, e ex-combatentes, com Cartão de Transporte do SBD.",
+   "desde": null,
+   "base_legal": "Lei Estadual nº 9.219/2021, art. 8º (parágrafo único incluído pela Lei Estadual nº 10.720/2024); Resolução nº 007/2026 da Arcon-PA",
+   "fonte_url": "https://www.arcon.pa.gov.br/sites/default/files/arcon/resolucao/RESOLU%C3%87%C3%83O%20N%C2%BA%20007-2026%20-%20PROCEDIMENTOS%20PARA%20OBTEN%C3%87%C3%83O%20DOS%20CART%C3%95ES%20DE%20TRANSPORTE.pdf",
+   "confianca": "A",
+   "verificado_em": "2026-10-20"
+  },
+  {
+   "uf": "PA",
    "municipio": "Parauapebas",
    "cod_ibge": "1505536",
    "tipo": "estudante",
@@ -2004,6 +2136,30 @@
   },
   {
    "uf": "PR",
+   "municipio": "Cornélio Procópio",
+   "cod_ibge": "4106407",
+   "tipo": "estudante",
+   "regra": "A prefeitura fornece passes de ônibus de graça, todo mês, a estudantes regulares que moram no município, com cadastro no Departamento de Patronato (documentos pedidos incluem a renda familiar); o contrato de 2026 cita estudantes em situação de vulnerabilidade.",
+   "desde": null,
+   "base_legal": "Leis Municipais nº 332/2016 e nº 270/2022",
+   "fonte_url": "https://cp.pr.gov.br/pagina/18_passes-de-onibus-.html",
+   "confianca": "A",
+   "verificado_em": "2026-10-20"
+  },
+  {
+   "uf": "PR",
+   "municipio": "Cornélio Procópio",
+   "cod_ibge": "4106407",
+   "tipo": "idoso",
+   "regra": "A prefeitura compra passes da concessionária para distribuir a munícipes idosos (valor global de R$ 540.000,00 por ano na autorização de 30/10/2025, com acréscimo de 1.539 passes por mês em 2026)",
+   "desde": null,
+   "base_legal": "Contrato nº 112/2025 (Inexigibilidade nº 44/2025)",
+   "fonte_url": "https://plenussistemas.dioenet.com.br/diario/publicacoes/33883",
+   "confianca": "B",
+   "verificado_em": "2026-10-20"
+  },
+  {
+   "uf": "PR",
    "municipio": "Curitiba",
    "cod_ibge": "4106902",
    "tipo": "idoso",
@@ -2251,6 +2407,18 @@
    "desde": null,
    "base_legal": null,
    "fonte_url": "https://www.rolandia.pr.gov.br/noticias_individual/24029",
+   "confianca": "B",
+   "verificado_em": "2026-10-20"
+  },
+  {
+   "uf": "PR",
+   "municipio": "Telêmaco Borba",
+   "cod_ibge": "4127106",
+   "tipo": "estudante",
+   "regra": "Estudantes credenciados da rede pública federal, estadual e municipal, e matriculados em cursos técnicos e profissionalizantes, pagam 50% da tarifa do transporte coletivo urbano.",
+   "desde": null,
+   "base_legal": null,
+   "fonte_url": "https://telemacoborba.pr.gov.br/index.php/imprensa/noticias/transito/21249-tarifa-do-transporte-coletivo-sera-reajustada-a-partir-de-01-de-janeiro",
    "confianca": "B",
    "verificado_em": "2026-10-20"
   },
@@ -2652,6 +2820,18 @@
   },
   {
    "uf": "RO",
+   "municipio": "Cacoal",
+   "cod_ibge": "1100049",
+   "tipo": "tarifa_zero_universal",
+   "regra": "Tarifa zero para todos os usuários do transporte público coletivo urbano municipal, prestado diretamente pelo Município, mantidas as isenções existentes.",
+   "desde": "2023-02-13",
+   "base_legal": "Lei nº 5.149/PMC/2023; Lei nº 5.506/PMC/2025 (prorrogação)",
+   "fonte_url": "http://sapl.cacoal.ro.leg.br/media/sapl/public/normajuridica/2023/2694/lei_5.149-pmc-23_tarifa_zero_do_transporte_coletivo.pdf",
+   "confianca": "A",
+   "verificado_em": "2026-10-20"
+  },
+  {
+   "uf": "RO",
    "municipio": "Vilhena",
    "cod_ibge": "1100304",
    "tipo": "tarifa_zero_universal",
@@ -2685,6 +2865,30 @@
    "fonte_url": "https://publicacoes.boavista.rr.gov.br/storage/10533/dcd3c2f0cd657e0029f071143aa5f715.pdf",
    "confianca": "B",
    "verificado_em": "2026-10-17"
+  },
+  {
+   "uf": "RS",
+   "municipio": "Bagé",
+   "cod_ibge": "4301602",
+   "tipo": "estudante",
+   "regra": "meia passagem estudantil, 50% da tarifa (R$ 2,75)",
+   "desde": null,
+   "base_legal": "Decreto nº 375/2024",
+   "fonte_url": "https://www.bage24horas.com.br/noticia/preco-da-passagem-de-onibus-sobe-a-partir-desta-quarta-feira-em-bage",
+   "confianca": "B",
+   "verificado_em": "2026-10-20"
+  },
+  {
+   "uf": "RS",
+   "municipio": "Bagé",
+   "cod_ibge": "4301602",
+   "tipo": "tarifa_zero_temporal",
+   "regra": "transporte coletivo urbano gratuito para todos no dia da votação do segundo turno das eleições de 2026, com frequência de dia útil",
+   "desde": "2026-10-25",
+   "base_legal": "Decreto nº 298, de 29 de setembro de 2026",
+   "fonte_url": "https://www.bage.rs.gov.br/noticias-1/transporte-coletivo-sera-gratuito-tambem-no-segundo-turno-das-eleicoes",
+   "confianca": "A",
+   "verificado_em": "2026-10-20"
   },
   {
    "uf": "RS",
@@ -2724,6 +2928,30 @@
   },
   {
    "uf": "RS",
+   "municipio": "Esteio",
+   "cod_ibge": "4307708",
+   "tipo": "idoso",
+   "regra": "tarifa isenta (Cartão EsteioMob Gratuidade) para idosos com mais de 65 anos, idosos de 60 a 64 anos com renda familiar mensal de até dois salários mínimos e pessoas com deficiência",
+   "desde": null,
+   "base_legal": "Lei Municipal 6.715/2017 (idosos de 60 a 64 anos)",
+   "fonte_url": "https://esteiomob.com.br/modalidade/view/3",
+   "confianca": "B",
+   "verificado_em": "2026-10-20"
+  },
+  {
+   "uf": "RS",
+   "municipio": "Esteio",
+   "cod_ibge": "4307708",
+   "tipo": "tarifa_zero_temporal",
+   "regra": "transporte coletivo municipal gratuito para todos no 1º turno das eleições de 2026, com a grade de horários de sábado",
+   "desde": "2026-10-04",
+   "base_legal": null,
+   "fonte_url": "https://esteiomob.com.br/noticia/view/6/informativo-eleicoes-2026",
+   "confianca": "B",
+   "verificado_em": "2026-10-20"
+  },
+  {
+   "uf": "RS",
    "municipio": "Farroupilha",
    "cod_ibge": "4307906",
    "tipo": "idoso",
@@ -2731,6 +2959,30 @@
    "desde": null,
    "base_legal": null,
    "fonte_url": "https://bentotransportes.com.br/souunificado/",
+   "confianca": "B",
+   "verificado_em": "2026-10-20"
+  },
+  {
+   "uf": "RS",
+   "municipio": "Gramado",
+   "cod_ibge": "4309100",
+   "tipo": "idoso",
+   "regra": "gratuidade para idosos com mais de 60 anos e para policiais fardados em serviço no novo sistema",
+   "desde": null,
+   "base_legal": null,
+   "fonte_url": "https://diariodotransporte.com.br/2026/05/19/gramado-rs-deve-receber-novos-onibus-marcopolo-para-frota-do-transporte-publico-a-partir-da-proxima-semana/",
+   "confianca": "B",
+   "verificado_em": "2026-10-20"
+  },
+  {
+   "uf": "RS",
+   "municipio": "Gramado",
+   "cod_ibge": "4309100",
+   "tipo": "tarifa_zero_temporal",
+   "regra": "transporte público gratuito em todas as linhas municipais durante todo o domingo do 1º turno das eleições de 2026",
+   "desde": "2026-10-04",
+   "base_legal": null,
+   "fonte_url": "https://www.gramado.rs.gov.br/cidadao/noticia/eleicoes-2026-transporte-publico-gratuito-neste-domingo-em-gramado",
    "confianca": "B",
    "verificado_em": "2026-10-20"
   },
@@ -2745,6 +2997,18 @@
    "fonte_url": "https://www.sogil.com.br/cartao-teu",
    "confianca": "B",
    "verificado_em": "2026-10-17"
+  },
+  {
+   "uf": "RS",
+   "municipio": "Guaíba",
+   "cod_ibge": "4309308",
+   "tipo": "estudante",
+   "regra": "meia passagem estudantil (Passagem Escolar, R$ 2,50) no cartão USEPASSE Escolar",
+   "desde": null,
+   "base_legal": null,
+   "fonte_url": "https://www.stgguaiba.com.br/usepasse",
+   "confianca": "B",
+   "verificado_em": "2026-10-20"
   },
   {
    "uf": "RS",
@@ -2769,6 +3033,30 @@
    "fonte_url": "https://www.lajeado.rs.gov.br/conteudo/3266/969",
    "confianca": "B",
    "verificado_em": "2026-10-18"
+  },
+  {
+   "uf": "RS",
+   "municipio": "Montenegro",
+   "cod_ibge": "4312401",
+   "tipo": "estudante",
+   "regra": "50% de desconto para estudantes no transporte urbano de Montenegro (Cartão Educação)",
+   "desde": null,
+   "base_legal": null,
+   "fonte_url": "https://vimsa.com.br/cartoes-vimsa/",
+   "confianca": "B",
+   "verificado_em": "2026-10-20"
+  },
+  {
+   "uf": "RS",
+   "municipio": "Montenegro",
+   "cod_ibge": "4312401",
+   "tipo": "idoso",
+   "regra": "isenção tarifária nas linhas comuns para idosos de 65 anos ou mais (Cartão Gratuidade); também para pessoas com deficiência com carteira oficial do município",
+   "desde": null,
+   "base_legal": null,
+   "fonte_url": "https://vimsa.com.br/cartoes-vimsa/",
+   "confianca": "B",
+   "verificado_em": "2026-10-20"
   },
   {
    "uf": "RS",
@@ -2901,6 +3189,18 @@
    "fonte_url": "https://coleobus.com.br/",
    "confianca": "B",
    "verificado_em": "2026-10-19"
+  },
+  {
+   "uf": "RS",
+   "municipio": "Uruguaiana",
+   "cod_ibge": "4322400",
+   "tipo": "tarifa_zero_temporal",
+   "regra": "seis linhas do transporte coletivo sem cobrança de passagem no domingo do 2º turno das eleições de 2026, das 8h às 18h, com saídas de hora em hora",
+   "desde": "2026-10-25",
+   "base_legal": null,
+   "fonte_url": "https://www.uruguaiana.rs.gov.br/portal/noticias/0/3/8101/prefeitura-de-uruguaiana-tera-onibus-gratuitos-no-segundo-turno-das-eleicoes-2026",
+   "confianca": "B",
+   "verificado_em": "2026-10-20"
   },
   {
    "uf": "SC",
@@ -3216,6 +3516,18 @@
   },
   {
    "uf": "SC",
+   "municipio": "Timbó",
+   "cod_ibge": "4218202",
+   "tipo": "tarifa_reduzida",
+   "regra": "Cartão Estudante com tarifa de R$ 2,00, metade da comum",
+   "desde": null,
+   "base_legal": null,
+   "fonte_url": "https://expressopresidente.com.br/cidades/timbo",
+   "confianca": "B",
+   "verificado_em": "2026-10-20"
+  },
+  {
+   "uf": "SC",
    "municipio": "Videira",
    "cod_ibge": "4219309",
    "tipo": "estudante",
@@ -3516,6 +3828,30 @@
   },
   {
    "uf": "SP",
+   "municipio": "Cabreúva",
+   "cod_ibge": "3508405",
+   "tipo": "estudante",
+   "regra": "Estudantes do 1º e 2º grau, de curso profissionalizante, e funcionários, professores e diretores escolares: desconto de 45% na tarifa, com cartão escolar.",
+   "desde": null,
+   "base_legal": "Lei Municipal nº 112/1996",
+   "fonte_url": "https://cabreuva.sp.gov.br/upload/kceditor/files/Relat%C3%B3rio%20T%C3%A9cnico%2003%20-%20Diagn%C3%B3stico%20do%20Sistema%20VOL%201.pdf",
+   "confianca": "A",
+   "verificado_em": "2026-10-20"
+  },
+  {
+   "uf": "SP",
+   "municipio": "Cabreúva",
+   "cod_ibge": "3508405",
+   "tipo": "idoso",
+   "regra": "Gratuidade de 100% para idosos a partir de 60 anos (de 60 a 64 anos pela lei municipal; 65 anos ou mais pelo Estatuto do Idoso), com cartão de idoso.",
+   "desde": null,
+   "base_legal": "Lei Municipal nº 1.703/2005",
+   "fonte_url": "https://cabreuva.sp.gov.br/upload/kceditor/files/Relat%C3%B3rio%20T%C3%A9cnico%2003%20-%20Diagn%C3%B3stico%20do%20Sistema%20VOL%201.pdf",
+   "confianca": "A",
+   "verificado_em": "2026-10-20"
+  },
+  {
+   "uf": "SP",
    "municipio": "Cajamar",
    "cod_ibge": "3509205",
    "tipo": "estudante",
@@ -3588,6 +3924,30 @@
   },
   {
    "uf": "SP",
+   "municipio": "Capivari",
+   "cod_ibge": "3510401",
+   "tipo": "estudante",
+   "regra": "Passagem escolar a R$ 2,93, contra R$ 4,50 da inteira.",
+   "desde": null,
+   "base_legal": null,
+   "fonte_url": "https://capivari.sp.gov.br/portal/wp-content/uploads/2023/03/Beneficios-tarifarios-concedidos-no-valor-das-tarifas-do-transporte-publico.pdf",
+   "confianca": "B",
+   "verificado_em": "2026-10-20"
+  },
+  {
+   "uf": "SP",
+   "municipio": "Capivari",
+   "cod_ibge": "3510401",
+   "tipo": "idoso",
+   "regra": "Isenção de tarifa para idosos acima de 60 anos, pessoas com deficiência e crianças de até 6 anos.",
+   "desde": null,
+   "base_legal": null,
+   "fonte_url": "https://capivari.sp.gov.br/portal/wp-content/uploads/2023/03/Beneficios-tarifarios-concedidos-no-valor-das-tarifas-do-transporte-publico.pdf",
+   "confianca": "B",
+   "verificado_em": "2026-10-20"
+  },
+  {
+   "uf": "SP",
    "municipio": "Caraguatatuba",
    "cod_ibge": "3510500",
    "tipo": "idoso",
@@ -3597,6 +3957,18 @@
    "fonte_url": "https://diariodotransporte.com.br/2024/05/29/sancetur-assume-transportes-em-caraguatatuba-sp-no-dia-1o-de-junho-apos-anuencia-da-prefeitura/",
    "confianca": "B",
    "verificado_em": "2026-10-18"
+  },
+  {
+   "uf": "SP",
+   "municipio": "Caçapava",
+   "cod_ibge": "3508504",
+   "tipo": "tarifa_zero_temporal",
+   "regra": "Transporte coletivo municipal gratuito no segundo turno das eleições de 2026, em 25/10/2026, das 7h às 18h.",
+   "desde": "2026-10-25",
+   "base_legal": null,
+   "fonte_url": "https://www.cacapava.sp.gov.br/transporte-coletivo-sera-gratuito-no-segundo-turno-das-eleicoes-em-cacapava",
+   "confianca": "B",
+   "verificado_em": "2026-10-20"
   },
   {
    "uf": "SP",
@@ -3816,6 +4188,18 @@
   },
   {
    "uf": "SP",
+   "municipio": "Itapeva",
+   "cod_ibge": "3522406",
+   "tipo": "tarifa_zero_universal",
+   "regra": "Qualquer pessoa usa o transporte coletivo urbano e rural sem pagar. Para validar o passe livre, o usuário faz o cadastro na empresa, no guichê do Terminal Urbano, e recebe a carteirinha lida pela catraca eletrônica; quem já tinha carteirinha não precisa se cadastrar de novo.",
+   "desde": "2021-08-01",
+   "base_legal": "Decreto nº 11.829/2021",
+   "fonte_url": "https://www.itapeva.sp.gov.br/noticia/852/prefeitura-renova-contrato-com-a-jundia-e-garante-transporte-gratuito-a-populacao/",
+   "confianca": "A",
+   "verificado_em": "2026-10-20"
+  },
+  {
+   "uf": "SP",
    "municipio": "Itapevi",
    "cod_ibge": "3522505",
    "tipo": "estudante",
@@ -4017,6 +4401,18 @@
    "fonte_url": "https://apl2.lencoispaulista.sp.gov.br/pmlp-site/Noticias?ler=%C3%94nibus%20circular%20ser%C3%A1%20gratuito%20e%20ter%C3%A1%20linhas%20ampliadas%20devido%20%C3%A0s%20elei%C3%A7%C3%B5es&noticia=9415",
    "confianca": "A",
    "verificado_em": "2026-10-18"
+  },
+  {
+   "uf": "SP",
+   "municipio": "Lorena",
+   "cod_ibge": "3527207",
+   "tipo": "idoso",
+   "regra": "Gratuidade para maiores de 65 anos (Estatuto do Idoso) e, por lei complementar municipal aprovada em 10/04/2017, para idosos de 60 a 65 anos residentes em Lorena com renda de até 2 salários mínimos, com cadastro na Secretaria de Assistência e Desenvolvimento Social (SADS).",
+   "desde": "2017-04",
+   "base_legal": "Lei Complementar municipal de 2017",
+   "fonte_url": "https://www.lorena.sp.gov.br/wordpress/index.php/2017/04/11/prefeitura-garante-gratuidade-no-transporte-publico-para-idosos-a-partir-dos-60-anos/",
+   "confianca": "A",
+   "verificado_em": "2026-10-20"
   },
   {
    "uf": "SP",
@@ -4723,6 +5119,18 @@
    "desde": null,
    "base_legal": "Decreto nº 6.879, de 21/11/2022, art. 4º",
    "fonte_url": "https://www.votorantim.sp.gov.br/uploads/jornal_municipal_edicao_1290_25104239.pdf",
+   "confianca": "A",
+   "verificado_em": "2026-10-20"
+  },
+  {
+   "uf": "SP",
+   "municipio": "Várzea Paulista",
+   "cod_ibge": "3556503",
+   "tipo": "tarifa_zero_temporal",
+   "regra": "Ônibus municipais gratuitos o dia todo nos dias de votação das eleições de 2026 (04/10 e, se houver, 25/10), com horários de dia útil, pela Resolução-TSE nº 23.751/2026.",
+   "desde": "2026-10-04",
+   "base_legal": "Resolução-TSE nº 23.751/2026",
+   "fonte_url": "https://portal.varzeapaulista.sp.gov.br/2026/10/02/varzea-paulista-tera-transporte-publico-gratuito-neste-domingo-4/",
    "confianca": "A",
    "verificado_em": "2026-10-20"
   },
