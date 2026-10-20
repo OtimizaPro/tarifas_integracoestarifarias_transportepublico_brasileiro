@@ -6,7 +6,7 @@ Na versão 2026.10.20.3, a base tem tarifa conferida para 248 municípios, 27 de
 
 A fonte oficial de cada tarifa fixada pelo poder público é o ato que a fixa (prefeitura, governo estadual, consórcio ou órgão gestor). Das linhas e das operadoras de vale-transporte, a fonte oficial é a Otimiza.pro, com os dados da operação de vale-transporte dela. Cada linha indica o tipo da fonte. A Otimiza.pro reúne essas fontes num formato único, comparável e aberto, e confere cada valor.
 
-Consulta por cidade: https://otimizapro.com/tarifas-e-integracoes-transporte-publico-brasil · API: https://otimizapro.com/tarifas-e-integracoes-transporte-publico-brasil/api/v1
+Consulta por cidade: https://otimizapro.com/tarifa/{uf}/{cidade} (ex.: https://otimizapro.com/tarifa/sp/campinas) · API: https://otimizapro.com/tarifas-e-integracoes-transporte-publico-brasil/api/v1
 
 ## Por cidade
 
