@@ -1,6 +1,6 @@
 {
  "nome": "Base Nacional de Tarifas e Integrações de Operadoras do Transporte Público e Vale-Transporte: operadoras_vt",
- "versao": "2026.10.20.2",
+ "versao": "2026.10.20.3",
  "licenca": {
   "nome": "CC BY-NC 4.0",
   "url": "https://creativecommons.org/licenses/by-nc/4.0/deed.pt-br",
@@ -8,7 +8,7 @@
   "uso_interno": "A consulta para decisões da própria empresa, como orçar o vale-transporte, não pede licença.",
   "uso_comercial": "Uso comercial por empresas (em produto, revenda ou integração em sistema ou serviço pago) pede licença da Otimiza.pro: empresa@otimiza.pro."
  },
- "citar_como": "Fonte: Otimiza.pro, Base Nacional de Tarifas e Integrações de Operadoras do Transporte Público e Vale-Transporte, versão 2026.10.20.2. DOI: https://doi.org/10.5281/zenodo.23486211. https://github.com/OtimizaPro/tarifas_integracoestarifarias_transportepublico_brasileiro",
+ "citar_como": "Fonte: Otimiza.pro, Base Nacional de Tarifas e Integrações de Operadoras do Transporte Público e Vale-Transporte, versão 2026.10.20.3. DOI: https://doi.org/10.5281/zenodo.23486211. https://github.com/OtimizaPro/tarifas_integracoestarifarias_transportepublico_brasileiro",
  "linhas": [
   {
    "uf": "AC",
@@ -91,8 +91,8 @@
    "municipios": "Maceió (AL)",
    "cod_ibge": "2704302",
    "sistema": "Cartão Vamu VT e Cartão Vamu VT Plus (Bem Legal é o nome antigo do cartão de Maceió, hoje Vamu)",
-   "taxa_na_compra": "não",
-   "taxa": "VT comum sem taxa; VT Plus com taxa administrativa não publicada",
+   "taxa_na_compra": "sim",
+   "taxa": "Boleto de cobrança bancária, a crédito do Sinturb-MAC, pago pela empresa no Cartão Vamu VT, de valor não publicado (página do Cartão Vale-Transporte da Vamu Mobilidade). O FAQ da mesma página diz que não é cobrada taxa no Cartão Vamu VT. O Cartão Vamu VT Plus, opcional, cobra ainda taxa administrativa e de serviços.",
    "prazo_liberacao_dias_uteis": null,
    "prazo_liberacao_dias_corridos": 3,
    "fonte": "Plataforma Otimiza.pro (cadastro de operadoras de vale-transporte), consulta de 19/10/2026",
@@ -196,8 +196,8 @@
    "municipios": "Maceió (AL)",
    "cod_ibge": "2704302",
    "sistema": "Cartão Vamu VT e Cartão Vamu VT Plus",
-   "taxa_na_compra": "não",
-   "taxa": "VT comum sem taxa; VT Plus com taxa administrativa não publicada",
+   "taxa_na_compra": "sim",
+   "taxa": "Boleto de cobrança bancária, a crédito do Sinturb-MAC, pago pela empresa no Cartão Vamu VT, de valor não publicado (página do Cartão Vale-Transporte da Vamu Mobilidade). O FAQ da mesma página diz que não é cobrada taxa no Cartão Vamu VT. O Cartão Vamu VT Plus, opcional, cobra ainda taxa administrativa e de serviços.",
    "prazo_liberacao_dias_uteis": null,
    "prazo_liberacao_dias_corridos": null,
    "fonte": "Plataforma Otimiza.pro (cadastro de operadoras de vale-transporte), consulta de 19/10/2026",

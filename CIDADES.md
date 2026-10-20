@@ -1,8 +1,8 @@
 # Tarifas do transporte público por cidade (Otimiza.pro)
 
-Quanto custa o transporte público em 248 municípios brasileiros, segundo a Base Nacional de Tarifas e Integrações de VT da Otimiza.pro (versão 2026.10.20.2). Cada frase traz o valor, a fonte e a data em que a Otimiza.pro conferiu e, quando a fonte informa, o ato oficial e a data em que passou a valer. A fonte oficial de cada valor está indicada. Onde há dados de serviço e oferta, a ficha traz também linhas e passageiros, com a fonte e a data.
+Quanto custa o transporte público em 248 municípios brasileiros, segundo a Base Nacional de Tarifas e Integrações de VT da Otimiza.pro (versão 2026.10.20.3). Cada frase traz o valor, a fonte e a data em que a Otimiza.pro conferiu e, quando a fonte informa, o ato oficial e a data em que passou a valer. A fonte oficial de cada valor está indicada. Onde há dados de serviço e oferta, a ficha traz também linhas e passageiros, com a fonte e a data.
 
-Como citar: Fonte: Otimiza.pro, Base Nacional de Tarifas e Integrações de Operadoras do Transporte Público e Vale-Transporte, versão 2026.10.20.2. DOI: https://doi.org/10.5281/zenodo.23486211. https://github.com/OtimizaPro/tarifas_integracoestarifarias_transportepublico_brasileiro
+Como citar: Fonte: Otimiza.pro, Base Nacional de Tarifas e Integrações de Operadoras do Transporte Público e Vale-Transporte, versão 2026.10.20.3. DOI: https://doi.org/10.5281/zenodo.23486211. https://github.com/OtimizaPro/tarifas_integracoestarifarias_transportepublico_brasileiro
 
 ## AC
 
@@ -32,7 +32,7 @@ Em Maceió (AL), a passagem de ônibus custa de R$ 3,49 a R$ 4,00 (varia com o c
 
 Fonte (ato oficial reproduzido): https://www.normasbrasil.com.br/norma/decreto-9449-2023-maceio_446054.html
 
-Vale-transporte em Maceió: cartão Vamu Vale-Transporte; emitido por Vamu Mobilidade (Sinturb); canal de compra da empresa: Portal do Cartão Vamu (boleto); liberação do crédito: até 72 horas úteis após o boleto; taxa na compra: VT comum sem taxa; VT Plus com taxa administrativa não publicada; validade dos créditos: 1 ano por recarga.
+Vale-transporte em Maceió: cartão Vamu Vale-Transporte; emitido por Vamu Mobilidade (Sinturb); canal de compra da empresa: Portal do Cartão Vamu (boleto); liberação do crédito: até 72 horas úteis após o boleto; taxa na compra: Boleto de cobrança bancária, a crédito do Sinturb-MAC, pago pela empresa no Cartão Vamu VT, de valor não publicado (página do Cartão Vale-Transporte da Vamu Mobilidade). O FAQ da mesma página diz que não é cobrada taxa no Cartão Vamu VT. O Cartão Vamu VT Plus, opcional, cobra ainda taxa administrativa e de serviços.; validade dos créditos: 1 ano por recarga.
 
 Integração em Maceió: 90 min, 2 ônibus, uma passagem
 
