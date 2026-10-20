@@ -1,6 +1,6 @@
 {
  "nome": "Base Nacional de Tarifas e Integrações de Operadoras do Transporte Público e Vale-Transporte: beneficios",
- "versao": "2026.10.19.7",
+ "versao": "2026.10.19.8",
  "licenca": {
   "nome": "CC BY-NC 4.0",
   "url": "https://creativecommons.org/licenses/by-nc/4.0/deed.pt-br",
@@ -8,7 +8,7 @@
   "uso_interno": "A consulta para decisões da própria empresa, como orçar o vale-transporte, não pede licença.",
   "uso_comercial": "Uso comercial por empresas (em produto, revenda ou integração em sistema ou serviço pago) pede licença da Otimiza.pro: empresa@otimiza.pro."
  },
- "citar_como": "Fonte: Otimiza.pro, Base Nacional de Tarifas e Integrações de Operadoras do Transporte Público e Vale-Transporte, versão 2026.10.19.7. DOI: https://doi.org/10.5281/zenodo.23486211. https://github.com/OtimizaPro/tarifas_integracoestarifarias_transportepublico_brasileiro",
+ "citar_como": "Fonte: Otimiza.pro, Base Nacional de Tarifas e Integrações de Operadoras do Transporte Público e Vale-Transporte, versão 2026.10.19.8. DOI: https://doi.org/10.5281/zenodo.23486211. https://github.com/OtimizaPro/tarifas_integracoestarifarias_transportepublico_brasileiro",
  "linhas": [
   {
    "uf": "AL",
@@ -165,6 +165,18 @@
    "fonte_url": "https://diariooficial.feiradesantana.ba.gov.br/atos/executivo/1BBDDL8J160120261739.pdf",
    "confianca": "A",
    "verificado_em": "2026-10-17"
+  },
+  {
+   "uf": "BA",
+   "municipio": "Ilhéus",
+   "cod_ibge": "2913606",
+   "tipo": "tarifa_zero_temporal",
+   "regra": "Ônibus gratuitos no dia da eleição de 04/10/2026, por decisão liminar da Justiça Eleitoral, depois que a SUTRAN anunciou cobrança normal",
+   "desde": "2026-10-04",
+   "base_legal": "decisão judicial com base na diretriz do STF e nas normas eleitorais",
+   "fonte_url": "https://ilheus24h.com.br/decisao-judicial-garante-onibus-gratuitos-no-dia-da-eleicao-em-ilheus/",
+   "confianca": "B",
+   "verificado_em": "2026-10-19"
   },
   {
    "uf": "BA",
@@ -480,6 +492,30 @@
   },
   {
    "uf": "ES",
+   "municipio": "Linhares",
+   "cod_ibge": "3203205",
+   "tipo": "estudante",
+   "regra": "Cartão Escolar: desconto de 50% na tarifa das linhas municipais para estudantes da rede de ensino do município (cartão pessoal, com reconhecimento facial)",
+   "desde": null,
+   "base_legal": null,
+   "fonte_url": "https://vianortecapixaba.com.br/informacoes/bilhetagem",
+   "confianca": "B",
+   "verificado_em": "2026-10-19"
+  },
+  {
+   "uf": "ES",
+   "municipio": "Linhares",
+   "cod_ibge": "3203205",
+   "tipo": "idoso",
+   "regra": "Cartão Gratuidade para idosos maiores de 65 anos e pessoas com deficiência cadastradas na Secretaria de Administração da Prefeitura",
+   "desde": null,
+   "base_legal": null,
+   "fonte_url": "https://vianortecapixaba.com.br/informacoes/bilhetagem",
+   "confianca": "B",
+   "verificado_em": "2026-10-19"
+  },
+  {
+   "uf": "ES",
    "municipio": "Vitória",
    "cod_ibge": "3205309",
    "tipo": "estudante",
@@ -585,6 +621,42 @@
    "fonte_url": "https://www.luziania.go.gov.br/lei-no-4-595/",
    "confianca": "A",
    "verificado_em": "2026-10-17"
+  },
+  {
+   "uf": "MA",
+   "municipio": "Imperatriz",
+   "cod_ibge": "2105302",
+   "tipo": "tarifa_zero_temporal",
+   "regra": "Ônibus semiurbanos gratuitos na Região Metropolitana de Imperatriz no domingo da eleição de 2026, até as 22h",
+   "desde": "2026-10-04",
+   "base_legal": "Portaria MOB nº 193/2026",
+   "fonte_url": "https://oimparcial.com.br/imperatriz/noticias/2026/10/onibus-semiurbanos-serao-gratuitos-no-domingo-da-eleicao-em-sao-luis-e-imperatriz/",
+   "confianca": "B",
+   "verificado_em": "2026-10-19"
+  },
+  {
+   "uf": "MA",
+   "municipio": "São José de Ribamar",
+   "cod_ibge": "2111201",
+   "tipo": "tarifa_zero_temporal",
+   "regra": "Ônibus semiurbanos gratuitos em São Luís, São José de Ribamar, Raposa e Paço do Lumiar no domingo da eleição de 2026, até as 22h",
+   "desde": "2026-10-04",
+   "base_legal": "Portaria MOB nº 193/2026",
+   "fonte_url": "https://oimparcial.com.br/imperatriz/noticias/2026/10/onibus-semiurbanos-serao-gratuitos-no-domingo-da-eleicao-em-sao-luis-e-imperatriz/",
+   "confianca": "B",
+   "verificado_em": "2026-10-19"
+  },
+  {
+   "uf": "MA",
+   "municipio": "São José de Ribamar",
+   "cod_ibge": "2111201",
+   "tipo": "tarifa_zero_temporal",
+   "regra": "Catraca liberada no semiurbano da Grande Ilha no feriado de Corpus Christi de 2026, das 12h às 23h",
+   "desde": "2026-06-04",
+   "base_legal": "não citada",
+   "fonte_url": "https://oimparcial.com.br/noticias/2026/06/transporte-publico-semiurbano-tera-catraca-liberada-no-feriado-de-corpus-christi-na-grande-ilha/",
+   "confianca": "B",
+   "verificado_em": "2026-10-19"
   },
   {
    "uf": "MA",
@@ -1083,12 +1155,12 @@
    "municipio": "Três Lagoas",
    "cod_ibge": "5008305",
    "tipo": "tarifa_zero_temporal",
-   "regra": "Transporte coletivo urbano gratuito para toda a população no domingo de eleição, 04/10/2026, nas linhas normais",
+   "regra": "Transporte coletivo urbano gratuito para toda a população no domingo de eleição, 04/10/2026, nas linhas regulares, mesmo que o deslocamento não seja para votar",
    "desde": "2026-10-04",
    "base_legal": null,
    "fonte_url": "https://www.treslagoas.ms.gov.br/tres-lagoas-tera-transporte-coletivo-gratuito-no-domingo-de-eleicoes/",
    "confianca": "A",
-   "verificado_em": "2026-10-18"
+   "verificado_em": "2026-10-19"
   },
   {
    "uf": "MT",
@@ -1119,36 +1191,36 @@
    "municipio": "Lucas do Rio Verde",
    "cod_ibge": "5105259",
    "tipo": "estudante",
-   "regra": "Passe Livre para estudantes das redes municipal, estadual e privada, universitários, cursos profissionalizantes, atletas de escolinhas e participantes de projetos sociais, que morem a pelo menos 1 km da escola; cadastro com biometria facial na Translocave e renovação a cada ano letivo",
-   "desde": null,
-   "base_legal": null,
+   "regra": "Passe Livre para estudantes das redes municipal, estadual e privada, universitários, alunos de cursos profissionalizantes e de oficinas culturais, atletas das escolinhas esportivas e participantes de projetos sociais; pedido presencial na Translocave, com biometria facial, e renovação a cada ano letivo",
+   "desde": "2022",
+   "base_legal": "Lei nº 3.373/2022 (Programa Passe Livre) e Decreto nº 5.993/2022",
    "fonte_url": "https://lucasdorioverde.mt.gov.br/site/noticias/estudantes-ja-podem-solicitar-ou-renovar-passe-livre-do-transporte-publico-para-o-novo-ano-letivo-14473",
-   "confianca": "B",
-   "verificado_em": "2026-10-17"
+   "confianca": "A",
+   "verificado_em": "2026-10-19"
   },
   {
    "uf": "MT",
    "municipio": "Lucas do Rio Verde",
    "cod_ibge": "5105259",
    "tipo": "idoso",
-   "regra": "Passe Livre inclui idosos com mais de 60 anos",
-   "desde": null,
-   "base_legal": null,
+   "regra": "Passe Livre para idosos acima de 60 anos, pessoas com deficiência e seus acompanhantes",
+   "desde": "2022",
+   "base_legal": "Lei nº 3.373/2022 (Programa Passe Livre)",
    "fonte_url": "https://lucasdorioverde.mt.gov.br/site/noticias/estudantes-ja-podem-solicitar-ou-renovar-passe-livre-do-transporte-publico-para-o-novo-ano-letivo-14473",
-   "confianca": "B",
-   "verificado_em": "2026-10-17"
+   "confianca": "A",
+   "verificado_em": "2026-10-19"
   },
   {
    "uf": "MT",
    "municipio": "Lucas do Rio Verde",
    "cod_ibge": "5105259",
    "tipo": "tarifa_zero_temporal",
-   "regra": "Linhas 400, 500 e 600 gratuitas no primeiro turno das eleições (04/10/2026) e no segundo turno (25/10/2026), se houver, com a operação de domingo",
+   "regra": "Ônibus gratuito nas linhas indicadas pela Prefeitura no 1º turno das eleições (04/10/2026) e no 2º turno (25/10/2026), se houver",
    "desde": "2026-10-04",
-   "base_legal": "Resolução TSE nº 23.759/2026, citada pela prefeitura",
+   "base_legal": "Resolução TSE nº 23.759/2026, citada pela Prefeitura",
    "fonte_url": "https://lucasdorioverde.mt.gov.br/site/noticias/prefeitura-de-lucas-do-rio-verde-confirma-transporte-gratuito-de-onibus-nas-eleicoes-2026-15202",
    "confianca": "A",
-   "verificado_em": "2026-10-17"
+   "verificado_em": "2026-10-19"
   },
   {
    "uf": "MT",
@@ -1221,6 +1293,42 @@
    "fonte_url": "https://amm.diariomunicipal.org/publicacao/1918034/",
    "confianca": "A",
    "verificado_em": "2026-10-17"
+  },
+  {
+   "uf": "PA",
+   "municipio": "Ananindeua",
+   "cod_ibge": "1500800",
+   "tipo": "estudante",
+   "regra": "Meia passagem de R$ 2,30 no BRT; crianças menores de 7 anos isentas; pessoas com deficiência podem pedir tarifa zero com laudo",
+   "desde": null,
+   "base_legal": "não citada",
+   "fonte_url": "https://www.agenciapara.com.br/noticia/74026/cartao-pra-ja-e-aplicativo-digital-ampliam-acesso-ao-brt-metropolitano",
+   "confianca": "A",
+   "verificado_em": "2026-10-19"
+  },
+  {
+   "uf": "PA",
+   "municipio": "Ananindeua",
+   "cod_ibge": "1500800",
+   "tipo": "idoso",
+   "regra": "Cartão Pra Já Sênior com gratuidade no BRT para pessoas com 60 anos ou mais",
+   "desde": null,
+   "base_legal": "não citada",
+   "fonte_url": "https://www.agenciapara.com.br/noticia/74026/cartao-pra-ja-e-aplicativo-digital-ampliam-acesso-ao-brt-metropolitano",
+   "confianca": "A",
+   "verificado_em": "2026-10-19"
+  },
+  {
+   "uf": "PA",
+   "municipio": "Ananindeua",
+   "cod_ibge": "1500800",
+   "tipo": "tarifa_zero_temporal",
+   "regra": "BRT Metropolitano sem cobrança aos domingos e feriados nacionais ou estaduais; não vale nos feriados municipais (Arcon)",
+   "desde": "2025-11",
+   "base_legal": "não citada",
+   "fonte_url": "https://www.oliberal.com/para/brt-metropolitano-nao-tera-passagem-gratuita-no-feriado-de-corpus-christi-veja-como-fica-o-servico-1.1129630",
+   "confianca": "B",
+   "verificado_em": "2026-10-19"
   },
   {
    "uf": "PA",
@@ -1379,6 +1487,18 @@
    "verificado_em": "2026-10-17"
   },
   {
+   "uf": "PE",
+   "municipio": "Petrolina",
+   "cod_ibge": "2611101",
+   "tipo": "tarifa_zero_temporal",
+   "regra": "Transporte coletivo urbano gratuito nos dias de eleição (04/10/2026 e eventual 2º turno em 25/10/2026)",
+   "desde": "2022",
+   "base_legal": "Lei Municipal nº 3.576/2022",
+   "fonte_url": "https://g1.globo.com/pe/petrolina-regiao/noticia/2026/09/30/petrolina-tera-transporte-coletivo-gratuito-durante-as-eleicoes.ghtml",
+   "confianca": "B",
+   "verificado_em": "2026-10-19"
+  },
+  {
    "uf": "PI",
    "municipio": "Teresina",
    "cod_ibge": "2211001",
@@ -1449,6 +1569,30 @@
    "fonte_url": "http://sapl.arapongas.pr.leg.br/media/sapl/public/normajuridica/2022/4872/lei_5102_2022.pdf",
    "confianca": "A",
    "verificado_em": "2026-10-18"
+  },
+  {
+   "uf": "PR",
+   "municipio": "Araucária",
+   "cod_ibge": "4101804",
+   "tipo": "estudante",
+   "regra": "Educard: gratuidade nos ônibus do TRIAR para estudantes da educação infantil ao ensino médio de instituições públicas do município (CMEIs, escolas municipais e colégios estaduais), EJA e Ceebja; pais ou responsáveis por crianças de até 12 anos também não pagam ao levar e buscar o aluno. Pedido on-line em 2026.",
+   "desde": null,
+   "base_legal": null,
+   "fonte_url": "https://opopularpr.com.br/pais-e-responsaveis-de-estudantes-da-rede-publica-ja-podem-solicitar-o-cartao-educard/",
+   "confianca": "B",
+   "verificado_em": "2026-10-19"
+  },
+  {
+   "uf": "PR",
+   "municipio": "Araucária",
+   "cod_ibge": "4101804",
+   "tipo": "tarifa_zero_temporal",
+   "regra": "Aos domingos, gratuidade para todos os usuários com o cartão TRIAR",
+   "desde": null,
+   "base_legal": null,
+   "fonte_url": "https://opopularpr.com.br/triar-funcionara-em-horarios-de-dia-util-no-domingo-de-eleicoes/",
+   "confianca": "B",
+   "verificado_em": "2026-10-19"
   },
   {
    "uf": "PR",
@@ -1701,6 +1845,54 @@
    "fonte_url": "https://transportes.pontagrossa.pr.gov.br/prefeitura-confirma-ampliacao-do-passe-livre-corrige-tarifa-e-destaca-evolucao-do-transporte/",
    "confianca": "A",
    "verificado_em": "2026-10-17"
+  },
+  {
+   "uf": "PR",
+   "municipio": "Toledo",
+   "cod_ibge": "4127700",
+   "tipo": "estudante",
+   "regra": "Gratuidade diária para estudantes durante o período letivo da instituição de ensino (cartão Estudante com foto, nome e CPF, para maiores de 6 anos), no programa Toledo + Mobilidade",
+   "desde": null,
+   "base_legal": "Lei nº 2.601/2023 (citada pela Sorriso de Toledo)",
+   "fonte_url": "https://sorrisodetoledo.com.br/cartao-transporte/",
+   "confianca": "B",
+   "verificado_em": "2026-10-19"
+  },
+  {
+   "uf": "PR",
+   "municipio": "Toledo",
+   "cod_ibge": "4127700",
+   "tipo": "tarifa_zero_temporal",
+   "regra": "Transporte coletivo urbano e distrital gratuito das 6h às 18h no 1º turno das eleições (04/10/2026), para o deslocamento dos eleitores; vale também no 2º turno (25/10/2026), se houver",
+   "desde": "2026-10-04",
+   "base_legal": "Ordem de Serviço nº 019/2026 da Secretaria de Segurança e Trânsito",
+   "fonte_url": "https://www.toledo.pr.gov.br/noticias/seguranca-e-transito/transporte-coletivo-sera-gratuito-em-toledo-no-domingo-de-eleicoes",
+   "confianca": "A",
+   "verificado_em": "2026-10-19"
+  },
+  {
+   "uf": "PR",
+   "municipio": "Umuarama",
+   "cod_ibge": "4128104",
+   "tipo": "estudante",
+   "regra": "Tarifa de estudante de R$ 2,00 (50% da comum) no cartão",
+   "desde": null,
+   "base_legal": null,
+   "fonte_url": "https://www.viacaoumuarama.com.br/urb/horarios",
+   "confianca": "B",
+   "verificado_em": "2026-10-19"
+  },
+  {
+   "uf": "PR",
+   "municipio": "Umuarama",
+   "cod_ibge": "4128104",
+   "tipo": "tarifa_zero_temporal",
+   "regra": "Transporte coletivo urbano gratuito para todos os passageiros, em todas as linhas e horários, no 1º turno das eleições (04/10/2026), sem exigir documento; vale também no 2º turno, se houver",
+   "desde": "2026-10-04",
+   "base_legal": "Decreto nº 261/2026, com base na Resolução TSE nº 23.751/2026, citada pela Prefeitura",
+   "fonte_url": "https://umuarama.pr.gov.br/noticias/administracao/transporte-coletivo-ser-gratuito-em-umuarama-no-dia-da-votao",
+   "confianca": "A",
+   "verificado_em": "2026-10-19"
   },
   {
    "uf": "RJ",
@@ -2006,25 +2198,13 @@
    "uf": "RN",
    "municipio": "Mossoró",
    "cod_ibge": "2408003",
-   "tipo": "estudante",
-   "regra": "Meia passagem de R$ 1,65",
-   "desde": "2018-01-01",
-   "base_legal": "Decreto nº 5.165/2017",
-   "fonte_url": "https://defato.com/mossoro/72236/passagem-de-nibus-custar-r-330-a-partir-do-dia-1-de-janeiro",
-   "confianca": "A",
-   "verificado_em": "2026-10-17"
-  },
-  {
-   "uf": "RN",
-   "municipio": "Mossoró",
-   "cod_ibge": "2408003",
    "tipo": "tarifa_zero_temporal",
-   "regra": "Transporte coletivo sem cobrança no 2º turno das Eleições 2026 (25/10/2026), em sete linhas",
-   "desde": "2026-10-25",
-   "base_legal": "regras da Justiça Eleitoral (norma não citada)",
+   "regra": "Transporte coletivo gratuito no 1º turno (04/10/2026) e no 2º turno (25/10/2026) das eleições de 2026, com sete linhas em operação especial no 2º turno",
+   "desde": "2026-10-04",
+   "base_legal": "não citada",
    "fonte_url": "https://prefeiturademossoro.com.br/noticias/prefeitura-de-mossoro-garante-transporte-publico-gratuito-para-o-segundo-turno-das-eleicoes-2026/18066",
    "confianca": "B",
-   "verificado_em": "2026-10-17"
+   "verificado_em": "2026-10-19"
   },
   {
    "uf": "RN",
@@ -2229,6 +2409,18 @@
    "fonte_url": "https://www.santacruz.rs.gov.br/conteudo/transporte-coletivo",
    "confianca": "A",
    "verificado_em": "2026-10-18"
+  },
+  {
+   "uf": "RS",
+   "municipio": "São Leopoldo",
+   "cod_ibge": "4318705",
+   "tipo": "estudante",
+   "regra": "Benefício escolar com 50% de desconto no valor da passagem (cartão Escolar do COLEO)",
+   "desde": null,
+   "base_legal": null,
+   "fonte_url": "https://coleobus.com.br/",
+   "confianca": "B",
+   "verificado_em": "2026-10-19"
   },
   {
    "uf": "SC",
@@ -3015,24 +3207,24 @@
    "municipio": "Itu",
    "cod_ibge": "3523909",
    "tipo": "estudante",
-   "regra": "Passe escolar com 50% de desconto sobre a tarifa (cartão MoV Escolar, para alunos do ensino fundamental, médio e EMEF)",
+   "regra": "Passe Escolar (cartão MoV Escolar) com 50% de desconto na tarifa vigente, para alunos das redes de ensino fundamental, médio, EMEF e superior que moram em Itu; cadastro do ano letivo de 2026 aberto em 05/01/2026",
    "desde": "2021-12-27",
-   "base_legal": "Decreto nº 3.798/2021, art. 1º, parágrafo único",
-   "fonte_url": "https://www.dosp.com.br/exibe_do.php?i=MjEzNTk1",
-   "confianca": "A",
-   "verificado_em": "2026-10-18"
+   "base_legal": "Decreto nº 3.798/2021, art. 1º, parágrafo único (rodada 5)",
+   "fonte_url": "https://movitu.com.br/cadastro-escolar/",
+   "confianca": "B",
+   "verificado_em": "2026-10-19"
   },
   {
    "uf": "SP",
    "municipio": "Itu",
    "cod_ibge": "3523909",
    "tipo": "idoso",
-   "regra": "O decreto da tarifa manda observar as gratuidades legais de pessoas com deficiência, gestantes e idosos; a MoV emite os cartões Sênior (60 a 64 anos) e Idoso (65 anos ou mais), sem informar desconto, MoV Gestante (isenção durante a gestação, com cadastro no Fundo Social) e MoV Especial (isenção para pessoas com deficiência que comprometa a capacidade de trabalho, com validade de 12 meses)",
+   "regra": "Cartões MoV Sênior (60 a 64 anos) e MoV Idoso (65 anos ou mais); a página não informa o desconto do Sênior",
    "desde": null,
-   "base_legal": "Decreto nº 3.798/2021, art. 2º",
+   "base_legal": null,
    "fonte_url": "https://movitu.com.br/cartoes-mov/",
    "confianca": "B",
-   "verificado_em": "2026-10-18"
+   "verificado_em": "2026-10-19"
   },
   {
    "uf": "SP",

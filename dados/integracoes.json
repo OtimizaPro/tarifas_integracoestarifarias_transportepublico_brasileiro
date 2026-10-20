@@ -1,6 +1,6 @@
 {
  "nome": "Base Nacional de Tarifas e Integrações de Operadoras do Transporte Público e Vale-Transporte: integracoes",
- "versao": "2026.10.19.7",
+ "versao": "2026.10.19.8",
  "licenca": {
   "nome": "CC BY-NC 4.0",
   "url": "https://creativecommons.org/licenses/by-nc/4.0/deed.pt-br",
@@ -8,7 +8,7 @@
   "uso_interno": "A consulta para decisões da própria empresa, como orçar o vale-transporte, não pede licença.",
   "uso_comercial": "Uso comercial por empresas (em produto, revenda ou integração em sistema ou serviço pago) pede licença da Otimiza.pro: empresa@otimiza.pro."
  },
- "citar_como": "Fonte: Otimiza.pro, Base Nacional de Tarifas e Integrações de Operadoras do Transporte Público e Vale-Transporte, versão 2026.10.19.7. DOI: https://doi.org/10.5281/zenodo.23486211. https://github.com/OtimizaPro/tarifas_integracoestarifarias_transportepublico_brasileiro",
+ "citar_como": "Fonte: Otimiza.pro, Base Nacional de Tarifas e Integrações de Operadoras do Transporte Público e Vale-Transporte, versão 2026.10.19.8. DOI: https://doi.org/10.5281/zenodo.23486211. https://github.com/OtimizaPro/tarifas_integracoestarifarias_transportepublico_brasileiro",
  "linhas": [
   {
    "uf": "AC",
@@ -122,13 +122,13 @@
    "uf": "CE",
    "municipio": "Crato",
    "cod_ibge": "2304202",
-   "regra": "Bilhete Único Metropolitano do Cariri: paga o primeiro ônibus e tem até 2 horas para embarcar no segundo sem pagar, entre linhas metropolitanas e linhas urbanas de Juazeiro do Norte. Os valores de tarifa citados nessa página oficial estão desatualizados.",
+   "regra": "Bilhete Único Metropolitano do Cariri: paga o primeiro ônibus e tem até 2 horas para embarcar no segundo sem pagar, entre as linhas metropolitanas (Juazeiro do Norte, Crato, Barbalha e Missão Velha) e as linhas urbanas de Juazeiro do Norte. A página oficial não tem data e cita tarifas antigas.",
    "janela_min": 120,
    "embarques": "2 (o segundo gratuito)",
-   "quem_tem_direito": "portadores do cartão Bilhete Único (Avulso, VT ou Estudantil)",
+   "quem_tem_direito": "portadores do Bilhete Único Metropolitano Cariri (Avulso, VT ou Estudantil)",
    "fonte_url": "https://www.bilheteunicometropolitano.ce.gov.br/rmc.html",
    "confianca": "B",
-   "verificado_em": "2026-10-17"
+   "verificado_em": "2026-10-19"
   },
   {
    "uf": "CE",
@@ -194,13 +194,13 @@
    "uf": "ES",
    "municipio": "Linhares",
    "cod_ibge": "3203205",
-   "regra": "Integração temporal: segundo ônibus em até 45 minutos após o primeiro pagamento, com 15 minutos de tolerância (60 minutos no total), pagando uma só tarifa; não vale retorno pela mesma linha de origem",
+   "regra": "Integração temporal com a bilhetagem eletrônica: dois ônibus pagando uma só passagem, com a troca em até 45 minutos mais 15 minutos de tolerância; só nas linhas da sede; não vale voltar pela mesma linha de origem.",
    "janela_min": 60,
    "embarques": "2",
-   "quem_tem_direito": "Usuários do cartão ValeFácil nas modalidades Popular, Vale Transporte e Escolar",
-   "fonte_url": "https://www.euviemlinhares.net/noticia/34065/em-1-mes-uso-de-2-onibus-com-1-passagem-chega-a-quase-18-mil-integracoes-em-linhares",
+   "quem_tem_direito": "usuários dos cartões da bilhetagem eletrônica da Via Norte",
+   "fonte_url": "https://vianortecapixaba.com.br/integracao",
    "confianca": "B",
-   "verificado_em": "2026-10-17"
+   "verificado_em": "2026-10-19"
   },
   {
    "uf": "ES",
@@ -235,18 +235,6 @@
    "embarques": null,
    "quem_tem_direito": "usuários cadastrados",
    "fonte_url": "https://www.luziania.go.gov.br/tarifa-zero/",
-   "confianca": "B",
-   "verificado_em": "2026-10-17"
-  },
-  {
-   "uf": "MA",
-   "municipio": "São José de Ribamar",
-   "cod_ibge": "2111201",
-   "regra": "Bilhete Único de São Luís: troca de ônibus no mesmo sentido em até 2 horas pagando uma passagem; em sentido diferente, embarque em até 1 hora após validar o cartão. Não vale para as linhas intermunicipais de Ribamar.",
-   "janela_min": 120,
-   "embarques": null,
-   "quem_tem_direito": "usuários do cartão de transporte ou da carteira de estudante nas linhas integradas de São Luís",
-   "fonte_url": "https://www.saoluis.ma.gov.br/bilhete-unico",
    "confianca": "B",
    "verificado_em": "2026-10-17"
   },
@@ -396,6 +384,18 @@
   },
   {
    "uf": "PA",
+   "municipio": "Ananindeua",
+   "cod_ibge": "1500800",
+   "regra": "No BRT Metropolitano, tarifa única com integração entre linhas troncais e alimentadoras e deslocamento entre os municípios do sistema (Agência Pará e Diário do Pará, 19/01/2026). O Pra Já não integra com o Passe Fácil. O bilhete único de 60 minutos nas linhas municipais, previsto no edital de 2023, não foi confirmado.",
+   "janela_min": null,
+   "embarques": null,
+   "quem_tem_direito": "usuários do cartão Pra Já ou do QR Code no BRT",
+   "fonte_url": "https://diariodopara.com.br/para/saiba-como-tirar-o-cartao-e-usar-o-brt-metropolitano/",
+   "confianca": "B",
+   "verificado_em": "2026-10-19"
+  },
+  {
+   "uf": "PA",
    "municipio": "Belém",
    "cod_ibge": "1501402",
    "regra": "uma tarifa, com troca dentro do terminal ou estação BRT (Mangueirão, São Brás e Icoaraci)",
@@ -506,13 +506,13 @@
    "uf": "PR",
    "municipio": "Araucária",
    "cod_ibge": "4101804",
-   "regra": "Com o cartão TRIAR, integração ponto a ponto: até 2 trocas de linha, sem repetir linha, em até 1 hora, sem pagar nova tarifa; integração gratuita com as linhas metropolitanas nos dois terminais do município (Central e Vila Angélica). Dados da Banda B de 09/11/2023, não reconferidos em fonte oficial.",
-   "janela_min": 60,
-   "embarques": "3",
-   "quem_tem_direito": "usuários do cartão TRIAR",
-   "fonte_url": "https://www.bandab.com.br/regiao-metropolitana-de-curitiba/araucaria-diminui-tarifa-do-onibus/amp/",
+   "regra": "Integração gratuita entre as linhas municipais do TRIAR e as linhas metropolitanas nos dois terminais do município, mantida em 2026 (O Popular, 30/04/2026). Em 2023 a Banda B descrevia também a troca de linha fora dos terminais com o cartão TRIAR, em até 2 trocas no prazo de 1 hora, sem repetir linha (não reconferido em 2026).",
+   "janela_min": null,
+   "embarques": null,
+   "quem_tem_direito": "usuários do TRIAR (com o cartão TRIAR, segundo a Banda B de 2023)",
+   "fonte_url": "https://opopularpr.com.br/araucarienses-terao-tres-dias-de-transporte-gratuito-por-conta-da-festa-do-trabalhador/",
    "confianca": "B",
-   "verificado_em": "2026-10-18"
+   "verificado_em": "2026-10-19"
   },
   {
    "uf": "PR",
@@ -679,18 +679,6 @@
    "embarques": "2",
    "quem_tem_direito": "Somente usuários cadastrados no VR Card",
    "fonte_url": "https://www.voltaredonda.rj.gov.br/comunicacao/noticias/41-stmu/10149-transporte-p%C3%BAblico-de-volta-redonda-renova-a-frota-e-morador-com-vr-card-paga-mais-barato-e-viaja-mais/",
-   "confianca": "B",
-   "verificado_em": "2026-10-17"
-  },
-  {
-   "uf": "RN",
-   "municipio": "Mossoró",
-   "cod_ibge": "2408003",
-   "regra": "Dois ônibus de linhas complementares com uma única tarifa, em intervalo de uma hora e meia (reportagem de 10/10/2019)",
-   "janela_min": 90,
-   "embarques": "2",
-   "quem_tem_direito": "usuários do cartão Passe Fácil",
-   "fonte_url": "https://omossoroense.com.br/autoatendimento-torna-onibus-em-mossoro-mais-pratico-e-seguro/",
    "confianca": "B",
    "verificado_em": "2026-10-17"
   },

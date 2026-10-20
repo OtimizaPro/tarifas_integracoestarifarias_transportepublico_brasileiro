@@ -1,6 +1,6 @@
 {
  "nome": "Base Nacional de Tarifas e Integrações de Operadoras do Transporte Público e Vale-Transporte: sistemas_municipios",
- "versao": "2026.10.19.7",
+ "versao": "2026.10.19.8",
  "licenca": {
   "nome": "CC BY-NC 4.0",
   "url": "https://creativecommons.org/licenses/by-nc/4.0/deed.pt-br",
@@ -8,7 +8,7 @@
   "uso_interno": "A consulta para decisões da própria empresa, como orçar o vale-transporte, não pede licença.",
   "uso_comercial": "Uso comercial por empresas (em produto, revenda ou integração em sistema ou serviço pago) pede licença da Otimiza.pro: empresa@otimiza.pro."
  },
- "citar_como": "Fonte: Otimiza.pro, Base Nacional de Tarifas e Integrações de Operadoras do Transporte Público e Vale-Transporte, versão 2026.10.19.7. DOI: https://doi.org/10.5281/zenodo.23486211. https://github.com/OtimizaPro/tarifas_integracoestarifarias_transportepublico_brasileiro",
+ "citar_como": "Fonte: Otimiza.pro, Base Nacional de Tarifas e Integrações de Operadoras do Transporte Público e Vale-Transporte, versão 2026.10.19.8. DOI: https://doi.org/10.5281/zenodo.23486211. https://github.com/OtimizaPro/tarifas_integracoestarifarias_transportepublico_brasileiro",
  "linhas": [
   {
    "sistema": "RBTrans (COM Card)",
@@ -17,6 +17,14 @@
    "uf": "AC",
    "municipio_atendido": "Rio Branco",
    "cod_ibge": "1200401"
+  },
+  {
+   "sistema": "Transporte coletivo urbano por vans (sindicato dos transportes), sob a SEMTRANS municipal; a Lei municipal nº 1.069, de 23/04/2026, reorganiza o serviço e prevê concessão precedida de licitação",
+   "abrangencia": "municipal",
+   "municipio_sede": "Cruzeiro do Sul",
+   "uf": "AC",
+   "municipio_atendido": "Cruzeiro do Sul",
+   "cod_ibge": "1200203"
   },
   {
    "sistema": "Transporte coletivo urbano por vans (sindicato dos transportes); órgão gestor municipal não identificado",
@@ -145,6 +153,22 @@
    "uf": "BA",
    "municipio_atendido": "Ilhéus",
    "cod_ibge": "2913606"
+  },
+  {
+   "sistema": "Prefeitura de Ilhéus (SUTRAN, Superintendência de Transporte e Trânsito); ônibus urbanos das empresas associadas à Atranspi (Associação das Empresas de Transporte de Ilhéus), entre elas a Viametro; bilhetagem eletrônica nova desde 2025, com cartões emitidos pela Atranspi",
+   "abrangencia": "municipal",
+   "municipio_sede": "Ilhéus",
+   "uf": "BA",
+   "municipio_atendido": "Ilhéus",
+   "cod_ibge": "2913606"
+  },
+  {
+   "sistema": "Prefeitura de Itabuna (Secretaria de Transportes e Trânsito); ônibus urbanos da Atlântico Transportes (segundo a rodada 3 e a pesquisa das operadoras); bilhetagem e VT pelo Siticard",
+   "abrangencia": "municipal",
+   "municipio_sede": "Itabuna",
+   "uf": "BA",
+   "municipio_atendido": "Itabuna",
+   "cod_ibge": "2914802"
   },
   {
    "sistema": "Prefeitura de Itabuna (Settran); ônibus urbano da Atlântico Transportes (contrato de 2023); bilhetagem eletrônica",
@@ -283,6 +307,14 @@
    "cod_ibge": "2304202"
   },
   {
+   "sistema": "Sem ônibus urbano municipal com tarifa publicada (a Lei municipal 4.241/2024 autoriza o transporte urbano por cooperativa de transporte alternativo, sem tarifa localizada); atendido pelas linhas intermunicipais Juazeiro do Norte x Crato da Viametro Cariri, reguladas pela Arce, com o vale-transporte eletrônico VTE Cariri e o Bilhete Único Metropolitano do Cariri (Governo do Ceará)",
+   "abrangencia": "municipal",
+   "municipio_sede": "Crato",
+   "uf": "CE",
+   "municipio_atendido": "Crato",
+   "cod_ibge": "2304202"
+  },
+  {
    "sistema": "Metrô-DF",
    "abrangencia": "municipal",
    "municipio_sede": "Brasília",
@@ -324,6 +356,14 @@
   },
   {
    "sistema": "Prefeitura de Linhares (Conselho Tarifário); concessionárias Via Norte (sede) e Unimar (interior); cartão ValeFácil (modalidades Popular, Vale Transporte e Escolar). Não é atendida pelo Transcol",
+   "abrangencia": "municipal",
+   "municipio_sede": "Linhares",
+   "uf": "ES",
+   "municipio_atendido": "Linhares",
+   "cod_ibge": "3203205"
+  },
+  {
+   "sistema": "Prefeitura de Linhares; concessionárias Via Norte Ltda. (linhas da sede) e Unimar Ltda. (linhas do interior); bilhetagem eletrônica da Via Norte (cartões Popular, Vale Transporte, Escolar e Gratuidade). Não é atendida pelo Transcol",
    "abrangencia": "municipal",
    "municipio_sede": "Linhares",
    "uf": "ES",
@@ -491,7 +531,23 @@
    "cod_ibge": "2111201"
   },
   {
+   "sistema": "Sem sistema municipal próprio localizado; atendido pelo transporte semiurbano da Grande Ilha (ônibus intermunicipais regulados pela MOB, Governo do Maranhão) e pelo transporte alternativo intermunicipal (vans e micro-ônibus do SPTA, também regulados pela MOB). O Bilhete Único de São Luís não inclui as linhas de Ribamar.",
+   "abrangencia": "municipal",
+   "municipio_sede": "São José de Ribamar",
+   "uf": "MA",
+   "municipio_atendido": "São José de Ribamar",
+   "cod_ibge": "2111201"
+  },
+  {
    "sistema": "Transporte coletivo de Imperatriz operado pela Rio Anil Transporte e Logística (RATRANS), regulado pela Agência Estadual de Mobilidade Urbana (MOB/MA), com complementação tarifária do Governo do Maranhão; Cartão Urbano Imperatriz",
+   "abrangencia": "municipal",
+   "municipio_sede": "Imperatriz",
+   "uf": "MA",
+   "municipio_atendido": "Imperatriz",
+   "cod_ibge": "2105302"
+  },
+  {
+   "sistema": "Transporte coletivo urbano de Imperatriz concedido à Rio Anil Transporte e Logística (Ratrans) pela Concorrência Pública nº 001/2020 (contrato de set/2021, vigente até set/2041), com complementação tarifária do Governo do Maranhão; o Expresso Metropolitano da Zanchettur atende João Lisboa e Senador La Rocque",
    "abrangencia": "municipal",
    "municipio_sede": "Imperatriz",
    "uf": "MA",
@@ -763,6 +819,14 @@
    "cod_ibge": "5008305"
   },
   {
+   "sistema": "Prefeitura de Três Lagoas (Secretaria Municipal de Infraestrutura, Transporte e Trânsito, SEINTRA, e Deptran); concessionária Viação Cidade Três Lagoas (VC3), em operação desde 05/05/2025 no lugar da Rabôni (a rodada 3 registrou o nome Viação Cidade Corumbá); subsídio municipal pela Lei nº 4.075/2023; desde 15/01/2026 o ônibus aceita cartão de crédito e débito por aproximação",
+   "abrangencia": "municipal",
+   "municipio_sede": "Três Lagoas",
+   "uf": "MS",
+   "municipio_atendido": "Três Lagoas",
+   "cod_ibge": "5008305"
+  },
+  {
    "sistema": "Secretaria Municipal de Infraestrutura, Transporte e Trânsito (SEINTRA) e Deptran; concessionária Viação Cidade Corumbá (concessão de 15 anos, resultado em 05/11/2024, operação desde a segunda quinzena de janeiro de 2025; antes, Rabôni Transportes)",
    "abrangencia": "municipal",
    "municipio_sede": "Três Lagoas",
@@ -780,6 +844,14 @@
   },
   {
    "sistema": "Prefeitura de Lucas do Rio Verde; concessionária Translocave (concessão de 12 anos desde 01/01/2025); bilhete eletrônico",
+   "abrangencia": "municipal",
+   "municipio_sede": "Lucas do Rio Verde",
+   "uf": "MT",
+   "municipio_atendido": "Lucas do Rio Verde",
+   "cod_ibge": "5105259"
+  },
+  {
+   "sistema": "Prefeitura de Lucas do Rio Verde; concessionária Translocave (desde 01/01/2025); bilhete eletrônico (Sistema de Bilhetagem Eletrônica) com WebCommerce TDMax para empresas",
    "abrangencia": "municipal",
    "municipio_sede": "Lucas do Rio Verde",
    "uf": "MT",
@@ -849,6 +921,14 @@
    "uf": "PA",
    "municipio_atendido": "Marabá",
    "cod_ibge": "1504208"
+  },
+  {
+   "sistema": "SEMUTRAN (Prefeitura de Ananindeua) nas linhas municipais; ônibus das empresas do Setransbel com o cartão Passe Fácil (posto em Ananindeua em parceria com a Semutran); BRT Metropolitano estadual (Sistema Integrado de Transporte, regulado pela Arcon, concessionária BRT Amazônia, bilhetagem Autopass) com o cartão Pra Já",
+   "abrangencia": "municipal",
+   "municipio_sede": "Ananindeua",
+   "uf": "PA",
+   "municipio_atendido": "Ananindeua",
+   "cod_ibge": "1500800"
   },
   {
    "sistema": "Secretaria Municipal de Mobilidade e Trânsito (SMT) de Santarém; ônibus urbano municipal (cartão não identificado)",
@@ -932,6 +1012,14 @@
   },
   {
    "sistema": "AMMPLA (Autarquia Municipal de Mobilidade de Petrolina); ônibus urbano da Atlântico Transportes em regime transitório após acordo judicial homologado em 30/05/2025; cartão SIM (Sistema Integrado de Mobilidade)",
+   "abrangencia": "municipal",
+   "municipio_sede": "Petrolina",
+   "uf": "PE",
+   "municipio_atendido": "Petrolina",
+   "cod_ibge": "2611101"
+  },
+  {
+   "sistema": "AMMPLA (Autarquia Municipal de Mobilidade de Petrolina); ônibus urbano da Atlântico Transportes em regime transitório após acordo judicial homologado em 30/05/2025; nova concessão com bilhetagem em licitação (Concorrência Eletrônica nº 25/2026, publicada em 02/09/2026 e suspensa em out/2026); cartão SIM (Sistema Integrado de Mobilidade)",
    "abrangencia": "municipal",
    "municipio_sede": "Petrolina",
    "uf": "PE",
@@ -1099,6 +1187,14 @@
    "cod_ibge": "4101804"
   },
   {
+   "sistema": "Prefeitura de Araucária; sistema municipal TRIAR (Transporte Integrado de Araucária), cartão TRIAR; linhas metropolitanas da AMEP integradas à RIT de Curitiba (cartão Metrocard), que seguem como estão na base",
+   "abrangencia": "municipal",
+   "municipio_sede": "Araucária",
+   "uf": "PR",
+   "municipio_atendido": "Araucária",
+   "cod_ibge": "4101804"
+  },
+  {
    "sistema": "Prefeitura de Araucária; sistema municipal TRIAR (cartão TRIAR), separado do metropolitano da RMC",
    "abrangencia": "municipal",
    "municipio_sede": "Araucária",
@@ -1185,6 +1281,22 @@
    "uf": "PR",
    "municipio_atendido": "Toledo",
    "cod_ibge": "4127700"
+  },
+  {
+   "sistema": "Prefeitura de Toledo (Secretaria de Segurança e Trânsito); concessionária Viação Sorriso (Sorriso de Toledo), contrato de concessão de abril de 2024; bilhetagem eletrônica nova desde março de 2025, com loja de atendimento Passe Bem; a mesma empresa opera linhas metropolitanas, com cadastro e venda separados",
+   "abrangencia": "municipal",
+   "municipio_sede": "Toledo",
+   "uf": "PR",
+   "municipio_atendido": "Toledo",
+   "cod_ibge": "4127700"
+  },
+  {
+   "sistema": "Prefeitura de Umuarama (Secretaria Municipal de Segurança, Trânsito e Mobilidade Urbana, Sestram); concessionária Viação Umuarama Ltda. (desde 1967); cartão Transcard. Nova concessão em preparação: audiência pública em 20/08/2026 (chamada pelo Edital nº 092/2026), com 28 ônibus novos comprados pelo município com recursos do Estado e operação a contratar pelo menor preço por quilômetro",
+   "abrangencia": "municipal",
+   "municipio_sede": "Umuarama",
+   "uf": "PR",
+   "municipio_atendido": "Umuarama",
+   "cod_ibge": "4128104"
   },
   {
    "sistema": "Prefeitura de Umuarama (gestão em transição para modelo indireto); operação Viação Umuarama em contrato emergencial; frota municipal em aquisição",
@@ -1403,6 +1515,14 @@
    "cod_ibge": "3303500"
   },
   {
+   "sistema": "Prefeitura de Resende (Superintendência de Transporte e Trânsito); concessionária Viação Itapetinga, do Grupo CSC, com o nome fantasia Princesinha do Vale, em operação desde 24/05/2023 no lugar da Viação São Miguel; cartão magnético da concessionária (o mesmo da São Miguel)",
+   "abrangencia": "municipal",
+   "municipio_sede": "Resende",
+   "uf": "RJ",
+   "municipio_atendido": "Resende",
+   "cod_ibge": "3304201"
+  },
+  {
    "sistema": "Prefeitura de Resende (Superintendência de Transporte e Trânsito); concessionária Viação Princesinha do Vale (empresa Itapetinga), em operação desde 24/05/2023; cartão magnético da concessionária",
    "abrangencia": "municipal",
    "municipio_sede": "Resende",
@@ -1507,7 +1627,23 @@
    "cod_ibge": "2408003"
   },
   {
+   "sistema": "Prefeitura de Mossoró (Sesdem, Gerência Executiva de Operações de Transporte Público); concessionária Cidade do Sol, única empresa do transporte coletivo municipal (concessão licitada em 2016 por 10 anos)",
+   "abrangencia": "municipal",
+   "municipio_sede": "Mossoró",
+   "uf": "RN",
+   "municipio_atendido": "Mossoró",
+   "cod_ibge": "2408003"
+  },
+  {
    "sistema": "Prefeitura de Parnamirim (Secretaria Municipal de Segurança e Mobilidade Urbana); sistema municipal Interbairros, com vans e micro-ônibus de permissionários",
+   "abrangencia": "municipal",
+   "municipio_sede": "Parnamirim",
+   "uf": "RN",
+   "municipio_atendido": "Parnamirim",
+   "cod_ibge": "2403251"
+  },
+  {
+   "sistema": "Prefeitura de Parnamirim; sistema municipal Interbairros, operado por permissionários (COOPTRAFT/RN, segundo o RN Card), sem concessão licitada; linhas intermunicipais da Região Metropolitana de Natal reguladas pelo DER-RN; vale-transporte pelo RN Card",
    "abrangencia": "municipal",
    "municipio_sede": "Parnamirim",
    "uf": "RN",
@@ -1713,6 +1849,14 @@
    "uf": "RS",
    "municipio_atendido": "Santa Maria",
    "cod_ibge": "4316907"
+  },
+  {
+   "sistema": "Prefeitura de São Leopoldo; COLEO, Consórcio Operacional São Leopoldo (Viação Feitoria, Viação Leopoldense, Viação Sinoscap e Sete de Setembro), com a bilhetagem do COLEO (marca BEM SL); ônibus metropolitanos da Região Metropolitana de Porto Alegre com o cartão TEU!",
+   "abrangencia": "municipal",
+   "municipio_sede": "São Leopoldo",
+   "uf": "RS",
+   "municipio_atendido": "São Leopoldo",
+   "cod_ibge": "4318705"
   },
   {
    "sistema": "Prefeitura de São Leopoldo; Consórcio Operacional São Leopoldo (COLÉO: Feitoria, Sete de Setembro, Sinoscap e Viação Leopoldense)",
@@ -1961,6 +2105,14 @@
    "uf": "SP",
    "municipio_atendido": "Barretos",
    "cod_ibge": "3505500"
+  },
+  {
+   "sistema": "Prefeitura da Estância Turística de Itu (Secretaria Municipal de Segurança Pública, Trânsito e Mobilidade Urbana); concessionária West Side Viagens e Turismo Ltda., marca MoV Itu (Grupo Belarmino), Contrato nº 152/2021; cartões MoV. Linhas metropolitanas da Região Metropolitana de Sorocaba, geridas pela EMTU, também atendem Itu (em 2019 eram da Rápido Luxo Campinas, segundo a Gazeta de S.Paulo de 27/07/2019); o produto de VT dessas linhas não foi identificado: o portal VT Metropolitano Sorocaba da Rápido Campinas e as páginas da empresa abertas em 19/10/2026 não citam Itu.",
+   "abrangencia": "municipal",
+   "municipio_sede": "Itu",
+   "uf": "SP",
+   "municipio_atendido": "Itu",
+   "cod_ibge": "3523909"
   },
   {
    "sistema": "Prefeitura da Estância Turística de Salto; concessionária SOU Salto (Contrato de Concessão nº 363/2018; em 2019 a Prefeitura citava a operadora Auto-Ônibus Nardelli); cartões SOU",

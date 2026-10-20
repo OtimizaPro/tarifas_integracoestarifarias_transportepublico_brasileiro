@@ -1,8 +1,8 @@
 # Tarifas do transporte público por cidade (Otimiza.pro)
 
-Quanto custa o transporte público em 232 municípios brasileiros, segundo a Base Nacional de Tarifas e Integrações de VT da Otimiza.pro (versão 2026.10.19.7). Cada frase traz o valor, a fonte e a data em que a Otimiza.pro conferiu e, quando a fonte informa, o ato oficial e a data em que passou a valer. A fonte oficial de cada valor está indicada. Onde há dados de serviço e oferta, a ficha traz também linhas e passageiros, com a fonte e a data.
+Quanto custa o transporte público em 239 municípios brasileiros, segundo a Base Nacional de Tarifas e Integrações de VT da Otimiza.pro (versão 2026.10.19.8). Cada frase traz o valor, a fonte e a data em que a Otimiza.pro conferiu e, quando a fonte informa, o ato oficial e a data em que passou a valer. A fonte oficial de cada valor está indicada. Onde há dados de serviço e oferta, a ficha traz também linhas e passageiros, com a fonte e a data.
 
-Como citar: Fonte: Otimiza.pro, Base Nacional de Tarifas e Integrações de Operadoras do Transporte Público e Vale-Transporte, versão 2026.10.19.7. DOI: https://doi.org/10.5281/zenodo.23486211. https://github.com/OtimizaPro/tarifas_integracoestarifarias_transportepublico_brasileiro
+Como citar: Fonte: Otimiza.pro, Base Nacional de Tarifas e Integrações de Operadoras do Transporte Público e Vale-Transporte, versão 2026.10.19.8. DOI: https://doi.org/10.5281/zenodo.23486211. https://github.com/OtimizaPro/tarifas_integracoestarifarias_transportepublico_brasileiro
 
 ## AC
 
@@ -94,6 +94,32 @@ Vale-transporte em Feira de Santana: cartão Via Feira Vale Transporte Eletrôni
 
 Integração em Feira de Santana: Integração temporal com cartão Via Feira recarregável: segunda viagem sem custo dentro de 2 horas contadas da validação no ônibus. A segunda linha não pode ir ao destino da primeira, nem voltar à origem ou ao mesmo bairro/região; ida e volta na mesma linha não integram.
 
+### Ilhéus (BA)
+
+Em Ilhéus (BA), a passagem de ônibus custa R$ 4,80 desde 07/05/2023, segundo a imprensa (Ilhéus 24H, 03/10/2026); valor conferido em 19/10/2026 pela Base Nacional de Tarifas e Integrações de VT da Otimiza.pro.
+
+Fonte (imprensa): https://ilheus24h.com.br/decisao-judicial-garante-onibus-gratuitos-no-dia-da-eleicao-em-ilheus/
+
+Vale-transporte em Ilhéus: a empresa compra em 2 sistemas, Vale-transporte da bilhetagem eletrônica de Ilhéus (Atranspi) e Rotacard (linhas semiurbanas da Rota Transportes entre Itabuna, Ilhéus e cidades vizinhas).
+
+Vale-transporte da bilhetagem eletrônica de Ilhéus (Atranspi): cobre ônibus urbanos de Ilhéus; cartão da nova bilhetagem eletrônica na modalidade vale-transporte (nome do cartão não confirmado); emitido por Atranspi (Associação das Empresas de Transporte de Ilhéus); canal de compra da empresa: o site da Atranspi não respondeu em 19/10/2026; em fev/2025 a Atranspi convocou os beneficiários do vale-transporte para trocar o cartão pela nova bilhetagem.
+
+Rotacard (linhas semiurbanas da Rota Transportes entre Itabuna, Ilhéus e cidades vizinhas): cobre ônibus semiurbanos intermunicipais da Rota Transportes, regulados pela Agerba; cartão Rotacard; emitido por Rota Transportes Rodoviários Ltda., com sede em Itabuna; canal de compra da empresa: portal de recarga para empresas da Bilhetagem Digital (rota.bilhetagemdigital.com.br/empresas), no item Recarga empresas do site da Rota ('Recarregue aqui os cartões da sua equipe'); taxa na compra: não citada no site da Rota.
+
+Tarifa zero em Ilhéus: Ônibus gratuitos no dia da eleição de 04/10/2026, por decisão liminar da Justiça Eleitoral, depois que a SUTRAN anunciou cobrança normal
+
+### Itabuna (BA)
+
+Em Itabuna (BA), a passagem de ônibus custa de R$ 4,30 a R$ 4,50 (varia com o cartão ou o meio de pagamento) desde 29/09/2025, conforme Decreto nº 16.553/2025; valor conferido em 19/10/2026 pela Base Nacional de Tarifas e Integrações de VT da Otimiza.pro.
+
+Fonte (imprensa): https://www.otrombone.com.br/passagem-de-onibus-vai-para-r-450-em-itabuna-taxis-tambem-terao-novos-valores/
+
+Vale-transporte em Itabuna: a empresa compra em 2 sistemas, Cartão Vale Transporte do Siticard (ônibus urbanos de Itabuna) e Rotacard (linhas semiurbanas da Rota Transportes entre Itabuna, Ilhéus e cidades vizinhas).
+
+Cartão Vale Transporte do Siticard (ônibus urbanos de Itabuna): cobre ônibus urbanos de Itabuna; cartão Vale Transporte do Siticard; emitido por Siticard, bilhetagem do transporte urbano de Itabuna (Atlântico Transportes); canal de compra da empresa: o RH da empresa informa CNPJ, quantidade de cartões e o responsável pela recarga e faz o cadastro da empresa e dos empregados no portal TDMax Web Commerce do Siticard (max00472.itstransdata.com/TDMaxwebcommerce); taxa na compra: não citada.
+
+Rotacard (linhas semiurbanas da Rota Transportes entre Itabuna, Ilhéus e cidades vizinhas): cobre ônibus semiurbanos intermunicipais da Rota Transportes, regulados pela Agerba; cartão Rotacard; emitido por Rota Transportes Rodoviários Ltda., com sede em Itabuna; canal de compra da empresa: portal de recarga para empresas da Bilhetagem Digital (rota.bilhetagemdigital.com.br/empresas), no item Recarga empresas do site da Rota ('Recarregue aqui os cartões da sua equipe'); taxa na compra: não citada no site da Rota.
+
 ### Lauro de Freitas (BA)
 
 Em Lauro de Freitas (BA), a passagem de ônibus custa R$ 5,20 desde 27/03/2024, segundo a publicação oficial (AGERBA, Certificado de Autorização de Tráfego, CAT metropolitano da Expresso Luxo Vitória); valor conferido em 17/10/2026 pela Base Nacional de Tarifas e Integrações de VT da Otimiza.pro.
@@ -154,13 +180,13 @@ Tarifa zero em Caucaia: Gratuidade para todos no transporte coletivo rodoviário
 
 ### Crato (CE)
 
-No Crato (CE), a passagem de ônibus (intermunicipal Juazeiro do Norte x Crato) custa R$ 4,65, segundo a operadora (Viametro Cariri, tabela de tarifas; Prefeitura de Juazeiro do Norte, notícia de 21/03/2022); valor conferido em 17/10/2026 pela Base Nacional de Tarifas e Integrações de VT da Otimiza.pro.
+No Crato (CE), a passagem de ônibus (intermunicipal Juazeiro do Norte x Crato) custa R$ 4,65, segundo a operadora (Viametro Cariri, tabela de tarifas; Prefeitura de Juazeiro do Norte, notícia de 21/03/2022); valor conferido em 19/10/2026 pela Base Nacional de Tarifas e Integrações de VT da Otimiza.pro.
 
 Fonte (operadora): https://viametrocariri.com.br/index.php?page=tarifas
 
-Vale-transporte no Crato: cartão VT do Bilhete Único Metropolitano (exige Vale-transporte Metropolitano); emitido por Viametro Cariri, com subsídio do Governo do Ceará no Bilhete Único; posto de cadastro também em Crato.
+Vale-transporte no Crato: cartão Vale-transporte Metropolitano (VTE Cariri); com ele o trabalhador pode pedir o Bilhete Único Metropolitano Cariri VT; emitido por Viametro Cariri (vale-transporte eletrônico desde agosto de 2013, segundo a operadora); canal de compra da empresa: portal VTE (www.vtefortaleza.com.br): a área de pessoal da empresa cadastra quantidades e gera pedidos e boletos.
 
-Integração no Crato: Bilhete Único Metropolitano do Cariri: paga o primeiro ônibus e tem até 2 horas para embarcar no segundo sem pagar, entre linhas metropolitanas e linhas urbanas de Juazeiro do Norte. Os valores de tarifa citados nessa página oficial estão desatualizados.
+Integração no Crato: Bilhete Único Metropolitano do Cariri: paga o primeiro ônibus e tem até 2 horas para embarcar no segundo sem pagar, entre as linhas metropolitanas (Juazeiro do Norte, Crato, Barbalha e Missão Velha) e as linhas urbanas de Juazeiro do Norte. A página oficial não tem data e cita tarifas antigas.
 
 ### Eusébio (CE)
 
@@ -260,13 +286,13 @@ Tarifa zero em Colatina: Transporte público gratuito nos dias de votação: 04/
 
 ### Linhares (ES)
 
-Em Linhares (ES), a passagem de ônibus custa R$ 5,60 desde 01/04/2026, segundo a imprensa (Jornal ES Hoje, 26/03/2026; Eu vi em Linhares, 27/04/2026); valor conferido em 17/10/2026 pela Base Nacional de Tarifas e Integrações de VT da Otimiza.pro.
+Em Linhares (ES), a passagem de ônibus custa R$ 5,30 desde 04/05/2026, conforme Lei Municipal nº 4.422/2026; valor conferido em 19/10/2026 pela Base Nacional de Tarifas e Integrações de VT da Otimiza.pro.
 
-Fonte (imprensa): https://eshoje.com.br/espirito-santo/2026/03/passagem-de-onibus-sobe-em-linhares-e-custo-diario-pode-chegar-a-r-3360/
+Fonte (página oficial): https://linhares.nopapercloud.com.br/Arquivo/Documents/PLO/PLO232026/562508-202605041431491389353893YV.pdf?identificador=3100330035003600360036003A00540052004100
 
-Vale-transporte em Linhares: cartão ValeFácil, modalidade Vale Transporte; emitido por Via Norte.
+Vale-transporte em Linhares: cartão Vale Transporte; emitido por Via Norte Ltda.; canal de compra da empresa: Plataforma WebServiços (https://webservicos.vianortecapixaba.com.br), único canal de recarga do Cartão Vale Transporte: a empresa faz login, seleciona os cartões dos colaboradores e recarrega.
 
-Integração em Linhares: Integração temporal: segundo ônibus em até 45 minutos após o primeiro pagamento, com 15 minutos de tolerância (60 minutos no total), pagando uma só tarifa; não vale retorno pela mesma linha de origem
+Integração em Linhares: Integração temporal com a bilhetagem eletrônica: dois ônibus pagando uma só passagem, com a troca em até 45 minutos mais 15 minutos de tolerância; só nas linhas da sede; não vale voltar pela mesma linha de origem.
 
 ### Serra (ES)
 
@@ -724,6 +750,22 @@ Tarifa zero em Várzea Grande: Gratuidade em todas as linhas municipais nos dias
 
 ## PA
 
+### Ananindeua (PA)
+
+Ainda não há tarifa de ônibus conferida para Ananindeua (PA) na Base Nacional de Tarifas e Integrações de VT da Otimiza.pro.
+
+Fonte (página oficial): https://www.agenciapara.com.br/noticia/74026/cartao-pra-ja-e-aplicativo-digital-ampliam-acesso-ao-brt-metropolitano
+
+Vale-transporte em Ananindeua: a empresa compra em 2 sistemas, Pra Já Vale-Transporte (BRT Metropolitano da Grande Belém) e Passe Fácil Vale-Transporte (ônibus das empresas do Setransbel).
+
+Pra Já Vale-Transporte (BRT Metropolitano da Grande Belém): cobre linhas troncais e alimentadoras do BRT Metropolitano (Belém, Ananindeua, Marituba e demais municípios integrados); cartão Pra Já na modalidade vale-transporte; emitido por Autopass, responsável pela bilhetagem do BRT Metropolitano (concessionária BRT Amazônia); canal de compra da empresa: a empresa se cadastra na plataforma TClient (tclient.inter.belem.orbi.autopasscorp.com), pede os cartões dos colaboradores e compra os créditos mensalmente; o trabalhador pede o cartão pelo RH da empresa; taxa na compra: não citada nas páginas abertas.
+
+Passe Fácil Vale-Transporte (ônibus das empresas do Setransbel): cobre ônibus convencionais das empresas associadas ao Setransbel na Grande Belém; em Ananindeua o posto Passe Fácil funciona em parceria com a Semutran, mas o texto oficial não diz se o VT vale em todas as linhas municipais; cartão Passe Fácil Vale-Transporte; emitido por Setransbel (beneficiário dos boletos de VT); canal de compra da empresa: Loja do VT, no site do Passe Fácil: a empresa se cadastra, cadastra os funcionários, gera o pedido com o valor de cada um, define o local de entrega do cartão e emite o boleto.
+
+Integração em Ananindeua: No BRT Metropolitano, tarifa única com integração entre linhas troncais e alimentadoras e deslocamento entre os municípios do sistema (Agência Pará e Diário do Pará, 19/01/2026). O Pra Já não integra com o Passe Fácil. O bilhete único de 60 minutos nas linhas municipais, previsto no edital de 2023, não foi confirmado.
+
+Tarifa zero em Ananindeua: BRT Metropolitano sem cobrança aos domingos e feriados nacionais ou estaduais; não vale nos feriados municipais (Arcon)
+
 ### Belém (PA)
 
 Em Belém (PA), a passagem de ônibus custa R$ 4,60 desde 14/04/2025, segundo a publicação oficial (Agência Belém); valor conferido em 17/10/2026 pela Base Nacional de Tarifas e Integrações de VT da Otimiza.pro.
@@ -938,17 +980,19 @@ Tarifa zero em Apucarana: Transporte coletivo urbano gratuito das 6h às 19h no 
 
 ### Araucária (PR)
 
-Em Araucária (PR), a passagem de ônibus custa de R$ 5,90 a R$ 6,13 (varia com o cartão ou o meio de pagamento) desde 23/02/2026, segundo a publicação oficial (AMEP, resumo das linhas metropolitanas de 16/02/2026); valor conferido em 18/10/2026 pela Base Nacional de Tarifas e Integrações de VT da Otimiza.pro.
+Em Araucária (PR), a passagem de ônibus custa de R$ 1,00 a R$ 6,13 (varia com o cartão ou o meio de pagamento) desde 23/02/2026, segundo a publicação oficial (AMEP, resumo das linhas metropolitanas de 16/02/2026); valor conferido em 18/10/2026 pela Base Nacional de Tarifas e Integrações de VT da Otimiza.pro.
 
 Fonte (página oficial): https://www.amep.pr.gov.br/sites/comec/arquivos_restritos/files/documento/2026-02/resumo_linhas_metropolitanas_2026_16.02.26_ativas.pdf
 
 Vale-transporte em Araucária: a empresa compra em 2 sistemas, TRIAR (Transporte Integrado de Araucária) e Linhas metropolitanas da AMEP integradas à RIT (Metrocard).
 
-TRIAR (Transporte Integrado de Araucária): cobre linhas municipais do TRIAR (47 linhas em 2021); cartão TRIAR; emitido por sistema de bilhetagem do TRIAR, da Prefeitura de Araucária (a fonte não nomeia a empresa emissora); canal de compra da empresa: Em 2021 a Prefeitura de Curitiba informou que, com o fim do convênio (desde 01/06/2021 o cartão da URBS não vale nas linhas do TRIAR), a empresa deve dividir o crédito do VT entre a bilhetagem do TRIAR e a da URBS; 1ª via do cartão TRIAR gratuita com CPF, RG e comprovante de endereço no Terminal Central (seg. a sex., 8h às 17h). Notícia de 10/05/2021, lida na cópia do Internet Archive de 07/08/2025..
+TRIAR (Transporte Integrado de Araucária): cobre ônibus municipais do TRIAR; cartão TRIAR; emitido por sistema de bilhetagem do TRIAR, da Prefeitura de Araucária (a fonte não nomeia a empresa); canal de compra da empresa: Em 2021 a Prefeitura de Curitiba informou que a empresa deve dividir o crédito do vale-transporte entre a bilhetagem de Araucária (TRIAR) e a da URBS (linhas metropolitanas integradas)..
 
 Linhas metropolitanas da AMEP integradas à RIT (Metrocard): cobre ônibus metropolitanos que ligam Araucária a Curitiba (H01, H02, H11, H12), a Fazenda Rio Grande (I11) e a Campo Largo (I32); cartão Metrocard (coluna 'tarifa cartão (metrocard)' da tabela da AMEP); em 2021 a URBS indicava o cartão-transporte da URBS nas seis linhas metropolitanas integradas.
 
-Integração em Araucária: Com o cartão TRIAR, integração ponto a ponto: até 2 trocas de linha, sem repetir linha, em até 1 hora, sem pagar nova tarifa; integração gratuita com as linhas metropolitanas nos dois terminais do município (Central e Vila Angélica). Dados da Banda B de 09/11/2023, não reconferidos em fonte oficial.
+Integração em Araucária: Integração gratuita entre as linhas municipais do TRIAR e as linhas metropolitanas nos dois terminais do município, mantida em 2026 (O Popular, 30/04/2026). Em 2023 a Banda B descrevia também a troca de linha fora dos terminais com o cartão TRIAR, em até 2 trocas no prazo de 1 hora, sem repetir linha (não reconferido em 2026).
+
+Tarifa zero em Araucária: Aos domingos, gratuidade para todos os usuários com o cartão TRIAR
 
 ### Campo Largo (PR)
 
@@ -1094,6 +1138,16 @@ Fonte (operadora): https://viacaosaojose.com.br/tarifas/
 
 Integração em São José dos Pinhais: Com o cartão VEM, a alimentadora do PIT custa R$ 0,50 e a linha tronco (200 ou 150) cobra complemento de R$ 3,60 no sentido bairro/centro; no sentido centro/bairro paga R$ 4,60 na tronco e mais R$ 0,50 na alimentadora. Em 2023, integração com linhas metropolitanas no Terminal Central custava R$ 0,30 a mais.
 
+### Umuarama (PR)
+
+Em Umuarama (PR), a passagem de ônibus custa R$ 4,00, segundo a publicação oficial (Prefeitura de Umuarama, notícia de 20/08/2026 e Viação Umuarama, tabela de tarifas da página Horários); valor conferido em 19/10/2026 pela Base Nacional de Tarifas e Integrações de VT da Otimiza.pro.
+
+Fonte (página oficial): https://umuarama.pr.gov.br/noticias/segurana-trnsito-e-mobilidade-urbana-sestram/audincia-pblica-apresenta-novo-modelo-do-transporte-coletivo-urbano
+
+Vale-transporte em Umuarama: cartão de vale-transporte Transcard; emitido por Viação Umuarama Ltda.; canal de compra da empresa: Web Commerce (Empresas) da Viação Umuarama (TDMax, max00070.itstransdata.com/TDMaxWebcommerce), com 'acesso para empresas conveniadas'; compra e recarga também no escritório da empresa, e recarga no terminal urbano.
+
+Tarifa zero em Umuarama: Transporte coletivo urbano gratuito para todos os passageiros, em todas as linhas e horários, no 1º turno das eleições (04/10/2026), sem exigir documento; vale também no 2º turno, se houver
+
 ## RJ
 
 ### Angra dos Reis (RJ)
@@ -1209,6 +1263,12 @@ Em 2021, o sistema de ônibus de Petrópolis (RJ) levou 41 milhões de passageir
 Fonte (operadora): https://setranspetro.com.br/noticias/saiba-como-sera-o-reajuste-da-tarifa-de-onibus-em-petropolis/
 
 Vale-transporte em Petrópolis: cartão Riocard Mais Vale-Transporte (Convencional e Empresarial); emitido por Riocard Mais; canal de compra da empresa: a recarga do cartão VT é feita pelo empregador, que faz a gestão do benefício (Setranspetro, 20/04/2020); o canal da Riocard Mais para empresas não foi conferido porque o site recusou o acesso automatizado em 2026-10-18.
+
+### Resende (RJ)
+
+Em Resende (RJ), a passagem de ônibus custa R$ 4,40 desde 24/05/2023, segundo a publicação oficial (Prefeitura de Resende, 24/05/2023 e 19/08/2026); valor conferido em 19/10/2026 pela Base Nacional de Tarifas e Integrações de VT da Otimiza.pro.
+
+Fonte (página oficial): https://resende.rj.gov.br/noticias/princesinha-do-vale-nova-empresa-de-transporte-publico-de-resende-comeca-a-operar-nesta-quarta-feira
 
 ### Rio de Janeiro (RJ)
 
@@ -1473,6 +1533,18 @@ Fonte (imprensa): https://diariodotransporte.com.br/2026/03/08/moradores-de-sant
 Vale-transporte em Santa Maria: cartão Vale-Transporte (versão integrada a R$ 5,00).
 
 Integração em Santa Maria: Tarifa integrada de R$ 5,00 com Cartão Cidadão Integrado ou Cartão Vale-Transporte Integrado
+
+### São Leopoldo (RS)
+
+Em São Leopoldo (RS), a passagem de ônibus custa R$ 5,85 desde 24/08/2025, conforme Decreto municipal nº 11.140/2025; valor conferido em 19/10/2026 pela Base Nacional de Tarifas e Integrações de VT da Otimiza.pro.
+
+Fonte (operadora): https://coleobus.com.br/noticia/alteracao-de-tarifa-24082025
+
+Vale-transporte em São Leopoldo: a empresa compra em 2 sistemas, Cartão Vale Transporte do COLEO (ônibus municipais de São Leopoldo) e TEU! Vale-transporte (ônibus metropolitanos da Região Metropolitana de Porto Alegre).
+
+Cartão Vale Transporte do COLEO (ônibus municipais de São Leopoldo): cobre ônibus municipais de São Leopoldo; cartão Vale Transporte COLEO; emitido por COLEO, Consórcio Operacional São Leopoldo; canal de compra da empresa: Site do COLEO (Compra de créditos, Pessoa Jurídica), com manual para PJ: a empresa se cadastra, cadastra os funcionários, agenda com a central de atendimento a confecção da 1ª via dos cartões e compra os créditos vinculados a cada funcionário, por boleto comum ou boleto Pix; liberação do crédito: boleto comum: compensação em média de 3 dias úteis; boleto Pix: pedido aprovado no pagamento e créditos liberados em até 1 dia; validade dos créditos: na alta da tarifa, os créditos comprados antes valem por 30 dias pela tarifa antiga.
+
+TEU! Vale-transporte (ônibus metropolitanos da Região Metropolitana de Porto Alegre): cobre ônibus metropolitanos da Região Metropolitana de Porto Alegre do sistema TEU!; a página do empregador também cita os validadores do Trensurb para inserir a carga comprada; cartão TEU! Vale-transporte; emitido por Sistema TEU! (Bilhete Metropolitano); canal de compra da empresa: TEU! Online (empregador pessoa física ou jurídica, cadastro manual dos funcionários, pedido e boleto, sem limite de cartões; cartões retirados no Posto ATM, em Porto Alegre, em até 5 dias úteis), Valesul (só pessoa jurídica, cadastro por arquivo .txt, boleto) ou Postos de Venda TEU! (pagamento à vista, até 10 cartões numerados, sem cadastro dos funcionários); liberação do crédito: TEU! Online: créditos carregados nos cartões após 3 dias úteis, nos validadores dos ônibus do sistema; taxa na compra: TEU! Online: 'taxa única para todo o pedido', valor não publicado; Valesul: 'taxa variável conforme pedido de crédito', valor não publicado; Postos de Venda: sem taxas administrativas; validade dos créditos: a carga comprada no TEU! Online ou na Valesul deve ser inserida no cartão em até 120 dias (desde 01/03/2023).
 
 ### Viamão (RS)
 
@@ -1985,6 +2057,14 @@ Vale-transporte em Itatiba: a empresa compra em 2 sistemas, TCI cartão trabalha
 TCI cartão trabalhador (vale-transporte): cobre ônibus municipais de Itatiba (linhas urbanas, suburbanas e rurais); cartão trabalhador; emitido por TCI, Transporte Coletivo de Itatiba (concessionária).
 
 BUS+ (linhas metropolitanas da EMTU na Região Metropolitana de Campinas): cobre ônibus intermunicipais metropolitanos da RMC (EMTU, regulação da ARTESP); cartão BUS+ Vale-Transporte; emitido por Consórcio BUS+; canal de compra da empresa: Presencial nos postos BUS+ (cópia do CNPJ e relação dos colaboradores com nome completo, sexo, CPF, RG, data de nascimento e nome da mãe; cartões retirados em até 5 dias úteis) ou online no site BUS+, com pagamento eletrônico e recarga a bordo; liberação do crédito: até 2 dias úteis após a compensação bancária (recarga a bordo); na compra online, cartões emitidos em 5 dias úteis após a compensação; taxa na compra: online: taxa de conveniência de 3% sobre o valor, mínimo de R$ 3,90; presencial: sem custo.
+
+### Itu (SP)
+
+Em Itu (SP), a passagem de ônibus custa R$ 5,15 desde 27/12/2021, conforme Decreto nº 3.798/2021; valor conferido em 19/10/2026 pela Base Nacional de Tarifas e Integrações de VT da Otimiza.pro.
+
+Fonte (operadora): https://movitu.com.br/cadastro-escolar/
+
+Vale-transporte em Itu: cartão MoV Vale-Transporte (VT); emitido por MoV Itu (West Side Viagens e Turismo Ltda.); canal de compra da empresa: Portal de vendas ligado no site da MoV Itu: a empresa cadastra a si e aos funcionários, faz o pedido de créditos e paga por boleto; a empresa também pode levar os cartões dos funcionários aos pontos de venda da MoV e recarregar em dinheiro; liberação do crédito: bilhetes de VT emitidos e disponibilizados em até 5 dias úteis depois da confirmação do pagamento; taxa na compra: Taxa de conveniência no portal de vendas: 3% sobre o total dos pedidos acima de R$ 130,00 e R$ 3,90 fixos abaixo disso; sem taxa na recarga paga em dinheiro nos pontos de venda.
 
 ### Jacareí (SP)
 
