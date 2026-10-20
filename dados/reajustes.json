@@ -1,6 +1,6 @@
 {
  "nome": "Base Nacional de Tarifas e Integrações de Operadoras do Transporte Público e Vale-Transporte: reajustes",
- "versao": "2026.10.19.8",
+ "versao": "2026.10.20",
  "licenca": {
   "nome": "CC BY-NC 4.0",
   "url": "https://creativecommons.org/licenses/by-nc/4.0/deed.pt-br",
@@ -8,7 +8,7 @@
   "uso_interno": "A consulta para decisões da própria empresa, como orçar o vale-transporte, não pede licença.",
   "uso_comercial": "Uso comercial por empresas (em produto, revenda ou integração em sistema ou serviço pago) pede licença da Otimiza.pro: empresa@otimiza.pro."
  },
- "citar_como": "Fonte: Otimiza.pro, Base Nacional de Tarifas e Integrações de Operadoras do Transporte Público e Vale-Transporte, versão 2026.10.19.8. DOI: https://doi.org/10.5281/zenodo.23486211. https://github.com/OtimizaPro/tarifas_integracoestarifarias_transportepublico_brasileiro",
+ "citar_como": "Fonte: Otimiza.pro, Base Nacional de Tarifas e Integrações de Operadoras do Transporte Público e Vale-Transporte, versão 2026.10.20. DOI: https://doi.org/10.5281/zenodo.23486211. https://github.com/OtimizaPro/tarifas_integracoestarifarias_transportepublico_brasileiro",
  "linhas": [
   {
    "uf": "SP",
@@ -5063,6 +5063,25 @@
    "fonte_tipo": "oficial",
    "confianca": "A",
    "verificado_em": "2026-10-18"
+  },
+  {
+   "uf": "MA",
+   "municipio": "São José de Ribamar",
+   "cod_ibge": "2111201",
+   "sistema": "Sem sistema municipal próprio localizado; atendido pelo transporte semiurbano da Grande Ilha (ônibus intermunicipais regulados pela MOB, Governo do Maranhão) e pelo transporte alternativo intermunicipal (vans e micro-ônibus do SPTA, também regulados pela MOB). O Bilhete Único de São Luís não inclui as linhas de Ribamar.",
+   "modo": "lotacao",
+   "servico": "transporte alternativo intermunicipal da Grande Ilha (vans e micro-ônibus regularizados na MOB)",
+   "perfil": "comum",
+   "meio_pagamento": null,
+   "valor_brl": 4.2,
+   "valor_anterior_brl": null,
+   "variacao_pct": null,
+   "vigencia_inicio": "2025-12",
+   "ato_oficial": "Programa Transporte Alternativo Para Todos (subsídio estadual de R$ 0,91 por km, lançado em 15/12/2025); regularização pela Portaria MOB nº 184/2025",
+   "fonte_url": "https://oimparcial.com.br/noticias/2025/12/tarifa-do-transporte-alternativo-cai-na-grande-ilha-mas-beneficio-depende-de-regularizacao-dos-operadores/",
+   "fonte_tipo": "imprensa",
+   "confianca": "B",
+   "verificado_em": "2026-10-19"
   },
   {
    "uf": "MA",
