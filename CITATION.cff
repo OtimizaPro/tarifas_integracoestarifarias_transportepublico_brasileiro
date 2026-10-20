@@ -6,7 +6,7 @@ type: dataset
 authors:
   - name: "Otimiza.pro"
     website: "https://otimizapro.com"
-version: "2026.10.20.7"
+version: "2026.10.20.8"
 date-released: "2026-10-20"
 license: CC-BY-NC-4.0
 doi: 10.5281/zenodo.23486211

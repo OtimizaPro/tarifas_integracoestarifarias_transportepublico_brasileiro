@@ -1,6 +1,6 @@
 {
  "nome": "Base Nacional de Tarifas e Integrações de Operadoras do Transporte Público e Vale-Transporte: integracoes",
- "versao": "2026.10.20.7",
+ "versao": "2026.10.20.8",
  "licenca": {
   "nome": "CC BY-NC 4.0",
   "url": "https://creativecommons.org/licenses/by-nc/4.0/deed.pt-br",
@@ -8,7 +8,7 @@
   "uso_interno": "A consulta para decisões da própria empresa, como orçar o vale-transporte, não pede licença.",
   "uso_comercial": "Uso comercial por empresas (em produto, revenda ou integração em sistema ou serviço pago) pede licença da Otimiza.pro: empresa@otimiza.pro."
  },
- "citar_como": "Fonte: Otimiza.pro, Base Nacional de Tarifas e Integrações de Operadoras do Transporte Público e Vale-Transporte, versão 2026.10.20.7. DOI: https://doi.org/10.5281/zenodo.23486211. https://github.com/OtimizaPro/tarifas_integracoestarifarias_transportepublico_brasileiro",
+ "citar_como": "Fonte: Otimiza.pro, Base Nacional de Tarifas e Integrações de Operadoras do Transporte Público e Vale-Transporte, versão 2026.10.20.8. DOI: https://doi.org/10.5281/zenodo.23486211. https://github.com/OtimizaPro/tarifas_integracoestarifarias_transportepublico_brasileiro",
  "linhas": [
   {
    "uf": "AC",
@@ -324,6 +324,18 @@
   },
   {
    "uf": "MG",
+   "municipio": "Lagoa Santa",
+   "cod_ibge": "3137601",
+   "regra": "Integração metropolitana do cartão Ótimo: até 120 minutos mais o tempo de viagem da linha para pegar o 2º ônibus, pagando 50% da menor tarifa; só com o cartão Ótimo, que também é o único aceito no MOVE Metropolitano. A página do Ótimo não diz se a regra vale entre as linhas municipais de Lagoa Santa.",
+   "janela_min": 120,
+   "embarques": "2",
+   "quem_tem_direito": "portadores do cartão Ótimo",
+   "fonte_url": "https://www.otimoonline.com.br/otimo-vale-transporte/",
+   "confianca": "B",
+   "verificado_em": "2026-10-20"
+  },
+  {
+   "uf": "MG",
    "municipio": "Montes Claros",
    "cod_ibge": "3143302",
    "regra": "Integração temporal e espacial: troca sem nova cobrança em até 1 hora, se o 2º embarque for em eixo diferente do 1º, conforme a matriz de integração por linha e sentido. Exige cartão da bilhetagem.",
@@ -355,6 +367,18 @@
    "embarques": null,
    "quem_tem_direito": "usuários do cartão eletrônico",
    "fonte_url": "https://consorciorotareal.com.br/duvidas-frequentes/",
+   "confianca": "B",
+   "verificado_em": "2026-10-20"
+  },
+  {
+   "uf": "MG",
+   "municipio": "Pedro Leopoldo",
+   "cod_ibge": "3149309",
+   "regra": "Integração metropolitana do cartão Ótimo: até 120 minutos mais o tempo de viagem da linha para pegar o 2º ônibus, pagando 50% da menor tarifa; só com o cartão Ótimo. A página do Ótimo não diz se a regra vale entre as linhas municipais de Pedro Leopoldo.",
+   "janela_min": 120,
+   "embarques": "2",
+   "quem_tem_direito": "portadores do cartão Ótimo",
+   "fonte_url": "https://www.otimoonline.com.br/otimo-vale-transporte/",
    "confianca": "B",
    "verificado_em": "2026-10-20"
   },
@@ -753,6 +777,18 @@
    "fonte_url": "https://www.pmnf.rj.gov.br/noticia/view/5146/cartoes-riocard-mais-deixam-de-ser-aceitos-no-transporte-municipal-a-partir-de-1-de-janeiro-em-nova-friburgo",
    "confianca": "B",
    "verificado_em": "2026-10-17"
+  },
+  {
+   "uf": "RJ",
+   "municipio": "Queimados",
+   "cod_ibge": "3304144",
+   "regra": "Bilhete Único Intermunicipal (BUI) no cartão Riocard Mais com CPF vinculado: trem + ônibus municipal, ou ônibus intermunicipal + ônibus municipal da Região Metropolitana, ou ônibus intermunicipal + metrô ou trem, por R$ 9,40 no total; cartões empresariais de VT não habilitam o BUI",
+   "janela_min": null,
+   "embarques": "2",
+   "quem_tem_direito": "usuários do Riocard Mais com o BUI habilitado (regras do BUI)",
+   "fonte_url": "https://www.riocardmais.com.br/Tarifas",
+   "confianca": "B",
+   "verificado_em": "2026-10-20"
   },
   {
    "uf": "RJ",
@@ -1296,6 +1332,30 @@
   },
   {
    "uf": "SP",
+   "municipio": "Mococa",
+   "cod_ibge": "3530508",
+   "regra": "Integração livre entre linhas municipais com o cartão da bilhetagem eletrônica, sem nova tarifa, em até 60 minutos, no mesmo sentido de deslocamento (sem retorno).",
+   "janela_min": 60,
+   "embarques": null,
+   "quem_tem_direito": "usuários do cartão da bilhetagem eletrônica",
+   "fonte_url": "https://mococa.sp.gov.br/public/admin/globalarq/licitacao/arquivo/93c2725bd86839432a0d6ad8377c0d24.pdf",
+   "confianca": "B",
+   "verificado_em": "2026-10-20"
+  },
+  {
+   "uf": "SP",
+   "municipio": "Monte Mor",
+   "cod_ibge": "3531803",
+   "regra": "Integração tarifária entre as linhas metropolitanas da EMTU de Monte Mor a Campinas e as linhas municipais de Monte Mor, com tarifa integrada de R$ 7,10 a R$ 7,20 por viagem, conforme a linha metropolitana (seções de integração do Relatório Tarifário RMC, vigência 06/01/2026)",
+   "janela_min": null,
+   "embarques": null,
+   "quem_tem_direito": null,
+   "fonte_url": "https://www.artesp.sp.gov.br/dx/api/dam/v1/collections/b8655228-02b7-413b-b158-747ca48f5f52/items/4b4b0932-7f96-43e4-a5e2-e340527355ee/renditions/42a9f554-d7b7-4a77-83fc-f8c9964b9314?binary=true",
+   "confianca": "B",
+   "verificado_em": "2026-10-20"
+  },
+  {
+   "uf": "SP",
    "municipio": "Paulínia",
    "cod_ibge": "3536505",
    "regra": "Integração temporal de 40 minutos nas linhas municipais com os cartões MoV: dois ônibus com uma só passagem, apenas no mesmo sentido (não vale na volta da mesma linha). Fonte: Diário do Transporte (imprensa), 24/04/2022, no início da operação da MoV; o site da operadora não trata de integração.",
@@ -1305,6 +1365,30 @@
    "fonte_url": "https://diariodotransporte.com.br/2022/04/24/onibus-de-paulinia-sp-oferecem-integracao-de-40-minutos/",
    "confianca": "B",
    "verificado_em": "2026-10-18"
+  },
+  {
+   "uf": "SP",
+   "municipio": "Penápolis",
+   "cod_ibge": "3537305",
+   "regra": "As cinco linhas municipais funcionam em sistema de integração no Terminal Urbano, onde o passageiro troca de linha; o serviço é gratuito",
+   "janela_min": null,
+   "embarques": null,
+   "quem_tem_direito": "qualquer pessoa",
+   "fonte_url": "https://www.penapolis.sp.gov.br/portal/carta-servicos/32",
+   "confianca": "B",
+   "verificado_em": "2026-10-20"
+  },
+  {
+   "uf": "SP",
+   "municipio": "Porto Ferreira",
+   "cod_ibge": "3540705",
+   "regra": "Integração total entre as rotas do transporte coletivo com o bilhete eletrônico: ao passar o bilhete no primeiro ônibus, o usuário tem uma hora para embarcar em outro ônibus de rota diferente sem pagar outra passagem.",
+   "janela_min": 60,
+   "embarques": null,
+   "quem_tem_direito": "usuários do bilhete eletrônico",
+   "fonte_url": "https://www.portoferreira.sp.gov.br/noticias/concessao/integracao-das-rotas-do-transporte-coletivo-permitira-ao-usuario-chegar-a-qualquer-ponto-com-um-unico-bilhete",
+   "confianca": "B",
+   "verificado_em": "2026-10-20"
   },
   {
    "uf": "SP",
@@ -1329,6 +1413,18 @@
    "fonte_url": "https://diariodotransporte.com.br/2026/03/14/presidente-prudente-sp-inicia-segunda-fase-do-novo-sistema-de-transporte-coletivo-com-novas-linhas-e-integracao-de-duas-horas/",
    "confianca": "B",
    "verificado_em": "2026-10-17"
+  },
+  {
+   "uf": "SP",
+   "municipio": "Registro",
+   "cod_ibge": "3542602",
+   "regra": "Bilhete Único: com o cartão eletrônico, o usuário integra linhas urbanas e rurais, sempre no mesmo sentido, pagando uma única passagem, por até 1 hora e 30 minutos (antes, 1 hora).",
+   "janela_min": 90,
+   "embarques": null,
+   "quem_tem_direito": "usuários do cartão do transporte público (feito na Rodoviária)",
+   "fonte_url": "https://registro.sp.gov.br/prefeitura-de-registro-amplia-uso-do-bilhete-unico-nas-linhas-municipais-para-1-hora-e-30-minutos/",
+   "confianca": "B",
+   "verificado_em": "2026-10-20"
   },
   {
    "uf": "SP",

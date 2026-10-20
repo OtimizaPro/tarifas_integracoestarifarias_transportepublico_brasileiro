@@ -1,6 +1,6 @@
 {
  "nome": "Base Nacional de Tarifas e Integrações de Operadoras do Transporte Público e Vale-Transporte: beneficios",
- "versao": "2026.10.20.7",
+ "versao": "2026.10.20.8",
  "licenca": {
   "nome": "CC BY-NC 4.0",
   "url": "https://creativecommons.org/licenses/by-nc/4.0/deed.pt-br",
@@ -8,7 +8,7 @@
   "uso_interno": "A consulta para decisões da própria empresa, como orçar o vale-transporte, não pede licença.",
   "uso_comercial": "Uso comercial por empresas (em produto, revenda ou integração em sistema ou serviço pago) pede licença da Otimiza.pro: empresa@otimiza.pro."
  },
- "citar_como": "Fonte: Otimiza.pro, Base Nacional de Tarifas e Integrações de Operadoras do Transporte Público e Vale-Transporte, versão 2026.10.20.7. DOI: https://doi.org/10.5281/zenodo.23486211. https://github.com/OtimizaPro/tarifas_integracoestarifarias_transportepublico_brasileiro",
+ "citar_como": "Fonte: Otimiza.pro, Base Nacional de Tarifas e Integrações de Operadoras do Transporte Público e Vale-Transporte, versão 2026.10.20.8. DOI: https://doi.org/10.5281/zenodo.23486211. https://github.com/OtimizaPro/tarifas_integracoestarifarias_transportepublico_brasileiro",
  "linhas": [
   {
    "uf": "AL",
@@ -201,6 +201,30 @@
    "fonte_url": "https://www.jequie.ba.gov.br/noticias/2026/06/com-tarifa-zero-no-transporte-publico-prefeitura-de-jequie-reforca-inclusao-e-mobilidade-no-melhor-sao-joao-da-bahia-em-jequie",
    "confianca": "B",
    "verificado_em": "2026-10-17"
+  },
+  {
+   "uf": "BA",
+   "municipio": "Paulo Afonso",
+   "cod_ibge": "2924009",
+   "tipo": "estudante",
+   "regra": "Meia passagem para estudantes cadastrados, com o Cartão VAMOS Estudante, válido por um ano e com limite mensal de até 50 créditos; revalidação anual com a declaração de matrícula.",
+   "desde": null,
+   "base_legal": null,
+   "fonte_url": "http://vamoscard.com.br/site/o-cartao-vamos/",
+   "confianca": "B",
+   "verificado_em": "2026-10-20"
+  },
+  {
+   "uf": "BA",
+   "municipio": "Paulo Afonso",
+   "cod_ibge": "2924009",
+   "tipo": "idoso",
+   "regra": "O idoso não paga passagem; o Cartão VAMOS Gratuidade atende os usuários com direito a gratuidade autorizada por lei.",
+   "desde": null,
+   "base_legal": null,
+   "fonte_url": "http://vamoscard.com.br/site/beneficios/",
+   "confianca": "B",
+   "verificado_em": "2026-10-20"
   },
   {
    "uf": "BA",
@@ -1140,6 +1164,18 @@
   },
   {
    "uf": "MG",
+   "municipio": "Lagoa Santa",
+   "cod_ibge": "3137601",
+   "tipo": "tarifa_reduzida",
+   "regra": "Programa de Redução de Tarifa Pública: R$ 4,00 de segunda a sexta-feira e R$ 2,00 aos sábados, domingos e feriados (antes, R$ 5,60), com subsídio municipal; a lei também dá gratuidade aos servidores públicos municipais no deslocamento para o trabalho",
+   "desde": "2025-11-01",
+   "base_legal": "Lei nº 5.687, de 1º de novembro de 2025",
+   "fonte_url": "https://www.lagoasanta.mg.gov.br/index.php/gabinete-prefeito-noticias/11550-prefeitura-de-lagoa-santa-reduz-valor-da-passagem-de-onibus",
+   "confianca": "A",
+   "verificado_em": "2026-10-20"
+  },
+  {
+   "uf": "MG",
    "municipio": "Manhuaçu",
    "cod_ibge": "3139409",
    "tipo": "tarifa_zero_temporal",
@@ -1272,6 +1308,18 @@
   },
   {
    "uf": "MG",
+   "municipio": "Pedro Leopoldo",
+   "cod_ibge": "3149309",
+   "tipo": "tarifa_reduzida",
+   "regra": "Linhas municipais a R$ 1,00 no domingo e feriado, contra R$ 3,50 nos demais dias, segundo a página de horários da Prefeitura",
+   "desde": null,
+   "base_legal": null,
+   "fonte_url": "https://pl.mg.gov.br/para-voce/horario-de-onibus/",
+   "confianca": "B",
+   "verificado_em": "2026-10-20"
+  },
+  {
+   "uf": "MG",
    "municipio": "Pouso Alegre",
    "cod_ibge": "3152501",
    "tipo": "estudante",
@@ -1364,6 +1412,18 @@
    "base_legal": "Programa Tarifa Zero",
    "fonte_url": "https://diariodocomercio.com.br/legislacao/tarifa-zero-sao-joao/",
    "confianca": "B",
+   "verificado_em": "2026-10-20"
+  },
+  {
+   "uf": "MG",
+   "municipio": "Timóteo",
+   "cod_ibge": "3168705",
+   "tipo": "tarifa_zero_temporal",
+   "regra": "Gratuidade total em todas as linhas do sistema urbano nos dias de votação das eleições de 2026 (04/10 e, se houver, 25/10), das 7h às 18h, sem apresentação de documento; não vale nas linhas intermunicipais",
+   "desde": "2026-10-04",
+   "base_legal": "Decreto nº 6.446, de 1º de outubro de 2026",
+   "fonte_url": "https://www.timoteo.mg.gov.br/noticias/33438/prefeitura-de-timoteo-garante-tarifa-zero-no-transporte-publico-coletivo-para-as-eleicoes-2026",
+   "confianca": "A",
    "verificado_em": "2026-10-20"
   },
   {
@@ -1557,6 +1617,30 @@
    "fonte_url": "https://www.treslagoas.ms.gov.br/tres-lagoas-tera-transporte-coletivo-gratuito-no-domingo-de-eleicoes/",
    "confianca": "A",
    "verificado_em": "2026-10-19"
+  },
+  {
+   "uf": "MT",
+   "municipio": "Barra do Garças",
+   "cod_ibge": "5101803",
+   "tipo": "estudante",
+   "regra": "Estudantes pagam 50% da passagem",
+   "desde": null,
+   "base_legal": "Lei Municipal nº 2.915/2008",
+   "fonte_url": "https://www.barradogarcas.mt.gov.br/Imprensa/Noticias/Prefeitura-consegue-liminar-e-empresa-de-transporte-publico-devera-manter-gratuidade-na-passagem-de-idosos-3199/",
+   "confianca": "A",
+   "verificado_em": "2026-10-20"
+  },
+  {
+   "uf": "MT",
+   "municipio": "Barra do Garças",
+   "cod_ibge": "5101803",
+   "tipo": "idoso",
+   "regra": "Gratuidade para idosos, mantida por liminar obtida pela Prefeitura em março de 2022",
+   "desde": null,
+   "base_legal": "Lei nº 10.741/2003 (Estatuto da Pessoa Idosa)",
+   "fonte_url": "https://www.barradogarcas.mt.gov.br/Imprensa/Noticias/Prefeitura-consegue-liminar-e-empresa-de-transporte-publico-devera-manter-gratuidade-na-passagem-de-idosos-3199/",
+   "confianca": "A",
+   "verificado_em": "2026-10-20"
   },
   {
    "uf": "MT",
@@ -1833,6 +1917,18 @@
    "fonte_url": "https://parauapebas.pa.gov.br/destaque/parauapebas-avanca-na-mobilidade-urbana-e-institui-transporte-publico-gratuito-para-a-populacao/",
    "confianca": "A",
    "verificado_em": "2026-10-17"
+  },
+  {
+   "uf": "PA",
+   "municipio": "Redenção",
+   "cod_ibge": "1506138",
+   "tipo": "estudante",
+   "regra": "Redução de 50% na tarifa do transporte coletivo urbano de passageiros de Redenção para os alunos da rede de ensino.",
+   "desde": "1992-04-09",
+   "base_legal": "Lei Municipal nº 218, de 09/04/1992",
+   "fonte_url": "https://redencao.pa.gov.br/publicacoes/legislacoes/lei/198/dispoe-sobre-a-reducao-de-50-na-tarifa-do-transporte-coletivo-urbano",
+   "confianca": "A",
+   "verificado_em": "2026-10-20"
   },
   {
    "uf": "PB",
@@ -2121,6 +2217,30 @@
    "fonte_url": "https://www.transitarcascavel.com.br/domingo-passe-livre-prefeitura-de-cascavel-inova-e-promove-tarifa-gratuita-no-transporte-coletivo-aos-domingos/",
    "confianca": "B",
    "verificado_em": "2026-10-18"
+  },
+  {
+   "uf": "PR",
+   "municipio": "Castro",
+   "cod_ibge": "4104907",
+   "tipo": "idoso",
+   "regra": "Gratuidade para idosos e pessoas com deficiência no transporte coletivo urbano, custeada pelo município pelo valor da tarifa técnica (R$ 6,40 por passagem)",
+   "desde": null,
+   "base_legal": "Lei Municipal nº 3.994/2023 (subsídio tarifário)",
+   "fonte_url": "https://sapl.castro.pr.leg.br/media/sapl/public/documentoacessorio/2026/12806/memorando_no_1094_-_2026-_resp._req.__no_364-2026_ver_kleber.pdf",
+   "confianca": "A",
+   "verificado_em": "2026-10-20"
+  },
+  {
+   "uf": "PR",
+   "municipio": "Castro",
+   "cod_ibge": "4104907",
+   "tipo": "tarifa_reduzida",
+   "regra": "Meia tarifa para estudantes, com subsídio municipal de R$ 3,20 por passagem (o valor pago pelo estudante não está no texto)",
+   "desde": null,
+   "base_legal": "Lei Municipal nº 3.994/2023 (subsídio tarifário)",
+   "fonte_url": "https://sapl.castro.pr.leg.br/media/sapl/public/documentoacessorio/2026/12806/memorando_no_1094_-_2026-_resp._req.__no_364-2026_ver_kleber.pdf",
+   "confianca": "A",
+   "verificado_em": "2026-10-20"
   },
   {
    "uf": "PR",
@@ -2508,6 +2628,30 @@
   },
   {
    "uf": "RJ",
+   "municipio": "Barra do Piraí",
+   "cod_ibge": "3300308",
+   "tipo": "estudante",
+   "regra": "Passe gratuito por lei municipal só para estudantes da rede pública (municipal e estadual) que moram a mais de 1,5 km da escola; alunos da rede privada ficam de fora (tira-dúvidas da operadora de 11/07/2024).",
+   "desde": null,
+   "base_legal": "lei municipal",
+   "fonte_url": "https://www.bamonte.com.br/blog/noticias/tira-duvidas-sobre-os-novos-cartoes-de-onibus-de-barra-do-pirai/",
+   "confianca": "B",
+   "verificado_em": "2026-10-20"
+  },
+  {
+   "uf": "RJ",
+   "municipio": "Barra do Piraí",
+   "cod_ibge": "3300308",
+   "tipo": "idoso",
+   "regra": "Acima de 65 anos e pessoas com deficiência são isentos; o idoso recebe o cartão com o cartão antigo ou o RG, e a pessoa com deficiência com o cartão do SindPass (tira-dúvidas da operadora de 11/07/2024).",
+   "desde": null,
+   "base_legal": null,
+   "fonte_url": "https://www.bamonte.com.br/blog/noticias/tira-duvidas-sobre-os-novos-cartoes-de-onibus-de-barra-do-pirai/",
+   "confianca": "B",
+   "verificado_em": "2026-10-20"
+  },
+  {
+   "uf": "RJ",
    "municipio": "Belford Roxo",
    "cod_ibge": "3300456",
    "tipo": "tarifa_reduzida",
@@ -2781,6 +2925,18 @@
    "fonte_url": "https://www.sjb.rj.gov.br/site/noticia/renovacao_da_frota_do_transporte_gratuito_prossegue_em_sjb/17635",
    "confianca": "B",
    "verificado_em": "2026-10-18"
+  },
+  {
+   "uf": "RJ",
+   "municipio": "São Pedro da Aldeia",
+   "cod_ibge": "3305208",
+   "tipo": "idoso",
+   "regra": "Pessoas com 65 anos ou mais, com o Cartão do Idoso emitido pela Secretaria Municipal de Segurança e Ordem Pública (documento com foto, CPF e comprovante de residência; pronto em dois dias úteis), que vale nos ônibus municipais e intermunicipais.",
+   "desde": null,
+   "base_legal": null,
+   "fonte_url": "https://pmspa.rj.gov.br/secretaria-de-seguranca-aldeense-emite-cartao-do-idoso-para-os-onibus-municipais/",
+   "confianca": "B",
+   "verificado_em": "2026-10-20"
   },
   {
    "uf": "RJ",
@@ -3168,6 +3324,30 @@
   },
   {
    "uf": "RS",
+   "municipio": "Santo Ângelo",
+   "cod_ibge": "4317509",
+   "tipo": "idoso",
+   "regra": "Cartão Idoso gratuito para maiores de 65 anos, com cadastro na concessionária e biometria facial; Cartão Especial gratuito para pessoas com deficiência definidas em lei, com acompanhante quando necessário",
+   "desde": "2021-09-17",
+   "base_legal": "Decreto Municipal nº 4.043/2021 (bilhetagem eletrônica)",
+   "fonte_url": "https://santoangelo.cespro.com.br/visualizarDiploma.php?cdMunicipio=7877&cdDiploma=202104043",
+   "confianca": "B",
+   "verificado_em": "2026-10-20"
+  },
+  {
+   "uf": "RS",
+   "municipio": "Santo Ângelo",
+   "cod_ibge": "4317509",
+   "tipo": "tarifa_zero_temporal",
+   "regra": "Gratuidade em todas as linhas e horários nos dias de votação das Eleições Gerais de 2026 (04/10/2026 e 25/10/2026, se houver segundo turno)",
+   "desde": "2026-10-04",
+   "base_legal": "Decreto Municipal nº 4.455, de 02/10/2026",
+   "fonte_url": "https://santoangelo.cespro.com.br/visualizarDiploma.php?cdMunicipio=7877&cdDiploma=202604455",
+   "confianca": "B",
+   "verificado_em": "2026-10-20"
+  },
+  {
+   "uf": "RS",
    "municipio": "Sapucaia do Sul",
    "cod_ibge": "4320008",
    "tipo": "estudante",
@@ -3200,6 +3380,42 @@
    "base_legal": null,
    "fonte_url": "https://www.uruguaiana.rs.gov.br/portal/noticias/0/3/8101/prefeitura-de-uruguaiana-tera-onibus-gratuitos-no-segundo-turno-das-eleicoes-2026",
    "confianca": "B",
+   "verificado_em": "2026-10-20"
+  },
+  {
+   "uf": "RS",
+   "municipio": "Venâncio Aires",
+   "cod_ibge": "4322608",
+   "tipo": "idoso",
+   "regra": "Isentos da tarifa: crianças até seis anos no colo de um adulto, idosos com 65 anos ou mais e pessoas com deficiência, com acompanhante quando necessário (só no transporte convencional)",
+   "desde": "2022-10-05",
+   "base_legal": "Lei Municipal nº 7.054/2022, art. 43",
+   "fonte_url": "https://camaravenancioaires.cespro.com.br/visualizarDiploma.php?cdMunicipio=8050&cdDiploma=20227054",
+   "confianca": "B",
+   "verificado_em": "2026-10-20"
+  },
+  {
+   "uf": "RS",
+   "municipio": "Venâncio Aires",
+   "cod_ibge": "4322608",
+   "tipo": "tarifa_reduzida",
+   "regra": "Desconto de 15% na passagem para estudantes da rede pública e privada, nos dias e horários de atividade escolar, no transporte urbano convencional e distrital",
+   "desde": "2022-10-05",
+   "base_legal": "Lei Municipal nº 7.054/2022, art. 44",
+   "fonte_url": "https://camaravenancioaires.cespro.com.br/visualizarDiploma.php?cdMunicipio=8050&cdDiploma=20227054",
+   "confianca": "B",
+   "verificado_em": "2026-10-20"
+  },
+  {
+   "uf": "SC",
+   "municipio": "Araranguá",
+   "cod_ibge": "4201406",
+   "tipo": "idoso",
+   "regra": "Os Cartões Sênior, Isento, Funcional e Professor dão acesso gratuito ao sistema de transporte coletivo, conforme os arts. 14 a 17 do Decreto 4.508/2009 (citados no Decreto 10.990/2023)",
+   "desde": "2009-12-07",
+   "base_legal": "Decreto nº 4.508/2009, arts. 14 a 17",
+   "fonte_url": "https://diariomunicipal.sc.gov.br/?r=site/autopublicacaoAssinado&id=4539132",
+   "confianca": "A",
    "verificado_em": "2026-10-20"
   },
   {
@@ -4044,6 +4260,18 @@
   },
   {
    "uf": "SP",
+   "municipio": "Fernandópolis",
+   "cod_ibge": "3515509",
+   "tipo": "tarifa_zero_universal",
+   "regra": "Transporte coletivo urbano gratuito para todos os passageiros na operação \"Grande Fernandópolis\", contratada em caráter emergencial por 12 meses.",
+   "desde": "2026-01-01",
+   "base_legal": "Contrato emergencial da Dispensa Eletrônica Emergencial nº 101/2025",
+   "fonte_url": "https://www.fernandopolis.sp.gov.br/noticias/gestao/com-frota-nova-e-moderna-cidade-tera-transporte-gratuito-a-partir-do-dia-1",
+   "confianca": "A",
+   "verificado_em": "2026-10-20"
+  },
+  {
+   "uf": "SP",
    "municipio": "Ferraz de Vasconcelos",
    "cod_ibge": "3515707",
    "tipo": "estudante",
@@ -4137,6 +4365,18 @@
    "fonte_url": "https://www.guarulhos.sp.gov.br/diario-oficial/uploads/pdf/277381807.pdf",
    "confianca": "A",
    "verificado_em": "2026-10-17"
+  },
+  {
+   "uf": "SP",
+   "municipio": "Ibitinga",
+   "cod_ibge": "3519600",
+   "tipo": "tarifa_zero_universal",
+   "regra": "Transporte coletivo urbano municipal gratuito para toda a população, em quatro linhas.",
+   "desde": null,
+   "base_legal": null,
+   "fonte_url": "https://www.ibitinga.sp.gov.br/portal/noticias/0/3/3915/transporte-publico-gratuito--novos-horarios-a-partir-de-5-de-outubro",
+   "confianca": "A",
+   "verificado_em": "2026-10-20"
   },
   {
    "uf": "SP",
@@ -4476,6 +4716,30 @@
   },
   {
    "uf": "SP",
+   "municipio": "Monte Mor",
+   "cod_ibge": "3531803",
+   "tipo": "idoso",
+   "regra": "Tarifa do Bem: isenção total, com cadastro prévio e documento específico, para a população idosa nos termos da Lei 3.143/2023 (a prefeitura informa 60 anos ou mais), pessoas com deficiência e acompanhantes, menores de 16 anos com deficiência e inscritos no CadÚnico em extrema pobreza",
+   "desde": "2025-11-01",
+   "base_legal": "Lei Municipal nº 3.379, de 30/10/2025, art. 3º; Lei Municipal nº 3.143/2023",
+   "fonte_url": "https://www.montemor.sp.gov.br/uploads/diario_2025103017526af4031cf937a5fca46dfea624a874a2.pdf",
+   "confianca": "A",
+   "verificado_em": "2026-10-20"
+  },
+  {
+   "uf": "SP",
+   "municipio": "Monte Mor",
+   "cod_ibge": "3531803",
+   "tipo": "tarifa_reduzida",
+   "regra": "Tarifa Social: 40% de desconto (R$ 3,60) para inscritos no CadÚnico de baixa renda; Tarifa Estudantil: 50% de desconto (R$ 3,00) para estudantes matriculados que não recebem outro programa de gratuidade ou subsídio de transporte",
+   "desde": "2025-11-01",
+   "base_legal": "Lei Municipal nº 3.379, de 30/10/2025, arts. 4º e 5º",
+   "fonte_url": "https://www.montemor.sp.gov.br/uploads/diario_2025103017526af4031cf937a5fca46dfea624a874a2.pdf",
+   "confianca": "A",
+   "verificado_em": "2026-10-20"
+  },
+  {
+   "uf": "SP",
    "municipio": "Nova Odessa",
    "cod_ibge": "3533403",
    "tipo": "estudante",
@@ -4507,6 +4771,30 @@
    "desde": "2026-10-25",
    "base_legal": "orientação da Justiça Eleitoral (notícia da prefeitura de 19/10/2026)",
    "fonte_url": "https://www.novaodessa.sp.gov.br/noticias/destaques/prefeitura-de-nova-odessa-mantem-transporte-publico-gratuito-para-o-2-turno-das-eleicoes",
+   "confianca": "A",
+   "verificado_em": "2026-10-20"
+  },
+  {
+   "uf": "SP",
+   "municipio": "Olímpia",
+   "cod_ibge": "3533908",
+   "tipo": "estudante",
+   "regra": "Estudantes credenciados pagam 50% da tarifa com o cartão estudante.",
+   "desde": null,
+   "base_legal": "Edital nº 78/2026, item 8.4.7.2",
+   "fonte_url": "https://pncp.gov.br/app/editais/46596151000155/2026/1175",
+   "confianca": "A",
+   "verificado_em": "2026-10-20"
+  },
+  {
+   "uf": "SP",
+   "municipio": "Olímpia",
+   "cod_ibge": "3533908",
+   "tipo": "tarifa_zero_temporal",
+   "regra": "Gratuidade integral no transporte coletivo urbano municipal em datas específicas fixadas por decreto: 1º turno das eleições de 2026 (04/10/2026), 2º turno (25/10/2026, Decreto nº 10.217/2026), Carnaval de 2026 (Decreto nº 9.910/2026) e Dia Mundial sem Carro de 2025 (Decreto nº 9.703).",
+   "desde": null,
+   "base_legal": "Decretos pontuais; o do 1º turno foi publicado no Diário Oficial Eletrônico nº 2268, de 29/09/2026",
+   "fonte_url": "https://www.olimpia.sp.gov.br/portal/noticias/0/3/8953/prefeitura-oferece-transporte-coletivo-gratuito-para-todas-as-linhas-de-onibus-durante-o-2-turno-das-eleicoes",
    "confianca": "A",
    "verificado_em": "2026-10-20"
   },
@@ -4572,6 +4860,18 @@
   },
   {
    "uf": "SP",
+   "municipio": "Penápolis",
+   "cod_ibge": "3537305",
+   "tipo": "tarifa_zero_universal",
+   "regra": "Transporte coletivo municipal gratuito para qualquer pessoa, sem apresentação de documentos",
+   "desde": null,
+   "base_legal": "Lei Municipal nº 3.182, de 06/05/2025",
+   "fonte_url": "https://www.penapolis.sp.gov.br/portal/carta-servicos/32",
+   "confianca": "A",
+   "verificado_em": "2026-10-20"
+  },
+  {
+   "uf": "SP",
    "municipio": "Pirassununga",
    "cod_ibge": "3539301",
    "tipo": "estudante",
@@ -4579,6 +4879,30 @@
    "desde": null,
    "base_legal": "Inexigibilidade nº 026/2025 (Estudo Técnico Preliminar dos Passes Escolares)",
    "fonte_url": "https://publicacoes.pirassununga.sp.gov.br/Publicacoes/Dispensas/2025/Inexigibilidade/I%20026-2025/2%20-%20ETP_Passes_Escolares.pdf",
+   "confianca": "A",
+   "verificado_em": "2026-10-20"
+  },
+  {
+   "uf": "SP",
+   "municipio": "Porto Feliz",
+   "cod_ibge": "3540606",
+   "tipo": "tarifa_zero_universal",
+   "regra": "Transporte coletivo municipal gratuito (programa Expresso Porto Feliz), nas áreas urbana e rural, com custo integralmente pago pela prefeitura.",
+   "desde": null,
+   "base_legal": "contrato de prestação de serviços assinado em 23/12/2022",
+   "fonte_url": "https://www.portofeliz.sp.gov.br/noticias/geral/reforma-e-ampliacao-da-rodoviaria-avancam-em-porto-feliz",
+   "confianca": "A",
+   "verificado_em": "2026-10-20"
+  },
+  {
+   "uf": "SP",
+   "municipio": "Porto Ferreira",
+   "cod_ibge": "3540705",
+   "tipo": "tarifa_zero_temporal",
+   "regra": "Gratuidade total para todos os usuários no dia do 1º turno das eleições de 2026 (04/10/2026), das 7h às 18h.",
+   "desde": "2026-10-04",
+   "base_legal": null,
+   "fonte_url": "https://www.portoferreira.sp.gov.br/transporte-publico-tera-gratuidade-e-horario-especial-no-dia-das-eleicoes",
    "confianca": "A",
    "verificado_em": "2026-10-20"
   },
@@ -4617,6 +4941,18 @@
    "fonte_url": "https://diariodotransporte.com.br/2026/07/21/presidente-prudente-sp-registra-aumento-de-34-no-numero-de-passageiros-aos-finais-de-semana/",
    "confianca": "B",
    "verificado_em": "2026-10-17"
+  },
+  {
+   "uf": "SP",
+   "municipio": "Registro",
+   "cod_ibge": "3542602",
+   "tipo": "tarifa_zero_temporal",
+   "regra": "Transporte coletivo municipal gratuito no dia do 1º turno das eleições de 2026 (04/10/2026), conforme o art. 23 da Resolução TSE nº 23.751/2026.",
+   "desde": "2026-10-04",
+   "base_legal": "Resolução TSE nº 23.751/2026, art. 23",
+   "fonte_url": "https://registro.sp.gov.br/prefeitura-de-registro-divulga-horarios-dos-onibus-para-o-domingo-de-eleicoes-4-10/",
+   "confianca": "A",
+   "verificado_em": "2026-10-20"
   },
   {
    "uf": "SP",
@@ -5013,6 +5349,18 @@
    "fonte_url": "https://portal.tatui.sp.gov.br/cidadao/transporte-publico/valores-de-passagens-e-cartoes",
    "confianca": "B",
    "verificado_em": "2026-10-18"
+  },
+  {
+   "uf": "SP",
+   "municipio": "Tupã",
+   "cod_ibge": "3555000",
+   "tipo": "tarifa_zero_universal",
+   "regra": "Transporte coletivo gratuito na cidade e nos distritos (programa Transporte para Todos), com apresentação obrigatória da carteirinha de cadastro ou do aplicativo desde 12/05/2025; o cadastro pede documento pessoal com foto e comprovante de residência.",
+   "desde": "2025-05-01",
+   "base_legal": null,
+   "fonte_url": "https://www.tupa.sp.gov.br/noticia/11451/numeros-comprovam-o-sucesso-do-transporte-para-todos/",
+   "confianca": "A",
+   "verificado_em": "2026-10-20"
   },
   {
    "uf": "SP",

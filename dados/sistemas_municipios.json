@@ -1,6 +1,6 @@
 {
  "nome": "Base Nacional de Tarifas e Integrações de Operadoras do Transporte Público e Vale-Transporte: sistemas_municipios",
- "versao": "2026.10.20.7",
+ "versao": "2026.10.20.8",
  "licenca": {
   "nome": "CC BY-NC 4.0",
   "url": "https://creativecommons.org/licenses/by-nc/4.0/deed.pt-br",
@@ -8,7 +8,7 @@
   "uso_interno": "A consulta para decisões da própria empresa, como orçar o vale-transporte, não pede licença.",
   "uso_comercial": "Uso comercial por empresas (em produto, revenda ou integração em sistema ou serviço pago) pede licença da Otimiza.pro: empresa@otimiza.pro."
  },
- "citar_como": "Fonte: Otimiza.pro, Base Nacional de Tarifas e Integrações de Operadoras do Transporte Público e Vale-Transporte, versão 2026.10.20.7. DOI: https://doi.org/10.5281/zenodo.23486211. https://github.com/OtimizaPro/tarifas_integracoestarifarias_transportepublico_brasileiro",
+ "citar_como": "Fonte: Otimiza.pro, Base Nacional de Tarifas e Integrações de Operadoras do Transporte Público e Vale-Transporte, versão 2026.10.20.8. DOI: https://doi.org/10.5281/zenodo.23486211. https://github.com/OtimizaPro/tarifas_integracoestarifarias_transportepublico_brasileiro",
  "linhas": [
   {
    "sistema": "RBTrans (COM Card)",
@@ -139,6 +139,14 @@
    "cod_ibge": "2903201"
   },
   {
+   "sistema": "Prefeitura de Candeias; transporte coletivo municipal não identificado; a cidade é ligada a Salvador por linhas intermunicipais metropolitanas reguladas pela Agerba",
+   "abrangencia": "municipal",
+   "municipio_sede": "Candeias",
+   "uf": "BA",
+   "municipio_atendido": "Candeias",
+   "cod_ibge": "2906501"
+  },
+  {
    "sistema": "Prefeitura de Eunápolis; transporte coletivo municipal operado pela GDC Transporte desde 20/04/2026",
    "abrangencia": "municipal",
    "municipio_sede": "Eunápolis",
@@ -201,6 +209,22 @@
    "uf": "BA",
    "municipio_atendido": "Luís Eduardo Magalhães",
    "cod_ibge": "2919553"
+  },
+  {
+   "sistema": "Prefeitura de Mata de São João; Serviço de Transporte Complementar de Passageiros (Lei nº 406/2009), com a Cooperativa de Transportes Complementares de Mata de São João, Adjacências e Salvador (COOPMATA) entre os permissionários",
+   "abrangencia": "municipal",
+   "municipio_sede": "Mata de São João",
+   "uf": "BA",
+   "municipio_atendido": "Mata de São João",
+   "cod_ibge": "2921005"
+  },
+  {
+   "sistema": "Prefeitura de Paulo Afonso; concessão do transporte coletivo urbano à Atlântico Transportes e Turismo (Viação Atlântico), pela Concorrência Pública nº 002/2016 (contrato de 2017), com o cartão VAMOS (Vamoscard) e bilhetagem Transdata",
+   "abrangencia": "municipal",
+   "municipio_sede": "Paulo Afonso",
+   "uf": "BA",
+   "municipio_atendido": "Paulo Afonso",
+   "cod_ibge": "2924009"
   },
   {
    "sistema": "Prefeitura de Porto Seguro; transporte coletivo urbano e distrital operado por empresas concessionárias",
@@ -345,6 +369,14 @@
    "uf": "CE",
    "municipio_atendido": "Horizonte",
    "cod_ibge": "2305233"
+  },
+  {
+   "sistema": "linhas intermunicipais metropolitanas da Região Metropolitana de Fortaleza (Governo do Ceará), com o VTE Metropolitano do Sindiônibus",
+   "abrangencia": "municipal",
+   "municipio_sede": "São Gonçalo do Amarante",
+   "uf": "CE",
+   "municipio_atendido": "São Gonçalo do Amarante",
+   "cod_ibge": "2312403"
   },
   {
    "sistema": "Metrô-DF",
@@ -585,6 +617,14 @@
    "uf": "GO",
    "municipio_atendido": "Luziânia",
    "cod_ibge": "5212501"
+  },
+  {
+   "sistema": null,
+   "abrangencia": "municipal",
+   "municipio_sede": "Mineiros",
+   "uf": "GO",
+   "municipio_atendido": "Mineiros",
+   "cod_ibge": "5213103"
   },
   {
    "sistema": "Empresa Pública de Transporte Timonense (EPTT), que opera as 11 linhas urbanas e regulamenta a tarifa; Passe Livre emitido pela EPTT; app Conecta Timon",
@@ -859,6 +899,14 @@
    "cod_ibge": "3136702"
   },
   {
+   "sistema": "Prefeitura de Lagoa Santa, pela Translago (trânsito e transporte); transporte coletivo intramunicipal do Consórcio Lagoa Viva (aplicativo Busão da Lagoa), com tarifa reduzida e subsidiada pelo Programa de Redução de Tarifa Pública (Lei 5.687/2025); cartão Ótimo, do Consórcio Ótimo de Bilhetagem Eletrônica, que lista Lagoa Santa entre os municípios com linhas municipais na RMBH. A cidade também é atendida por linhas metropolitanas da RMBH (DER-MG) e pelo MOVE Metropolitano.",
+   "abrangencia": "municipal",
+   "municipio_sede": "Lagoa Santa",
+   "uf": "MG",
+   "municipio_atendido": "Lagoa Santa",
+   "cod_ibge": "3137601"
+  },
+  {
    "sistema": "Prefeitura de Manhuaçu; concessionárias Viação União Ltda. (linhas urbanas) e Viação Vale do Piranga Ltda. (linhas distritais), com subsídio tarifário municipal",
    "abrangencia": "municipal",
    "municipio_sede": "Manhuaçu",
@@ -899,6 +947,14 @@
    "cod_ibge": "3145208"
   },
   {
+   "sistema": "Prefeitura de Ouro Branco; linhas urbanas operadas pela Turin Transportes (o portal da Prefeitura liga os horários das linhas ao site da Turin); cartão não identificado",
+   "abrangencia": "municipal",
+   "municipio_sede": "Ouro Branco",
+   "uf": "MG",
+   "municipio_atendido": "Ouro Branco",
+   "cod_ibge": "3145901"
+  },
+  {
    "sistema": "Prefeitura de Ouro Preto (Secretaria de Segurança e Trânsito; Conselho Municipal de Transporte e Trânsito); Consórcio Rota Real (empresa líder Turin), que opera as linhas urbanas e distritais com subsídio municipal (programa Tarifa 2); bilhetagem eletrônica com cartões do Consórcio Rota Real",
    "abrangencia": "municipal",
    "municipio_sede": "Ouro Preto",
@@ -937,6 +993,22 @@
    "uf": "MG",
    "municipio_atendido": "Patrocínio",
    "cod_ibge": "3148103"
+  },
+  {
+   "sistema": "Prefeitura de Pedro Leopoldo; concessionária Expresso Unir (transporte coletivo municipal); cartão Ótimo, do Consórcio Ótimo de Bilhetagem Eletrônica, que lista Pedro Leopoldo entre os municípios com linhas municipais na RMBH. A cidade também é atendida por linhas metropolitanas da RMBH (DER-MG) com o mesmo cartão.",
+   "abrangencia": "municipal",
+   "municipio_sede": "Pedro Leopoldo",
+   "uf": "MG",
+   "municipio_atendido": "Pedro Leopoldo",
+   "cod_ibge": "3149309"
+  },
+  {
+   "sistema": "Prefeitura de Ponte Nova, pela Secretaria Municipal de Mobilidade e Transporte; em 2021 o transporte coletivo era da São Jorge Auto Ônibus Ltda. (São Jorge Auto Bus), com contrato prorrogado em abril de 2021 enquanto corria a licitação de uma concessão de 15 anos, suspensa duas vezes (Diário do Transporte, 12/07/2021); operadora atual e cartão não confirmados",
+   "abrangencia": "municipal",
+   "municipio_sede": "Ponte Nova",
+   "uf": "MG",
+   "municipio_atendido": "Ponte Nova",
+   "cod_ibge": "3152105"
   },
   {
    "sistema": "Prefeitura de Pouso Alegre (Secretaria Municipal de Trânsito e Transportes, SMTT); concessionária Expresso Planalto Transporte e Logística Ltda.; Tarifa Social subsidiada pelo Município",
@@ -1011,12 +1083,28 @@
    "cod_ibge": "3162500"
   },
   {
+   "sistema": "Prefeitura de São Sebastião do Paraíso, pela Secretaria Municipal de Segurança Pública, Trânsito, Transporte e Defesa Civil, que opera o transporte coletivo urbano desde 03/01/2022 (cinco linhas e uma linha de estudantes); cartão não identificado",
+   "abrangencia": "municipal",
+   "municipio_sede": "São Sebastião do Paraíso",
+   "uf": "MG",
+   "municipio_atendido": "São Sebastião do Paraíso",
+   "cod_ibge": "3164704"
+  },
+  {
    "sistema": "Prefeitura de Teófilo Otoni; Viação Vale do Mucury Ltda.",
    "abrangencia": "municipal",
    "municipio_sede": "Teófilo Otoni",
    "uf": "MG",
    "municipio_atendido": "Teófilo Otoni",
    "cod_ibge": "3168606"
+  },
+  {
+   "sistema": "Prefeitura de Timóteo, pela Subsecretaria de Mobilidade Urbana; transporte coletivo urbano concedido à Autotrans (a Itatiaia, em abril de 2025, citou a Saritur como operadora das linhas municipais), com subsídio de R$ 0,50 por passagem (Lei Municipal nº 4.070, de novembro de 2025). A cidade também é atendida por linhas metropolitanas do Vale do Aço reguladas pelo Estado; cartão do sistema municipal não identificado.",
+   "abrangencia": "municipal",
+   "municipio_sede": "Timóteo",
+   "uf": "MG",
+   "municipio_atendido": "Timóteo",
+   "cod_ibge": "3168705"
   },
   {
    "sistema": "Prefeitura de Uberaba; Associação das Empresas de Transporte Coletivo Urbano de Uberaba (Transube), com as operadoras Viação São Geraldo e Empresa de Transportes Líder; cartão da bilhetagem eletrônica",
@@ -1041,6 +1129,14 @@
    "uf": "MG",
    "municipio_atendido": "Ubá",
    "cod_ibge": "3169901"
+  },
+  {
+   "sistema": "Prefeitura de Unaí; transporte coletivo urbano operado pela Expresso Planalto, segundo a página 'Transporte coletivo urbano' do portal da Prefeitura (em manutenção); cartão não identificado",
+   "abrangencia": "municipal",
+   "municipio_sede": "Unaí",
+   "uf": "MG",
+   "municipio_atendido": "Unaí",
+   "cod_ibge": "3170404"
   },
   {
    "sistema": "Prefeitura de Varginha (Departamento Municipal de Trânsito, DEMUTRAN); concessionária Viação Real Transporte Urbano e Rodoviário Ltda. (Concorrência nº 003/2022, Contrato nº 121/2022); cartões Real Mobilidade",
@@ -1179,6 +1275,14 @@
    "cod_ibge": "5106224"
   },
   {
+   "sistema": "Prefeitura de Barra do Garças; transporte coletivo urbano concedido à Delta Express Transporte Coletivo Alternativo Urbano (Garçastur), segundo as notícias da Prefeitura de 2022, quando a Prefeitura anunciou nova licitação; operadora atual e cartão não confirmados",
+   "abrangencia": "municipal",
+   "municipio_sede": "Barra do Garças",
+   "uf": "MT",
+   "municipio_atendido": "Barra do Garças",
+   "cod_ibge": "5101803"
+  },
+  {
    "sistema": "Prefeitura de Lucas do Rio Verde; concessionária Translocave (concessão de 12 anos desde 01/01/2025); bilhete eletrônico",
    "abrangencia": "municipal",
    "municipio_sede": "Lucas do Rio Verde",
@@ -1297,6 +1401,14 @@
    "uf": "PA",
    "municipio_atendido": "Paragominas",
    "cod_ibge": "1505502"
+  },
+  {
+   "sistema": "Prefeitura de Redenção; operadora e cartão do transporte coletivo urbano não identificados",
+   "abrangencia": "municipal",
+   "municipio_sede": "Redenção",
+   "uf": "PA",
+   "municipio_atendido": "Redenção",
+   "cod_ibge": "1506138"
   },
   {
    "sistema": "SEMUTRAN (Prefeitura de Ananindeua) nas linhas municipais; ônibus das empresas do Setransbel com o cartão Passe Fácil (posto em Ananindeua em parceria com a Semutran); BRT Metropolitano estadual (Sistema Integrado de Transporte, regulado pela Arcon, concessionária BRT Amazônia, bilhetagem Autopass) com o cartão Pra Já",
@@ -1643,6 +1755,14 @@
    "cod_ibge": "4104303"
   },
   {
+   "sistema": "Prefeitura de Castro (Secretaria Municipal de Planejamento e Patrimônio); transporte coletivo urbano concedido à Viação Cidade de Castro, com subsídio tarifário municipal (Lei 3.994/2023) e nova licitação em estudo com a Funpar",
+   "abrangencia": "municipal",
+   "municipio_sede": "Castro",
+   "uf": "PR",
+   "municipio_atendido": "Castro",
+   "cod_ibge": "4104907"
+  },
+  {
    "sistema": "Prefeitura de Cianorte; transporte coletivo urbano por concessionária remunerada por quilômetro rodado, com tarifa zero universal",
    "abrangencia": "municipal",
    "municipio_sede": "Cianorte",
@@ -1673,6 +1793,14 @@
    "uf": "PR",
    "municipio_atendido": "Guarapuava",
    "cod_ibge": "4109401"
+  },
+  {
+   "sistema": "Prefeitura de Marechal Cândido Rondon (Secretaria Municipal de Mobilidade); transporte coletivo urbano concedido à Transgiro Turismo e Viagens Ltda., com subsídio mensal da prefeitura",
+   "abrangencia": "municipal",
+   "municipio_sede": "Marechal Cândido Rondon",
+   "uf": "PR",
+   "municipio_atendido": "Marechal Cândido Rondon",
+   "cod_ibge": "4114609"
   },
   {
    "sistema": "Prefeitura de Maringá (Secretaria Municipal de Mobilidade Urbana, SEMOB); concessionária Transporte Coletivo Cidade Canção Ltda. (TCCC, Contrato de Concessão nº 193/2011); Cartão Passe Fácil e aplicativo BiPay; integração com as linhas metropolitanas Sarandi-Maringá e Paiçandu-Maringá",
@@ -1915,12 +2043,28 @@
    "cod_ibge": "3300209"
   },
   {
+   "sistema": "Prefeitura de Armação dos Búzios (Secretaria de Segurança e Ordem Pública); transporte coletivo urbano feito por vans de duas cooperativas licenciadas pelo município",
+   "abrangencia": "municipal",
+   "municipio_sede": "Armação dos Búzios",
+   "uf": "RJ",
+   "municipio_atendido": "Armação dos Búzios",
+   "cod_ibge": "3300233"
+  },
+  {
    "sistema": "Prefeitura de Barra Mansa, Secretaria Municipal de Ordem Pública; consórcio de empresas do transporte municipal; cartão BM Card (morador)",
    "abrangencia": "municipal",
    "municipio_sede": "Barra Mansa",
    "uf": "RJ",
    "municipio_atendido": "Barra Mansa",
    "cod_ibge": "3300407"
+  },
+  {
+   "sistema": "Prefeitura de Barra do Piraí; concessionária Bamonte Transportes (operação emergencial desde a caducidade dos contratos anteriores, em junho de 2024, e depois contrato de concessão), com bilhetagem Transdata (TDMax) e portal BPPag",
+   "abrangencia": "municipal",
+   "municipio_sede": "Barra do Piraí",
+   "uf": "RJ",
+   "municipio_atendido": "Barra do Piraí",
+   "cod_ibge": "3300308"
   },
   {
    "sistema": "Prefeitura de Cabo Frio (Secretaria Municipal de Mobilidade Urbana); linhas municipais operadas pela Auto Viação Salineira; cartão Globalmob (bilhetagem da Salineira e da Viação Montes Brancos)",
@@ -2027,6 +2171,14 @@
    "cod_ibge": "3303500"
   },
   {
+   "sistema": "Prefeitura de Queimados (linhas municipais não identificadas); a cidade é atendida pelos trens da SuperVia e por linhas intermunicipais da Região Metropolitana do Rio, todos com o cartão Riocard Mais",
+   "abrangencia": "municipal",
+   "municipio_sede": "Queimados",
+   "uf": "RJ",
+   "municipio_atendido": "Queimados",
+   "cod_ibge": "3304144"
+  },
+  {
    "sistema": "Prefeitura de Resende (Superintendência de Transporte e Trânsito); concessionária Viação Itapetinga, do Grupo CSC, com o nome fantasia Princesinha do Vale, em operação desde 24/05/2023 no lugar da Viação São Miguel; cartão magnético da concessionária (o mesmo da São Miguel)",
    "abrangencia": "municipal",
    "municipio_sede": "Resende",
@@ -2059,6 +2211,14 @@
    "cod_ibge": "3305505"
   },
   {
+   "sistema": "Prefeitura de Seropédica; operadora e cartão do transporte municipal não identificados; a cidade é atendida por linhas intermunicipais da Região Metropolitana do Rio, que usam o Riocard Mais",
+   "abrangencia": "municipal",
+   "municipio_sede": "Seropédica",
+   "uf": "RJ",
+   "municipio_atendido": "Seropédica",
+   "cod_ibge": "3305554"
+  },
+  {
    "sistema": "Prefeitura de São Gonçalo (Secretaria Municipal de Meio Ambiente e Transportes), Contrato de Concessão nº 01/SEMTRAN/2012; cartão Riocard Mais",
    "abrangencia": "municipal",
    "municipio_sede": "São Gonçalo",
@@ -2081,6 +2241,14 @@
    "uf": "RJ",
    "municipio_atendido": "São João de Meriti",
    "cod_ibge": "3305109"
+  },
+  {
+   "sistema": "Prefeitura de São Pedro da Aldeia (Secretaria Municipal de Segurança e Ordem Pública, Diretoria de Transportes), que opera diretamente o Sistema Municipal de Transporte Coletivo desde agosto de 2022",
+   "abrangencia": "municipal",
+   "municipio_sede": "São Pedro da Aldeia",
+   "uf": "RJ",
+   "municipio_atendido": "São Pedro da Aldeia",
+   "cod_ibge": "3305208"
   },
   {
    "sistema": "Prefeitura de Teresópolis (programa Vai de Ônibus); operadoras Viação Dedo de Deus e Viação Primeiro de Março; integração Integra Terê",
@@ -2379,6 +2547,14 @@
    "cod_ibge": "4311403"
   },
   {
+   "sistema": "Prefeitura de Marau; concessão do transporte coletivo urbano em preparação (Concorrência Eletrônica nº 38/2024 suspensa em 20/12/2024); operação atual não identificada",
+   "abrangencia": "municipal",
+   "municipio_sede": "Marau",
+   "uf": "RS",
+   "municipio_atendido": "Marau",
+   "cod_ibge": "4311809"
+  },
+  {
    "sistema": "Prefeitura de Montenegro (Departamento de Transporte e Trânsito); transporte coletivo municipal operado pela Viação Montenegro (VIMSA), com subsídio tarifário municipal (Lei 7.091 e PL 105/2023), e o Cartão VIMSA, que também vale nas linhas intermunicipais da VIMSA",
    "abrangencia": "municipal",
    "municipio_sede": "Montenegro",
@@ -2451,6 +2627,14 @@
    "cod_ibge": "4317202"
   },
   {
+   "sistema": "Prefeitura de Santo Ângelo (Coordenadoria de Mobilidade Urbana); transporte coletivo urbano concedido, com subsídio tarifário municipal (Lei 4.780/2025) e bilhetagem eletrônica da concessionária (Cartão Cidadão, Vale Transporte, Estudante, Especial e Idoso); concessionária não identificada nas páginas abertas",
+   "abrangencia": "municipal",
+   "municipio_sede": "Santo Ângelo",
+   "uf": "RS",
+   "municipio_atendido": "Santo Ângelo",
+   "cod_ibge": "4317509"
+  },
+  {
    "sistema": "Prefeitura de Sapiranga (Secretaria de Segurança Pública e Mobilidade); ônibus municipal operado pela Expresso Charqueadas, com o cartão TEU! (TC Sapi); linhas metropolitanas da Metroplan operadas pela Citral",
    "abrangencia": "municipal",
    "municipio_sede": "Sapiranga",
@@ -2489,6 +2673,22 @@
    "uf": "RS",
    "municipio_atendido": "Uruguaiana",
    "cod_ibge": "4322400"
+  },
+  {
+   "sistema": "Prefeitura de Vacaria (Conselho Municipal de Trânsito); transporte coletivo urbano contratado com a empresa Transfátima (contrato assinado em 31/01/2012, segundo a prefeitura)",
+   "abrangencia": "municipal",
+   "municipio_sede": "Vacaria",
+   "uf": "RS",
+   "municipio_atendido": "Vacaria",
+   "cod_ibge": "4322509"
+  },
+  {
+   "sistema": "Prefeitura de Venâncio Aires; Sistema de Transporte Público Coletivo da Lei 7.054/2022, com linhas urbanas e interdistritais operadas por empresas privadas (Chimatur, Viasul e Reckziegel, segundo a Folha do Mate em 2020)",
+   "abrangencia": "municipal",
+   "municipio_sede": "Venâncio Aires",
+   "uf": "RS",
+   "municipio_atendido": "Venâncio Aires",
+   "cod_ibge": "4322608"
   },
   {
    "sistema": "Prefeitura de Viamão (Secretaria de Mobilidade Urbana); operação Grupo Viamão (Empresa Viamão); linhas metropolitanas sob a Metroplan",
@@ -2553,6 +2753,14 @@
    "uf": "SC",
    "municipio_atendido": "Araquari",
    "cod_ibge": "4201307"
+  },
+  {
+   "sistema": "Prefeitura de Araranguá; transporte coletivo urbano operado pela Viação Cidade em contrato expirado e prorrogado por aditivos (licitação de 2021 suspensa e anulada em 2023), com os cartões Cidadão, Vale Transporte, Estudante e os de gratuidade (Decreto 4.508/2009)",
+   "abrangencia": "municipal",
+   "municipio_sede": "Araranguá",
+   "uf": "SC",
+   "municipio_atendido": "Araranguá",
+   "cod_ibge": "4201406"
   },
   {
    "sistema": "Prefeitura de Blumenau (Secretaria Municipal de Trânsito e Transportes, SMTT); concessionária BluMob Concessionária de Transporte Urbano de Blumenau SPE Ltda. (Contrato de Concessão nº 042/2017); regulação da AGIR; cartões BluMob (Comum/Passe Fácil, Vale-Transporte/Trabalhador, Escolar) e QR Code no aplicativo BluMob Recarga",
@@ -2763,6 +2971,14 @@
    "cod_ibge": "2803500"
   },
   {
+   "sistema": "Prefeitura de Itabaiana; operadora e cartão do transporte coletivo urbano não identificados",
+   "abrangencia": "municipal",
+   "municipio_sede": "Itabaiana",
+   "uf": "SE",
+   "municipio_atendido": "Itabaiana",
+   "cod_ibge": "2802908"
+  },
+  {
    "sistema": "SMTT (Grande Aracaju)",
    "abrangencia": "municipal",
    "municipio_sede": "Aracaju",
@@ -2843,12 +3059,28 @@
    "cod_ibge": "3505500"
   },
   {
+   "sistema": "Prefeitura da Estância Turística de Ibitinga (Secretaria Municipal de Segurança Pública, Trânsito e Mobilidade Urbana); Transporte Coletivo Urbano Municipal Gratuito, com quatro linhas, retomado em 2026 depois de mais de oito anos sem ônibus urbano",
+   "abrangencia": "municipal",
+   "municipio_sede": "Ibitinga",
+   "uf": "SP",
+   "municipio_atendido": "Ibitinga",
+   "cod_ibge": "3519600"
+  },
+  {
    "sistema": "Prefeitura da Estância Turística de Itu (Secretaria Municipal de Segurança Pública, Trânsito e Mobilidade Urbana); concessionária West Side Viagens e Turismo Ltda., marca MoV Itu (Grupo Belarmino), Contrato nº 152/2021; cartões MoV. Linhas metropolitanas da Região Metropolitana de Sorocaba, geridas pela EMTU, também atendem Itu (em 2019 eram da Rápido Luxo Campinas, segundo a Gazeta de S.Paulo de 27/07/2019); o produto de VT dessas linhas não foi identificado: o portal VT Metropolitano Sorocaba da Rápido Campinas e as páginas da empresa abertas em 19/10/2026 não citam Itu.",
    "abrangencia": "municipal",
    "municipio_sede": "Itu",
    "uf": "SP",
    "municipio_atendido": "Itu",
    "cod_ibge": "3523909"
+  },
+  {
+   "sistema": "Prefeitura da Estância Turística de Olímpia (Secretaria Municipal de Segurança, Trânsito e Mobilidade Urbana; em 2019 e 2020, o órgão gestor era a Prodem, Progresso de Desenvolvimento Municipal); operadora citada em 2023: Grupo Reunidas; nova contratação por locação de ônibus com motorista e bilhetagem eletrônica no Pregão Eletrônico do Edital nº 78/2026 (abertura em 27/07/2026)",
+   "abrangencia": "municipal",
+   "municipio_sede": "Olímpia",
+   "uf": "SP",
+   "municipio_atendido": "Olímpia",
+   "cod_ibge": "3533908"
   },
   {
    "sistema": "Prefeitura da Estância Turística de Ribeirão Pires; concessionária Suzantur (Grupo Suzantur); Cartão Busfácil e aplicativo Buspay",
@@ -2873,6 +3105,14 @@
    "uf": "SP",
    "municipio_atendido": "São Roque",
    "cod_ibge": "3550605"
+  },
+  {
+   "sistema": "Prefeitura da Estância Turística de Tupã (Subsecretaria de Trânsito); programa \"Transporte para Todos\", transporte coletivo gratuito operado pela Trans VLP, com carteirinha de cadastro ou aplicativo \"Transporte para Todos\"",
+   "abrangencia": "municipal",
+   "municipio_sede": "Tupã",
+   "uf": "SP",
+   "municipio_atendido": "Tupã",
+   "cod_ibge": "3555000"
   },
   {
    "sistema": "Prefeitura de Americana, Secretaria de Obras e Serviços Urbanos, Unidade de Transportes e Sistema Viário (Utransv); concessionária Sancetur (SOU Americana, Contrato nº 074/2021); cartões SOU. Linhas metropolitanas da EMTU (Consórcio BUS+, cartão BUS+)",
@@ -3065,6 +3305,14 @@
    "uf": "SP",
    "municipio_atendido": "Espírito Santo do Pinhal",
    "cod_ibge": "3515186"
+  },
+  {
+   "sistema": "Prefeitura de Fernandópolis (Secretaria Municipal de Gestão, Departamento de Controle e Fiscalização dos Contratos Públicos, e Secretaria Municipal de Trânsito e Transporte); operação \"Grande Fernandópolis\" da Transporte Coletivo Grande Marília Ltda., em contrato emergencial de 12 meses, com transporte gratuito desde 01/01/2026",
+   "abrangencia": "municipal",
+   "municipio_sede": "Fernandópolis",
+   "uf": "SP",
+   "municipio_atendido": "Fernandópolis",
+   "cod_ibge": "3515509"
   },
   {
    "sistema": "Prefeitura de Ferraz de Vasconcelos, Secretaria de Transporte e Mobilidade Urbana; concessionária Alto Tietê Transportes Ltda (Contrato de Concessão 190/2021); 13 linhas municipais",
@@ -3267,6 +3515,14 @@
    "cod_ibge": "3527306"
   },
   {
+   "sistema": "Prefeitura de Mairiporã; linhas metropolitanas da EMTU até São Paulo operadas pela Internorte, com o Cartão TOP",
+   "abrangencia": "municipal",
+   "municipio_sede": "Mairiporã",
+   "uf": "SP",
+   "municipio_atendido": "Mairiporã",
+   "cod_ibge": "3528502"
+  },
+  {
    "sistema": "Prefeitura de Matão; transporte coletivo urbano operado pela Paraty (Viação Paraty, Paraty Mobilidade) desde 2002, com concessão renovada por mais 10 anos em 2023; cartão MOVE (Mobilidade Viária Eletrônica) nas linhas urbanas de Matão e nas intermunicipais da Paraty",
    "abrangencia": "municipal",
    "municipio_sede": "Matão",
@@ -3283,6 +3539,22 @@
    "cod_ibge": "3529401"
   },
   {
+   "sistema": "Prefeitura de Mirassol (Secretaria Municipal de Trânsito e Segurança Pública; antes Departamento Municipal de Trânsito, Detrami), com operação direta de micro-ônibus da prefeitura em 6 linhas urbanas e do distrito de Ruilândia",
+   "abrangencia": "municipal",
+   "municipio_sede": "Mirassol",
+   "uf": "SP",
+   "municipio_atendido": "Mirassol",
+   "cod_ibge": "3530300"
+  },
+  {
+   "sistema": "Prefeitura de Mococa (setor de transporte e Conselho Municipal de Transporte Coletivo); concessão do transporte coletivo da Concorrência Pública nº 002/2023, com bilhetagem eletrônica por cartão e aplicativo \"Meu Ônibus\"",
+   "abrangencia": "municipal",
+   "municipio_sede": "Mococa",
+   "uf": "SP",
+   "municipio_atendido": "Mococa",
+   "cod_ibge": "3530508"
+  },
+  {
    "sistema": "Prefeitura de Mogi Guaçu, Secretaria de Obras e Mobilidade; concessionária do transporte coletivo (houve troca de operadora, data não confirmada); bilhete eletrônico",
    "abrangencia": "municipal",
    "municipio_sede": "Mogi Guaçu",
@@ -3297,6 +3569,14 @@
    "uf": "SP",
    "municipio_atendido": "Mogi Mirim",
    "cod_ibge": "3530805"
+  },
+  {
+   "sistema": "Prefeitura de Monte Mor (Departamento de Mobilidade Urbana da Secretaria Municipal de Administração e Mobilidade); transporte coletivo urbano operado pela MoV Monte Mor (Rápido Luxo, Grupo Belarmino), com o cartão MoV Monte Mor; linhas metropolitanas da RMC pela EMTU, operadas pelo Consórcio BUS+ (Cartão BUS+)",
+   "abrangencia": "municipal",
+   "municipio_sede": "Monte Mor",
+   "uf": "SP",
+   "municipio_atendido": "Monte Mor",
+   "cod_ibge": "3531803"
   },
   {
    "sistema": "Prefeitura de Nova Odessa, Diretoria de Mobilidade Urbana; concessionária MoV Nova Odessa (antiga Rápido Sumaré, Grupo Belarmino), com subsídio municipal por passagem (Lei Municipal nº 2.497/2011); cartões MoV",
@@ -3331,6 +3611,14 @@
    "cod_ibge": "3536505"
   },
   {
+   "sistema": "Prefeitura de Penápolis (Secretaria de Trânsito, Mobilidade Urbana e Segurança); Serviço Municipal de Transporte Coletivo, operado pela própria prefeitura, gratuito para todos desde a Lei Municipal nº 3.182/2025",
+   "abrangencia": "municipal",
+   "municipio_sede": "Penápolis",
+   "uf": "SP",
+   "municipio_atendido": "Penápolis",
+   "cod_ibge": "3537305"
+  },
+  {
    "sistema": "Prefeitura de Pindamonhangaba, Departamento de Trânsito e Mobilidade; concessionária Viva Transporte Coletivo Ltda. (marca Viva Pinda, Contrato 289/2022); bilhete eletrônico",
    "abrangencia": "municipal",
    "municipio_sede": "Pindamonhangaba",
@@ -3355,12 +3643,36 @@
    "cod_ibge": "3539301"
   },
   {
+   "sistema": "Prefeitura de Porto Feliz; programa de tarifa zero \"Expresso Porto Feliz\", com operação contratada por prestação de serviços (American Vans Transporte e Turismo, contrato de 23/12/2022 renovado em 12/2023), custo integral pago pela prefeitura",
+   "abrangencia": "municipal",
+   "municipio_sede": "Porto Feliz",
+   "uf": "SP",
+   "municipio_atendido": "Porto Feliz",
+   "cod_ibge": "3540606"
+  },
+  {
+   "sistema": "Prefeitura de Porto Ferreira e Agência Reguladora de Porto Ferreira (ARPF); transporte coletivo urbano permissionário operado pela concessionária Transporto, com bilhete eletrônico",
+   "abrangencia": "municipal",
+   "municipio_sede": "Porto Ferreira",
+   "uf": "SP",
+   "municipio_atendido": "Porto Ferreira",
+   "cod_ibge": "3540705"
+  },
+  {
    "sistema": "Prefeitura de Poá, Secretaria de Transportes e Mobilidade Urbana; ônibus municipais com bilhetagem ONpag (Cartão Escolar Onpag e VT pelo Portal ONpag); operadora municipal não identificada",
    "abrangencia": "municipal",
    "municipio_sede": "Poá",
    "uf": "SP",
    "municipio_atendido": "Poá",
    "cod_ibge": "3539806"
+  },
+  {
+   "sistema": "Prefeitura de Registro (Secretaria Municipal de Trânsito e Mobilidade Urbana, antes Diretoria Geral de Trânsito e Mobilidade Urbana), com subsídio municipal ao transporte coletivo urbano e rural; Bilhete Único (cartão eletrônico recarregável)",
+   "abrangencia": "municipal",
+   "municipio_sede": "Registro",
+   "uf": "SP",
+   "municipio_atendido": "Registro",
+   "cod_ibge": "3542602"
   },
   {
    "sistema": "Prefeitura de Rio Claro, Secretaria Municipal de Mobilidade Urbana e Sistema Viário; concessionária SOU Rio Claro (desde dezembro de 2023)",
@@ -3769,6 +4081,14 @@
    "uf": "SP",
    "municipio_atendido": "Americana",
    "cod_ibge": "3501608"
+  },
+  {
+   "sistema": "não identificado (nenhum serviço municipal de ônibus urbano achado nas páginas oficiais abertas)",
+   "abrangencia": "municipal",
+   "municipio_sede": "Guaíra",
+   "uf": "SP",
+   "municipio_atendido": "Guaíra",
+   "cod_ibge": "3517406"
   },
   {
    "sistema": "sem transporte coletivo municipal",
