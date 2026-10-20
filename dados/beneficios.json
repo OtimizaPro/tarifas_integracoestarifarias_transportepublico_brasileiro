@@ -1,6 +1,6 @@
 {
  "nome": "Base Nacional de Tarifas e Integrações de Operadoras do Transporte Público e Vale-Transporte: beneficios",
- "versao": "2026.10.20.10",
+ "versao": "2026.10.20.11",
  "licenca": {
   "nome": "CC BY-NC 4.0",
   "url": "https://creativecommons.org/licenses/by-nc/4.0/deed.pt-br",
@@ -8,7 +8,7 @@
   "uso_interno": "A consulta para decisões da própria empresa, como orçar o vale-transporte, não pede licença.",
   "uso_comercial": "Uso comercial por empresas (em produto, revenda ou integração em sistema ou serviço pago) pede licença da Otimiza.pro: empresa@otimiza.pro."
  },
- "citar_como": "Fonte: Otimiza.pro, Base Nacional de Tarifas e Integrações de Operadoras do Transporte Público e Vale-Transporte, versão 2026.10.20.10. DOI: https://doi.org/10.5281/zenodo.23486211. https://github.com/OtimizaPro/tarifas_integracoestarifarias_transportepublico_brasileiro",
+ "citar_como": "Fonte: Otimiza.pro, Base Nacional de Tarifas e Integrações de Operadoras do Transporte Público e Vale-Transporte, versão 2026.10.20.11. DOI: https://doi.org/10.5281/zenodo.23486211. https://github.com/OtimizaPro/tarifas_integracoestarifarias_transportepublico_brasileiro",
  "linhas": [
   {
    "uf": "AL",
@@ -933,6 +933,54 @@
    "fonte_url": "https://prefeitura.pbh.gov.br/sumob/catraca-livre",
    "confianca": "A",
    "verificado_em": "2026-10-18"
+  },
+  {
+   "uf": "MG",
+   "municipio": "Bom Despacho",
+   "cod_ibge": "3107406",
+   "tipo": "tarifa_zero_temporal",
+   "regra": "Transporte coletivo 100% gratuito nos dias de Carnaval (16 e 17/02/2026), com horário especial",
+   "desde": "2026-02-16",
+   "base_legal": null,
+   "fonte_url": "https://www.bomdespacho.mg.gov.br/noticias/%f0%9f%9a%8d%f0%9f%8e%89-transporte-coletivo-gratuito-no-carnaval/",
+   "confianca": "B",
+   "verificado_em": "2026-10-20"
+  },
+  {
+   "uf": "MG",
+   "municipio": "Brumadinho",
+   "cod_ibge": "3109006",
+   "tipo": "idoso",
+   "regra": "Pessoas com 65 anos ou mais que usam as linhas intermunicipais têm gratuidade com o cartão Ótimo Sênior, emitido no CRAS Centro de Brumadinho em mutirão (fevereiro de 2025) ou na rodoviária de Belo Horizonte com agendamento; 1ª via gratuita e 2ª via a R$ 44,80",
+   "desde": null,
+   "base_legal": null,
+   "fonte_url": "https://novo.brumadinho.mg.gov.br/portal/noticia/3147",
+   "confianca": "B",
+   "verificado_em": "2026-10-20"
+  },
+  {
+   "uf": "MG",
+   "municipio": "Brumadinho",
+   "cod_ibge": "3109006",
+   "tipo": "tarifa_zero_universal",
+   "regra": "Tarifa zero para todos os passageiros, em todos os dias e horários, nos ônibus das linhas municipais, com subsídio integral da Prefeitura (projeto Transporte Para Todos)",
+   "desde": "2023-12-17",
+   "base_legal": null,
+   "fonte_url": "https://www.otempo.com.br/cidades/onibus-sera-gratuito-para-populacao-em-brumadinho-na-grande-bh-1.3270283",
+   "confianca": "B",
+   "verificado_em": "2026-10-20"
+  },
+  {
+   "uf": "MG",
+   "municipio": "Campo Belo",
+   "cod_ibge": "3111200",
+   "tipo": "tarifa_zero_universal",
+   "regra": "Transporte público municipal gratuito para todos os passageiros em todas as linhas urbanas, operado com ônibus locados pela Prefeitura",
+   "desde": "2019-10-01",
+   "base_legal": null,
+   "fonte_url": "https://www.campobelo.mg.gov.br/portal/noticias/0/3/1121/tarifa-zero-e-realidade-no-transporte-publico-municipal-em-campo-belo",
+   "confianca": "A",
+   "verificado_em": "2026-10-20"
   },
   {
    "uf": "MG",
@@ -2051,6 +2099,30 @@
    "verificado_em": "2026-10-20"
   },
   {
+   "uf": "PA",
+   "municipio": "Santa Izabel do Pará",
+   "cod_ibge": "1506500",
+   "tipo": "estudante",
+   "regra": "Meia-passagem de R$ 2,30 para estudantes, com o cartão Pra Já Escolar.",
+   "desde": null,
+   "base_legal": null,
+   "fonte_url": "https://www.agenciapara.com.br/noticia/74026/cartao-pra-ja-e-aplicativo-digital-ampliam-acesso-ao-brt-metropolitano",
+   "confianca": "B",
+   "verificado_em": "2026-10-20"
+  },
+  {
+   "uf": "PA",
+   "municipio": "Santa Izabel do Pará",
+   "cod_ibge": "1506500",
+   "tipo": "idoso",
+   "regra": "Crianças menores de 7 anos têm isenção tarifária, e pessoas com deficiência podem pedir tarifa zero com laudo e documentação; o cartão Pra Já Sênior é emitido por agendamento, e até a emissão o idoso embarca com RG ou com a carteirinha do Passe Fácil.",
+   "desde": null,
+   "base_legal": null,
+   "fonte_url": "https://www.agenciapara.com.br/noticia/74026/cartao-pra-ja-e-aplicativo-digital-ampliam-acesso-ao-brt-metropolitano",
+   "confianca": "B",
+   "verificado_em": "2026-10-20"
+  },
+  {
    "uf": "PB",
    "municipio": "Campina Grande",
    "cod_ibge": "2504009",
@@ -2541,6 +2613,18 @@
    "fonte_url": "https://venus.maringa.pr.gov.br/arquivos/orgao_oficial/arquivos/domm%204876.pdf",
    "confianca": "A",
    "verificado_em": "2026-10-18"
+  },
+  {
+   "uf": "PR",
+   "municipio": "Palmas",
+   "cod_ibge": "4117602",
+   "tipo": "tarifa_zero_universal",
+   "regra": "Transporte coletivo municipal gratuito para toda a população (programa Tarifa Zero), operado pela Expresso Getúlio desde 06/10/2025.",
+   "desde": null,
+   "base_legal": null,
+   "fonte_url": "https://pmp.pr.gov.br/website/views/noticiaDetalhe.php?id=8630",
+   "confianca": "A",
+   "verificado_em": "2026-10-20"
   },
   {
    "uf": "PR",
@@ -3105,6 +3189,30 @@
    "fonte_url": "https://netdiario.com.br/noticias/tem-inicio-o-transporte-coletivo-gratuito-aos-domingos-em-teresopolis/",
    "confianca": "B",
    "verificado_em": "2026-10-17"
+  },
+  {
+   "uf": "RJ",
+   "municipio": "Valença",
+   "cod_ibge": "3306107",
+   "tipo": "tarifa_zero_temporal",
+   "regra": "Operação especial de transporte público coletivo urbano com gratuidade tarifária durante a ExpoCristã, no distrito sede, de 26 a 27/06/2026, com linhas especiais, contratada com a concessionária por R$ 5.400,00",
+   "desde": "2026-06-26",
+   "base_legal": "Contrato de Concessão nº 17/2021, Lei Federal nº 8.987/1995 e Lei Federal nº 14.133/2021 (extrato no Boletim Oficial)",
+   "fonte_url": "https://gestor.valenca.rj.gov.br/uploads/files/valenca/BO_21091.pdf",
+   "confianca": "A",
+   "verificado_em": "2026-10-20"
+  },
+  {
+   "uf": "RN",
+   "municipio": "Macaíba",
+   "cod_ibge": "2407104",
+   "tipo": "idoso",
+   "regra": "Gratuidade para idosos e meia passagem para estudantes nas linhas da Trampolim que atendem Macaíba (notícias oficiais de 03/07/2025 e 17/07/2025).",
+   "desde": null,
+   "base_legal": null,
+   "fonte_url": "https://macaiba.rn.gov.br/linha-a-da-trampolim-passa-a-atender-bairro-bela-macaiba/",
+   "confianca": "B",
+   "verificado_em": "2026-10-20"
   },
   {
    "uf": "RN",
@@ -3720,6 +3828,18 @@
   },
   {
    "uf": "SC",
+   "municipio": "Canoinhas",
+   "cod_ibge": "4203808",
+   "tipo": "tarifa_zero_temporal",
+   "regra": "Gratuidade total da tarifa em todas as linhas do transporte coletivo urbano municipal nos dias de votação das Eleições Gerais de 2026: 04/10/2026 e, havendo segundo turno, 25/10/2026, com a frequência de dia útil.",
+   "desde": "2026-10-04",
+   "base_legal": "Decreto nº 252/2026",
+   "fonte_url": "https://diariomunicipal.sc.gov.br/atos/8723438",
+   "confianca": "A",
+   "verificado_em": "2026-10-20"
+  },
+  {
+   "uf": "SC",
    "municipio": "Caçador",
    "cod_ibge": "4203006",
    "tipo": "idoso",
@@ -4063,6 +4183,18 @@
    "desde": null,
    "base_legal": null,
    "fonte_url": "https://aracajucard.com.br/taxas-de-servicos/",
+   "confianca": "B",
+   "verificado_em": "2026-10-20"
+  },
+  {
+   "uf": "SP",
+   "municipio": "Agudos",
+   "cod_ibge": "3500709",
+   "tipo": "tarifa_zero_universal",
+   "regra": "Ônibus municipal gratuito para todos os passageiros, operado pelo município.",
+   "desde": "2003",
+   "base_legal": null,
+   "fonte_url": "https://idec.org.br/noticia/onibus-gratuito-e-possivel-conheca-o-transporte-municipal-de-agudos-sp",
    "confianca": "B",
    "verificado_em": "2026-10-20"
   },
@@ -4476,6 +4608,42 @@
   },
   {
    "uf": "SP",
+   "municipio": "Campo Limpo Paulista",
+   "cod_ibge": "3509601",
+   "tipo": "idoso",
+   "regra": "Isenção da tarifa no transporte coletivo municipal para idosos a partir de 65 anos, só com o RG, e para pessoas com deficiência, com certidão de isenção tarifária emitida pela Secretaria de Assistência e Desenvolvimento Social.",
+   "desde": null,
+   "base_legal": "Lei Municipal nº 1.793, de 15 de setembro de 2005, regulamentada pelo Decreto nº 7.521, de 30 de dezembro de 2025 (Diário Oficial, edição nº 558A, de 31/12/2025)",
+   "fonte_url": "https://dosp.com.br/exibe_do.php?i=NzU3Njcw",
+   "confianca": "B",
+   "verificado_em": "2026-10-20"
+  },
+  {
+   "uf": "SP",
+   "municipio": "Campo Limpo Paulista",
+   "cod_ibge": "3509601",
+   "tipo": "tarifa_zero_temporal",
+   "regra": "Gratuidade da tarifa do transporte coletivo urbano aos domingos, para todos os usuários, custeada por subsídio municipal à Rápido Luxo Campinas.",
+   "desde": null,
+   "base_legal": "Decreto Municipal nº 7.453, de 15 de julho de 2025, citado no Decreto nº 7.556, de 24/09/2026 (Diário Oficial, edição nº 647, de 25/09/2026)",
+   "fonte_url": "https://dosp.com.br/exibe_do.php?i=ODg2MzEw",
+   "confianca": "B",
+   "verificado_em": "2026-10-20"
+  },
+  {
+   "uf": "SP",
+   "municipio": "Campo Limpo Paulista",
+   "cod_ibge": "3509601",
+   "tipo": "tarifa_zero_temporal",
+   "regra": "Operação gratuita do transporte coletivo urbano para todos os usuários nos dias de votação de 2026 (04/10 e 25/10), com a frequência dos dias úteis.",
+   "desde": "2026-10-04",
+   "base_legal": "Decreto nº 7.556, de 24/09/2026 (Diário Oficial, edição nº 647, de 25/09/2026), com base no art. 23 da Resolução-TSE nº 23.751/2026",
+   "fonte_url": "https://dosp.com.br/exibe_do.php?i=ODg2MzEw",
+   "confianca": "B",
+   "verificado_em": "2026-10-20"
+  },
+  {
+   "uf": "SP",
    "municipio": "Campos do Jordão",
    "cod_ibge": "3509700",
    "tipo": "idoso",
@@ -4560,6 +4728,18 @@
   },
   {
    "uf": "SP",
+   "municipio": "Cravinhos",
+   "cod_ibge": "3513108",
+   "tipo": "idoso",
+   "regra": "Gratuidade no transporte municipal (circular) a partir dos 60 anos e para pessoas com deficiência, com carteirinha exclusiva emitida sem custo pela Secretaria Municipal da Pessoa com Deficiência e Mobilidade Reduzida.",
+   "desde": null,
+   "base_legal": "lei municipal citada pelo prefeito, sem número na notícia",
+   "fonte_url": "https://cravinhos.sp.gov.br/site/noticias/carteirinha-de-idosos-e-pessoas-com-deficiencia-possibilita-transporte-municipal-gratuito-src4607/",
+   "confianca": "A",
+   "verificado_em": "2026-10-20"
+  },
+  {
+   "uf": "SP",
    "municipio": "Cubatão",
    "cod_ibge": "3513504",
    "tipo": "tarifa_zero_temporal",
@@ -4593,6 +4773,30 @@
    "fonte_url": "https://www.dgabc.com.br/Noticia/4277981/tarifa-de-onibus-em-diadema-sobe-para-r$-4-50-reajuste-de-5-88",
    "confianca": "B",
    "verificado_em": "2026-10-17"
+  },
+  {
+   "uf": "SP",
+   "municipio": "Dracena",
+   "cod_ibge": "3514403",
+   "tipo": "estudante",
+   "regra": "50% de desconto na tarifa da Rota 03 para estudantes que apresentarem a carteira de estudante.",
+   "desde": "2022-10-01",
+   "base_legal": "Decreto nº 7.365/2021, art. 3º, parágrafo único, na redação do Decreto nº 7.640/2022",
+   "fonte_url": "https://www.dracena.sp.gov.br/uploads/diario_20225916155688c8d64a00e0e9f624dba2a539b2d180.pdf",
+   "confianca": "A",
+   "verificado_em": "2026-10-20"
+  },
+  {
+   "uf": "SP",
+   "municipio": "Dracena",
+   "cod_ibge": "3514403",
+   "tipo": "idoso",
+   "regra": "Gratuidade no transporte coletivo urbano para idosos e pessoas com deficiência de qualquer natureza, nos termos da lei.",
+   "desde": "2022-10-01",
+   "base_legal": "Decreto nº 7.365/2021, art. 3º, na redação do Decreto nº 7.640/2022",
+   "fonte_url": "https://www.dracena.sp.gov.br/uploads/diario_20225916155688c8d64a00e0e9f624dba2a539b2d180.pdf",
+   "confianca": "A",
+   "verificado_em": "2026-10-20"
   },
   {
    "uf": "SP",
@@ -5253,6 +5457,30 @@
    "fonte_url": "https://movpaulinia.com.br/cartoes-mov/",
    "confianca": "B",
    "verificado_em": "2026-10-18"
+  },
+  {
+   "uf": "SP",
+   "municipio": "Pederneiras",
+   "cod_ibge": "3536703",
+   "tipo": "idoso",
+   "regra": "Gratuidade incondicionada no transporte coletivo urbano para maiores de 65 anos, com documento que comprove a idade; o Executivo pode estender a pessoas de 60 a 65 anos, pessoas com deficiência e alunos da rede pública se houver orçamento.",
+   "desde": "2026-08-04",
+   "base_legal": "Lei Municipal nº 4.515, de 04 de agosto de 2026, arts. 16 e 17",
+   "fonte_url": "https://dosp.com.br/exibe_do.php?i=ODU3OTEz",
+   "confianca": "B",
+   "verificado_em": "2026-10-20"
+  },
+  {
+   "uf": "SP",
+   "municipio": "Pederneiras",
+   "cod_ibge": "3536703",
+   "tipo": "tarifa_zero_temporal",
+   "regra": "Transporte público gratuito para toda a população no dia da votação de 2026, com catracas livres na cidade e linhas para os distritos.",
+   "desde": null,
+   "base_legal": "não citada na notícia",
+   "fonte_url": "https://www.pederneiras.sp.gov.br/portal/noticias/0/3/9561/eleicoes-2026-pederneiras-tera-transporte-gratuito-para-todos-e-servico-especial-porta-a-porta-para-eleitores-com-deficiencia",
+   "confianca": "A",
+   "verificado_em": "2026-10-20"
   },
   {
    "uf": "SP",
