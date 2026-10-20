@@ -1,6 +1,6 @@
 {
  "nome": "Base Nacional de Tarifas e Integrações de Operadoras do Transporte Público e Vale-Transporte: reajustes",
- "versao": "2026.10.20.11",
+ "versao": "2026.10.20.12",
  "licenca": {
   "nome": "CC BY-NC 4.0",
   "url": "https://creativecommons.org/licenses/by-nc/4.0/deed.pt-br",
@@ -8,7 +8,7 @@
   "uso_interno": "A consulta para decisões da própria empresa, como orçar o vale-transporte, não pede licença.",
   "uso_comercial": "Uso comercial por empresas (em produto, revenda ou integração em sistema ou serviço pago) pede licença da Otimiza.pro: empresa@otimiza.pro."
  },
- "citar_como": "Fonte: Otimiza.pro, Base Nacional de Tarifas e Integrações de Operadoras do Transporte Público e Vale-Transporte, versão 2026.10.20.11. DOI: https://doi.org/10.5281/zenodo.23486211. https://github.com/OtimizaPro/tarifas_integracoestarifarias_transportepublico_brasileiro",
+ "citar_como": "Fonte: Otimiza.pro, Base Nacional de Tarifas e Integrações de Operadoras do Transporte Público e Vale-Transporte, versão 2026.10.20.12. DOI: https://doi.org/10.5281/zenodo.23486211. https://github.com/OtimizaPro/tarifas_integracoestarifarias_transportepublico_brasileiro",
  "linhas": [
   {
    "uf": "SC",
@@ -1091,6 +1091,25 @@
    "fonte_url": "https://www.jornaldocomercio.com/jornal-cidades/2026/06/1250722-passagem-de-onibus-em-garibaldi-aumenta-para-rs-625.html",
    "fonte_tipo": "imprensa",
    "confianca": "B",
+   "verificado_em": "2026-10-20"
+  },
+  {
+   "uf": "SC",
+   "municipio": "Maravilha",
+   "cod_ibge": "4210506",
+   "sistema": "Prefeitura de Maravilha; transporte coletivo urbano por concessão à Transcatto Transportes Ltda. ME (Decreto nº 221/2006)",
+   "modo": "onibus",
+   "servico": "municipal (urbano)",
+   "perfil": "comum",
+   "meio_pagamento": null,
+   "valor_brl": 5,
+   "valor_anterior_brl": null,
+   "variacao_pct": null,
+   "vigencia_inicio": "2026-06-01",
+   "ato_oficial": "Decreto nº 147, de 22 de maio de 2026",
+   "fonte_url": "https://diariomunicipal.sc.gov.br/arquivosbd/atos/2026/05/1779472550_decreto_n_147__fixa_tarifa_de_servio_pblico_de_transporte_extrato.pdf",
+   "fonte_tipo": "oficial",
+   "confianca": "A",
    "verificado_em": "2026-10-20"
   },
   {
@@ -2596,6 +2615,25 @@
   },
   {
    "uf": "PR",
+   "municipio": "Piraquara",
+   "cod_ibge": "4119509",
+   "sistema": "sem transporte coletivo municipal próprio achado; atendida pelo sistema metropolitano integrado da Região Metropolitana de Curitiba, gerido pela AMEP (Agência de Assuntos Metropolitanos do Paraná, antiga Comec), com linhas troncais, alimentadoras e intercidades que atendem Piraquara, operadas principalmente pela operadora que a tabela da AMEP chama de 'Piraquara' e pela Expresso Azul; cartão Metrocard (Associação Metrocard)",
+   "modo": "onibus",
+   "servico": "metropolitano (linhas da AMEP que atendem Piraquara), cartão bancário de débito ou crédito",
+   "perfil": "comum",
+   "meio_pagamento": "cartao",
+   "valor_brl": 6.13,
+   "valor_anterior_brl": null,
+   "variacao_pct": null,
+   "vigencia_inicio": "2026-02-23",
+   "ato_oficial": "Ofício nº 155/2026/DTIM/AMEP, de 11/02/2026",
+   "fonte_url": "https://cartaometrocard.com.br/wp-content/uploads/2026/02/oficio-155-2026-circular-diretores-alteracoes-tarifarias-e-implantacao-de-pagamento-em-debito-e-creditoassinado.pdf",
+   "fonte_tipo": "oficial_reproduzido",
+   "confianca": "A",
+   "verificado_em": "2026-10-20"
+  },
+  {
+   "uf": "PR",
    "municipio": "Almirante Tamandaré",
    "cod_ibge": "4100400",
    "sistema": "sem transporte coletivo municipal próprio achado; atendida pelo sistema metropolitano da Região Metropolitana de Curitiba, gerido pela AMEP (Agência de Assuntos Metropolitanos do Paraná, antiga Comec), com linhas troncais, alimentadoras, circulares e diretas, operadas principalmente pela Viação Tamandaré e pela Viação do Sul; cartão Metrocard (Associação Metrocard)",
@@ -2897,6 +2935,25 @@
    "fonte_tipo": "oficial_reproduzido",
    "confianca": "A",
    "verificado_em": "2026-10-18"
+  },
+  {
+   "uf": "PR",
+   "municipio": "Piraquara",
+   "cod_ibge": "4119509",
+   "sistema": "sem transporte coletivo municipal próprio achado; atendida pelo sistema metropolitano integrado da Região Metropolitana de Curitiba, gerido pela AMEP (Agência de Assuntos Metropolitanos do Paraná, antiga Comec), com linhas troncais, alimentadoras e intercidades que atendem Piraquara, operadas principalmente pela operadora que a tabela da AMEP chama de 'Piraquara' e pela Expresso Azul; cartão Metrocard (Associação Metrocard)",
+   "modo": "onibus",
+   "servico": "metropolitano (linhas da AMEP que atendem Piraquara, inclusive as alimentadoras dentro do município), cartão Metrocard",
+   "perfil": "comum",
+   "meio_pagamento": "cartao",
+   "valor_brl": 5.9,
+   "valor_anterior_brl": null,
+   "variacao_pct": null,
+   "vigencia_inicio": "2026-02-16",
+   "ato_oficial": "Ofício nº 155/2026/DTIM/AMEP, de 11/02/2026 (circular às operadoras)",
+   "fonte_url": "https://www.amep.pr.gov.br/sites/comec/arquivos_restritos/files/documento/2026-02/resumo_linhas_metropolitanas_2026_16.02.26_ativas.pdf",
+   "fonte_tipo": "oficial",
+   "confianca": "A",
+   "verificado_em": "2026-10-20"
   },
   {
    "uf": "PR",

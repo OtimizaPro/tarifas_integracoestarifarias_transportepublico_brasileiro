@@ -1,6 +1,6 @@
 {
  "nome": "Base Nacional de Tarifas e Integrações de Operadoras do Transporte Público e Vale-Transporte: beneficios",
- "versao": "2026.10.20.11",
+ "versao": "2026.10.20.12",
  "licenca": {
   "nome": "CC BY-NC 4.0",
   "url": "https://creativecommons.org/licenses/by-nc/4.0/deed.pt-br",
@@ -8,7 +8,7 @@
   "uso_interno": "A consulta para decisões da própria empresa, como orçar o vale-transporte, não pede licença.",
   "uso_comercial": "Uso comercial por empresas (em produto, revenda ou integração em sistema ou serviço pago) pede licença da Otimiza.pro: empresa@otimiza.pro."
  },
- "citar_como": "Fonte: Otimiza.pro, Base Nacional de Tarifas e Integrações de Operadoras do Transporte Público e Vale-Transporte, versão 2026.10.20.11. DOI: https://doi.org/10.5281/zenodo.23486211. https://github.com/OtimizaPro/tarifas_integracoestarifarias_transportepublico_brasileiro",
+ "citar_como": "Fonte: Otimiza.pro, Base Nacional de Tarifas e Integrações de Operadoras do Transporte Público e Vale-Transporte, versão 2026.10.20.12. DOI: https://doi.org/10.5281/zenodo.23486211. https://github.com/OtimizaPro/tarifas_integracoestarifarias_transportepublico_brasileiro",
  "linhas": [
   {
    "uf": "AL",
@@ -1020,6 +1020,18 @@
   },
   {
    "uf": "MG",
+   "municipio": "Cláudio",
+   "cod_ibge": "3116605",
+   "tipo": "tarifa_zero_universal",
+   "regra": "Transporte coletivo municipal gratuito para todos, sem cadastro nem carteirinha (programa Tarifa Zero)",
+   "desde": "2021-03-23",
+   "base_legal": null,
+   "fonte_url": "https://www.claudio.mg.gov.br/portal/noticias/0/3/1648/agora-a-cidade-carinho-tem-transporte-coletivo-de-graca",
+   "confianca": "A",
+   "verificado_em": "2026-10-20"
+  },
+  {
+   "uf": "MG",
    "municipio": "Congonhas",
    "cod_ibge": "3118007",
    "tipo": "tarifa_zero_temporal",
@@ -1041,6 +1053,18 @@
    "fonte_url": "https://www.transcon.contagem.mg.gov.br/portal/faq",
    "confianca": "B",
    "verificado_em": "2026-10-17"
+  },
+  {
+   "uf": "MG",
+   "municipio": "Diamantina",
+   "cod_ibge": "3121605",
+   "tipo": "estudante",
+   "regra": "Meio passe estudantil: o Município paga metade da tarifa do percurso de ida e volta entre residência e escola, por dia letivo, aos estudantes matriculados, frequentes e cadastrados na Prefeitura, de toda a rede de ensino; vale só no sistema de transporte coletivo urbano de Diamantina, e os créditos eletrônicos ficam a cargo da concessionária",
+   "desde": "2025-05-28",
+   "base_legal": "Lei nº 4.322, de 28 de maio de 2025, arts. 2º, §1º, 4º e 5º",
+   "fonte_url": "https://www.diamantina.mg.gov.br/publicos/lei_n_4322,_de_28_de_maio_de_2025_-_revoga_lei_e_institui_o_29023055.pdf",
+   "confianca": "A",
+   "verificado_em": "2026-10-20"
   },
   {
    "uf": "MG",
@@ -1737,6 +1761,18 @@
    "fonte_url": "https://portal.dourados.ms.gov.br/index.php/prefeitura-libera-transporte-coletivo-no-dia-das-eleicoes-e-altera-aulas-na-rede-municipal/",
    "confianca": "A",
    "verificado_em": "2026-10-17"
+  },
+  {
+   "uf": "MS",
+   "municipio": "Ribas do Rio Pardo",
+   "cod_ibge": "5007109",
+   "tipo": "tarifa_zero_universal",
+   "regra": "Transporte coletivo municipal na zona urbana sem custo para todos os usuários (passe livre), com prioridade para idosos, pessoas com deficiência e estudantes",
+   "desde": null,
+   "base_legal": "Lei Municipal nº 1.355, de 01 de setembro de 2023, art. 1º",
+   "fonte_url": "https://www.ribasdoriopardo.ms.gov.br/legislacao/view/177",
+   "confianca": "A",
+   "verificado_em": "2026-10-20"
   },
   {
    "uf": "MS",
@@ -2988,6 +3024,18 @@
   },
   {
    "uf": "RJ",
+   "municipio": "Guapimirim",
+   "cod_ibge": "3301850",
+   "tipo": "tarifa_zero_universal",
+   "regra": "Ônibus de Integração Municipal gratuito para todos os passageiros, operado pela Companhia Municipal de Desenvolvimento (CONDEGUAPI)",
+   "desde": "2023-12-29",
+   "base_legal": null,
+   "fonte_url": "https://guapimirim.rj.gov.br/2023/12/companhia-municipal-de-desenvolvimento-lanca-o-onibus-de-integracao-municipal-gratuito/",
+   "confianca": "A",
+   "verificado_em": "2026-10-20"
+  },
+  {
+   "uf": "RJ",
    "municipio": "Itaboraí",
    "cod_ibge": "3301900",
    "tipo": "tarifa_zero_universal",
@@ -2997,6 +3045,42 @@
    "fonte_url": "https://site.ib.itaborai.rj.gov.br/itaborai-faz-historia-onibus-com-tarifa-zero-passa-a-circular-por-toda-a-cidade/",
    "confianca": "B",
    "verificado_em": "2026-10-17"
+  },
+  {
+   "uf": "RJ",
+   "municipio": "Itatiaia",
+   "cod_ibge": "3302254",
+   "tipo": "idoso",
+   "regra": "Gratuidade para idosos a partir de 60 anos nos ônibus municipais (65 anos nos intermunicipais, segundo o quadro tarifário); o idoso faz o cadastro na Secretaria de Assistência Social e Direitos Humanos.",
+   "desde": null,
+   "base_legal": "Lei Municipal nº 601/2012",
+   "fonte_url": "https://itatiaia.rj.gov.br/noticias/cartao-transporte-cidadao-prazo-de-validade-e-prorrogado-pela-prefeitura",
+   "confianca": "A",
+   "verificado_em": "2026-10-20"
+  },
+  {
+   "uf": "RJ",
+   "municipio": "Itatiaia",
+   "cod_ibge": "3302254",
+   "tipo": "tarifa_reduzida",
+   "regra": "Tarifa social do Cartão Transporte Cidadão para moradores cadastrados (crianças a partir de 6 anos também se cadastram), com o subsídio pago pela Prefeitura e até quatro viagens diárias por cartão; quem não tem o cartão paga a tarifa sem cadastro de cada linha.",
+   "desde": null,
+   "base_legal": "Lei Municipal nº 542/2010; Decreto nº 3.056/2018",
+   "fonte_url": "https://itatiaia.rj.gov.br/noticias/cartao-transporte-cidadao-prazo-de-validade-e-prorrogado-pela-prefeitura",
+   "confianca": "A",
+   "verificado_em": "2026-10-20"
+  },
+  {
+   "uf": "RJ",
+   "municipio": "Japeri",
+   "cod_ibge": "3302270",
+   "tipo": "tarifa_zero_universal",
+   "regra": "Programa Tarifa Zero: ônibus municipais gratuitos para todos os passageiros",
+   "desde": "2025-05-03",
+   "base_legal": null,
+   "fonte_url": "https://japeri.rj.gov.br/2025/05/03/prefeitura-de-japeri-lanca-tarifa-zero-no-transporte-publico-municipal/",
+   "confianca": "A",
+   "verificado_em": "2026-10-20"
   },
   {
    "uf": "RJ",
@@ -4308,6 +4392,18 @@
   },
   {
    "uf": "SP",
+   "municipio": "Araçariguama",
+   "cod_ibge": "3502754",
+   "tipo": "tarifa_zero_universal",
+   "regra": "Ônibus urbano municipal gratuito à população, operado por contrato da prefeitura, sem cobrança de passagem desde o contrato emergencial de novembro de 2019; mantido no PPA 2026 a 2029.",
+   "desde": "2019-11",
+   "base_legal": null,
+   "fonte_url": "https://diariodotransporte.com.br/2020/02/21/prefeitura-de-aracariguama-divulga-horarios-de-onibus-gratuitos/",
+   "confianca": "B",
+   "verificado_em": "2026-10-20"
+  },
+  {
+   "uf": "SP",
    "municipio": "Assis",
    "cod_ibge": "3504008",
    "tipo": "tarifa_zero_universal",
@@ -4716,6 +4812,30 @@
   },
   {
    "uf": "SP",
+   "municipio": "Cordeirópolis",
+   "cod_ibge": "3512407",
+   "tipo": "estudante",
+   "regra": "Estudantes têm acesso gratuito ao transporte público municipal, com carteirinha encaminhada pela secretaria de cada escola à G10 Tur.",
+   "desde": "2019-04-01",
+   "base_legal": null,
+   "fonte_url": "https://cordeiropolis.sp.gov.br/saiba-onde-comprar-passe-ou-fazer-a-carteirinha-para-o-transporte-publico-em-cordeiropolis/",
+   "confianca": "A",
+   "verificado_em": "2026-10-20"
+  },
+  {
+   "uf": "SP",
+   "municipio": "Cordeirópolis",
+   "cod_ibge": "3512407",
+   "tipo": "idoso",
+   "regra": "Idosos, estudantes e pessoas com deficiência têm acesso gratuito ao transporte público municipal, com carteirinha feita na G10 Tur (no caso dos estudantes, encaminhada pela secretaria da escola).",
+   "desde": "2019-04-01",
+   "base_legal": null,
+   "fonte_url": "https://cordeiropolis.sp.gov.br/idosos-estudantes-e-pessoas-com-deficiencia-tem-direito-a-passe-livre-no-transporte-de-cordeiropolis/",
+   "confianca": "A",
+   "verificado_em": "2026-10-20"
+  },
+  {
+   "uf": "SP",
    "municipio": "Cotia",
    "cod_ibge": "3513009",
    "tipo": "tarifa_zero_temporal",
@@ -4929,6 +5049,18 @@
    "fonte_url": "https://www.guarulhos.sp.gov.br/diario-oficial/uploads/pdf/277381807.pdf",
    "confianca": "A",
    "verificado_em": "2026-10-17"
+  },
+  {
+   "uf": "SP",
+   "municipio": "Holambra",
+   "cod_ibge": "3519055",
+   "tipo": "tarifa_zero_universal",
+   "regra": "Circular Municipal gratuito em todas as linhas municipais, para moradores e visitantes, em qualquer dia e horário.",
+   "desde": "1994",
+   "base_legal": null,
+   "fonte_url": "https://www.holambra.sp.gov.br/noticia/administracao-e-recursos-humanos/2435/holambra-se-aproxima-de-3-decadas-de-transporte-gratuito-com-boa-avaliacao-de-usuarios.html",
+   "confianca": "A",
+   "verificado_em": "2026-10-20"
   },
   {
    "uf": "SP",
@@ -5156,6 +5288,18 @@
    "base_legal": null,
    "fonte_url": "https://www.benfacil.com/",
    "confianca": "B",
+   "verificado_em": "2026-10-20"
+  },
+  {
+   "uf": "SP",
+   "municipio": "Jarinu",
+   "cod_ibge": "3525201",
+   "tipo": "tarifa_zero_temporal",
+   "regra": "Tarifa Zero aos domingos: o transporte coletivo municipal é gratuito para todos os usuários aos domingos.",
+   "desde": "2026-08-09",
+   "base_legal": null,
+   "fonte_url": "https://www.jarinu.sp.gov.br/noticias/mobilidade-e-planejamento-viario/prefeitura-de-jarinu-amplia-acesso-ao-transporte-publico-com-tarifa-zero-aos-domingos-e-nova-linha-para-uvalandia",
+   "confianca": "A",
    "verificado_em": "2026-10-20"
   },
   {
@@ -5649,6 +5793,18 @@
    "fonte_url": "https://salto.sp.gov.br/transporte-publico-comeca-a-gratuidade-para-estudantes-de-ensino-medio-de-escolas-publicas-e-aos-domingos-e-feriados/",
    "confianca": "A",
    "verificado_em": "2026-10-18"
+  },
+  {
+   "uf": "SP",
+   "municipio": "Santa Isabel",
+   "cod_ibge": "3546801",
+   "tipo": "tarifa_reduzida",
+   "regra": "Programa Rota Livre: gratuidade total no transporte coletivo municipal para os moradores de Santa Isabel cadastrados no sistema; visitantes pagam a tarifa. Não é tarifa zero universal.",
+   "desde": "2023-12-01",
+   "base_legal": null,
+   "fonte_url": "https://diariodotransporte.com.br/2023/11/22/santa-isabel-sp-tera-tarifa-de-onibus-gratuita-a-partir-de-dezembro/",
+   "confianca": "B",
+   "verificado_em": "2026-10-20"
   },
   {
    "uf": "SP",
