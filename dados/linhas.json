@@ -1,6 +1,6 @@
 {
  "nome": "Base Nacional de Tarifas e Integrações de Operadoras do Transporte Público e Vale-Transporte: linhas",
- "versao": "2026.10.21.2",
+ "versao": "2026.10.21.3",
  "licenca": {
   "nome": "CC BY-NC 4.0",
   "url": "https://creativecommons.org/licenses/by-nc/4.0/deed.pt-br",
@@ -8,7 +8,7 @@
   "uso_interno": "A consulta para decisões da própria empresa, como orçar o vale-transporte, não pede licença.",
   "uso_comercial": "Uso comercial por empresas (em produto, revenda ou integração em sistema ou serviço pago) pede licença da Otimiza.pro: empresa@otimiza.pro."
  },
- "citar_como": "Fonte: Otimiza.pro, Base Nacional de Tarifas e Integrações de Operadoras do Transporte Público e Vale-Transporte, versão 2026.10.21.2. DOI: https://doi.org/10.5281/zenodo.23486211. https://github.com/OtimizaPro/tarifas_integracoestarifarias_transportepublico_brasileiro",
+ "citar_como": "Fonte: Otimiza.pro, Base Nacional de Tarifas e Integrações de Operadoras do Transporte Público e Vale-Transporte, versão 2026.10.21.3. DOI: https://doi.org/10.5281/zenodo.23486211. https://github.com/OtimizaPro/tarifas_integracoestarifarias_transportepublico_brasileiro",
  "linhas": [
   {
    "uf": "AC",
@@ -186708,8 +186708,8 @@
    "modo": "onibus",
    "servico": "municipal",
    "operadora_vt": "RIOCARD",
-   "tarifa_brl": 5,
-   "status": "conferido",
+   "tarifa_brl": null,
+   "status": "divergente",
    "fonte": "Base operacional da Otimiza.pro (DB ROTAS), consulta de 19/10/2026",
    "confianca": "A",
    "verificado_em": "2026-10-19"
@@ -186724,8 +186724,8 @@
    "modo": "onibus",
    "servico": "municipal",
    "operadora_vt": "RIOCARD",
-   "tarifa_brl": 5,
-   "status": "conferido",
+   "tarifa_brl": null,
+   "status": "divergente",
    "fonte": "Base operacional da Otimiza.pro (DB ROTAS), consulta de 19/10/2026",
    "confianca": "A",
    "verificado_em": "2026-10-19"
@@ -186740,8 +186740,8 @@
    "modo": "onibus",
    "servico": "municipal",
    "operadora_vt": "RIOCARD",
-   "tarifa_brl": 5.95,
-   "status": "conferido",
+   "tarifa_brl": null,
+   "status": "divergente",
    "fonte": "Base operacional da Otimiza.pro (DB ROTAS), consulta de 19/10/2026",
    "confianca": "A",
    "verificado_em": "2026-10-19"
@@ -186756,8 +186756,8 @@
    "modo": "onibus",
    "servico": "municipal",
    "operadora_vt": "RIOCARD",
-   "tarifa_brl": 5.95,
-   "status": "conferido",
+   "tarifa_brl": null,
+   "status": "divergente",
    "fonte": "Base operacional da Otimiza.pro (DB ROTAS), consulta de 19/10/2026",
    "confianca": "A",
    "verificado_em": "2026-10-19"
@@ -186772,8 +186772,8 @@
    "modo": "onibus",
    "servico": "municipal",
    "operadora_vt": "RIOCARD",
-   "tarifa_brl": 5.95,
-   "status": "conferido",
+   "tarifa_brl": null,
+   "status": "divergente",
    "fonte": "Base operacional da Otimiza.pro (DB ROTAS), consulta de 19/10/2026",
    "confianca": "A",
    "verificado_em": "2026-10-19"
@@ -186788,8 +186788,8 @@
    "modo": "onibus",
    "servico": "municipal",
    "operadora_vt": "RIOCARD",
-   "tarifa_brl": 5.95,
-   "status": "conferido",
+   "tarifa_brl": null,
+   "status": "divergente",
    "fonte": "Base operacional da Otimiza.pro (DB ROTAS), consulta de 19/10/2026",
    "confianca": "A",
    "verificado_em": "2026-10-19"
@@ -186804,8 +186804,8 @@
    "modo": "onibus",
    "servico": "municipal",
    "operadora_vt": "RIOCARD",
-   "tarifa_brl": 5.95,
-   "status": "conferido",
+   "tarifa_brl": null,
+   "status": "divergente",
    "fonte": "Base operacional da Otimiza.pro (DB ROTAS), consulta de 19/10/2026",
    "confianca": "A",
    "verificado_em": "2026-10-19"
@@ -186820,8 +186820,8 @@
    "modo": "onibus",
    "servico": "municipal",
    "operadora_vt": "RIOCARD",
-   "tarifa_brl": 5.95,
-   "status": "conferido",
+   "tarifa_brl": null,
+   "status": "divergente",
    "fonte": "Base operacional da Otimiza.pro (DB ROTAS), consulta de 19/10/2026",
    "confianca": "A",
    "verificado_em": "2026-10-19"

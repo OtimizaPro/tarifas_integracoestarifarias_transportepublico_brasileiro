@@ -11667,14 +11667,14 @@ RJ,Magé,3302502,municipal,TZ08,Andorinhas - Magé,onibus,municipal,Tarifa Zero,
 RJ,Magé,3302502,municipal,TZ09,Magé - Píer da Piedade,onibus,municipal,Tarifa Zero,,sem_tarifa,"Base operacional da Otimiza.pro (DB ROTAS), consulta de 19/10/2026",A,2026-10-19
 RJ,Magé,3302502,municipal,TZ13,Piabetá - Fragoso (via Maurimárcia / Pau Grande),onibus,municipal,Tarifa Zero,,sem_tarifa,"Base operacional da Otimiza.pro (DB ROTAS), consulta de 19/10/2026",A,2026-10-19
 RJ,Magé,3302502,municipal,TZ14,Piabetá - Ponte Preta (Circular),onibus,municipal,Tarifa Zero,,sem_tarifa,"Base operacional da Otimiza.pro (DB ROTAS), consulta de 19/10/2026",A,2026-10-19
-RJ,Nilópolis,3303203,municipal,001,Mirandela - Cabral (Via Fórum),onibus,municipal,RIOCARD,5,conferido,"Base operacional da Otimiza.pro (DB ROTAS), consulta de 19/10/2026",A,2026-10-19
-RJ,Nilópolis,3303203,municipal,002,Manoel Reis - Rodoviária (Via Parque do Gericinó),onibus,municipal,RIOCARD,5,conferido,"Base operacional da Otimiza.pro (DB ROTAS), consulta de 19/10/2026",A,2026-10-19
-RJ,Nilópolis,3303203,municipal,01,Soares Neiva - Rodoviária (Circular),onibus,municipal,RIOCARD,5.95,conferido,"Base operacional da Otimiza.pro (DB ROTAS), consulta de 19/10/2026",A,2026-10-19
-RJ,Nilópolis,3303203,municipal,02,Cabral - Paiol (Via 57ª Dp / Cemitério),onibus,municipal,RIOCARD,5.95,conferido,"Base operacional da Otimiza.pro (DB ROTAS), consulta de 19/10/2026",A,2026-10-19
-RJ,Nilópolis,3303203,municipal,03,Pedro Álvares Cabral - Novo Horizonte,onibus,municipal,RIOCARD,5.95,conferido,"Base operacional da Otimiza.pro (DB ROTAS), consulta de 19/10/2026",A,2026-10-19
-RJ,Nilópolis,3303203,municipal,04,Nova Cidade - Paiol (Via Olinda - Circular),onibus,municipal,RIOCARD,5.95,conferido,"Base operacional da Otimiza.pro (DB ROTAS), consulta de 19/10/2026",A,2026-10-19
-RJ,Nilópolis,3303203,municipal,06,Maria Braga - Cabral (Via Fórum - Circular),onibus,municipal,RIOCARD,5.95,conferido,"Base operacional da Otimiza.pro (DB ROTAS), consulta de 19/10/2026",A,2026-10-19
-RJ,Nilópolis,3303203,municipal,07,Paiol - Centro (Circular),onibus,municipal,RIOCARD,5.95,conferido,"Base operacional da Otimiza.pro (DB ROTAS), consulta de 19/10/2026",A,2026-10-19
+RJ,Nilópolis,3303203,municipal,001,Mirandela - Cabral (Via Fórum),onibus,municipal,RIOCARD,,divergente,"Base operacional da Otimiza.pro (DB ROTAS), consulta de 19/10/2026",A,2026-10-19
+RJ,Nilópolis,3303203,municipal,002,Manoel Reis - Rodoviária (Via Parque do Gericinó),onibus,municipal,RIOCARD,,divergente,"Base operacional da Otimiza.pro (DB ROTAS), consulta de 19/10/2026",A,2026-10-19
+RJ,Nilópolis,3303203,municipal,01,Soares Neiva - Rodoviária (Circular),onibus,municipal,RIOCARD,,divergente,"Base operacional da Otimiza.pro (DB ROTAS), consulta de 19/10/2026",A,2026-10-19
+RJ,Nilópolis,3303203,municipal,02,Cabral - Paiol (Via 57ª Dp / Cemitério),onibus,municipal,RIOCARD,,divergente,"Base operacional da Otimiza.pro (DB ROTAS), consulta de 19/10/2026",A,2026-10-19
+RJ,Nilópolis,3303203,municipal,03,Pedro Álvares Cabral - Novo Horizonte,onibus,municipal,RIOCARD,,divergente,"Base operacional da Otimiza.pro (DB ROTAS), consulta de 19/10/2026",A,2026-10-19
+RJ,Nilópolis,3303203,municipal,04,Nova Cidade - Paiol (Via Olinda - Circular),onibus,municipal,RIOCARD,,divergente,"Base operacional da Otimiza.pro (DB ROTAS), consulta de 19/10/2026",A,2026-10-19
+RJ,Nilópolis,3303203,municipal,06,Maria Braga - Cabral (Via Fórum - Circular),onibus,municipal,RIOCARD,,divergente,"Base operacional da Otimiza.pro (DB ROTAS), consulta de 19/10/2026",A,2026-10-19
+RJ,Nilópolis,3303203,municipal,07,Paiol - Centro (Circular),onibus,municipal,RIOCARD,,divergente,"Base operacional da Otimiza.pro (DB ROTAS), consulta de 19/10/2026",A,2026-10-19
 RJ,Niterói,3303302,municipal,03,Centro X Bairro de Fátima,onibus,municipal,RIOCARD,,divergente,"Base operacional da Otimiza.pro (DB ROTAS), consulta de 19/10/2026",A,2026-10-19
 RJ,Niterói,3303302,municipal,15,Ilha da Conceição - Centro,onibus,municipal,RIOCARD,5.6,conferido,"Base operacional da Otimiza.pro (DB ROTAS), consulta de 19/10/2026",A,2026-10-19
 RJ,Niterói,3303302,municipal,15,Ilha Conceição X Centro,onibus,municipal,RIOCARD,5.6,conferido,"Base operacional da Otimiza.pro (DB ROTAS), consulta de 19/10/2026",A,2026-10-19

@@ -1,8 +1,8 @@
 # Tarifas do transporte público por cidade (Otimiza.pro)
 
-Quanto custa o transporte público em 516 municípios brasileiros, segundo a Base Nacional de Tarifas e Integrações de VT da Otimiza.pro (versão 2026.10.21.2). Cada frase traz o valor, a fonte e a data em que a Otimiza.pro conferiu e, quando a fonte informa, o ato oficial e a data em que passou a valer. A fonte oficial de cada valor está indicada. Onde há dados de serviço e oferta, a ficha traz também linhas e passageiros, com a fonte e a data.
+Quanto custa o transporte público em 526 municípios brasileiros, segundo a Base Nacional de Tarifas e Integrações de VT da Otimiza.pro (versão 2026.10.21.3). Cada frase traz o valor, a fonte e a data em que a Otimiza.pro conferiu e, quando a fonte informa, o ato oficial e a data em que passou a valer. A fonte oficial de cada valor está indicada. Onde há dados de serviço e oferta, a ficha traz também linhas e passageiros, com a fonte e a data.
 
-Como citar: Fonte: Otimiza.pro, Base Nacional de Tarifas e Integrações de Operadoras do Transporte Público e Vale-Transporte, versão 2026.10.21.2. DOI: https://doi.org/10.5281/zenodo.23486211. https://github.com/OtimizaPro/tarifas_integracoestarifarias_transportepublico_brasileiro
+Como citar: Fonte: Otimiza.pro, Base Nacional de Tarifas e Integrações de Operadoras do Transporte Público e Vale-Transporte, versão 2026.10.21.3. DOI: https://doi.org/10.5281/zenodo.23486211. https://github.com/OtimizaPro/tarifas_integracoestarifarias_transportepublico_brasileiro
 
 ## AC
 
@@ -132,6 +132,14 @@ Em Camaçari (BA), a idade média da frota de ônibus era de 3 anos em 2019. Dad
 
 Fonte (imprensa): https://bahiaeconomica.com.br/2026/01/14/com-tarifa-mais-cara-salvador-fica-para-tras-enquanto-camacari-tem-frota-100-climatizada/
 
+### Candeias (BA)
+
+Em Candeias (BA), a passagem de ônibus custa de R$ 4,80 a R$ 5,10 (varia com o tipo de linha) desde 05/04/2026, conforme Decreto nº 015/2026; valor conferido em 21/10/2026 pela Base Nacional de Tarifas e Integrações de VT da Otimiza.pro.
+
+Página da cidade: https://otimizapro.com/tarifa/ba/candeias
+
+Fonte (página oficial): https://diof.io.org.br/api/diario-oficial/download/2026_04_026789001531
+
 ### Catu (BA)
 
 Em Catu (BA), a passagem de ônibus custa R$ 6,00, conforme Decreto nº 253/2026; valor conferido em 20/10/2026 pela Base Nacional de Tarifas e Integrações de VT da Otimiza.pro.
@@ -237,6 +245,26 @@ Em Luís Eduardo Magalhães (BA), a passagem de ônibus custa R$ 4,00, conforme 
 Página da cidade: https://otimizapro.com/tarifa/ba/luis-eduardo-magalhaes
 
 Fonte (página oficial): https://www.luiseduardomagalhaes.ba.gov.br/noticias/luis-eduardo-tera-esquema-especial-de-transporte-durante-o-aviva-lem/
+
+### Mata de São João (BA)
+
+Em Mata de São João (BA), o ônibus é gratuito (tarifa zero) desde 29/12/2023, conforme Lei nº 945/2023; valor conferido em 21/10/2026 pela Base Nacional de Tarifas e Integrações de VT da Otimiza.pro.
+
+Página da cidade: https://otimizapro.com/tarifa/ba/mata-de-sao-joao
+
+Fonte (página oficial): https://www.matadesaojoao.ba.gov.br/site/LeiMunicipal/99123
+
+Tarifa zero em Mata de São João: Programa Tarifa Zero: transporte coletivo intramunicipal gratuito para todos os usuários, nas linhas definidas pela Prefeitura (Lei nº 945/2023, arts. 1º e 4º), com operação concedida à J O S Transportes e Serviços Ltda (Concorrência Pública nº 24/2024). Em operação desde 29/12/2023; a Prefeitura confirmou o serviço em 13/02/2026 e em 10/04/2026.
+
+### Paulo Afonso (BA)
+
+Em Paulo Afonso (BA), a passagem de ônibus custa R$ 4,00, segundo a publicação oficial (Prefeitura Municipal de Paulo Afonso, notícia 'Tarifa de ônibus será reajustada a partir de sábado, 1º', no site oficial); valor conferido em 21/10/2026 pela Base Nacional de Tarifas e Integrações de VT da Otimiza.pro.
+
+Página da cidade: https://otimizapro.com/tarifa/ba/paulo-afonso
+
+Fonte (página oficial): https://pauloafonso.ba.gov.br/tarifa-de-onibus-sera-reajustada-a-partir-de-sabado-1o/
+
+Vale-transporte em Paulo Afonso: emitido por Atlântico Transportes Ltda. (CNPJ 08.380.889/0001-91); canal de compra da empresa: compra direta da operadora: órgãos públicos contratam com a Atlântico, por inexigibilidade, o fornecimento mensal de vale-transporte urbano em cartões eletrônicos e as recargas (CISRP, Contrato nº 010/2026; Prefeitura, Contrato nº 184/2023, prorrogado de 15/03/2026 a 15/03/2027).
 
 ### Porto Seguro (BA)
 
@@ -1274,6 +1302,16 @@ Vale-transporte em Nova Serrana: cartão Vale Transporte SETNOVA; emitido por Tr
 
 Tarifa zero em Nova Serrana: Gratuidade da tarifa para toda a população no transporte coletivo urbano aos domingos, feriados nacionais e feriados municipais.
 
+### Ouro Branco (MG)
+
+Em Ouro Branco (MG), o ônibus é gratuito (tarifa zero), conforme Lei nº 2.608/2022; valor conferido em 21/10/2026 pela Base Nacional de Tarifas e Integrações de VT da Otimiza.pro.
+
+Página da cidade: https://otimizapro.com/tarifa/mg/ouro-branco
+
+Fonte (página oficial): https://www.diariomunicipal.com.br/amm-mg/materia/684B546B
+
+Tarifa zero em Ouro Branco: Programa Municipal Tarifa Zero: o Município paga subsídio total do transporte coletivo urbano e rural à concessionária Turin Transportes Ltda., 'isentando os munícipes do pagamento das tarifas' (Quarto Termo Aditivo ao Contrato PMOB/002/2017); a Lei nº 2.608/2022 prevê subsídio integral ou parcial 'desonerando o preço da tarifa ao usuário final do sistema', e o Decreto nº 10.798/2023 tornou o programa permanente. Em fevereiro de 2026 o programa seguia em operação. Não se achou regra de cadastro, cartão ou cobrança para quem não mora na cidade.
+
 ### Ouro Preto (MG)
 
 Em Ouro Preto (MG), a passagem de ônibus custa R$ 2,00 desde 08/07/2025, segundo a operadora (Consórcio Rota Real, notícia no site da operadora); valor conferido em 20/10/2026 pela Base Nacional de Tarifas e Integrações de VT da Otimiza.pro.
@@ -1353,6 +1391,16 @@ Página da cidade: https://otimizapro.com/tarifa/mg/pocos-de-caldas
 Fonte (página oficial): https://pocosdecaldas.mg.gov.br/noticias/prefeitura-regulamenta-transporte-coletivo-fixa-tarifa-em-r-5-e-assegura-beneficios-sociais/
 
 Vale-transporte em Poços de Caldas: cartão eletrônico Amigo; emitido por Auto Omnibus Floramar Transportes SPE Ltda. (CNPJ 39.701.753/0001-60), concessionária do transporte coletivo de Poços de Caldas; canal de compra da empresa: página Vale Transporte do site da Floramar, que leva à compra de VT no TDMax Web Commerce (max00090.itstransdata.com/TDMaxWebCommerce/); boletos emitidos só pelo Banco 509 (Celcoin); atendimento presencial na Agência Amigo, na Estação Central.
+
+### Ponte Nova (MG)
+
+Em Ponte Nova (MG), a passagem de ônibus custa R$ 2,50 desde 01/12/2021, conforme Decreto nº 12.254/2021; valor conferido em 21/10/2026 pela Base Nacional de Tarifas e Integrações de VT da Otimiza.pro.
+
+Página da cidade: https://otimizapro.com/tarifa/mg/ponte-nova
+
+Fonte (página oficial): https://www.diariomunicipal.com.br/amm-mg/materia/FC3B8776
+
+Vale-transporte em Ponte Nova: cartão de vale-transporte da São Jorge Auto Ônibus; emitido por São Jorge Auto Ônibus Ltda. (São Jorge Autobus, CNPJ 23.805.088/0001-14), concessionária, que fornece os cartões e as recargas; canal de compra da empresa: recarga dos cartões pela internet, em sistema da concessionária, com boleto bancário para pagamento (requisitos da compra da Câmara Municipal em março de 2026).
 
 ### Pouso Alegre (MG)
 
@@ -1515,6 +1563,14 @@ Em 2021, o sistema de ônibus de Uberlândia (MG) levou 58 milhões de passageir
 Fonte (página oficial): https://docs.uberlandia.mg.gov.br/wp-content/uploads/2025/07/7152-A-1.pdf
 
 Vale-transporte em Uberlândia: cartão SIT Vale-Transporte, personalizado em nome do trabalhador; emitido por Ubertrans; canal de compra da empresa: WebSigom e HelpSit da Ubertrans: pedido com boleto (pagável um dia após a geração); vínculo do funcionário pelo HelpSit; liberação do crédito: 2 dias úteis após o pagamento do boleto; taxa na compra: 1ª via do cartão gratuita.
+
+### Unaí (MG)
+
+Em Unaí (MG), a passagem de ônibus custa R$ 3,10, segundo a publicação oficial (Prefeitura de Unaí, notícia 'PMU negocia ativação da quarta linha do transporte coletivo urbano', 05/10/2017); valor conferido em 21/10/2026 pela Base Nacional de Tarifas e Integrações de VT da Otimiza.pro.
+
+Página da cidade: https://otimizapro.com/tarifa/mg/unai
+
+Fonte (página oficial): https://www.prefeituraunai.mg.gov.br/pmu2/index.php/secretarias/noticias/39-gabinete-do-prefeito/991-pmu-consegue-ativar-a-quarta-linha-do-transporte-coletivo-urbano.html
 
 ### Varginha (MG)
 
@@ -2306,6 +2362,14 @@ Vale-transporte em Curitiba: cartão Transporte; emitido por URBS; canal de comp
 
 Integração em Curitiba: Rede Integrada: uma tarifa em 22 terminais e mais de 337 estações-tubo; integração temporal com cartão em pontos específicos
 
+### Dois Vizinhos (PR)
+
+Em Dois Vizinhos (PR), a passagem de ônibus custa R$ 5,00, conforme Decreto nº 21.891/2025; valor conferido em 21/10/2026 pela Base Nacional de Tarifas e Integrações de VT da Otimiza.pro.
+
+Página da cidade: https://otimizapro.com/tarifa/pr/dois-vizinhos
+
+Fonte (página oficial): https://doisvizinhos.pr.gov.br/uploads/5378/anexos/arquivo-41587-59bc4515af10ee1bd89637dc9fa3c0ee.pdf
+
 ### Fazenda Rio Grande (PR)
 
 Em Fazenda Rio Grande (PR), a passagem de ônibus custa de R$ 5,90 a R$ 6,13 (varia com o cartão ou o meio de pagamento) desde 23/02/2026, segundo a publicação oficial (AMEP, resumo das linhas metropolitanas de 16/02/2026); valor conferido em 17/10/2026 pela Base Nacional de Tarifas e Integrações de VT da Otimiza.pro.
@@ -2776,6 +2840,16 @@ Fonte (página oficial): https://www.eptmarica.rj.gov.br/index.php/noticias/item
 
 Tarifa zero em Maricá: Ônibus e vans municipais da EPT sem cobrança para qualquer passageiro
 
+### Nilópolis (RJ)
+
+Em Nilópolis (RJ), a passagem de ônibus custa R$ 5,50 desde 08/12/2024, conforme Decreto nº 5.294/2024; valor conferido em 21/10/2026 pela Base Nacional de Tarifas e Integrações de VT da Otimiza.pro.
+
+Página da cidade: https://otimizapro.com/tarifa/rj/nilopolis
+
+Fonte (página oficial): https://pmnilopolis.geosiap.net.br/pmnilopolis/websis/siapegov/legislativo/leis/lei_documento_anexo.php?id=1874&tipo=32
+
+Tarifa zero em Nilópolis: Suspensão da cobrança da tarifa pública nas 9 linhas municipais de ônibus (2 da Nilopolitana e 7 da Expresso São Francisco), das 06h às 20h, em 04/10/2026 (1º turno das eleições) e, se houver 2º turno, em 25/10/2026. Não vale nas linhas intermunicipais, que seguem o órgão estadual.
+
 ### Niterói (RJ)
 
 Em Niterói (RJ), a passagem de ônibus custa de R$ 4,45 a R$ 5,60 (varia com o cartão ou o meio de pagamento) desde 06/07/2025, segundo a publicação oficial (Prefeitura de Niterói); valor conferido em 17/10/2026 pela Base Nacional de Tarifas e Integrações de VT da Otimiza.pro.
@@ -2831,6 +2905,20 @@ Em 2021, o sistema de ônibus de Petrópolis (RJ) levou 41 milhões de passageir
 Fonte (operadora): https://setranspetro.com.br/noticias/saiba-como-sera-o-reajuste-da-tarifa-de-onibus-em-petropolis/
 
 Vale-transporte em Petrópolis: cartão Riocard Mais Vale-Transporte (Convencional e Empresarial); emitido por Riocard Mais; canal de compra da empresa: a recarga do cartão VT é feita pelo empregador, que faz a gestão do benefício (Setranspetro, 20/04/2020); o canal da Riocard Mais para empresas não foi conferido porque o site recusou o acesso automatizado em 2026-10-18.
+
+### Queimados (RJ)
+
+Em Queimados (RJ), a passagem de ônibus custa R$ 5,00 desde 08/02/2024, conforme Portaria nº 004/SEMUTTRAN/2024; valor conferido em 21/10/2026 pela Base Nacional de Tarifas e Integrações de VT da Otimiza.pro.
+
+Página da cidade: https://otimizapro.com/tarifa/rj/queimados
+
+Fonte (página oficial): https://transparencia.queimados.rj.gov.br/diario_oficial_get_anexo.php?codigo=280
+
+Vale-transporte em Queimados: cartão Riocard Mais Vale-Transporte (Personalizado Usuário, com o nome do trabalhador, ou Personalizado Empresa, com a razão social); emitido por Riocard Mais (bilhetagem eletrônica gerenciada pela Fetranspor); canal de compra da empresa: Só pelo Portal Riocard Mais (área Para Empresas, com login) ou pelo canal de vendas corporativas; a recarga é validada nos validadores, terminais de consulta ou no aplicativo; taxa na compra: Os termos de uso do site Para Empresas (abril de 2019) dizem que cartões e créditos se compram por 'links gratuitos' (item 2.1), mas os serviços 'Gestão + VT' e 'Facilita + VT' são 'links pagos', com valor informado na contratação e cobrado 'no pagamento do pedido' (itens 2.2 e 2.2.1); valor não publicado. Pela regra de 18/10, qualquer valor em qualquer canal conta. Há ainda cobrança pela desassociação extraordinária de cartões de empregados desligados (item 3.5). Consolidação (20/10): a compra simples de cartões e créditos é gratuita; os pacotes Gestão + VT e Facilita + VT são opcionais e pagos, e pacote opcional pago não é taxa na compra (decisão do Anderson de 19/10).; validade dos créditos: créditos de VT pagos antes de um reajuste valem pela tarifa anterior por 30 dias a contar da mudança, salvo casos extraordinários.
+
+Integração em Queimados: Bilhete Único Intermunicipal (BUI) no cartão Riocard Mais com CPF vinculado: trem + ônibus municipal, ou ônibus intermunicipal + ônibus municipal da Região Metropolitana, ou ônibus intermunicipal + metrô ou trem, por R$ 9,40 no total; cartões empresariais de VT não habilitam o BUI
+
+Tarifa zero em Queimados: Operação gratuita das linhas municipais de ônibus, pelas concessionárias Fazeni e Gardel, no dia das eleições de 2026 (04/10/2026) e, se houver segundo turno, em 25/10/2026, das 07h às 18h, 'totalmente gratuitas a todos os usuários'. Não vale nas linhas intermunicipais, que seguem o órgão estadual.
 
 ### Resende (RJ)
 
@@ -4425,6 +4513,18 @@ Fonte (página oficial): https://cotia.sp.gov.br/entenda-como-funciona-o-custeio
 Vale-transporte em Cotia: cartão de vale-transporte; emitido por Viação Raposo Tavares; validade dos créditos: créditos adquiridos antes do decreto continuam debitados a R$ 5,30 por viagem.
 
 Tarifa zero em Cotia: Tarifa Zero Inclusiva aos domingos em todas as linhas municipais, sem cadastro nem cartão específico; não vale nas linhas intermunicipais
+
+### Cruzeiro (SP)
+
+Em Cruzeiro (SP), a passagem de ônibus custa R$ 4,50, conforme Decreto nº 82/2026; valor conferido em 21/10/2026 pela Base Nacional de Tarifas e Integrações de VT da Otimiza.pro.
+
+Página da cidade: https://otimizapro.com/tarifa/sp/cruzeiro
+
+Fonte (página oficial): https://pmcruzeiro.geosiap.net.br/pmcruzeiro/websis/siapegov/legislativo/leis/lei_documento_anexo.php?id=5127&tipo=32
+
+Vale-transporte em Cruzeiro: emitido por Utile Urbano Ltda. (CNPJ 37.846.746/0001-20), concessionária do transporte coletivo urbano; canal de compra da empresa: Compra direta com a concessionária: o SAAE de Cruzeiro contratou por inexigibilidade o 'fornecimento de vale-transporte eletrônico individual', com recarga mensal e pagamento por ordem bancária (Contrato nº 05/2026, de 13/04/2026); taxa na compra: No contrato do SAAE, o valor total é exatamente 4.224 unidades a R$ 4,50 (R$ 19.008,00), sem taxa; as condições para empresas privadas não foram achadas.
+
+Tarifa zero em Cruzeiro: Gratuidade da tarifa pública para todos os usuários do transporte coletivo municipal (urbano e rural) aos sábados, domingos e feriados, com efeitos a partir de 01/05/2026; o Município cobre a diferença com subsídio à concessionária.
 
 ### Cubatão (SP)
 
