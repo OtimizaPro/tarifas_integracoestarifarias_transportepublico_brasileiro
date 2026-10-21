@@ -1,6 +1,6 @@
 {
  "nome": "Base Nacional de Tarifas e Integrações de Operadoras do Transporte Público e Vale-Transporte: sistemas_municipios",
- "versao": "2026.10.20.13",
+ "versao": "2026.10.20.14",
  "licenca": {
   "nome": "CC BY-NC 4.0",
   "url": "https://creativecommons.org/licenses/by-nc/4.0/deed.pt-br",
@@ -8,7 +8,7 @@
   "uso_interno": "A consulta para decisões da própria empresa, como orçar o vale-transporte, não pede licença.",
   "uso_comercial": "Uso comercial por empresas (em produto, revenda ou integração em sistema ou serviço pago) pede licença da Otimiza.pro: empresa@otimiza.pro."
  },
- "citar_como": "Fonte: Otimiza.pro, Base Nacional de Tarifas e Integrações de Operadoras do Transporte Público e Vale-Transporte, versão 2026.10.20.13. DOI: https://doi.org/10.5281/zenodo.23486211. https://github.com/OtimizaPro/tarifas_integracoestarifarias_transportepublico_brasileiro",
+ "citar_como": "Fonte: Otimiza.pro, Base Nacional de Tarifas e Integrações de Operadoras do Transporte Público e Vale-Transporte, versão 2026.10.20.14. DOI: https://doi.org/10.5281/zenodo.23486211. https://github.com/OtimizaPro/tarifas_integracoestarifarias_transportepublico_brasileiro",
  "linhas": [
   {
    "sistema": "RBTrans (COM Card)",
@@ -83,6 +83,14 @@
    "cod_ibge": "2704302"
   },
   {
+   "sistema": "sem transporte coletivo municipal: não se achou ônibus nem van municipal com tarifa pública (a lei municipal prevê transporte alternativo, sem tarifa publicada)",
+   "abrangencia": "municipal",
+   "municipio_sede": "Coruripe",
+   "uf": "AL",
+   "municipio_atendido": "Coruripe",
+   "cod_ibge": "2702306"
+  },
+  {
    "sistema": "IMMU (Sinetram)",
    "abrangencia": "municipal",
    "municipio_sede": "Manaus",
@@ -105,6 +113,14 @@
    "uf": "AM",
    "municipio_atendido": "Parintins",
    "cod_ibge": "1303403"
+  },
+  {
+   "sistema": "sem transporte coletivo municipal: não se achou ônibus nem van municipal com tarifa pública; o deslocamento urbano é feito sobretudo por mototáxi",
+   "abrangencia": "municipal",
+   "municipio_sede": "Tefé",
+   "uf": "AM",
+   "municipio_atendido": "Tefé",
+   "cod_ibge": "1304203"
   },
   {
    "sistema": "CTMac",
@@ -379,12 +395,60 @@
    "cod_ibge": "2927408"
   },
   {
+   "sistema": "sem transporte coletivo municipal",
+   "abrangencia": "municipal",
+   "municipio_sede": "Casa Nova",
+   "uf": "BA",
+   "municipio_atendido": "Casa Nova",
+   "cod_ibge": "2907202"
+  },
+  {
+   "sistema": "sem transporte coletivo municipal",
+   "abrangencia": "municipal",
+   "municipio_sede": "Itaberaba",
+   "uf": "BA",
+   "municipio_atendido": "Itaberaba",
+   "cod_ibge": "2914703"
+  },
+  {
+   "sistema": "sem transporte coletivo municipal",
+   "abrangencia": "municipal",
+   "municipio_sede": "Santo Estêvão",
+   "uf": "BA",
+   "municipio_atendido": "Santo Estêvão",
+   "cod_ibge": "2928802"
+  },
+  {
    "sistema": "sem transporte coletivo municipal: a Prefeitura de Guanambi abriu em 2026 a concorrência para implantar o serviço público de transporte coletivo de passageiros por ônibus, por concessão de 15 anos (Concorrência Eletrônica nº 010/2026, abertura em 13/10/2026), e a operação só começa até seis meses depois da assinatura do contrato",
    "abrangencia": "municipal",
    "municipio_sede": "Guanambi",
    "uf": "BA",
    "municipio_atendido": "Guanambi",
    "cod_ibge": "2911709"
+  },
+  {
+   "sistema": "sem transporte coletivo municipal: não se achou ônibus nem van municipal com tarifa pública",
+   "abrangencia": "municipal",
+   "municipio_sede": "Irecê",
+   "uf": "BA",
+   "municipio_atendido": "Irecê",
+   "cod_ibge": "2914604"
+  },
+  {
+   "sistema": "transporte alternativo municipal por vans de cooperativas, permitido e fiscalizado pela Superintendência Municipal de Trânsito e Transporte (SMTT) e pela Secretaria de Mobilidade Urbana e Transporte; sem tarifa pública achada",
+   "abrangencia": "municipal",
+   "municipio_sede": "Cruz das Almas",
+   "uf": "BA",
+   "municipio_atendido": "Cruz das Almas",
+   "cod_ibge": "2909802"
+  },
+  {
+   "sistema": "Autarquia Municipal de Trânsito (AMT) de Morada Nova: serviço de transporte público alternativo por permissão a profissionais autônomos (Lei nº 1.589/2012, alterada pelas Leis nº 2.086/2022 e 2.299/2025), com motocicletas, automóveis, camionetas, micro-ônibus e vans",
+   "abrangencia": "municipal",
+   "municipio_sede": "Morada Nova",
+   "uf": "CE",
+   "municipio_atendido": "Morada Nova",
+   "cod_ibge": "2308708"
   },
   {
    "sistema": "Autarquia de Trânsito e Transporte Rodoviário e Urbano do Município de Quixeramobim (AMTQ)",
@@ -409,6 +473,14 @@
    "uf": "CE",
    "municipio_atendido": "Aquiraz",
    "cod_ibge": "2301000"
+  },
+  {
+   "sistema": "Prefeitura Municipal de Itaitinga (Secretaria de Segurança e Trânsito e Departamento Municipal de Trânsito, Demutran): Transporte Regular Urbano de Itaitinga (TRUI), ônibus municipal gratuito; sem cartão de bilhetagem municipal achado",
+   "abrangencia": "municipal",
+   "municipio_sede": "Itaitinga",
+   "uf": "CE",
+   "municipio_atendido": "Itaitinga",
+   "cod_ibge": "2306256"
   },
   {
    "sistema": "Prefeitura Municipal do Aracati: transporte coletivo intramunicipal de passageiros por veículos credenciados (Lei Municipal nº 445/2012), com tarifa máxima por linha fixada em decreto; sem cartão de bilhetagem achado",
@@ -529,6 +601,38 @@
    "uf": "CE",
    "municipio_atendido": "São Gonçalo do Amarante",
    "cod_ibge": "2312403"
+  },
+  {
+   "sistema": "sem transporte coletivo municipal",
+   "abrangencia": "municipal",
+   "municipio_sede": "Limoeiro do Norte",
+   "uf": "CE",
+   "municipio_atendido": "Limoeiro do Norte",
+   "cod_ibge": "2307601"
+  },
+  {
+   "sistema": "sem transporte coletivo municipal",
+   "abrangencia": "municipal",
+   "municipio_sede": "Quixadá",
+   "uf": "CE",
+   "municipio_atendido": "Quixadá",
+   "cod_ibge": "2311306"
+  },
+  {
+   "sistema": "sem transporte coletivo municipal",
+   "abrangencia": "municipal",
+   "municipio_sede": "Russas",
+   "uf": "CE",
+   "municipio_atendido": "Russas",
+   "cod_ibge": "2311801"
+  },
+  {
+   "sistema": "sem transporte coletivo municipal com tarifa pública achado; Autarquia de Segurança, Trânsito e Transporte de Tianguá (ASTT)",
+   "abrangencia": "municipal",
+   "municipio_sede": "Tianguá",
+   "uf": "CE",
+   "municipio_atendido": "Tianguá",
+   "cod_ibge": "2313401"
   },
   {
    "sistema": "Metrô-DF",
@@ -691,6 +795,22 @@
    "cod_ibge": "5221403"
   },
   {
+   "sistema": "Prefeitura Municipal de Cristalina, Transporte Público Municipal gratuito (Tarifa Zero), sem cartão",
+   "abrangencia": "municipal",
+   "municipio_sede": "Cristalina",
+   "uf": "GO",
+   "municipio_atendido": "Cristalina",
+   "cod_ibge": "5206206"
+  },
+  {
+   "sistema": "Prefeitura Municipal de Quirinópolis, transporte coletivo gratuito (tarifa zero) operado pela Prefeitura desde 20/09/2022, sem cartão",
+   "abrangencia": "municipal",
+   "municipio_sede": "Quirinópolis",
+   "uf": "GO",
+   "municipio_atendido": "Quirinópolis",
+   "cod_ibge": "5218508"
+  },
+  {
    "sistema": "Prefeitura de Caldas Novas, pela Superintendência Municipal de Segurança e Mobilidade (SSM); operação atual do transporte coletivo urbano não identificada. A concessionária BT-21 abandonou a concessão em 27/10/2016 (antes dela, Alex Tur, Viação Paraúna e Enlace também tiveram a concessão suspensa), e a Prefeitura lançou a Concorrência Pública nº 002/2019 (tipo menor tarifa) em janeiro de 2020, sem resultado achado",
    "abrangencia": "municipal",
    "municipio_sede": "Caldas Novas",
@@ -777,6 +897,14 @@
    "uf": "GO",
    "municipio_atendido": "Mineiros",
    "cod_ibge": "5213103"
+  },
+  {
+   "sistema": "sem transporte coletivo municipal achado: nada no site da Prefeitura nem nas matérias da Câmara de 2025 e 2026 sobre ônibus urbano; os pontos de ônibus pedidos pelos vereadores em 2026 são para o transporte escolar",
+   "abrangencia": "municipal",
+   "municipio_sede": "Goiatuba",
+   "uf": "GO",
+   "municipio_atendido": "Goiatuba",
+   "cod_ibge": "5209101"
   },
   {
    "sistema": "transporte coletivo municipal declarado na MUNIC 2020",
@@ -881,6 +1009,22 @@
    "uf": "MA",
    "municipio_atendido": "Imperatriz",
    "cod_ibge": "2105302"
+  },
+  {
+   "sistema": "sem transporte coletivo municipal",
+   "abrangencia": "municipal",
+   "municipio_sede": "Codó",
+   "uf": "MA",
+   "municipio_atendido": "Codó",
+   "cod_ibge": "2103307"
+  },
+  {
+   "sistema": "sem transporte coletivo municipal",
+   "abrangencia": "municipal",
+   "municipio_sede": "Santa Inês",
+   "uf": "MA",
+   "municipio_atendido": "Santa Inês",
+   "cod_ibge": "2109908"
   },
   {
    "sistema": "sem transporte coletivo municipal: a implantação do transporte público urbano era só uma proposta em 2019 (monografia da UFMA), a MUNIC 2020 registra que não há transporte local, e não se achou ônibus municipal depois disso",
@@ -1579,6 +1723,14 @@
    "cod_ibge": "3118601"
   },
   {
+   "sistema": "sem transporte coletivo municipal próprio: atendida pelo sistema metropolitano da Região Metropolitana de Belo Horizonte (SEINFRA-MG e DER-MG), com linhas alimentadoras metropolitanas dentro do município operadas pelo Consórcio Metropolitano de Transporte; cartão Ótimo (Consórcio Ótimo de Bilhetagem Eletrônica)",
+   "abrangencia": "municipal",
+   "municipio_sede": "Sarzedo",
+   "uf": "MG",
+   "municipio_atendido": "Sarzedo",
+   "cod_ibge": "3165537"
+  },
+  {
    "sistema": "Agereg (Consórcio Guaicurus)",
    "abrangencia": "municipal",
    "municipio_sede": "Campo Grande",
@@ -1657,6 +1809,22 @@
    "uf": "MS",
    "municipio_atendido": "Nova Andradina",
    "cod_ibge": "5006200"
+  },
+  {
+   "sistema": "sem transporte coletivo municipal achado: os ônibus citados pela Câmara em 2025 e 2026 são os escolares e o transporte de trabalhadores fornecido por empresa, sem linha pública com tarifa",
+   "abrangencia": "municipal",
+   "municipio_sede": "Sidrolândia",
+   "uf": "MS",
+   "municipio_atendido": "Sidrolândia",
+   "cod_ibge": "5007901"
+  },
+  {
+   "sistema": "sem transporte coletivo municipal: não se achou ônibus nem van municipal com tarifa pública",
+   "abrangencia": "municipal",
+   "municipio_sede": "Rio Brilhante",
+   "uf": "MS",
+   "municipio_atendido": "Rio Brilhante",
+   "cod_ibge": "5007208"
   },
   {
    "sistema": "transporte coletivo municipal declarado na MUNIC 2020 e citado pela Prefeitura em 08/07/2025",
@@ -1769,6 +1937,30 @@
    "uf": "MT",
    "municipio_atendido": "Alta Floresta",
    "cod_ibge": "5100250"
+  },
+  {
+   "sistema": "sem transporte coletivo municipal: a Prefeitura declarou em 2026 que o município não dispõe de sistema estruturado de transporte coletivo urbano; a concessão licitada em 2026 fracassou",
+   "abrangencia": "municipal",
+   "municipio_sede": "Cáceres",
+   "uf": "MT",
+   "municipio_atendido": "Cáceres",
+   "cod_ibge": "5102504"
+  },
+  {
+   "sistema": "sem transporte coletivo municipal: não se achou ônibus nem van municipal com tarifa pública",
+   "abrangencia": "municipal",
+   "municipio_sede": "Pontes e Lacerda",
+   "uf": "MT",
+   "municipio_atendido": "Pontes e Lacerda",
+   "cod_ibge": "5106752"
+  },
+  {
+   "sistema": "sem transporte coletivo municipal: não se achou ônibus nem van municipal com tarifa pública",
+   "abrangencia": "municipal",
+   "municipio_sede": "Sapezal",
+   "uf": "MT",
+   "municipio_atendido": "Sapezal",
+   "cod_ibge": "5107875"
   },
   {
    "sistema": "transporte coletivo municipal declarado na MUNIC 2020",
@@ -1953,6 +2145,14 @@
    "uf": "PA",
    "municipio_atendido": "Santa Izabel do Pará",
    "cod_ibge": "1506500"
+  },
+  {
+   "sistema": "sem transporte coletivo municipal",
+   "abrangencia": "municipal",
+   "municipio_sede": "Breves",
+   "uf": "PA",
+   "municipio_atendido": "Breves",
+   "cod_ibge": "1501808"
   },
   {
    "sistema": "STTRANS (Superintendência de Trânsito e Transportes de Patos); ônibus urbano da Transbraz (licitação de 2016); cartão Siga",
@@ -2715,6 +2915,14 @@
    "cod_ibge": "4104006"
   },
   {
+   "sistema": "sem transporte coletivo municipal: a Câmara indicou em 2024 a retomada do transporte coletivo, e em 2025 os vereadores ainda pediam estudo de transporte público para o interior do município",
+   "abrangencia": "municipal",
+   "municipio_sede": "Matelândia",
+   "uf": "PR",
+   "municipio_atendido": "Matelândia",
+   "cod_ibge": "4115606"
+  },
+  {
    "sistema": "sem transporte coletivo municipal; atendida pelo sistema metropolitano da Região Metropolitana de Curitiba, gerido pela AMEP (Agência de Assuntos Metropolitanos do Paraná): 27 linhas metropolitanas que atendem Pinhais, entre alimentadoras, troncais e diretas a partir do Terminal Pinhais, operadas principalmente pela Expresso Azul; cartão Metrocard (Associação Metrocard)",
    "abrangencia": "municipal",
    "municipio_sede": "Pinhais",
@@ -3217,6 +3425,14 @@
    "uf": "RO",
    "municipio_atendido": "Porto Velho",
    "cod_ibge": "1100205"
+  },
+  {
+   "sistema": "sem transporte coletivo municipal",
+   "abrangencia": "municipal",
+   "municipio_sede": "Jaru",
+   "uf": "RO",
+   "municipio_atendido": "Jaru",
+   "cod_ibge": "1100114"
   },
   {
    "sistema": "sem transporte coletivo municipal: em 2019 a Prefeitura abriu só um procedimento de manifestação de interesse para estudar a implantação do transporte coletivo urbano, a MUNIC 2020 registra que não há transporte local, e não se achou ônibus municipal depois disso",
@@ -4169,6 +4385,14 @@
    "uf": "SC",
    "municipio_atendido": "Tijucas",
    "cod_ibge": "4218004"
+  },
+  {
+   "sistema": "sem transporte coletivo municipal achado: nenhuma concessão, permissão ou tarifa de ônibus urbano nas publicações da Prefeitura no Diário Oficial dos Municípios de Santa Catarina (DOM/SC)",
+   "abrangencia": "municipal",
+   "municipio_sede": "Braço do Norte",
+   "uf": "SC",
+   "municipio_atendido": "Braço do Norte",
+   "cod_ibge": "4202800"
   },
   {
    "sistema": null,
@@ -5691,6 +5915,14 @@
    "cod_ibge": "3541604"
   },
   {
+   "sistema": "sem transporte coletivo municipal: requerimentos aprovados pela Câmara em 2025 pedem à Prefeitura a implantação de ônibus urbano do tipo circular e falam da ausência de transporte coletivo na cidade",
+   "abrangencia": "municipal",
+   "municipio_sede": "Paraguaçu Paulista",
+   "uf": "SP",
+   "municipio_atendido": "Paraguaçu Paulista",
+   "cod_ibge": "3535507"
+  },
+  {
    "sistema": "Agência Municipal de Trânsito e Transportes (AMTT); serviço de ônibus urbano suspenso desde 10/03/2025",
    "abrangencia": "municipal",
    "municipio_sede": "Gurupi",
@@ -5721,6 +5953,14 @@
    "uf": "TO",
    "municipio_atendido": "Paraíso do Tocantins",
    "cod_ibge": "1716109"
+  },
+  {
+   "sistema": "Prefeitura de Porto Nacional (Secretaria Municipal de Gestão e Governança, com regulação da ARPN), transporte coletivo urbano concedido no Distrito de Luzimangues, com tarifa zero e cartão de acesso da bilhetagem eletrônica",
+   "abrangencia": "municipal",
+   "municipio_sede": "Porto Nacional",
+   "uf": "TO",
+   "municipio_atendido": "Porto Nacional",
+   "cod_ibge": "1718204"
   }
  ]
 }

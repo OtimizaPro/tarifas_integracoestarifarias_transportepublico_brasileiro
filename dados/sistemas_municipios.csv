@@ -8,9 +8,11 @@ DMTT (Vamu),municipal,Maceió,AL,Maceió,2704302
 SMTT de Arapiraca (Superintendência Municipal de Transportes e Trânsito); tarifa deliberada pelo Conselho Municipal de Transportes e Trânsito (CMTT),municipal,Arapiraca,AL,Arapiraca,2700300
 "SMTT de Rio Largo (Superintendência Municipal de Transportes e Trânsito); linhas alimentadoras municipais do programa 'Bora de Busão', operadas pelo Consórcio Metropolitano de Transportes, com bilhetagem eletrônica e conexão ao SIMM de Maceió na Forene",municipal,Rio Largo,AL,Rio Largo,2707701
 VLT CBTU Maceió,municipal,Maceió,AL,Maceió,2704302
+"sem transporte coletivo municipal: não se achou ônibus nem van municipal com tarifa pública (a lei municipal prevê transporte alternativo, sem tarifa publicada)",municipal,Coruripe,AL,Coruripe,2702306
 IMMU (Sinetram),municipal,Manaus,AM,Manaus,1302603
 Sem sistema de ônibus urbano municipal confirmado,municipal,Itacoatiara,AM,Itacoatiara,1301902
 Sem sistema de ônibus urbano municipal confirmado,municipal,Parintins,AM,Parintins,1303403
+sem transporte coletivo municipal: não se achou ônibus nem van municipal com tarifa pública; o deslocamento urbano é feito sobretudo por mototáxi,municipal,Tefé,AM,Tefé,1304203
 CTMac,municipal,Macapá,AP,Macapá,1600303
 Sem sistema de ônibus urbano municipal documentado; deslocamento pelas linhas intermunicipais Santana-Macapá,municipal,Santana,AP,Santana,1600600
 "AMTT (Autarquia Municipal de Trânsito e Transporte e Mobilidade Urbana de Juazeiro); operação emergencial da Atlântico Transportes desde 15/09/2025, com cartão recarregável",municipal,Juazeiro,BA,Juazeiro,2918407
@@ -45,10 +47,17 @@ Prefeitura de Teixeira de Freitas; ônibus urbano da Viação Santa Clara (permi
 "STT (Superintendência de Trânsito e Transporte) de Camaçari; sistema municipal em operação emergencial desde jun/2025 (45 veículos, 44 linhas), distinto das linhas metropolitanas da AGERBA",municipal,Camaçari,BA,Camaçari,2905701
 "Sem sistema municipal próprio: as linhas internas são do Sistema Metropolitano regulado pela AGERBA (Expresso Luxo Vitória, Avanço, Expresso Metropolitano e Atlântico), com integração ao metrô no Terminal Aeroporto",municipal,Lauro de Freitas,BA,Lauro de Freitas,2919207
 Semob (Integra),municipal,Salvador,BA,Salvador,2927408
+sem transporte coletivo municipal,municipal,Casa Nova,BA,Casa Nova,2907202
+sem transporte coletivo municipal,municipal,Itaberaba,BA,Itaberaba,2914703
+sem transporte coletivo municipal,municipal,Santo Estêvão,BA,Santo Estêvão,2928802
 "sem transporte coletivo municipal: a Prefeitura de Guanambi abriu em 2026 a concorrência para implantar o serviço público de transporte coletivo de passageiros por ônibus, por concessão de 15 anos (Concorrência Eletrônica nº 010/2026, abertura em 13/10/2026), e a operação só começa até seis meses depois da assinatura do contrato",municipal,Guanambi,BA,Guanambi,2911709
+sem transporte coletivo municipal: não se achou ônibus nem van municipal com tarifa pública,municipal,Irecê,BA,Irecê,2914604
+"transporte alternativo municipal por vans de cooperativas, permitido e fiscalizado pela Superintendência Municipal de Trânsito e Transporte (SMTT) e pela Secretaria de Mobilidade Urbana e Transporte; sem tarifa pública achada",municipal,Cruz das Almas,BA,Cruz das Almas,2909802
+"Autarquia Municipal de Trânsito (AMT) de Morada Nova: serviço de transporte público alternativo por permissão a profissionais autônomos (Lei nº 1.589/2012, alterada pelas Leis nº 2.086/2022 e 2.299/2025), com motocicletas, automóveis, camionetas, micro-ônibus e vans",municipal,Morada Nova,CE,Morada Nova,2308708
 Autarquia de Trânsito e Transporte Rodoviário e Urbano do Município de Quixeramobim (AMTQ),municipal,Quixeramobim,CE,Quixeramobim,2311405
 Etufor (Bilhete Único),municipal,Fortaleza,CE,Fortaleza,2304400
 "Prefeitura Municipal de Aquiraz: Sistema Gratuito de Transporte Urbano de Aquiraz (TGA), criado pela Lei Municipal nº 1.279/2018; transporte alternativo por topiques, com tarifa fixada por decreto e gestão do Departamento Municipal de Trânsito e Transporte Urbano (Demutran); sem cartão de bilhetagem municipal achado",municipal,Aquiraz,CE,Aquiraz,2301000
+"Prefeitura Municipal de Itaitinga (Secretaria de Segurança e Trânsito e Departamento Municipal de Trânsito, Demutran): Transporte Regular Urbano de Itaitinga (TRUI), ônibus municipal gratuito; sem cartão de bilhetagem municipal achado",municipal,Itaitinga,CE,Itaitinga,2306256
 "Prefeitura Municipal do Aracati: transporte coletivo intramunicipal de passageiros por veículos credenciados (Lei Municipal nº 445/2012), com tarifa máxima por linha fixada em decreto; sem cartão de bilhetagem achado",municipal,Aracati,CE,Aracati,2301109
 "Prefeitura de Caucaia, Secretaria do Patrimônio e Transporte (SPT); Programa Passe Livre (antigo Bora de Graça); concessionária Vitória",municipal,Caucaia,CE,Caucaia,2303709
 "Prefeitura de Eusébio (Autarquia Municipal de Trânsito, AMT): TRUE, Transporte Regular Urbano de Eusébio, gratuito; linhas metropolitanas da Região Metropolitana de Fortaleza, com vale-transporte eletrônico (VTE) metropolitano do Sindiônibus",municipal,Eusébio,CE,Eusébio,2304285
@@ -64,6 +73,10 @@ Sem linhas urbanas de Crato na tabela da Viametro Cariri; o município é atendi
 "atendida pelas linhas metropolitanas Juazeiro do Norte x Barbalha da Viametro Cariri (Região Metropolitana do Cariri, regulação estadual), com o Bilhete Único Metropolitano Cariri e o vale-transporte eletrônico (VTE)",municipal,Barbalha,CE,Barbalha,2301901
 "linhas intermunicipais metropolitanas da Região Metropolitana de Fortaleza (Governo do Ceará), com o Terminal Rodoviário de Horizonte e o VTE Metropolitano do Sindiônibus",municipal,Horizonte,CE,Horizonte,2305233
 "linhas intermunicipais metropolitanas da Região Metropolitana de Fortaleza (Governo do Ceará), com o VTE Metropolitano do Sindiônibus",municipal,São Gonçalo do Amarante,CE,São Gonçalo do Amarante,2312403
+sem transporte coletivo municipal,municipal,Limoeiro do Norte,CE,Limoeiro do Norte,2307601
+sem transporte coletivo municipal,municipal,Quixadá,CE,Quixadá,2311306
+sem transporte coletivo municipal,municipal,Russas,CE,Russas,2311801
+"sem transporte coletivo municipal com tarifa pública achado; Autarquia de Segurança, Trânsito e Transporte de Tianguá (ASTT)",municipal,Tianguá,CE,Tianguá,2313401
 Metrô-DF,municipal,Brasília,DF,Brasília,5300108
 Semob-DF (BRB Mobilidade),municipal,Brasília,DF,Brasília,5300108
 "Prefeitura de Aracruz (Secretaria de Mobilidade Urbana, SEMURB; Câmara de Compensação Tarifária e Câmara Técnica Tarifária); transporte coletivo municipal concedido, com serviço urbano e distrital e subsídio municipal (Lei nº 4.453/2022); Sistema de Bilhetagem Eletrônica (Lei nº 4.017/2015) gerido pelo consórcio das concessionárias municipais; nome da concessionária não confirmado nas páginas abertas",municipal,Aracruz,ES,Aracruz,3200607
@@ -84,6 +97,8 @@ CMTC (Rede Metropolitana),metropolitano,Goiânia,GO,Goianira,5208806
 CMTC (Rede Metropolitana),metropolitano,Goiânia,GO,Goiânia,5208707
 CMTC (Rede Metropolitana),metropolitano,Goiânia,GO,Senador Canedo,5220454
 CMTC (Rede Metropolitana),metropolitano,Goiânia,GO,Trindade,5221403
+"Prefeitura Municipal de Cristalina, Transporte Público Municipal gratuito (Tarifa Zero), sem cartão",municipal,Cristalina,GO,Cristalina,5206206
+"Prefeitura Municipal de Quirinópolis, transporte coletivo gratuito (tarifa zero) operado pela Prefeitura desde 20/09/2022, sem cartão",municipal,Quirinópolis,GO,Quirinópolis,5218508
 "Prefeitura de Caldas Novas, pela Superintendência Municipal de Segurança e Mobilidade (SSM); operação atual do transporte coletivo urbano não identificada. A concessionária BT-21 abandonou a concessão em 27/10/2016 (antes dela, Alex Tur, Viação Paraúna e Enlace também tiveram a concessão suspensa), e a Prefeitura lançou a Concorrência Pública nº 002/2019 (tipo menor tarifa) em janeiro de 2020, sem resultado achado",municipal,Caldas Novas,GO,Caldas Novas,5204508
 "Prefeitura de Catalão, pela Secretaria (Superintendência) Municipal de Trânsito de Catalão (SMTC); concessionária Transporte Coletivo Duarte Ltda. (Transduarte), Concorrência Pública nº 002/2019 e Contrato nº 25/2019; linhas urbanas 1 a 8 e linhas rurais. Lei Municipal nº 3.966/2022 autoriza subsídio tarifário",municipal,Catalão,GO,Catalão,5205109
 "Prefeitura de Formosa (Secretaria Municipal de Infraestrutura, Superintendência de Transporte); transporte coletivo municipal gratuito, assumido pela Prefeitura em 2021, com fundo específico e comitê gestor criados por lei",municipal,Formosa,GO,Formosa,5208004
@@ -95,6 +110,7 @@ Prefeitura de Itumbiara (página oficial de Transporte Público); operadora não
 Prefeitura de Águas Lindas de Goiás: Secretaria Municipal de Trânsito e Mobilidade (SEMOB) e Companhia de Desenvolvimento de Águas Lindas (CODEAL); operadora municipal UTB desde 17/09/2025; as linhas para o DF são semiurbanas interestaduais reguladas pela ANTT,municipal,Águas Lindas de Goiás,GO,Águas Lindas de Goiás,5200258
 Programa Tarifa Zero da Prefeitura de Luziânia (Secretaria Municipal de Trânsito e Transportes); acesso com carteirinha do programa,municipal,Luziânia,GO,Luziânia,5212501
 ,municipal,Mineiros,GO,Mineiros,5213103
+sem transporte coletivo municipal achado: nada no site da Prefeitura nem nas matérias da Câmara de 2025 e 2026 sobre ônibus urbano; os pontos de ônibus pedidos pelos vereadores em 2026 são para o transporte escolar,municipal,Goiatuba,GO,Goiatuba,5209101
 transporte coletivo municipal declarado na MUNIC 2020,municipal,Inhumas,GO,Inhumas,5210000
 transporte coletivo municipal declarado na MUNIC 2020,municipal,Itaberaí,GO,Itaberaí,5210406
 ,municipal,Morrinhos,GO,Morrinhos,5213806
@@ -108,6 +124,8 @@ Sem sistema municipal próprio localizado; atendido pelo transporte semiurbano d
 "Sem sistema municipal próprio localizado; atendido pelo transporte semiurbano da Grande Ilha (ônibus intermunicipais regulados pela MOB, Governo do Maranhão) e pelo transporte alternativo intermunicipal (vans e micro-ônibus do SPTA, também regulados pela MOB). O Bilhete Único de São Luís não inclui as linhas de Ribamar.",municipal,São José de Ribamar,MA,São José de Ribamar,2111201
 "Transporte coletivo de Imperatriz operado pela Rio Anil Transporte e Logística (RATRANS), regulado pela Agência Estadual de Mobilidade Urbana (MOB/MA), com complementação tarifária do Governo do Maranhão; Cartão Urbano Imperatriz",municipal,Imperatriz,MA,Imperatriz,2105302
 "Transporte coletivo urbano de Imperatriz concedido à Rio Anil Transporte e Logística (Ratrans) pela Concorrência Pública nº 001/2020 (contrato de set/2021, vigente até set/2041), com complementação tarifária do Governo do Maranhão; o Expresso Metropolitano da Zanchettur atende João Lisboa e Senador La Rocque",municipal,Imperatriz,MA,Imperatriz,2105302
+sem transporte coletivo municipal,municipal,Codó,MA,Codó,2103307
+sem transporte coletivo municipal,municipal,Santa Inês,MA,Santa Inês,2109908
 "sem transporte coletivo municipal: a implantação do transporte público urbano era só uma proposta em 2019 (monografia da UFMA), a MUNIC 2020 registra que não há transporte local, e não se achou ônibus municipal depois disso",municipal,Balsas,MA,Balsas,2101400
 "Ibiritrans (Prefeitura de Ibirité), ônibus municipais Tarifa Zero; operadora Sidon (concessão 2020 a 2040); linhas metropolitanas à parte",municipal,Ibirité,MG,Ibirité,3129806
 Metrô BH,municipal,Belo Horizonte,MG,Belo Horizonte,3106200
@@ -195,6 +213,7 @@ SUMOB (BHBUS),municipal,Belo Horizonte,MG,Belo Horizonte,3106200
 "Secretaria Municipal de Trânsito, Transportes e Mobilidade Urbana (Settrans) de Araguari; concessão do transporte coletivo municipal pelo Contrato Administrativo nº 117/2017 (Concorrência Pública nº 003/2017)",municipal,Araguari,MG,Araguari,3103504
 "Settran (Secretaria Municipal de Trânsito e Transportes), Sistema Integrado de Transporte (SIT); bilhetagem e VT pela Ubertrans (cartão SIT)",municipal,Uberlândia,MG,Uberlândia,3170206
 TransCon (Autarquia Municipal de Trânsito e Transportes de Contagem); bilhetagem pelo Cartão Ótimo (Consórcio Ótimo); Sistema Integrado de Mobilidade (SIM) em implantação,municipal,Contagem,MG,Contagem,3118601
+"sem transporte coletivo municipal próprio: atendida pelo sistema metropolitano da Região Metropolitana de Belo Horizonte (SEINFRA-MG e DER-MG), com linhas alimentadoras metropolitanas dentro do município operadas pelo Consórcio Metropolitano de Transporte; cartão Ótimo (Consórcio Ótimo de Bilhetagem Eletrônica)",municipal,Sarzedo,MG,Sarzedo,3165537
 Agereg (Consórcio Guaicurus),municipal,Campo Grande,MS,Campo Grande,5002704
 Agência Municipal de Transporte e Trânsito (Agetran); concessionária Viação Dourados (contrato de 2014 prorrogado em 2025 por cinco anos),municipal,Dourados,MS,Dourados,5003702
 Agência Municipal de Trânsito e Transporte (Agetrat); operadora Viação Cidade Corumbá (VCC),municipal,Corumbá,MS,Corumbá,5003207
@@ -205,6 +224,8 @@ Prefeitura de Ponta Porã; operadora Medianeira; nova licitação do transporte 
 "Secretaria Municipal de Infraestrutura, Transporte e Trânsito (SEINTRA) e Deptran; concessionária Viação Cidade Corumbá (concessão de 15 anos, resultado em 05/11/2024, operação desde a segunda quinzena de janeiro de 2025; antes, Rabôni Transportes)",municipal,Três Lagoas,MS,Três Lagoas,5008305
 sem transporte coletivo municipal,municipal,Naviraí,MS,Naviraí,5005707
 sem transporte coletivo municipal,municipal,Nova Andradina,MS,Nova Andradina,5006200
+"sem transporte coletivo municipal achado: os ônibus citados pela Câmara em 2025 e 2026 são os escolares e o transporte de trabalhadores fornecido por empresa, sem linha pública com tarifa",municipal,Sidrolândia,MS,Sidrolândia,5007901
+sem transporte coletivo municipal: não se achou ônibus nem van municipal com tarifa pública,municipal,Rio Brilhante,MS,Rio Brilhante,5007208
 transporte coletivo municipal declarado na MUNIC 2020 e citado pela Prefeitura em 08/07/2025,municipal,Aparecida do Taboado,MS,Aparecida do Taboado,5001003
 "Autarquia Municipal de Transporte Coletivo de Rondonópolis (AMTC), criada pela Lei Municipal nº 11.813/2021",municipal,Rondonópolis,MT,Rondonópolis,5107602
 "Prefeitura Municipal de Campo Novo do Parecis; transporte coletivo municipal em operação não confirmado (em 2017 havia linhas de ônibus chamadas de 'circular' até o Campus Parecis do IFMT, em concessão municipal)",municipal,Campo Novo do Parecis,MT,Campo Novo do Parecis,5102637
@@ -219,6 +240,9 @@ Prefeitura de Sinop; operadora Viação Rosa (novo sistema entregue em 17/04/202
 "Secretaria Municipal de Serviços Públicos e Mobilidade Urbana (SMSPMU); concessionária União Transporte e Turismo Ltda (Concorrência nº 03/2021), com anuência do Consórcio Metropolitano de Transportes",municipal,Várzea Grande,MT,Várzea Grande,5108402
 Semob Cuiabá,municipal,Cuiabá,MT,Cuiabá,5103403
 sem transporte coletivo municipal,municipal,Alta Floresta,MT,Alta Floresta,5100250
+sem transporte coletivo municipal: a Prefeitura declarou em 2026 que o município não dispõe de sistema estruturado de transporte coletivo urbano; a concessão licitada em 2026 fracassou,municipal,Cáceres,MT,Cáceres,5102504
+sem transporte coletivo municipal: não se achou ônibus nem van municipal com tarifa pública,municipal,Pontes e Lacerda,MT,Pontes e Lacerda,5106752
+sem transporte coletivo municipal: não se achou ônibus nem van municipal com tarifa pública,municipal,Sapezal,MT,Sapezal,5107875
 transporte coletivo municipal declarado na MUNIC 2020,municipal,Campo Verde,MT,Campo Verde,5102678
 "Prefeitura Municipal de Altamira, Secretaria Municipal de Segurança Pública, Mobilidade Urbana e de Articulação da Cidadania (Segmuc) e Departamento Municipal de Transporte Público (DMTP), com ônibus da própria Prefeitura; sem cartão de bilhetagem achado",municipal,Altamira,PA,Altamira,1500602
 Prefeitura Municipal de Bragança,municipal,Bragança,PA,Bragança,1501709
@@ -242,6 +266,7 @@ Segbel (Passe Fácil),municipal,Belém,PA,Belém,1501402
 "Sistema Integrado de Transporte Metropolitano da Região Metropolitana de Belém (BRT Metropolitano), regulado pela Arcon, com bilhetagem Pra Já (Autopass)",municipal,Benevides,PA,Benevides,1501501
 "Sistema Integrado de Transporte Público da Região Metropolitana de Belém (SIT/RMB, BRT Metropolitano), regulado pela Arcon-PA, com o cartão Pra Já (bilhetagem da Autopass)",municipal,Marituba,PA,Marituba,1504422
 "Sistema Integrado de Transporte Público da Região Metropolitana de Belém (SIT/RMB, BRT Metropolitano), regulado pela Arcon-PA, com o cartão Pra Já (bilhetagem da Autopass)",municipal,Santa Izabel do Pará,PA,Santa Izabel do Pará,1506500
+sem transporte coletivo municipal,municipal,Breves,PA,Breves,1501808
 STTRANS (Superintendência de Trânsito e Transportes de Patos); ônibus urbano da Transbraz (licitação de 2016); cartão Siga,municipal,Patos,PB,Patos,2510808
 Sem sistema municipal próprio localizado; linhas urbanas metropolitanas da Região Metropolitana de João Pessoa autorizadas pelo DER-PB (Conselho Executivo),municipal,Santa Rita,PB,Santa Rita,2513703
 "Sem ônibus municipal próprio achado; atendida pelas linhas intermunicipais de característica urbana João Pessoa x Bayeux, reguladas pelo DER-PB e operadas pelas empresas do Sintur-JP, com a bilhetagem NuBus JP; trem urbano da CBTU",municipal,Bayeux,PB,Bayeux,2501807
@@ -337,6 +362,7 @@ URBS (RIT),municipal,Curitiba,PR,Curitiba,4106902
 "sem transporte coletivo municipal próprio achado; atendida pelo sistema metropolitano da Região Metropolitana de Curitiba, gerido pela AMEP (Agência de Assuntos Metropolitanos do Paraná, antiga Comec), com linhas troncais, alimentadoras, circulares e diretas, operadas principalmente pela Viação Tamandaré e pela Viação do Sul; cartão Metrocard (Associação Metrocard)",municipal,Almirante Tamandaré,PR,Almirante Tamandaré,4100400
 "sem transporte coletivo municipal próprio achado; atendida pelo sistema metropolitano integrado da Região Metropolitana de Curitiba, gerido pela AMEP (Agência de Assuntos Metropolitanos do Paraná, antiga Comec), com linhas troncais, alimentadoras e intercidades que atendem Piraquara, operadas principalmente pela operadora que a tabela da AMEP chama de 'Piraquara' e pela Expresso Azul; cartão Metrocard (Associação Metrocard)",municipal,Piraquara,PR,Piraquara,4119509
 "sem transporte coletivo municipal próprio achado; o transporte dentro do município e até Curitiba é feito pelo sistema metropolitano da Região Metropolitana de Curitiba, gerido pela AMEP (Agência de Assuntos Metropolitanos do Paraná), com linhas alimentadoras e troncais operadas pela Viação Castelo Branco; cartão Metrocard (Associação Metrocard)",municipal,Campina Grande do Sul,PR,Campina Grande do Sul,4104006
+"sem transporte coletivo municipal: a Câmara indicou em 2024 a retomada do transporte coletivo, e em 2025 os vereadores ainda pediam estudo de transporte público para o interior do município",municipal,Matelândia,PR,Matelândia,4115606
 "sem transporte coletivo municipal; atendida pelo sistema metropolitano da Região Metropolitana de Curitiba, gerido pela AMEP (Agência de Assuntos Metropolitanos do Paraná): 27 linhas metropolitanas que atendem Pinhais, entre alimentadoras, troncais e diretas a partir do Terminal Pinhais, operadas principalmente pela Expresso Azul; cartão Metrocard (Associação Metrocard)",municipal,Pinhais,PR,Pinhais,4119152
 Bilhete Único Intermunicipal,municipal,Rio de Janeiro,RJ,Rio de Janeiro,3304557
 "CPTrans (Companhia Petropolitana de Trânsito e Transportes); operadoras Cidade Real, Cidade das Hortênsias e Turp (sob intervenção total do Município desde o Decreto nº 521, de 17/09/2026), representadas pelo Setranspetro; cartão Riocard Mais",municipal,Petrópolis,RJ,Petrópolis,3303906
@@ -400,6 +426,7 @@ Prefeitura Municipal de Rolim de Moura,municipal,Rolim de Moura,RO,Rolim de Mour
 "Prefeitura de Cacoal, Secretaria Municipal de Transporte e Trânsito, com prestação direta do transporte coletivo urbano pelo Município (Programa Tarifa Zero, Lei nº 5.149/PMC/2023); sem cobrança de tarifa do usuário",municipal,Cacoal,RO,Cacoal,1100049
 Secretaria Municipal de Trânsito (Semtran); operadora Urban Express Vilhena; Tarifa Zero com cadastro e cartão de embarque,municipal,Vilhena,RO,Vilhena,1100304
 Semtran (COM Card),municipal,Porto Velho,RO,Porto Velho,1100205
+sem transporte coletivo municipal,municipal,Jaru,RO,Jaru,1100114
 "sem transporte coletivo municipal: em 2019 a Prefeitura abriu só um procedimento de manifestação de interesse para estudar a implantação do transporte coletivo urbano, a MUNIC 2020 registra que não há transporte local, e não se achou ônibus municipal depois disso",municipal,Ariquemes,RO,Ariquemes,1100023
 Prefeitura,municipal,Boa Vista,RR,Boa Vista,1400100
 Prefeitura (Boa Vista Card),municipal,Boa Vista,RR,Boa Vista,1400100
@@ -519,6 +546,7 @@ Prefeitura de São José; concessionárias Empresa Biguaçu e Jotur; tarifa unif
 "Prefeitura de Xanxerê; transporte coletivo urbano operado em caráter emergencial pela Sete Locação e Transportes Ltda. desde julho de 2025 (Contrato nº 0167/2025, renovado pelo Contrato nº 0169/2026, de 02/07/2026, por 12 meses), depois que a concessionária Auto Viação Xanxerê Ltda. interrompeu o serviço",municipal,Xanxerê,SC,Xanxerê,4219507
 "Sistema de Transporte Público de Passageiros do Município de São Lourenço do Oeste (STPP/SLO, Lei nº 2.048/2012), com órgão gestor municipal",municipal,São Lourenço do Oeste,SC,São Lourenço do Oeste,4216909
 sem transporte coletivo municipal,municipal,Tijucas,SC,Tijucas,4218004
+"sem transporte coletivo municipal achado: nenhuma concessão, permissão ou tarifa de ônibus urbano nas publicações da Prefeitura no Diário Oficial dos Municípios de Santa Catarina (DOM/SC)",municipal,Braço do Norte,SC,Braço do Norte,4202800
 ,municipal,Xaxim,SC,Xaxim,4219705
 "Consórcio de Transporte Público Coletivo Intermunicipal de Caráter Urbano da Região Metropolitana de Aracaju (CTM), que reúne Aracaju, São Cristóvão, Barra dos Coqueiros e Nossa Senhora do Socorro; bilhetagem AracajuCard, cartão Mais Aracaju",municipal,São Cristóvão,SE,São Cristóvão,2806701
 "DTTU (Departamento de Trânsito e Transportes Urbanos), Prefeitura de Lagarto",municipal,Lagarto,SE,Lagarto,2803500
@@ -709,7 +737,9 @@ Unidade de Transportes e Sistema Viário (Utransv) da Prefeitura de Americana; c
 não identificado (nenhum serviço municipal de ônibus urbano achado nas páginas oficiais abertas),municipal,Guaíra,SP,Guaíra,3517406
 sem transporte coletivo municipal,municipal,Andradina,SP,Andradina,3502101
 "sem transporte coletivo municipal urbano, segundo o Plano de Mobilidade Urbana de Promissão (2020); há linhas da zona rural ao centro e linhas até cidades vizinhas, sem tarifa achada",municipal,Promissão,SP,Promissão,3541604
+sem transporte coletivo municipal: requerimentos aprovados pela Câmara em 2025 pedem à Prefeitura a implantação de ônibus urbano do tipo circular e falam da ausência de transporte coletivo na cidade,municipal,Paraguaçu Paulista,SP,Paraguaçu Paulista,3535507
 Agência Municipal de Trânsito e Transportes (AMTT); serviço de ônibus urbano suspenso desde 10/03/2025,municipal,Gurupi,TO,Gurupi,1709500
 "Araguaína Transportes S.A. (concessionária, antes Viação Passaredo); Cartão BEM (Bilhete Eletrônico Municipal)",municipal,Araguaína,TO,Araguaína,1702109
 Prefeitura (Sou),municipal,Palmas,TO,Palmas,1721000
 "Prefeitura Municipal de Paraíso do Tocantins (Secretaria de Infraestrutura, Serviços Públicos e Implementos Agrícolas): ônibus do transporte público municipal operados pela LLV Transportes desde junho de 2022",municipal,Paraíso do Tocantins,TO,Paraíso do Tocantins,1716109
+"Prefeitura de Porto Nacional (Secretaria Municipal de Gestão e Governança, com regulação da ARPN), transporte coletivo urbano concedido no Distrito de Luzimangues, com tarifa zero e cartão de acesso da bilhetagem eletrônica",municipal,Porto Nacional,TO,Porto Nacional,1718204

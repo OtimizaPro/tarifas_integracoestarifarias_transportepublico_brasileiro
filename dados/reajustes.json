@@ -1,6 +1,6 @@
 {
  "nome": "Base Nacional de Tarifas e Integrações de Operadoras do Transporte Público e Vale-Transporte: reajustes",
- "versao": "2026.10.20.13",
+ "versao": "2026.10.20.14",
  "licenca": {
   "nome": "CC BY-NC 4.0",
   "url": "https://creativecommons.org/licenses/by-nc/4.0/deed.pt-br",
@@ -8,7 +8,7 @@
   "uso_interno": "A consulta para decisões da própria empresa, como orçar o vale-transporte, não pede licença.",
   "uso_comercial": "Uso comercial por empresas (em produto, revenda ou integração em sistema ou serviço pago) pede licença da Otimiza.pro: empresa@otimiza.pro."
  },
- "citar_como": "Fonte: Otimiza.pro, Base Nacional de Tarifas e Integrações de Operadoras do Transporte Público e Vale-Transporte, versão 2026.10.20.13. DOI: https://doi.org/10.5281/zenodo.23486211. https://github.com/OtimizaPro/tarifas_integracoestarifarias_transportepublico_brasileiro",
+ "citar_como": "Fonte: Otimiza.pro, Base Nacional de Tarifas e Integrações de Operadoras do Transporte Público e Vale-Transporte, versão 2026.10.20.14. DOI: https://doi.org/10.5281/zenodo.23486211. https://github.com/OtimizaPro/tarifas_integracoestarifarias_transportepublico_brasileiro",
  "linhas": [
   {
    "uf": "SC",
@@ -4376,6 +4376,25 @@
    "vigencia_inicio": "2026-01-11",
    "ato_oficial": "Portaria SEMOBI nº 003-S, de 09/01/2026, art. 1º, §1º (DIOES, edição extra nº 26.643), com base na Resolução CGTRAN/GV nº 001/2026, art. 2º",
    "fonte_url": "https://ioes.dio.es.gov.br/portal/edicoes/download/10814",
+   "fonte_tipo": "oficial",
+   "confianca": "A",
+   "verificado_em": "2026-10-20"
+  },
+  {
+   "uf": "MG",
+   "municipio": "Sarzedo",
+   "cod_ibge": "3165537",
+   "sistema": "sem transporte coletivo municipal próprio: atendida pelo sistema metropolitano da Região Metropolitana de Belo Horizonte (SEINFRA-MG e DER-MG), com linhas alimentadoras metropolitanas dentro do município operadas pelo Consórcio Metropolitano de Transporte; cartão Ótimo (Consórcio Ótimo de Bilhetagem Eletrônica)",
+   "modo": "onibus",
+   "servico": "metropolitano (linhas alimentadoras do DER-MG com município Sarzedo, dentro da cidade)",
+   "perfil": "comum",
+   "meio_pagamento": null,
+   "valor_brl": 6.1,
+   "valor_anterior_brl": null,
+   "variacao_pct": null,
+   "vigencia_inicio": "2026-01-09",
+   "ato_oficial": "Resolução SEINFRA nº 63, de 29/12/2025 (Diário do Executivo de Minas Gerais de 30/12/2025)",
+   "fonte_url": "http://www.consultas.der.mg.gov.br/grgx/sgtm/consulta_linha.xhtml",
    "fonte_tipo": "oficial",
    "confianca": "A",
    "verificado_em": "2026-10-20"

@@ -1,8 +1,8 @@
 # Tarifas do transporte público por cidade (Otimiza.pro)
 
-Quanto custa o transporte público em 454 municípios brasileiros, segundo a Base Nacional de Tarifas e Integrações de VT da Otimiza.pro (versão 2026.10.20.13). Cada frase traz o valor, a fonte e a data em que a Otimiza.pro conferiu e, quando a fonte informa, o ato oficial e a data em que passou a valer. A fonte oficial de cada valor está indicada. Onde há dados de serviço e oferta, a ficha traz também linhas e passageiros, com a fonte e a data.
+Quanto custa o transporte público em 459 municípios brasileiros, segundo a Base Nacional de Tarifas e Integrações de VT da Otimiza.pro (versão 2026.10.20.14). Cada frase traz o valor, a fonte e a data em que a Otimiza.pro conferiu e, quando a fonte informa, o ato oficial e a data em que passou a valer. A fonte oficial de cada valor está indicada. Onde há dados de serviço e oferta, a ficha traz também linhas e passageiros, com a fonte e a data.
 
-Como citar: Fonte: Otimiza.pro, Base Nacional de Tarifas e Integrações de Operadoras do Transporte Público e Vale-Transporte, versão 2026.10.20.13. DOI: https://doi.org/10.5281/zenodo.23486211. https://github.com/OtimizaPro/tarifas_integracoestarifarias_transportepublico_brasileiro
+Como citar: Fonte: Otimiza.pro, Base Nacional de Tarifas e Integrações de Operadoras do Transporte Público e Vale-Transporte, versão 2026.10.20.14. DOI: https://doi.org/10.5281/zenodo.23486211. https://github.com/OtimizaPro/tarifas_integracoestarifarias_transportepublico_brasileiro
 
 ## AC
 
@@ -328,6 +328,18 @@ Integração em Fortaleza: Bilhete Único Fortaleza: quantas viagens de ônibus 
 
 Tarifa zero em Fortaleza: Ônibus gratuitos para todos das 6h às 18h nos domingos de eleição (04/10/2026 e eventual 2º turno em 25/10/2026); fora dessa faixa, Tarifa Social
 
+### Itaitinga (CE)
+
+Em Itaitinga (CE), o ônibus é gratuito (tarifa zero) desde 01/2025, conforme Lei Municipal nº 675/2021; valor conferido em 20/10/2026 pela Base Nacional de Tarifas e Integrações de VT da Otimiza.pro.
+
+Página da cidade: https://otimizapro.com/tarifa/ce/itaitinga
+
+Fonte (página oficial): https://www.itaitinga.ce.gov.br/informa.php?id=545
+
+Vale-transporte em Itaitinga: cartão Vale-Transporte Eletrônico (VTE) Metropolitano; emitido por Sindiônibus (Sindicato das Empresas de Transporte de Passageiros do Estado do Ceará); canal de compra da empresa: portal VTE Fortaleza (www.vtefortaleza.com.br) e postos de atendimento da região Metropolitano, entre eles a sede do Sindiônibus em Fortaleza, de segunda a sexta, das 8h às 16h45; taxa na compra: não citada no portal.
+
+Tarifa zero em Itaitinga: Ônibus municipal gratuito do Transporte Regular Urbano de Itaitinga (TRUI), operado pela Prefeitura. A Lei nº 675/2021 destina o transporte gratuito aos munícipes e servidores municipais com cadastro prévio na Prefeitura; a notícia de 06/02/2025 fala em tarifa zero para a população.
+
 ### Juazeiro do Norte (CE)
 
 Em Juazeiro do Norte (CE), a passagem de ônibus custa R$ 3,00 desde 03/2022, conforme Decreto municipal publicado em 18/03/2022; valor conferido em 17/10/2026 pela Base Nacional de Tarifas e Integrações de VT da Otimiza.pro.
@@ -538,6 +550,16 @@ Vale-transporte em Aparecida de Goiânia: cartão Bilhete Único Empresa; emitid
 
 Integração em Aparecida de Goiânia: uma tarifa e até 4 integrações em 2h30, sem passar por terminal
 
+### Cristalina (GO)
+
+Em Cristalina (GO), o ônibus é gratuito (tarifa zero), segundo a publicação oficial (Prefeitura Municipal de Cristalina, notícia 'Transporte público de Cristalina', de 05/09/2025); valor conferido em 20/10/2026 pela Base Nacional de Tarifas e Integrações de VT da Otimiza.pro.
+
+Página da cidade: https://otimizapro.com/tarifa/go/cristalina
+
+Fonte (página oficial): https://cristalina.go.gov.br/transporte-publico-de-cristalina/
+
+Tarifa zero em Cristalina: Transporte Público Municipal gratuito para todos, nos ônibus da Prefeitura; sem cartão nem cadastro
+
 ### Formosa (GO)
 
 Em Formosa (GO), o ônibus é gratuito (tarifa zero) desde 2021, segundo a imprensa (Idec, Instituto de Defesa de Consumidores, matéria de 10/07/2023, atualizada em 12/12/2023); valor conferido em 20/10/2026 pela Base Nacional de Tarifas e Integrações de VT da Otimiza.pro.
@@ -605,6 +627,16 @@ Fonte (página oficial): https://www.luziania.go.gov.br/programa-tarifa-zero-no-
 Integração em Luziânia: Sem cobrança de tarifa (tarifa zero)
 
 Tarifa zero em Luziânia: Transporte público municipal gratuito para usuários cadastrados com carteirinha do programa (maiores de 6 anos, com documento pessoal; menores acompanhados dos responsáveis)
+
+### Quirinópolis (GO)
+
+Em Quirinópolis (GO), o ônibus é gratuito (tarifa zero) desde 20/09/2022, segundo a publicação oficial (Prefeitura Municipal de Quirinópolis, notícia de 26/03/2025 e página 'Transporte Coletivo' do site da Prefeitura); valor conferido em 20/10/2026 pela Base Nacional de Tarifas e Integrações de VT da Otimiza.pro.
+
+Página da cidade: https://otimizapro.com/tarifa/go/quirinopolis
+
+Fonte (página oficial): https://quirinopolis.go.gov.br/transporte-coletivo-gratuito-amplia-cobertura-em-quirinopolis/
+
+Tarifa zero em Quirinópolis: Transporte coletivo municipal gratuito para toda a população, operado pela Prefeitura, de segunda a sexta-feira; sem cartão nem cadastro
 
 ### Rio Verde (GO)
 
@@ -1245,6 +1277,16 @@ Em São Sebastião do Paraíso (MG), a passagem de ônibus custa R$ 3,45, segund
 Página da cidade: https://otimizapro.com/tarifa/mg/sao-sebastiao-do-paraiso
 
 Fonte (página oficial): https://www.ssparaiso.mg.gov.br/onibus_urbano
+
+### Sarzedo (MG)
+
+Em Sarzedo (MG), a passagem de ônibus custa R$ 6,10 desde 09/01/2026, conforme Resolução SEINFRA nº 63/2025; valor conferido em 20/10/2026 pela Base Nacional de Tarifas e Integrações de VT da Otimiza.pro.
+
+Página da cidade: https://otimizapro.com/tarifa/mg/sarzedo
+
+Fonte (página oficial): http://www.consultas.der.mg.gov.br/grgx/sgtm/consulta_linha.xhtml
+
+Vale-transporte em Sarzedo: cartão Ótimo Vale-Transporte; emitido por Consórcio Ótimo de Bilhetagem Eletrônica; canal de compra da empresa: Portal Ótimo (otimoonline.com.br): a empresa assina o contrato de vale-transporte carga a bordo, faz o cadastro com os documentos e compra os créditos pelo portal; os cartões são retirados na loja Ótimo em Belo Horizonte ou enviados pelos Correios; liberação do crédito: carga a bordo embarcada nos veículos em até 1 dia útil após a compensação bancária do pagamento (cláusula 5.4.1 do contrato); taxa na compra: 1% sobre o valor total do pedido de créditos, com mínimo de R$ 0,45 por cartão a carregar, cobrado pelo serviço de carga a bordo no Portal Ótimo (cláusula 6.2 do contrato de vale-transporte carga a bordo do Consórcio Ótimo). Mesmo registro da rodada 14 (Sabará)..
 
 ### Sete Lagoas (MG)
 
@@ -5261,3 +5303,13 @@ Vale-transporte em Palmas: cartão VT Sou; emitido por Sancetur (Sou Palmas); ca
 Integração em Palmas: prevista para os cartões comum, VT e escolar (Decreto 2.698/2025, art. 6)
 
 Tarifa zero em Palmas: sábados, domingos e feriados com tarifa zero
+
+### Porto Nacional (TO)
+
+Em Porto Nacional (TO), o ônibus é gratuito (tarifa zero) desde 01/02/2024, conforme Decreto nº 39/2024; valor conferido em 20/10/2026 pela Base Nacional de Tarifas e Integrações de VT da Otimiza.pro.
+
+Página da cidade: https://otimizapro.com/tarifa/to/porto-nacional
+
+Fonte (página oficial): https://diariooficial.portonacional.to.gov.br/edicao/674/html#DOC13002
+
+Tarifa zero em Porto Nacional: Tarifa zero no transporte público coletivo municipal, nos dias de semana, finais de semana e feriados, com embarque pelo cartão de acesso da bilhetagem eletrônica
