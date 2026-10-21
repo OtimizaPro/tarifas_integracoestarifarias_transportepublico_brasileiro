@@ -1,7 +1,7 @@
 {
   "name": "tarifas-transporte-publico-brasil",
   "title": "Base Nacional de Tarifas e Integrações de Operadoras do Transporte Público e Vale-Transporte",
-  "version": "2026.10.20.17",
+  "version": "2026.10.21",
   "homepage": "https://github.com/OtimizaPro/tarifas_integracoestarifarias_transportepublico_brasileiro",
   "licenses": [
     {
@@ -754,6 +754,49 @@
           },
           {
             "name": "verificado_em",
+            "type": "string"
+          }
+        ]
+      }
+    },
+    {
+      "name": "munic_2020_onibus",
+      "path": "dados/munic_2020_onibus.csv",
+      "format": "csv",
+      "encoding": "utf-8",
+      "description": "Respostas das prefeituras à MUNIC 2020 do IBGE sobre ônibus: se há ônibus municipal (MTRA19), se há ônibus intermunicipal (MTRA23) e se o intermunicipal também atende deslocamentos dentro do município (MTRA231)",
+      "schema": {
+        "fields": [
+          {
+            "name": "uf",
+            "type": "string"
+          },
+          {
+            "name": "municipio",
+            "type": "string"
+          },
+          {
+            "name": "cod_ibge",
+            "type": "string"
+          },
+          {
+            "name": "onibus_intramunicipal",
+            "type": "string"
+          },
+          {
+            "name": "onibus_intermunicipal",
+            "type": "string"
+          },
+          {
+            "name": "intermunicipal_atende_dentro_do_municipio",
+            "type": "string"
+          },
+          {
+            "name": "fonte",
+            "type": "string"
+          },
+          {
+            "name": "fonte_url",
             "type": "string"
           }
         ]
