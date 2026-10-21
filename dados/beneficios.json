@@ -1,6 +1,6 @@
 {
  "nome": "Base Nacional de Tarifas e Integrações de Operadoras do Transporte Público e Vale-Transporte: beneficios",
- "versao": "2026.10.20.12",
+ "versao": "2026.10.20.13",
  "licenca": {
   "nome": "CC BY-NC 4.0",
   "url": "https://creativecommons.org/licenses/by-nc/4.0/deed.pt-br",
@@ -8,7 +8,7 @@
   "uso_interno": "A consulta para decisões da própria empresa, como orçar o vale-transporte, não pede licença.",
   "uso_comercial": "Uso comercial por empresas (em produto, revenda ou integração em sistema ou serviço pago) pede licença da Otimiza.pro: empresa@otimiza.pro."
  },
- "citar_como": "Fonte: Otimiza.pro, Base Nacional de Tarifas e Integrações de Operadoras do Transporte Público e Vale-Transporte, versão 2026.10.20.12. DOI: https://doi.org/10.5281/zenodo.23486211. https://github.com/OtimizaPro/tarifas_integracoestarifarias_transportepublico_brasileiro",
+ "citar_como": "Fonte: Otimiza.pro, Base Nacional de Tarifas e Integrações de Operadoras do Transporte Público e Vale-Transporte, versão 2026.10.20.13. DOI: https://doi.org/10.5281/zenodo.23486211. https://github.com/OtimizaPro/tarifas_integracoestarifarias_transportepublico_brasileiro",
  "linhas": [
   {
    "uf": "AL",
@@ -129,6 +129,30 @@
    "fonte_url": "https://www.bnews.com.br/noticias/politica/cidade-baiana-recebera-sistema-emergencial-de-transporte-publico-veja-qual.html",
    "confianca": "B",
    "verificado_em": "2026-10-17"
+  },
+  {
+   "uf": "BA",
+   "municipio": "Catu",
+   "cod_ibge": "2907509",
+   "tipo": "estudante",
+   "regra": "Meia-passagem para estudantes do ensino fundamental e médio (o decreto conta 8.308 estudantes com o direito, pelo levantamento de 2025)",
+   "desde": null,
+   "base_legal": "Decreto nº 253/2026 (considerandos)",
+   "fonte_url": "https://sai.io.org.br/Handler.ashx?f=diario&query=4304&c=181&m=0",
+   "confianca": "A",
+   "verificado_em": "2026-10-20"
+  },
+  {
+   "uf": "BA",
+   "municipio": "Catu",
+   "cod_ibge": "2907509",
+   "tipo": "idoso",
+   "regra": "Gratuidade integral para idosos acima de 65 anos e pessoas com deficiência, obrigação da concessionária para receber o subsídio",
+   "desde": null,
+   "base_legal": "Lei Municipal nº 763/2026 (obrigações da concessionária, inciso VI) e Decreto nº 253/2026 (considerandos)",
+   "fonte_url": "https://sai.io.org.br/Handler.ashx?f=diario&query=4139&c=181&m=0",
+   "confianca": "B",
+   "verificado_em": "2026-10-20"
   },
   {
    "uf": "BA",
@@ -1296,6 +1320,18 @@
   },
   {
    "uf": "MG",
+   "municipio": "Lavras",
+   "cod_ibge": "3138203",
+   "tipo": "idoso",
+   "regra": "isenção da tarifa para idosos, com o cartão Real Mobilidade Benefício, de uso só do titular",
+   "desde": null,
+   "base_legal": null,
+   "fonte_url": "https://www.viacaoreal.com.br/nossos-cartoes",
+   "confianca": "B",
+   "verificado_em": "2026-10-20"
+  },
+  {
+   "uf": "MG",
    "municipio": "Manhuaçu",
    "cod_ibge": "3139409",
    "tipo": "tarifa_zero_temporal",
@@ -1555,6 +1591,18 @@
    "desde": "2025-06-23",
    "base_legal": "Programa Tarifa Zero",
    "fonte_url": "https://diariodocomercio.com.br/legislacao/tarifa-zero-sao-joao/",
+   "confianca": "B",
+   "verificado_em": "2026-10-20"
+  },
+  {
+   "uf": "MG",
+   "municipio": "São Lourenço",
+   "cod_ibge": "3163706",
+   "tipo": "tarifa_zero_universal",
+   "regra": "ônibus municipais sem cobrança de tarifa desde o início da operação pela Prefeitura",
+   "desde": "2022-07-17",
+   "base_legal": null,
+   "fonte_url": "https://www.em.com.br/gerais/2025/06/7181089-cidade-de-minas-adota-transporte-publico-gratuito-a-partir-desta-segunda.html",
    "confianca": "B",
    "verificado_em": "2026-10-20"
   },
@@ -2604,6 +2652,18 @@
   },
   {
    "uf": "PR",
+   "municipio": "Jaguariaíva",
+   "cod_ibge": "4112009",
+   "tipo": "idoso",
+   "regra": "Isentos do pagamento da tarifa: crianças até 6 anos e pessoas com 60 anos ou mais, devidamente identificadas; também fiscais do sistema, policiais militares fardados e pessoas com deficiência com renda individual inferior a 2 salários mínimos, credenciadas, com acompanhante quando necessário",
+   "desde": "2008-01-02",
+   "base_legal": "Lei Municipal nº 1.747/2008, art. 17",
+   "fonte_url": "https://portal.jaguariaiva.pr.gov.br/transparenciav2/uploads/legislacao/lei-1747_2805181527518121.pdf",
+   "confianca": "A",
+   "verificado_em": "2026-10-20"
+  },
+  {
+   "uf": "PR",
    "municipio": "Londrina",
    "cod_ibge": "4113700",
    "tipo": "idoso",
@@ -2757,6 +2817,18 @@
    "fonte_url": "https://transportes.pontagrossa.pr.gov.br/prefeitura-confirma-ampliacao-do-passe-livre-corrige-tarifa-e-destaca-evolucao-do-transporte/",
    "confianca": "A",
    "verificado_em": "2026-10-17"
+  },
+  {
+   "uf": "PR",
+   "municipio": "Quatro Barras",
+   "cod_ibge": "4120804",
+   "tipo": "tarifa_zero_universal",
+   "regra": "Tarifa zero para todos os passageiros no transporte coletivo que opera dentro do município (linhas alimentadoras O11 a O15, a R$ 0,00 na tabela da AMEP de 2026); a passagem só é paga para sair da cidade, nas linhas metropolitanas",
+   "desde": "2022-03-21",
+   "base_legal": "Termo de Cooperação entre a Prefeitura de Quatro Barras e o Governo do Estado, por meio da Comec (texto não aberto)",
+   "fonte_url": "https://www.amep.pr.gov.br/sites/comec/arquivos_restritos/files/documento/2022-04/Informativo_Comec_marco_2022.pdf",
+   "confianca": "A",
+   "verificado_em": "2026-10-20"
   },
   {
    "uf": "PR",
@@ -3105,6 +3177,18 @@
    "fonte_url": "https://mage.rj.gov.br/informacoes/mage-implanta-onibus-com-tarifa-zero-na-cidade/",
    "confianca": "B",
    "verificado_em": "2026-10-17"
+  },
+  {
+   "uf": "RJ",
+   "municipio": "Mangaratiba",
+   "cod_ibge": "3302601",
+   "tipo": "idoso",
+   "regra": "gratuidade nos transportes coletivos urbanos intramunicipais (ônibus de linhas intramunicipais, vans e kombis; nas barcas e catamarãs, até 10% da lotação) para maiores de 65 anos, com documento que comprove a idade, e passe livre, com Passe Especial, para pessoas com deficiência de qualquer natureza e com doenças crônicas cujo tratamento não pode ser interrompido",
+   "desde": "2013-09-27",
+   "base_legal": "Lei nº 887, de 27 de setembro de 2013",
+   "fonte_url": "http://sapl.mangaratiba.rj.leg.br/media/sapl/public/normajuridica/2013/454/454_texto_integral.pdf",
+   "confianca": "A",
+   "verificado_em": "2026-10-20"
   },
   {
    "uf": "RJ",
@@ -3696,6 +3780,18 @@
   },
   {
    "uf": "RS",
+   "municipio": "Portão",
+   "cod_ibge": "4314803",
+   "tipo": "tarifa_zero_universal",
+   "regra": "Programa Tarifa Zero da Prefeitura de Portão: ônibus municipais urbanos e rurais gratuitos, operados por empresa contratada pelo município",
+   "desde": null,
+   "base_legal": null,
+   "fonte_url": "https://www.portao.rs.gov.br/cidadao/mais-servicos/tarifa-zero-urbano",
+   "confianca": "A",
+   "verificado_em": "2026-10-20"
+  },
+  {
+   "uf": "RS",
    "municipio": "Rio Grande",
    "cod_ibge": "4315602",
    "tipo": "estudante",
@@ -3752,6 +3848,18 @@
    "base_legal": null,
    "fonte_url": "https://www.expressotodahora.com.br/bilhetagem-eletronica",
    "confianca": "B",
+   "verificado_em": "2026-10-20"
+  },
+  {
+   "uf": "RS",
+   "municipio": "Santo Antônio da Patrulha",
+   "cod_ibge": "4317608",
+   "tipo": "tarifa_zero_temporal",
+   "regra": "Programa Tarifa Zero, projeto piloto em parceria com a empresa Catanduva: transporte gratuito aos sábados nas linhas da região do 2º Distrito",
+   "desde": "2026-05-16",
+   "base_legal": null,
+   "fonte_url": "https://www.santoantoniodapatrulha.rs.gov.br/25273-2/",
+   "confianca": "A",
    "verificado_em": "2026-10-20"
   },
   {
@@ -4404,6 +4512,18 @@
   },
   {
    "uf": "SP",
+   "municipio": "Artur Nogueira",
+   "cod_ibge": "3503802",
+   "tipo": "tarifa_zero_universal",
+   "regra": "Ônibus municipal Catraca Livre gratuito para todos os passageiros, sem cartão.",
+   "desde": "2021-01-06",
+   "base_legal": null,
+   "fonte_url": "https://arturnogueira.sp.gov.br/site/prefeito-lucas-sia-adota-tarifa-zero-em-transporte-publico-de-artur-nogueira",
+   "confianca": "A",
+   "verificado_em": "2026-10-20"
+  },
+  {
+   "uf": "SP",
    "municipio": "Assis",
    "cod_ibge": "3504008",
    "tipo": "tarifa_zero_universal",
@@ -4872,6 +4992,18 @@
   },
   {
    "uf": "SP",
+   "municipio": "Descalvado",
+   "cod_ibge": "3513702",
+   "tipo": "tarifa_reduzida",
+   "regra": "As tarifas têm redução, em percentual fixado em lei, para idosos, estudantes e outros beneficiários (o percentual não consta do decreto).",
+   "desde": null,
+   "base_legal": "Decreto nº 5.715/2021, art. 1º, parágrafo único",
+   "fonte_url": "https://www.descalvado.sp.gov.br/novoportal/prefeitura/uploads/pdf/diario/ano6ed142.pdf",
+   "confianca": "A",
+   "verificado_em": "2026-10-20"
+  },
+  {
+   "uf": "SP",
    "municipio": "Diadema",
    "cod_ibge": "3513801",
    "tipo": "estudante",
@@ -5232,6 +5364,30 @@
   },
   {
    "uf": "SP",
+   "municipio": "Itápolis",
+   "cod_ibge": "3522703",
+   "tipo": "estudante",
+   "regra": "Desconto de 50% na tarifa para alunos da rede pública e particular (fundamental, médio, técnico e superior), com cartão (primeira via gratuita).",
+   "desde": null,
+   "base_legal": null,
+   "fonte_url": "https://www.itapolis.sp.gov.br/portal/servicos/1053/cartao-para-transporte-coletivo-de-itapolis/",
+   "confianca": "A",
+   "verificado_em": "2026-10-20"
+  },
+  {
+   "uf": "SP",
+   "municipio": "Itápolis",
+   "cod_ibge": "3522703",
+   "tipo": "idoso",
+   "regra": "Isenção total da tarifa para pessoas com 60 anos ou mais, com o cartão emitido pela empresa responsável pelo transporte municipal (primeira via gratuita).",
+   "desde": null,
+   "base_legal": null,
+   "fonte_url": "https://www.itapolis.sp.gov.br/portal/servicos/1053/cartao-para-transporte-coletivo-de-itapolis/",
+   "confianca": "A",
+   "verificado_em": "2026-10-20"
+  },
+  {
+   "uf": "SP",
    "municipio": "Jacareí",
    "cod_ibge": "3524402",
    "tipo": "idoso",
@@ -5313,6 +5469,18 @@
    "fonte_url": "https://jundiai.sp.gov.br/mobilidade/indicadores-e-informacoes/transporte-coletivo/",
    "confianca": "B",
    "verificado_em": "2026-10-17"
+  },
+  {
+   "uf": "SP",
+   "municipio": "Laranjal Paulista",
+   "cod_ibge": "3526407",
+   "tipo": "tarifa_zero_universal",
+   "regra": "Linhas circulares de Laranjal Paulista e distritos subsidiadas 100% pela prefeitura, com cobrança de tarifa vedada, até 31/12/2026.",
+   "desde": "2024-01-01",
+   "base_legal": "Lei nº 3.345/2021, alterada pelas Leis nº 3.475/2023, nº 3.517/2024 e nº 3.607/2025",
+   "fonte_url": "https://www.dosp.com.br/exibe_do.php?i=NzUyOTQ1",
+   "confianca": "A",
+   "verificado_em": "2026-10-20"
   },
   {
    "uf": "SP",
@@ -5635,6 +5803,30 @@
    "desde": null,
    "base_legal": "Lei Municipal nº 3.182, de 06/05/2025",
    "fonte_url": "https://www.penapolis.sp.gov.br/portal/carta-servicos/32",
+   "confianca": "A",
+   "verificado_em": "2026-10-20"
+  },
+  {
+   "uf": "SP",
+   "municipio": "Peruíbe",
+   "cod_ibge": "3537602",
+   "tipo": "estudante",
+   "regra": "Gratuidade para estudantes, pedida pela escola (no caso da escola estadual, com declaração levada à Secretaria de Educação) e com cadastro concluído na SOU Transportes.",
+   "desde": null,
+   "base_legal": null,
+   "fonte_url": "https://www.peruibe.sp.gov.br/horarios-dos-onibus/",
+   "confianca": "A",
+   "verificado_em": "2026-10-20"
+  },
+  {
+   "uf": "SP",
+   "municipio": "Peruíbe",
+   "cod_ibge": "3537602",
+   "tipo": "idoso",
+   "regra": "Gratuidade para pessoas com 65 anos ou mais, com cadastro na SOU Transportes. A mesma página lista também gratuidade para pessoas com deficiência, servidores públicos municipais e atiradores do Tiro de Guerra (Lei Municipal nº 3.462/2017).",
+   "desde": null,
+   "base_legal": "lei federal (idosos); Lei Municipal nº 3.462/2017 (servidores municipais e atiradores)",
+   "fonte_url": "https://www.peruibe.sp.gov.br/horarios-dos-onibus/",
    "confianca": "A",
    "verificado_em": "2026-10-20"
   },
