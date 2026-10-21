@@ -1,8 +1,8 @@
 # Tarifas do transporte público por cidade (Otimiza.pro)
 
-Quanto custa o transporte público em 526 municípios brasileiros, segundo a Base Nacional de Tarifas e Integrações de VT da Otimiza.pro (versão 2026.10.21.3). Cada frase traz o valor, a fonte e a data em que a Otimiza.pro conferiu e, quando a fonte informa, o ato oficial e a data em que passou a valer. A fonte oficial de cada valor está indicada. Onde há dados de serviço e oferta, a ficha traz também linhas e passageiros, com a fonte e a data.
+Quanto custa o transporte público em 532 municípios brasileiros, segundo a Base Nacional de Tarifas e Integrações de VT da Otimiza.pro (versão 2026.10.21.4). Cada frase traz o valor, a fonte e a data em que a Otimiza.pro conferiu e, quando a fonte informa, o ato oficial e a data em que passou a valer. A fonte oficial de cada valor está indicada. Onde há dados de serviço e oferta, a ficha traz também linhas e passageiros, com a fonte e a data.
 
-Como citar: Fonte: Otimiza.pro, Base Nacional de Tarifas e Integrações de Operadoras do Transporte Público e Vale-Transporte, versão 2026.10.21.3. DOI: https://doi.org/10.5281/zenodo.23486211. https://github.com/OtimizaPro/tarifas_integracoestarifarias_transportepublico_brasileiro
+Como citar: Fonte: Otimiza.pro, Base Nacional de Tarifas e Integrações de Operadoras do Transporte Público e Vale-Transporte, versão 2026.10.21.4. DOI: https://doi.org/10.5281/zenodo.23486211. https://github.com/OtimizaPro/tarifas_integracoestarifarias_transportepublico_brasileiro
 
 ## AC
 
@@ -211,6 +211,16 @@ Vale-transporte em Itabuna: a empresa compra em 2 sistemas, Cartão Vale Transpo
 Cartão Vale Transporte do Siticard (ônibus urbanos de Itabuna): cobre ônibus urbanos de Itabuna; cartão Vale Transporte do Siticard; emitido por Siticard, bilhetagem do transporte urbano de Itabuna (Atlântico Transportes); canal de compra da empresa: o RH da empresa informa CNPJ, quantidade de cartões e o responsável pela recarga e faz o cadastro da empresa e dos empregados no portal TDMax Web Commerce do Siticard (max00472.itstransdata.com/TDMaxwebcommerce); taxa na compra: não citada.
 
 Rotacard (linhas semiurbanas da Rota Transportes entre Itabuna, Ilhéus e cidades vizinhas): cobre ônibus semiurbanos intermunicipais da Rota Transportes, regulados pela Agerba; cartão Rotacard; emitido por Rota Transportes Rodoviários Ltda., com sede em Itabuna; canal de compra da empresa: portal de recarga para empresas da Bilhetagem Digital (rota.bilhetagemdigital.com.br/empresas), no item Recarga empresas do site da Rota ('Recarregue aqui os cartões da sua equipe'); taxa na compra: não citada no site da Rota.
+
+### Itapetinga (BA)
+
+Em Itapetinga (BA), a passagem de ônibus custa de R$ 4,00 a R$ 7,00 (varia com o tipo de linha) desde 01/07/2022, conforme Decreto Municipal nº 078/2022; valor conferido em 21/10/2026 pela Base Nacional de Tarifas e Integrações de VT da Otimiza.pro.
+
+Página da cidade: https://otimizapro.com/tarifa/ba/itapetinga
+
+Fonte (página oficial): https://doem.org.br/ba/itapetinga/arquivos/download/c9aeb631d5e05f530dc081ceb71d50f9/4d2354752387a6e88b12011de5a0f4fc.pdf
+
+Vale-transporte em Itapetinga: cartão magnético recarregável; emitido por Viação Itapetinga Ltda (CNPJ 16.238.339/0001-60), concessionária do transporte coletivo; canal de compra da empresa: recarga comprada da própria operadora (a Prefeitura compra a recarga dos cartões de servidores por inexigibilidade, Contratos nº 081 a 084/2026).
 
 ### Jacobina (BA)
 
@@ -872,6 +882,16 @@ Fonte (imprensa): https://portaldotriangulo.com.br/prefeitura-de-araxa-anuncia-a
 
 Integração em Araxá: Com o VC Card, depois de validar o cartão na primeira linha, o passageiro tem 60 minutos para embarcar numa segunda linha pagando uma só passagem; não vale voltar pela mesma linha nem por linhas que atendem o mesmo bairro. Integração nos principais pontos do centro (Teatro Municipal, ponto do banco Itaú, Delfim Moreira, Estação, Praça Dom Bosco, Rua Mariano de Ávila) ou onde as linhas se cruzam no mesmo sentido
 
+### Arcos (MG)
+
+Em Arcos (MG), o ônibus é gratuito (tarifa zero), conforme Contrato nº 254/2022; valor conferido em 21/10/2026 pela Base Nacional de Tarifas e Integrações de VT da Otimiza.pro.
+
+Página da cidade: https://otimizapro.com/tarifa/mg/arcos
+
+Fonte (página oficial): https://sapl.arcos.mg.leg.br/media/sapl/public/materialegislativa/2025/869/requerimento_175_-_leslie.pdf
+
+Tarifa zero em Arcos: Transporte coletivo municipal sem cobrança de passagem (tarifa zero), feito com ônibus urbanos locados pela Prefeitura, com motorista e combustível, pagos por quilômetro rodado. Não se achou regra de cadastro ou cartão.
+
 ### Barbacena (MG)
 
 Em Barbacena (MG), a passagem de ônibus custa R$ 4,46 desde 03/10/2025, segundo a publicação oficial (Prefeitura de Barbacena, nota oficial de 02/10/2025); valor conferido em 20/10/2026 pela Base Nacional de Tarifas e Integrações de VT da Otimiza.pro.
@@ -1153,6 +1173,16 @@ Fonte (página oficial): https://www.ituiutaba.mg.gov.br/?pag=T1RVPU9EZz1PV0k9T1
 Integração em Ituiutaba: Integração gratuita no Terminal Central de Integração, onde o passageiro troca de ônibus sem pagar (o sistema todo é gratuito).
 
 Tarifa zero em Ituiutaba: Transporte coletivo municipal gratuito para toda a população (Programa Busão do Povo).
+
+### Janaúba (MG)
+
+Em Janaúba (MG), a passagem de ônibus custa de R$ 3,40 a R$ 15,00 (varia com o tipo de linha), conforme Decreto Municipal nº 084/2026; valor conferido em 21/10/2026 pela Base Nacional de Tarifas e Integrações de VT da Otimiza.pro.
+
+Página da cidade: https://otimizapro.com/tarifa/mg/janauba
+
+Fonte (página oficial): https://janauba.mg.gov.br/transparencia/legislacao/html/decreto-084-2026
+
+Tarifa zero em Janaúba: Transporte público coletivo gratuito durante o período de votação do 2º turno das eleições, em 25/10/2026, por determinação da Justiça Eleitoral
 
 ### João Monlevade (MG)
 
@@ -1650,6 +1680,14 @@ Integração em Dourados: Integração temporal com cartão: até 40 minutos ap�
 
 Tarifa zero em Dourados: Cobrança suspensa das 6h às 17h no domingo de eleição (04/10/2026) e em 25/10/2026, se houver segundo turno
 
+### Ponta Porã (MS)
+
+Em Ponta Porã (MS), a passagem de ônibus custa R$ 3,40 desde 21/12/2016, conforme Decreto nº 7.690/2016; valor conferido em 21/10/2026 pela Base Nacional de Tarifas e Integrações de VT da Otimiza.pro.
+
+Página da cidade: https://otimizapro.com/tarifa/ms/ponta-pora
+
+Fonte (página oficial): https://server2.pontapora.ms.gov.br/diarios-2006a2020/2931.pdf
+
 ### Ribas do Rio Pardo (MS)
 
 Em Ribas do Rio Pardo (MS), o ônibus é gratuito (tarifa zero), conforme Lei Municipal nº 1.355/2023; valor conferido em 20/10/2026 pela Base Nacional de Tarifas e Integrações de VT da Otimiza.pro.
@@ -1933,6 +1971,14 @@ Página da cidade: https://otimizapro.com/tarifa/pa/santarem
 Em Santarém (PA), a idade média da frota de ônibus era de 10 anos em 2018. Dados consolidados pela Base Nacional de Tarifas e Integrações de VT da Otimiza.pro.
 
 Fonte (página oficial): https://santarem.pa.gov.br/noticias/mobilidade-e-transito/passagem-de-onibus-e-reajustada-para-r-480-em-santarem-u0sz4k
+
+### Tucuruí (PA)
+
+Em Tucuruí (PA), a passagem de ônibus custa R$ 4,99 desde 27/10/2025, conforme Decreto nº 045/2025; valor conferido em 21/10/2026 pela Base Nacional de Tarifas e Integrações de VT da Otimiza.pro.
+
+Página da cidade: https://otimizapro.com/tarifa/pa/tucurui
+
+Fonte (página oficial): https://www.diariomunicipal.com.br/famep/materia/1EAC102F
 
 ## PB
 
@@ -3437,6 +3483,18 @@ Página da cidade: https://otimizapro.com/tarifa/rs/panambi
 Fonte (operadora): https://avipan.com.br/
 
 Vale-transporte em Panambi: cartão PráTi Vale-transporte, 'destinado aos trabalhadores da indústria e do comércio', solicitado diretamente pelas empresas à Avipan; emitido por Auto Viação Panambiense Ltda. (Avipan), Av. Pres. Kennedy, 1895, Panambi; atendimento de segunda a sexta; canal de compra da empresa: pedido do cartão direto à Avipan; compra de créditos pelo portal TDMax da operadora (link 'Comprar passagens' do site, https://max00056.itstransdata.com/TDMaxwebcommerce/) ou na Avipan; também vendido por plataformas de VT, como a Benefício Fácil; liberação do crédito: 5 dias úteis após o pagamento; 1ª via do cartão em 10 dias úteis (ficha da Benefício Fácil); taxa na compra: o site da Avipan não fala em taxa; a ficha da revendedora Benefício Fácil diz 'Repasse (custo fixo ou percentual): Não possui'.
+
+### Parobé (RS)
+
+Em Parobé (RS), o ônibus é gratuito (tarifa zero) desde 03/2022, segundo a publicação oficial (Prefeitura de Parobé, portal oficial, parobe.atende.net: banner 'Tarifa Zero', cadastrado com vigência de 20/10/2025 a 20/10/2027); valor conferido em 21/10/2026 pela Base Nacional de Tarifas e Integrações de VT da Otimiza.pro.
+
+Página da cidade: https://otimizapro.com/tarifa/rs/parobe
+
+Fonte (página oficial): https://parobe.atende.net/cidadao
+
+Vale-transporte em Parobé: emitido por Citral Transportes e Turismo; canal de compra da empresa: área restrita 'Vale Transporte' do site da Citral, para pessoas e empresas autorizadas, com cadastro on-line.
+
+Tarifa zero em Parobé: Programa Tarifa Zero: o ônibus do sistema de transporte coletivo urbano e rural do Município não cobra passagem; a Prefeitura paga a operadora, Expresso Charqueadas Transportes Ltda., por quilômetro rodado (Contrato nº 085/2023, prorrogado por 12 meses a partir de 13/04/2026). A imprensa chama o programa de 'passe livre pleno' e de 'transporte público gratuito para a comunidade'. Não se achou regra de cadastro, cartão ou cobrança para quem não mora na cidade.
 
 ### Passo Fundo (RS)
 

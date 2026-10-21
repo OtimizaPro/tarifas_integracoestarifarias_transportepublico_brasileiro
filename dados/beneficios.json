@@ -1,6 +1,6 @@
 {
  "nome": "Base Nacional de Tarifas e Integrações de Operadoras do Transporte Público e Vale-Transporte: beneficios",
- "versao": "2026.10.21.3",
+ "versao": "2026.10.21.4",
  "licenca": {
   "nome": "CC BY-NC 4.0",
   "url": "https://creativecommons.org/licenses/by-nc/4.0/deed.pt-br",
@@ -8,7 +8,7 @@
   "uso_interno": "A consulta para decisões da própria empresa, como orçar o vale-transporte, não pede licença.",
   "uso_comercial": "Uso comercial por empresas (em produto, revenda ou integração em sistema ou serviço pago) pede licença da Otimiza.pro: empresa@otimiza.pro."
  },
- "citar_como": "Fonte: Otimiza.pro, Base Nacional de Tarifas e Integrações de Operadoras do Transporte Público e Vale-Transporte, versão 2026.10.21.3. DOI: https://doi.org/10.5281/zenodo.23486211. https://github.com/OtimizaPro/tarifas_integracoestarifarias_transportepublico_brasileiro",
+ "citar_como": "Fonte: Otimiza.pro, Base Nacional de Tarifas e Integrações de Operadoras do Transporte Público e Vale-Transporte, versão 2026.10.21.4. DOI: https://doi.org/10.5281/zenodo.23486211. https://github.com/OtimizaPro/tarifas_integracoestarifarias_transportepublico_brasileiro",
  "linhas": [
   {
    "uf": "AL",
@@ -216,6 +216,30 @@
   },
   {
    "uf": "BA",
+   "municipio": "Itapetinga",
+   "cod_ibge": "2916401",
+   "tipo": "estudante",
+   "regra": "Meia-passagem escolar: pagamento de 50% da tarifa do transporte coletivo urbano por ônibus para alunos da educação básica, do ensino técnico e da educação superior de escolas do município, residentes em Itapetinga, com matrícula e frequência comprovadas e cadastro na concessionária, por cartão eletrônico identificado e pré-carregado; não vale para cursos não regulares nem pós-graduação (Lei nº 1.564/2022, arts. 1º e 2º).",
+   "desde": null,
+   "base_legal": "Lei Municipal nº 1.564, de 01 de dezembro de 2022",
+   "fonte_url": "https://sapl.itapetinga.ba.leg.br/media/sapl/public/normajuridica/2022/4578/lei_1.564-2022.pdf",
+   "confianca": "A",
+   "verificado_em": "2026-10-21"
+  },
+  {
+   "uf": "BA",
+   "municipio": "Itapetinga",
+   "cod_ibge": "2916401",
+   "tipo": "idoso",
+   "regra": "Gratuidade para pessoas com 65 anos ou mais (Constituição, art. 230, § 2º, e Estatuto da Pessoa Idosa, art. 39); em 2023 o Município repassou à concessionária o auxílio federal da EC nº 123/2022 para custear essa gratuidade, e a empresa deve informar os atendimentos mensais aos idosos (Decreto nº 079/2023, arts. 1º, 5º e 6º).",
+   "desde": null,
+   "base_legal": "Constituição Federal, art. 230, § 2º; Lei federal nº 10.741/2003, art. 39; Decreto Municipal nº 079/2023, de 22 de março de 2023",
+   "fonte_url": "https://doem.org.br/ba/itapetinga/arquivos/download/39c5ba15183c4f4f22389247e4b366b7/59fa985a1c29e35ebb2abf9ff73718e8.pdf",
+   "confianca": "B",
+   "verificado_em": "2026-10-21"
+  },
+  {
+   "uf": "BA",
    "municipio": "Jequié",
    "cod_ibge": "2918001",
    "tipo": "estudante",
@@ -357,6 +381,30 @@
    "fonte_url": "https://transparencia.camaratf.ba.gov.br/temas/transporte-urbano/",
    "confianca": "A",
    "verificado_em": "2026-10-17"
+  },
+  {
+   "uf": "BA",
+   "municipio": "Valença",
+   "cod_ibge": "2932903",
+   "tipo": "estudante",
+   "regra": "Meia-passagem: desconto de 50% sobre a tarifa vigente para estudantes regularmente matriculados em escolas do município (ensino fundamental e médio, EJA, educação profissional técnica, ensino superior e educação especial), em qualquer dia e horário e em todas as linhas urbanas e distritais (Lei nº 3.083/2026, arts. 4º a 8º, que altera o art. 38 da Lei nº 2.750/2022).",
+   "desde": "2026-09-01",
+   "base_legal": "Lei Municipal nº 3.083, de 06 de agosto de 2026 (Diário Oficial do Município nº 10184, de 01/09/2026)",
+   "fonte_url": "https://www.valenca.ba.leg.br/leis/legislacao-municipal/leis-de-2026/lei-3-083-2026-gratuidade-no-transporte-de-estudantes-e-idosos.pdf",
+   "confianca": "A",
+   "verificado_em": "2026-10-21"
+  },
+  {
+   "uf": "BA",
+   "municipio": "Valença",
+   "cod_ibge": "2932903",
+   "tipo": "idoso",
+   "regra": "Gratuidade no transporte público coletivo municipal, urbano e distrital, para pessoas com 65 anos ou mais, com documento oficial com foto e sem limite de beneficiários por horário (Lei nº 3.083/2026, arts. 2º e 10). Na sessão de 22/09/2026, a Câmara relatou que a Avanço seguia cobrando dos idosos.",
+   "desde": "2026-09-01",
+   "base_legal": "Lei Municipal nº 3.083, de 06 de agosto de 2026 (Diário Oficial do Município nº 10184, de 01/09/2026; em vigor na publicação)",
+   "fonte_url": "https://www.valenca.ba.leg.br/leis/legislacao-municipal/leis-de-2026/lei-3-083-2026-gratuidade-no-transporte-de-estudantes-e-idosos.pdf",
+   "confianca": "A",
+   "verificado_em": "2026-10-21"
   },
   {
    "uf": "BA",
@@ -1005,6 +1053,18 @@
    "fonte_url": "https://portaldotriangulo.com.br/prefeitura-de-araxa-anuncia-aumento-da-passagem-de-onibus-coletivo-para-r-485/",
    "confianca": "B",
    "verificado_em": "2026-10-20"
+  },
+  {
+   "uf": "MG",
+   "municipio": "Arcos",
+   "cod_ibge": "3104205",
+   "tipo": "tarifa_zero_universal",
+   "regra": "Transporte coletivo municipal sem cobrança de passagem (tarifa zero), feito com ônibus urbanos locados pela Prefeitura, com motorista e combustível, pagos por quilômetro rodado. Não se achou regra de cadastro ou cartão.",
+   "desde": null,
+   "base_legal": "Contrato nº 254/2022 (Pregão nº 226/2022) e aditivos; tarifa zero descrita nos Requerimentos nº 186/2023, 027/2025, 075/2025 e 175/2025 da Câmara Municipal de Arcos",
+   "fonte_url": "https://sapl.arcos.mg.leg.br/media/sapl/public/materialegislativa/2025/715/requerimento_75_-_alex.pdf",
+   "confianca": "A",
+   "verificado_em": "2026-10-21"
   },
   {
    "uf": "MG",
@@ -2169,6 +2229,18 @@
    "fonte_url": "https://amm.diariomunicipal.org/publicacao/1918034/",
    "confianca": "A",
    "verificado_em": "2026-10-17"
+  },
+  {
+   "uf": "PA",
+   "municipio": "Abaetetuba",
+   "cod_ibge": "1500107",
+   "tipo": "idoso",
+   "regra": "Isenção tarifária no serviço regular de transporte municipal de passageiros para idosos, com a Carteira de Idoso da Secretaria Municipal de Assistência Social, e para pessoas com deficiência permanente, com documento definido pelo DMTTM; as empresas reservam 15% dos assentos de cada viagem aos beneficiários, e as vagas não ocupadas até 30 minutos antes da partida podem ir a pagantes.",
+   "desde": null,
+   "base_legal": "Decreto Municipal nº 159/2023, de 02/03/2023, que regulamenta o art. 195, I, da Lei Orgânica do Município",
+   "fonte_url": "https://www.diariomunicipal.com.br/famep/materia/E03E3CCC",
+   "confianca": "A",
+   "verificado_em": "2026-10-21"
   },
   {
    "uf": "PA",
@@ -4041,6 +4113,18 @@
    "fonte_url": "https://avipan.com.br/cartoes-prati-2/",
    "confianca": "B",
    "verificado_em": "2026-10-20"
+  },
+  {
+   "uf": "RS",
+   "municipio": "Parobé",
+   "cod_ibge": "4314050",
+   "tipo": "tarifa_zero_universal",
+   "regra": "Programa Tarifa Zero: o ônibus do sistema de transporte coletivo urbano e rural do Município não cobra passagem; a Prefeitura paga a operadora, Expresso Charqueadas Transportes Ltda., por quilômetro rodado (Contrato nº 085/2023, prorrogado por 12 meses a partir de 13/04/2026). A imprensa chama o programa de 'passe livre pleno' e de 'transporte público gratuito para a comunidade'. Não se achou regra de cadastro, cartão ou cobrança para quem não mora na cidade.",
+   "desde": "2022-03",
+   "base_legal": "Contrato nº 085/2023 (Concorrência nº 003/2022) e seus 5º e 6º aditivos de 2026; antes, contrato emergencial da Dispensa nº 006/2022 (15/03/2022)",
+   "fonte_url": "https://parobe.atende.net/cidadao",
+   "confianca": "A",
+   "verificado_em": "2026-10-21"
   },
   {
    "uf": "RS",
