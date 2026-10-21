@@ -1,6 +1,6 @@
 {
  "nome": "Base Nacional de Tarifas e Integrações de Operadoras do Transporte Público e Vale-Transporte: sistemas_municipios",
- "versao": "2026.10.20.15",
+ "versao": "2026.10.20.16",
  "licenca": {
   "nome": "CC BY-NC 4.0",
   "url": "https://creativecommons.org/licenses/by-nc/4.0/deed.pt-br",
@@ -8,7 +8,7 @@
   "uso_interno": "A consulta para decisões da própria empresa, como orçar o vale-transporte, não pede licença.",
   "uso_comercial": "Uso comercial por empresas (em produto, revenda ou integração em sistema ou serviço pago) pede licença da Otimiza.pro: empresa@otimiza.pro."
  },
- "citar_como": "Fonte: Otimiza.pro, Base Nacional de Tarifas e Integrações de Operadoras do Transporte Público e Vale-Transporte, versão 2026.10.20.15. DOI: https://doi.org/10.5281/zenodo.23486211. https://github.com/OtimizaPro/tarifas_integracoestarifarias_transportepublico_brasileiro",
+ "citar_como": "Fonte: Otimiza.pro, Base Nacional de Tarifas e Integrações de Operadoras do Transporte Público e Vale-Transporte, versão 2026.10.20.16. DOI: https://doi.org/10.5281/zenodo.23486211. https://github.com/OtimizaPro/tarifas_integracoestarifarias_transportepublico_brasileiro",
  "linhas": [
   {
    "sistema": "RBTrans (COM Card)",
@@ -2763,6 +2763,14 @@
    "cod_ibge": "4125506"
   },
   {
+   "sistema": "Prefeitura de São Mateus do Sul (Secretaria Municipal de Administração); transporte coletivo urbano e rural concedido à Alberto Panek Eireli ME pelo Contrato de Concessão nº 333/2023 (Concorrência nº 014/2023, homologada em 06/07/2023), remunerado pela Prefeitura por quilômetro rodado, com subsídio tarifário autorizado pela Lei nº 3.164/2023 e tarifa ao usuário fixada por decreto",
+   "abrangencia": "municipal",
+   "municipio_sede": "São Mateus do Sul",
+   "uf": "PR",
+   "municipio_atendido": "São Mateus do Sul",
+   "cod_ibge": "4125605"
+  },
+  {
    "sistema": "Prefeitura de São Mateus do Sul; transporte coletivo municipal urbano e rural de passageiros, operado por contratação emergencial desde 2022 (Dispensa de Licitação nº 003/2022), com comissão de reavaliação do projeto de operação do sistema ativa em 2026",
    "abrangencia": "municipal",
    "municipio_sede": "São Mateus do Sul",
@@ -3060,6 +3068,14 @@
   },
   {
    "sistema": "Prefeitura de Barra do Piraí; concessionária Bamonte Transportes (operação emergencial desde a caducidade dos contratos anteriores, em junho de 2024, e depois contrato de concessão), com bilhetagem Transdata (TDMax) e portal BPPag",
+   "abrangencia": "municipal",
+   "municipio_sede": "Barra do Piraí",
+   "uf": "RJ",
+   "municipio_atendido": "Barra do Piraí",
+   "cod_ibge": "3300308"
+  },
+  {
+   "sistema": "Prefeitura de Barra do Piraí; transporte público municipal concedido à Bamonte Transportes pela nova concessão de 20 anos (Concorrência Presencial nº 001/2025, sessão em 26/01/2026), que substituiu a operação emergencial iniciada em 2024; bilhetagem Transdata (TDMax) e portal BPPag",
    "abrangencia": "municipal",
    "municipio_sede": "Barra do Piraí",
    "uf": "RJ",
@@ -3388,6 +3404,14 @@
   },
   {
    "sistema": "Autarquia Municipal de Trânsito e Transportes (AMT) de Ji-Paraná; operadora do ônibus urbano não confirmada",
+   "abrangencia": "municipal",
+   "municipio_sede": "Ji-Paraná",
+   "uf": "RO",
+   "municipio_atendido": "Ji-Paraná",
+   "cod_ibge": "1100122"
+  },
+  {
+   "sistema": "Autarquia Municipal de Trânsito e Transportes (AMT) de Ji-Paraná; transporte coletivo urbano operado pela Transvida Transporte Rodoviário Urbano (site transvidajpr.com.br, 'Transporte Coletivo Urbano de Ji-Paraná', com aplicativo Orbbus e o Vale Estudante da Prefeitura); cartão do passageiro comum não confirmado",
    "abrangencia": "municipal",
    "municipio_sede": "Ji-Paraná",
    "uf": "RO",
@@ -4123,6 +4147,14 @@
    "cod_ibge": "4203204"
   },
   {
+   "sistema": "Prefeitura de Canoinhas; transporte coletivo municipal operado pela BM Serviços Ltda. (CNPJ 51.750.904/0001-75), contratada por quilômetro rodado com aporte público limitado a R$ 1,2 milhão por 12 meses (Pregão Eletrônico PMC 64/2026 e contrato PMC 93/2026, assinado em 12/09/2026), depois da intervenção do município no serviço da Coletivo Santa Cruz (Decreto 008/2025)",
+   "abrangencia": "municipal",
+   "municipio_sede": "Canoinhas",
+   "uf": "SC",
+   "municipio_atendido": "Canoinhas",
+   "cod_ibge": "4203808"
+  },
+  {
    "sistema": "Prefeitura de Canoinhas; transporte coletivo municipal sob intervenção do município desde 2025 (Decreto 008/2025), antes operado pela Coletivo Santa Cruz; contrato PMC 93/2026 com a BM Serviços, por quilômetro rodado, assinado em 12/09/2026",
    "abrangencia": "municipal",
    "municipio_sede": "Canoinhas",
@@ -4420,6 +4452,14 @@
   },
   {
    "sistema": "Prefeitura Municipal de Estância (SMTT): serviço público de transporte alternativo de passageiros operado por associações e cooperativas (Astele, Astrasues, Ataele, Coopertalae e outras); sem licitação do transporte coletivo até 2025; sem cartão de bilhetagem achado",
+   "abrangencia": "municipal",
+   "municipio_sede": "Estância",
+   "uf": "SE",
+   "municipio_atendido": "Estância",
+   "cod_ibge": "2802106"
+  },
+  {
+   "sistema": "Prefeitura Municipal de Estância, Superintendência Municipal de Transporte e Trânsito (SMTT): serviço de transporte alternativo de passageiros (linhas 001, urbana, e 002, até as praias do município) operado pelas associações e cooperativas que já atuavam (Astele, Astrasues, Ataele, Coopertalae e outras), desde abril de 2026 em regime excepcional e transitório por autorização administrativa precária da SMTT até a homologação da licitação (Lei nº 2.565/2026); sem cartão de bilhetagem achado",
    "abrangencia": "municipal",
    "municipio_sede": "Estância",
    "uf": "SE",
@@ -5676,6 +5716,14 @@
   },
   {
    "sistema": "Prefeitura de Votorantim, Secretaria de Mobilidade Urbana (Semob); operadora CITY Transportes (contrato emergencial desde 29/05/2022; cartão do sistema de transporte urbano de Votorantim (cartão da City)",
+   "abrangencia": "municipal",
+   "municipio_sede": "Votorantim",
+   "uf": "SP",
+   "municipio_atendido": "Votorantim",
+   "cod_ibge": "3557006"
+  },
+  {
+   "sistema": "Prefeitura de Votorantim, Secretaria de Mobilidade Urbana (Semob); transporte coletivo urbano operado pela CITY Transportes, que assumiu em caráter emergencial em 29/05/2022 e, segundo a Gazeta de Votorantim (17/04/2026), a concessão em 2024 (na concorrência de 2024 a única classificada foi a Votorantim S/A Transporte Inteligente, com sede em Guarujá, segundo o Diário do Transporte de 12/03/2024), com subsídio municipal; cartão City (cartão do sistema de transporte urbano de Votorantim), que desde abril e maio de 2026 substitui os cartões do Grupo São João, e catracas no Terminal Urbano João Souto desde 23/05/2026",
    "abrangencia": "municipal",
    "municipio_sede": "Votorantim",
    "uf": "SP",

@@ -1,6 +1,6 @@
 {
  "nome": "Base Nacional de Tarifas e Integrações de Operadoras do Transporte Público e Vale-Transporte: beneficios",
- "versao": "2026.10.20.15",
+ "versao": "2026.10.20.16",
  "licenca": {
   "nome": "CC BY-NC 4.0",
   "url": "https://creativecommons.org/licenses/by-nc/4.0/deed.pt-br",
@@ -8,7 +8,7 @@
   "uso_interno": "A consulta para decisões da própria empresa, como orçar o vale-transporte, não pede licença.",
   "uso_comercial": "Uso comercial por empresas (em produto, revenda ou integração em sistema ou serviço pago) pede licença da Otimiza.pro: empresa@otimiza.pro."
  },
- "citar_como": "Fonte: Otimiza.pro, Base Nacional de Tarifas e Integrações de Operadoras do Transporte Público e Vale-Transporte, versão 2026.10.20.15. DOI: https://doi.org/10.5281/zenodo.23486211. https://github.com/OtimizaPro/tarifas_integracoestarifarias_transportepublico_brasileiro",
+ "citar_como": "Fonte: Otimiza.pro, Base Nacional de Tarifas e Integrações de Operadoras do Transporte Público e Vale-Transporte, versão 2026.10.20.16. DOI: https://doi.org/10.5281/zenodo.23486211. https://github.com/OtimizaPro/tarifas_integracoestarifarias_transportepublico_brasileiro",
  "linhas": [
   {
    "uf": "AL",
@@ -1400,6 +1400,18 @@
    "base_legal": "Decreto nº 4.250/2026",
    "fonte_url": "https://matozinhos.mg.gov.br/noticias/utilidade-publica/transporte-publico-tera-gratuidade-para-facilitar-o-deslocamento-de-eleitores-no-dia-de-votacao",
    "confianca": "A",
+   "verificado_em": "2026-10-20"
+  },
+  {
+   "uf": "MG",
+   "municipio": "Muriaé",
+   "cod_ibge": "3143906",
+   "tipo": "tarifa_zero_temporal",
+   "regra": "Embarque gratuito para toda a população no transporte coletivo urbano aos domingos e feriados; antes de 01/08/2025, a gratuidade valia só aos domingos e passou a valer também nos feriados junto com o reajuste para R$ 4,50.",
+   "desde": "2025-08-01",
+   "base_legal": "anúncio da Prefeitura e da Viação União",
+   "fonte_url": "https://radiomuriae.com.br/portal/passagem-de-onibus-coletivo-em-muriae-sobe-para-r-450-a-partir-de-agosto/",
+   "confianca": "B",
    "verificado_em": "2026-10-20"
   },
   {
@@ -2892,6 +2904,18 @@
   },
   {
    "uf": "PR",
+   "municipio": "São Mateus do Sul",
+   "cod_ibge": "4125605",
+   "tipo": "idoso",
+   "regra": "Idosos e demais isentos têm subsídio integral das tarifas do transporte coletivo urbano e rural em todos os dias; para os demais usuários o subsídio é parcial, observado o valor da tarifa fixado por decreto (Lei nº 3.164/2023, art. 3º).",
+   "desde": "2023-02-15",
+   "base_legal": "Lei Municipal nº 3.164, de 15 de fevereiro de 2023",
+   "fonte_url": "https://www.saomateusdosul.pr.gov.br/portal/diario-oficial/ver/3063",
+   "confianca": "A",
+   "verificado_em": "2026-10-20"
+  },
+  {
+   "uf": "PR",
    "municipio": "Telêmaco Borba",
    "cod_ibge": "4127106",
    "tipo": "estudante",
@@ -3019,6 +3043,18 @@
    "desde": null,
    "base_legal": null,
    "fonte_url": "https://www.bamonte.com.br/blog/noticias/tira-duvidas-sobre-os-novos-cartoes-de-onibus-de-barra-do-pirai/",
+   "confianca": "B",
+   "verificado_em": "2026-10-20"
+  },
+  {
+   "uf": "RJ",
+   "municipio": "Barra do Piraí",
+   "cod_ibge": "3300308",
+   "tipo": "tarifa_zero_temporal",
+   "regra": "Tarifa zero em dias definidos pela Prefeitura, sem regra fixa achada: no feriado de 01/05/2026 (Prefeitura e Diário do Transporte, 01/05/2026), no feriado de 07/09/2026 das 6h às 17h (Diário do Vale, 05/09/2026) e no dia da eleição, 04/10/2026, em todas as linhas municipais das 6h às 20h (notícia da Prefeitura de 03/10/2026).",
+   "desde": null,
+   "base_legal": null,
+   "fonte_url": "https://barradopirai.rj.gov.br/todas-as-noticias/d959b39e-9c09-49f2-bf5f-d0ccd26872bb",
    "confianca": "B",
    "verificado_em": "2026-10-20"
   },

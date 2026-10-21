@@ -1,8 +1,8 @@
 # Tarifas do transporte público por cidade (Otimiza.pro)
 
-Quanto custa o transporte público em 490 municípios brasileiros, segundo a Base Nacional de Tarifas e Integrações de VT da Otimiza.pro (versão 2026.10.20.15). Cada frase traz o valor, a fonte e a data em que a Otimiza.pro conferiu e, quando a fonte informa, o ato oficial e a data em que passou a valer. A fonte oficial de cada valor está indicada. Onde há dados de serviço e oferta, a ficha traz também linhas e passageiros, com a fonte e a data.
+Quanto custa o transporte público em 499 municípios brasileiros, segundo a Base Nacional de Tarifas e Integrações de VT da Otimiza.pro (versão 2026.10.20.16). Cada frase traz o valor, a fonte e a data em que a Otimiza.pro conferiu e, quando a fonte informa, o ato oficial e a data em que passou a valer. A fonte oficial de cada valor está indicada. Onde há dados de serviço e oferta, a ficha traz também linhas e passageiros, com a fonte e a data.
 
-Como citar: Fonte: Otimiza.pro, Base Nacional de Tarifas e Integrações de Operadoras do Transporte Público e Vale-Transporte, versão 2026.10.20.15. DOI: https://doi.org/10.5281/zenodo.23486211. https://github.com/OtimizaPro/tarifas_integracoestarifarias_transportepublico_brasileiro
+Como citar: Fonte: Otimiza.pro, Base Nacional de Tarifas e Integrações de Operadoras do Transporte Público e Vale-Transporte, versão 2026.10.20.16. DOI: https://doi.org/10.5281/zenodo.23486211. https://github.com/OtimizaPro/tarifas_integracoestarifarias_transportepublico_brasileiro
 
 ## AC
 
@@ -1158,6 +1158,18 @@ Vale-transporte em Mariana: emitido por Castro Cotta Transportes Ltda. (Transcot
 
 Tarifa zero em Mariana: Ônibus municipal gratuito para todos os passageiros, inclusive turistas, na sede e nos distritos, com subvenção da Prefeitura à operadora.
 
+### Matozinhos (MG)
+
+Em Matozinhos (MG), a passagem de ônibus custa R$ 3,00 desde 01/08/2023, segundo a operadora (AM2 Transportes, operadora do transporte municipal de Matozinhos); valor conferido em 20/10/2026 pela Base Nacional de Tarifas e Integrações de VT da Otimiza.pro.
+
+Página da cidade: https://otimizapro.com/tarifa/mg/matozinhos
+
+Fonte (operadora): https://am2transportes.com.br/
+
+Vale-transporte em Matozinhos: cartão ÓTIMO Vale-Transporte; emitido por Consórcio Ótimo de Bilhetagem Eletrônica; canal de compra da empresa: contrato de cessão de cartões na modalidade 'Carga no Posto' (na loja do Bairro Floresta, em Belo Horizonte) ou 'Carga a Bordo' (contrato e cadastro pelo formulário do site); recarga pelo portal de recarga Ótimo, com pagamento por boleto; cartões retirados na loja ou enviados pelos Correios; liberação do crédito: até 24 horas úteis após a confirmação do pagamento do boleto.
+
+Tarifa zero em Matozinhos: Gratuidade no transporte público municipal nos dias de votação das eleições de 2026 (4 de outubro e, se houver 2º turno, 25 de outubro)
+
 ### Montes Claros (MG)
 
 Em Montes Claros (MG), a passagem de ônibus custa R$ 4,60 desde 16/02/2025, conforme Decreto nº 4.942; valor conferido em 17/10/2026 pela Base Nacional de Tarifas e Integrações de VT da Otimiza.pro.
@@ -1169,6 +1181,18 @@ Fonte (operadora): https://www.mocbus.com.br/index.php/tarifa
 Vale-transporte em Montes Claros: cartão SIM Card Vale-Transporte; emitido por Consórcio MOCBUS (CNPJ 33.935.652/0001-77), concessionário do transporte coletivo urbano de Montes Claros; canal de compra da empresa: Só a empresa empregadora pede o SIM Card Vale-Transporte à MOCBUS; login e senha enviados por e-mail depois da confirmação dos dados pelo 0800; compra e recarga pela internet no Sales Portal da MOCBUS (salesportal.montesclaros.prodatamobility.com.br, a Área do Cliente do site), com boleto gerado no portal; carga a bordo nos validadores em até 5 dias úteis após a comprovação do pagamento.; taxa na compra: nenhuma prevista: no contrato da Loja Virtual Montes Claros, a empresa paga os créditos no ato do pedido, por boleto (cláusula 7.2), pela tarifa vigente (cláusula 9.1), e a cessão do cartão é gratuita (cláusula 7.1); o contrato não tem cláusula de taxa de serviço (https://salesportal.montesclaros.prodatamobility.com.br/policies/teste.html).
 
 Integração em Montes Claros: Integração temporal e espacial: troca sem nova cobrança em até 1 hora, se o 2º embarque for em eixo diferente do 1º, conforme a matriz de integração por linha e sentido. Exige cartão da bilhetagem.
+
+### Muriaé (MG)
+
+Em Muriaé (MG), a passagem de ônibus custa R$ 4,50 desde 01/08/2025, segundo a imprensa (Rádio Muriaé); valor conferido em 20/10/2026 pela Base Nacional de Tarifas e Integrações de VT da Otimiza.pro.
+
+Página da cidade: https://otimizapro.com/tarifa/mg/muriae
+
+Fonte (imprensa): https://radiomuriae.com.br/portal/passagem-de-onibus-sobe-hoje-para-r450-e-usuarios-reclamam-da-qualidade-do-transporte-coletivo-em-muriae/
+
+Integração em Muriaé: Integração anunciada pela Viação União a partir de 22/04/2024: com o cartão magnético, o passageiro pega o segundo ônibus pagando metade da passagem, dentro de uma hora após o desembarque do primeiro; vale também para o cartão estudantil, que paga a metade da meia passagem; origem e destino não podem ser os mesmos; não há integração para quem paga em dinheiro.
+
+Tarifa zero em Muriaé: Embarque gratuito para toda a população no transporte coletivo urbano aos domingos e feriados; antes de 01/08/2025, a gratuidade valia só aos domingos e passou a valer também nos feriados junto com o reajuste para R$ 4,50.
 
 ### Nova Lima (MG)
 
@@ -1544,6 +1568,14 @@ Tarifa zero em Três Lagoas: Transporte coletivo urbano gratuito para toda a pop
 
 ## MT
 
+### Barra do Garças (MT)
+
+Em Barra do Garças (MT), a passagem de ônibus custa R$ 6,00 desde 14/05/2022, segundo a publicação oficial (Prefeitura de Barra do Garças, Secom, notícia de 13/05/2022); valor conferido em 20/10/2026 pela Base Nacional de Tarifas e Integrações de VT da Otimiza.pro.
+
+Página da cidade: https://otimizapro.com/tarifa/mt/barra-do-garcas
+
+Fonte (página oficial): https://www.barradogarcas.mt.gov.br/Imprensa/Noticias/Prefeitura-veta-reajuste-de-tarifa-solicitado-pela-empresa-garcastur-e-abre-nova-licitacao-3304/
+
 ### Cuiabá (MT)
 
 Em Cuiabá (MT), a passagem de ônibus custa R$ 4,95 desde 09/05/2022, conforme Decreto nº 9.050/2022; valor conferido em 18/10/2026 pela Base Nacional de Tarifas e Integrações de VT da Otimiza.pro.
@@ -1571,6 +1603,14 @@ Fonte (imprensa): https://www.sonoticias.com.br/geral/nova-frota-de-onibus-colet
 Vale-transporte em Lucas do Rio Verde: cartão de transporte (bilhete eletrônico) da Translocave; emitido por Translocave; canal de compra da empresa: Cadastro e compra pelo WebCommerce (TDMax, max00114.itstransdata.com/TDMaxwebcommerce), ligado na página da Translocave em Lucas do Rio Verde; os cartões são retirados pelos funcionários no guichê da Translocave (Shopping Peniel); recarga também em pontos parceiros do comércio.
 
 Tarifa zero em Lucas do Rio Verde: Ônibus gratuito nas linhas indicadas pela Prefeitura no 1º turno das eleições (04/10/2026) e no 2º turno (25/10/2026), se houver
+
+### Nova Mutum (MT)
+
+Em Nova Mutum (MT), a passagem de ônibus custa R$ 2,75 desde 26/08/2013, segundo a imprensa (Powermix, 23/08/2013); valor conferido em 20/10/2026 pela Base Nacional de Tarifas e Integrações de VT da Otimiza.pro.
+
+Página da cidade: https://otimizapro.com/tarifa/mt/nova-mutum
+
+Fonte (imprensa): https://www.powermix.com.br/geral/definidos-38-pontos-para-a-linha-de-transporte-publico-no-municipio/723
 
 ### Primavera do Leste (MT)
 
@@ -2211,6 +2251,14 @@ Em Guarapuava (PR), a passagem de ônibus custa de R$ 4,00 a R$ 6,50 (varia com 
 Página da cidade: https://otimizapro.com/tarifa/pr/guarapuava
 
 Fonte (operadora): https://www.peroladooeste.com.br/tarifas/
+
+### Ibiporã (PR)
+
+Em Ibiporã (PR), a passagem de ônibus custa R$ 6,50, segundo a publicação oficial (DER-PR, Consulta de Linhas Intermunicipais e consulta de tarifa por linha das empresas operadoras); valor conferido em 20/10/2026 pela Base Nacional de Tarifas e Integrações de VT da Otimiza.pro.
+
+Página da cidade: https://otimizapro.com/tarifa/pr/ibipora
+
+Fonte (página oficial): https://www.der.pr.gov.br/webservices/der/empresas/detalhe/299/001.1523-400
 
 ### Irati (PR)
 
@@ -3342,6 +3390,16 @@ Fonte (operadora): https://stadtbus.com.br/municipais/teutonia-rs/
 
 Vale-transporte em Teutônia: cartão eletrônico 'Cartão Teuto Municipal'; emitido por Stadtbus Transportes Coletivos, posto de atendimento em Teutônia, telefone (51) 3762-8064, e-mail pdv.teutonia@stadtbus.com.br; canal de compra da empresa: portal TDMax Web Commerce de Teutônia (https://max00230.itstransdata.com/TDMaxwebcommerce/, botão 'Passagens' da página da Stadtbus), com cadastro e login; posto de atendimento da Stadtbus; também por plataformas de VT, como a Benefício Fácil (código do emissor 964); liberação do crédito: 5 dias úteis depois do pagamento; 1ª via do cartão em 10 dias úteis (Benefício Fácil); taxa na compra: a ficha da revendedora Benefício Fácil diz 'Repasse (custo fixo ou percentual): Não possui'; o portal TDMax pede login e não mostra as condições.
 
+### Torres (RS)
+
+Em Torres (RS), a passagem de ônibus custa R$ 5,00 desde 07/03/2022, segundo a publicação oficial (Prefeitura de Torres, notícia 'Torrescar reajusta tarifa a partir desta segunda', 03/03/2022); valor conferido em 20/10/2026 pela Base Nacional de Tarifas e Integrações de VT da Otimiza.pro.
+
+Página da cidade: https://otimizapro.com/tarifa/rs/torres
+
+Fonte (página oficial): https://torres.rs.gov.br/2022/03/03/torrescar-reajusta-tarifa-a-partir-de-7-de-marco/
+
+Vale-transporte em Torres: cartão eletrônico 'Cartão Torres Municipal' (cartão transporte da Torrescar, para funcionários que recebem vale-transporte); emitido por Torrescar, telefones (51) 3664-2033 e (51) 98051-0021, e-mail passagemtorres@torrescar.com.br; canal de compra da empresa: compra de créditos pelo site da Torrescar, com boleto, ou na sede da empresa; também por plataformas de VT, como a Benefício Fácil (código do emissor 719); liberação do crédito: até 72 horas depois do pagamento do boleto, com recarga a bordo no 1º embarque (site da Torrescar); 5 dias úteis pela Benefício Fácil; taxa na compra: a ficha da revendedora Benefício Fácil diz 'Repasse (custo fixo ou percentual): Não possui'; a página da Torrescar não fala de taxa.
+
 ### Uruguaiana (RS)
 
 Em Uruguaiana (RS), a passagem de ônibus custa R$ 5,30 desde 28/07/2025, conforme Decreto nº 830/2025; valor conferido em 20/10/2026 pela Base Nacional de Tarifas e Integrações de VT da Otimiza.pro.
@@ -3477,6 +3535,18 @@ Em Campos Novos (SC), a passagem de ônibus custa de R$ 3,50 a R$ 5,50 (varia co
 Página da cidade: https://otimizapro.com/tarifa/sc/campos-novos
 
 Fonte (página oficial): https://camposnovos.sc.gov.br/uploads/sites/405/2022/06/Decreto-no-9.196_2022-Concede-Reajusta-Tarifa-Trasnporte-Coletivo.pdf
+
+### Canoinhas (SC)
+
+Em Canoinhas (SC), a passagem de ônibus custa R$ 4,00 desde 23/04/2025, conforme Decreto Municipal nº 058/2025; valor conferido em 20/10/2026 pela Base Nacional de Tarifas e Integrações de VT da Otimiza.pro.
+
+Página da cidade: https://otimizapro.com/tarifa/sc/canoinhas
+
+Fonte (página oficial): https://lanceeletronico.blob.core.windows.net/processfiles/166ba2674ae54a17a71876af238b0189.pdf
+
+Vale-transporte em Canoinhas: cartão Canoinhas x Três Barras (cartão eletrônico); emitido por Coletivo Santa Cruz, telefone (47) 3622-4069, e-mail recepcao@coletivosantacruz.com.br; canal de compra da empresa: recarga junto à operadora, com envio do comprovante de pagamento por e-mail; também por plataformas de VT, como a Benefício Fácil; liberação do crédito: 5 dias úteis depois do pagamento; 1ª via do cartão em 10 dias úteis; taxa na compra: a ficha da revendedora Benefício Fácil diz 'Repasse (custo fixo ou percentual): Não possui'; não se achou página da operadora sobre a compra pela empresa.
+
+Tarifa zero em Canoinhas: Gratuidade total da tarifa em todas as linhas do transporte coletivo urbano municipal nos dias de votação das Eleições Gerais de 2026: 04/10/2026 e, havendo segundo turno, 25/10/2026, com a frequência de dia útil.
 
 ### Capinzal (SC)
 
@@ -3771,6 +3841,14 @@ Fonte (página oficial): https://smtt.aracaju.se.gov.br/prefeitura-de-aracaju-au
 Vale-transporte em Aracaju: cartão Mais Aracaju Vale-Transporte; emitido por AracajuCard (Setransp); canal de compra da empresa: VT Web Client (vtclient.aracaju.prodatamobility.com.br), com cadastro dos funcionários, pedidos de crédito de VT e pagamento por boleto; liberação do crédito: até 24h úteis; carga a bordo em até 2 dias úteis; taxa na compra: o 1% do total de pedidos de VT pagos no mês anterior (mínimo de 2 tarifas), listado na página Taxas de Serviços da AracajuCard, é o preço do Relatório de Saldo dos Cartões, serviço à parte, e não taxa na compra do VT.
 
 Integração em Aracaju: nos terminais de integração; com Socorro, São Cristóvão e Barra dos Coqueiros, uma passagem (dado de 2022)
+
+### Estância (SE)
+
+Em Estância (SE), a passagem do transporte alternativo (vans e micro-ônibus) custa R$ 3,60 desde 13/04/2026, conforme Lei nº 2.566/2026; valor conferido em 20/10/2026 pela Base Nacional de Tarifas e Integrações de VT da Otimiza.pro.
+
+Página da cidade: https://otimizapro.com/tarifa/se/estancia
+
+Fonte (página oficial): https://diof.io.org.br/api/diario-oficial/download/2026_04_135037008721.pdf
 
 ### Nossa Senhora do Socorro (SE)
 
@@ -5549,6 +5627,16 @@ MoV Vinhedo Vale-Transporte: cobre ônibus municipais de Vinhedo; cartão Bilhet
 BUS+ (linhas metropolitanas da EMTU na Região Metropolitana de Campinas): cobre ônibus intermunicipais metropolitanos da RMC (EMTU, regulação da ARTESP); cartão BUS+ Vale-Transporte; emitido por Consórcio BUS+; canal de compra da empresa: Presencial nos postos BUS+ (cópia do CNPJ e lista dos colaboradores; cartões retirados após 5 dias úteis) ou online no site BUS+ (portal de VT http://vtclient.busmais.prodatamobility.com.br/wfm_home.aspx), com recarga a bordo; liberação do crédito: até 2 dias úteis após a compensação bancária (recarga a bordo); na compra online, cartões emitidos em 5 dias úteis após a compensação; taxa na compra: online: taxa de conveniência de 3%, mínimo de R$ 3,90; presencial: sem custo.
 
 Integração em Vinhedo: Bilhete Único: integração de duas ou mais linhas em uma hora e meia, no mesmo sentido, pagando uma passagem, com o cartão eletrônico.
+
+### Votorantim (SP)
+
+Em Votorantim (SP), a passagem de ônibus custa R$ 3,96 desde 05/01/2021, segundo a imprensa (Gazeta de Votorantim, 17/04/2026); valor conferido em 20/10/2026 pela Base Nacional de Tarifas e Integrações de VT da Otimiza.pro. Quem usa vale-transporte paga R$ 5,00.
+
+Página da cidade: https://otimizapro.com/tarifa/sp/votorantim
+
+Fonte (imprensa): https://www.gazetadevotorantim.com.br/noticia/58790/votorantim/noticias/prefeitura-afirma-que-mantera-integracao-do-transporte-mas-empresa-intermunicipal-diz-nao-ter-sido-consultada.html
+
+Vale-transporte em Votorantim: canal de compra da empresa: recarga do cartão eletrônico pela empresa (Gazeta de Votorantim, 04/01/2021, ainda com o Grupo São João).
 
 ### Votuporanga (SP)
 

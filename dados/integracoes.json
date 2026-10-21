@@ -1,6 +1,6 @@
 {
  "nome": "Base Nacional de Tarifas e Integrações de Operadoras do Transporte Público e Vale-Transporte: integracoes",
- "versao": "2026.10.20.15",
+ "versao": "2026.10.20.16",
  "licenca": {
   "nome": "CC BY-NC 4.0",
   "url": "https://creativecommons.org/licenses/by-nc/4.0/deed.pt-br",
@@ -8,7 +8,7 @@
   "uso_interno": "A consulta para decisões da própria empresa, como orçar o vale-transporte, não pede licença.",
   "uso_comercial": "Uso comercial por empresas (em produto, revenda ou integração em sistema ou serviço pago) pede licença da Otimiza.pro: empresa@otimiza.pro."
  },
- "citar_como": "Fonte: Otimiza.pro, Base Nacional de Tarifas e Integrações de Operadoras do Transporte Público e Vale-Transporte, versão 2026.10.20.15. DOI: https://doi.org/10.5281/zenodo.23486211. https://github.com/OtimizaPro/tarifas_integracoestarifarias_transportepublico_brasileiro",
+ "citar_como": "Fonte: Otimiza.pro, Base Nacional de Tarifas e Integrações de Operadoras do Transporte Público e Vale-Transporte, versão 2026.10.20.16. DOI: https://doi.org/10.5281/zenodo.23486211. https://github.com/OtimizaPro/tarifas_integracoestarifarias_transportepublico_brasileiro",
  "linhas": [
   {
    "uf": "AC",
@@ -369,6 +369,18 @@
    "fonte_url": "https://www.mocbus.com.br/index.php/bilhetagem-integracao",
    "confianca": "B",
    "verificado_em": "2026-10-17"
+  },
+  {
+   "uf": "MG",
+   "municipio": "Muriaé",
+   "cod_ibge": "3143906",
+   "regra": "Integração anunciada pela Viação União a partir de 22/04/2024: com o cartão magnético, o passageiro pega o segundo ônibus pagando metade da passagem, dentro de uma hora após o desembarque do primeiro; vale também para o cartão estudantil, que paga a metade da meia passagem; origem e destino não podem ser os mesmos; não há integração para quem paga em dinheiro.",
+   "janela_min": 60,
+   "embarques": "2",
+   "quem_tem_direito": "usuários do cartão magnético da Viação União, inclusive o cartão estudantil",
+   "fonte_url": "https://www.guiamuriae.com.br/noticias/cidade/viacao-uniao-anuncia-sistema-de-integracao-em-muriae-e-quem-depende-do-transporte-coletivo-podera-economizar",
+   "confianca": "B",
+   "verificado_em": "2026-10-20"
   },
   {
    "uf": "MG",
@@ -1821,18 +1833,6 @@
    "fonte_url": "https://www.vinhedo.sp.gov.br/portal/secretarias-paginas/31/transporte-coletivo-horarios-itinerarios-e-valores/",
    "confianca": "B",
    "verificado_em": "2026-10-18"
-  },
-  {
-   "uf": "SP",
-   "municipio": "Votorantim",
-   "cod_ibge": "3557006",
-   "regra": "No Terminal Urbano João Souto, administrado pela CITY Transportes, quem já está no sistema faz integração entre linhas municipais validando o cartão da City na catraca; a integração com o transporte intermunicipal Votorantim e Sorocaba depende de definição da Artesp e da concessionária.",
-   "janela_min": null,
-   "embarques": null,
-   "quem_tem_direito": "usuários do cartão da City dentro do terminal",
-   "fonte_url": "https://www.votorantim.sp.gov.br/portal/noticias/0/3/15956/terminal-urbano-joao-souto-passa-a-integrar-transporte-municipal-e-intermunicipal-em-votorantim/",
-   "confianca": "B",
-   "verificado_em": "2026-10-20"
   },
   {
    "uf": "TO",
