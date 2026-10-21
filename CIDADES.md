@@ -1,8 +1,8 @@
 # Tarifas do transporte público por cidade (Otimiza.pro)
 
-Quanto custa o transporte público em 506 municípios brasileiros, segundo a Base Nacional de Tarifas e Integrações de VT da Otimiza.pro (versão 2026.10.21). Cada frase traz o valor, a fonte e a data em que a Otimiza.pro conferiu e, quando a fonte informa, o ato oficial e a data em que passou a valer. A fonte oficial de cada valor está indicada. Onde há dados de serviço e oferta, a ficha traz também linhas e passageiros, com a fonte e a data.
+Quanto custa o transporte público em 516 municípios brasileiros, segundo a Base Nacional de Tarifas e Integrações de VT da Otimiza.pro (versão 2026.10.21.2). Cada frase traz o valor, a fonte e a data em que a Otimiza.pro conferiu e, quando a fonte informa, o ato oficial e a data em que passou a valer. A fonte oficial de cada valor está indicada. Onde há dados de serviço e oferta, a ficha traz também linhas e passageiros, com a fonte e a data.
 
-Como citar: Fonte: Otimiza.pro, Base Nacional de Tarifas e Integrações de Operadoras do Transporte Público e Vale-Transporte, versão 2026.10.21. DOI: https://doi.org/10.5281/zenodo.23486211. https://github.com/OtimizaPro/tarifas_integracoestarifarias_transportepublico_brasileiro
+Como citar: Fonte: Otimiza.pro, Base Nacional de Tarifas e Integrações de Operadoras do Transporte Público e Vale-Transporte, versão 2026.10.21.2. DOI: https://doi.org/10.5281/zenodo.23486211. https://github.com/OtimizaPro/tarifas_integracoestarifarias_transportepublico_brasileiro
 
 ## AC
 
@@ -229,6 +229,14 @@ Página da cidade: https://otimizapro.com/tarifa/ba/lauro-de-freitas
 Fonte (página oficial): https://www.ba.gov.br/agerba/sites/site-agerba/files/2025-08/CAT%20financeiro%20-%20Expresso%20Luxo%20%28metropolitano%29%20%281%29.pdf
 
 Integração em Lauro de Freitas: A AGERBA informa que a integração com o metrô no Terminal Aeroporto dá acesso a Lauro de Freitas 'mediante tarifa integrada', sem detalhar valor ou janela
+
+### Luís Eduardo Magalhães (BA)
+
+Em Luís Eduardo Magalhães (BA), a passagem de ônibus custa R$ 4,00, conforme Decreto nº 750/2022; valor conferido em 18/10/2026 pela Base Nacional de Tarifas e Integrações de VT da Otimiza.pro.
+
+Página da cidade: https://otimizapro.com/tarifa/ba/luis-eduardo-magalhaes
+
+Fonte (página oficial): https://www.luiseduardomagalhaes.ba.gov.br/noticias/luis-eduardo-tera-esquema-especial-de-transporte-durante-o-aviva-lem/
 
 ### Porto Seguro (BA)
 
@@ -816,6 +824,16 @@ Fonte (operadora): https://www.alfetur.com.br/tarifa
 
 Vale-transporte em Alfenas: cartão Vale Transporte; emitido por Alfenas Transportes e Turismo Ltda. (Alfetur); canal de compra da empresa: cadastro da empresa só com o Cartão CNPJ; cadastro dos colaboradores por planilha oficial enviada por e-mail (nome, endereço, telefone, CPF, RG, data de nascimento e foto 3x4); recarga mensal paga por depósito bancário ou PIX, com créditos distribuídos por colaborador; contato contato@alfetur.com.br e (35) 3292-1212; retirada de cartões no escritório da empresa; liberação do crédito: cartões emitidos em até 7 dias úteis; taxa na compra: não citada na página; validade dos créditos: 180 dias a partir da recarga, contados por lote; o validador avisa 30 dias antes do vencimento.
 
+### Araguari (MG)
+
+Em Araguari (MG), a passagem de ônibus custa de R$ 4,30 a R$ 13,00 (varia com o tipo de linha) desde 15/06/2022, conforme Decreto nº 120/2022; valor conferido em 21/10/2026 pela Base Nacional de Tarifas e Integrações de VT da Otimiza.pro.
+
+Página da cidade: https://otimizapro.com/tarifa/mg/araguari
+
+Fonte (página oficial): https://sistemas.araguari.mg.gov.br/portal/feature/diario-oficial
+
+Vale-transporte em Araguari: emitido por CAF Transportes Ltda. (CAF Transportes e Utilidades EIRELI-ME, CNPJ 08.992.198/0002-20), concessionária do Contrato nº 117/2017, que vende os vales-transporte urbanos e distritais.
+
 ### Araxá (MG)
 
 Em Araxá (MG), a passagem de ônibus custa R$ 4,85 desde 05/02/2024, conforme Decreto nº 2.037/2024; valor conferido em 20/10/2026 pela Base Nacional de Tarifas e Integrações de VT da Otimiza.pro.
@@ -1075,6 +1093,16 @@ Em Itabirito (MG), a passagem de ônibus custa R$ 3,00 desde 14/03/2022, segundo
 Página da cidade: https://otimizapro.com/tarifa/mg/itabirito
 
 Fonte (página oficial): https://itabirito.mg.gov.br/noticia/mais-linhas-atendimento-a-zona-rural-e-tarifa-reduzida-prefeitura-de-itabirito-anuncia-melhorias-no-transporte-coletivo/
+
+### Itajubá (MG)
+
+Em Itajubá (MG), a passagem de ônibus custa de R$ 3,90 a R$ 4,00 (varia com o cartão ou o meio de pagamento), conforme Terceiro Termo Aditivo ao Contrato de Concessão nº 074/2004; valor conferido em 21/10/2026 pela Base Nacional de Tarifas e Integrações de VT da Otimiza.pro.
+
+Página da cidade: https://otimizapro.com/tarifa/mg/itajuba
+
+Fonte (página oficial): https://www.dosp.com.br/exibe_do.php?i=MzgzNDA1
+
+Tarifa zero em Itajubá: Isenção total de tarifa nas linhas municipais urbanas da Expresso Valênia no eventual segundo turno das Eleições de 2026, em 25/10/2026, durante o horário oficial de votação (início às 8h, término entre 17h e 19h); na área rural, o Município faz o transporte com frota própria.
 
 ### Itaúna (MG)
 
@@ -1724,6 +1752,14 @@ Integração em Ananindeua: No BRT Metropolitano, tarifa única com integração
 
 Tarifa zero em Ananindeua: BRT Metropolitano sem cobrança aos domingos e feriados nacionais ou estaduais; não vale nos feriados municipais (Arcon)
 
+### Barcarena (PA)
+
+Em Barcarena (PA), a passagem de ônibus custa R$ 4,60 desde 28/03/2026, conforme Decreto nº 0134/2026-GPMB; valor conferido em 21/10/2026 pela Base Nacional de Tarifas e Integrações de VT da Otimiza.pro.
+
+Página da cidade: https://otimizapro.com/tarifa/pa/barcarena
+
+Fonte (página oficial): https://blobdom.barcarena.pa.gov.br/pdf/589e4b6b-3617-4728-b8f7-3f7b43135651
+
 ### Belém (PA)
 
 Em Belém (PA), a passagem de ônibus custa R$ 4,60 desde 14/04/2025, segundo a publicação oficial (Agência Belém); valor conferido em 17/10/2026 pela Base Nacional de Tarifas e Integrações de VT da Otimiza.pro.
@@ -1764,6 +1800,16 @@ Fonte (página oficial): https://www.canaadoscarajas.pa.gov.br/novo/onibus-colet
 
 Integração em Canaã dos Carajás: Troca de ônibus em até 90 minutos sem pagar nova tarifa, pelo sistema de bilhetagem eletrônica
 
+### Castanhal (PA)
+
+Em Castanhal (PA), a passagem de ônibus custa R$ 4,65 desde 07/08/2026, conforme Contrato Administrativo nº 26-0408-001-SEMUTRAN/2026; valor conferido em 21/10/2026 pela Base Nacional de Tarifas e Integrações de VT da Otimiza.pro.
+
+Página da cidade: https://otimizapro.com/tarifa/pa/castanhal
+
+Fonte (página oficial): https://pncp.gov.br/pncp-api/v1/orgaos/15527565000107/compras/2026/1/arquivos/2
+
+Integração em Castanhal: Integração tarifária automática com o bilhete eletrônico: o usuário pode usar mais de um ônibus pagando uma só passagem, dentro de até uma hora; quem paga em dinheiro não tem o benefício.
+
 ### Marabá (PA)
 
 Em Marabá (PA), a passagem de ônibus custa R$ 4,00, segundo a publicação oficial (Prefeitura de Marabá, notícia oficial de 24/09/2026); valor conferido em 17/10/2026 pela Base Nacional de Tarifas e Integrações de VT da Otimiza.pro.
@@ -1785,6 +1831,16 @@ Fonte (página oficial): https://www.arcon.pa.gov.br/noticia/corpus-christi-brt-
 Vale-transporte em Marituba: cartão Usuário de Vale Transporte Pra Já; emitido por Autopass, concessionária do Sistema de Bilhetagem Digital (SBD) do SIT/RMB; canal de compra da empresa: a empresa se cadastra e cadastra os colaboradores no portal da bilhetagem (https://tclient.inter.belem.orbi.autopasscorp.com/login), e o cartão é carregado com os créditos que o empregador autoriza; o trabalhador pede o cartão pelo RH da empresa.
 
 Integração em Marituba: Tarifa única de R$ 4,60 em todo o SIT/RMB; as linhas alimentadoras se integram às troncais nos terminais de Ananindeua e Marituba, sem pagamento adicional dentro das áreas dos terminais e estações.
+
+### Paragominas (PA)
+
+Em Paragominas (PA), a passagem de ônibus custa R$ 5,83 desde 01/01/2026, conforme Decreto Municipal nº 519/2025; valor conferido em 21/10/2026 pela Base Nacional de Tarifas e Integrações de VT da Otimiza.pro.
+
+Página da cidade: https://otimizapro.com/tarifa/pa/paragominas
+
+Fonte (página oficial): https://www.diariomunicipal.com.br/famep/materia/5AF3D20C
+
+Vale-transporte em Paragominas: emitido por Transportes Caliman Ltda.; canal de compra da empresa: compra direta da operadora (a Prefeitura de Paragominas compra o vale-transporte por contrato com a Transportes Caliman Ltda., que fornece os créditos eletrônicos em cartão magnético).
 
 ### Parauapebas (PA)
 
@@ -2105,6 +2161,16 @@ Vale-transporte em Apucarana: cartão Passe Fácil (a modalidade de VT não é d
 Integração em Apucarana: Programa Apucarana Integrada, desde 10/08/2026: com o Cartão Passe Fácil ou o aplicativo BiPay, o passageiro troca de ônibus em qualquer ponto da cidade sem pagar nova tarifa e sem precisar passar pelo Terminal Urbano; o tempo é de 1 hora na maioria das linhas e de 1h20 em algumas linhas, contado da passagem do cartão pela roleta. Pagamento em dinheiro, débito ou crédito não dá integração. A notícia de lançamento (10/07/2026) fala em embarque 'em uma segunda ou mais linhas'.
 
 Tarifa zero em Apucarana: Transporte coletivo urbano gratuito das 6h às 19h no 1º turno das Eleições 2026 (04/10/2026) e, se houver, no 2º turno (25/10/2026)
+
+### Arapongas (PR)
+
+Em Arapongas (PR), a passagem de ônibus custa R$ 5,00 desde 01/01/2026, conforme Decreto nº 1223/25; valor conferido em 21/10/2026 pela Base Nacional de Tarifas e Integrações de VT da Otimiza.pro.
+
+Página da cidade: https://otimizapro.com/tarifa/pr/arapongas
+
+Fonte (página oficial): https://arapongas.atende.net/atende.php?rot=54002&aca=737&processo=download&parametro=%7B%22codigo%22%3A%224189%22%2C%22hash%22%3A%22846B29E61BCEC456DF349BE51DF4B6A4A643AC43%22%7D&cidade=padrao
+
+Vale-transporte em Arapongas: emitido por TUA - Transporte Urbano Arapongas Ltda. (CNPJ 02.867.960/0001-89); canal de compra da empresa: compra junto à operadora TUA (é assim que a Prefeitura compra o vale-transporte municipal, por inexigibilidade, Ata de Registro de Preços nº 455/2023); o canal para as demais empresas não foi achado.
 
 ### Araucária (PR)
 
@@ -2867,6 +2933,16 @@ Página da cidade: https://otimizapro.com/tarifa/rj/teresopolis
 Fonte (imprensa): https://netdiario.com.br/noticias/onibus-teresopolis-tera-linha-regular-gratuita-para-o-segundo-distrito/
 
 Tarifa zero em Teresópolis: Domingão Tarifa Zero: ônibus urbanos gratuitos aos domingos e feriados específicos
+
+### Três Rios (RJ)
+
+Em Três Rios (RJ), a passagem de ônibus custa R$ 5,00 desde 31/03/2026, conforme Decreto nº 7.590/2026; valor conferido em 21/10/2026 pela Base Nacional de Tarifas e Integrações de VT da Otimiza.pro.
+
+Página da cidade: https://otimizapro.com/tarifa/rj/tres-rios
+
+Fonte (página oficial): https://tresrios.rj.gov.br/uploads/2026/03/BIO-N2229-25032026.pdf
+
+Tarifa zero em Três Rios: Suspensão da cobrança da tarifa pública no Transporte Coletivo Convencional Municipal das 06h às 20h de 04/10/2026 (1º turno das eleições) e, caso haja 2º turno, de 25/10/2026, no mesmo horário, com a frota de dia útil.
 
 ### Volta Redonda (RJ)
 
@@ -3697,6 +3773,16 @@ Fonte (página oficial): https://diariomunicipal.sc.gov.br/arquivosbd/atos/2020/
 Vale-transporte em Guaramirim: cartão TEM Vale-Transporte; emitido por Viação Canarinho Ltda.; canal de compra da empresa: A empresa cadastra cada colaborador e entrega o cartão; compra de créditos pelo SAE (Sistema de Arrecadação Eletrônica da Canarinho, portal guaramirimsbe.com.br/sbe-web), com pagamento por boleto bancário; atendimento no posto da Canarinho em Guaramirim; o crédito é carregado por recarga embarcada nos ônibus; validade dos créditos: Sem limite de validade; cartão sem uso por um ano fica inativo e o saldo é bloqueado, recuperável a pedido do titular.
 
 Integração em Guaramirim: Integração temporal: a tarifa paga com o Cartão Eletrônico do Transporte Público Municipal vale por 60 minutos para desembarcar e embarcar em outra linha sem novo desconto; não vale para as linhas intermunicipais
+
+### Içara (SC)
+
+Em Içara (SC), a passagem de ônibus custa R$ 4,70 desde 19/05/2025, conforme Decreto nº 114/2025; valor conferido em 21/10/2026 pela Base Nacional de Tarifas e Integrações de VT da Otimiza.pro.
+
+Página da cidade: https://otimizapro.com/tarifa/sc/icara
+
+Fonte (página oficial): https://diariomunicipal.sc.gov.br/atos/7228766
+
+Vale-transporte em Içara: cartão eletrônico do tipo VALE-TRANSPORTE do Sistema de Bilhetagem Eletrônica de Içara (Decreto nº 113/2025, art. 12); emitido por Expresso Coletivo Içarense Ltda. (concessionária), que emite o cartão, faz a venda antecipada de passagens e mantém o cadastro dos usuários (Decreto nº 113/2025, art. 11); validade dos créditos: créditos registrados em Unidades Tarifárias de R$ 0,01; em reajuste, as unidades compradas antes mantêm o poder de compra por até 30 dias (Decreto nº 113/2025, art. 13).
 
 ### Indaial (SC)
 
@@ -4691,6 +4777,16 @@ Página da cidade: https://otimizapro.com/tarifa/sp/itu
 Fonte (operadora): https://movitu.com.br/cadastro-escolar/
 
 Vale-transporte em Itu: cartão MoV Vale-Transporte (VT); emitido por MoV Itu (West Side Viagens e Turismo Ltda.); canal de compra da empresa: Portal de vendas ligado no site da MoV Itu: a empresa cadastra a si e aos funcionários, faz o pedido de créditos e paga por boleto; a empresa também pode levar os cartões dos funcionários aos pontos de venda da MoV e recarregar em dinheiro; liberação do crédito: bilhetes de VT emitidos e disponibilizados em até 5 dias úteis depois da confirmação do pagamento; taxa na compra: Taxa de conveniência no portal de vendas: 3% sobre o total dos pedidos acima de R$ 130,00 e R$ 3,90 fixos abaixo disso; sem taxa na recarga paga em dinheiro nos pontos de venda.
+
+### Itupeva (SP)
+
+Em Itupeva (SP), a passagem de ônibus custa R$ 4,50 desde 28/11/2022, conforme Decreto nº 3.558/2022; valor conferido em 18/10/2026 pela Base Nacional de Tarifas e Integrações de VT da Otimiza.pro.
+
+Página da cidade: https://otimizapro.com/tarifa/sp/itupeva
+
+Fonte (página oficial): https://www.dosp.com.br/exibe_do.php?i=MzAzMzE4
+
+Vale-transporte em Itupeva: emitido por Viação Itupeva Ltda. (CNPJ 69.004.083/0001-93).
 
 ### Jaboticabal (SP)
 

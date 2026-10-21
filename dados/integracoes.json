@@ -1,6 +1,6 @@
 {
  "nome": "Base Nacional de Tarifas e Integrações de Operadoras do Transporte Público e Vale-Transporte: integracoes",
- "versao": "2026.10.21",
+ "versao": "2026.10.21.2",
  "licenca": {
   "nome": "CC BY-NC 4.0",
   "url": "https://creativecommons.org/licenses/by-nc/4.0/deed.pt-br",
@@ -8,7 +8,7 @@
   "uso_interno": "A consulta para decisões da própria empresa, como orçar o vale-transporte, não pede licença.",
   "uso_comercial": "Uso comercial por empresas (em produto, revenda ou integração em sistema ou serviço pago) pede licença da Otimiza.pro: empresa@otimiza.pro."
  },
- "citar_como": "Fonte: Otimiza.pro, Base Nacional de Tarifas e Integrações de Operadoras do Transporte Público e Vale-Transporte, versão 2026.10.21. DOI: https://doi.org/10.5281/zenodo.23486211. https://github.com/OtimizaPro/tarifas_integracoestarifarias_transportepublico_brasileiro",
+ "citar_como": "Fonte: Otimiza.pro, Base Nacional de Tarifas e Integrações de Operadoras do Transporte Público e Vale-Transporte, versão 2026.10.21.2. DOI: https://doi.org/10.5281/zenodo.23486211. https://github.com/OtimizaPro/tarifas_integracoestarifarias_transportepublico_brasileiro",
  "linhas": [
   {
    "uf": "AC",
@@ -549,6 +549,18 @@
    "fonte_url": "https://www.canaadoscarajas.pa.gov.br/novo/onibus-coletivo-passa-a-operar-somente-com-bilhetagem-eletronica/",
    "confianca": "B",
    "verificado_em": "2026-10-18"
+  },
+  {
+   "uf": "PA",
+   "municipio": "Castanhal",
+   "cod_ibge": "1502400",
+   "regra": "Integração tarifária automática com o bilhete eletrônico: o usuário pode usar mais de um ônibus pagando uma só passagem, dentro de até uma hora; quem paga em dinheiro não tem o benefício.",
+   "janela_min": 60,
+   "embarques": null,
+   "quem_tem_direito": "usuários do bilhete eletrônico",
+   "fonte_url": "https://castanhal.pa.gov.br/novo-sistema-de-transporte-publico-ja-esta-em-operacao-em-castanhal/",
+   "confianca": "B",
+   "verificado_em": "2026-10-21"
   },
   {
    "uf": "PA",

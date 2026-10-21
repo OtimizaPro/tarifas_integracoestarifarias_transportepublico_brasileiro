@@ -1,6 +1,6 @@
 {
  "nome": "Base Nacional de Tarifas e Integrações de Operadoras do Transporte Público e Vale-Transporte: beneficios",
- "versao": "2026.10.21",
+ "versao": "2026.10.21.2",
  "licenca": {
   "nome": "CC BY-NC 4.0",
   "url": "https://creativecommons.org/licenses/by-nc/4.0/deed.pt-br",
@@ -8,7 +8,7 @@
   "uso_interno": "A consulta para decisões da própria empresa, como orçar o vale-transporte, não pede licença.",
   "uso_comercial": "Uso comercial por empresas (em produto, revenda ou integração em sistema ou serviço pago) pede licença da Otimiza.pro: empresa@otimiza.pro."
  },
- "citar_como": "Fonte: Otimiza.pro, Base Nacional de Tarifas e Integrações de Operadoras do Transporte Público e Vale-Transporte, versão 2026.10.21. DOI: https://doi.org/10.5281/zenodo.23486211. https://github.com/OtimizaPro/tarifas_integracoestarifarias_transportepublico_brasileiro",
+ "citar_como": "Fonte: Otimiza.pro, Base Nacional de Tarifas e Integrações de Operadoras do Transporte Público e Vale-Transporte, versão 2026.10.21.2. DOI: https://doi.org/10.5281/zenodo.23486211. https://github.com/OtimizaPro/tarifas_integracoestarifarias_transportepublico_brasileiro",
  "linhas": [
   {
    "uf": "AL",
@@ -218,13 +218,25 @@
    "uf": "BA",
    "municipio": "Jequié",
    "cod_ibge": "2918001",
-   "tipo": "tarifa_zero_temporal",
-   "regra": "Tarifa zero em datas específicas definidas pela prefeitura (São João, Dia do Evangélico, Enem e dia das eleições de 04/10/2026)",
+   "tipo": "estudante",
+   "regra": "Meia-passagem para estudantes, de 50% do valor da tarifa, segundo nota da Prefeitura (Secretaria de Serviços Públicos) reproduzida pela imprensa em 11 e 12/08/2026, durante o protesto de estudantes por tarifa zero; a Prefeitura diz que não há lei municipal ou federal que dê isenção integral aos estudantes. A nota não dá o valor da tarifa.",
    "desde": null,
    "base_legal": null,
-   "fonte_url": "https://www.jequie.ba.gov.br/noticias/2026/06/com-tarifa-zero-no-transporte-publico-prefeitura-de-jequie-reforca-inclusao-e-mobilidade-no-melhor-sao-joao-da-bahia-em-jequie",
+   "fonte_url": "https://www.bahianoticias.com.br/municipios/noticia/52051-estudantes-protestam-por-tarifa-zero-no-transporte-publico-em-cidade-baiana",
    "confianca": "B",
-   "verificado_em": "2026-10-17"
+   "verificado_em": "2026-10-21"
+  },
+  {
+   "uf": "BA",
+   "municipio": "Jequié",
+   "cod_ibge": "2918001",
+   "tipo": "tarifa_zero_temporal",
+   "regra": "Programa Tarifa Zero: isenção da tarifa pública aos domingos e em todos os feriados, das 0h às 23h59, nas linhas mantidas e gerenciadas pelo Município, com a catraca liberada pela equipe de bordo (Lei nº 2.499/2025, arts. 2º a 4º; em vigor na publicação, art. 13). A Prefeitura confirmou em 30/09/2026 que a gratuidade 'já integra a rotina do transporte coletivo aos domingos no município' (https://jequie.ba.gov.br/noticias/2026/09/prefeitura-de-jequie-garante-tarifa-zero-no-transporte-publico-no-dia-das-eleicoes-2026).",
+   "desde": "2025-12-16",
+   "base_legal": "Lei Municipal nº 2.499, de 16 de dezembro de 2025 (Diário Oficial do Município de 16/12/2025, Ano XIX, nº 4036)",
+   "fonte_url": "https://diof.io.org.br/api/diario-oficial/download/2025_12_164036004251",
+   "confianca": "A",
+   "verificado_em": "2026-10-21"
   },
   {
    "uf": "BA",
@@ -1260,6 +1272,30 @@
   },
   {
    "uf": "MG",
+   "municipio": "Itajubá",
+   "cod_ibge": "3132404",
+   "tipo": "estudante",
+   "regra": "Redução de 50% da tarifa aos estudantes nos horários escolares, com a passagem comprada no cartão Transcard e a carteira de estudante ou identificação (Terceiro Termo Aditivo ao Contrato de Concessão nº 074/2004, cláusula 2.2).",
+   "desde": null,
+   "base_legal": "Terceiro Termo Aditivo ao Contrato de Concessão nº 074/2004, de 13/07/2023, cláusula 2.2",
+   "fonte_url": "https://www.dosp.com.br/exibe_do.php?i=MzgzNDA1",
+   "confianca": "A",
+   "verificado_em": "2026-10-21"
+  },
+  {
+   "uf": "MG",
+   "municipio": "Itajubá",
+   "cod_ibge": "3132404",
+   "tipo": "tarifa_zero_temporal",
+   "regra": "Isenção total de tarifa nas linhas municipais urbanas da Expresso Valênia no eventual segundo turno das Eleições de 2026, em 25/10/2026, durante o horário oficial de votação (início às 8h, término entre 17h e 19h); na área rural, o Município faz o transporte com frota própria.",
+   "desde": "2026-10-25",
+   "base_legal": "4º Termo de Aditamento ao Contrato nº 074/2004 (Diário de 25/09/2026, nº 824), corrigido pelo 5º Termo de Aditamento, de 30/09/2026 (Diário de 01/10/2026, nº 828)",
+   "fonte_url": "https://www.dosp.com.br/exibe_do.php?i=ODg4ODY1",
+   "confianca": "B",
+   "verificado_em": "2026-10-21"
+  },
+  {
+   "uf": "MG",
    "municipio": "Itaúna",
    "cod_ibge": "3133808",
    "tipo": "estudante",
@@ -1629,6 +1665,18 @@
    "fonte_url": "https://www.ribeiraodasneves.mg.gov.br/src/pages/horariodeonibus.html",
    "confianca": "A",
    "verificado_em": "2026-10-17"
+  },
+  {
+   "uf": "MG",
+   "municipio": "Sabará",
+   "cod_ibge": "3156700",
+   "tipo": "tarifa_zero_temporal",
+   "regra": "Transporte suplementar por vans sem cobrança de passagem até a chegada dos novos ônibus e a implantação do sistema de bilhetagem (Sabará Pass), sem data marcada; desde 21/10/2026 é o único transporte coletivo municipal. A operação experimental começou em 28/09/2026, com a primeira semana anunciada como gratuita.",
+   "desde": "2026-09-28",
+   "base_legal": null,
+   "fonte_url": "https://www.sabara.mg.gov.br/noticias/geral/prefeitura-de-sabara-avanca-na-implantacao-do-novo-transporte-publico-apos-encerramento-do-contrato-com-a-vinscol",
+   "confianca": "B",
+   "verificado_em": "2026-10-21"
   },
   {
    "uf": "MG",
@@ -2112,6 +2160,18 @@
   },
   {
    "uf": "PA",
+   "municipio": "Barcarena",
+   "cod_ibge": "1501303",
+   "tipo": "estudante",
+   "regra": "Meia tarifa para estudantes regularmente matriculados na rede de ensino; o mesmo artigo mantém as gratuidades previstas em lei.",
+   "desde": null,
+   "base_legal": "Decreto nº 0134/2026-GPMB, art. 3º",
+   "fonte_url": "https://blobdom.barcarena.pa.gov.br/pdf/589e4b6b-3617-4728-b8f7-3f7b43135651",
+   "confianca": "A",
+   "verificado_em": "2026-10-21"
+  },
+  {
+   "uf": "PA",
    "municipio": "Belém",
    "cod_ibge": "1501402",
    "tipo": "tarifa_zero_temporal",
@@ -2157,6 +2217,30 @@
    "fonte_url": "https://www.canaadoscarajas.pa.gov.br/novo/conselho-municipal-de-transito-e-transporte-aprova-valor-do-transporte-coletivo-em-canaa-dos-carajas/",
    "confianca": "A",
    "verificado_em": "2026-10-18"
+  },
+  {
+   "uf": "PA",
+   "municipio": "Castanhal",
+   "cod_ibge": "1502400",
+   "tipo": "estudante",
+   "regra": "Meia passagem (50% da tarifa) para estudantes regularmente matriculados no ensino fundamental, médio e superior, em cursos pré-vestibulares, técnicos e tecnológicos e na pós-graduação.",
+   "desde": null,
+   "base_legal": "Lei Orgânica do Município de Castanhal, art. 156, IV; Termo de Referência da Concorrência Eletrônica nº 002/2026, item 11.1",
+   "fonte_url": "https://pncp.gov.br/pncp-api/v1/orgaos/15527565000107/compras/2026/1/arquivos/1",
+   "confianca": "A",
+   "verificado_em": "2026-10-21"
+  },
+  {
+   "uf": "PA",
+   "municipio": "Castanhal",
+   "cod_ibge": "1502400",
+   "tipo": "idoso",
+   "regra": "Gratuidade para pessoas com 60 anos ou mais (critério mínimo da concessão), além de crianças menores de 6 anos e pessoas com deficiência com reconhecida dificuldade de locomoção, pela Lei Orgânica Municipal, repetida no Termo de Referência da concessão.",
+   "desde": null,
+   "base_legal": "Lei Orgânica do Município de Castanhal, art. 156, IV; Termo de Referência da Concorrência Eletrônica nº 002/2026, item 11.1",
+   "fonte_url": "https://pncp.gov.br/pncp-api/v1/orgaos/15527565000107/compras/2026/1/arquivos/1",
+   "confianca": "A",
+   "verificado_em": "2026-10-21"
   },
   {
    "uf": "PA",
@@ -3204,6 +3288,18 @@
   },
   {
    "uf": "RJ",
+   "municipio": "Itaguaí",
+   "cod_ibge": "3302007",
+   "tipo": "tarifa_zero_temporal",
+   "regra": "Transporte gratuito para eleitores nos dias de eleição de 2026 (04/10 e 25/10, das 06h30 às 19h20), em oito linhas especiais operadas com ônibus escolares da Secretaria Municipal de Educação, mediante documento de eleitor. Não é serviço regular (a cidade não tem ônibus municipal em operação) e não vale nas linhas intermunicipais.",
+   "desde": "2026-10-04",
+   "base_legal": "Decreto nº 5.036, de 01/09/2026 (Jornal Oficial de Itaguaí nº 1.512, de 02/09/2026)",
+   "fonte_url": "https://www.attosoficiais.com.br/api/pdf?id=1zlS4f_yTui76uCdU1VoP7ERbDIclvKIb&n=1512",
+   "confianca": "A",
+   "verificado_em": "2026-10-21"
+  },
+  {
+   "uf": "RJ",
    "municipio": "Itatiaia",
    "cod_ibge": "3302254",
    "tipo": "idoso",
@@ -3441,6 +3537,18 @@
    "fonte_url": "https://netdiario.com.br/noticias/tem-inicio-o-transporte-coletivo-gratuito-aos-domingos-em-teresopolis/",
    "confianca": "B",
    "verificado_em": "2026-10-17"
+  },
+  {
+   "uf": "RJ",
+   "municipio": "Três Rios",
+   "cod_ibge": "3306008",
+   "tipo": "tarifa_zero_temporal",
+   "regra": "Suspensão da cobrança da tarifa pública no Transporte Coletivo Convencional Municipal das 06h às 20h de 04/10/2026 (1º turno das eleições) e, caso haja 2º turno, de 25/10/2026, no mesmo horário, com a frota de dia útil.",
+   "desde": "2026-10-04",
+   "base_legal": "Decreto nº 7.681, de 3 de agosto de 2026 (BIO nº 2.254, de 05/08/2026, págs. 10 e 11)",
+   "fonte_url": "https://tresrios.rj.gov.br/uploads/2026/08/BIO-N2254-05082026.pdf",
+   "confianca": "A",
+   "verificado_em": "2026-10-21"
   },
   {
    "uf": "RJ",
@@ -4659,12 +4767,12 @@
    "municipio": "Avaré",
    "cod_ibge": "3504503",
    "tipo": "idoso",
-   "regra": "Cartão MoV Idoso para quem tem 65 anos ou mais; Cartão MoV Social para pessoas de 60 a 64 anos, com gratuidade oferecida pela prefeitura, que compra os créditos pelo Portal de Vendas MoV; cartões Especial e Especial com Acompanhante para pessoas com deficiência impossibilitadas ao trabalho.",
+   "regra": "Cartão MoV Idoso para pessoas com 65 anos ou mais e Cartão MoV Social para pessoas de 60 a 64 anos, 11 meses e 29 dias, 'para as quais a Prefeitura também oferece a gratuidade'; o Cartão Social é pedido na Prefeitura, que compra os créditos pelo Portal de Vendas MoV.",
    "desde": null,
    "base_legal": null,
    "fonte_url": "https://movavare.com.br/cartoes-mov/",
    "confianca": "B",
-   "verificado_em": "2026-10-20"
+   "verificado_em": "2026-10-21"
   },
   {
    "uf": "SP",
