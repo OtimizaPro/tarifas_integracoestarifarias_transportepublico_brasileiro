@@ -1,8 +1,8 @@
 # Tarifas do transporte público por cidade (Otimiza.pro)
 
-Quanto custa o transporte público em 499 municípios brasileiros, segundo a Base Nacional de Tarifas e Integrações de VT da Otimiza.pro (versão 2026.10.20.16). Cada frase traz o valor, a fonte e a data em que a Otimiza.pro conferiu e, quando a fonte informa, o ato oficial e a data em que passou a valer. A fonte oficial de cada valor está indicada. Onde há dados de serviço e oferta, a ficha traz também linhas e passageiros, com a fonte e a data.
+Quanto custa o transporte público em 506 municípios brasileiros, segundo a Base Nacional de Tarifas e Integrações de VT da Otimiza.pro (versão 2026.10.20.17). Cada frase traz o valor, a fonte e a data em que a Otimiza.pro conferiu e, quando a fonte informa, o ato oficial e a data em que passou a valer. A fonte oficial de cada valor está indicada. Onde há dados de serviço e oferta, a ficha traz também linhas e passageiros, com a fonte e a data.
 
-Como citar: Fonte: Otimiza.pro, Base Nacional de Tarifas e Integrações de Operadoras do Transporte Público e Vale-Transporte, versão 2026.10.20.16. DOI: https://doi.org/10.5281/zenodo.23486211. https://github.com/OtimizaPro/tarifas_integracoestarifarias_transportepublico_brasileiro
+Como citar: Fonte: Otimiza.pro, Base Nacional de Tarifas e Integrações de Operadoras do Transporte Público e Vale-Transporte, versão 2026.10.20.17. DOI: https://doi.org/10.5281/zenodo.23486211. https://github.com/OtimizaPro/tarifas_integracoestarifarias_transportepublico_brasileiro
 
 ## AC
 
@@ -140,6 +140,16 @@ Página da cidade: https://otimizapro.com/tarifa/ba/catu
 
 Fonte (página oficial): https://sai.io.org.br/Handler.ashx?f=diario&query=4304&c=181&m=0
 
+### Dias d'Ávila (BA)
+
+Em Dias d'Ávila (BA), a passagem de ônibus custa de R$ 4,20 a R$ 7,00 (varia com o tipo de linha) desde 24/03/2023, conforme Decreto nº 1.838/2023; valor conferido em 20/10/2026 pela Base Nacional de Tarifas e Integrações de VT da Otimiza.pro.
+
+Página da cidade: https://otimizapro.com/tarifa/ba/dias-d-avila
+
+Fonte (página oficial): https://diof.io.org.br/api/diario-oficial/download/2023_03_202049002351
+
+Vale-transporte em Dias d'Ávila: cartão Eletrônico VTE; emitido por Metropasse; canal de compra da empresa: VTE Online, pela internet: a empresa obtém as primeiras vias dos cartões em regime de consignação e recarrega os créditos; central de atendimento VTE (71) 3276-8990; validade dos créditos: 60 dias, fora o mês da aquisição.
+
 ### Eunápolis (BA)
 
 Em Eunápolis (BA), a passagem de ônibus custa R$ 3,00 desde 20/04/2026, segundo a publicação oficial (Prefeitura de Eunápolis, Secretaria de Comunicação, notícia de 20/04/2026); valor conferido em 20/10/2026 pela Base Nacional de Tarifas e Integrações de VT da Otimiza.pro.
@@ -245,6 +255,16 @@ SalvadorCARD (VTE): cobre ônibus municipais de Salvador (STCO, inclusive BRT), 
 Metropasse (VTE): cobre ônibus metropolitanos da RMS (empresas do Metropasse) e metrô; o cartão VT Metropasse também passa nos ônibus urbanos e no BRT de Salvador, com débito da tarifa correspondente; cartão Eletrônico VTE do Metropasse; emitido por Metropasse; canal de compra da empresa: VTE Online do Metropasse (cadastro e compra de cartões e créditos pela internet, a partir de metropasse.com.br); atendimento VTE (71) 3276-8990; validade dos créditos: 60 dias, fora o mês da aquisição.
 
 Integração em Salvador: ônibus x ônibus: uma integração, mesmo sentido, outra linha; com metrô: até 3 viagens em 2h (3h quando entra ônibus metropolitano)
+
+### Santo Antônio de Jesus (BA)
+
+Em Santo Antônio de Jesus (BA), a passagem de ônibus custa R$ 5,20 desde 29/04/2026, conforme Decreto Municipal nº 129/2026; valor conferido em 20/10/2026 pela Base Nacional de Tarifas e Integrações de VT da Otimiza.pro.
+
+Página da cidade: https://otimizapro.com/tarifa/ba/santo-antonio-de-jesus
+
+Fonte (página oficial): https://diof.io.org.br/api/diario-oficial/download/2026_04_2913306006991
+
+Tarifa zero em Santo Antônio de Jesus: Suspensão da cobrança da tarifa pública, sem cadastro nem requisito, das 06h às 20h de 25/10/2026 (segundo turno das eleições de 2026), em ônibus convencionais e micro-ônibus, com frequência de dia útil.
 
 ### Simões Filho (BA)
 
@@ -2196,6 +2216,16 @@ Fonte (página oficial): https://www.amep.pr.gov.br/Pagina/Tarifa-de-onibus
 
 Integração em Colombo: Integração física nos terminais metropolitanos e integração temporal em pontos definidos pela AMEP: com o Metrocard, segunda linha sem nova tarifa em até 2h30 após o primeiro pagamento, com regras de sentido por ponto; não vale com cartões de sistemas municipais
 
+### Cornélio Procópio (PR)
+
+Em Cornélio Procópio (PR), a passagem de ônibus custa R$ 6,50, segundo a operadora (Viação Procopense, Ofício nº 005/2024, 19/08/2024 ao Prefeito de Cornélio Procópio, juntado ao Contrato nº 007/2024 da Prefeitura, Inexigibilidade nº 001/2024 e publicado no PNCP); valor conferido em 20/10/2026 pela Base Nacional de Tarifas e Integrações de VT da Otimiza.pro.
+
+Página da cidade: https://otimizapro.com/tarifa/pr/cornelio-procopio
+
+Fonte (operadora): https://pncp.gov.br/pncp-api/v1/orgaos/76331941000170/contratos/2024/215/arquivos/3
+
+Vale-transporte em Cornélio Procópio: emitido por Transporte Coletivo Procopense Ltda. (Viação Procopense).
+
 ### Curitiba (PR)
 
 Em Curitiba (PR), a passagem de ônibus custa R$ 6,00 desde 01/03/2023, conforme Decreto municipal nº 306/2023; valor conferido em 18/10/2026 pela Base Nacional de Tarifas e Integrações de VT da Otimiza.pro.
@@ -2448,6 +2478,14 @@ Fonte (operadora): https://viacaosaojose.com.br/tarifas/
 
 Integração em São José dos Pinhais: Com o cartão VEM, a alimentadora do PIT custa R$ 0,50 e a linha tronco (200 ou 150) cobra complemento de R$ 3,60 no sentido bairro/centro; no sentido centro/bairro paga R$ 4,60 na tronco e mais R$ 0,50 na alimentadora. Em 2023, integração com linhas metropolitanas no Terminal Central custava R$ 0,30 a mais.
 
+### São Mateus do Sul (PR)
+
+Em São Mateus do Sul (PR), a passagem de ônibus custa de R$ 3,50 a R$ 10,00 (varia com o tipo de linha) desde 10/03/2022, conforme Decreto nº 380/2022; valor conferido em 20/10/2026 pela Base Nacional de Tarifas e Integrações de VT da Otimiza.pro.
+
+Página da cidade: https://otimizapro.com/tarifa/pr/sao-mateus-do-sul
+
+Fonte (página oficial): https://www.saomateusdosul.pr.gov.br/portal/diario-oficial/ver/2817/
+
 ### Sarandi (PR)
 
 Em Sarandi (PR), a passagem de ônibus custa R$ 5,70 desde 01/07/2022, segundo a imprensa (Maringa.Com, 'Tarifa do transporte metropolitano da região de Maringá tem reajuste de 28%', 30/06/2022); valor conferido em 20/10/2026 pela Base Nacional de Tarifas e Integrações de VT da Otimiza.pro.
@@ -2533,6 +2571,18 @@ Em Armação dos Búzios (RJ), a passagem do transporte alternativo (vans e micr
 Página da cidade: https://otimizapro.com/tarifa/rj/armacao-dos-buzios
 
 Fonte (página oficial): https://buzios.rj.gov.br/decreto-de-reajuste-de-tarifas-do-transporte-coletivo-urbano-de-passageiros-ja-esta-em-vigor/
+
+### Barra do Piraí (RJ)
+
+Em Barra do Piraí (RJ), a passagem de ônibus custa R$ 3,60, segundo a publicação oficial (Prefeitura de Barra do Piraí, Edital da Concorrência Presencial nº 001/2025, concessão do transporte coletivo por 20 anos, Projeto Básico, item 3.3 Tarifas, publicado no PNCP em 05/12/2025); valor conferido em 20/10/2026 pela Base Nacional de Tarifas e Integrações de VT da Otimiza.pro.
+
+Página da cidade: https://otimizapro.com/tarifa/rj/barra-do-pirai
+
+Fonte (página oficial): https://pncp.gov.br/pncp-api/v1/orgaos/28576080000147/compras/2025/161/arquivos/1
+
+Vale-transporte em Barra do Piraí: cartão de ônibus da Bamonte em Barra do Piraí; emitido por Bamonte Transportes; canal de compra da empresa: portal bppag.com.br, com as opções "Portal Barra do Piraí Empresas" e "Portal de Vendas VT", que leva ao TDMax Web Commerce da Transdata (max00691.itstransdata.com), com login e senha; taxa na compra: não citada nas páginas abertas (o TDMax Web Commerce só abre com login).
+
+Tarifa zero em Barra do Piraí: Tarifa zero em dias definidos pela Prefeitura, sem regra fixa achada: no feriado de 01/05/2026 (Prefeitura e Diário do Transporte, 01/05/2026), no feriado de 07/09/2026 das 6h às 17h (Diário do Vale, 05/09/2026) e no dia da eleição, 04/10/2026, em todas as linhas municipais das 6h às 20h (notícia da Prefeitura de 03/10/2026).
 
 ### Barra Mansa (RJ)
 
@@ -2893,6 +2943,14 @@ Página da cidade: https://otimizapro.com/tarifa/ro/cacoal
 Fonte (página oficial): http://sapl.cacoal.ro.leg.br/media/sapl/public/normajuridica/2025/3263/lei_n._5.506-pmc-2025-dispoe_sobre_a_prorrogacao_do_prazo_disposto_no_art._5o_da_lei_5.149-pmc-2023.pdf
 
 Tarifa zero em Cacoal: Tarifa zero para todos os usuários do transporte público coletivo urbano municipal, prestado diretamente pelo Município, mantidas as isenções existentes.
+
+### Ji-Paraná (RO)
+
+Em Ji-Paraná (RO), a passagem de ônibus custa R$ 5,00 desde 27/03/2023, segundo a imprensa (g1 Rondônia, matéria de 27/03/2023); valor conferido em 20/10/2026 pela Base Nacional de Tarifas e Integrações de VT da Otimiza.pro.
+
+Página da cidade: https://otimizapro.com/tarifa/ro/ji-parana
+
+Fonte (imprensa): https://g1.globo.com/ro/rondonia/noticia/2023/03/27/ji-parana-ro-volta-a-ter-transporte-coletivo-com-passagem-a-r-5.ghtml
 
 ### Porto Velho (RO)
 
@@ -4945,6 +5003,16 @@ Fonte (página oficial): https://www.novaodessa.sp.gov.br/noticias/destaques/dec
 Vale-transporte em Nova Odessa: cartão Vale-Transporte (VT) MoV; emitido por MoV Nova Odessa; canal de compra da empresa: Portal de vendas ligado no site da MoV Nova Odessa (link 'Compre aqui!', http://189.44.98.122:8575/login/): o empregador cadastra a empresa e os funcionários, faz o pedido de créditos e emite o boleto; liberação do crédito: bilhetes de VT emitidos e disponibilizados em até cinco dias úteis após a confirmação do pagamento; taxa na compra: Taxa de conveniência de 3% sobre o total dos pedidos acima de R$ 130,00; abaixo desse valor, R$ 3,90 fixos por pedido (portal de vendas de VT, segundo a página Cartões MoV).
 
 Tarifa zero em Nova Odessa: Transporte coletivo municipal gratuito para todos os usuários no 2º turno das eleições, em 25/10/2026, das 6h às 22h.
+
+### Olímpia (SP)
+
+Em Olímpia (SP), a passagem de ônibus custa R$ 4,10 desde 08/2019, segundo a publicação oficial (Prefeitura da Estância Turística de Olímpia, notícia de 11/03/2022); valor conferido em 20/10/2026 pela Base Nacional de Tarifas e Integrações de VT da Otimiza.pro.
+
+Página da cidade: https://otimizapro.com/tarifa/sp/olimpia
+
+Fonte (página oficial): https://www.olimpia.sp.gov.br/portal/noticias/0/3/5565/olimpia-publica-edital-de-licitacao-para-contratar-nova-empresa-do-transporte-coletivo/
+
+Tarifa zero em Olímpia: Tarifa zero em todas as linhas urbanas e dos distritos de Baguaçu e Ribeiro dos Santos no 2º turno das eleições (25/10/2026), sem exigência de título de eleitor ou comprovante de votação; também houve gratuidade por decreto no 1º turno (04/10/2026), no Dia Mundial Sem Carro (22/09/2026), no Festival do Folclore e no Carnaval.
 
 ### Orlândia (SP)
 
