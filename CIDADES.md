@@ -1,8 +1,8 @@
 # Tarifas do transporte público por cidade (Otimiza.pro)
 
-Quanto custa o transporte público em 546 municípios brasileiros, segundo a Base Nacional de Tarifas e Integrações de VT da Otimiza.pro (versão 2026.10.22). Cada frase traz o valor, a fonte e a data em que a Otimiza.pro conferiu e, quando a fonte informa, o ato oficial e a data em que passou a valer. A fonte oficial de cada valor está indicada. Onde há dados de serviço e oferta, a ficha traz também linhas e passageiros, com a fonte e a data.
+Quanto custa o transporte público em 552 municípios brasileiros, segundo a Base Nacional de Tarifas e Integrações de VT da Otimiza.pro (versão 2026.10.22.2). Cada frase traz o valor, a fonte e a data em que a Otimiza.pro conferiu e, quando a fonte informa, o ato oficial e a data em que passou a valer. A fonte oficial de cada valor está indicada. Onde há dados de serviço e oferta, a ficha traz também linhas e passageiros, com a fonte e a data.
 
-Como citar: Fonte: Otimiza.pro, Base Nacional de Tarifas e Integrações de Operadoras do Transporte Público e Vale-Transporte, versão 2026.10.22. DOI: https://doi.org/10.5281/zenodo.23486211. https://github.com/OtimizaPro/tarifas_integracoestarifarias_transportepublico_brasileiro
+Como citar: Fonte: Otimiza.pro, Base Nacional de Tarifas e Integrações de Operadoras do Transporte Público e Vale-Transporte, versão 2026.10.22.2. DOI: https://doi.org/10.5281/zenodo.23486211. https://github.com/OtimizaPro/tarifas_integracoestarifarias_transportepublico_brasileiro
 
 ## AC
 
@@ -1209,6 +1209,18 @@ Página da cidade: https://otimizapro.com/tarifa/mg/joao-monlevade
 Fonte (operadora): https://www.enscon.com.br/Valor_Tarifa/Enscon-16%2009%202021.pdf
 
 Vale-transporte em João Monlevade: cartão Vale Transporte (cartão de transporte eletrônico da Enscon); emitido por Enscon Viação Ltda.; canal de compra da empresa: cadastro de usuários, pedidos de cartões e de créditos pelo site da operadora (sistema com login para empresas); pagamento antes do crédito por depósito, transferência, DOC, TED ou boleto; liberação do crédito: 48 horas em dias úteis (pedido pelo site e pagamento); validade dos créditos: o cartão sem uso fica inativo em 365 dias; o saldo do cartão inativo volta para a empresa.
+
+### Juatuba (MG)
+
+Em Juatuba (MG), a passagem de ônibus custa R$ 5,60 desde 17/01/2025, conforme Decreto Municipal nº 3.182/2025; valor conferido em 22/10/2026 pela Base Nacional de Tarifas e Integrações de VT da Otimiza.pro.
+
+Página da cidade: https://otimizapro.com/tarifa/mg/juatuba
+
+Fonte (página oficial): https://www.juatuba.mg.gov.br/uploads/diario_2025091617169c7b5804f8698b5cbfd440c8ff194208.pdf
+
+Vale-transporte em Juatuba: cartão ÓTIMO Vale-Transporte; emitido por Consórcio Ótimo de Bilhetagem Eletrônica; canal de compra da empresa: modalidade Carga a Bordo: contrato baixado no site, assinado e anexado ao formulário de cadastramento on-line, com cartões retirados na loja ou enviados pelos Correios; modalidade Carga no Posto: contrato de cessão de cartões na loja do Bairro Floresta, em Belo Horizonte; taxa na compra: 1% sobre o valor total do pedido de créditos na modalidade Carga a Bordo, com mínimo de R$ 0,45 por cartão (cláusula 6.2 do contrato de Carga a Bordo do Ótimo, como lido na rodada 20 para São Joaquim de Bicas em 20/10/2026). Nesta rodada o PDF do contrato, escaneado, foi baixado do link da página de VT, mas não foi relido. O envio dos cartões pelos Correios tem custo informado no formulário, o que é frete e não taxa na compra..
+
+Integração em Juatuba: Integração Metropolitana do Ótimo: o usuário tem até 120 minutos mais o tempo de viagem da sua linha para pegar um 2º ônibus e paga 50% da menor tarifa; vale nas linhas metropolitanas da RMBH, e a integração com as linhas municipais de Juatuba não foi confirmada
 
 ### Juiz de Fora (MG)
 
@@ -2504,6 +2516,16 @@ Fonte (imprensa): https://folhadeirati.com.br/tarifa-zero-registra-cerca-de-348-
 
 Tarifa zero em Irati: transporte coletivo municipal gratuito para toda a população (Programa Tarifa Zero)
 
+### Jacarezinho (PR)
+
+Em Jacarezinho (PR), a passagem de ônibus custa R$ 4,75, segundo a publicação oficial (Secretaria de Estado da Cultura do Paraná, SEEC, Termo de Inexigibilidade e Termo de Referência para vale-transporte de estagiários em Jacarezinho, no PNCP, compra 77998904000182/2025/88; Prefeitura de Jacarezinho, Termo de Referência da compra 76966860000146/2026/18 no PNCP); valor conferido em 22/10/2026 pela Base Nacional de Tarifas e Integrações de VT da Otimiza.pro.
+
+Página da cidade: https://otimizapro.com/tarifa/pr/jacarezinho
+
+Fonte (página oficial): https://pncp.gov.br/pncp-api/v1/orgaos/77998904000182/compras/2025/88/arquivos/1
+
+Vale-transporte em Jacarezinho: cartão vale-transporte em papel 'Jacarezinho Municipal'; emitido por Empresa de Transporte Coletivo Jacarezinhense Ltda., telefone (43) 3525-1257; canal de compra da empresa: compra dos vales em papel junto à operadora; também por plataformas de VT, como a Benefício Fácil (código do emissor 658); liberação do crédito: entrega dos vales em 10 dias úteis depois do pagamento (Benefício Fácil).
+
 ### Jaguariaíva (PR)
 
 Em Jaguariaíva (PR), a passagem de ônibus custa R$ 1,60 desde 01/06/2025, segundo a publicação oficial (Prefeitura de Jaguariaíva, notícia de 04/06/2025 sobre o reajuste da passagem do transporte público urbano); valor conferido em 20/10/2026 pela Base Nacional de Tarifas e Integrações de VT da Otimiza.pro.
@@ -2671,6 +2693,14 @@ Página da cidade: https://otimizapro.com/tarifa/pr/rolandia
 Fonte (página oficial): https://www.rolandia.pr.gov.br/noticias_individual/18665
 
 Tarifa zero em Rolândia: dias de transporte coletivo gratuito decididos pela prefeitura com a operadora: de 07 a 24/12/2023 (até 23h30, com a ACIR), 19/12/2025 (show de Natal) e 04/10/2026 (eleições)
+
+### Santo Antônio da Platina (PR)
+
+Em Santo Antônio da Platina (PR), a passagem de ônibus custa R$ 4,30 desde 29/02/2024, conforme Decreto nº 80/2024; valor conferido em 22/10/2026 pela Base Nacional de Tarifas e Integrações de VT da Otimiza.pro.
+
+Página da cidade: https://otimizapro.com/tarifa/pr/santo-antonio-da-platina
+
+Fonte (página oficial): https://www.santoantoniodaplatina.pr.gov.br/atende.php?rot=54002&aca=737&processo=download&parametro=%7B%22codigo%22%3A%222494%22%2C%22hash%22%3A%22BD322FEC6C2254CD3A033FB8734FAAF76F024804%22%7D&cidade=padrao
 
 ### São José dos Pinhais (PR)
 
@@ -3702,6 +3732,14 @@ Vale-transporte em Santo Ângelo: cartão Vale Transporte (cartão inteligente p
 
 Tarifa zero em Santo Ângelo: Gratuidade em todas as linhas e horários nos dias de votação das Eleições Gerais de 2026 (04/10/2026 e 25/10/2026, se houver segundo turno)
 
+### São Borja (RS)
+
+Em São Borja (RS), a passagem de ônibus custa R$ 5,00 desde 15/06/2026, conforme Decreto nº 21.930/2026; valor conferido em 22/10/2026 pela Base Nacional de Tarifas e Integrações de VT da Otimiza.pro.
+
+Página da cidade: https://otimizapro.com/tarifa/rs/sao-borja
+
+Fonte (ato oficial reproduzido): https://leis.org/prefeitura/rs/sao-borja/lei/decreto/2026/21930/decreto-n-21930-2026-altera-o-decreto-n-20230-de-10-de-novembro-de-2023-que-fixa-os-precos-para-as-passagens-de-transporte-coletivo/
+
 ### São Leopoldo (RS)
 
 Em São Leopoldo (RS), a passagem de ônibus custa R$ 5,85 desde 24/08/2025, conforme Decreto municipal nº 11.140/2025; valor conferido em 19/10/2026 pela Base Nacional de Tarifas e Integrações de VT da Otimiza.pro.
@@ -4299,6 +4337,14 @@ SOU Americana Vale-Transporte: cobre ônibus municipais de Americana; cartão SO
 BUS+ (linhas metropolitanas da EMTU na Região Metropolitana de Campinas): cobre ônibus intermunicipais metropolitanos da RMC (EMTU, regulação da ARTESP); cartão BUS+ Vale-Transporte; emitido por Consórcio BUS+; canal de compra da empresa: Presencial nos postos BUS+ (cópia do CNPJ e lista dos colaboradores; cartões retirados após 5 dias úteis) ou online no site BUS+ (portal de VT http://vtclient.busmais.prodatamobility.com.br/wfm_home.aspx), com recarga a bordo; liberação do crédito: até 2 dias úteis após a compensação bancária (recarga a bordo); na compra online, cartões emitidos em 5 dias úteis após a compensação; taxa na compra: online: taxa de conveniência de 3%, mínimo de R$ 3,90; presencial: sem custo.
 
 Tarifa zero em Americana: Gratuidade em todo o transporte coletivo urbano nos dias de eleição oficial, das 7h às 18h, no primeiro e no segundo turno.
+
+### Américo Brasiliense (SP)
+
+Em Américo Brasiliense (SP), a passagem de ônibus custa R$ 5,35, segundo a operadora pública (Paraty Mobilidade, operadora, tabela de tarifas das linhas urbanas de 2026, atualizada em 01/07/2026); valor conferido em 22/10/2026 pela Base Nacional de Tarifas e Integrações de VT da Otimiza.pro.
+
+Página da cidade: https://otimizapro.com/tarifa/sp/americo-brasiliense
+
+Fonte (operadora): https://paratymobilidade.com.br/documentos/urbana2026.pdf
 
 ### Amparo (SP)
 
@@ -6135,6 +6181,14 @@ Vale-transporte em Palmas: cartão VT Sou; emitido por Sancetur (Sou Palmas); ca
 Integração em Palmas: prevista para os cartões comum, VT e escolar (Decreto 2.698/2025, art. 6)
 
 Tarifa zero em Palmas: sábados, domingos e feriados com tarifa zero
+
+### Paraíso do Tocantins (TO)
+
+Em Paraíso do Tocantins (TO), a passagem de ônibus custa R$ 3,25, conforme Lei Municipal nº 1.958/2017; valor conferido em 22/10/2026 pela Base Nacional de Tarifas e Integrações de VT da Otimiza.pro.
+
+Página da cidade: https://otimizapro.com/tarifa/to/paraiso-do-tocantins
+
+Fonte (página oficial): https://nucleogov.s3.us-east-2.amazonaws.com/pf_paraisodotocantins/outros/8499b2eae32a30dfa556f6054580106a.pdf
 
 ### Porto Nacional (TO)
 
