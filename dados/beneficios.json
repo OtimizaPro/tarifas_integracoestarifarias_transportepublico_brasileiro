@@ -1,6 +1,6 @@
 {
  "nome": "Base Nacional de Tarifas e Integrações de Operadoras do Transporte Público e Vale-Transporte: beneficios",
- "versao": "2026.10.21.5",
+ "versao": "2026.10.22",
  "licenca": {
   "nome": "CC BY-NC 4.0",
   "url": "https://creativecommons.org/licenses/by-nc/4.0/deed.pt-br",
@@ -8,7 +8,7 @@
   "uso_interno": "A consulta para decisões da própria empresa, como orçar o vale-transporte, não pede licença.",
   "uso_comercial": "Uso comercial por empresas (em produto, revenda ou integração em sistema ou serviço pago) pede licença da Otimiza.pro: empresa@otimiza.pro."
  },
- "citar_como": "Fonte: Otimiza.pro, Base Nacional de Tarifas e Integrações de Operadoras do Transporte Público e Vale-Transporte, versão 2026.10.21.5. DOI: https://doi.org/10.5281/zenodo.23486211. https://github.com/OtimizaPro/tarifas_integracoestarifarias_transportepublico_brasileiro",
+ "citar_como": "Fonte: Otimiza.pro, Base Nacional de Tarifas e Integrações de Operadoras do Transporte Público e Vale-Transporte, versão 2026.10.22. DOI: https://doi.org/10.5281/zenodo.23486211. https://github.com/OtimizaPro/tarifas_integracoestarifarias_transportepublico_brasileiro",
  "linhas": [
   {
    "uf": "AL",
@@ -1773,6 +1773,18 @@
    "fonte_url": "https://www.santaluzia.mg.gov.br/noticiasv3/sancionada-lei-que-concede-tarifas-gratuitas-no-transporte-publico-luziense-aos-domingos-e-feriados/",
    "confianca": "A",
    "verificado_em": "2026-10-17"
+  },
+  {
+   "uf": "MG",
+   "municipio": "São Joaquim de Bicas",
+   "cod_ibge": "3162922",
+   "tipo": "tarifa_zero_universal",
+   "regra": "Transporte coletivo municipal gratuito para todos os cidadãos (programa Expressinho 0800), custeado pelo orçamento municipal, sem cobrança do usuário no momento do uso.",
+   "desde": null,
+   "base_legal": "Lei Municipal nº 672, de 05/05/2021",
+   "fonte_url": "https://pncp.gov.br/pncp-api/v1/orgaos/01612516000150/compras/2025/18/arquivos/1",
+   "confianca": "A",
+   "verificado_em": "2026-10-22"
   },
   {
    "uf": "MG",
@@ -3722,6 +3734,18 @@
    "uf": "RJ",
    "municipio": "Valença",
    "cod_ibge": "3306107",
+   "tipo": "estudante",
+   "regra": "Gratuidade da tarifa para os estudantes da rede de ensino no município, coberta por subsídio tarifário à concessionária (até R$ 140.000,00, havendo disponibilidade financeira).",
+   "desde": "2024-10-23",
+   "base_legal": "Lei Municipal nº 3.639, de 15/10/2024 (antes, Leis nº 3.355/2022 e nº 3.479/2023, com o mesmo objeto, segundo a busca na web)",
+   "fonte_url": "https://gestor.valenca.rj.gov.br/uploads/uploads/2024/11/LEI-No-3639.pdf",
+   "confianca": "A",
+   "verificado_em": "2026-10-22"
+  },
+  {
+   "uf": "RJ",
+   "municipio": "Valença",
+   "cod_ibge": "3306107",
    "tipo": "tarifa_zero_temporal",
    "regra": "Operação especial de transporte público coletivo urbano com gratuidade tarifária durante a ExpoCristã, no distrito sede, de 26 a 27/06/2026, com linhas especiais, contratada com a concessionária por R$ 5.400,00",
    "desde": "2026-06-26",
@@ -5367,24 +5391,24 @@
    "municipio": "Cordeirópolis",
    "cod_ibge": "3512407",
    "tipo": "estudante",
-   "regra": "Estudantes têm acesso gratuito ao transporte público municipal, com carteirinha encaminhada pela secretaria de cada escola à G10 Tur.",
-   "desde": "2019-04-01",
-   "base_legal": null,
+   "regra": "Estudantes usam o transporte público de graça, com carteirinha encaminhada pela secretaria de cada escola.",
+   "desde": null,
+   "base_legal": "a Lei Municipal nº 2.084/2002 institui o Passe Escolar (não aberta)",
    "fonte_url": "https://cordeiropolis.sp.gov.br/saiba-onde-comprar-passe-ou-fazer-a-carteirinha-para-o-transporte-publico-em-cordeiropolis/",
    "confianca": "A",
-   "verificado_em": "2026-10-20"
+   "verificado_em": "2026-10-22"
   },
   {
    "uf": "SP",
    "municipio": "Cordeirópolis",
    "cod_ibge": "3512407",
    "tipo": "idoso",
-   "regra": "Idosos, estudantes e pessoas com deficiência têm acesso gratuito ao transporte público municipal, com carteirinha feita na G10 Tur (no caso dos estudantes, encaminhada pela secretaria da escola).",
-   "desde": "2019-04-01",
+   "regra": "Idosos, estudantes e pessoas com deficiência usam o transporte público de graça, com carteirinha feita na empresa operadora.",
+   "desde": null,
    "base_legal": null,
-   "fonte_url": "https://cordeiropolis.sp.gov.br/idosos-estudantes-e-pessoas-com-deficiencia-tem-direito-a-passe-livre-no-transporte-de-cordeiropolis/",
+   "fonte_url": "https://cordeiropolis.sp.gov.br/saiba-onde-comprar-passe-ou-fazer-a-carteirinha-para-o-transporte-publico-em-cordeiropolis/",
    "confianca": "A",
-   "verificado_em": "2026-10-20"
+   "verificado_em": "2026-10-22"
   },
   {
    "uf": "SP",

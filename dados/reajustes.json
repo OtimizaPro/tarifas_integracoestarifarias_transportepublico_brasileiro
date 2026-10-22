@@ -1,6 +1,6 @@
 {
  "nome": "Base Nacional de Tarifas e Integrações de Operadoras do Transporte Público e Vale-Transporte: reajustes",
- "versao": "2026.10.21.5",
+ "versao": "2026.10.22",
  "licenca": {
   "nome": "CC BY-NC 4.0",
   "url": "https://creativecommons.org/licenses/by-nc/4.0/deed.pt-br",
@@ -8,7 +8,7 @@
   "uso_interno": "A consulta para decisões da própria empresa, como orçar o vale-transporte, não pede licença.",
   "uso_comercial": "Uso comercial por empresas (em produto, revenda ou integração em sistema ou serviço pago) pede licença da Otimiza.pro: empresa@otimiza.pro."
  },
- "citar_como": "Fonte: Otimiza.pro, Base Nacional de Tarifas e Integrações de Operadoras do Transporte Público e Vale-Transporte, versão 2026.10.21.5. DOI: https://doi.org/10.5281/zenodo.23486211. https://github.com/OtimizaPro/tarifas_integracoestarifarias_transportepublico_brasileiro",
+ "citar_como": "Fonte: Otimiza.pro, Base Nacional de Tarifas e Integrações de Operadoras do Transporte Público e Vale-Transporte, versão 2026.10.22. DOI: https://doi.org/10.5281/zenodo.23486211. https://github.com/OtimizaPro/tarifas_integracoestarifarias_transportepublico_brasileiro",
  "linhas": [
   {
    "uf": "SC",
@@ -1168,6 +1168,25 @@
    "fonte_tipo": "oficial",
    "confianca": "A",
    "verificado_em": "2026-10-18"
+  },
+  {
+   "uf": "RS",
+   "municipio": "Estrela",
+   "cod_ibge": "4307807",
+   "sistema": "Prefeitura de Estrela; transporte coletivo urbano por concessão à Trevosul, com micro-ônibus; a ligação com Lajeado é feita pela Auto Viação Estrela, com vale-transporte em papel",
+   "modo": "onibus",
+   "servico": "municipal (transporte público coletivo urbano, micro-ônibus)",
+   "perfil": "comum",
+   "meio_pagamento": null,
+   "valor_brl": 6.5,
+   "valor_anterior_brl": 6.7,
+   "variacao_pct": -3,
+   "vigencia_inicio": "2026-05-11",
+   "ato_oficial": "Decreto nº 88, de 08/05/2026 (Prefeitura de Estrela), art. 3º, com efeitos desde 11/05/2026; Decreto nº 89, de 08/05/2026, art. 2º; subsídio tarifário da Lei Municipal nº 8.401, de 05/05/2026",
+   "fonte_url": "https://leis.org/prefeitura/rs/estrela/lei/decreto/2026/88/decreto-n-88-2026-reajusta-os-valores-do-transporte-publico-coletivo-do-municipio-e-da-outras/",
+   "fonte_tipo": "oficial_reproduzido",
+   "confianca": "A",
+   "verificado_em": "2026-10-22"
   },
   {
    "uf": "RS",

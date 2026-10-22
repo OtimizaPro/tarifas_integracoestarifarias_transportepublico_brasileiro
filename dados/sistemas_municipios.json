@@ -1,6 +1,6 @@
 {
  "nome": "Base Nacional de Tarifas e Integrações de Operadoras do Transporte Público e Vale-Transporte: sistemas_municipios",
- "versao": "2026.10.21.5",
+ "versao": "2026.10.22",
  "licenca": {
   "nome": "CC BY-NC 4.0",
   "url": "https://creativecommons.org/licenses/by-nc/4.0/deed.pt-br",
@@ -8,7 +8,7 @@
   "uso_interno": "A consulta para decisões da própria empresa, como orçar o vale-transporte, não pede licença.",
   "uso_comercial": "Uso comercial por empresas (em produto, revenda ou integração em sistema ou serviço pago) pede licença da Otimiza.pro: empresa@otimiza.pro."
  },
- "citar_como": "Fonte: Otimiza.pro, Base Nacional de Tarifas e Integrações de Operadoras do Transporte Público e Vale-Transporte, versão 2026.10.21.5. DOI: https://doi.org/10.5281/zenodo.23486211. https://github.com/OtimizaPro/tarifas_integracoestarifarias_transportepublico_brasileiro",
+ "citar_como": "Fonte: Otimiza.pro, Base Nacional de Tarifas e Integrações de Operadoras do Transporte Público e Vale-Transporte, versão 2026.10.22. DOI: https://doi.org/10.5281/zenodo.23486211. https://github.com/OtimizaPro/tarifas_integracoestarifarias_transportepublico_brasileiro",
  "linhas": [
   {
    "sistema": "RBTrans (COM Card)",
@@ -1569,6 +1569,14 @@
    "uf": "MG",
    "municipio_atendido": "Sete Lagoas",
    "cod_ibge": "3167202"
+  },
+  {
+   "sistema": "Prefeitura de São Joaquim de Bicas (Secretaria Municipal de Obras e Serviços Públicos); transporte coletivo municipal gratuito Expressinho 0800 (Lei nº 672/2021), com ônibus locados da Viação São Silvestre Ltda. (Contrato nº 31/2025); linhas metropolitanas da RMBH com o cartão Ótimo",
+   "abrangencia": "municipal",
+   "municipio_sede": "São Joaquim de Bicas",
+   "uf": "MG",
+   "municipio_atendido": "São Joaquim de Bicas",
+   "cod_ibge": "3162922"
   },
   {
    "sistema": "Prefeitura de São João del-Rei (Secretaria de Segurança Pública e Mobilidade Urbana), Programa Tarifa Zero; operação pela DKN Transportes Ltda. (contrato de concessão) e, no início do programa, pela Viação Presidente (contrato emergencial); sem cobrança e sem cartão",
@@ -3787,6 +3795,14 @@
    "cod_ibge": "4313409"
   },
   {
+   "sistema": "Prefeitura de Osório; ônibus municipal da Transflor (Transporte Anflor Ltda.), com vale-transporte em papel; Osório também é atendida por linhas intermunicipais da Aglomeração Urbana do Litoral Norte (Metroplan)",
+   "abrangencia": "municipal",
+   "municipio_sede": "Osório",
+   "uf": "RS",
+   "municipio_atendido": "Osório",
+   "cod_ibge": "4313508"
+  },
+  {
    "sistema": "Prefeitura de Osório; ônibus municipal da Transflor (o Moovit a chama de Transflor - Municipal Osório), com vale-transporte em papel; Osório também é atendida por linhas intermunicipais da Aglomeração Urbana do Litoral Norte (Metroplan)",
    "abrangencia": "municipal",
    "municipio_sede": "Osório",
@@ -4961,6 +4977,14 @@
    "uf": "SP",
    "municipio_atendido": "Cordeirópolis",
    "cod_ibge": "3512407"
+  },
+  {
+   "sistema": "Prefeitura de Cosmópolis; transporte coletivo urbano concedido por licitação à Auto Viação Campestre Ltda. desde 02/09/2023, com passes vendidos no guichê da empresa no Terminal Rodoviário; linhas metropolitanas da Região Metropolitana de Campinas pela EMTU, operadas pelo Consórcio BUS+ (Cartão BUS+)",
+   "abrangencia": "municipal",
+   "municipio_sede": "Cosmópolis",
+   "uf": "SP",
+   "municipio_atendido": "Cosmópolis",
+   "cod_ibge": "3512803"
   },
   {
    "sistema": "Prefeitura de Cosmópolis; transporte coletivo urbano concedido por licitação à empresa Campestre desde 02/09/2023, com passes vendidos no guichê da empresa no Terminal Rodoviário; linhas metropolitanas da Região Metropolitana de Campinas pela EMTU, operadas pelo Consórcio BUS+ (Cartão BUS+)",

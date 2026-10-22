@@ -1,8 +1,8 @@
 # Tarifas do transporte público por cidade (Otimiza.pro)
 
-Quanto custa o transporte público em 541 municípios brasileiros, segundo a Base Nacional de Tarifas e Integrações de VT da Otimiza.pro (versão 2026.10.21.5). Cada frase traz o valor, a fonte e a data em que a Otimiza.pro conferiu e, quando a fonte informa, o ato oficial e a data em que passou a valer. A fonte oficial de cada valor está indicada. Onde há dados de serviço e oferta, a ficha traz também linhas e passageiros, com a fonte e a data.
+Quanto custa o transporte público em 546 municípios brasileiros, segundo a Base Nacional de Tarifas e Integrações de VT da Otimiza.pro (versão 2026.10.22). Cada frase traz o valor, a fonte e a data em que a Otimiza.pro conferiu e, quando a fonte informa, o ato oficial e a data em que passou a valer. A fonte oficial de cada valor está indicada. Onde há dados de serviço e oferta, a ficha traz também linhas e passageiros, com a fonte e a data.
 
-Como citar: Fonte: Otimiza.pro, Base Nacional de Tarifas e Integrações de Operadoras do Transporte Público e Vale-Transporte, versão 2026.10.21.5. DOI: https://doi.org/10.5281/zenodo.23486211. https://github.com/OtimizaPro/tarifas_integracoestarifarias_transportepublico_brasileiro
+Como citar: Fonte: Otimiza.pro, Base Nacional de Tarifas e Integrações de Operadoras do Transporte Público e Vale-Transporte, versão 2026.10.22. DOI: https://doi.org/10.5281/zenodo.23486211. https://github.com/OtimizaPro/tarifas_integracoestarifarias_transportepublico_brasileiro
 
 ## AC
 
@@ -1495,6 +1495,18 @@ Página da cidade: https://otimizapro.com/tarifa/mg/sao-joao-del-rei
 Fonte (imprensa): https://diariodocomercio.com.br/legislacao/tarifa-zero-sao-joao/
 
 Tarifa zero em São João del Rei: Gratuidade total no transporte coletivo municipal, para moradores e visitantes, sem documento, passe ou carteirinha; começou em 23/06/2025 em fase experimental.
+
+### São Joaquim de Bicas (MG)
+
+Em São Joaquim de Bicas (MG), o ônibus é gratuito (tarifa zero), conforme Lei Municipal nº 672/2021; valor conferido em 22/10/2026 pela Base Nacional de Tarifas e Integrações de VT da Otimiza.pro.
+
+Página da cidade: https://otimizapro.com/tarifa/mg/sao-joaquim-de-bicas
+
+Fonte (página oficial): https://www.saojoaquimdebicas.mg.gov.br/arquivo/download/40622/categoria/17/horarios_expressinho_novo
+
+Vale-transporte em São Joaquim de Bicas: cartão ÓTIMO Vale-Transporte; emitido por Consórcio Ótimo de Bilhetagem Eletrônica; canal de compra da empresa: modalidade Carga a Bordo: contrato baixado no site, assinado e anexado ao formulário de cadastramento on-line, com pedidos no Portal Ótimo; modalidade Carga no Posto: contrato de cessão de cartões na loja do Bairro Floresta (Rua Aquiles Lobo, 504, Belo Horizonte); liberação do crédito: carga embarcada nos veículos em até 1 dia útil após a compensação bancária do pagamento (cláusula 5.4.1 do contrato de Carga a Bordo); taxa na compra: 1% sobre o valor total do pedido de créditos na modalidade Carga a Bordo, com mínimo de R$ 0,45 por cartão a carregar (cláusula 6.2 do contrato de Carga a Bordo, lido em 20/10/2026).
+
+Tarifa zero em São Joaquim de Bicas: Transporte coletivo municipal gratuito para todos os cidadãos (programa Expressinho 0800), custeado pelo orçamento municipal, sem cobrança do usuário no momento do uso.
 
 ### São Lourenço (MG)
 
@@ -3408,6 +3420,16 @@ TEU! (linhas metropolitanas da Metroplan e Trensurb): cobre ônibus metropolitan
 
 Tarifa zero em Esteio: transporte coletivo municipal gratuito para todos no 1º turno das eleições de 2026, com a grade de horários de sábado
 
+### Estrela (RS)
+
+Em Estrela (RS), a passagem de ônibus custa R$ 6,50 desde 11/05/2026, conforme Decreto nº 88/2026; valor conferido em 22/10/2026 pela Base Nacional de Tarifas e Integrações de VT da Otimiza.pro.
+
+Página da cidade: https://otimizapro.com/tarifa/rs/estrela
+
+Fonte (ato oficial reproduzido): https://leis.org/prefeitura/rs/estrela/lei/decreto/2026/88/decreto-n-88-2026-reajusta-os-valores-do-transporte-publico-coletivo-do-municipio-e-da-outras/
+
+Vale-transporte em Estrela: cartão vale-transporte em papel 'Estrela X Lageado'; emitido por Auto Viação Estrela, telefone (51) 3712-1499; canal de compra da empresa: compra dos vales em papel junto à operadora; também por plataformas de VT, como a Benefício Fácil (código do emissor 304); liberação do crédito: entrega dos vales em 10 dias úteis depois do pagamento (Benefício Fácil).
+
 ### Farroupilha (RS)
 
 Em Farroupilha (RS), a passagem de ônibus custa R$ 4,75 desde 03/11/2021, segundo a imprensa (Diário do Transporte, 02/11/2021); valor conferido em 20/10/2026 pela Base Nacional de Tarifas e Integrações de VT da Otimiza.pro.
@@ -3529,6 +3551,16 @@ Vale-transporte em Novo Hamburgo: a empresa compra em 2 sistemas, MixMob Vale Tr
 MixMob Vale Transporte: cobre ônibus municipais de Novo Hamburgo; cartão MixMob Vale Transporte; emitido por Viação Santa Clara (Visac), operadora dos ônibus desde abril de 2024; bilhetagem atendida pela COMUR; canal de compra da empresa: Web Commerce TDMax do MixMob (max00565.itstransdata.com/tdmaxwebcommerce), ligado na página Para Empresas do portal MixMob da Prefeitura: a empresa se cadastra pelo CNPJ, cadastra os colaboradores pelo CPF, pede os cartões por e-mail (vt@comur.com.br; gravação em até 2 dias úteis e retirada com autorização) e compra os créditos, depois de aceitar os Termos de Uso, por boleto convencional (mínimo de R$ 100,00, compensação em até 72 horas úteis) ou boleto Pix (mínimo de R$ 40,00, até 24 horas úteis); os créditos entram no cartão no validador do ônibus; taxa na compra: Taxa de conveniência no Web Commerce, somada ao total da compra, de valor variável e não publicado (Manual de Compra: 'A taxa de conveniência pode variar: Verifique o valor unitário, total e a soma com a taxa de conveniência') (https://mixmob.novohamburgo.rs.gov.br/wp-content/uploads/2024/10/MANUAL-DE-COMPRA-MIXMOB.pdf).
 
 TEU!: cobre ônibus metropolitanos da Região Metropolitana de Porto Alegre e linhas urbanas de municípios que adotam o TEU!; a carga também pode ser inserida nos validadores da Trensurb; cartão TEU! Vale-Transporte; emitido por Consórcio Gestor da Bilhetagem Metropolitana (empresas associadas da ATM), sistema TEU!; canal de compra da empresa: três canais: TEU! Online (teuonline.com.br, pessoa física ou jurídica, boleto, sem limite de cartões); Valesul (valesb.com.br, só pessoa jurídica, boleto, cadastro por arquivo .txt); Postos de Venda TEU! (pagamento à vista, até 10 cartões numerados); liberação do crédito: 3 dias úteis após o pagamento do boleto (TEU! Online e Valesul), com carga nos validadores dos ônibus; taxa na compra: TEU! Online: 'taxa única' por pedido, valor não publicado; Valesul: taxa de serviço conforme a quantidade de funcionários e o valor da compra; Postos de Venda: sem taxa administrativa; validade dos créditos: a carga comprada fica 120 dias disponível para ser inserida no cartão, nos validadores dos ônibus ou da Trensurb (desde 01/03/2023).
+
+### Osório (RS)
+
+Em Osório (RS), a passagem de ônibus custa R$ 4,90, segundo a publicação oficial (Prefeitura de Osório, Decreto nº 73/2022, texto reproduzido no Leis.org, compilação da legislação municipal em parceria com o TCE-RS); valor conferido em 22/10/2026 pela Base Nacional de Tarifas e Integrações de VT da Otimiza.pro.
+
+Página da cidade: https://otimizapro.com/tarifa/rs/osorio
+
+Fonte (ato oficial reproduzido): https://leis.org/prefeitura/rs/osorio/lei/decreto/2022/73/decreto-n-73-2022-autoriza-o-reajuste-das-tarifas-de-transporte-coletivo/
+
+Vale-transporte em Osório: cartão vale-transporte em papel, um por linha; emitido por Transflor, telefone (51) 9 9148-7575; canal de compra da empresa: compra dos vales em papel junto à Transflor; também vendidos por plataformas de VT, como a Benefício Fácil; liberação do crédito: entrega dos vales em 10 dias úteis depois do pagamento (Benefício Fácil).
 
 ### Panambi (RS)
 
@@ -4633,6 +4665,24 @@ Página da cidade: https://otimizapro.com/tarifa/sp/cerquilho
 Fonte (página oficial): https://www.cerquilho.sp.gov.br/noticia/4837/atencao-usuarios-do-tarifa-zero-a-partir-do-dia-10032025-segunda-feira-havera-alteracao-nos-horarios-de-saida-da-linha-rosas-e-tropeiros-na-rodoviaria-confira/
 
 Tarifa zero em Cerquilho: Transporte coletivo urbano gratuito para toda a população (programa Tarifa Zero).
+
+### Cordeirópolis (SP)
+
+Em Cordeirópolis (SP), a passagem de ônibus custa R$ 5,30, conforme Termo de Reajuste nº 063/2026 ao Contrato nº 009/2019; valor conferido em 22/10/2026 pela Base Nacional de Tarifas e Integrações de VT da Otimiza.pro.
+
+Página da cidade: https://otimizapro.com/tarifa/sp/cordeiropolis
+
+Fonte (página oficial): https://cordeiropolis.sp.gov.br/wp-content/uploads/2026/05/Edicao-1795-_PB.pdf
+
+### Cosmópolis (SP)
+
+Em Cosmópolis (SP), a passagem de ônibus custa de R$ 4,90 a R$ 5,40 (varia com o cartão ou o meio de pagamento) desde 01/09/2023, conforme Decreto Municipal nº 6.063/2023; valor conferido em 22/10/2026 pela Base Nacional de Tarifas e Integrações de VT da Otimiza.pro.
+
+Página da cidade: https://otimizapro.com/tarifa/sp/cosmopolis
+
+Fonte (ato oficial reproduzido): https://leis.org/prefeitura/sp/cosmopolis/lei/decreto/2023/6063/decreto-n-6063-2023-dispoe-sobre-as-tarifas-no-transporte-publico-de/
+
+Vale-transporte em Cosmópolis: emitido por Auto Viação Campestre Ltda. (CNPJ 65.444.200/0001-89); canal de compra da empresa: compra direta da operadora (a Prefeitura compra os vales dos servidores da Auto Viação Campestre por inexigibilidade, Contrato LT nº 043/2024); passes vendidos no guichê da empresa no Terminal Rodoviário (notícia da Prefeitura de 01/09/2023, vista na rodada 19).
 
 ### Cotia (SP)
 
