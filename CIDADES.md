@@ -1,8 +1,8 @@
 # Tarifas do transporte público por cidade (Otimiza.pro)
 
-Quanto custa o transporte público em 532 municípios brasileiros, segundo a Base Nacional de Tarifas e Integrações de VT da Otimiza.pro (versão 2026.10.21.4). Cada frase traz o valor, a fonte e a data em que a Otimiza.pro conferiu e, quando a fonte informa, o ato oficial e a data em que passou a valer. A fonte oficial de cada valor está indicada. Onde há dados de serviço e oferta, a ficha traz também linhas e passageiros, com a fonte e a data.
+Quanto custa o transporte público em 541 municípios brasileiros, segundo a Base Nacional de Tarifas e Integrações de VT da Otimiza.pro (versão 2026.10.21.5). Cada frase traz o valor, a fonte e a data em que a Otimiza.pro conferiu e, quando a fonte informa, o ato oficial e a data em que passou a valer. A fonte oficial de cada valor está indicada. Onde há dados de serviço e oferta, a ficha traz também linhas e passageiros, com a fonte e a data.
 
-Como citar: Fonte: Otimiza.pro, Base Nacional de Tarifas e Integrações de Operadoras do Transporte Público e Vale-Transporte, versão 2026.10.21.4. DOI: https://doi.org/10.5281/zenodo.23486211. https://github.com/OtimizaPro/tarifas_integracoestarifarias_transportepublico_brasileiro
+Como citar: Fonte: Otimiza.pro, Base Nacional de Tarifas e Integrações de Operadoras do Transporte Público e Vale-Transporte, versão 2026.10.21.5. DOI: https://doi.org/10.5281/zenodo.23486211. https://github.com/OtimizaPro/tarifas_integracoestarifarias_transportepublico_brasileiro
 
 ## AC
 
@@ -71,6 +71,14 @@ Página da cidade: https://otimizapro.com/tarifa/al/rio-largo
 Fonte (imprensa): https://tribunahoje.com/noticias/cidades/2025/01/13/149947-bora-de-busao-rio-largo-recebe-nova-linha-de-onibus-com-a-tarifa-municipal-mais-barata-do-brasil-por-r1
 
 Integração em Rio Largo: Transbordo na Forene entre as linhas municipais de R$ 1 e as linhas do SIMM de Maceió, pagando a tarifa Cidadão de R$ 4,00 ou com VT
+
+### São Miguel dos Campos (AL)
+
+Em São Miguel dos Campos (AL), a passagem de ônibus custa R$ 2,25 desde 26/03/2018, conforme Decreto Municipal nº 14.542/2018; valor conferido em 21/10/2026 pela Base Nacional de Tarifas e Integrações de VT da Otimiza.pro.
+
+Página da cidade: https://otimizapro.com/tarifa/al/sao-miguel-dos-campos
+
+Fonte (página oficial): https://www.kalana.com.br/download/?id=0248c3b651db967d9e22ce4e0e8ce014
 
 ## AM
 
@@ -453,6 +461,14 @@ Em Maracanaú (CE), a passagem de ônibus custa R$ 3,60, segundo a imprensa (O P
 Página da cidade: https://otimizapro.com/tarifa/ce/maracanau
 
 Fonte (imprensa): https://mais.opovo.com.br/jornal/politica/2026/02/02/maracanau-tem-gratuidade-para-85-da-populacao.html
+
+### Maranguape (CE)
+
+Em Maranguape (CE), a passagem de ônibus custa de R$ 2,15 a R$ 7,15 (varia com o tipo de linha), segundo a fonte (Moovit, tabela 'Tarifas de Transporte Público' da Região Metropolitana de Fortaleza, arquivo PDF criado em 19/03/2023, seção 'Linhas Urbanas de Maranguape'); valor conferido em 21/10/2026 pela Base Nacional de Tarifas e Integrações de VT da Otimiza.pro.
+
+Página da cidade: https://otimizapro.com/tarifa/ce/maranguape
+
+Fonte (Moovit): https://static-updates.moovit.com/wp-content/uploads/2023/03/30141648/Tarifas_032023.pdf
 
 ### Sobral (CE)
 
@@ -3338,6 +3354,26 @@ Fonte (página oficial): https://doe.caxias.rs.gov.br/site/download/5940
 
 Integração em Caxias do Sul: Até três linhas dentro de uma hora pagando uma tarifa, só com cartão de bilhetagem eletrônica; linhas conforme a matriz de integração
 
+### Cruz Alta (RS)
+
+Em Cruz Alta (RS), a passagem de ônibus custa R$ 3,60, conforme Decreto nº 445/2026; valor conferido em 21/10/2026 pela Base Nacional de Tarifas e Integrações de VT da Otimiza.pro.
+
+Página da cidade: https://otimizapro.com/tarifa/rs/cruz-alta
+
+Fonte (ato oficial reproduzido): https://leis.org/prefeitura/rs/cruz-alta/lei/decreto/2026/445/decreto-n-445-2026-estabelece-a-tarifa-tecnica-para-o-transporte-coletivo-urbano-de-cruz-alta-e-da-outras/
+
+Vale-transporte em Cruz Alta: cartão eletrônico Cruz Alta Municipal; emitido por Empresa Nossa Senhora de Fátima, telefones (55) 3322-7180 e 3322-7044, e-mail recarga@transportefatima.com.br; canal de compra da empresa: recarga junto à operadora, com envio do comprovante de pagamento por e-mail; também por plataformas de VT, como a Benefício Fácil; liberação do crédito: 5 dias úteis depois do pagamento; 1ª via do cartão em 10 dias úteis, entregue pela operadora; taxa na compra: a ficha da revendedora Benefício Fácil diz 'Repasse (custo fixo ou percentual): Não possui'; não se achou página da operadora sobre a compra pela empresa.
+
+### Dois Irmãos (RS)
+
+Em Dois Irmãos (RS), a passagem de ônibus custa R$ 6,00 desde 01/01/2026, conforme Decreto nº 4.735/2025; valor conferido em 21/10/2026 pela Base Nacional de Tarifas e Integrações de VT da Otimiza.pro.
+
+Página da cidade: https://otimizapro.com/tarifa/rs/dois-irmaos
+
+Fonte (página oficial): https://doisirmaos.atende.net/atende.php?rot=54002&aca=737&processo=download&parametro=%7B%22codigo%22%3A%221295%22%2C%22hash%22%3A%22EB34BD2B34C31FE4461EC3E05AE2301AE889E6E3%22%7D&cidade=padrao
+
+Vale-transporte em Dois Irmãos: cartão vale-transporte em papel, um por linha e tipo de serviço; emitido por Empresa Wendling de Transporte Coletivo (EWTC), telefone (51) 3564-1234; canal de compra da empresa: compra dos vales em papel junto à Wendling; também vendidos por plataformas de VT, como a Benefício Fácil (código do emissor 266); liberação do crédito: entrega dos vales em 10 dias úteis depois do pagamento (Benefício Fácil).
+
 ### Erechim (RS)
 
 Em Erechim (RS), a passagem de ônibus custa de R$ 5,50 a R$ 6,00 (varia com o cartão ou o meio de pagamento) desde 18/04/2024, segundo a publicação oficial (Prefeitura de Erechim, página Transporte e notícia de 17/04/2024); valor conferido em 18/10/2026 pela Base Nacional de Tarifas e Integrações de VT da Otimiza.pro.
@@ -3381,6 +3417,16 @@ Página da cidade: https://otimizapro.com/tarifa/rs/farroupilha
 Fonte (imprensa): https://diariodotransporte.com.br/2021/11/02/tarifa-de-onibus-em-farroupilha-rs-aumenta-para-r-475-a-partir-desta-quarta-3/
 
 Vale-transporte em Farroupilha: cartão SOU Vale-Transporte; emitido por SOU, Sistema de Ônibus Unificado (Bento Transportes e Ozelame); canal de compra da empresa: a empresa se cadastra por e-mail (razão social, nome fantasia, endereço, CEP, CNPJ, IE, telefone e e-mail; em Farroupilha, farroupilha@souunificado.com.br), recebe login e senha e cadastra os funcionários no sistema TDMax (https://max00367.itstransdata.com/TDMaxwebcommerce/); um representante entrega a lista de funcionários assinada e o contrato de concessão numa central de atendimento para retirar os cartões (em Farroupilha, cadastro na Rua Ruy Barbosa, 235, sala 03, e venda na Rua Mal. Floriano Peixoto, 359).
+
+### Flores da Cunha (RS)
+
+Em Flores da Cunha (RS), a passagem de ônibus custa R$ 4,50 desde 08/09/2025, conforme Decreto nº 7.118/2025; valor conferido em 21/10/2026 pela Base Nacional de Tarifas e Integrações de VT da Otimiza.pro.
+
+Página da cidade: https://otimizapro.com/tarifa/rs/flores-da-cunha
+
+Fonte (página oficial): https://floresdacunha.rs.gov.br/servicos_e_atividades.php?id=3
+
+Vale-transporte em Flores da Cunha: cartão Caxiense, Caxias do Sul x Flores da Cunha (cartão eletrônico); emitido por Expresso Caxiense, telefones (54) 3211-8321 e (54) 3211-8300, e-mail vt@caxiense.com.br; canal de compra da empresa: carga do cartão junto ao Expresso Caxiense; também por plataformas de VT, como a Benefício Fácil; liberação do crédito: 5 dias úteis depois do pagamento; 1ª via do cartão em 10 dias úteis; taxa na compra: a ficha da revendedora Benefício Fácil diz 'Repasse (custo fixo ou percentual): Não possui'; não se achou página da operadora sobre a compra pela empresa.
 
 ### Garibaldi (RS)
 
@@ -3429,6 +3475,16 @@ USEPASSE (ônibus municipais de Guaíba): cobre ônibus do sistema convencional 
 TEU! (linhas metropolitanas da Expresso Rio Guaíba e travessia da Catsul): cobre ônibus metropolitanos da Expresso Rio Guaíba que atendem Guaíba e barca da Catsul entre Porto Alegre e Guaíba; cartão TEU! Vale-Transporte; emitido por TEU! Consórcio Gestor (bilhetagem das empresas de ônibus da Região Metropolitana de Porto Alegre; Rio Guaíba, código 00007; Catsul, código 00038); canal de compra da empresa: TEU! Online (carga online, pagamento por boleto, cadastro manual dos funcionários), Valesul (carga online, cadastro por importação de arquivo e uso do saldo existente no próximo pedido) ou postos de venda TEU! (até 10 cartões, sem cadastro); liberação do crédito: créditos comprados pelo TEU! Online, pela Valesul ou pelo app KIM ficam 120 dias disponíveis para carga nos validadores; taxa na compra: TEU! Online: taxa única para todo o pedido; Valesul: taxa variável conforme o pedido de crédito; postos de venda: sem taxas administrativas; validade dos créditos: 120 dias para carregar o pedido de créditos.
 
 Integração em Guaíba: integração eletrônica no cartão USEPASSE entre linhas do sistema convencional de eixos distintos; não há integração entre linhas do mesmo eixo nem com linhas que passam pela mesma bacia da linha usada na viagem anterior, nem para linhas de ligação direta entre dois bairros
+
+### Igrejinha (RS)
+
+Em Igrejinha (RS), a passagem de ônibus custa R$ 5,25, conforme Decreto Municipal nº 5.339/2022; valor conferido em 21/10/2026 pela Base Nacional de Tarifas e Integrações de VT da Otimiza.pro.
+
+Página da cidade: https://otimizapro.com/tarifa/rs/igrejinha
+
+Fonte (ato oficial reproduzido): https://leis.org/prefeitura/rs/igrejinha/lei/decreto/2022/5339/decreto-n-5339-2022-fixa-tarifa-do-transporte-coletivo-que/
+
+Vale-transporte em Igrejinha: emitido por Citral Transporte e Turismo S.A. (CNPJ 97.755.607/0001-13); canal de compra da empresa: direto com a Citral: área restrita 'Vale Transporte' do site da empresa (https://www.citral.tur.br/site/go.asp?SecaoID=503884), com usuário e senha para empresas cadastradas.
 
 ### Ijuí (RS)
 
@@ -3930,6 +3986,16 @@ Fonte (página oficial): https://diariomunicipal.sc.gov.br/atos/7228766
 
 Vale-transporte em Içara: cartão eletrônico do tipo VALE-TRANSPORTE do Sistema de Bilhetagem Eletrônica de Içara (Decreto nº 113/2025, art. 12); emitido por Expresso Coletivo Içarense Ltda. (concessionária), que emite o cartão, faz a venda antecipada de passagens e mantém o cadastro dos usuários (Decreto nº 113/2025, art. 11); validade dos créditos: créditos registrados em Unidades Tarifárias de R$ 0,01; em reajuste, as unidades compradas antes mantêm o poder de compra por até 30 dias (Decreto nº 113/2025, art. 13).
 
+### Imbituba (SC)
+
+Em Imbituba (SC), a passagem de ônibus custa de R$ 3,00 a R$ 4,00 (varia com o cartão ou o meio de pagamento) desde 06/02/2023, conforme Resolução SEINFRA/PMI nº 005/2023; valor conferido em 21/10/2026 pela Base Nacional de Tarifas e Integrações de VT da Otimiza.pro.
+
+Página da cidade: https://otimizapro.com/tarifa/sc/imbituba
+
+Fonte (página oficial): https://pncp.gov.br/pncp-api/v1/orgaos/82909409000190/contratos/2026/470/arquivos/1
+
+Vale-transporte em Imbituba: cartão MOBI Vale-Transporte; emitido por Coleurb Imbituba (Imbituba Urbano), CNPJ 21.592.005/0001-20, telefone (48) 98824-2391, e-mail contato.imbituba@coleurb.com.br; canal de compra da empresa: VT WEB: a empresa faz o cadastro na agência da Coleurb Imbituba e compra os créditos pelo site, onde acompanha o saldo dos cartões; também por plataformas de VT, como a Benefício Fácil; liberação do crédito: 5 dias úteis depois do pagamento (Benefício Fácil); 1ª via do cartão em 10 dias úteis, cedido em comodato; taxa na compra: a ficha da revendedora Benefício Fácil diz 'Repasse (custo fixo ou percentual): Não possui'; a página da operadora não fala de taxa.
+
 ### Indaial (SC)
 
 Em Indaial (SC), a passagem de ônibus custa R$ 5,90 desde 15/03/2026, conforme Decreto nº 1.933/2026; valor conferido em 20/10/2026 pela Base Nacional de Tarifas e Integrações de VT da Otimiza.pro.
@@ -4115,6 +4181,14 @@ Em Videira (SC), a passagem de ônibus custa R$ 4,50 desde 01/09/2026, segundo a
 Página da cidade: https://otimizapro.com/tarifa/sc/videira
 
 Fonte (imprensa): https://ndmais.com.br/video/transporte-coletivo-de-videira-tem-tarifa-reduzida-para-r-450/
+
+### Xaxim (SC)
+
+Em Xaxim (SC), a passagem de ônibus custa de R$ 3,20 a R$ 3,75 (varia com o cartão ou o meio de pagamento) desde 01/01/2018, conforme Lei Municipal nº 4.292/2017; valor conferido em 21/10/2026 pela Base Nacional de Tarifas e Integrações de VT da Otimiza.pro.
+
+Página da cidade: https://otimizapro.com/tarifa/sc/xaxim
+
+Fonte (ato oficial reproduzido): https://leis.org/prefeitura/sc/xaxim/lei/lei-ordinaria/2017/4292/lei-ordinaria-n-4292-2017-dispoe-sobre-a-alteracao-da-lei-1153-1989-que-institui-o-sistema-de-transporte-coletivo-de-passageiros-na-cidade-de-xaxim-e-da-outras/
 
 ## SE
 
@@ -5315,6 +5389,18 @@ MoV Paulínia Vale-Transporte: cobre ônibus municipais de Paulínia; cartão Mo
 BUS+ (linhas metropolitanas da EMTU na Região Metropolitana de Campinas): cobre ônibus intermunicipais metropolitanos da RMC (EMTU, regulação da ARTESP); cartão BUS+ Vale-Transporte; emitido por Consórcio BUS+; canal de compra da empresa: Presencial nos postos BUS+ (cópia do CNPJ e lista dos colaboradores; cartões retirados após 5 dias úteis) ou online no site BUS+ (portal de VT http://vtclient.busmais.prodatamobility.com.br/wfm_home.aspx), com recarga a bordo; liberação do crédito: até 2 dias úteis após a compensação bancária (recarga a bordo); na compra online, cartões emitidos em 5 dias úteis após a compensação; taxa na compra: online: taxa de conveniência de 3%, mínimo de R$ 3,90; presencial: sem custo.
 
 Integração em Paulínia: Integração temporal de 40 minutos nas linhas municipais com os cartões MoV: dois ônibus com uma só passagem, apenas no mesmo sentido (não vale na volta da mesma linha). Fonte: Diário do Transporte (imprensa), 24/04/2022, no início da operação da MoV; o site da operadora não trata de integração.
+
+### Pederneiras (SP)
+
+Em Pederneiras (SP), o ônibus é gratuito (tarifa zero) desde 22/09/2026, conforme Contrato nº 115/2026; valor conferido em 21/10/2026 pela Base Nacional de Tarifas e Integrações de VT da Otimiza.pro.
+
+Página da cidade: https://otimizapro.com/tarifa/sp/pederneiras
+
+Fonte (página oficial): https://pncp.gov.br/pncp-api/v1/orgaos/46189718000179/compras/2026/342/arquivos/1
+
+Tarifa zero em Pederneiras: Transporte público gratuito para toda a população no dia da votação de 2026, com catracas livres na cidade e linhas para os distritos.
+
+Tarifa zero em Pederneiras: Transporte coletivo urbano intramunicipal sem cobrança de passagem de nenhum passageiro, durante o contrato de prestação gratuita (Contrato nº 115/2026, de 22/09/2026 a 21/09/2027). Encerrado o contrato, a gratuidade cessa (Lei nº 4.515/2026, art. 23).
 
 ### Pedreira (SP)
 

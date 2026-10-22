@@ -1,6 +1,6 @@
 {
  "nome": "Base Nacional de Tarifas e Integrações de Operadoras do Transporte Público e Vale-Transporte: reajustes",
- "versao": "2026.10.21.4",
+ "versao": "2026.10.21.5",
  "licenca": {
   "nome": "CC BY-NC 4.0",
   "url": "https://creativecommons.org/licenses/by-nc/4.0/deed.pt-br",
@@ -8,7 +8,7 @@
   "uso_interno": "A consulta para decisões da própria empresa, como orçar o vale-transporte, não pede licença.",
   "uso_comercial": "Uso comercial por empresas (em produto, revenda ou integração em sistema ou serviço pago) pede licença da Otimiza.pro: empresa@otimiza.pro."
  },
- "citar_como": "Fonte: Otimiza.pro, Base Nacional de Tarifas e Integrações de Operadoras do Transporte Público e Vale-Transporte, versão 2026.10.21.4. DOI: https://doi.org/10.5281/zenodo.23486211. https://github.com/OtimizaPro/tarifas_integracoestarifarias_transportepublico_brasileiro",
+ "citar_como": "Fonte: Otimiza.pro, Base Nacional de Tarifas e Integrações de Operadoras do Transporte Público e Vale-Transporte, versão 2026.10.21.5. DOI: https://doi.org/10.5281/zenodo.23486211. https://github.com/OtimizaPro/tarifas_integracoestarifarias_transportepublico_brasileiro",
  "linhas": [
   {
    "uf": "SC",
@@ -28,6 +28,25 @@
    "fonte_tipo": "oficial",
    "confianca": "B",
    "verificado_em": "2026-10-20"
+  },
+  {
+   "uf": "SP",
+   "municipio": "Pederneiras",
+   "cod_ibge": "3536703",
+   "sistema": "Prefeitura de Pederneiras (Secretaria Municipal de Trânsito e Diretoria de Operações e Sistema Viário); transporte coletivo urbano intramunicipal prestado pela Futura Transportes Gerais Ltda. em contratos de prestação de serviço com o município (Contrato nº 154/2025, emergencial, e Contrato nº 115/2026, de 23/09/2026)",
+   "modo": "onibus",
+   "servico": "municipal (4 linhas urbanas e 3 linhas distritais)",
+   "perfil": "comum",
+   "meio_pagamento": null,
+   "valor_brl": 0,
+   "valor_anterior_brl": null,
+   "variacao_pct": null,
+   "vigencia_inicio": "2026-09-22",
+   "ato_oficial": "Contrato nº 115/2026 (Pregão Eletrônico nº 74/2026), cláusula 8.4, com base na Lei Municipal nº 4.515, de 04/08/2026, art. 22",
+   "fonte_url": "https://pncp.gov.br/pncp-api/v1/orgaos/46189718000179/compras/2026/342/arquivos/1",
+   "fonte_tipo": "oficial",
+   "confianca": "A",
+   "verificado_em": "2026-10-21"
   },
   {
    "uf": "SP",
@@ -6412,6 +6431,25 @@
    "fonte_tipo": "oficial",
    "confianca": "A",
    "verificado_em": "2026-10-20"
+  },
+  {
+   "uf": "RS",
+   "municipio": "Dois Irmãos",
+   "cod_ibge": "4306403",
+   "sistema": "Prefeitura de Dois Irmãos; ônibus municipal (Circular) operado pela Empresa Wendling de Transporte Coletivo; linhas metropolitanas da Wendling (Metroplan, Região Metropolitana de Porto Alegre), com vale-transporte em papel; a Wendling não aparece na tabela de VT do cartão TEU!",
+   "modo": "onibus",
+   "servico": "municipal (Circular da Wendling)",
+   "perfil": "comum",
+   "meio_pagamento": null,
+   "valor_brl": 6,
+   "valor_anterior_brl": null,
+   "variacao_pct": null,
+   "vigencia_inicio": "2026-01-01",
+   "ato_oficial": "Decreto nº 4.735/2025, de 24/12/2025, art. 1º (Diário Oficial do Município de Dois Irmãos, Edição nº 1247, Ordinária, de 31/12/2025)",
+   "fonte_url": "https://doisirmaos.atende.net/atende.php?rot=54002&aca=737&processo=download&parametro=%7B%22codigo%22%3A%221295%22%2C%22hash%22%3A%22EB34BD2B34C31FE4461EC3E05AE2301AE889E6E3%22%7D&cidade=padrao",
+   "fonte_tipo": "oficial",
+   "confianca": "A",
+   "verificado_em": "2026-10-21"
   },
   {
    "uf": "RS",
