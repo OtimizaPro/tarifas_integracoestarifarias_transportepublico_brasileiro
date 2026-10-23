@@ -1,6 +1,6 @@
 {
  "nome": "Base Nacional de Tarifas e Integrações de Operadoras do Transporte Público e Vale-Transporte: tarifas",
- "versao": "2026.10.22.2",
+ "versao": "2026.10.23",
  "licenca": {
   "nome": "CC BY-NC 4.0",
   "url": "https://creativecommons.org/licenses/by-nc/4.0/deed.pt-br",
@@ -8,7 +8,7 @@
   "uso_interno": "A consulta para decisões da própria empresa, como orçar o vale-transporte, não pede licença.",
   "uso_comercial": "Uso comercial por empresas (em produto, revenda ou integração em sistema ou serviço pago) pede licença da Otimiza.pro: empresa@otimiza.pro."
  },
- "citar_como": "Fonte: Otimiza.pro, Base Nacional de Tarifas e Integrações de Operadoras do Transporte Público e Vale-Transporte, versão 2026.10.22.2. DOI: https://doi.org/10.5281/zenodo.23486211. https://github.com/OtimizaPro/tarifas_integracoestarifarias_transportepublico_brasileiro",
+ "citar_como": "Fonte: Otimiza.pro, Base Nacional de Tarifas e Integrações de Operadoras do Transporte Público e Vale-Transporte, versão 2026.10.23. DOI: https://doi.org/10.5281/zenodo.23486211. https://github.com/OtimizaPro/tarifas_integracoestarifarias_transportepublico_brasileiro",
  "linhas": [
   {
    "uf": "AC",
@@ -4906,7 +4906,7 @@
    "vigencia_inicio": "2025-10-31",
    "ato_oficial": "Portaria Agereg 36/2025",
    "fonte": "Consórcio Guaicurus (PDF da portaria)",
-   "fonte_url": "https://consorcioguaicurus.com.br/wp-content/uploads/2026/08/Portaria-n.-36.pdf",
+   "fonte_url": "https://www.consorcioguaicurus.com.br/wp-content/uploads/2026/08/Portaria-n.-36.pdf",
    "fonte_tipo": "oficial",
    "confianca": "A",
    "verificado_em": "2026-10-17",
@@ -4925,7 +4925,7 @@
    "vigencia_inicio": "2025-10-31",
    "ato_oficial": "Portaria Agereg 36/2025",
    "fonte": "Consórcio Guaicurus (PDF da portaria)",
-   "fonte_url": "https://consorcioguaicurus.com.br/wp-content/uploads/2026/08/Portaria-n.-36.pdf",
+   "fonte_url": "https://www.consorcioguaicurus.com.br/wp-content/uploads/2026/08/Portaria-n.-36.pdf",
    "fonte_tipo": "oficial",
    "confianca": "A",
    "verificado_em": "2026-10-17",
@@ -11412,6 +11412,25 @@
   },
   {
    "uf": "RS",
+   "municipio": "Tramandaí",
+   "cod_ibge": "4321600",
+   "sistema": "Prefeitura de Tramandaí; ônibus municipais operados pelo Expresso São José, com cartão eletrônico próprio; o mesmo Expresso São José opera as linhas intermunicipais da Aglomeração Urbana do Litoral Norte (Metroplan) que ligam Tramandaí a Imbé, Osório, Cidreira e outras cidades",
+   "modo": "onibus",
+   "servico": "municipal",
+   "perfil": "comum",
+   "meio_pagamento": "",
+   "valor_brl": 5.2,
+   "vigencia_inicio": null,
+   "ato_oficial": "Decreto nº 5.316, de 06/03/2025 (Prefeitura de Tramandaí), art. 1º; em vigor 10 dias depois da publicação (art. 3º); Memorando 159/2025 da Secretaria de Transporte e Processos 38655/2024 e 9607/2025",
+   "fonte": "Prefeitura de Tramandaí, Decreto nº 5.316/2025 (texto reproduzido no Leis.org, compilação da legislação municipal, com o documento original da Prefeitura em .doc)",
+   "fonte_url": "https://leis.org/prefeitura/rs/tramandai/lei/decreto/2025/5316/decreto-n-5316-2025-fixa-nova-tarifa-para-os-servicos-de-transporte-coletivo-urbano-da-empresa-expresso-sao-jose/",
+   "fonte_tipo": "oficial_reproduzido",
+   "confianca": "A",
+   "verificado_em": "2026-10-22",
+   "observacao": "Texto aberto em 22/10/2026 no Leis.org (publicado lá em 03/04/2025) e conferido no documento original do decreto (arquivo .doc da Prefeitura, ligado na mesma página): 'É fixada para os serviços de TRANSPORTE COLETIVO URBANO - da Empresa Expresso São José Ltda., a tarifa ÚNICA de R$ 5,20 (cinco reais e vinte centavos).' O decreto é de 06/03/2025 e entra em vigor 10 dias depois da publicação; a data de publicação não foi achada, por isso a vigência ficou em branco (o valor vale desde março ou abril de 2025). Substituiu a tarifa única de R$ 4,70 do Decreto nº 5.039, de 09/08/2022. Ressalva: a fonte mais recente com o valor é de 06/03/2025, e não se achou reajuste depois: a busca no Leis.org por 'tarifa transporte coletivo' e por 'Expresso São José' não traz decreto de tarifa de 2026, embora o Leis.org de Tramandaí já tenha decretos de 2026 (até o nº 5.671/2026). O ônibus municipal roda em 2026: a Lei nº 4.927, de 14/04/2026, trata do embarque e desembarque de mulheres usuárias do sistema de transporte público coletivo do Município e obriga as empresas permissionárias a divulgá-la dentro dos veículos. O valor de R$ 5,20 do 'Expresso São José - Cartão Municipal Tramandaí' na revendedora Benefício Fácil, sem data, coincide com o decreto."
+  },
+  {
+   "uf": "RS",
    "municipio": "Uruguaiana",
    "cod_ibge": "4322400",
    "sistema": "Prefeitura de Uruguaiana (Secretaria Municipal de Mobilidade Urbana e Transporte, SEMUT); transporte coletivo urbano operado pela permissionária Expresso Fronteira D'Oeste, em contrato precário, com licitação da concessão em andamento",
@@ -16710,6 +16729,25 @@
    "confianca": "A",
    "verificado_em": "2026-10-20",
    "observacao": "O Decreto nº 4.569, assinado em 02/06/2022, reduziu a tarifa ao usuário de R$ 3,10 (desde meados de 2019) para R$ 3,00, 'nas catracas ou debitado dos cartões', com efeito imediato; o subsídio da prefeitura passou de R$ 2,42 para R$ 3,64 por passagem. A fonte com o valor é anterior a 2023. Indício de que o valor segue: notícia da prefeitura de 24/07/2026 (aberta em 20/10/2026) diz que 'desde 2018 não houve reajuste, na catraca, para o usuário', sem citar o valor. O site da MoV Nova Odessa não publica a tarifa. Publicada com a data por decisão do Anderson de 20/10 (fonte anterior a 2023 permanece na base): a fonte mais recente com o valor é de 2022, e não se achou reajuste depois."
+  },
+  {
+   "uf": "SP",
+   "municipio": "Novo Horizonte",
+   "cod_ibge": "3533502",
+   "sistema": "Prefeitura de Novo Horizonte (Diretoria Municipal de Trânsito); transporte coletivo urbano com veículo da frota própria da prefeitura (Decreto nº 6.534/2019)",
+   "modo": "onibus",
+   "servico": "municipal (transporte circular operado pela Prefeitura)",
+   "perfil": "comum",
+   "meio_pagamento": "",
+   "valor_brl": 0,
+   "vigencia_inicio": "2019-01-21",
+   "ato_oficial": null,
+   "fonte": "Prefeitura de Novo Horizonte, notícia 'Transporte Coletivo é oferecido gratuitamente à população' (21/01/2019)",
+   "fonte_url": "https://www.novohorizonte.sp.gov.br/noticias/assessoria-de-comunicacao/transporte-coletivo-e-oferecido-gratuitamente-a-populacao-2465",
+   "fonte_tipo": "oficial",
+   "confianca": "B",
+   "verificado_em": "2026-10-22",
+   "observacao": "Notícia da Prefeitura aberta em 22/10/2026: 'O transporte circular no município passa a ser oferecido gratuitamente à população a partir desta segunda-feira, 21 de janeiro, conforme adiantou o prefeito Toyota na semana passada. Para isso, segundo o Chefe do Executivo, será disponibilizado um ônibus e o motorista da própria Prefeitura Municipal.' A notícia anterior, de 16/01/2019 (https://www.novohorizonte.sp.gov.br/noticias/assessoria-de-comunicacao/transporte-coletivo-sera-oferecido-gratuitamente-a-populacao-2462), explica que as duas licitações para contratar empresa para o circular foram desertas. Ressalva: a fonte mais recente com o valor (a gratuidade) é de 21/01/2019, e não se achou cobrança de passagem nem decreto de tarifa depois. O ônibus circular da Prefeitura segue rodando: notícias da Prefeitura de 19/02/2026 ('Circular no Ritmo de Carnaval', https://www.novohorizonte.sp.gov.br/noticias/assessoria-de-comunicacao/circular-no-ritmo-de-carnaval), 21/12/2025, 27/10/2025 e 28/09/2025 (ações da Unidade Gestora de Trânsito 'no ônibus circular da cidade'), e o Pregão Eletrônico nº 051/2025 (Processo nº 171/2025, PNCP, compra 45152139000199/2025/167) comprou um micro-ônibus 'para uso no transporte público coletivo municipal', para 'atender com mais eficiência a linha circular'. Ponto de atenção: a especificação desse micro-ônibus pede catraca de três braços, com a justificativa de 'assegurar a bilhetagem e evitar evasões', e caixa de cobrança; o edital não fala em tarifa nem em gratuidade, e nenhum ato de cobrança foi achado."
   },
   {
    "uf": "SP",

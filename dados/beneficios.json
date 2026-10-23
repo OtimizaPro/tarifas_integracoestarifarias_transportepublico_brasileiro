@@ -1,6 +1,6 @@
 {
  "nome": "Base Nacional de Tarifas e Integrações de Operadoras do Transporte Público e Vale-Transporte: beneficios",
- "versao": "2026.10.22.2",
+ "versao": "2026.10.23",
  "licenca": {
   "nome": "CC BY-NC 4.0",
   "url": "https://creativecommons.org/licenses/by-nc/4.0/deed.pt-br",
@@ -8,7 +8,7 @@
   "uso_interno": "A consulta para decisões da própria empresa, como orçar o vale-transporte, não pede licença.",
   "uso_comercial": "Uso comercial por empresas (em produto, revenda ou integração em sistema ou serviço pago) pede licença da Otimiza.pro: empresa@otimiza.pro."
  },
- "citar_como": "Fonte: Otimiza.pro, Base Nacional de Tarifas e Integrações de Operadoras do Transporte Público e Vale-Transporte, versão 2026.10.22.2. DOI: https://doi.org/10.5281/zenodo.23486211. https://github.com/OtimizaPro/tarifas_integracoestarifarias_transportepublico_brasileiro",
+ "citar_como": "Fonte: Otimiza.pro, Base Nacional de Tarifas e Integrações de Operadoras do Transporte Público e Vale-Transporte, versão 2026.10.23. DOI: https://doi.org/10.5281/zenodo.23486211. https://github.com/OtimizaPro/tarifas_integracoestarifarias_transportepublico_brasileiro",
  "linhas": [
   {
    "uf": "AL",
@@ -1986,7 +1986,7 @@
    "regra": "65 anos ou mais; passe do estudante com até 2 viagens por dia",
    "desde": null,
    "base_legal": null,
-   "fonte_url": "https://consorcioguaicurus.com.br/servico/gratuidades/",
+   "fonte_url": "https://www.consorcioguaicurus.com.br/servico/gratuidades/",
    "confianca": "B",
    "verificado_em": "2026-10-17"
   },
@@ -1998,7 +1998,7 @@
    "regra": "7 datas especiais no ano a R$ 1,98 (40%), só com cartão",
    "desde": "2025-10-31",
    "base_legal": "Portaria Agereg 36/2025",
-   "fonte_url": "https://consorcioguaicurus.com.br/wp-content/uploads/2026/08/Portaria-n.-36.pdf",
+   "fonte_url": "https://www.consorcioguaicurus.com.br/wp-content/uploads/2026/08/Portaria-n.-36.pdf",
    "confianca": "A",
    "verificado_em": "2026-10-17"
   },
@@ -2505,6 +2505,30 @@
    "fonte_url": "https://campinagrande.pb.gov.br/conselho-municipal-de-transportes-publicos-aprova-reajuste-mas-campina-continua-com-a-menor-tarifa-da-paraiba-e-uma-das-menores-do-pais/",
    "confianca": "A",
    "verificado_em": "2026-10-17"
+  },
+  {
+   "uf": "PE",
+   "municipio": "Arcoverde",
+   "cod_ibge": "2601201",
+   "tipo": "estudante",
+   "regra": "Desconto de 50% no valor da tarifa do transporte coletivo aos estudantes domiciliados em Arcoverde matriculados em instituição de ensino credenciada pelo MEC, com a carteira de estudante",
+   "desde": null,
+   "base_legal": "Lei Complementar Municipal nº 21, de 28 de dezembro de 2022, art. 31; Lei Municipal nº 1.831, de 19 de junho de 1996",
+   "fonte_url": "https://www.arcoverde.pe.leg.br/docs/legislacao/LC_21_2022.pdf",
+   "confianca": "A",
+   "verificado_em": "2026-10-22"
+  },
+  {
+   "uf": "PE",
+   "municipio": "Arcoverde",
+   "cod_ibge": "2601201",
+   "tipo": "idoso",
+   "regra": "Gratuidade nos transportes coletivos públicos urbanos e semiurbanos aos maiores de 60 anos, exceto nos serviços seletivos e especiais, com a apresentação de qualquer documento pessoal que prove a idade",
+   "desde": "2023-04-28",
+   "base_legal": "Lei Orgânica do Município de Arcoverde, art. 187, na redação da Emenda à Lei Orgânica nº 01/2023",
+   "fonte_url": "https://www.diariomunicipal.com.br/amupe/materia/A82B24DA",
+   "confianca": "A",
+   "verificado_em": "2026-10-22"
   },
   {
    "uf": "PE",
@@ -3528,6 +3552,18 @@
   },
   {
    "uf": "RJ",
+   "municipio": "Mangaratiba",
+   "cod_ibge": "3302601",
+   "tipo": "tarifa_zero_universal",
+   "regra": "Parcial: gratuidade para qualquer passageiro só no ônibus 'Tarifa Zero' da Prefeitura, nas duas ligações a partir do Centro (Serra do Piloto e Ingaíba); as linhas da empresa que opera na mesma região, as vans e as linhas intermunicipais ficam fora",
+   "desde": null,
+   "base_legal": null,
+   "fonte_url": "https://sapl.mangaratiba.rj.leg.br/media/sapl/public/materialegislativa/2026/19808/indicacao_320_2026.pdf",
+   "confianca": "A",
+   "verificado_em": "2026-10-22"
+  },
+  {
+   "uf": "RJ",
    "municipio": "Maricá",
    "cod_ibge": "3302700",
    "tipo": "tarifa_zero_universal",
@@ -3897,6 +3933,42 @@
    "fonte_url": "https://www.bage.rs.gov.br/noticias-1/transporte-coletivo-sera-gratuito-tambem-no-segundo-turno-das-eleicoes",
    "confianca": "A",
    "verificado_em": "2026-10-20"
+  },
+  {
+   "uf": "RS",
+   "municipio": "Canela",
+   "cod_ibge": "4304408",
+   "tipo": "estudante",
+   "regra": "A lei isenta da tarifa no sistema convencional os estudantes do ensino fundamental e médio de escola municipal, estadual ou particular do município; o § 4º do mesmo artigo atribui à empresa o cadastro dos estudantes e a emissão e venda dos passes escolares",
+   "desde": null,
+   "base_legal": "Lei Municipal nº 3.411, de 16 de setembro de 2013, art. 39, IV e § 4º",
+   "fonte_url": "https://canela.cespro.com.br/visualizarDiploma.php?cdMunicipio=7337&cdDiploma=20133411&NroLei=3.411",
+   "confianca": "B",
+   "verificado_em": "2026-10-22"
+  },
+  {
+   "uf": "RS",
+   "municipio": "Canela",
+   "cod_ibge": "4304408",
+   "tipo": "idoso",
+   "regra": "Isenção da tarifa no sistema de transporte coletivo convencional para pessoas com 65 anos ou mais, com a apresentação de documento oficial de identidade",
+   "desde": null,
+   "base_legal": "Lei Municipal nº 3.411, de 16 de setembro de 2013, art. 39, II e § 2º",
+   "fonte_url": "https://canela.cespro.com.br/visualizarDiploma.php?cdMunicipio=7337&cdDiploma=20133411&NroLei=3.411",
+   "confianca": "B",
+   "verificado_em": "2026-10-22"
+  },
+  {
+   "uf": "RS",
+   "municipio": "Canela",
+   "cod_ibge": "4304408",
+   "tipo": "tarifa_zero_temporal",
+   "regra": "Gratuidade em todas as linhas regulares do transporte coletivo urbano municipal, para todos os usuários, durante todo o período de operação, nos dias de votação das Eleições 2026: 04/10/2026 (1º turno) e 25/10/2026 (2º turno), com a grade de dia útil e custeio do Município",
+   "desde": "2026-10-04",
+   "base_legal": "Decreto Municipal nº 11.415, de 3 de outubro de 2026",
+   "fonte_url": "https://canela.cespro.com.br/visualizarDiploma.php?cdMunicipio=7337&cdDiploma=202611415&NroLei=11.415",
+   "confianca": "B",
+   "verificado_em": "2026-10-22"
   },
   {
    "uf": "RS",
@@ -6141,6 +6213,18 @@
    "fonte_url": "https://www.novaodessa.sp.gov.br/noticias/destaques/prefeitura-de-nova-odessa-mantem-transporte-publico-gratuito-para-o-2-turno-das-eleicoes",
    "confianca": "A",
    "verificado_em": "2026-10-20"
+  },
+  {
+   "uf": "SP",
+   "municipio": "Novo Horizonte",
+   "cod_ibge": "3533502",
+   "tipo": "tarifa_zero_universal",
+   "regra": "Transporte circular municipal operado pela Prefeitura, com ônibus e motorista próprios, gratuito para toda a população, de segunda a sexta, das 7h às 16h (Decreto nº 6.534/2019, art. 4º, parágrafo único).",
+   "desde": "2019-01-21",
+   "base_legal": "o serviço é regulamentado pelo Decreto nº 6.534, de 18/01/2019, que não trata de tarifa",
+   "fonte_url": "https://www.novohorizonte.sp.gov.br/noticias/assessoria-de-comunicacao/transporte-coletivo-e-oferecido-gratuitamente-a-populacao-2465",
+   "confianca": "A",
+   "verificado_em": "2026-10-22"
   },
   {
    "uf": "SP",

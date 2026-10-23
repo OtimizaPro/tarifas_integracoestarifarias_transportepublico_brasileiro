@@ -1,8 +1,8 @@
 # Tarifas do transporte público por cidade (Otimiza.pro)
 
-Quanto custa o transporte público em 552 municípios brasileiros, segundo a Base Nacional de Tarifas e Integrações de VT da Otimiza.pro (versão 2026.10.22.2). Cada frase traz o valor, a fonte e a data em que a Otimiza.pro conferiu e, quando a fonte informa, o ato oficial e a data em que passou a valer. A fonte oficial de cada valor está indicada. Onde há dados de serviço e oferta, a ficha traz também linhas e passageiros, com a fonte e a data.
+Quanto custa o transporte público em 554 municípios brasileiros, segundo a Base Nacional de Tarifas e Integrações de VT da Otimiza.pro (versão 2026.10.23). Cada frase traz o valor, a fonte e a data em que a Otimiza.pro conferiu e, quando a fonte informa, o ato oficial e a data em que passou a valer. A fonte oficial de cada valor está indicada. Onde há dados de serviço e oferta, a ficha traz também linhas e passageiros, com a fonte e a data.
 
-Como citar: Fonte: Otimiza.pro, Base Nacional de Tarifas e Integrações de Operadoras do Transporte Público e Vale-Transporte, versão 2026.10.22.2. DOI: https://doi.org/10.5281/zenodo.23486211. https://github.com/OtimizaPro/tarifas_integracoestarifarias_transportepublico_brasileiro
+Como citar: Fonte: Otimiza.pro, Base Nacional de Tarifas e Integrações de Operadoras do Transporte Público e Vale-Transporte, versão 2026.10.23. DOI: https://doi.org/10.5281/zenodo.23486211. https://github.com/OtimizaPro/tarifas_integracoestarifarias_transportepublico_brasileiro
 
 ## AC
 
@@ -3806,6 +3806,20 @@ Fonte (página oficial): https://torres.rs.gov.br/2022/03/03/torrescar-reajusta-
 
 Vale-transporte em Torres: cartão eletrônico 'Cartão Torres Municipal' (cartão transporte da Torrescar, para funcionários que recebem vale-transporte); emitido por Torrescar, telefones (51) 3664-2033 e (51) 98051-0021, e-mail passagemtorres@torrescar.com.br; canal de compra da empresa: compra de créditos pelo site da Torrescar, com boleto, ou na sede da empresa; também por plataformas de VT, como a Benefício Fácil (código do emissor 719); liberação do crédito: até 72 horas depois do pagamento do boleto, com recarga a bordo no 1º embarque (site da Torrescar); 5 dias úteis pela Benefício Fácil; taxa na compra: a ficha da revendedora Benefício Fácil diz 'Repasse (custo fixo ou percentual): Não possui'; a página da Torrescar não fala de taxa.
 
+### Tramandaí (RS)
+
+Em Tramandaí (RS), a passagem de ônibus custa R$ 5,20, conforme Decreto nº 5.316/2025; valor conferido em 22/10/2026 pela Base Nacional de Tarifas e Integrações de VT da Otimiza.pro.
+
+Página da cidade: https://otimizapro.com/tarifa/rs/tramandai
+
+Fonte (ato oficial reproduzido): https://leis.org/prefeitura/rs/tramandai/lei/decreto/2025/5316/decreto-n-5316-2025-fixa-nova-tarifa-para-os-servicos-de-transporte-coletivo-urbano-da-empresa-expresso-sao-jose/
+
+Vale-transporte em Tramandaí: a empresa compra em 2 sistemas, Cartão municipal do Expresso São José (ônibus municipais de Tramandaí) e Cartão do Expresso São José (linhas intermunicipais do Litoral Norte a partir de Tramandaí).
+
+Cartão municipal do Expresso São José (ônibus municipais de Tramandaí): cobre ônibus municipais do Expresso São José em Tramandaí; cartão eletrônico 'Cartão Municipal Tramandaí'; emitido por Expresso São José, telefones (51) 98189-2675 e (51) 3684-3292; canal de compra da empresa: compra pelo WebCommerce do Expresso São José, onde a empresa anexa o comprovante de pagamento; também por plataformas de VT, como a Benefício Fácil (código do emissor 1229); liberação do crédito: 5 dias úteis depois do pagamento; 1ª via do cartão em 10 dias úteis (Benefício Fácil); taxa na compra: a ficha da revendedora Benefício Fácil diz 'Repasse (custo fixo ou percentual): Não possui'; não se achou página da operadora sobre a compra pela empresa.
+
+Cartão do Expresso São José (linhas intermunicipais do Litoral Norte a partir de Tramandaí): cobre ônibus intermunicipais do Expresso São José entre Tramandaí e Imbé, Osório, Cidreira e outras cidades do Litoral Norte; cartão eletrônico por ligação, como o 'Cartão Tramandaí X Imbé'; emitido por Expresso São José, telefones (51) 98189-2675 e (51) 3684-3292; canal de compra da empresa: compra pelo WebCommerce do Expresso São José; também por plataformas de VT, como a Benefício Fácil (código do emissor 1229); liberação do crédito: 5 dias úteis depois do pagamento; 1ª via do cartão em 10 dias úteis (Benefício Fácil); taxa na compra: a ficha da revendedora Benefício Fácil diz 'Repasse (custo fixo ou percentual): Não possui'.
+
 ### Uruguaiana (RS)
 
 Em Uruguaiana (RS), a passagem de ônibus custa R$ 5,30 desde 28/07/2025, conforme Decreto nº 830/2025; valor conferido em 20/10/2026 pela Base Nacional de Tarifas e Integrações de VT da Otimiza.pro.
@@ -4076,7 +4090,7 @@ Fonte (página oficial): https://diariomunicipal.sc.gov.br/arquivosbd/atos/2026/
 
 ### Itajaí (SC)
 
-Em Itajaí (SC), a passagem de ônibus custa de R$ 4,30 a R$ 156,00 (varia com o cartão ou o meio de pagamento) desde 01/11/2023, conforme Decreto nº 13.063/2023; valor conferido em 18/10/2026 pela Base Nacional de Tarifas e Integrações de VT da Otimiza.pro. Quem usa vale-transporte paga R$ 5,13.
+Em Itajaí (SC), a passagem de ônibus custa de R$ 4,30 a R$ 4,50 (varia com o cartão ou o meio de pagamento) desde 01/11/2023, conforme Decreto nº 13.063/2023; valor conferido em 18/10/2026 pela Base Nacional de Tarifas e Integrações de VT da Otimiza.pro. Quem usa vale-transporte paga R$ 5,13.
 
 Página da cidade: https://otimizapro.com/tarifa/sc/itajai
 
@@ -5427,6 +5441,16 @@ Fonte (página oficial): https://www.novaodessa.sp.gov.br/noticias/destaques/dec
 Vale-transporte em Nova Odessa: cartão Vale-Transporte (VT) MoV; emitido por MoV Nova Odessa; canal de compra da empresa: Portal de vendas ligado no site da MoV Nova Odessa (link 'Compre aqui!', http://189.44.98.122:8575/login/): o empregador cadastra a empresa e os funcionários, faz o pedido de créditos e emite o boleto; liberação do crédito: bilhetes de VT emitidos e disponibilizados em até cinco dias úteis após a confirmação do pagamento; taxa na compra: Taxa de conveniência de 3% sobre o total dos pedidos acima de R$ 130,00; abaixo desse valor, R$ 3,90 fixos por pedido (portal de vendas de VT, segundo a página Cartões MoV).
 
 Tarifa zero em Nova Odessa: Transporte coletivo municipal gratuito para todos os usuários no 2º turno das eleições, em 25/10/2026, das 6h às 22h.
+
+### Novo Horizonte (SP)
+
+Em Novo Horizonte (SP), o ônibus é gratuito (tarifa zero) desde 21/01/2019, segundo a publicação oficial (Prefeitura de Novo Horizonte, notícia 'Transporte Coletivo é oferecido gratuitamente à população', 21/01/2019); valor conferido em 22/10/2026 pela Base Nacional de Tarifas e Integrações de VT da Otimiza.pro.
+
+Página da cidade: https://otimizapro.com/tarifa/sp/novo-horizonte
+
+Fonte (página oficial): https://www.novohorizonte.sp.gov.br/noticias/assessoria-de-comunicacao/transporte-coletivo-e-oferecido-gratuitamente-a-populacao-2465
+
+Tarifa zero em Novo Horizonte: Transporte circular municipal operado pela Prefeitura, com ônibus e motorista próprios, gratuito para toda a população, de segunda a sexta, das 7h às 16h (Decreto nº 6.534/2019, art. 4º, parágrafo único).
 
 ### Olímpia (SP)
 
