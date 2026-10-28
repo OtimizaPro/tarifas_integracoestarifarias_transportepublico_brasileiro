@@ -1,6 +1,6 @@
 {
  "nome": "Base Nacional de Tarifas e Integrações de Operadoras do Transporte Público e Vale-Transporte: tarifas",
- "versao": "2026.10.23",
+ "versao": "2026.10.23.2",
  "licenca": {
   "nome": "CC BY-NC 4.0",
   "url": "https://creativecommons.org/licenses/by-nc/4.0/deed.pt-br",
@@ -8,7 +8,7 @@
   "uso_interno": "A consulta para decisões da própria empresa, como orçar o vale-transporte, não pede licença.",
   "uso_comercial": "Uso comercial por empresas (em produto, revenda ou integração em sistema ou serviço pago) pede licença da Otimiza.pro: empresa@otimiza.pro."
  },
- "citar_como": "Fonte: Otimiza.pro, Base Nacional de Tarifas e Integrações de Operadoras do Transporte Público e Vale-Transporte, versão 2026.10.23. DOI: https://doi.org/10.5281/zenodo.23486211. https://github.com/OtimizaPro/tarifas_integracoestarifarias_transportepublico_brasileiro",
+ "citar_como": "Fonte: Otimiza.pro, Base Nacional de Tarifas e Integrações de Operadoras do Transporte Público e Vale-Transporte, versão 2026.10.23.2. DOI: https://doi.org/10.5281/zenodo.23486211. https://github.com/OtimizaPro/tarifas_integracoestarifarias_transportepublico_brasileiro",
  "linhas": [
   {
    "uf": "AC",
@@ -2327,6 +2327,25 @@
    "confianca": "A",
    "verificado_em": "2026-10-17",
    "observacao": "Implantada em 27/11/2023. Confirmada ativa em 26/05/2026 (25 linhas, inclusive rurais, 34 ônibus, mais de 10 milhões de passagens). Carteirinha obrigatória no embarque após carência até 29/02/2024; cadastro a partir de 6 anos com documento pessoal. O PDF da Lei nº 4.595/2023 é digitalizado; a Lei nº 4.442/2022 não foi localizada no portal. O programa abrange o transporte municipal; linhas para o Distrito Federal não foram verificadas."
+  },
+  {
+   "uf": "GO",
+   "municipio": "Novo Gama",
+   "cod_ibge": "5215231",
+   "sistema": "Prefeitura de Novo Gama (Secretaria Municipal de Transporte e Trânsito); transporte coletivo municipal operado por permissionários com micro-ônibus (Decreto nº 148/2026)",
+   "modo": "onibus",
+   "servico": "municipal (transporte coletivo urbano e rural)",
+   "perfil": "comum",
+   "meio_pagamento": "",
+   "valor_brl": 3.75,
+   "vigencia_inicio": null,
+   "ato_oficial": "Decreto nº 241, de 11/07/2023 (Prefeitura de Novo Gama), art. 1º, em vigor em até 90 dias da publicação no Placard Oficial de 11/07/2023; confirmado para a operação atual pelo Decreto nº 148, de 13/02/2026, art. 8º",
+   "fonte": "Prefeitura de Novo Gama, Decreto nº 148/2026 e Decreto nº 241/2023, no Portal do Cidadão (acessoainformacao.novogama.go.gov.br, Atos Normativos, Decretos), e nota da Prefeitura de 30/01/2026 sobre o chamamento emergencial do transporte coletivo",
+   "fonte_url": "https://acessoainformacao.novogama.go.gov.br/cidadao/legislacao/decreto/id=15729",
+   "fonte_tipo": "oficial",
+   "confianca": "A",
+   "verificado_em": "2026-10-23",
+   "observacao": "Documentos abertos em 23/10/2026. O Decreto nº 148, de 13/02/2026 (arquivo 148.2026.pdf, publicado no Placard Oficial em 13/02/2026), autoriza permissionários individuais 'à execução, prestação e exploração do transporte coletivo municipal urbano e rural de passageiros no Município de Novo Gama/GO, de forma emergencial e em caráter precário, pelo prazo de até 90 (noventa) dias, prorrogáveis por igual período', e diz no art. 8º: 'Os respectivos permissionários ficam ainda obrigados a cumprirem integralmente o Decreto n.º 241, de 11 de julho de 2023, que fixou o valor da tarifa de transporte público municipal em R$ 3,75 (três reais e setenta e cinco centavos).' O Decreto nº 241/2023 (https://acessoainformacao.novogama.go.gov.br/cidadao/legislacao/decreto/id=9318) diz no art. 1º: 'Fica a tarifa de Transporte Público Municipal fixada em R$3,75 (três reais e setenta e cinco centavos)', entra em vigor 'em até 90 (noventa) dias, a partir da data de sua publicação' e revoga o Decreto nº 2.038/2019 (R$ 2,30); por isso a vigência ficou em branco. A nota da Prefeitura de 30/01/2026 (https://novogama.go.gov.br/chamamento-publico-emergencial-para-o-transporte-coletivo-municipal/) diz: 'A tarifa do transporte coletivo permanecerá fixada em R$ 3,75, conforme decreto municipal vigente.' O serviço segue em 2026: a Lei nº 2.384, de 11/09/2026 (https://acessoainformacao.novogama.go.gov.br/cidadao/legislacao/lei/id=2446), autoriza subsídio tarifário de até R$ 30.000,00 por mês ao 'prestador/concessionário do Transporte Público Coletivo Municipal de Novo Gama', para cobrir a diferença entre a tarifa pública paga pelo usuário e a tarifa de remuneração; o art. 10-B fala em reduzir 'o valor da tarifa pública vigente até o montante de R$ 5,50 (cinco reais e cinquenta centavos) por passageiro pagante', limite do subsídio, e não uma tarifa nova. Ressalva: a autorização emergencial do Decreto nº 148/2026 era de até 90 dias, prorrogáveis por igual período, e não se achou decreto de prorrogação nem de nova autorização depois dela (busca pela ementa dos decretos de 2026); não se achou decreto de reajuste depois do Decreto nº 241/2023."
   },
   {
    "uf": "GO",
@@ -10762,7 +10781,7 @@
    "fonte_tipo": "oficial_reproduzido",
    "confianca": "A",
    "verificado_em": "2026-10-22",
-   "observacao": "Texto aberto em 22/10/2026 no Leis.org: 'Fica autorizado o reajuste no valor das passagens das linhas de ônibus da empresa TRANSFLOR - TRANSPORTE ANFLOR LTDA', com 'OSÓRIO X LINHAS CIRCULARES [...] R$ 4,90'. O decreto 'entra em vigor no prazo de 10 (dez) dias, a partir da data de sua publicação', e a data de publicação não aparece no texto reproduzido (o Leis.org o publicou em 19/05/2022), por isso a vigência fica em branco. É a tarifa em vigor hoje: o Decreto nº 167/2026, de 14/10/2026, calcula o reajuste novo 'considerado o Decreto Municipal nº 73, de 17 de maio de 2022', e só o revoga a partir de 01/11/2026. Ressalva: a fonte do valor em vigor é de 17/05/2022, e o valor muda em 01/11/2026 (item seguinte). As outras quatro linhas municipais da Transflor, até localidades do interior do município, têm tarifas próprias, de R$ 5,75 a R$ 7,40 pelo mesmo decreto. Os vales em papel da Transflor vendidos pela revendedora Benefício Fácil (R$ 5,75 a R$ 8,50, sem data, rodada 19) não servem de prova."
+   "observacao": "Texto aberto em 22/10/2026 no Leis.org: 'Fica autorizado o reajuste no valor das passagens das linhas de ônibus da empresa TRANSFLOR - TRANSPORTE ANFLOR LTDA', com 'OSÓRIO X LINHAS CIRCULARES [...] R$ 4,90'. O decreto 'entra em vigor no prazo de 10 (dez) dias, a partir da data de sua publicação', e a data de publicação não aparece no texto reproduzido (o Leis.org o publicou em 19/05/2022), por isso a vigência fica em branco. Vale até 31/10/2026: o Decreto nº 167/2026, de 14/10/2026, calcula o reajuste novo 'considerado o Decreto Municipal nº 73, de 17 de maio de 2022', e o revoga a partir de 01/11/2026, quando a tarifa passa a R$ 6,50. As outras quatro linhas municipais da Transflor, até localidades do interior do município, têm tarifas próprias, de R$ 5,75 a R$ 7,40 pelo mesmo decreto. Os vales em papel da Transflor vendidos pela revendedora Benefício Fácil (R$ 5,75 a R$ 8,50, sem data, rodada 19) não servem de prova."
   },
   {
    "uf": "RS",
@@ -14775,6 +14794,25 @@
   },
   {
    "uf": "SP",
+   "municipio": "Embu-Guaçu",
+   "cod_ibge": "3515103",
+   "sistema": "Prefeitura de Embu-Guaçu (SEMUTRANS); transporte coletivo municipal (Lei Complementar nº 176/2022)",
+   "modo": "onibus",
+   "servico": "municipal (todas as linhas municipais)",
+   "perfil": "comum",
+   "meio_pagamento": "",
+   "valor_brl": 4.5,
+   "vigencia_inicio": null,
+   "ato_oficial": null,
+   "fonte": "Prefeitura de Embu-Guaçu, página 'Ônibus' do portal oficial, bloco do transporte municipal",
+   "fonte_url": "https://www.embuguacu.sp.gov.br/onibus",
+   "fonte_tipo": "oficial",
+   "confianca": "B",
+   "verificado_em": "2026-10-23",
+   "observacao": "Página da Prefeitura aberta em 23/10/2026: no bloco 'TRANPORTE MUNICIPAL' (grafia da página), 'TODOS', 'R$ 4,50', com os horários das linhas municipais. A página não traz data: o bloco municipal tem imagens enviadas em novembro de 2023 e um PDF de horários de 25/07/2024; mas a mesma página dá às linhas 012 e 226 da EMTU (Intervias) os nomes que a Câmara usa em 2026 (Moção nº 29/2026, de 28/04/2026) e a tarifa de R$ 6,30, quando essas linhas custavam R$ 6,00 desde 06/01/2025 (Diário do Transporte, 30/12/2024), o que mostra que a página foi atualizada depois de janeiro de 2025. O decreto da tarifa não foi achado: a Leis.org (que hoje recebe a LeisMunicipais, para onde o portal da Prefeitura aponta) só tem as leis do município, e o Diário Oficial Eletrônico (Doeg) só busca pelo título das edições. O serviço roda em 2026: a Dispensa Eletrônica nº 02/2026 (PNCP, compra 46523148000101/2026/1, de 23/01/2026) contrata estudo para a 'implantação de nova rede de transporte publico coletivo urbano' e descreve os problemas do 'atual sistema de transporte público', com 'o vencimento/precariedade do contrato vigente'; em 21/10/2025 a Câmara recebeu a Moção nº 105/2025, pela ampliação da operação de uma linha municipal; e o PL nº 31/2026 trata de gratuidade 'no transporte público municipal coletivo'. Ressalva: a página não tem data e não se achou ato de reajuste; vale como a fonte oficial mais recente achada com o valor."
+  },
+  {
+   "uf": "SP",
    "municipio": "Espírito Santo do Pinhal",
    "cod_ibge": "3515186",
    "sistema": "Prefeitura de Espírito Santo do Pinhal; transporte urbano contratado pelo Pregão Eletrônico 016/2023, operado pela Verde Vale Transportes Urbanos e Rodoviários Ltda. (Grupo Tuga), com cartão eletrônico",
@@ -16637,6 +16675,25 @@
   },
   {
    "uf": "SP",
+   "municipio": "Mongaguá",
+   "cod_ibge": "3531100",
+   "sistema": "Prefeitura de Mongaguá (Semutran); transporte coletivo municipal concedido à Translocave Ltda. (Contrato nº 026/2019)",
+   "modo": "onibus",
+   "servico": "municipal",
+   "perfil": "comum",
+   "meio_pagamento": "",
+   "valor_brl": 4.3,
+   "vigencia_inicio": "2025-11-03",
+   "ato_oficial": "Decreto de 07/10/2025",
+   "fonte": "Prefeitura de Mongaguá, notícia 'Nova empresa assume transporte público em Mongaguá com veículos modernos e acessíveis' (09/12/2025)",
+   "fonte_url": "https://www.mongagua.sp.gov.br/noticias/gestao/nova-empresa-assume-transporte-publico-em-mongagua-com-veiculos-modernos-e-acessiveis",
+   "fonte_tipo": "oficial",
+   "confianca": "A",
+   "verificado_em": "2026-10-23",
+   "observacao": "Notícia da Prefeitura de 09/12/2025, aberta em 23/10/2026, sobre o início da operação da Translocave em 08/12/2025: 'A tarifa permanece inalterada, mantida em R$4,30 até o próximo reajuste previsto para outubro de 2026, e os créditos dos cartões antigos continuarão válidos normalmente'; a troca de operadora 'se deu pela transferência da concessão do contrato vigente', com o termo aditivo do Contrato 026/2019 publicado no Diário Oficial Eletrônico em 02/12/2025. O valor vem do decreto de 07/10/2025: 'um aumento de R$ 0,50 (13,2%) na tarifa do transporte coletivo a partir da zero hora do dia 3 de novembro, passando dos atuais R$ 3,80 para R$ 4,30' (notícia da Prefeitura de 10/10/2025, https://www.mongagua.sp.gov.br/noticias/semutran/sem-reajustes-ha-6-anos-tarifa-do-transportecoletivo-em-mongagua-devera-subir-r-050, que diz também que a Prefeitura não paga subsídio à operadora). O serviço pago roda em 2026: vistoria da Semutran nos ônibus da Translocave em 03/03/2026, reunião da prefeita com a empresa em 13/03/2026 e, em 30/09/2026, o aviso de que no dia da eleição só os ônibus adesivados de 4 linhas seriam gratuitos e que 'outros veículos da empresa continuarão circulando de forma paga'. Ressalva: a fonte mais recente com o valor é de 09/12/2025; o reajuste previsto para outubro de 2026 não foi achado nas notícias da Prefeitura de 01/10 a 23/10/2026 nem na Leis.org."
+  },
+  {
+   "uf": "SP",
    "municipio": "Monte Alto",
    "cod_ibge": "3531308",
    "sistema": "Prefeitura de Monte Alto (Diretoria Municipal de Trânsito); concessionária Condor Tur Transporte e Turismo Eireli; cartão não identificado",
@@ -17336,7 +17393,7 @@
    "fonte_tipo": "operadora_publica",
    "confianca": "B",
    "verificado_em": "2026-10-17",
-   "observacao": "Anterior R$ 4,25 (Diário do Transporte, 29/12/2022). O histórico da página da operadora ainda lista R$ 4,25 em 2023, mas o reajuste valeu desde 03/01/2023. Nenhum reajuste em 2024, 2025 ou 2026 foi localizado."
+   "observacao": "Anterior R$ 4,25 (Diário do Transporte, 29/12/2022). O histórico da página da operadora ainda lista R$ 4,25 em 2023, mas o reajuste valeu desde 03/01/2023. Nenhum reajuste em 2024 ou 2025 foi localizado. Vale até 31/10/2026: o Decreto nº 38.327, de 20/10/2026, fixa a tarifa em R$ 6,00 a partir de 01/11/2026."
   },
   {
    "uf": "SP",

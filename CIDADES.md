@@ -1,8 +1,8 @@
 # Tarifas do transporte público por cidade (Otimiza.pro)
 
-Quanto custa o transporte público em 554 municípios brasileiros, segundo a Base Nacional de Tarifas e Integrações de VT da Otimiza.pro (versão 2026.10.23). Cada frase traz o valor, a fonte e a data em que a Otimiza.pro conferiu e, quando a fonte informa, o ato oficial e a data em que passou a valer. A fonte oficial de cada valor está indicada. Onde há dados de serviço e oferta, a ficha traz também linhas e passageiros, com a fonte e a data.
+Quanto custa o transporte público em 557 municípios brasileiros, segundo a Base Nacional de Tarifas e Integrações de VT da Otimiza.pro (versão 2026.10.23.2). Cada frase traz o valor, a fonte e a data em que a Otimiza.pro conferiu e, quando a fonte informa, o ato oficial e a data em que passou a valer. A fonte oficial de cada valor está indicada. Onde há dados de serviço e oferta, a ficha traz também linhas e passageiros, com a fonte e a data.
 
-Como citar: Fonte: Otimiza.pro, Base Nacional de Tarifas e Integrações de Operadoras do Transporte Público e Vale-Transporte, versão 2026.10.23. DOI: https://doi.org/10.5281/zenodo.23486211. https://github.com/OtimizaPro/tarifas_integracoestarifarias_transportepublico_brasileiro
+Como citar: Fonte: Otimiza.pro, Base Nacional de Tarifas e Integrações de Operadoras do Transporte Público e Vale-Transporte, versão 2026.10.23.2. DOI: https://doi.org/10.5281/zenodo.23486211. https://github.com/OtimizaPro/tarifas_integracoestarifarias_transportepublico_brasileiro
 
 ## AC
 
@@ -753,6 +753,14 @@ Fonte (página oficial): https://www.luziania.go.gov.br/programa-tarifa-zero-no-
 Integração em Luziânia: Sem cobrança de tarifa (tarifa zero)
 
 Tarifa zero em Luziânia: Transporte público municipal gratuito para usuários cadastrados com carteirinha do programa (maiores de 6 anos, com documento pessoal; menores acompanhados dos responsáveis)
+
+### Novo Gama (GO)
+
+Em Novo Gama (GO), a passagem de ônibus custa R$ 3,75, conforme Decreto nº 241/2023; valor conferido em 23/10/2026 pela Base Nacional de Tarifas e Integrações de VT da Otimiza.pro.
+
+Página da cidade: https://otimizapro.com/tarifa/go/novo-gama
+
+Fonte (página oficial): https://acessoainformacao.novogama.go.gov.br/cidadao/legislacao/decreto/id=15729
 
 ### Quirinópolis (GO)
 
@@ -4818,6 +4826,14 @@ Página da cidade: https://otimizapro.com/tarifa/sp/embu-das-artes
 
 Fonte (ato oficial reproduzido): https://www.taboaoemfoco.com.br/wp-content/uploads/2025/12/Tarifa-de-Onibus-2026-Embu-das-Artes.pdf
 
+### Embu-Guaçu (SP)
+
+Em Embu-Guaçu (SP), a passagem de ônibus custa R$ 4,50, segundo a publicação oficial (Prefeitura de Embu-Guaçu, página 'Ônibus' do portal oficial, bloco do transporte municipal); valor conferido em 23/10/2026 pela Base Nacional de Tarifas e Integrações de VT da Otimiza.pro.
+
+Página da cidade: https://otimizapro.com/tarifa/sp/embu-guacu
+
+Fonte (página oficial): https://www.embuguacu.sp.gov.br/onibus
+
 ### Espírito Santo do Pinhal (SP)
 
 Em Espírito Santo do Pinhal (SP), a passagem de ônibus custa R$ 2,50 desde 04/05/2023, conforme Decreto nº 5.684/2023; valor conferido em 20/10/2026 pela Base Nacional de Tarifas e Integrações de VT da Otimiza.pro. Quem usa vale-transporte paga R$ 2,00.
@@ -5405,6 +5421,16 @@ Página da cidade: https://otimizapro.com/tarifa/sp/mogi-mirim
 Fonte (página oficial): https://www.mogimirim.sp.gov.br/uploads/legislacao/45193/XgvJXup44KFSTXnwKUlVO_2r3As0SlFb.pdf
 
 Vale-transporte em Mogi Mirim: cartão Vale Transporte; emitido por SOU Mogi Mirim (concessionária); canal de compra da empresa: Portal TDMax Web Commerce Mogi Mirim (https://max00365.itstransdata.com/TDMaxwebcommerce/), com login e cadastro do comprador, indicado no menu 'Vale Transporte' do site da SOU Mogi Mirim; a página lista também formulários para retirada de cartões VT; validade dos créditos: Créditos comprados antes de 01/07/2025 valeram pela tarifa anterior até 01/08/2025 (Decreto nº 9.555/2025, art. 2º)..
+
+### Mongaguá (SP)
+
+Em Mongaguá (SP), a passagem de ônibus custa R$ 4,30 desde 03/11/2025, conforme Decreto de 07/10/2025; valor conferido em 23/10/2026 pela Base Nacional de Tarifas e Integrações de VT da Otimiza.pro.
+
+Página da cidade: https://otimizapro.com/tarifa/sp/mongagua
+
+Fonte (página oficial): https://www.mongagua.sp.gov.br/noticias/gestao/nova-empresa-assume-transporte-publico-em-mongagua-com-veiculos-modernos-e-acessiveis
+
+Tarifa zero em Mongaguá: No dia da eleição, 04/10/2026, das 7h às 18h, 4 linhas de ônibus com veículos adesivados circulam de graça para atender os eleitores, a pedido da Justiça Eleitoral; os demais veículos da empresa seguem cobrando. Em caso de segundo turno, a gratuidade se repete.
 
 ### Monte Alto (SP)
 

@@ -1,6 +1,6 @@
 {
  "nome": "Base Nacional de Tarifas e Integrações de Operadoras do Transporte Público e Vale-Transporte: beneficios",
- "versao": "2026.10.23",
+ "versao": "2026.10.23.2",
  "licenca": {
   "nome": "CC BY-NC 4.0",
   "url": "https://creativecommons.org/licenses/by-nc/4.0/deed.pt-br",
@@ -8,7 +8,7 @@
   "uso_interno": "A consulta para decisões da própria empresa, como orçar o vale-transporte, não pede licença.",
   "uso_comercial": "Uso comercial por empresas (em produto, revenda ou integração em sistema ou serviço pago) pede licença da Otimiza.pro: empresa@otimiza.pro."
  },
- "citar_como": "Fonte: Otimiza.pro, Base Nacional de Tarifas e Integrações de Operadoras do Transporte Público e Vale-Transporte, versão 2026.10.23. DOI: https://doi.org/10.5281/zenodo.23486211. https://github.com/OtimizaPro/tarifas_integracoestarifarias_transportepublico_brasileiro",
+ "citar_como": "Fonte: Otimiza.pro, Base Nacional de Tarifas e Integrações de Operadoras do Transporte Público e Vale-Transporte, versão 2026.10.23.2. DOI: https://doi.org/10.5281/zenodo.23486211. https://github.com/OtimizaPro/tarifas_integracoestarifarias_transportepublico_brasileiro",
  "linhas": [
   {
    "uf": "AL",
@@ -345,6 +345,18 @@
    "fonte_url": "https://diof.io.org.br/api/diario-oficial/download/2026_10_1914137006991",
    "confianca": "A",
    "verificado_em": "2026-10-20"
+  },
+  {
+   "uf": "BA",
+   "municipio": "Senhor do Bonfim",
+   "cod_ibge": "2930105",
+   "tipo": "idoso",
+   "regra": "Gratuidade aos idosos com mais de 65 anos e meia passagem aos idosos de 60 a 65 anos nos transportes coletivos públicos urbanos e semiurbanos (estes ligam a zona urbana à rural), exceto nos serviços seletivos e especiais; acima de 65 anos basta documento com foto, e de 60 a 65 anos é preciso o Cartão do Idoso da Secretaria Municipal de Assistência Social",
+   "desde": "2025-10-01",
+   "base_legal": "Lei Municipal nº 1.825, de 1º de outubro de 2025, arts. 1º a 3º (revogou a Lei nº 1.054/2007)",
+   "fonte_url": "https://doem.org.br/ba/senhordobonfim/diarios/previsualizar/7j90AMaG",
+   "confianca": "B",
+   "verificado_em": "2026-10-23"
   },
   {
    "uf": "BA",
@@ -2376,6 +2388,18 @@
   },
   {
    "uf": "PA",
+   "municipio": "Dom Eliseu",
+   "cod_ibge": "1502939",
+   "tipo": "estudante",
+   "regra": "Tarifa reduzida à metade para os estudantes da Educação Básica de Dom Eliseu com a Carteira de Identificação Estudantil da Secretaria Municipal de Educação, no deslocamento entre a residência e a escola, nas empresas de transporte coletivo do perímetro urbano e das localidades do município",
+   "desde": "2012-06-14",
+   "base_legal": "Lei Municipal nº 372, de 14 de junho de 2012, art. 1º, §§ 3º e 7º",
+   "fonte_url": "https://www.diariomunicipal.com.br/famep/materia/2E5E9F70",
+   "confianca": "A",
+   "verificado_em": "2026-10-23"
+  },
+  {
+   "uf": "PA",
    "municipio": "Marituba",
    "cod_ibge": "1504422",
    "tipo": "estudante",
@@ -2397,6 +2421,18 @@
    "fonte_url": "https://www.arcon.pa.gov.br/sites/default/files/arcon/resolucao/RESOLU%C3%87%C3%83O%20N%C2%BA%20007-2026%20-%20PROCEDIMENTOS%20PARA%20OBTEN%C3%87%C3%83O%20DOS%20CART%C3%95ES%20DE%20TRANSPORTE.pdf",
    "confianca": "A",
    "verificado_em": "2026-10-20"
+  },
+  {
+   "uf": "PA",
+   "municipio": "Novo Repartimento",
+   "cod_ibge": "1505064",
+   "tipo": "estudante",
+   "regra": "Redução de 50% no preço das passagens dos transportes coletivos e alternativos de passageiros (ônibus, vans e assemelhados) no âmbito urbano do Município aos estudantes de estabelecimentos de ensino de Novo Repartimento, com a identidade estudantil emitida pela União dos Estudantes Secundaristas de Novo Repartimento (UNERE)",
+   "desde": "2006-05-30",
+   "base_legal": "Lei Municipal nº 474, de 30 de maio de 2006, art. 1º",
+   "fonte_url": "https://leis.org/prefeitura/pa/novo-repartimento/lei/lei-ordinaria/2006/474/lei-ordinaria-n-474-2006-dispoe-sobre-a-reducao-do-preco-da-passagem-em-transportes-coletivos-e-alternativos-para-estudantes-no-ambito-do-municipio-de-novo-repartimento-estado-do-para-e-da-outras/",
+   "confianca": "B",
+   "verificado_em": "2026-10-23"
   },
   {
    "uf": "PA",
@@ -2481,6 +2517,18 @@
    "fonte_url": "https://www.agenciapara.com.br/noticia/74026/cartao-pra-ja-e-aplicativo-digital-ampliam-acesso-ao-brt-metropolitano",
    "confianca": "B",
    "verificado_em": "2026-10-20"
+  },
+  {
+   "uf": "PA",
+   "municipio": "São Félix do Xingu",
+   "cod_ibge": "1507300",
+   "tipo": "idoso",
+   "regra": "Transporte coletivo urbano e rural gratuito às pessoas com 60 anos ou mais, com documento oficial com foto, e às pessoas com deficiência residentes no município, com o Cartão de Benefício de Transporte Gratuito (CBTG) emitido pela Coordenação de Trânsito, em todos os dias e horários de operação do serviço, inclusive nas vilas e distritos",
+   "desde": "2024-06-24",
+   "base_legal": "Lei Municipal nº 659, de 24 de junho de 2024, arts. 1º a 3º",
+   "fonte_url": "https://leis.org/prefeitura/pa/sao-felix-do-xingu/lei/lei-ordinaria/2024/659/lei-ordinaria-n-659-2024-dispoe-sobre-a-regulamentacao-do-transporte-coletivo-urbano-e-rural-gratuito-para-pessoas-idosas-e-pessoas-com-deficiencia-no-municipio-de-sao-felix-do-xingu-estado-do-para-e-da-outras/",
+   "confianca": "A",
+   "verificado_em": "2026-10-23"
   },
   {
    "uf": "PB",
@@ -6153,6 +6201,18 @@
    "fonte_url": "https://www.mogimirim.sp.gov.br/uploads/legislacao/45193/XgvJXup44KFSTXnwKUlVO_2r3As0SlFb.pdf",
    "confianca": "A",
    "verificado_em": "2026-10-18"
+  },
+  {
+   "uf": "SP",
+   "municipio": "Mongaguá",
+   "cod_ibge": "3531100",
+   "tipo": "tarifa_zero_temporal",
+   "regra": "No dia da eleição, 04/10/2026, das 7h às 18h, 4 linhas de ônibus com veículos adesivados circulam de graça para atender os eleitores, a pedido da Justiça Eleitoral; os demais veículos da empresa seguem cobrando. Em caso de segundo turno, a gratuidade se repete.",
+   "desde": "2026-10-04",
+   "base_legal": "pedido da Justiça Eleitoral, com ajuste entre o Município e a concessionária (notícia da Prefeitura de 30/09/2026)",
+   "fonte_url": "https://www.mongagua.sp.gov.br/noticias/semutran/eleitor-de-mongagua-tera-gratuidade-no-transporte-coletivo-neste-domingo-de-eleicao",
+   "confianca": "A",
+   "verificado_em": "2026-10-23"
   },
   {
    "uf": "SP",
