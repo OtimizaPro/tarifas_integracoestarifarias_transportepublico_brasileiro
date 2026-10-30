@@ -1,6 +1,6 @@
 {
  "nome": "Base Nacional de Tarifas e Integrações de Operadoras do Transporte Público e Vale-Transporte: beneficios",
- "versao": "2026.10.29",
+ "versao": "2026.10.30",
  "licenca": {
   "nome": "CC BY-NC 4.0",
   "url": "https://creativecommons.org/licenses/by-nc/4.0/deed.pt-br",
@@ -8,7 +8,7 @@
   "uso_interno": "A consulta para decisões da própria empresa, como orçar o vale-transporte, não pede licença.",
   "uso_comercial": "Uso comercial por empresas (em produto, revenda ou integração em sistema ou serviço pago) pede licença da Otimiza.pro: empresa@otimiza.pro."
  },
- "citar_como": "Fonte: Otimiza.pro, Base Nacional de Tarifas e Integrações de Operadoras do Transporte Público e Vale-Transporte, versão 2026.10.29. DOI: https://doi.org/10.5281/zenodo.23486211. https://github.com/OtimizaPro/tarifas_integracoestarifarias_transportepublico_brasileiro",
+ "citar_como": "Fonte: Otimiza.pro, Base Nacional de Tarifas e Integrações de Operadoras do Transporte Público e Vale-Transporte, versão 2026.10.30. DOI: https://doi.org/10.5281/zenodo.23486211. https://github.com/OtimizaPro/tarifas_integracoestarifarias_transportepublico_brasileiro",
  "linhas": [
   {
    "uf": "AL",
@@ -1185,6 +1185,18 @@
    "fonte_url": "https://www.otempo.com.br/cidades/onibus-sera-gratuito-para-populacao-em-brumadinho-na-grande-bh-1.3270283",
    "confianca": "B",
    "verificado_em": "2026-10-20"
+  },
+  {
+   "uf": "MG",
+   "municipio": "Caeté",
+   "cod_ibge": "3110004",
+   "tipo": "tarifa_zero_universal",
+   "regra": "Transporte coletivo urbano municipal gratuito para todos os cidadãos (Programa Tarifa Zero), custeado pela Prefeitura, que paga a operadora por quilômetro rodado; implantado em 2021.",
+   "desde": null,
+   "base_legal": "Lei Municipal nº 3.301, de 30/06/2021",
+   "fonte_url": "https://pncp.gov.br/app/editais/18302299000102/2026/73",
+   "confianca": "A",
+   "verificado_em": "2026-10-29"
   },
   {
    "uf": "MG",
@@ -3744,6 +3756,18 @@
   },
   {
    "uf": "RJ",
+   "municipio": "Paracambi",
+   "cod_ibge": "3303609",
+   "tipo": "tarifa_zero_universal",
+   "regra": "Transporte coletivo municipal (o Curió) gratuito para todos os usuários, custeado pela Prefeitura, que paga a operadora por quilômetro rodado.",
+   "desde": "2023-01-21",
+   "base_legal": "o Decreto nº 6.468/2026 trata o serviço como 'Sistema de Transporte Coletivo Tarifa Zero do Município de Paracambi'",
+   "fonte_url": "https://paracambi.rj.gov.br/2026/05/18/prefeitura-de-paracambi-apresenta-novo-curio-e-inicia-nova-fase-do-tarifa-zero-no-municipio/",
+   "confianca": "A",
+   "verificado_em": "2026-10-29"
+  },
+  {
+   "uf": "RJ",
    "municipio": "Petrópolis",
    "cod_ibge": "3303906",
    "tipo": "estudante",
@@ -3801,6 +3825,30 @@
    "fonte_url": "https://riobonito.rj.gov.br/rio-bonito-tera-onibus-gratuitos-no-segundo-turno-das-eleicoes-assim-como-no-primeiro/",
    "confianca": "B",
    "verificado_em": "2026-10-20"
+  },
+  {
+   "uf": "RJ",
+   "municipio": "Santo Antônio de Pádua",
+   "cod_ibge": "3304706",
+   "tipo": "idoso",
+   "regra": "Gratuidade no transporte coletivo público urbano para idosos com 65 anos ou mais, com documento pessoal com foto; não vale nos serviços seletivos e especiais, como lotações e fretamento.",
+   "desde": null,
+   "base_legal": "Decreto nº 154, de 10/12/2024 (regulamenta o Estatuto da Pessoa Idosa no Município)",
+   "fonte_url": "http://www.santoantoniodepadua.rj.gov.br/portal/arquivo/2/2024/12_dezembro/decreto_no_154-24_-_regulamenta_gratuidade_idosos_-_transporte_coletivo_urbano.pdf",
+   "confianca": "A",
+   "verificado_em": "2026-10-29"
+  },
+  {
+   "uf": "RJ",
+   "municipio": "Santo Antônio de Pádua",
+   "cod_ibge": "3304706",
+   "tipo": "tarifa_zero_temporal",
+   "regra": "Transporte coletivo municipal gratuito para todos os usuários nos dias de votação (primeiro e segundo turnos), durante todo o funcionamento do serviço, sem exigir título de eleitor.",
+   "desde": null,
+   "base_legal": "Decreto nº 096, de 11/08/2026",
+   "fonte_url": "http://www.santoantoniodepadua.rj.gov.br/portal/arquivo/2/2026/08_agosto/decreto_no_096-26_-_dispoe_sobre_a_gratuidade_do_transporte_coletivo_municipal_d.pdf",
+   "confianca": "A",
+   "verificado_em": "2026-10-29"
   },
   {
    "uf": "RJ",
@@ -7176,6 +7224,30 @@
   },
   {
    "uf": "SP",
+   "municipio": "São Pedro",
+   "cod_ibge": "3550407",
+   "tipo": "estudante",
+   "regra": "Estudantes pagam a tarifa com 50% de desconto.",
+   "desde": null,
+   "base_legal": "Lei Orgânica do Município, art. 143, III, e Lei Municipal nº 2.409/2003 (citadas no Termo de Referência da Concorrência Eletrônica nº 07/2026)",
+   "fonte_url": "https://www.saopedro.sp.gov.br/portal/editais/0/1/3571/",
+   "confianca": "A",
+   "verificado_em": "2026-10-29"
+  },
+  {
+   "uf": "SP",
+   "municipio": "São Pedro",
+   "cod_ibge": "3550407",
+   "tipo": "idoso",
+   "regra": "Idosos e pessoas com deficiência viajam com tarifa isenta no transporte coletivo urbano.",
+   "desde": null,
+   "base_legal": "Lei Orgânica do Município, art. 143, III, e Lei Municipal nº 2.409/2003 (citadas no Termo de Referência da Concorrência Eletrônica nº 07/2026)",
+   "fonte_url": "https://www.saopedro.sp.gov.br/portal/editais/0/1/3571/",
+   "confianca": "A",
+   "verificado_em": "2026-10-29"
+  },
+  {
+   "uf": "SP",
    "municipio": "São Roque",
    "cod_ibge": "3550605",
    "tipo": "tarifa_zero_temporal",
@@ -7341,6 +7413,30 @@
    "fonte_url": "https://sbtnews.sbt.com.br/noticia/brasil/260969-transporte-publico-gratis-sonho-que-parece-distante-e-realidade-bem-perto-de-sp",
    "confianca": "B",
    "verificado_em": "2026-10-20"
+  },
+  {
+   "uf": "SP",
+   "municipio": "Vargem Grande do Sul",
+   "cod_ibge": "3556404",
+   "tipo": "estudante",
+   "regra": "Alunos e professores têm desconto de 50% na tarifa do transporte coletivo urbano.",
+   "desde": null,
+   "base_legal": "não citada no edital",
+   "fonte_url": "https://pncp.gov.br/app/editais/46248837000155/2025/74",
+   "confianca": "A",
+   "verificado_em": "2026-10-29"
+  },
+  {
+   "uf": "SP",
+   "municipio": "Vargem Grande do Sul",
+   "cod_ibge": "3556404",
+   "tipo": "idoso",
+   "regra": "Pessoas idosas e pessoas com deficiência têm isenção total da tarifa no transporte coletivo urbano.",
+   "desde": null,
+   "base_legal": "não citada no edital (Lei Municipal nº 2.160/1997 e Decreto nº 1.560/1997 regulam o serviço)",
+   "fonte_url": "https://pncp.gov.br/app/editais/46248837000155/2025/74",
+   "confianca": "A",
+   "verificado_em": "2026-10-29"
   },
   {
    "uf": "SP",

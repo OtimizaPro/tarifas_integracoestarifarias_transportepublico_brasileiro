@@ -1,8 +1,8 @@
 # Tarifas do transporte público por cidade (Otimiza.pro)
 
-Quanto custa o transporte público em 573 municípios brasileiros, segundo a Base Nacional de Tarifas e Integrações de VT da Otimiza.pro (versão 2026.10.29). Cada frase traz o valor, a fonte e a data em que a Otimiza.pro conferiu e, quando a fonte informa, o ato oficial e a data em que passou a valer. A fonte oficial de cada valor está indicada. Onde há dados de serviço e oferta, a ficha traz também linhas e passageiros, com a fonte e a data.
+Quanto custa o transporte público em 587 municípios brasileiros, segundo a Base Nacional de Tarifas e Integrações de VT da Otimiza.pro (versão 2026.10.30). Cada frase traz o valor, a fonte e a data em que a Otimiza.pro conferiu e, quando a fonte informa, o ato oficial e a data em que passou a valer. A fonte oficial de cada valor está indicada. Onde há dados de serviço e oferta, a ficha traz também linhas e passageiros, com a fonte e a data.
 
-Como citar: Fonte: Otimiza.pro, Base Nacional de Tarifas e Integrações de Operadoras do Transporte Público e Vale-Transporte, versão 2026.10.29. DOI: https://doi.org/10.5281/zenodo.23486211. https://github.com/OtimizaPro/tarifas_integracoestarifarias_transportepublico_brasileiro
+Como citar: Fonte: Otimiza.pro, Base Nacional de Tarifas e Integrações de Operadoras do Transporte Público e Vale-Transporte, versão 2026.10.30. DOI: https://doi.org/10.5281/zenodo.23486211. https://github.com/OtimizaPro/tarifas_integracoestarifarias_transportepublico_brasileiro
 
 ## AC
 
@@ -904,6 +904,16 @@ Fonte (operadora): https://www.alfetur.com.br/tarifa
 
 Vale-transporte em Alfenas: cartão Vale Transporte; emitido por Alfenas Transportes e Turismo Ltda. (Alfetur); canal de compra da empresa: cadastro da empresa só com o Cartão CNPJ; cadastro dos colaboradores por planilha oficial enviada por e-mail (nome, endereço, telefone, CPF, RG, data de nascimento e foto 3x4); recarga mensal paga por depósito bancário ou PIX, com créditos distribuídos por colaborador; contato contato@alfetur.com.br e (35) 3292-1212; retirada de cartões no escritório da empresa; liberação do crédito: cartões emitidos em até 7 dias úteis; taxa na compra: não citada na página; validade dos créditos: 180 dias a partir da recarga, contados por lote; o validador avisa 30 dias antes do vencimento.
 
+### Andradas (MG)
+
+Em Andradas (MG), a passagem de ônibus custa R$ 3,20, conforme Decreto nº 1.948/2018; valor conferido em 29/10/2026 pela Base Nacional de Tarifas e Integrações de VT da Otimiza.pro.
+
+Página da cidade: https://otimizapro.com/tarifa/mg/andradas
+
+Fonte (ato oficial reproduzido): https://leis.org/prefeitura/mg/andradas/lei/decreto/2018/1948/decreto-n-1948-2018-dispoe-sobre-o-aumento-na-tarifa-de-transporte-coletivo-de-passageiros-no-perimetro-urbano-do/
+
+Vale-transporte em Andradas: cartão Inove Card, modalidade Vale Transporte; emitido por Auto Viação i9 (Auto Viação RT Ltda.); canal de compra da empresa: a empresa se cadastra e cadastra os funcionários pela internet, no link 'Para Empresas' do site da operadora, deposita os créditos nos cartões e retira os cartões no escritório da operadora.
+
 ### Araguari (MG)
 
 Em Araguari (MG), a passagem de ônibus custa de R$ 4,30 a R$ 13,00 (varia com o tipo de linha) desde 15/06/2022, conforme Decreto nº 120/2022; valor conferido em 21/10/2026 pela Base Nacional de Tarifas e Integrações de VT da Otimiza.pro.
@@ -1001,6 +1011,16 @@ Fonte (imprensa): https://www.otempo.com.br/cidades/onibus-sera-gratuito-para-po
 Vale-transporte em Brumadinho: cartão ÓTIMO Vale-Transporte; emitido por Consórcio Ótimo de Bilhetagem Eletrônica; canal de compra da empresa: modalidade Carga a Bordo: contrato baixado no site, cadastro pelo formulário do Portal Ótimo (otimoonline.com.br) e pedidos com boleto gerado no Portal; modalidade Carga no Posto: contrato de cessão de cartões na loja do Bairro Floresta (Rua Aquiles Lobo, 504, Belo Horizonte); liberação do crédito: carga embarcada nos veículos em até 1 dia útil após a compensação bancária do pagamento (cláusula 5.4.1 do contrato); o crédito entra no cartão no validador; taxa na compra: 1% sobre o valor total do pedido de créditos na modalidade Carga a Bordo, com mínimo de R$ 0,45 por cartão a carregar (cláusula 6.2 do contrato de Carga a Bordo); validade dos créditos: 180 dias a partir da habilitação (cláusula 3.7 do contrato); revalidação no ponto de venda nos 30 dias seguintes ao vencimento.
 
 Tarifa zero em Brumadinho: Tarifa zero para todos os passageiros, em todos os dias e horários, nos ônibus das linhas municipais, com subsídio integral da Prefeitura (projeto Transporte Para Todos)
+
+### Caeté (MG)
+
+Em Caeté (MG), o ônibus é gratuito (tarifa zero), conforme Lei Municipal nº 3.301/2021; valor conferido em 29/10/2026 pela Base Nacional de Tarifas e Integrações de VT da Otimiza.pro.
+
+Página da cidade: https://otimizapro.com/tarifa/mg/caete
+
+Fonte (página oficial): https://pncp.gov.br/app/editais/18302299000102/2026/73
+
+Tarifa zero em Caeté: Transporte coletivo urbano municipal gratuito para todos os cidadãos (Programa Tarifa Zero), custeado pela Prefeitura, que paga a operadora por quilômetro rodado; implantado em 2021.
 
 ### Campo Belo (MG)
 
@@ -1336,6 +1356,14 @@ Vale-transporte em Mariana: emitido por Castro Cotta Transportes Ltda. (Transcot
 
 Tarifa zero em Mariana: Ônibus municipal gratuito para todos os passageiros, inclusive turistas, na sede e nos distritos, com subvenção da Prefeitura à operadora.
 
+### Mateus Leme (MG)
+
+Em Mateus Leme (MG), a passagem de ônibus custa R$ 5,60, conforme Decreto nº 18/2025; valor conferido em 29/10/2026 pela Base Nacional de Tarifas e Integrações de VT da Otimiza.pro.
+
+Página da cidade: https://otimizapro.com/tarifa/mg/mateus-leme
+
+Fonte (página oficial): https://leis.org/prefeitura/mg/mateus-leme/lei/decreto/2025/18/decreto-n-18-2025-dispoe-sobre-reajuste-da-tarifa-do-servico-publico-municipal-de-transporte-coletivo-de/
+
 ### Matozinhos (MG)
 
 Em Matozinhos (MG), a passagem de ônibus custa R$ 3,00 desde 01/08/2023, segundo a operadora (AM2 Transportes, operadora do transporte municipal de Matozinhos); valor conferido em 20/10/2026 pela Base Nacional de Tarifas e Integrações de VT da Otimiza.pro.
@@ -1413,6 +1441,14 @@ Fonte (página oficial): https://www.novaserrana.mg.gov.br/uploads/diario_202637
 Vale-transporte em Nova Serrana: cartão Vale Transporte SETNOVA; emitido por Transnova (TNS Transnova Coletivo), concessionária do transporte urbano; canal de compra da empresa: a empresa contrata pelo telefone (37) 3226-1919 da Transnova; o site da operadora indica um sistema de bilhetagem com login (SIGOM) para recarga, e a recarga é paga por boleto, com os créditos carregados a bordo do ônibus; taxa na compra: não citada nas páginas abertas.
 
 Tarifa zero em Nova Serrana: Gratuidade da tarifa para toda a população no transporte coletivo urbano aos domingos, feriados nacionais e feriados municipais.
+
+### Oliveira (MG)
+
+Em Oliveira (MG), a passagem de ônibus custa R$ 2,50, conforme Decreto nº 5.112/2025; valor conferido em 29/10/2026 pela Base Nacional de Tarifas e Integrações de VT da Otimiza.pro.
+
+Página da cidade: https://otimizapro.com/tarifa/mg/oliveira
+
+Fonte (página oficial): https://oliveira.atende.net/autoatendimento/servicos/legislacao-municipal
 
 ### Ouro Branco (MG)
 
@@ -1559,6 +1595,16 @@ Em Santana do Paraíso (MG), a passagem de ônibus custa R$ 3,65 desde 11/05/202
 Página da cidade: https://otimizapro.com/tarifa/mg/santana-do-paraiso
 
 Fonte (página oficial): https://santanadoparaiso.mg.gov.br/extra/abrir-arquivo/diario-eletronico/edicao-1528.pdf
+
+### Santos Dumont (MG)
+
+Em Santos Dumont (MG), a passagem de ônibus custa R$ 3,50, e há linhas gratuitas, conforme Decreto Municipal nº 3.575/2022; valor conferido em 29/10/2026 pela Base Nacional de Tarifas e Integrações de VT da Otimiza.pro.
+
+Página da cidade: https://otimizapro.com/tarifa/mg/santos-dumont
+
+Fonte (página oficial): https://www.santosdumont.mg.gov.br/noticiasInterna/executivo-municipal-concede-subsidio-a-concessionaria-do-servico-de-transporte-coletivo-urbano
+
+Vale-transporte em Santos Dumont: emitido por Adrijoive Transportes Urbanos Ltda. (concessionária); canal de compra da empresa: compra direta da concessionária (a Câmara Municipal compra o vale-transporte municipal da Adrijoive por inexigibilidade de licitação); taxa na compra: Na compra da Câmara de 07/02/2025, 250 unidades a R$ 3,50 somaram R$ 875,00, sem taxa à parte; outros canais não foram achados..
 
 ### São João del Rei (MG)
 
@@ -1743,6 +1789,14 @@ Página da cidade: https://otimizapro.com/tarifa/mg/visconde-do-rio-branco
 Fonte (página oficial): https://www.viscondedoriobranco.mg.gov.br/wp-content/uploads/2021/04/DECRETO-No-027-2021-Reajuste-onibus.pdf
 
 ## MS
+
+### Amambai (MS)
+
+Em Amambai (MS), a passagem de ônibus custa R$ 4,00 desde 24/07/2024, conforme Decreto nº 315/2024; valor conferido em 29/10/2026 pela Base Nacional de Tarifas e Integrações de VT da Otimiza.pro.
+
+Página da cidade: https://otimizapro.com/tarifa/ms/amambai
+
+Fonte (página oficial): https://diario-oficial-prd.nyc3.digitaloceanspaces.com/files/media/106837/3638---24-07-2024.pdf
 
 ### Campo Grande (MS)
 
@@ -2660,6 +2714,14 @@ Vale-transporte intermunicipal da Cidade Verde: cobre ônibus intermunicipais da
 
 Integração em Maringá: Integração Temporal Inteligente só com Cartão Passe Fácil ou aplicativo BiPay: uma integração por usuário, para até 2 viagens em linhas diferentes, sem repetir a linha anterior, dentro do tempo contado do primeiro registro na catraca (Decreto nº 1539/2025, art. 1º, § 2º, e art. 2º). A TCCC publica o tempo por linha, de 1h10 a 1h55 (ex.: 007 Interbairros Zona Norte 1h10; 008 Interbairros 1h25; 233 Cj. Guaiapó 1h55). Pagamento com cartão bancário por aproximação não integra. Com as linhas metropolitanas diretas de Sarandi e Paiçandu: tarifa integral no primeiro sistema e 50% (R$ 2,90) no segundo.
 
+### Matinhos (PR)
+
+Em Matinhos (PR), o ônibus é gratuito (tarifa zero), conforme Lei nº 2.276/2021; valor conferido em 29/10/2026 pela Base Nacional de Tarifas e Integrações de VT da Otimiza.pro.
+
+Página da cidade: https://otimizapro.com/tarifa/pr/matinhos
+
+Fonte (página oficial): https://www.diariomunicipal.com.br/amp/materia/E219C7CE
+
 ### Palmas (PR)
 
 Em Palmas (PR), o ônibus é gratuito (tarifa zero), segundo a publicação oficial (Prefeitura Municipal de Palmas, 'Novo Tarifa Zero Começa a Operar em Palmas Segunda Dia 06/10', 03/10/2025); valor conferido em 20/10/2026 pela Base Nacional de Tarifas e Integrações de VT da Otimiza.pro.
@@ -2761,6 +2823,14 @@ Vale-transporte em Quatro Barras: cartão Metrocard na modalidade vale-transport
 Integração em Quatro Barras: Integração temporal da AMEP, só com o Cartão Metrocard: a segunda linha metropolitana não paga nova tarifa se o embarque for em até 2h30 do pagamento da primeira; não vale na mesma linha, nem entre linhas do mesmo eixo e sentido, nem com cartões de sistemas municipais.
 
 Tarifa zero em Quatro Barras: Tarifa zero para todos os passageiros no transporte coletivo que opera dentro do município (linhas alimentadoras O11 a O15, a R$ 0,00 na tabela da AMEP de 2026); a passagem só é paga para sair da cidade, nas linhas metropolitanas
+
+### Rio Branco do Sul (PR)
+
+Em Rio Branco do Sul (PR), o ônibus é gratuito (tarifa zero), conforme Lei nº 1.568/2026; valor conferido em 29/10/2026 pela Base Nacional de Tarifas e Integrações de VT da Otimiza.pro.
+
+Página da cidade: https://otimizapro.com/tarifa/pr/rio-branco-do-sul
+
+Fonte (página oficial): https://www.diariomunicipal.com.br/amp/materia/5E041679
 
 ### Rolândia (PR)
 
@@ -3066,6 +3136,16 @@ Página da cidade: https://otimizapro.com/tarifa/rj/nova-iguacu
 
 Fonte (página oficial): https://novaiguacu.rj.gov.br/wp-content/uploads/2025/03/pmni_de_28-03-2025_-_sexta-feira_-_final_27060714.pdf
 
+### Paracambi (RJ)
+
+Em Paracambi (RJ), o ônibus é gratuito (tarifa zero) desde 21/01/2023, segundo a publicação oficial (Prefeitura de Paracambi, Diário Oficial Eletrônico, edição extra nº 2040, de 02/10/2026, Decreto nº 6.468/2026); valor conferido em 29/10/2026 pela Base Nacional de Tarifas e Integrações de VT da Otimiza.pro.
+
+Página da cidade: https://otimizapro.com/tarifa/rj/paracambi
+
+Fonte (página oficial): https://paracambi.rj.gov.br/diariooficial/DOE.Paracambi.Ed2040%2002.10.2026-Extra.pdf
+
+Tarifa zero em Paracambi: Transporte coletivo municipal (o Curió) gratuito para todos os usuários, custeado pela Prefeitura, que paga a operadora por quilômetro rodado.
+
 ### Paraty (RJ)
 
 Em Paraty (RJ), a passagem de ônibus custa R$ 5,00, segundo a operadora (Viação Colitur, página Horários Linhas Urbanas, Paraty); valor conferido em 20/10/2026 pela Base Nacional de Tarifas e Integrações de VT da Otimiza.pro.
@@ -3149,6 +3229,16 @@ Jaé: cobre BRT, VLT, ônibus municipais (inclusive executivos), vans municipais
 Riocard Mais: cobre metrô, trem, barcas e ônibus e vans intermunicipais do Estado do Rio; BRT, VLT, vans e ônibus municipais do Rio só com o Bilhete Único Intermunicipal (BUI) habilitado, desde 02/08/2025; cartão Riocard Mais Vale-Transporte (Personalizado Usuário, com o nome do trabalhador, ou Personalizado Empresa, com a razão social; só o Personalizado Usuário pode ter o BUI); emitido por Riocard Mais (cartões cedidos pela Riopar Participações S.A., com legitimidade da Fetranspor; site Para Empresas operado pela Mais Mobi Serviços Ltda.); canal de compra da empresa: Portal Riocard Mais Para Empresas (riocardmais.com.br/Para_empresas, com login e senha) ou canal de vendas corporativas (vendas@riocardmais.com.br); pedido de VT pago por boleto ou com a bolsa de crédito do comprador; liberação do crédito: a carga só é liberada depois que a empresa desbloqueia o cartão e precisa ser validada: vai para os validadores das 3 linhas de ônibus ou do modo mais usado nos últimos 30 dias, para os terminais de consulta ou para o app com NFC, e fica disponível nos transportes por até 120 dias; taxa na compra: compra de cartões e créditos por 'links gratuitos' (termos de uso do site Para Empresas); são pagos os serviços opcionais Gestão + VT e Facilita + VT, com valor informado na contratação; há tarifa de entrega domiciliar dos cartões, conforme CEP e quantidade; validade dos créditos: as recargas não expiram desde 08/05/2019, por decisão judicial; cartão sem uso por mais de 8 meses sofre bloqueio preventivo, com o saldo mantido.
 
 Integração no Rio de Janeiro: Bilhete Único Carioca: R$ 5,00 por até 3 viagens em 3h, uma delas no BRT; com metrô, janela de 120 min (metrô + ônibus R$ 8,80; + BRT R$ 9,70)
+
+### Santo Antônio de Pádua (RJ)
+
+Em Santo Antônio de Pádua (RJ), a passagem de ônibus custa de R$ 5,00 a R$ 10,50 (varia com o tipo de linha), conforme Contrato nº 011/2024; valor conferido em 29/10/2026 pela Base Nacional de Tarifas e Integrações de VT da Otimiza.pro.
+
+Página da cidade: https://otimizapro.com/tarifa/rj/santo-antonio-de-padua
+
+Fonte (página oficial): https://www.santoantoniodepadua.rj.gov.br/licitacao/abrir/1131/resultado/contrato_011-2024.pdf
+
+Tarifa zero em Santo Antônio de Pádua: Transporte coletivo municipal gratuito para todos os usuários nos dias de votação (primeiro e segundo turnos), durante todo o funcionamento do serviço, sem exigir título de eleitor.
 
 ### São Gonçalo (RJ)
 
@@ -3850,6 +3940,14 @@ Cartão Vale Transporte do COLEO (ônibus municipais de São Leopoldo): cobre ô
 
 TEU! Vale-transporte (ônibus metropolitanos da Região Metropolitana de Porto Alegre): cobre ônibus metropolitanos da Região Metropolitana de Porto Alegre do sistema TEU!; a página do empregador também cita os validadores do Trensurb para inserir a carga comprada; cartão TEU! Vale-transporte; emitido por Sistema TEU! (Bilhete Metropolitano); canal de compra da empresa: TEU! Online (empregador pessoa física ou jurídica, cadastro manual dos funcionários, pedido e boleto, sem limite de cartões; cartões retirados no Posto ATM, em Porto Alegre, em até 5 dias úteis), Valesul (só pessoa jurídica, cadastro por arquivo .txt, boleto) ou Postos de Venda TEU! (pagamento à vista, até 10 cartões numerados, sem cadastro dos funcionários); liberação do crédito: TEU! Online: créditos carregados nos cartões após 3 dias úteis, nos validadores dos ônibus do sistema; taxa na compra: TEU! Online: 'taxa única para todo o pedido', valor não publicado; Valesul: 'taxa variável conforme pedido de crédito', valor não publicado; Postos de Venda: sem taxas administrativas; validade dos créditos: a carga comprada no TEU! Online ou na Valesul deve ser inserida no cartão em até 120 dias (desde 01/03/2023).
 
+### São Lourenço do Sul (RS)
+
+Em São Lourenço do Sul (RS), a passagem de ônibus custa R$ 4,00 desde 08/04/2022, conforme Decreto nº 5.871/2022; valor conferido em 29/10/2026 pela Base Nacional de Tarifas e Integrações de VT da Otimiza.pro.
+
+Página da cidade: https://otimizapro.com/tarifa/rs/sao-lourenco-do-sul
+
+Fonte (página oficial): https://webapp1-saolourencodosul.cidade360.cloud/TLNET/consulta/download/29554
+
 ### Sapiranga (RS)
 
 Em Sapiranga (RS), a passagem de ônibus custa R$ 4,00 desde 06/01/2020, segundo a operadora (TEU! Bilhete Metropolitano, 'Códigos dos VT's comercializados através do cartão TEU', última atualização em 29/09/2026, código 230 'Urbana Sapiranga', TC Sapi); valor conferido em 20/10/2026 pela Base Nacional de Tarifas e Integrações de VT da Otimiza.pro.
@@ -4241,6 +4339,14 @@ Página da cidade: https://otimizapro.com/tarifa/sc/lages
 Fonte (página oficial): https://diariomunicipal.sc.gov.br/atos/7865602
 
 Vale-transporte em Lages: cartão Vale-Transporte Bela Lages; emitido por Transul (transporte coletivo urbano de Lages); canal de compra da empresa: Portal TDMax WebCommerce indicado no site da Transul, com acesso para cadastrados e cadastro de novos; créditos comprados pela internet ficam disponíveis em até 72 horas após a confirmação bancária, por recarga nos validadores dos ônibus e no Terminal Urbano; nota fiscal enviada por e-mail.; liberação do crédito: até 72 horas após a confirmação bancária, com recarga nos validadores dos ônibus e no Terminal Urbano.
+
+### Laguna (SC)
+
+Em Laguna (SC), a passagem de ônibus custa R$ 6,00 desde 27/12/2024, conforme Decreto nº 7.403/2024; valor conferido em 29/10/2026 pela Base Nacional de Tarifas e Integrações de VT da Otimiza.pro.
+
+Página da cidade: https://otimizapro.com/tarifa/sc/laguna
+
+Fonte (página oficial): https://diariomunicipal.sc.gov.br/atos/6750088
 
 ### Mafra (SC)
 
@@ -6082,6 +6188,14 @@ Integração em São Paulo: Bilhete Único comum: até 4 ônibus em 3h; integrad
 
 Tarifa zero em São Paulo: ônibus municipal grátis aos domingos e em 25/12, 01/01 e 25/01
 
+### São Pedro (SP)
+
+Em São Pedro (SP), a passagem de ônibus custa R$ 3,00, segundo a publicação oficial (Prefeitura de São Pedro, notícia 'Ônibus moderno, ar condicionado e bilhete digital: São Pedro inaugura nova era no sistema de transporte urbano', 19/04/2023); valor conferido em 29/10/2026 pela Base Nacional de Tarifas e Integrações de VT da Otimiza.pro.
+
+Página da cidade: https://otimizapro.com/tarifa/sp/sao-pedro
+
+Fonte (página oficial): https://www.saopedro.sp.gov.br/portal/noticias/0/3/17305/onibus-moderno-ar-condicionado-e-bilhete-digital-sao-pedro-inaugura-nova-era-no-sistema-de-transporte-urbano
+
 ### São Roque (SP)
 
 Em São Roque (SP), a passagem de ônibus custa de R$ 3,50 a R$ 4,00 (varia com o cartão ou o meio de pagamento) desde 20/07/2026, conforme Decreto nº 10.749/2026; valor conferido em 20/10/2026 pela Base Nacional de Tarifas e Integrações de VT da Otimiza.pro. Quem usa vale-transporte paga R$ 9,00.
@@ -6135,6 +6249,14 @@ Fonte (página oficial): https://www.dosp.com.br/exibe_do.php?i=ODYxOTIw
 Vale-transporte em Sertãozinho: emitido por Viação Sertanezina Ltda. (concessionária); canal de compra da empresa: Portal TDMax Web Commerce Sertãozinho (https://max00396.itstransdata.com/TDMaxwebcommerce/), com login e cadastro do comprador, indicado no link 'Vale Transporte' do site da Viação Sertanezina.
 
 Tarifa zero em Sertãozinho: Transporte coletivo urbano em Sertãozinho e no Distrito de Cruz das Posses gratuito aos usuários nos dias das eleições de 2026, contratado pela Prefeitura com a Viação Sertanezina (R$ 50.000,00).
+
+### Socorro (SP)
+
+Em Socorro (SP), a passagem de ônibus custa de R$ 4,79 a R$ 6,26 (varia com o tipo de linha) desde 16/09/2026, conforme Decreto nº 4.991/2026; valor conferido em 29/10/2026 pela Base Nacional de Tarifas e Integrações de VT da Otimiza.pro.
+
+Página da cidade: https://otimizapro.com/tarifa/sp/socorro
+
+Fonte (página oficial): https://socorro.sp.gov.br/jornal/wp-content/uploads/2026/09/1505.pdf
 
 ### Sorocaba (SP)
 

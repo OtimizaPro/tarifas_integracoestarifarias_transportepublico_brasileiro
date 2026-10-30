@@ -1,6 +1,6 @@
 {
  "nome": "Base Nacional de Tarifas e Integrações de Operadoras do Transporte Público e Vale-Transporte: vale_transporte",
- "versao": "2026.10.29",
+ "versao": "2026.10.30",
  "licenca": {
   "nome": "CC BY-NC 4.0",
   "url": "https://creativecommons.org/licenses/by-nc/4.0/deed.pt-br",
@@ -8,7 +8,7 @@
   "uso_interno": "A consulta para decisões da própria empresa, como orçar o vale-transporte, não pede licença.",
   "uso_comercial": "Uso comercial por empresas (em produto, revenda ou integração em sistema ou serviço pago) pede licença da Otimiza.pro: empresa@otimiza.pro."
  },
- "citar_como": "Fonte: Otimiza.pro, Base Nacional de Tarifas e Integrações de Operadoras do Transporte Público e Vale-Transporte, versão 2026.10.29. DOI: https://doi.org/10.5281/zenodo.23486211. https://github.com/OtimizaPro/tarifas_integracoestarifarias_transportepublico_brasileiro",
+ "citar_como": "Fonte: Otimiza.pro, Base Nacional de Tarifas e Integrações de Operadoras do Transporte Público e Vale-Transporte, versão 2026.10.30. DOI: https://doi.org/10.5281/zenodo.23486211. https://github.com/OtimizaPro/tarifas_integracoestarifarias_transportepublico_brasileiro",
  "linhas": [
   {
    "uf": "AC",
@@ -1112,6 +1112,31 @@
   },
   {
    "uf": "MG",
+   "municipio": "Andradas",
+   "cod_ibge": "3102605",
+   "sistema": "Inove Card (Auto Viação i9)",
+   "abrangencia": "municipal",
+   "modos_cobertos": "ônibus urbanos",
+   "cartao_vt": "Inove Card, modalidade Vale Transporte",
+   "emissora": "Auto Viação i9 (Auto Viação RT Ltda.)",
+   "canal_compra_empresa": "a empresa se cadastra e cadastra os funcionários pela internet, no link 'Para Empresas' do site da operadora, deposita os créditos nos cartões e retira os cartões no escritório da operadora",
+   "compra_online": null,
+   "cadastro_por_colaborador": "sim (a empresa cadastra cada trabalhador)",
+   "custo_cartao_brl": null,
+   "tarifa_vt_brl": null,
+   "tarifa_comum_brl": null,
+   "vt_diferente_da_comum": "não",
+   "prazo_liberacao_credito": null,
+   "tem_taxa_na_compra": null,
+   "taxa_na_compra": null,
+   "validade_credito": null,
+   "limites": null,
+   "fonte_url": "http://i9andradas.com.br/vale_transporte.html",
+   "confianca": "B",
+   "verificado_em": "2026-10-29"
+  },
+  {
+   "uf": "MG",
    "municipio": "Araguari",
    "cod_ibge": "3103504",
    "sistema": "Vale-transporte do transporte coletivo municipal de Araguari (CAF Transportes)",
@@ -2059,6 +2084,31 @@
    "fonte_url": "https://www.otimoonline.com.br/otimo-vale-transporte/",
    "confianca": "B",
    "verificado_em": "2026-10-20"
+  },
+  {
+   "uf": "MG",
+   "municipio": "Santos Dumont",
+   "cod_ibge": "3160702",
+   "sistema": "vale-transporte municipal da Adrijoive Transportes Urbanos",
+   "abrangencia": "municipal",
+   "modos_cobertos": "ônibus urbanos",
+   "cartao_vt": null,
+   "emissora": "Adrijoive Transportes Urbanos Ltda. (concessionária)",
+   "canal_compra_empresa": "compra direta da concessionária (a Câmara Municipal compra o vale-transporte municipal da Adrijoive por inexigibilidade de licitação)",
+   "compra_online": null,
+   "cadastro_por_colaborador": null,
+   "custo_cartao_brl": null,
+   "tarifa_vt_brl": 3.5,
+   "tarifa_comum_brl": null,
+   "vt_diferente_da_comum": "não",
+   "prazo_liberacao_credito": null,
+   "tem_taxa_na_compra": null,
+   "taxa_na_compra": "Na compra da Câmara de 07/02/2025, 250 unidades a R$ 3,50 somaram R$ 875,00, sem taxa à parte; outros canais não foram achados.",
+   "validade_credito": null,
+   "limites": null,
+   "fonte_url": "https://pncp.gov.br/app/editais/19775709000197/2025/4",
+   "confianca": "B",
+   "verificado_em": "2026-10-29"
   },
   {
    "uf": "MG",
