@@ -1,7 +1,7 @@
 {
   "name": "tarifas-transporte-publico-brasil",
-  "title": "Base Nacional de Tarifas e Integrações de Operadoras do Transporte Público e Vale-Transporte",
-  "version": "2026.10.30",
+  "title": "Tarifaoteca da Otimiza.pro: Base Nacional de Tarifas e Integrações do Transporte Público Brasileiro e Operadoras de Vale-Transporte",
+  "version": "2026.11.03",
   "homepage": "https://github.com/OtimizaPro/tarifas_integracoestarifarias_transportepublico_brasileiro",
   "licenses": [
     {
@@ -606,7 +606,7 @@
       "path": "dados/reajustes.csv",
       "format": "csv",
       "encoding": "utf-8",
-      "description": "Monitor do Transporte Público Brasileiro: tarifas novas e reajustes dos últimos 12 meses, com o valor anterior e a variação quando a conferência registrou o anterior",
+      "description": "Monitor da Tarifaoteca: tarifas novas e reajustes dos últimos 12 meses, com o valor anterior e a variação quando a conferência registrou o anterior",
       "schema": {
         "fields": [
           {
@@ -685,7 +685,7 @@
       "path": "dados/eventos.csv",
       "format": "csv",
       "encoding": "utf-8",
-      "description": "Monitor do Transporte Público Brasileiro: greves e paralisações dos últimos 90 dias e reajustes e tarifa zero anunciados, com a situação na data da conferência",
+      "description": "Monitor da Tarifaoteca: greves e paralisações dos últimos 90 dias e reajustes e tarifa zero anunciados, com a situação na data da conferência",
       "schema": {
         "fields": [
           {
