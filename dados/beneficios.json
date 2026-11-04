@@ -1,6 +1,6 @@
 {
  "nome": "Tarifaoteca da Otimiza.pro: beneficios",
- "versao": "2026.11.03",
+ "versao": "2026.11.04",
  "licenca": {
   "nome": "CC BY-NC 4.0",
   "url": "https://creativecommons.org/licenses/by-nc/4.0/deed.pt-br",
@@ -8,7 +8,7 @@
   "uso_interno": "A consulta para decisões da própria empresa, como orçar o vale-transporte, não pede licença.",
   "uso_comercial": "Uso comercial por empresas (em produto, revenda ou integração em sistema ou serviço pago) pede licença da Otimiza.pro: empresa@otimiza.pro."
  },
- "citar_como": "Fonte: Tarifaoteca da Otimiza.pro, versão 2026.11.03. DOI: https://doi.org/10.5281/zenodo.23486211. https://github.com/OtimizaPro/tarifas_integracoestarifarias_transportepublico_brasileiro",
+ "citar_como": "Fonte: Tarifaoteca da Otimiza.pro, versão 2026.11.04. DOI: https://doi.org/10.5281/zenodo.23486211. https://github.com/OtimizaPro/tarifas_integracoestarifarias_transportepublico_brasileiro",
  "linhas": [
   {
    "uf": "AL",
@@ -1125,6 +1125,18 @@
    "fonte_url": "https://sapl.arcos.mg.leg.br/media/sapl/public/materialegislativa/2025/715/requerimento_75_-_alex.pdf",
    "confianca": "A",
    "verificado_em": "2026-10-21"
+  },
+  {
+   "uf": "MG",
+   "municipio": "Barão de Cocais",
+   "cod_ibge": "3105400",
+   "tipo": "tarifa_zero_universal",
+   "regra": "Transporte público coletivo urbano e rural gratuito para todos os usuários, custeado pelo orçamento municipal (Programa Tarifa Zero), com os ônibus contratados pela Prefeitura e pagos por quilômetro rodado.",
+   "desde": null,
+   "base_legal": "Lei Municipal nº 2.065, de 31/05/2023",
+   "fonte_url": "https://pncp.gov.br/app/editais/18317685000160/2023/41",
+   "confianca": "A",
+   "verificado_em": "2026-11-04"
   },
   {
    "uf": "MG",
@@ -3132,6 +3144,18 @@
   },
   {
    "uf": "PR",
+   "municipio": "Guaíra",
+   "cod_ibge": "4108809",
+   "tipo": "tarifa_reduzida",
+   "regra": "Estudantes pagam R$ 1,50 no transporte coletivo municipal (metade da tarifa).",
+   "desde": "2022-10-25",
+   "base_legal": "Decreto nº 387/2022, art. 1º, inciso II",
+   "fonte_url": "https://www.diariomunicipal.com.br/amp/materia/93F3D5A5",
+   "confianca": "A",
+   "verificado_em": "2026-11-04"
+  },
+  {
+   "uf": "PR",
    "municipio": "Irati",
    "cod_ibge": "4110706",
    "tipo": "tarifa_zero_universal",
@@ -3144,6 +3168,18 @@
   },
   {
    "uf": "PR",
+   "municipio": "Ivaiporã",
+   "cod_ibge": "4111506",
+   "tipo": "tarifa_zero_universal",
+   "regra": "Transporte coletivo municipal urbano gratuito para todos os usuários, explorado diretamente pelo Município, com ônibus próprios e despesas pagas pelo orçamento municipal",
+   "desde": null,
+   "base_legal": "Lei Municipal nº 1.141, de 21/06/2001",
+   "fonte_url": "https://www.controlemunicipal.com.br/inga/sistema/arquivos/12074/150716100119_l_1_14101__regulamenta_o_transporte_gratuito_pdf.pdf",
+   "confianca": "A",
+   "verificado_em": "2026-11-04"
+  },
+  {
+   "uf": "PR",
    "municipio": "Jaguariaíva",
    "cod_ibge": "4112009",
    "tipo": "idoso",
@@ -3153,6 +3189,18 @@
    "fonte_url": "https://portal.jaguariaiva.pr.gov.br/transparenciav2/uploads/legislacao/lei-1747_2805181527518121.pdf",
    "confianca": "A",
    "verificado_em": "2026-10-20"
+  },
+  {
+   "uf": "PR",
+   "municipio": "Laranjeiras do Sul",
+   "cod_ibge": "4113304",
+   "tipo": "estudante",
+   "regra": "Passe estudantil com 50% do valor da tarifa para alunos matriculados na rede de ensino do município, nas viagens de ida e volta da escola em dias de aula, com a carteira estudantil do ano (e, nas escolas particulares, o recibo da mensalidade e o uniforme)",
+   "desde": null,
+   "base_legal": "Lei Municipal nº 029, de 24/06/2003",
+   "fonte_url": "https://www.laranjeirasdosul.pr.gov.br/uploads/publicacao/%5B1558469377%5D.pdf",
+   "confianca": "A",
+   "verificado_em": "2026-11-04"
   },
   {
    "uf": "PR",
@@ -3465,6 +3513,18 @@
    "fonte_url": "https://globalmob.com.br/perguntas-frequentes/",
    "confianca": "B",
    "verificado_em": "2026-10-20"
+  },
+  {
+   "uf": "RJ",
+   "municipio": "Arraial do Cabo",
+   "cod_ibge": "3300258",
+   "tipo": "idoso",
+   "regra": "Pessoas idosas, com o cartão do idoso cadastrado na Secretaria Municipal de Mobilidade Urbana (documento de identificação com foto, CPF e comprovante de residência); a idade mínima não foi achada num ato municipal (a ata do Conselho Municipal da Pessoa Idosa publicada em 30/06/2026 cita o Estatuto da Pessoa Idosa, que considera idosa a pessoa com 60 anos ou mais)",
+   "desde": null,
+   "base_legal": "Decreto nº 4.570/2026, art. 5º (gratuidades previstas na legislação vigente); Lei Federal nº 10.741/2003",
+   "fonte_url": "https://www.arraial.rj.gov.br/onibus-municipal",
+   "confianca": "A",
+   "verificado_em": "2026-11-04"
   },
   {
    "uf": "RJ",
@@ -3969,6 +4029,18 @@
    "fonte_url": "https://pmspa.rj.gov.br/secretaria-de-seguranca-aldeense-emite-cartao-do-idoso-para-os-onibus-municipais/",
    "confianca": "B",
    "verificado_em": "2026-10-20"
+  },
+  {
+   "uf": "RJ",
+   "municipio": "Tanguá",
+   "cod_ibge": "3305752",
+   "tipo": "tarifa_zero_universal",
+   "regra": "Parcial: gratuidade para qualquer passageiro só no ônibus municipal gratuito da Prefeitura (#VouDeBusão), nas linhas que ligam bairros periféricos; as linhas da empresa concessionária e as intermunicipais ficam fora",
+   "desde": null,
+   "base_legal": null,
+   "fonte_url": "https://tangua.sicam.app/documentos/?Impressao/proposicao/11522/web",
+   "confianca": "B",
+   "verificado_em": "2026-11-04"
   },
   {
    "uf": "RJ",
@@ -5136,6 +5208,18 @@
   },
   {
    "uf": "SC",
+   "municipio": "Porto Belo",
+   "cod_ibge": "4213500",
+   "tipo": "tarifa_zero_universal",
+   "regra": "Gratuidade integral da tarifa a todos os usuários do transporte coletivo urbano (Tarifa Zero), custeada pelo Município com subsídio à concessionária, exclusivamente de 01/01/2026 a 31/12/2026.",
+   "desde": "2026-01-01",
+   "base_legal": "Lei Complementar Municipal nº 280, de 26/12/2025",
+   "fonte_url": "https://diariomunicipal.sc.gov.br/atos/7868390",
+   "confianca": "A",
+   "verificado_em": "2026-11-04"
+  },
+  {
+   "uf": "SC",
    "municipio": "Rio do Sul",
    "cod_ibge": "4214805",
    "tipo": "estudante",
@@ -5397,6 +5481,30 @@
    "fonte_url": "https://diariodotransporte.com.br/2020/02/21/prefeitura-de-aracariguama-divulga-horarios-de-onibus-gratuitos/",
    "confianca": "B",
    "verificado_em": "2026-10-20"
+  },
+  {
+   "uf": "SP",
+   "municipio": "Araçoiaba da Serra",
+   "cod_ibge": "3502903",
+   "tipo": "estudante",
+   "regra": "Estudantes com o cartão passe escolar pagam R$ 2,10, com direito a integração.",
+   "desde": "2025-01-01",
+   "base_legal": "Decreto nº 2.884, de 20/12/2024, art. 1º, alínea d",
+   "fonte_url": "http://aracoiaba.hospedagemdesites.ws/wp-content/uploads/2016/leis/Decreto-2884-2024.pdf",
+   "confianca": "A",
+   "verificado_em": "2026-11-04"
+  },
+  {
+   "uf": "SP",
+   "municipio": "Araçoiaba da Serra",
+   "cod_ibge": "3502903",
+   "tipo": "idoso",
+   "regra": "Pessoas com mais de 60 anos usam o transporte coletivo urbano de graça, com credencial da Prefeitura.",
+   "desde": "1993-11-30",
+   "base_legal": "Lei nº 872, de 30/11/1993, art. 1º (lida com reconhecimento de texto, porque o arquivo é imagem)",
+   "fonte_url": "http://aracoiaba.hospedagemdesites.ws/wp-content/uploads/2016/leis/Lei-872-1993.pdf",
+   "confianca": "B",
+   "verificado_em": "2026-11-04"
   },
   {
    "uf": "SP",
@@ -6036,6 +6144,18 @@
   },
   {
    "uf": "SP",
+   "municipio": "Guararema",
+   "cod_ibge": "3518305",
+   "tipo": "tarifa_zero_universal",
+   "regra": "Ônibus municipais gratuitos para todos os passageiros, sem cartão nem comprovante de residência (Programa Guararema Sem Pagar), custeados pela Prefeitura; o cartão gratuito é exigido só dos estudantes das redes municipal e estadual, nas linhas escolares.",
+   "desde": "2025-01-01",
+   "base_legal": "Programa Guararema Sem Pagar; Contrato nº 32/2024 com a Alto Tietê Transportes Ltda.",
+   "fonte_url": "https://sempagar.guararema.sp.gov.br/",
+   "confianca": "A",
+   "verificado_em": "2026-11-04"
+  },
+  {
+   "uf": "SP",
    "municipio": "Guaratinguetá",
    "cod_ibge": "3518404",
    "tipo": "idoso",
@@ -6105,6 +6225,18 @@
    "fonte_url": "https://www.holambra.sp.gov.br/noticia/administracao-e-recursos-humanos/2435/holambra-se-aproxima-de-3-decadas-de-transporte-gratuito-com-boa-avaliacao-de-usuarios.html",
    "confianca": "A",
    "verificado_em": "2026-10-20"
+  },
+  {
+   "uf": "SP",
+   "municipio": "Ibaté",
+   "cod_ibge": "3519303",
+   "tipo": "tarifa_zero_universal",
+   "regra": "Transporte coletivo municipal sem cobrança de tarifa, com 100% da passagem paga pela Prefeitura à concessionária (Tarifa Zero); pela notícia de 2023, o uso pede cadastro no guichê da concessionária, com RG, CPF e comprovante de residência.",
+   "desde": "2023-10",
+   "base_legal": "Contrato de concessão nº 193/2023 (Concorrência Pública nº 002/2023)",
+   "fonte_url": "https://www.dosp.com.br/exibe_do.php?i=ODMxNDU4",
+   "confianca": "A",
+   "verificado_em": "2026-11-04"
   },
   {
    "uf": "SP",
@@ -6972,6 +7104,30 @@
   },
   {
    "uf": "SP",
+   "municipio": "Rio das Pedras",
+   "cod_ibge": "3544004",
+   "tipo": "estudante",
+   "regra": "As fichas para estudante custam R$ 5,21, 25% abaixo da tarifa comum, pela modalidade Estudante do Inove Card.",
+   "desde": "2026-03-02",
+   "base_legal": "Decreto nº 2.952, de 02/03/2026, art. 1º, II",
+   "fonte_url": "https://www.riodaspedras.sp.gov.br/decretos/decreto-2952-2026.pdf",
+   "confianca": "A",
+   "verificado_em": "2026-11-04"
+  },
+  {
+   "uf": "SP",
+   "municipio": "Rio das Pedras",
+   "cod_ibge": "3544004",
+   "tipo": "idoso",
+   "regra": "Gratuidade no transporte público urbano para maiores de 60 anos.",
+   "desde": "2021-07-05",
+   "base_legal": "Lei Orgânica do Município, art. 190, III, na redação da Emenda de 02/07/2021, publicada no Diário Oficial nº 859, de 05/07/2021 (o site da operadora cita a Lei Municipal nº 2.758/2004, não lida)",
+   "fonte_url": "https://www.dosp.com.br/exibe_do.php?i=MTc5MzIw",
+   "confianca": "B",
+   "verificado_em": "2026-11-04"
+  },
+  {
+   "uf": "SP",
    "municipio": "Salto",
    "cod_ibge": "3545209",
    "tipo": "estudante",
@@ -7305,6 +7461,18 @@
    "fonte_url": "https://diariodotransporte.com.br/2023/10/13/tarifas-de-onibus-em-sao-joao-da-boa-vista-sp-sobem-neste-sabado-14/",
    "confianca": "B",
    "verificado_em": "2026-10-20"
+  },
+  {
+   "uf": "SP",
+   "municipio": "São Miguel Arcanjo",
+   "cod_ibge": "3550209",
+   "tipo": "idoso",
+   "regra": "Isenção da tarifa no transporte coletivo urbano para pessoas com mais de 65 anos e para pessoas com deficiência cuja gravidade comprometa a capacidade locomotora e mental (com possível extensão a um acompanhante, por regulamento).",
+   "desde": "2001-05-08",
+   "base_legal": "Lei nº 2.354, de 08/05/2001, art. 1º (lida com reconhecimento de texto, porque o arquivo é imagem)",
+   "fonte_url": "https://www.saomiguelarcanjo.sp.gov.br/legislacao/detalhe/1125/-autoriza-o-poder-executivo-a-conceder-isencao-de-tarifas-de-transporte-coletivo-as-pessoas-que-especifica/",
+   "confianca": "A",
+   "verificado_em": "2026-11-04"
   },
   {
    "uf": "SP",

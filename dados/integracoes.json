@@ -1,6 +1,6 @@
 {
  "nome": "Tarifaoteca da Otimiza.pro: integracoes",
- "versao": "2026.11.03",
+ "versao": "2026.11.04",
  "licenca": {
   "nome": "CC BY-NC 4.0",
   "url": "https://creativecommons.org/licenses/by-nc/4.0/deed.pt-br",
@@ -8,7 +8,7 @@
   "uso_interno": "A consulta para decisões da própria empresa, como orçar o vale-transporte, não pede licença.",
   "uso_comercial": "Uso comercial por empresas (em produto, revenda ou integração em sistema ou serviço pago) pede licença da Otimiza.pro: empresa@otimiza.pro."
  },
- "citar_como": "Fonte: Tarifaoteca da Otimiza.pro, versão 2026.11.03. DOI: https://doi.org/10.5281/zenodo.23486211. https://github.com/OtimizaPro/tarifas_integracoestarifarias_transportepublico_brasileiro",
+ "citar_como": "Fonte: Tarifaoteca da Otimiza.pro, versão 2026.11.04. DOI: https://doi.org/10.5281/zenodo.23486211. https://github.com/OtimizaPro/tarifas_integracoestarifarias_transportepublico_brasileiro",
  "linhas": [
   {
    "uf": "AC",
@@ -804,6 +804,18 @@
   },
   {
    "uf": "PR",
+   "municipio": "Itaperuçu",
+   "cod_ibge": "4111258",
+   "regra": "Integração temporal da AMEP, só com o Cartão Metrocard: a segunda linha metropolitana não paga nova tarifa se o embarque for em até 2h30 do pagamento da primeira; não vale com cartões de outros sistemas municipais. Uma das linhas de Itaperuçu está na lista de integração da página da AMEP.",
+   "janela_min": 150,
+   "embarques": "2",
+   "quem_tem_direito": "usuários do Cartão Metrocard",
+   "fonte_url": "https://www.amep.pr.gov.br/integracaotemporal",
+   "confianca": "B",
+   "verificado_em": "2026-11-04"
+  },
+  {
+   "uf": "PR",
    "municipio": "Maringá",
    "cod_ibge": "4115200",
    "regra": "Integração Temporal Inteligente só com Cartão Passe Fácil ou aplicativo BiPay: uma integração por usuário, para até 2 viagens em linhas diferentes, sem repetir a linha anterior, dentro do tempo contado do primeiro registro na catraca (Decreto nº 1539/2025, art. 1º, § 2º, e art. 2º). A TCCC publica o tempo por linha, de 1h10 a 1h55 (ex.: 007 Interbairros Zona Norte 1h10; 008 Interbairros 1h25; 233 Cj. Guaiapó 1h55). Pagamento com cartão bancário por aproximação não integra. Com as linhas metropolitanas diretas de Sarandi e Paiçandu: tarifa integral no primeiro sistema e 50% (R$ 2,90) no segundo.",
@@ -873,6 +885,18 @@
    "fonte_url": "https://viacaosaojose.com.br/tarifas/",
    "confianca": "B",
    "verificado_em": "2026-10-17"
+  },
+  {
+   "uf": "RJ",
+   "municipio": "Arraial do Cabo",
+   "cod_ibge": "3300258",
+   "regra": "Depois de pagar a tarifa, o usuário pode fazer uma segunda viagem em linha diferente sem novo pagamento, em até 90 minutos contados do primeiro embarque, pela bilhetagem eletrônica (Decreto nº 4.570/2026, art. 3º); a página 'Ônibus Municipal' da Prefeitura fala em até 2 horas (120 minutos), 'conforme regulamentação do sistema', sem ato achado que altere o decreto",
+   "janela_min": 90,
+   "embarques": "2 (a segunda em linha diferente, sem novo pagamento)",
+   "quem_tem_direito": "usuário que pagou a tarifa, com a bilhetagem eletrônica",
+   "fonte_url": "https://www.arraial.rj.gov.br/diariooficial/diariopdf?id=217",
+   "confianca": "B",
+   "verificado_em": "2026-11-04"
   },
   {
    "uf": "RJ",
@@ -1293,6 +1317,18 @@
    "fonte_url": "https://www.smtca.sp.gov.br/cartoes/",
    "confianca": "B",
    "verificado_em": "2026-10-18"
+  },
+  {
+   "uf": "SP",
+   "municipio": "Araçoiaba da Serra",
+   "cod_ibge": "3502903",
+   "regra": "O Decreto nº 2.884/2024 dá direito a integração a quem paga com o cartão múltiplo cadastrado (R$ 3,00), com o cartão VT Indústria e Comércio (R$ 4,20) ou com o cartão passe escolar (R$ 2,10); quem paga no ônibus (R$ 4,20) não tem integração. O decreto não diz a janela de tempo nem o número de embarques.",
+   "janela_min": null,
+   "embarques": null,
+   "quem_tem_direito": "usuários do cartão múltiplo cadastrado, do cartão VT Indústria e Comércio e do cartão passe escolar",
+   "fonte_url": "http://aracoiaba.hospedagemdesites.ws/wp-content/uploads/2016/leis/Decreto-2884-2024.pdf",
+   "confianca": "B",
+   "verificado_em": "2026-11-04"
   },
   {
    "uf": "SP",
