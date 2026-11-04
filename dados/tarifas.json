@@ -1,6 +1,6 @@
 {
  "nome": "Tarifaoteca da Otimiza.pro: tarifas",
- "versao": "2026.11.04.2",
+ "versao": "2026.11.04.3",
  "licenca": {
   "nome": "CC BY-NC 4.0",
   "url": "https://creativecommons.org/licenses/by-nc/4.0/deed.pt-br",
@@ -8,7 +8,7 @@
   "uso_interno": "A consulta para decisões da própria empresa, como orçar o vale-transporte, não pede licença.",
   "uso_comercial": "Uso comercial por empresas (em produto, revenda ou integração em sistema ou serviço pago) pede licença da Otimiza.pro: empresa@otimiza.pro."
  },
- "citar_como": "Fonte: Tarifaoteca da Otimiza.pro, versão 2026.11.04.2. DOI: https://doi.org/10.5281/zenodo.23486211. https://github.com/OtimizaPro/tarifas_integracoestarifarias_transportepublico_brasileiro",
+ "citar_como": "Fonte: Tarifaoteca da Otimiza.pro, versão 2026.11.04.3. DOI: https://doi.org/10.5281/zenodo.23486211. https://github.com/OtimizaPro/tarifas_integracoestarifarias_transportepublico_brasileiro",
  "linhas": [
   {
    "uf": "AC",
@@ -1147,8 +1147,8 @@
    "fonte_url": "https://www.sulbahianews.com.br/santa-clara-reajusta-o-preco-e-passagem-de-onibus-fica-mais-cara-em-teixeira/",
    "fonte_tipo": "imprensa",
    "confianca": "B",
-   "verificado_em": "2026-10-20",
-   "observacao": "Valor mais repetido entre veículos de maior porte (decisão do Anderson de 19/10): SulBahiaNews (02/03/2020): R$ 3,70. Ressalva: nenhum veículo de maior porte (g1, A Tarde, Correio, Bahia Notícias) deu o valor, e vale o veículo que trata da cidade (regra de 19/10). A matéria mais recente com o valor é de março de 2020, anterior a 2025: reajuste da Viação Santa Clara a partir de fevereiro de 2020, de R$ 3,50 para R$ 3,70. Nenhuma matéria de 2024 a 2026 com a tarifa foi encontrada. Consolidação (20/10): fica como conferido_data_antiga, fora da publicação, porque a única matéria com o valor é de 2020, antes do piso de 2023 da regra da rodada 12. Publicada com a data por decisão do Anderson de 20/10 (fonte anterior a 2023 permanece na base): a fonte mais recente com o valor é de 2020, e não se achou reajuste depois."
+   "verificado_em": "2026-11-04",
+   "observacao": "Matéria aberta em 04/11/2026: a Viação Santa Clara reajustou a passagem de R$ 3,50 para R$ 3,70 'a partir do mês de fevereiro' de 2020; a matéria não cita decreto. Prova nova de que a tarifa de 2020 segue valendo: o Termo de Referência de 14/03/2025 da contratação do Passe Livre Estudantil (Inexigibilidade nº 4-IL-317-2025, PNCP, compra 13650403000128/2025/336, arquivo baixado em 04/11/2026, https://pncp.gov.br/pncp-api/v1/orgaos/13650403000128/compras/2025/336/arquivos/1) diz que a Viação Santa Clara Ltda (CNPJ 16.084.121/0001-07) é 'a única concessionária do serviço de transporte coletivo urbano municipal' e lista entre os anexos o 'Decreto 303.2020 (Tarifa do transporte público municipal de Teixeira de Freitas-BA)', ou seja, em março de 2025 o decreto de tarifa em vigor ainda era de 2020, o ano do reajuste para R$ 3,70 O ônibus roda hoje: o contrato nº 4-437-2025 com a Viação Santa Clara para o transporte dos alunos do Passe Livre foi prorrogado de 01/03/2026 a 01/02/2027 (extrato do 1º termo aditivo no Diário Oficial do Município nº 7.171, de 27/02/2026). Nenhum decreto de tarifa do ônibus depois de 2020 foi achado no Diário Oficial (2021 a 04/11/2026); o Decreto nº 10/2026, de atualização monetária de 'tributos, rendas, preços públicos e tarifas, estabelecidos em quantias fixas' (lido por OCR), só atualiza as tabelas do Código Tributário Municipal, e os de 2024 (nº 16) e 2025 (nº 94) têm a mesma ementa. Nenhum veículo de maior porte deu o valor, e vale o veículo que trata da cidade (regra de 19/10). Ressalva: a fonte mais recente com o valor é de 02/03/2020, e não se achou reajuste depois."
   },
   {
    "uf": "BA",
@@ -2415,13 +2415,13 @@
    "meio_pagamento": "",
    "valor_brl": 3.75,
    "vigencia_inicio": null,
-   "ato_oficial": "Decreto nº 241, de 11/07/2023 (Prefeitura de Novo Gama), art. 1º, em vigor em até 90 dias da publicação no Placard Oficial de 11/07/2023; confirmado para a operação atual pelo Decreto nº 148, de 13/02/2026, art. 8º",
+   "ato_oficial": "Decreto nº 241, de 11/07/2023 (Prefeitura de Novo Gama), art. 1º, em vigor em até 90 dias da publicação no Placard Oficial de 11/07/2023; mantido para a operação emergencial atual pelo Decreto nº 148, de 13/02/2026, art. 8º",
    "fonte": "Prefeitura de Novo Gama, Decreto nº 148/2026 e Decreto nº 241/2023, no Portal do Cidadão (acessoainformacao.novogama.go.gov.br, Atos Normativos, Decretos), e nota da Prefeitura de 30/01/2026 sobre o chamamento emergencial do transporte coletivo",
    "fonte_url": "https://acessoainformacao.novogama.go.gov.br/cidadao/legislacao/decreto/id=15729",
    "fonte_tipo": "oficial",
    "confianca": "A",
-   "verificado_em": "2026-10-23",
-   "observacao": "Documentos abertos em 23/10/2026. O Decreto nº 148, de 13/02/2026 (arquivo 148.2026.pdf, publicado no Placard Oficial em 13/02/2026), autoriza permissionários individuais 'à execução, prestação e exploração do transporte coletivo municipal urbano e rural de passageiros no Município de Novo Gama/GO, de forma emergencial e em caráter precário, pelo prazo de até 90 (noventa) dias, prorrogáveis por igual período', e diz no art. 8º: 'Os respectivos permissionários ficam ainda obrigados a cumprirem integralmente o Decreto n.º 241, de 11 de julho de 2023, que fixou o valor da tarifa de transporte público municipal em R$ 3,75 (três reais e setenta e cinco centavos).' O Decreto nº 241/2023 (https://acessoainformacao.novogama.go.gov.br/cidadao/legislacao/decreto/id=9318) diz no art. 1º: 'Fica a tarifa de Transporte Público Municipal fixada em R$3,75 (três reais e setenta e cinco centavos)', entra em vigor 'em até 90 (noventa) dias, a partir da data de sua publicação' e revoga o Decreto nº 2.038/2019 (R$ 2,30); por isso a vigência ficou em branco. A nota da Prefeitura de 30/01/2026 (https://novogama.go.gov.br/chamamento-publico-emergencial-para-o-transporte-coletivo-municipal/) diz: 'A tarifa do transporte coletivo permanecerá fixada em R$ 3,75, conforme decreto municipal vigente.' O serviço segue em 2026: a Lei nº 2.384, de 11/09/2026 (https://acessoainformacao.novogama.go.gov.br/cidadao/legislacao/lei/id=2446), autoriza subsídio tarifário de até R$ 30.000,00 por mês ao 'prestador/concessionário do Transporte Público Coletivo Municipal de Novo Gama', para cobrir a diferença entre a tarifa pública paga pelo usuário e a tarifa de remuneração; o art. 10-B fala em reduzir 'o valor da tarifa pública vigente até o montante de R$ 5,50 (cinco reais e cinquenta centavos) por passageiro pagante', limite do subsídio, e não uma tarifa nova. Ressalva: a autorização emergencial do Decreto nº 148/2026 era de até 90 dias, prorrogáveis por igual período, e não se achou decreto de prorrogação nem de nova autorização depois dela (busca pela ementa dos decretos de 2026); não se achou decreto de reajuste depois do Decreto nº 241/2023."
+   "verificado_em": "2026-11-04",
+   "observacao": "Documentos abertos em 04/11/2026. O Decreto nº 148, de 13/02/2026 (arquivo 148.2026.pdf anexo à página do decreto, publicado no Placard Oficial em 13/02/2026, com efeitos desde 01/01/2026), autoriza, em caráter emergencial e precário, permissionários individuais com micro-ônibus a operar o transporte coletivo municipal urbano e rural depois que a cooperativa autorizatária anterior suspendeu o serviço a partir de 01/01/2026, e diz no art. 8º: 'Os respectivos permissionários ficam ainda obrigados a cumprirem integralmente o Decreto n.º 241, de 11 de julho de 2023, que fixou o valor da tarifa de transporte público municipal em R$ 3,75 (três reais e setenta e cinco centavos).' O Decreto nº 241/2023 (https://acessoainformacao.novogama.go.gov.br/cidadao/legislacao/decreto/id=9318, arquivo 241-2023.pdf aberto em 04/11/2026) diz no art. 1º: 'Fica a tarifa de Transporte Público Municipal fixada em R$3,75 (três reais e setenta e cinco centavos)', em vigor em até 90 dias da publicação; por isso a vigência fica em branco. A operação emergencial segue: o Diário do Transporte de 29/10/2026 (https://diariodotransporte.com.br/2026/10/29/novo-gama-go-abre-licitacao-de-r-554-milhoes-para-concessao-de-onibus-urbanos-e-rurais-apos-interrupcao-de-servicos-e-contratacao-emergencial/) diz que os serviços estão 'atualmente submetidos a um regime emergencial criado após a interrupção das operações por antigos permissionários' e que o sistema emergencial prevê 'tarifa de R$ 3,75'; segundo a matéria, as autorizações do chamamento emergencial (Chamada Pública nº 002/2026) têm prazo inicial de seis meses, prorrogável por outros seis. Também em 2026: a Lei nº 2.384, de 11/09/2026, autoriza subsídio de até R$ 30.000,00 por mês ao prestador ou concessionário do transporte coletivo municipal, e em 28/10/2026 a Prefeitura abriu a Concorrência Eletrônica nº 22/2026 (PNCP, compra 2026/165, propostas até 22/12/2026) para conceder o serviço por 15 anos; o edital deixa a tarifa pública em branco, a definir na proposta e no contrato, e não muda a tarifa de hoje. Ressalva: o Decreto nº 148/2026 fixa o prazo de até 90 dias, prorrogáveis por igual período, e não se achou decreto de prorrogação nem de nova autorização; a matéria de 29/10/2026 é a fonte mais recente de que o regime emergencial continua. Não se achou decreto de reajuste depois do Decreto nº 241/2023."
   },
   {
    "uf": "GO",
@@ -4809,13 +4809,13 @@
    "meio_pagamento": "",
    "valor_brl": 0,
    "vigencia_inicio": null,
-   "ato_oficial": "Lei Municipal nº 672, de 05/05/2021 (programa de transporte coletivo gratuito Expressinho 0800), citada no Termo de Referência do Edital do Pregão Eletrônico nº 06/2025",
+   "ato_oficial": "Lei Municipal nº 672, de 05/05/2021 (programa de transporte coletivo gratuito Expressinho 0800); operação mantida pelo 1º Termo Aditivo ao Contrato nº 31/2025 (Diário Oficial Eletrônico do Município de São Joaquim de Bicas, Edição 2246, de 30/06/2026), que prorroga a locação dos ônibus de 26/06/2026 a 25/06/2027",
    "fonte": "Prefeitura de São Joaquim de Bicas, cartaz oficial do Expressinho 0800 'Tarifa Zero' de 2026 no portal, e Edital do Pregão Eletrônico nº 06/2025 no PNCP",
    "fonte_url": "https://www.saojoaquimdebicas.mg.gov.br/arquivo/download/40622/categoria/17/horarios_expressinho_novo",
    "fonte_tipo": "oficial",
    "confianca": "A",
-   "verificado_em": "2026-10-22",
-   "observacao": "O ônibus municipal de São Joaquim de Bicas não cobra passagem. O cartaz oficial da Prefeitura, ligado como 'Expressinho 0800' na página inicial do portal (aberto em 22/10/2026), traz o título de horários atualizados de 2026 e os selos 'Expressinho 0800' e 'Tarifa Zero' (arquivo de 03/06/2026, nome interno com a data 19/05/2026). O Termo de Referência do Edital do Pregão Eletrônico nº 06/2025 (Processo nº 07/2025; https://pncp.gov.br/pncp-api/v1/orgaos/01612516000150/compras/2025/18/arquivos/1) diz que 'a Lei Municipal nº 672, de 05 de maio de 2021, criou o programa de transporte coletivo gratuito denominado EXPRESSINHO 0800', que 'disponibilizará o transporte público municipal de forma gratuita para todos os cidadãos', 'sem cobrar do usuário no momento do uso, mas sim custeá-lo a partir do orçamento público'; a dotação é 'Expressinho 0800, Tarifa Zero'. O serviço é feito por execução direta, com ônibus urbanos locados com motorista e combustível, pagos por quilômetro: Contrato nº 31/2025 com a Viação São Silvestre Ltda. (CNPJ 71.055.644/0001-25), R$ 7.920.000,00, vigência no PNCP de 25/06/2025 a 25/06/2026. A prorrogação ou o contrato seguinte não apareceu no PNCP; o cartaz de 2026 segue no portal. A Lei nº 672/2021 não está na Leis.org, e a data em que a gratuidade começou não foi achada."
+   "verificado_em": "2026-11-04",
+   "observacao": "O ônibus municipal de São Joaquim de Bicas segue sem cobrar passagem. O cartaz oficial de 2026 do Expressinho 0800, ligado como 'Expressinho 0800' na página inicial do portal da Prefeitura e aberto em 04/11/2026 (PDF de 03/06/2026), traz os selos 'Expressinho 0800' e 'Tarifa Zero'. A dúvida desta rodada era o vencimento, em 25/06/2026, do Contrato nº 31/2025 (locação de ônibus urbanos com motorista e combustível, pagos por quilômetro rodado, com a Viação São Silvestre Ltda.). O Diário Oficial Eletrônico do Município, Edição 2246, de 30/06/2026 (https://www.saojoaquimdebicas.mg.gov.br/abrir_arquivo.aspx?cdLocal=12&arquivo={6CECBC8E-0A6D-BD01-0B31-ABC5DB2ADE3E}.pdf, página 2, aberto em 04/11/2026), traz o 'Extrato do 1º Termo Aditivo ao Contrato nº 31/2025, vinculado ao Processo Licitatório nº 07/2025, Pregão Eletrônico nº 06/2025', que prorroga a vigência 'pelo período compreendido entre 26 de junho de 2026 e 25 de junho de 2027' e reajusta pelo IGP-M o valor unitário do quilômetro rodado de R$ 13,20 para R$ 13,46 (valor total estimado de R$ 8.076.000,00 no período prorrogado); partes: a Prefeitura e a Viação São Silvestre Ltda. O valor do quilômetro é o que a Prefeitura paga pela locação, não a passagem. A gratuidade vem da Lei nº 672, de 05/05/2021, que criou o programa Expressinho 0800; segundo o Termo de Referência do Pregão Eletrônico nº 06/2025 (https://pncp.gov.br/pncp-api/v1/orgaos/01612516000150/compras/2025/18/arquivos/1), o programa 'disponibilizará o transporte público municipal de forma gratuita para todos os cidadãos', custeado pelo orçamento público. Na busca do Diário Oficial Eletrônico do Município por 'tarifa', 'transporte coletivo' e 'Silvestre', nenhum ato de 2026 cria cobrança nem encerra o programa. A data em que a gratuidade começou não foi achada."
   },
   {
    "uf": "MG",
@@ -5360,13 +5360,13 @@
    "meio_pagamento": "",
    "valor_brl": 3.7,
    "vigencia_inicio": "2019-03-15",
-   "ato_oficial": null,
-   "fonte": "Diário do Transporte (14/03/2019)",
-   "fonte_url": "https://diariodotransporte.com.br/2019/03/14/corumba-ms-tera-reajuste-na-tarifa-de-onibus-nesta-sexta-feira/",
-   "fonte_tipo": "imprensa",
-   "confianca": "B",
-   "verificado_em": "2026-10-20",
-   "observacao": "Sem veículo de maior porte nem matéria de 2025 ou 2026 que dê o valor; a matéria mais recente com o valor é anterior a 2025: Diário do Transporte (14/03/2019): R$ 3,70 a partir de 15/03/2019 (antes, R$ 3,60), segundo a Prefeitura. As matérias de 2026 abertas (Prefeitura de Corumbá, A Crítica, Campo Grande News, Folha MS, Capital do Pantanal e Correio de Corumbá) tratam só de dias de tarifa zero e não dão o valor. A Capital do Pantanal de 30/04/2026 cita subsídio municipal médio de cerca de R$ 1 milhão por mês às operações urbana e rural (https://www.capitaldopantanal.com.br/politica/2026/04/30/na-camara-hanna-questiona-renovacao-da-frota-de-onibus-em-corumba.html). O valor de hoje pode ser outro. Publicada com a data por decisão do Anderson de 20/10 (fonte anterior a 2023 permanece na base): a fonte mais recente com o valor é de 2019, e não se achou reajuste depois."
+   "ato_oficial": "Decreto nº 2.145, de 21 de maio de 2019 (Diário Oficial do Município de Corumbá, DIOCORUMBÁ, edição nº 1.672, de 21/05/2019, página 1)",
+   "fonte": "Diário Oficial do Município de Corumbá (DIOCORUMBÁ), edição nº 1.672, de 21/05/2019, Decreto nº 2.145/2019, 'Dispõe sobre reajuste da tarifa praticada nas linhas urbanas de transporte coletivo do Município de Corumbá, e dá outras providências'",
+   "fonte_url": "https://do.corumba.ms.gov.br/portal/edicoes/download/3399",
+   "fonte_tipo": "oficial",
+   "confianca": "A",
+   "verificado_em": "2026-11-04",
+   "observacao": "Edição baixada (PDF) e lida em 04/11/2026: o Decreto nº 2.145/2019 considera o pedido da concessionária com base no Contrato Administrativo de Concessão de Transporte Coletivo Urbano e Rural nº 01/2014 e a manifestação da Agetrat de que o último reajuste tinha sido em maio de 2018, e decreta no art. 1º: 'Fica reajustada a tarifa praticada nas linhas urbanas do transporte coletivo de passageiros do Município de Corumbá, passando a vigorar o valor de R$ 3,70 (três reais e setenta centavos)'; o art. 2º revoga o Decreto nº 1.969/2018 (R$ 3,50 no cartão), e o art. 3º põe o decreto em vigor na publicação, 'gerando efeitos a contar de 11 de março de 2019'. A vigência fica em 15/03/2019, a data em que a Prefeitura anunciou a cobrança do valor novo (Diário do Transporte, 14/03/2019, a fonte publicada até aqui, https://diariodotransporte.com.br/2019/03/14/corumba-ms-tera-reajuste-na-tarifa-de-onibus-nesta-sexta-feira/); o decreto, publicado depois, dá efeitos a partir de 11/03/2019. Não se achou reajuste depois dele: no DIOCORUMBÁ, as buscas por 'tarifa praticada' e 'reajuste da tarifa' trazem os decretos de 2015, 2016, 2018 e este de 2019, e nenhum depois; as 38 páginas com 'tarifa' de 2020 a 2026 tratam de táxi (Decreto nº 3.489/2025), mototáxi, porto, subsídio e gratuidade em dia de eleição, sem tarifa nova do ônibus. O ônibus roda hoje com a VCC: a Prefeitura noticiou tarifa zero em 21/09/2026 (aniversário de 248 anos, https://corumba.ms.gov.br/noticias/onibus-terao-tarifa-gratuita-em-corumba-no-aniversario-de-248-anos) e em 25/10/2026, segundo turno, em 'todas as viagens realizadas pela Viação Cidade Corumbá (VCC)' (https://corumba.ms.gov.br/noticias/linhas-urbanas-e-rurais-terao-tarifa-zero-neste-domingo-segundo-turno-das-eleicoes), e a VCC tem representante em conselho municipal nomeado no DIOCORUMBÁ de 19/08/2026. Ressalva: a fonte mais recente com o valor é de 21/05/2019, e não se achou reajuste depois."
   },
   {
    "uf": "MS",
@@ -5605,15 +5605,15 @@
    "servico": "municipal (transporte coletivo urbano)",
    "perfil": "comum",
    "meio_pagamento": "",
-   "valor_brl": 2.75,
-   "vigencia_inicio": "2013-08-26",
-   "ato_oficial": null,
-   "fonte": "Powermix (23/08/2013)",
-   "fonte_url": "https://www.powermix.com.br/geral/definidos-38-pontos-para-a-linha-de-transporte-publico-no-municipio/723",
-   "fonte_tipo": "imprensa",
-   "confianca": "B",
-   "verificado_em": "2026-10-20",
-   "observacao": "Única fonte com valor: matéria da Powermix de 23/08/2013, segundo a qual a Via Nova Transportes, vencedora da licitação, começaria a operar o transporte público em 26/08/2013 e 'As passagens terão o custo de R$2,75.' Fonte anterior a 2023. A Concorrência Pública nº 007/2019 para nova concessão foi cancelada (portal da Prefeitura), e a notícia da Prefeitura de 12/11/2024 (https://www.novamutum.mt.gov.br/imprensa/noticia/2117/prefeitura-e-representantes-de-empresas-se-reunem-para-discutir-o-uso-do-transporte-coletivo-em-nova-mutum) confirma que o transporte coletivo urbano segue com uma concessionária, sem dar a tarifa nem o nome dela. Nenhum decreto de tarifa nem matéria recente com o valor foi achado. Publicada com a data por decisão do Anderson de 20/10 (fonte anterior a 2023 permanece na base): a fonte mais recente com o valor é de 2013; a reconferência de 20/10 (rodada 23) não achou troca de operadora nem reajuste depois."
+   "valor_brl": 3,
+   "vigencia_inicio": "2014-07-01",
+   "ato_oficial": "Decreto Municipal nº 042, de 03/06/2014 (Jornal Oficial Eletrônico dos Municípios do Estado de Mato Grosso, da AMM, edição 1992, de 12/06/2014)",
+   "fonte": "Jornal Oficial Eletrônico dos Municípios do Estado de Mato Grosso (AMM), Prefeitura Municipal de Nova Mutum, Decreto nº 042/2014, 'Autoriza Revisão de Tarifa de Transporte Coletivo Urbano de Nova Mutum, e dá outras providências'",
+   "fonte_url": "https://www.diariomunicipal.com.br/amm-mt/materia/2B8E866D",
+   "fonte_tipo": "oficial",
+   "confianca": "A",
+   "verificado_em": "2026-11-04",
+   "observacao": "Matéria aberta em 04/11/2026: 'Art. 1º Fica reajustada a tarifa de transporte coletivo urbano do Município de Nova Mutum, de R$ 2,75 (dois reais, e setenta e cinco centavos) para R$ 3,00 (três reais). Parágrafo único. A tarifa de que trata o caput deste artigo, deverá ser aplicada a partir de 01 de julho de 2014.' Os considerandos dizem que o serviço é prestado por concessão e que 'o valor da tarifa, conforme determina o contrato de concessão, poderá ser revisto a cada 12 (doze) meses'; o decreto não nomeia a concessionária. Ele substitui os R$ 2,75 da matéria da Powermix de 23/08/2013, que eram o valor do início da operação da Via Nova Transportes. Ressalva: a fonte mais recente é de 12/06/2014, e não se achou reajuste depois. A busca no Jornal Oficial antigo da AMM (diariomunicipal.com.br/amm-mt), onde Nova Mutum publicou até o início de 2015, não traz outro decreto de tarifa de ônibus depois deste; o Jornal Oficial novo da AMM (amm.diariomunicipal.org), com os atos de Nova Mutum dos últimos anos, e a busca do site da Prefeitura também não trazem decreto de tarifa; onde o Município publicou os atos de 2015 a 2022 não foi conferido por inteiro. O ônibus urbano segue com concessionária: a notícia da Prefeitura de 12/11/2024 (https://www.novamutum.mt.gov.br/imprensa/noticia/2117/prefeitura-e-representantes-de-empresas-se-reunem-para-discutir-o-uso-do-transporte-coletivo-em-nova-mutum, lida pela interface de dados do site) relata reunião com 'a empresa concessionária do transporte coletivo público', que 'expressou disposição para expandir suas operações', sem citar a tarifa nem o nome da empresa."
   },
   {
    "uf": "MT",
@@ -7020,25 +7020,6 @@
    "confianca": "B",
    "verificado_em": "2026-10-18",
    "observacao": "Tabela da AMEP 'Tarifas vigentes a partir de 16/02/2026'. A linha I32 Araucária/Campo Largo custa R$ 7,50 em dinheiro, R$ 6,50 no cartão e R$ 7,67 no débito ou crédito. Débito e crédito aceitos desde 23/02/2026, segundo a página de tarifas da AMEP."
-  },
-  {
-   "uf": "PR",
-   "municipio": "Assis Chateaubriand",
-   "cod_ibge": "4102000",
-   "sistema": "Prefeitura de Assis Chateaubriand; transporte coletivo municipal por concessão (Lei nº 1.784/2003 e Plano de Execução do Transporte Coletivo, Decreto nº 116/2003), operado em 2008 pela Transporte Coletivo Morada Amiga Ltda.; operadora atual não confirmada",
-   "modo": "onibus",
-   "servico": "municipal (linha urbana nº 01)",
-   "perfil": "comum",
-   "meio_pagamento": "",
-   "valor_brl": 2,
-   "vigencia_inicio": "2008-12-01",
-   "ato_oficial": "Decreto nº 730/2008, de 25/11/2008",
-   "fonte": "Prefeitura de Assis Chateaubriand, legislação municipal (Decreto nº 730/2008, 'Fixa os valores da Tarifa do Transporte Coletivo de Assis Chateaubriand')",
-   "fonte_url": "https://www.controlemunicipal.com.br/inga/sistema/arquivos/60/060123141209_730_2008_pdf.pdf",
-   "fonte_tipo": "oficial",
-   "confianca": "A",
-   "verificado_em": "2026-10-20",
-   "observacao": "O decreto, a pedido da Transporte Coletivo Morada Amiga, fixa R$ 2,00 na linha urbana nº 01 a partir de 01/12/2008, revogando os Decretos nº 068/2004 e 225/2004; as linhas da sede para os distritos e para Terra Nova do Piquiri tinham valores próprios, de R$ 2,50 a R$ 4,50. Fonte anterior a 2023. A busca na legislação do portal da Prefeitura não trouxe ato de tarifa posterior; o ato mais recente sobre o serviço é o Decreto nº 580/2017, que inclui uma linha no Plano de Execução do Transporte Coletivo, sem tarifa. A Prefeitura cita o transporte coletivo da cidade em notícia de 23/01/2026 sobre 25 novos abrigos de passageiros (https://www.assischateaubriand.pr.gov.br/index.php?sessao=b054603368vfb0&id=1476840), sem o valor da passagem. Publicada com a data por decisão do Anderson de 20/10 (fonte anterior a 2023 permanece na base): a fonte mais recente com o valor é de 2008, e não se achou reajuste depois."
   },
   {
    "uf": "PR",
@@ -9604,44 +9585,6 @@
    "confianca": "B",
    "verificado_em": "2026-10-19",
    "observacao": "Valor: a notícia oficial de 24/05/2023, reaberta em 19/10/2026, diz que as passagens têm 'o novo valor de R$ 4,40', pagas em dinheiro ou no cartão magnético. Prova de 2026: a notícia oficial de 19/08/2026 sobre os 12 ônibus novos (https://resende.rj.gov.br/noticias/resende-recebe-12-novos-onibus-com-ar-condicionado-e-amplia-transporte-publico-com-2550-novas-viagens-por-mes), aberta em 19/10/2026, diz que 'a tarifa do transporte público permanece congelada', sem repetir o valor; o Diário do Transporte de 19/08/2026 repete a frase. Nenhum reajuste posterior a 2023 apareceu na busca do site da Prefeitura ('tarifa', 'passagem', 'congelada') nem na do Diário do Transporte. O R$ 2,80 do site veio de notícia de 2013."
-  },
-  {
-   "uf": "RJ",
-   "municipio": "Rio Bonito",
-   "cod_ibge": "3304300",
-   "sistema": "Prefeitura de Rio Bonito; ônibus municipais (linhas urbanas e do interior) da Coletivos São Geraldo, em concessão assinada no fim de 2014; ônibus e vans intermunicipais regulados pelo Estado; Bilhete Único Intermunicipal (BUI) com o cartão Riocard Mais desde 26/07/2026",
-   "modo": "onibus",
-   "servico": "municipal (vias do Centro)",
-   "perfil": "comum",
-   "meio_pagamento": "",
-   "valor_brl": 3.4,
-   "vigencia_inicio": "2019-08-07",
-   "ato_oficial": null,
-   "fonte": "Folha da Terra (06/08/2019)",
-   "fonte_url": "https://folhadaterradigital.com.br/cidades/passagem-de-onibus-ficara-mais-cara-em-rio-bonito-a-partir-de-amanha/",
-   "fonte_tipo": "imprensa",
-   "confianca": "B",
-   "verificado_em": "2026-10-20",
-   "observacao": "Sem veículo grande e sem fonte oficial aberta: Folha da Terra (06/08/2019): 'A passagem, nas vias do Centro, passará de R$ 3,20 para R$ 3,40', a partir de 07/08/2019. Fonte anterior a 2023. Em 11/11/2024 a Folha da Terra noticiou paralisação do serviço, com a empresa alegando falta de correção tarifária nos dois anos anteriores. A wiki colaborativa Ônibus do Brasil, que não é fonte, cita R$ 4,20 de 14/03/2023 a 12/05/2025 e R$ 4,80 desde 13/05/2025 nas linhas urbanas; nenhum ato ou matéria com esses valores foi achado. O diário oficial no ar (diario-oficial.riobonito.rj.gov.br) só tem edições de 2026, em PDF, sem busca por texto. Publicada com a data por decisão do Anderson de 20/10 (fonte anterior a 2023 permanece na base): a fonte mais recente com o valor é de 2019, e não se achou reajuste depois."
-  },
-  {
-   "uf": "RJ",
-   "municipio": "Rio Bonito",
-   "cod_ibge": "3304300",
-   "sistema": "Prefeitura de Rio Bonito; ônibus municipais (linhas urbanas e do interior) da Coletivos São Geraldo, em concessão assinada no fim de 2014; ônibus e vans intermunicipais regulados pelo Estado; Bilhete Único Intermunicipal (BUI) com o cartão Riocard Mais desde 26/07/2026",
-   "modo": "onibus",
-   "servico": "municipal (linhas do interior)",
-   "perfil": "comum",
-   "meio_pagamento": "",
-   "valor_brl": 4.1,
-   "vigencia_inicio": "2019-08-07",
-   "ato_oficial": null,
-   "fonte": "Folha da Terra (06/08/2019)",
-   "fonte_url": "https://folhadaterradigital.com.br/cidades/passagem-de-onibus-ficara-mais-cara-em-rio-bonito-a-partir-de-amanha/",
-   "fonte_tipo": "imprensa",
-   "confianca": "B",
-   "verificado_em": "2026-10-20",
-   "observacao": "'Já nas linhas que atendem o interior da cidade, o valor passa de R$ 4 para R$ 4,10.' Fonte anterior a 2023; a wiki Ônibus do Brasil, que não é fonte, cita R$ 5,60 desde 13/05/2025. Publicada com a data por decisão do Anderson de 20/10 (fonte anterior a 2023 permanece na base): a fonte mais recente com o valor é de 2019, e não se achou reajuste depois."
   },
   {
    "uf": "RJ",
@@ -12421,20 +12364,20 @@
    "uf": "RS",
    "municipio": "Vacaria",
    "cod_ibge": "4322509",
-   "sistema": "Prefeitura de Vacaria (Conselho Municipal de Trânsito); transporte coletivo urbano contratado com a empresa Transfátima (contrato assinado em 31/01/2012, segundo a prefeitura)",
+   "sistema": "Prefeitura de Vacaria; transporte coletivo urbano operado pela Transfátima (Transportes Felipe Rodrigues Ltda.), em contrato emergencial com a Prefeitura, com a bilhetagem Transfácil",
    "modo": "onibus",
    "servico": "municipal",
    "perfil": "comum",
    "meio_pagamento": "",
-   "valor_brl": 3.4,
-   "vigencia_inicio": "2017-03-01",
-   "ato_oficial": "Decreto nº 23/2017, de 20 de fevereiro de 2017",
-   "fonte": "Prefeitura de Vacaria, Legislação, Decreto nº 23/2017",
-   "fonte_url": "https://www.vacaria.rs.gov.br/legislacao/download-lei/2478/",
-   "fonte_tipo": "oficial",
-   "confianca": "A",
-   "verificado_em": "2026-10-20",
-   "observacao": "Decreto 23/2017: 'É concedido reajuste de 13,35% ... para as tarifas do Transporte Coletivo Urbano, sobre o valor de R$ 3,00' e 'A nova tarifa passa a ser no valor de R$ 3,40', a contar de 01/03/2017. A fonte é anterior a 2023, e não se achou tarifa mais recente: a busca da legislação do portal da prefeitura por 'tarifa' e 'transporte coletivo' só traz esse decreto, e a busca de notícias da prefeitura por 'transporte coletivo', 'tarifa', 'passagem', 'ônibus' e 'Transfátima' não traz reajuste. A operadora, segundo a prefeitura, é a Transfátima (notícias de 31/01/2012 e 24/05/2018). Duas buscas na web não acharam matéria de imprensa com a tarifa. Publicada com a data por decisão do Anderson de 20/10 (fonte anterior a 2023 permanece na base): a fonte mais recente com o valor é de 2017, e não se achou reajuste depois."
+   "valor_brl": 5,
+   "vigencia_inicio": null,
+   "ato_oficial": null,
+   "fonte": "PNCP, Município de Vacaria, Dispensa de Licitação nº 2031/2026 (Contrato emergencial nº 80/2026, de 24/04/2026, com a Transportes Felipe Rodrigues Ltda., Transfátima), documento 'PROPOSTA', proposta da empresa de 16/04/2026",
+   "fonte_url": "https://pncp.gov.br/pncp-api/v1/orgaos/87866745000116/compras/2026/195/arquivos/4",
+   "fonte_tipo": "operadora",
+   "confianca": "B",
+   "verificado_em": "2026-11-04",
+   "observacao": "Documento baixado do PNCP e lido por reconhecimento de texto (OCR) em 04/11/2026: na proposta de 16/04/2026 para a prorrogação do contrato emergencial do transporte coletivo urbano, assinada pela Transportes Felipe Rodrigues Ltda. (Transfátima, CNPJ 91.211.730/0001-97), o repasse mensal do Município, de R$ 104.105,54, 'corresponde à diferença entre a tarifa cobrada do usuário no valor de R$ 5,00 (cinco reais) e a tarifa técnica (R$ 12,1271)'; o quadro da proposta usa a tarifa cobrada do usuário de R$ 5,00 no período de referência de 01/01/2025 a 31/12/2025. O Estudo Técnico Preliminar da Prefeitura no mesmo processo (https://pncp.gov.br/pncp-api/v1/orgaos/87866745000116/compras/2026/195/arquivos/3) diz que esse valor mensal 'decorre de cálculo técnico do déficit mensal, considerando a diferença entre a tarifa técnica e a tarifa paga pelo usuário', e o Termo de Dispensa nº 2031/2026 contrata 6 meses a R$ 104.105,54, R$ 624.633,24 no total. O Contrato nº 80/2026 vai de 24/04/2026 a 24/10/2026 (PNCP, https://pncp.gov.br/app/contratos/87866745000116/2026/50); antes, o Contrato nº 53/2025 (30/04/2025 a 23/10/2025, prorrogado até 23/04/2026 por termo aditivo de 20/10/2025) e o Contrato nº 121/2024, todos com a Transfátima. Prorrogação ou contrato novo depois de 24/10/2026 ainda não aparece no PNCP, onde os contratos de Vacaria são publicados com meses de atraso (o Contrato nº 53/2025, assinado em 30/04/2025, entrou no PNCP em 25/11/2025); a tarifa é do usuário e não depende do prazo do contrato. Em junho de 2026 a Prefeitura publicou no PNCP o contrato de estudos técnicos para modelar a concessão do serviço. O decreto que fixou os R$ 5,00 e a data em que o valor passou a valer não foram achados, por isso a vigência fica vazia. O valor anterior da base, R$ 3,40 pelo Decreto nº 23/2017, deixou de valer."
   },
   {
    "uf": "RS",
@@ -13307,8 +13250,8 @@
    "fonte_url": "https://diariomunicipal.sc.gov.br/atos/4580577",
    "fonte_tipo": "oficial",
    "confianca": "A",
-   "verificado_em": "2026-11-03",
-   "observacao": "Extrato aberto no DOM/SC em 03/11/2026: o termo aditivo ao contrato com a Expresso Garopaba EIRELI EPP (Concorrência nº 001/2018) tem por objeto 'Repactuar o contrato [...] a fim de estabelecer uma nova forma de remuneração da concessionária, com a implantação do Programa \"Tarifa Zero\" no Sistema de Transporte Público por Ônibus do Município de Garopaba'. A NSC Total de 23/06/2023 ('Quais cidades de SC têm tarifa zero nos ônibus', https://www.nsctotal.com.br/politica/quais-cidades-de-sc-tem-tarifa-zero-nos-onibus-10-anos-apos-protestos-por-passe-livre, aberta em 03/11/2026) diz que 'A tarifa zero em Garopaba começou em fevereiro de 2023', depois de acordo judicial em que o Município pagou R$ 1,5 milhão à Expresso Garopaba e se comprometeu com R$ 300 mil por mês de subsídio, 'suficiente para garantir o passe livre nos ônibus municipais', com 9 linhas e 12 ônibus. A gratuidade segue em 2026: a Lei Orçamentária de 2026 (Lei nº 2.848, de 29/12/2025, https://diariomunicipal.sc.gov.br/atos/7869988) tem a ação 2305, 'Transporte Coletivo de Passageiros (Tarifa Zero)', com R$ 3.600.004,00; pelo Relatório Resumido da Execução Orçamentária do 4º bimestre de 2026 (https://diariomunicipal.sc.gov.br/atos/8733331), a função Transporte, nas demais subfunções (dotação de R$ 3.610.007,00, quase toda da ação Tarifa Zero, que tem R$ 3.600.004,00 na LOA), tinha R$ 2.212.363,39 liquidados até agosto de 2026. Troca de operadora: o Município declarou em 21/11/2025 a caducidade do Contrato nº 076/2019 da Expresso Garopaba (Portaria nº 4.101/2025, https://diariomunicipal.sc.gov.br/atos/7765922) e contratou em caráter emergencial a Expresso Rio Maina Ltda. para o 'serviço público essencial de transporte coletivo de passageiros', remunerado por quilômetro, por R$ 4.359.998,10, com assinatura em 12/12/2025 (extrato do Contrato nº 101/2025, https://diariomunicipal.sc.gov.br/atos/7850398) e vigência de 5 meses, prorrogada automaticamente enquanto o objeto não for concluído (cláusula segunda da minuta do contrato no aviso da Dispensa nº 018/2025, PNCP, https://pncp.gov.br/app/editais/82836057000190/2025/143). Nenhum ato posterior a 2023 fala em cobrança de tarifa; a data exata do início da gratuidade não foi achada (o mês vem da NSC Total e do extrato do aditivo). Prorrogação ou novo contrato depois de maio de 2026 não foram achados. Ressalva: a fonte mais recente com a gratuidade é de 2023; a prova de que o programa segue é a Lei Orçamentária de 2026 e a despesa liquidada até agosto de 2026. Consolidação (03/11): fica conferido. A troca de operadora em 12/12/2025 não muda a tarifa, porque o Programa Tarifa Zero é do Município e segue pago em 2026."
+   "verificado_em": "2026-11-04",
+   "observacao": "O serviço segue gratuito, e o programa seguiu pago depois do prazo inicial do contrato emergencial. Abertos em 04/11/2026 no DOM/SC os anexos dos Relatórios Resumidos da Execução Orçamentária de 2026: na função Transporte, demais subfunções (dotação de R$ 3.610.007,00, quase toda da ação 'Transporte Coletivo de Passageiros (Tarifa Zero)', que tem R$ 3.600.004,00 na LOA de 2026), as despesas liquidadas foram de R$ 940.730,46 até abril (2º bimestre, https://diariomunicipal.sc.gov.br/atos/8359068), com R$ 600.000,00 liquidados em maio e junho (3º bimestre, https://diariomunicipal.sc.gov.br/atos/8522655) e R$ 671.632,93 em julho e agosto (4º bimestre, https://diariomunicipal.sc.gov.br/atos/8733331), somando R$ 2.212.363,39; no 4º bimestre ainda foram empenhados mais R$ 1.200.000,00. Ou seja, o programa Tarifa Zero continuou pago depois de maio de 2026, quando venciam os 5 meses iniciais do Contrato nº 101/2025 com a Expresso Rio Maina Ltda. (assinado em 12/12/2025, emergencial, prorrogável enquanto o objeto não for concluído). O ato de prorrogação ou um contrato novo depois de maio de 2026 não foi achado no DOM/SC nem no PNCP. Fato novo de 28/09/2026: a Lei nº 2.955/2026 (https://diariomunicipal.sc.gov.br/atos/8748706) autoriza convênio com a ARESC para regular o 'transporte público municipal', inclusive 'estabelecer o regime tarifário', e prevê taxa de regulação das 'prestadoras do serviço público de transporte coletivo urbano municipal'; ela não fixa tarifa nem acaba com a gratuidade. Nenhum ato de 2023 a 2026 fala em cobrança de passagem. A origem do programa segue a da linha publicada: o extrato do 1º Termo Aditivo ao Contrato nº 076/2019 com a Expresso Garopaba EIRELI EPP (fevereiro de 2023) implanta o Programa 'Tarifa Zero', e a NSC Total de 23/06/2023 diz que a tarifa zero começou em fevereiro de 2023; o Contrato nº 076/2019 teve a caducidade declarada em 21/11/2025 (Portaria nº 4.101/2025), e a operação passou à Expresso Rio Maina em caráter emergencial."
   },
   {
    "uf": "SC",
@@ -17513,20 +17456,20 @@
    "uf": "SP",
    "municipio": "Lins",
    "cod_ibge": "3527108",
-   "sistema": "Prefeitura de Lins; concessionária Oswaldo Brambilla Transporte Coletivo Ltda. (dado de 2019)",
+   "sistema": "Prefeitura de Lins; transporte coletivo urbano gratuito (tarifa zero), prestado pela Terra Auto Viação Transportes Ltda. em contrato com a Prefeitura (Contrato nº 153/2024)",
    "modo": "onibus",
    "servico": "municipal",
    "perfil": "comum",
    "meio_pagamento": "",
-   "valor_brl": 3.2,
-   "vigencia_inicio": "2019-03-01",
-   "ato_oficial": "decreto publicado em 26/02/2019 no site da prefeitura",
-   "fonte": "Diário do Transporte",
-   "fonte_url": "https://diariodotransporte.com.br/2019/02/28/lins-tem-tarifa-de-onibus-mais-cara-a-partir-desta-sexta-1o-de-marco/",
-   "fonte_tipo": "imprensa",
+   "valor_brl": 0,
+   "vigencia_inicio": null,
+   "ato_oficial": null,
+   "fonte": "Prefeitura de Lins, notícia de 25/11/2024, 'Plano de Mobilidade de Lins: sua participação é essencial!'",
+   "fonte_url": "https://www.lins.sp.gov.br/portal/noticias/0/3/9022/plano-de-mobilidade-de-lins-sua-participacao-e-essencial-",
+   "fonte_tipo": "oficial",
    "confianca": "B",
-   "verificado_em": "2026-10-20",
-   "observacao": "Reajuste de 6,66%, de R$ 3,00 para R$ 3,20, a partir de 01/03/2019; a concessionária Oswaldo Brambilla Transporte Coletivo Ltda. operava 9 linhas. A matéria mais recente com o valor é de 28/02/2019, anterior a 2023. Não se achou reajuste depois nem fonte de 2023 em diante: o portal da prefeitura (Instar) só traz os quadros de horários de 12/2025, sem tarifa, e as buscas por tarifa no site, no Diário do Transporte e na web não trouxeram valor novo. Publicada com a data por decisão do Anderson de 20/10 (fonte anterior a 2023 permanece na base): a fonte mais recente com o valor é de 2019, e não se achou reajuste depois."
+   "verificado_em": "2026-11-04",
+   "observacao": "Notícia aberta em 04/11/2026: a Prefeitura, com o CETEC de Lins, atualizava as pesquisas do Plano de Mobilidade e diz que 'O objetivo é compreender as mudanças percebidas pela população após a implantação da gratuidade no transporte coletivo'. O serviço passou a ser contratado e pago pela Prefeitura: Contrato nº 153/2024 (Pregão Eletrônico nº 108/2024), assinado em 18/11/2024 com a Terra Auto Viação Transportes Ltda. (CNPJ 00.413.338/0001-75), para a 'prestação de serviços de Transporte Público Coletivo de Passageiros no município', de 20/11/2024 a 19/11/2025, prorrogável, por R$ 782.000,00 por mês (R$ 9.384.000,00 em 12 meses), com a remuneração calculada pela quilometragem e pela frota (PNCP, https://pncp.gov.br/app/contratos/44531788000138/2024/378, contrato, termo de referência e estudo técnico preliminar abertos em 04/11/2026; nenhum deles fala em tarifa cobrada do passageiro). Fonte de terceiros: a apresentação da Empresa Pública de Transportes de Maricá na audiência pública da Câmara dos Deputados de 21/10/2025 sobre gratuidade no transporte público lista Lins (SP) entre as 137 cidades com tarifa zero no Brasil (https://www2.camara.leg.br/atividade-legislativa/comissoes/comissoes-permanentes/cdu/apresentacoes-em-eventos/eventos-2025/21-10-2025-audiencia-publica-gratuidade-integral-e-universal-no-transporte-publico/abm/view, página 3), e a versão de maio de 2024 da mesma apresentação, publicada pela Fundação Rosa Luxemburgo, já listava Lins. Em setembro e outubro de 2023 ainda se cobrava a passagem: a Câmara tratou de projeto de lei que obrigava a concessionária a aceitar PIX no pagamento da tarifa do transporte coletivo (resumos das sessões de 04/09/2023 e 02/10/2023, no site da Câmara). A data de início da gratuidade e o ato que a criou não foram achados, por isso a vigência fica vazia. O ônibus roda: a Prefeitura publicou em 05/12/2025, na página de serviços do transporte público do site, os quadros de horários de dia útil, sábado e domingo do transporte coletivo, e a página de perguntas frequentes da Prefeitura, de 15/07/2026 (https://www.lins.sp.gov.br/portal/servicos/1194/faq/), remete a eles. Ressalva: a fonte oficial mais recente com a gratuidade é de 25/11/2024, e a de terceiros, de 21/10/2025; não se achou volta da cobrança depois. A prorrogação do Contrato nº 153/2024 depois de 19/11/2025 não foi achada no PNCP."
   },
   {
    "uf": "SP",
@@ -17537,15 +17480,15 @@
    "servico": "municipal",
    "perfil": "comum",
    "meio_pagamento": "",
-   "valor_brl": 3.7,
-   "vigencia_inicio": "2019-04-18",
-   "ato_oficial": null,
-   "fonte": "Prefeitura de Lorena",
-   "fonte_url": "https://www.lorena.sp.gov.br/wordpress/index.php/2019/04/12/apos-dois-anos-sem-reajuste-tarifa-de-transporte-coletivo-tera-alteracao-em-lorena/",
+   "valor_brl": 5.5,
+   "vigencia_inicio": null,
+   "ato_oficial": "Decreto Municipal nº 8.300, de 12/03/2025 (em vigor na data da publicação, que não foi achada; revoga o Decreto nº 7.296, de 09/04/2019)",
+   "fonte": "Prefeitura de Lorena, sistema de consulta de legislação (Siap e-Gov), Decreto nº 8.300/2025, 'Dispõe sobre reajuste da tarifa de ônibus das linhas municipais' (anexo em PDF)",
+   "fonte_url": "https://siap.lorena.sp.gov.br/pmlorena/websis/siapegov/legislativo/leis/lei_documento_anexo.php?id=10581&tipo=32",
    "fonte_tipo": "oficial",
-   "confianca": "B",
-   "verificado_em": "2026-10-20",
-   "observacao": "Reajuste de R$ 3,50 (desde 2017) para R$ 3,70 a partir de 18/04/2019, pelo IPCA, a pedido da ABC Transportes Coletivos de Caçapava Ltda. (notícia da prefeitura de 12/04/2019). O Diário do Transporte (19/04/2019) confirma. A fonte mais recente com o valor é de 2019, anterior a 2023. Não se achou reajuste depois: a busca no site da prefeitura (notícias e arquivos) por \"tarifa\", \"ônibus\", \"passagem\" e \"transporte coletivo\" só trouxe notícias até 2023 sem valor novo, e a busca na imprensa não trouxe matéria de reajuste depois de 2019. O Diário do Transporte (16/03/2022) mostra a ABC Transportes ainda na operação em 2022. Publicada com a data por decisão do Anderson de 20/10 (fonte anterior a 2023 permanece na base): a fonte mais recente com o valor é de 2019, e não se achou reajuste depois."
+   "confianca": "A",
+   "verificado_em": "2026-11-04",
+   "observacao": "Decreto aberto em 04/11/2026: 'Art. 1º - Fica estabelecida a tarifa de transporte coletivo do ônibus das linhas municipais em R$ 5,50 (cinco reais e cinquenta centavos). Art. 2º - Este Decreto entra em vigor na data de sua publicação, ficando revogadas as disposições em contrário, especialmente o Decreto nº 7.296 de 09 de abril de 2019'; assinado pelo prefeito em 12/03/2025, com a justificativa do índice inflacionário desde o último reajuste. A data de publicação não foi achada, por isso a vigência fica vazia (em 2019, o reajuste para R$ 3,70 teve um decreto à parte para a vigência, o nº 7.301/2019; em 2025 não há decreto de vigência na consulta de legislação). É o ato de tarifa de ônibus mais recente da consulta de legislação da Prefeitura, que tem atos até 2026 (busca por 'tarifa', 'ônibus' e 'transporte coletivo'). O decreto não cita a operadora; o último ato achado com a concessionária são as Portarias nº 24.075 e 24.076, de 29/07/2024 ('Processo administrativo em face da empresa ABC Transportes Coletivos de Caçapava Ltda.'), e não se achou troca de operadora. O ônibus roda em 2026: a Prefeitura publicou em junho de 2026 o quadro de horários atualizado do transporte público (https://www.lorena.sp.gov.br/wordpress/wp-content/uploads/2026/06/Horarios-Urbano-Lorena-2026.pdf); a Lei nº 4.379/2026 trata da segurança no desembarque de passageiros dos veículos de transporte coletivo do Município; e em 01/10/2026 a Câmara aprovou moção de apelo pedindo à Prefeitura informações sobre o funcionamento do transporte coletivo (notícia da Câmara de 05/10/2026, https://www.camaralorena.sp.gov.br/camara-de-lorena-cobra-informacoes-sobre-transporte-coletivo/). Ressalva: a fonte mais recente com o valor é de 12/03/2025 (o decreto), e não se achou reajuste depois."
   },
   {
    "uf": "SP",
@@ -17938,13 +17881,13 @@
    "meio_pagamento": "",
    "valor_brl": 4.3,
    "vigencia_inicio": "2025-11-03",
-   "ato_oficial": "Decreto de 07/10/2025",
-   "fonte": "Prefeitura de Mongaguá, notícia 'Nova empresa assume transporte público em Mongaguá com veículos modernos e acessíveis' (09/12/2025)",
-   "fonte_url": "https://www.mongagua.sp.gov.br/noticias/gestao/nova-empresa-assume-transporte-publico-em-mongagua-com-veiculos-modernos-e-acessiveis",
+   "ato_oficial": "Decreto Municipal nº 7.912, de 07/10/2025 (Diário Oficial Eletrônico da Estância Balneária de Mongaguá, edição nº 1984, de 09/10/2025, páginas 14 a 16)",
+   "fonte": "Diário Oficial Eletrônico da Estância Balneária de Mongaguá, edição nº 1984, de 09/10/2025, Decreto nº 7.912, de 07/10/2025, 'Revisa, em caráter extraordinário e excepcional, a tarifa pública do transporte coletivo urbano no Município de Mongaguá e dá outras providências'",
+   "fonte_url": "https://www.dosp.com.br/exibe_do.php?i=NzIyNTY4",
    "fonte_tipo": "oficial",
    "confianca": "A",
-   "verificado_em": "2026-10-23",
-   "observacao": "Notícia da Prefeitura de 09/12/2025, aberta em 23/10/2026, sobre o início da operação da Translocave em 08/12/2025: 'A tarifa permanece inalterada, mantida em R$4,30 até o próximo reajuste previsto para outubro de 2026, e os créditos dos cartões antigos continuarão válidos normalmente'; a troca de operadora 'se deu pela transferência da concessão do contrato vigente', com o termo aditivo do Contrato 026/2019 publicado no Diário Oficial Eletrônico em 02/12/2025. O valor vem do decreto de 07/10/2025: 'um aumento de R$ 0,50 (13,2%) na tarifa do transporte coletivo a partir da zero hora do dia 3 de novembro, passando dos atuais R$ 3,80 para R$ 4,30' (notícia da Prefeitura de 10/10/2025, https://www.mongagua.sp.gov.br/noticias/semutran/sem-reajustes-ha-6-anos-tarifa-do-transportecoletivo-em-mongagua-devera-subir-r-050, que diz também que a Prefeitura não paga subsídio à operadora). O serviço pago roda em 2026: vistoria da Semutran nos ônibus da Translocave em 03/03/2026, reunião da prefeita com a empresa em 13/03/2026 e, em 30/09/2026, o aviso de que no dia da eleição só os ônibus adesivados de 4 linhas seriam gratuitos e que 'outros veículos da empresa continuarão circulando de forma paga'. Ressalva: a fonte mais recente com o valor é de 09/12/2025; o reajuste previsto para outubro de 2026 não foi achado nas notícias da Prefeitura de 01/10 a 23/10/2026 nem na Leis.org."
+   "verificado_em": "2026-11-04",
+   "observacao": "Edição baixada e lida em 04/11/2026 (o decreto está em imagem nas páginas 14 a 16 e foi lido por reconhecimento de texto): 'Art. 1º. A tarifa pública do transporte coletivo urbano no Município de Mongaguá passa a ser de R$ 4,30 (quatro reais e trinta centavos) a partir de 00h00min do dia 03 de novembro de 2025.' O decreto diz que o aumento anterior foi em 01/10/2019, para R$ 3,80, que a revisão é extraordinária e excepcional, nos termos da subcláusula 4.4.2 do Contrato nº 026/2019, 'não contemplando subsídio', e que o contrato prevê reajustes anuais (subcláusula 4.3). A operação passou da Ação Transportes à Translocave em 08/12/2025, pela transferência da concessão do mesmo Contrato nº 026/2019, e a notícia da Prefeitura de 09/12/2025 (https://www.mongagua.sp.gov.br/noticias/gestao/nova-empresa-assume-transporte-publico-em-mongagua-com-veiculos-modernos-e-acessiveis) diz que 'A tarifa permanece inalterada, mantida em R$4,30 até o próximo reajuste previsto para outubro de 2026'. Esse reajuste não saiu até 04/11/2026: a lista de decretos do Diário Oficial (imprensaoficialmunicipal.com.br, de 2017 a 28/10/2026) não tem decreto de tarifa do ônibus depois do nº 7.912/2025; as edições de 23/10 a 04/11/2026 (nº 2265 a 2272) foram baixadas e lidas, com as páginas de decretos em imagem lidas por reconhecimento de texto (Decretos nº 8.119, 8.134 e 8.135/2026, nenhum de tarifa); e a busca de notícias do site da Prefeitura por 'tarifa', 'transporte coletivo' e 'Translocave' não traz reajuste. O serviço pago roda: o Decreto nº 8.131, de 19/10/2026 (edição nº 2263A, de 21/10/2026, https://dosp.com.br/diario/sp/mongagua/2026-10-21/ed-2263a-897174-517845a38e4c.pdf), deu gratuidade nas linhas convencionais do transporte coletivo urbano só no dia 25/10/2026, das 6h às 19h, 'vedada a cobrança de tarifa durante o período estabelecido'; a ata da 109ª reunião do Conselho Municipal da Pessoa com Deficiência (edição nº 2233, de 10/09/2026) registra o representante da Translocave tratando da operação, dos cartões e das carteirinhas do transporte coletivo municipal. Ressalva: a fonte mais recente com o valor é de 09/12/2025 (a notícia da Prefeitura), e não se achou reajuste depois."
   },
   {
    "uf": "SP",
@@ -18173,25 +18116,6 @@
    "confianca": "A",
    "verificado_em": "2026-10-17",
    "observacao": "O desconto do art. 2º vale só para BEM Comum e Escolar; o BEM VT paga a tarifa de R$ 6,10, que a FAQ do BEM informa como tarifa vigente."
-  },
-  {
-   "uf": "SP",
-   "municipio": "Osvaldo Cruz",
-   "cod_ibge": "3534609",
-   "sistema": "Prefeitura de Osvaldo Cruz; linha circular do transporte coletivo urbano, operada pela Prefeitura",
-   "modo": "onibus",
-   "servico": "municipal (transporte coletivo urbano, linha circular)",
-   "perfil": "comum",
-   "meio_pagamento": "",
-   "valor_brl": 1.2,
-   "vigencia_inicio": "2009",
-   "ato_oficial": null,
-   "fonte": "Prefeitura de Osvaldo Cruz, notícia 'Nova circular de Osvaldo Cruz entra em operação' (12/12/2011); e notícia 'Prefeitura entrega reforma da Rodoviária e novo ônibus circular' (13/10/2011)",
-   "fonte_url": "https://www.osvaldocruz.wls.com.br/?pag=T1RVPU9EZz1PV0k9T1RrPU9UUT1OMlE9T0dNPU9XST1PR1U9T0dNPU9HWT1PV009T1dZPQ==&id=5612",
-   "fonte_tipo": "oficial",
-   "confianca": "B",
-   "verificado_em": "2026-11-04",
-   "observacao": "Ressalva: a fonte mais recente com o valor é de 12/12/2011, e não se achou reajuste depois; o valor tem quase 15 anos e pede conferência. Notícia da Prefeitura de 12/12/2011, aberta em 04/11/2026: 'A Prefeitura de Osvaldo Cruz começou a operar com novo ônibus para o transporte urbano a partir desta segunda-feira, 12 (...) A tarifa de R$ 1,20 será a mesma até o final do ano que vem. Quando assumiu o governo municipal, o prefeito Valter Luiz Martins reduziu o valor da passagem de R$ 1,40 para R$ 1,20, em 2009.' A notícia de 13/10/2011 (https://www.osvaldocruz.wls.com.br/?pag=T1RVPU9EZz1PV0k9T1RrPU9UUT1OMlE9T0dNPU9XST1PR1U9T0dNPU9HWT1PV009T1dZPQ==&id=5550) diz o mesmo: 'o valor da passagem, de R$ 1,20, não será alterado no próximo ano'. Em 22/08/2012, a Prefeitura pôs um segundo ônibus no transporte coletivo urbano e voltou a cobrar passagem a partir de 28/08/2012, sem dizer o valor (notícia de 22/08/2012). O último decreto de tarifa na Legislação do site é o Decreto nº 3.267, de 04/12/2007 (R$ 1,60), do tempo da concessão; em 24/04/2009 a Lei nº 2.688 criou o Serviço Municipal de Transporte Coletivo Urbano (ementa, sem texto no site). Não há ato de tarifa depois disso na Legislação do site nem no Diário Oficial Eletrônico do Município, no ar desde 2020 (govbrdioenet.com.br/list/osvaldo-cruz, busca por 'tarifa', 'circular', 'transporte coletivo', 'passagem', 'transporte urbano', 'valor da passagem', 'tarifa do transporte', 'catraca', 'bilhete', 'cobrador', 'linha circular', 'gratuito' e 'vale transporte'). Prova de que o ônibus roda: notícia da Prefeitura de 21/10/2026 ('OC terá transporte gratuito no segundo turno', https://www.osvaldocruz.wls.com.br/?pag=T1RVPU9EZz1PV0k9T1RrPU9UUT1OMlE9T0dNPU9XST1PR1U9T0dNPU9HWT1PV009T1dZPQ==&id=8162), que diz que os pontos do transporte gratuito dos eleitores 'serão os mesmos utilizados pela linha circular do município'; e os créditos e remanejamentos de 2026 na ação 'Manutenção do Transporte Coletivo' e 'Gestão do Transporte Coletivo' do Departamento de Vias Públicas e Transporte (Diário Oficial Eletrônico, edições nº 1305, de 09/01/2026, e nº 1476, de 28/09/2026)."
   },
   {
    "uf": "SP",

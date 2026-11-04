@@ -1,6 +1,6 @@
 {
  "nome": "Tarifaoteca da Otimiza.pro: vale_transporte",
- "versao": "2026.11.04.2",
+ "versao": "2026.11.04.3",
  "licenca": {
   "nome": "CC BY-NC 4.0",
   "url": "https://creativecommons.org/licenses/by-nc/4.0/deed.pt-br",
@@ -8,7 +8,7 @@
   "uso_interno": "A consulta para decisões da própria empresa, como orçar o vale-transporte, não pede licença.",
   "uso_comercial": "Uso comercial por empresas (em produto, revenda ou integração em sistema ou serviço pago) pede licença da Otimiza.pro: empresa@otimiza.pro."
  },
- "citar_como": "Fonte: Tarifaoteca da Otimiza.pro, versão 2026.11.04.2. DOI: https://doi.org/10.5281/zenodo.23486211. https://github.com/OtimizaPro/tarifas_integracoestarifarias_transportepublico_brasileiro",
+ "citar_como": "Fonte: Tarifaoteca da Otimiza.pro, versão 2026.11.04.3. DOI: https://doi.org/10.5281/zenodo.23486211. https://github.com/OtimizaPro/tarifas_integracoestarifarias_transportepublico_brasileiro",
  "linhas": [
   {
    "uf": "AC",
@@ -6086,6 +6086,31 @@
    "verificado_em": "2026-10-20"
   },
   {
+   "uf": "RS",
+   "municipio": "Vacaria",
+   "cod_ibge": "4322509",
+   "sistema": "Transfácil, bilhetagem eletrônica do transporte coletivo de Vacaria, cartão Vale-Transporte",
+   "abrangencia": "municipal",
+   "modos_cobertos": "ônibus do transporte coletivo urbano de Vacaria, operado pela Transfátima",
+   "cartao_vt": "Cartão Transfácil Vale-Transporte",
+   "emissora": "Transfátima (Transportes Felipe Rodrigues Ltda., CNPJ 91.211.730/0001-97), operadora do sistema",
+   "canal_compra_empresa": "compra de créditos pela internet no TDMax Web Commerce de Vacaria (https://max00193.itstransdata.com/TDMaxwebcommerce/), com cadastro prévio do empregador no sistema",
+   "compra_online": "sim",
+   "cadastro_por_colaborador": "sim: o cartão é concedido pelo empregador ao funcionário e fica com o trabalhador se ele mudar de emprego",
+   "custo_cartao_brl": null,
+   "tarifa_vt_brl": null,
+   "tarifa_comum_brl": null,
+   "vt_diferente_da_comum": null,
+   "prazo_liberacao_credito": null,
+   "tem_taxa_na_compra": null,
+   "taxa_na_compra": null,
+   "validade_credito": null,
+   "limites": "Fontes abertas em 04/11/2026: a página 'Vale Transporte' do site da Transfátima (https://transfatima.net.br/vale-transporte): 'Todo o processo de compra de créditos é através da internet. E a carga nos cartões é feita dentro dos ônibus'; 'O cartão Transfácil é concedido pelo empregador aos seus funcionários'; 'Se você é empregador, para solicitar o Transfácil é necessário estar cadastrado em nosso sistema'. O site da Transfátima é antigo (a última notícia é de 2017), mas o portal de compra para o qual ele aponta, o 'TDMax - Web Commerce Vacaria', estava no ar em 04/11/2026, com a data do dia, login e cadastro.",
+   "fonte_url": "https://transfatima.net.br/vale-transporte",
+   "confianca": "B",
+   "verificado_em": "2026-11-04"
+  },
+  {
    "uf": "SC",
    "municipio": "Araranguá",
    "cod_ibge": "4201406",
@@ -8809,6 +8834,31 @@
    "fonte_url": "https://www.metro.sp.gov.br/pt_BR/sua-viagem/bilhetes-cartoes/",
    "confianca": "B",
    "verificado_em": "2026-10-18"
+  },
+  {
+   "uf": "SP",
+   "municipio": "Mongaguá",
+   "cod_ibge": "3531100",
+   "sistema": "Vale-transporte do transporte coletivo municipal de Mongaguá (Translocave)",
+   "abrangencia": "municipal",
+   "modos_cobertos": "ônibus do transporte coletivo urbano municipal",
+   "cartao_vt": "cartão magnético recarregável (o nome do cartão não foi encontrado)",
+   "emissora": "Translocave Ltda. (CNPJ 01.255.050/0001-82), concessionária do transporte coletivo municipal",
+   "canal_compra_empresa": "contrato direto com a concessionária, com recarga dos créditos no cartão magnético (é assim que a Prefeitura e a Empresa Municipal de Saúde, EMUS, compram o vale-transporte dos funcionários)",
+   "compra_online": null,
+   "cadastro_por_colaborador": null,
+   "custo_cartao_brl": null,
+   "tarifa_vt_brl": null,
+   "tarifa_comum_brl": null,
+   "vt_diferente_da_comum": null,
+   "prazo_liberacao_credito": null,
+   "tem_taxa_na_compra": null,
+   "taxa_na_compra": null,
+   "validade_credito": null,
+   "limites": "Fonte: extratos no Diário Oficial Eletrônico do Município: o apostilamento do Contrato nº 019/2024 da EMUS, firmado em 30/12/2025, cujo objeto é o 'fornecimento de vales transporte da linha municipal, em forma de recarga para cartão magnético', passou o contrato da Ação Transporte e Turismo Ltda. para a Translocave Ltda. 'devido a transferência da concessão do serviço de transporte público municipal' (edição nº 2048, de 07/01/2026); o Termo de Prorrogação nº 017/2026 desse contrato da EMUS, por 12 meses, foi firmado com a Translocave em 07/08/2026 (edição nº 2210A, https://www.dosp.com.br/exibe_do.php?i=ODU5OTU3); e o Contrato nº 030/2025 da Prefeitura, 'Aquisição de vales transporte para os funcionários', com a Translocave, foi firmado em 08/04/2026, por 12 meses, no valor global de R$ 1.195.365,60 (edição nº 2124, de 17/04/2026). Os extratos não trazem o valor unitário do vale.",
+   "fonte_url": "https://www.dosp.com.br/exibe_do.php?i=ODA2NDU3",
+   "confianca": "B",
+   "verificado_em": "2026-11-04"
   },
   {
    "uf": "SP",

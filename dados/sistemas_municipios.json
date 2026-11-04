@@ -1,6 +1,6 @@
 {
  "nome": "Tarifaoteca da Otimiza.pro: sistemas_municipios",
- "versao": "2026.11.04.2",
+ "versao": "2026.11.04.3",
  "licenca": {
   "nome": "CC BY-NC 4.0",
   "url": "https://creativecommons.org/licenses/by-nc/4.0/deed.pt-br",
@@ -8,7 +8,7 @@
   "uso_interno": "A consulta para decisões da própria empresa, como orçar o vale-transporte, não pede licença.",
   "uso_comercial": "Uso comercial por empresas (em produto, revenda ou integração em sistema ou serviço pago) pede licença da Otimiza.pro: empresa@otimiza.pro."
  },
- "citar_como": "Fonte: Tarifaoteca da Otimiza.pro, versão 2026.11.04.2. DOI: https://doi.org/10.5281/zenodo.23486211. https://github.com/OtimizaPro/tarifas_integracoestarifarias_transportepublico_brasileiro",
+ "citar_como": "Fonte: Tarifaoteca da Otimiza.pro, versão 2026.11.04.3. DOI: https://doi.org/10.5281/zenodo.23486211. https://github.com/OtimizaPro/tarifas_integracoestarifarias_transportepublico_brasileiro",
  "linhas": [
   {
    "sistema": "RBTrans (COM Card)",
@@ -3163,6 +3163,14 @@
    "cod_ibge": "4101804"
   },
   {
+   "sistema": "Prefeitura de Assis Chateaubriand; transporte coletivo municipal concedido à Empresa de Transporte PGTUR Ltda. (Contrato nº 002/2015)",
+   "abrangencia": "municipal",
+   "municipio_sede": "Assis Chateaubriand",
+   "uf": "PR",
+   "municipio_atendido": "Assis Chateaubriand",
+   "cod_ibge": "4102000"
+  },
+  {
    "sistema": "Prefeitura de Assis Chateaubriand; transporte coletivo municipal por concessão (Lei nº 1.784/2003 e Plano de Execução do Transporte Coletivo, Decreto nº 116/2003), operado em 2008 pela Transporte Coletivo Morada Amiga Ltda.; operadora atual não confirmada",
    "abrangencia": "municipal",
    "municipio_sede": "Assis Chateaubriand",
@@ -4891,6 +4899,14 @@
    "cod_ibge": "4322509"
   },
   {
+   "sistema": "Prefeitura de Vacaria; transporte coletivo urbano operado pela Transfátima (Transportes Felipe Rodrigues Ltda.), em contrato emergencial com a Prefeitura, com a bilhetagem Transfácil",
+   "abrangencia": "municipal",
+   "municipio_sede": "Vacaria",
+   "uf": "RS",
+   "municipio_atendido": "Vacaria",
+   "cod_ibge": "4322509"
+  },
+  {
    "sistema": "Prefeitura de Venâncio Aires; Sistema de Transporte Público Coletivo da Lei 7.054/2022, com linhas urbanas e interdistritais operadas por empresas privadas (Chimatur, Viasul e Reckziegel, segundo a Folha do Mate em 2020)",
    "abrangencia": "municipal",
    "municipio_sede": "Venâncio Aires",
@@ -6340,6 +6356,14 @@
   },
   {
    "sistema": "Prefeitura de Lins; concessionária Oswaldo Brambilla Transporte Coletivo Ltda. (dado de 2019)",
+   "abrangencia": "municipal",
+   "municipio_sede": "Lins",
+   "uf": "SP",
+   "municipio_atendido": "Lins",
+   "cod_ibge": "3527108"
+  },
+  {
+   "sistema": "Prefeitura de Lins; transporte coletivo urbano gratuito (tarifa zero), prestado pela Terra Auto Viação Transportes Ltda. em contrato com a Prefeitura (Contrato nº 153/2024)",
    "abrangencia": "municipal",
    "municipio_sede": "Lins",
    "uf": "SP",
