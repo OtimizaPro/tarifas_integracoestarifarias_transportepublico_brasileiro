@@ -1,8 +1,8 @@
 # Tarifas do transporte público por cidade (Otimiza.pro)
 
-Quanto custa o transporte público em 621 municípios brasileiros, segundo a Tarifaoteca da Otimiza.pro (versão 2026.11.04.3). Cada frase traz o valor, a fonte e a data em que a Otimiza.pro conferiu e, quando a fonte informa, o ato oficial e a data em que passou a valer. A fonte oficial de cada valor está indicada. Onde há dados de serviço e oferta, a ficha traz também linhas e passageiros, com a fonte e a data.
+Quanto custa o transporte público em 621 municípios brasileiros, segundo a Tarifaoteca da Otimiza.pro (versão 2026.11.04.4). Cada frase traz o valor, a fonte e a data em que a Otimiza.pro conferiu e, quando a fonte informa, o ato oficial e a data em que passou a valer. A fonte oficial de cada valor está indicada. Onde há dados de serviço e oferta, a ficha traz também linhas e passageiros, com a fonte e a data.
 
-Como citar: Fonte: Tarifaoteca da Otimiza.pro, versão 2026.11.04.3. DOI: https://doi.org/10.5281/zenodo.23486211. https://github.com/OtimizaPro/tarifas_integracoestarifarias_transportepublico_brasileiro
+Como citar: Fonte: Tarifaoteca da Otimiza.pro, versão 2026.11.04.4. DOI: https://doi.org/10.5281/zenodo.23486211. https://github.com/OtimizaPro/tarifas_integracoestarifarias_transportepublico_brasileiro
 
 ## AC
 
@@ -32,11 +32,11 @@ Integração em Rio Branco: Sistema Integrado de Transporte Urbano (SITURB): o P
 
 ### Arapiraca (AL)
 
-Em Arapiraca (AL), a passagem de ônibus custa R$ 4,00, conforme Deliberação do CMTT em 21/11/2023 pela manutenção do valor; valor conferido em 20/10/2026 pela Tarifaoteca da Otimiza.pro.
+Em Arapiraca (AL), a passagem de ônibus custa R$ 4,00, segundo a publicação oficial (Prefeitura de Arapiraca, notícia de 22/11/2023); valor conferido em 04/11/2026 pela Tarifaoteca da Otimiza.pro.
 
 Página da cidade: https://otimizapro.com/tarifa/al/arapiraca
 
-Fonte (imprensa): https://reportermaceio.com.br/arapiraca-conselho-municipal-de-transportes-e-transito-de-arapiraca-mantem-valor-da-tarifa-do-transporte-coletivo-de-passageiros-em-r-400/
+Fonte (página oficial): https://web.arapiraca.al.gov.br/2023/11/conselho-elege-nova-diretoria-e-mantem-valor-da-tarifa-no-transporte-coletivo-de-passageiros/
 
 Tarifa zero em Arapiraca: Transporte coletivo gratuito no 1º turno das Eleições 2026 (04/10/2026) e no eventual 2º turno (25/10/2026), com frota de dia útil
 
@@ -270,11 +270,11 @@ Integração em Lauro de Freitas: A AGERBA informa que a integração com o metr
 
 ### Luís Eduardo Magalhães (BA)
 
-Em Luís Eduardo Magalhães (BA), a passagem de ônibus custa R$ 4,00, conforme Decreto nº 750/2022; valor conferido em 18/10/2026 pela Tarifaoteca da Otimiza.pro.
+Em Luís Eduardo Magalhães (BA), a passagem de ônibus custa R$ 4,00, conforme Decreto Municipal nº 750/2022; valor conferido em 04/11/2026 pela Tarifaoteca da Otimiza.pro.
 
 Página da cidade: https://otimizapro.com/tarifa/ba/luis-eduardo-magalhaes
 
-Fonte (página oficial): https://www.luiseduardomagalhaes.ba.gov.br/noticias/luis-eduardo-tera-esquema-especial-de-transporte-durante-o-aviva-lem/
+Fonte (página oficial): https://sai.io.org.br/Handler.ashx?f=diario&query=3347&c=469&m=0
 
 ### Mata de São João (BA)
 
@@ -484,11 +484,13 @@ Fonte (Moovit): https://static-updates.moovit.com/wp-content/uploads/2023/03/301
 
 ### Sobral (CE)
 
-Em Sobral (CE), a passagem de ônibus custa R$ 1,50 desde 01/06/2023, segundo a imprensa (Sobral Agora, mai/2023); valor conferido em 20/10/2026 pela Tarifaoteca da Otimiza.pro.
+Em Sobral (CE), a passagem de ônibus custa R$ 1,50 desde 01/06/2023, conforme Decreto Municipal nº 3.179/2023; valor conferido em 04/11/2026 pela Tarifaoteca da Otimiza.pro.
 
 Página da cidade: https://otimizapro.com/tarifa/ce/sobral
 
-Fonte (imprensa): https://sobralagora.com.br/2023/05/sobral-atencao-coletivos-da-transol-terao-aumento-no-valor-da-passagem-a-partir-de-1o-de-junho/
+Fonte (página oficial): https://www.sobral.ce.gov.br/diario/public/files/diario/DOM1580_22-05-2023.pdf
+
+Vale-transporte em Sobral: cartão bilhete único (passagem em papel) do TranSol; emitido por Prefeitura de Sobral, pela Secretaria do Trânsito e Transportes (SETRAN, hoje Secretaria do Transporte, SETRANSP); canal de compra da empresa: empresas cadastradas e credenciadas na Prefeitura, pela Secretaria: emissão de Documento de Arrecadação Municipal (DAM) e, com o pagamento comprovado, retirada das passagens na Secretaria.
 
 ## DF
 
@@ -1304,11 +1306,11 @@ Tarifa zero em Janaúba: Transporte público coletivo gratuito durante o períod
 
 ### João Monlevade (MG)
 
-Em João Monlevade (MG), a passagem de ônibus custa de R$ 3,80 a R$ 4,00 (varia com o cartão ou o meio de pagamento) desde 16/09/2021, conforme Decreto Municipal nº 116/2021; valor conferido em 20/10/2026 pela Tarifaoteca da Otimiza.pro.
+Em João Monlevade (MG), a passagem de ônibus custa de R$ 3,80 a R$ 4,00 (varia com o cartão ou o meio de pagamento) desde 16/09/2021, conforme Decreto nº 122/2026; valor conferido em 04/11/2026 pela Tarifaoteca da Otimiza.pro.
 
 Página da cidade: https://otimizapro.com/tarifa/mg/joao-monlevade
 
-Fonte (operadora): https://www.enscon.com.br/Valor_Tarifa/Enscon-16%2009%202021.pdf
+Fonte (página oficial): https://pmjm.mg.gov.br/legislacao/1612e8876055404c6bcf6aa0b7c9c298.pdf
 
 Vale-transporte em João Monlevade: cartão Vale Transporte (cartão de transporte eletrônico da Enscon); emitido por Enscon Viação Ltda.; canal de compra da empresa: cadastro de usuários, pedidos de cartões e de créditos pelo site da operadora (sistema com login para empresas); pagamento antes do crédito por depósito, transferência, DOC, TED ou boleto; liberação do crédito: 48 horas em dias úteis (pedido pelo site e pagamento); validade dos créditos: o cartão sem uso fica inativo em 365 dias; o saldo do cartão inativo volta para a empresa.
 
@@ -1830,11 +1832,11 @@ Tarifa zero em Varginha: Transporte coletivo urbano gratuito para os eleitores e
 
 ### Vespasiano (MG)
 
-Em Vespasiano (MG), a passagem de ônibus custa de R$ 3,65 a R$ 5,60 (varia com o tipo de linha), segundo a publicação oficial (Prefeitura de Vespasiano, página 'Transporte Coletivo', revisada em 10/12/2021); valor conferido em 20/10/2026 pela Tarifaoteca da Otimiza.pro.
+Em Vespasiano (MG), a passagem de ônibus custa R$ 2,50 desde 21/12/2025, conforme Decreto nº 11.154/2025; valor conferido em 04/11/2026 pela Tarifaoteca da Otimiza.pro.
 
 Página da cidade: https://otimizapro.com/tarifa/mg/vespasiano
 
-Fonte (página oficial): https://vespasiano.mg.gov.br/noticias/transporte-coletivo/
+Fonte (página oficial): https://www.diariomunicipal.com.br/amm-mg/materia/27E225F4
 
 Vale-transporte em Vespasiano: cartão Ótimo Vale-Transporte; emitido por Consórcio Ótimo de Bilhetagem Eletrônica; canal de compra da empresa: Contrato de cessão de cartões com o Consórcio Ótimo em duas modalidades: 'Carga no Posto' (contrato na loja do Bairro Floresta, em Belo Horizonte) ou 'Carga a Bordo' (contrato baixado no site, assinado e anexado ao formulário de cadastramento on-line). Os pedidos de carga são feitos no Portal Ótimo, com login da empresa, e pagos por boleto gerado no portal; liberação do crédito: pedidos processados em dias úteis, das 8h às 17h; pedido não pago é cancelado após 30 dias (contrato da Fapemig com o Consórcio Ótimo); validade dos créditos: 180 dias a partir da habilitação; se a recarga não for feita em 30 dias, a empresa pede a reabilitação dos créditos ao Consórcio em até 180 dias (contrato da Fapemig).
 
@@ -1848,11 +1850,11 @@ Fonte (imprensa): https://www.itatiaia.com.br/juizdefora/aprovada-tarifa-zero-ao
 
 ### Visconde do Rio Branco (MG)
 
-Em Visconde do Rio Branco (MG), a passagem de ônibus custa R$ 3,75 desde 01/03/2021, conforme Decreto nº 027/2021; valor conferido em 20/10/2026 pela Tarifaoteca da Otimiza.pro.
+Em Visconde do Rio Branco (MG), a passagem de ônibus custa de R$ 2,00 a R$ 4,80 (varia com o tipo de linha) desde 10/09/2021, conforme Decreto nº 129/2021; valor conferido em 04/11/2026 pela Tarifaoteca da Otimiza.pro.
 
 Página da cidade: https://otimizapro.com/tarifa/mg/visconde-do-rio-branco
 
-Fonte (página oficial): https://www.viscondedoriobranco.mg.gov.br/wp-content/uploads/2021/04/DECRETO-No-027-2021-Reajuste-onibus.pdf
+Fonte (página oficial): https://www.diariomunicipal.com.br/amm-mg/materia/315A20CC
 
 ## MS
 
@@ -1950,11 +1952,11 @@ Tarifa zero em Três Lagoas: Transporte coletivo urbano gratuito para toda a pop
 
 ### Barra do Garças (MT)
 
-Em Barra do Garças (MT), a passagem de ônibus custa R$ 6,00 desde 14/05/2022, segundo a publicação oficial (Prefeitura de Barra do Garças, Secom, notícia de 13/05/2022); valor conferido em 20/10/2026 pela Tarifaoteca da Otimiza.pro.
+Em Barra do Garças (MT), a passagem de ônibus custa R$ 7,00, conforme Decreto nº 5.329/2023; valor conferido em 04/11/2026 pela Tarifaoteca da Otimiza.pro.
 
 Página da cidade: https://otimizapro.com/tarifa/mt/barra-do-garcas
 
-Fonte (página oficial): https://www.barradogarcas.mt.gov.br/Imprensa/Noticias/Prefeitura-veta-reajuste-de-tarifa-solicitado-pela-empresa-garcastur-e-abre-nova-licitacao-3304/
+Fonte (página oficial): https://sapl.barradogarcas.mt.leg.br/media/sapl/public/normajuridica/2023/215/decreto_5.329_de_1_de_dezembro_de_2023.pdf
 
 ### Cuiabá (MT)
 
@@ -2784,11 +2786,11 @@ Fonte (página oficial): https://cmtu.londrina.pr.gov.br/index.php/ult-noticias/
 
 ### Mandaguari (PR)
 
-Em Mandaguari (PR), a passagem de ônibus custa R$ 4,25 desde 01/01/2022, conforme Decreto municipal nº 701/2021; valor conferido em 20/10/2026 pela Tarifaoteca da Otimiza.pro.
+Em Mandaguari (PR), a passagem de ônibus custa R$ 5,25 desde 11/08/2025, conforme Decreto Municipal nº 328/2025; valor conferido em 04/11/2026 pela Tarifaoteca da Otimiza.pro.
 
 Página da cidade: https://otimizapro.com/tarifa/pr/mandaguari
 
-Fonte (imprensa): https://www.portalagora.com/mandaguari/circular-tarifa-para-transporte-coletivo-dentro-de-mandaguari-tem-reajuste-e-vai-a-r-425/
+Fonte (página oficial): https://www.diariomunicipal.com.br/amp/materia/8EB3723B
 
 Vale-transporte em Mandaguari: cartão de passes da Viação Garcia, emitido para cada cadastro; emitido por Viação Garcia (venda pelo comércio eletrônico TDMax, da Transdata); canal de compra da empresa: cadastro e compra pelo link 'Comprar agora' da página do vale-transporte (https://max00235.itstransdata.com/TDMaxwebcommerce/); atendimento presencial no Terminal Rodoviário de Londrina; taxa na compra: a página não fala de taxa na compra; a entrega por motoboy dentro de Londrina custa R$ 15,00 por entrega, serviço opcional que não é taxa na compra.
 
@@ -2994,11 +2996,11 @@ Fonte (página oficial): https://www.saomateusdosul.pr.gov.br/portal/diario-ofic
 
 ### Sarandi (PR)
 
-Em Sarandi (PR), a passagem de ônibus custa R$ 5,70 desde 01/07/2022, segundo a imprensa (Maringa.Com, 'Tarifa do transporte metropolitano da região de Maringá tem reajuste de 28%', 30/06/2022); valor conferido em 20/10/2026 pela Tarifaoteca da Otimiza.pro.
+Em Sarandi (PR), a passagem de ônibus custa R$ 6,50, segundo a publicação oficial (DER-PR, Consulta Linhas Intermunicipais, linhas regulares vigentes, origem Sarandi e destino Maringá, e a página de tarifa da linha 001.0254-470 da Cidade Verde Transporte Rodoviário Ltda.); valor conferido em 04/11/2026 pela Tarifaoteca da Otimiza.pro.
 
 Página da cidade: https://otimizapro.com/tarifa/pr/sarandi
 
-Fonte (imprensa): https://noticias.maringa.com/24029/tarifa-do-transporte-metropolitano-da-regiao-de-maringa-tem-reajuste-de-28
+Fonte (página oficial): https://www.der.pr.gov.br/webservices/der/empresas/detalhe/511/001.0254-470
 
 Vale-transporte em Sarandi: cartão eletrônico da Cidade Verde ('Cartão Urbano Sarandi'), associado ao funcionário; emitido por Cidade Verde Transporte Rodoviário Ltda., telefone (44) 3221-1012 (código do emissor 226 na Benefício Fácil); canal de compra da empresa: compra de créditos junto à Cidade Verde, com o cartão entregue pelo próprio emissor; também vendido por plataformas de VT, como a Benefício Fácil; liberação do crédito: 5 dias úteis após o pagamento; 1ª via do cartão em 10 dias úteis após o pagamento (ficha da Benefício Fácil); taxa na compra: a ficha da revendedora Benefício Fácil diz 'Repasse (custo fixo ou percentual): Não possui'; não se achou página da Cidade Verde sobre a compra pela empresa.
 
@@ -3326,11 +3328,11 @@ Fonte (página oficial): https://resende.rj.gov.br/noticias/princesinha-do-vale-
 
 ### Rio das Ostras (RJ)
 
-Em Rio das Ostras (RJ), a passagem do transporte alternativo (vans e micro-ônibus) custa R$ 3,75 desde 01/03/2023, conforme Decreto nº 3534/2023; valor conferido em 20/10/2026 pela Tarifaoteca da Otimiza.pro.
+Em Rio das Ostras (RJ), a passagem do transporte alternativo (vans e micro-ônibus) custa R$ 4,00 desde 15/10/2025, conforme Lei Municipal nº 3.110/2025; valor conferido em 04/11/2026 pela Tarifaoteca da Otimiza.pro.
 
 Página da cidade: https://otimizapro.com/tarifa/rj/rio-das-ostras
 
-Fonte (página oficial): https://www.riodasostras.rj.gov.br/subsistema-de-transporte-urbano-de-rio-das-ostras-tem-realinhamento-de-valor-de-tarifa/
+Fonte (página oficial): https://appro.riodasostras.rj.gov.br/storage/riodasostrasapp/jornais/2025/10/a18b1b4a-e23b-4074-bd62-dd4c1fe9d07e.pdf
 
 ### Rio de Janeiro (RJ)
 
@@ -4168,11 +4170,11 @@ Vale-transporte em Teutônia: cartão eletrônico 'Cartão Teuto Municipal'; emi
 
 ### Torres (RS)
 
-Em Torres (RS), a passagem de ônibus custa R$ 5,00 desde 07/03/2022, segundo a publicação oficial (Prefeitura de Torres, notícia 'Torrescar reajusta tarifa a partir desta segunda', 03/03/2022); valor conferido em 20/10/2026 pela Tarifaoteca da Otimiza.pro.
+Em Torres (RS), a passagem de ônibus custa R$ 5,00 desde 07/03/2022, segundo a imprensa (A Folha Torres, 02/07/2026, "Rejeitando notificação da Prefeitura, Torrescar afirma que não retomará horários sem reequilíbrio financeiro"); valor conferido em 04/11/2026 pela Tarifaoteca da Otimiza.pro.
 
 Página da cidade: https://otimizapro.com/tarifa/rs/torres
 
-Fonte (página oficial): https://torres.rs.gov.br/2022/03/03/torrescar-reajusta-tarifa-a-partir-de-7-de-marco/
+Fonte (imprensa): https://afolhatorres.com.br/rejeitando-notificacao-da-prefeitura-torrescar-afirma-que-nao-retomara-horarios-sem-reequilibrio-financeiro/
 
 Vale-transporte em Torres: cartão eletrônico 'Cartão Torres Municipal' (cartão transporte da Torrescar, para funcionários que recebem vale-transporte); emitido por Torrescar, telefones (51) 3664-2033 e (51) 98051-0021, e-mail passagemtorres@torrescar.com.br; canal de compra da empresa: compra de créditos pelo site da Torrescar, com boleto, ou na sede da empresa; também por plataformas de VT, como a Benefício Fácil (código do emissor 719); liberação do crédito: até 72 horas depois do pagamento do boleto, com recarga a bordo no 1º embarque (site da Torrescar); 5 dias úteis pela Benefício Fácil; taxa na compra: a ficha da revendedora Benefício Fácil diz 'Repasse (custo fixo ou percentual): Não possui'; a página da Torrescar não fala de taxa.
 
@@ -5242,11 +5244,11 @@ Tarifa zero em Cubatão: Linhas convencionais do transporte coletivo municipal g
 
 ### Descalvado (SP)
 
-Em Descalvado (SP), a passagem de ônibus custa de R$ 3,60 a R$ 4,10 (varia com o tipo de linha) desde 01/01/2022, conforme Decreto nº 5.715/2021; valor conferido em 20/10/2026 pela Tarifaoteca da Otimiza.pro.
+Em Descalvado (SP), a passagem de ônibus custa de R$ 4,00 a R$ 4,50 (varia com o tipo de linha) desde 01/01/2025, conforme Decreto nº 6.449/2024; valor conferido em 04/11/2026 pela Tarifaoteca da Otimiza.pro.
 
 Página da cidade: https://otimizapro.com/tarifa/sp/descalvado
 
-Fonte (página oficial): https://www.descalvado.sp.gov.br/novoportal/prefeitura/uploads/pdf/diario/ano6ed142.pdf
+Fonte (página oficial): https://ecrie.com.br/Sistema/Conteudos/DiarioOficial/edicoes/296/1198-ano9ed875.pdf
 
 ### Diadema (SP)
 
@@ -5366,11 +5368,13 @@ TOP Vale-Transporte (ônibus metropolitanos e trilhos da Grande São Paulo): cob
 
 ### Garça (SP)
 
-Em Garça (SP), a passagem de ônibus custa R$ 5,50 desde 30/04/2022, conforme Decreto nº 9.536/2022; valor conferido em 20/10/2026 pela Tarifaoteca da Otimiza.pro.
+Em Garça (SP), a passagem de ônibus custa R$ 6,00 desde 22/06/2026, conforme Decreto nº 10.610/2026; valor conferido em 04/11/2026 pela Tarifaoteca da Otimiza.pro.
 
 Página da cidade: https://otimizapro.com/tarifa/sp/garca
 
-Fonte (página oficial): https://www.garca.sp.gov.br/portal/noticias/0/3/5903/prefeitura-autoriza-reajuste-no-valor-da-passagem-do-transporte-coletivo-em-garca
+Fonte (página oficial): https://www.dosp.com.br/exibe_do.php?i=ODM1MDQ3
+
+Vale-transporte em Garça: emitido por Raptur Transporte Coletivo Ltda. EPP (CNPJ 03.672.377/0001-85), permissionária do transporte coletivo da linha circular; canal de compra da empresa: contrato direto com a permissionária, em cartelas de 50 passes (é assim que a Prefeitura e o SAAE de Garça compram os vales-transporte e passes dos servidores).
 
 ### Guararema (SP)
 
@@ -5620,13 +5624,13 @@ Vale-transporte em Itu: cartão MoV Vale-Transporte (VT); emitido por MoV Itu (W
 
 ### Itupeva (SP)
 
-Em Itupeva (SP), a passagem de ônibus custa R$ 4,50 desde 28/11/2022, conforme Decreto nº 3.558/2022; valor conferido em 18/10/2026 pela Tarifaoteca da Otimiza.pro.
+Em Itupeva (SP), a passagem de ônibus custa R$ 4,50 desde 28/11/2022, conforme Decreto nº 3.558/2022; valor conferido em 04/11/2026 pela Tarifaoteca da Otimiza.pro.
 
 Página da cidade: https://otimizapro.com/tarifa/sp/itupeva
 
 Fonte (página oficial): https://www.dosp.com.br/exibe_do.php?i=MzAzMzE4
 
-Vale-transporte em Itupeva: emitido por Viação Itupeva Ltda. (CNPJ 69.004.083/0001-93).
+Vale-transporte em Itupeva: emitido por Viação Itupeva Ltda. (CNPJ 69.004.083/0001-93), operadora do transporte coletivo municipal; canal de compra da empresa: venda no Guichê nº 3 do Terminal da Rodoviária de Itupeva, telefone (11) 4496-2853, e-mail rodoviaria@viaitupeva.com.br (página Vale Transporte da operadora); a Prefeitura compra direto da operadora, por inexigibilidade de licitação; validade dos créditos: a página diz que o vale 'não perde a validade mesmo com o aumento da tarifa'.
 
 ### Ituverava (SP)
 
@@ -6200,11 +6204,11 @@ Tarifa zero em Presidente Prudente: Tarifa Zero aos sábados e domingos nos ôni
 
 ### Registro (SP)
 
-Em Registro (SP), a passagem de ônibus custa de R$ 3,80 a R$ 5,10 (varia com o tipo de linha) desde 01/01/2022, conforme Decreto nº 3.275/2021; valor conferido em 20/10/2026 pela Tarifaoteca da Otimiza.pro.
+Em Registro (SP), a passagem de ônibus custa de R$ 3,80 a R$ 5,10 (varia com o tipo de linha) desde 01/01/2022, conforme Decreto nº 3.275/2021; valor conferido em 04/11/2026 pela Tarifaoteca da Otimiza.pro.
 
 Página da cidade: https://otimizapro.com/tarifa/sp/registro
 
-Fonte (página oficial): https://registro.sp.gov.br/tarifa-de-onibus-municipal-tera-novo-valor-a-partir-de-1o-de-janeiro-de-2022/
+Fonte (página oficial): https://pncp.gov.br/pncp-api/v1/orgaos/45685872000179/compras/2026/211/arquivos/1
 
 Integração em Registro: Bilhete Único: com o cartão eletrônico, o usuário integra linhas urbanas e rurais, sempre no mesmo sentido, pagando uma única passagem, por até 1 hora e 30 minutos (antes, 1 hora).
 

@@ -1,6 +1,6 @@
 {
  "nome": "Tarifaoteca da Otimiza.pro: beneficios",
- "versao": "2026.11.04.3",
+ "versao": "2026.11.04.4",
  "licenca": {
   "nome": "CC BY-NC 4.0",
   "url": "https://creativecommons.org/licenses/by-nc/4.0/deed.pt-br",
@@ -8,7 +8,7 @@
   "uso_interno": "A consulta para decisões da própria empresa, como orçar o vale-transporte, não pede licença.",
   "uso_comercial": "Uso comercial por empresas (em produto, revenda ou integração em sistema ou serviço pago) pede licença da Otimiza.pro: empresa@otimiza.pro."
  },
- "citar_como": "Fonte: Tarifaoteca da Otimiza.pro, versão 2026.11.04.3. DOI: https://doi.org/10.5281/zenodo.23486211. https://github.com/OtimizaPro/tarifas_integracoestarifarias_transportepublico_brasileiro",
+ "citar_como": "Fonte: Tarifaoteca da Otimiza.pro, versão 2026.11.04.4. DOI: https://doi.org/10.5281/zenodo.23486211. https://github.com/OtimizaPro/tarifas_integracoestarifarias_transportepublico_brasileiro",
  "linhas": [
   {
    "uf": "AL",
@@ -2235,24 +2235,24 @@
    "municipio": "Barra do Garças",
    "cod_ibge": "5101803",
    "tipo": "estudante",
-   "regra": "Estudantes pagam 50% da passagem",
+   "regra": "Tarifa reduzida em 50% para estudantes",
    "desde": null,
-   "base_legal": "Lei Municipal nº 2.915/2008",
-   "fonte_url": "https://www.barradogarcas.mt.gov.br/Imprensa/Noticias/Prefeitura-consegue-liminar-e-empresa-de-transporte-publico-devera-manter-gratuidade-na-passagem-de-idosos-3199/",
+   "base_legal": "Lei Municipal nº 881/1984 (alterada pela Lei nº 2.915/2008); sentença da 4ª Vara Cível de Barra do Garças na ação civil pública nº 1001906-47.2022.8.11.0004, citada no Decreto nº 5.329/2023",
+   "fonte_url": "https://sapl.barradogarcas.mt.leg.br/media/sapl/public/normajuridica/2023/215/decreto_5.329_de_1_de_dezembro_de_2023.pdf",
    "confianca": "A",
-   "verificado_em": "2026-10-20"
+   "verificado_em": "2026-11-04"
   },
   {
    "uf": "MT",
    "municipio": "Barra do Garças",
    "cod_ibge": "5101803",
    "tipo": "idoso",
-   "regra": "Gratuidade para idosos, mantida por liminar obtida pela Prefeitura em março de 2022",
+   "regra": "Transporte coletivo urbano gratuito para idosos, nos termos da lei; a concessionária deve mantê-lo por sentença transitada em julgado",
    "desde": null,
-   "base_legal": "Lei nº 10.741/2003 (Estatuto da Pessoa Idosa)",
-   "fonte_url": "https://www.barradogarcas.mt.gov.br/Imprensa/Noticias/Prefeitura-consegue-liminar-e-empresa-de-transporte-publico-devera-manter-gratuidade-na-passagem-de-idosos-3199/",
+   "base_legal": "Lei Federal nº 10.741/2003 e Lei Municipal nº 881/1984 (alterada pela Lei nº 2.915/2008); sentença da 4ª Vara Cível de Barra do Garças na ação civil pública nº 1001906-47.2022.8.11.0004, citada no Decreto nº 5.329/2023",
+   "fonte_url": "https://sapl.barradogarcas.mt.leg.br/media/sapl/public/normajuridica/2023/215/decreto_5.329_de_1_de_dezembro_de_2023.pdf",
    "confianca": "A",
-   "verificado_em": "2026-10-20"
+   "verificado_em": "2026-11-04"
   },
   {
    "uf": "MT",

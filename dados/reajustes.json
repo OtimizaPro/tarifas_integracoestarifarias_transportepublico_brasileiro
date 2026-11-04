@@ -1,6 +1,6 @@
 {
  "nome": "Tarifaoteca da Otimiza.pro: reajustes",
- "versao": "2026.11.04.3",
+ "versao": "2026.11.04.4",
  "licenca": {
   "nome": "CC BY-NC 4.0",
   "url": "https://creativecommons.org/licenses/by-nc/4.0/deed.pt-br",
@@ -8,7 +8,7 @@
   "uso_interno": "A consulta para decisões da própria empresa, como orçar o vale-transporte, não pede licença.",
   "uso_comercial": "Uso comercial por empresas (em produto, revenda ou integração em sistema ou serviço pago) pede licença da Otimiza.pro: empresa@otimiza.pro."
  },
- "citar_como": "Fonte: Tarifaoteca da Otimiza.pro, versão 2026.11.04.3. DOI: https://doi.org/10.5281/zenodo.23486211. https://github.com/OtimizaPro/tarifas_integracoestarifarias_transportepublico_brasileiro",
+ "citar_como": "Fonte: Tarifaoteca da Otimiza.pro, versão 2026.11.04.4. DOI: https://doi.org/10.5281/zenodo.23486211. https://github.com/OtimizaPro/tarifas_integracoestarifarias_transportepublico_brasileiro",
  "linhas": [
   {
    "uf": "SP",
@@ -1092,6 +1092,25 @@
    "fonte_tipo": "oficial",
    "confianca": "A",
    "verificado_em": "2026-10-18"
+  },
+  {
+   "uf": "SP",
+   "municipio": "Garça",
+   "cod_ibge": "3516705",
+   "sistema": "Prefeitura de Garça (Secretaria de Planejamento e Desenvolvimento Urbano); ônibus circular municipal concedido à Raptur Transporte Coletivo Ltda. EPP (concessionária citada pela prefeitura em 2019), com nova concessão em preparação desde 2025",
+   "modo": "onibus",
+   "servico": "municipal (circular)",
+   "perfil": "comum",
+   "meio_pagamento": null,
+   "valor_brl": 6,
+   "valor_anterior_brl": null,
+   "variacao_pct": null,
+   "vigencia_inicio": "2026-06-22",
+   "ato_oficial": "Decreto nº 10.610, de 15/06/2026, que altera o Decreto nº 9.536/2022 e dá nova redação ao art. 5º do Decreto nº 3.845/1989 (Diário Oficial do Município de Garça, edição nº 2872, de 17/06/2026, página 4)",
+   "fonte_url": "https://www.dosp.com.br/exibe_do.php?i=ODM1MDQ3",
+   "fonte_tipo": "oficial",
+   "confianca": "A",
+   "verificado_em": "2026-11-04"
   },
   {
    "uf": "RS",
@@ -6963,6 +6982,25 @@
    "fonte_tipo": "oficial",
    "confianca": "A",
    "verificado_em": "2026-10-17"
+  },
+  {
+   "uf": "MG",
+   "municipio": "Vespasiano",
+   "cod_ibge": "3171204",
+   "sistema": "Prefeitura de Vespasiano (transporte coletivo municipal) e sistema metropolitano da RMBH (Seinfra-MG, linhas metropolitanas); bilhetagem pelo cartão Ótimo, do Consórcio Ótimo de Bilhetagem Eletrônica, que lista Vespasiano entre os municípios com linhas municipais no cartão",
+   "modo": "onibus",
+   "servico": "municipal",
+   "perfil": "comum",
+   "meio_pagamento": null,
+   "valor_brl": 2.5,
+   "valor_anterior_brl": null,
+   "variacao_pct": null,
+   "vigencia_inicio": "2025-12-21",
+   "ato_oficial": "Decreto nº 11.154, de 18 de dezembro de 2025 (Diário Oficial dos Municípios Mineiros, edição 4175, de 19/12/2025; errata na edição 4198, de 23/01/2026, que corrige só a data da assinatura)",
+   "fonte_url": "https://www.diariomunicipal.com.br/amm-mg/materia/27E225F4",
+   "fonte_tipo": "oficial",
+   "confianca": "A",
+   "verificado_em": "2026-11-04"
   },
   {
    "uf": "RJ",
