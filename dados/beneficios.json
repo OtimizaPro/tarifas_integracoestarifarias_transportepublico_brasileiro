@@ -1,6 +1,6 @@
 {
  "nome": "Tarifaoteca da Otimiza.pro: beneficios",
- "versao": "2026.11.04",
+ "versao": "2026.11.04.2",
  "licenca": {
   "nome": "CC BY-NC 4.0",
   "url": "https://creativecommons.org/licenses/by-nc/4.0/deed.pt-br",
@@ -8,7 +8,7 @@
   "uso_interno": "A consulta para decisões da própria empresa, como orçar o vale-transporte, não pede licença.",
   "uso_comercial": "Uso comercial por empresas (em produto, revenda ou integração em sistema ou serviço pago) pede licença da Otimiza.pro: empresa@otimiza.pro."
  },
- "citar_como": "Fonte: Tarifaoteca da Otimiza.pro, versão 2026.11.04. DOI: https://doi.org/10.5281/zenodo.23486211. https://github.com/OtimizaPro/tarifas_integracoestarifarias_transportepublico_brasileiro",
+ "citar_como": "Fonte: Tarifaoteca da Otimiza.pro, versão 2026.11.04.2. DOI: https://doi.org/10.5281/zenodo.23486211. https://github.com/OtimizaPro/tarifas_integracoestarifarias_transportepublico_brasileiro",
  "linhas": [
   {
    "uf": "AL",
@@ -213,6 +213,18 @@
    "fonte_url": "https://ilheus24h.com.br/decisao-judicial-garante-onibus-gratuitos-no-dia-da-eleicao-em-ilheus/",
    "confianca": "B",
    "verificado_em": "2026-10-19"
+  },
+  {
+   "uf": "BA",
+   "municipio": "Itamaraju",
+   "cod_ibge": "2915601",
+   "tipo": "tarifa_zero_temporal",
+   "regra": "Transporte coletivo urbano gratuito para todos os passageiros aos domingos e feriados municipais, estaduais e nacionais, nos mesmos horários dos dias úteis: obrigação da concessionária como condição do subsídio da Lei nº 1.109/2025, pago a partir de janeiro de 2026 (art. 3º, II), mantida pela Lei nº 1.121/2026; a concessionária deve comprovar o cumprimento em relatório eletrônico mensal",
+   "desde": null,
+   "base_legal": "Lei Municipal nº 1.109, de 01/12/2025, art. 3º, II (Diário Oficial Eletrônico do Município de Itamaraju, edição 4.372, de 02/12/2025)",
+   "fonte_url": "https://doem.org.br/ba/itamaraju/diarios/previsualizar/gag9eYV5",
+   "confianca": "A",
+   "verificado_em": "2026-11-04"
   },
   {
    "uf": "BA",
@@ -1209,6 +1221,18 @@
    "fonte_url": "https://pncp.gov.br/app/editais/18302299000102/2026/73",
    "confianca": "A",
    "verificado_em": "2026-10-29"
+  },
+  {
+   "uf": "MG",
+   "municipio": "Cambuí",
+   "cod_ibge": "3110608",
+   "tipo": "idoso",
+   "regra": "Na linha concedida à Sivan, a concessionária não cobra tarifa de quem tem mais de 65 anos e porta a carteira de identidade",
+   "desde": null,
+   "base_legal": "Contrato nº 107/2025 (edital da Concorrência Eletrônica nº 01/2025)",
+   "fonte_url": "https://pncp.gov.br/app/contratos/18675975000185/2025/158",
+   "confianca": "A",
+   "verificado_em": "2026-11-04"
   },
   {
    "uf": "MG",
@@ -4788,6 +4812,18 @@
   },
   {
    "uf": "RS",
+   "municipio": "Soledade",
+   "cod_ibge": "4320800",
+   "tipo": "tarifa_reduzida",
+   "regra": "Estudantes pagam R$ 2,55 no transporte coletivo urbano (metade da tarifa).",
+   "desde": "2026-02-05",
+   "base_legal": "Decreto nº 14.569/2026, art. 1º",
+   "fonte_url": "https://pncp.gov.br/pncp-api/v1/orgaos/87738530000110/compras/2026/950/arquivos/2",
+   "confianca": "A",
+   "verificado_em": "2026-11-04"
+  },
+  {
+   "uf": "RS",
    "municipio": "São Gabriel",
    "cod_ibge": "4318309",
    "tipo": "tarifa_reduzida",
@@ -6828,6 +6864,18 @@
   },
   {
    "uf": "SP",
+   "municipio": "Osvaldo Cruz",
+   "cod_ibge": "3534609",
+   "tipo": "idoso",
+   "regra": "Gratuidade no transporte público urbano e semiurbano para pessoas com mais de 60 anos (pela ementa da lei; o texto não está no site).",
+   "desde": "2003-11-19",
+   "base_legal": "Lei nº 2.392, de 19/11/2003 (ementa na Legislação do site da Prefeitura)",
+   "fonte_url": "https://www.osvaldocruz.wls.com.br/?pag=T0dRPU9EZz1PR009T1RnPQ==&id=3386",
+   "confianca": "B",
+   "verificado_em": "2026-11-04"
+  },
+  {
+   "uf": "SP",
    "municipio": "Ourinhos",
    "cod_ibge": "3534708",
    "tipo": "estudante",
@@ -7197,6 +7245,18 @@
    "fonte_url": "https://www.dgabc.com.br/Noticia/4194303/sto-andre-reajusta-a-r%24-5-90-valor-da-passagem-de-onibus",
    "confianca": "B",
    "verificado_em": "2026-10-17"
+  },
+  {
+   "uf": "SP",
+   "municipio": "Serra Negra",
+   "cod_ibge": "3551603",
+   "tipo": "estudante",
+   "regra": "Para os alunos da rede pública de ensino que se enquadram no convênio com a Secretaria Estadual de Educação, a Prefeitura paga integralmente a tarifa de remuneração, pela Secretaria Municipal de Educação; o mesmo vale para os acompanhantes de crianças de 0 a 6 anos que frequentam escola pública municipal. Os estudantes do ensino infantil, fundamental e médio da rede particular têm desconto de 50% sobre a tarifa pública, quando eles ou os responsáveis compram os créditos.",
+   "desde": "2025-06-17",
+   "base_legal": "Lei nº 3.461, de 04/10/2011, art. 1º, na redação da Lei nº 4.779, de 17/06/2025 (publicada na Secretaria de Planejamento e Gestão Estratégica na mesma data e reproduzida no Diário Oficial de Serra Negra nº 1163, de 04/07/2025); a tarifa subsidiada dos alunos da rede pública é de R$ 22,66 desde 01/06/2026 (Decreto nº 5.797, de 25/05/2026)",
+   "fonte_url": "https://ecrie.com.br/sistema/conteudos/arquivo/a_107_0_2_08072025135253.pdf",
+   "confianca": "B",
+   "verificado_em": "2026-11-04"
   },
   {
    "uf": "SP",

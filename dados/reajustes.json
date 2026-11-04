@@ -1,6 +1,6 @@
 {
  "nome": "Tarifaoteca da Otimiza.pro: reajustes",
- "versao": "2026.11.04",
+ "versao": "2026.11.04.2",
  "licenca": {
   "nome": "CC BY-NC 4.0",
   "url": "https://creativecommons.org/licenses/by-nc/4.0/deed.pt-br",
@@ -8,7 +8,7 @@
   "uso_interno": "A consulta para decisões da própria empresa, como orçar o vale-transporte, não pede licença.",
   "uso_comercial": "Uso comercial por empresas (em produto, revenda ou integração em sistema ou serviço pago) pede licença da Otimiza.pro: empresa@otimiza.pro."
  },
- "citar_como": "Fonte: Tarifaoteca da Otimiza.pro, versão 2026.11.04. DOI: https://doi.org/10.5281/zenodo.23486211. https://github.com/OtimizaPro/tarifas_integracoestarifarias_transportepublico_brasileiro",
+ "citar_como": "Fonte: Tarifaoteca da Otimiza.pro, versão 2026.11.04.2. DOI: https://doi.org/10.5281/zenodo.23486211. https://github.com/OtimizaPro/tarifas_integracoestarifarias_transportepublico_brasileiro",
  "linhas": [
   {
    "uf": "SP",
@@ -674,6 +674,25 @@
    "fonte_tipo": "imprensa",
    "confianca": "B",
    "verificado_em": "2026-10-17"
+  },
+  {
+   "uf": "MG",
+   "municipio": "Carangola",
+   "cod_ibge": "3113305",
+   "sistema": "Prefeitura de Carangola; transporte coletivo municipal por contrato emergencial com a Tenílio Lourenço Borges Ltda. (Contrato nº 122/2026)",
+   "modo": "onibus",
+   "servico": "municipal",
+   "perfil": "comum",
+   "meio_pagamento": null,
+   "valor_brl": 4,
+   "valor_anterior_brl": null,
+   "variacao_pct": null,
+   "vigencia_inicio": "2026-07-21",
+   "ato_oficial": "Contrato nº 122/2026, de 21/07/2026 (Processo Administrativo nº 961/2026, Dispensa Emergencial nº 068/2026), com R$ 4,00 na coluna 'Valor da tarifa' do objeto; extrato do resultado publicado no Diário Oficial dos Municípios Mineiros (AMM) de 23/07/2026, edição 4323",
+   "fonte_url": "https://pncp.gov.br/app/contratos/19279827000104/2026/75",
+   "fonte_tipo": "oficial",
+   "confianca": "A",
+   "verificado_em": "2026-11-04"
   },
   {
    "uf": "SP",
@@ -3695,6 +3714,25 @@
    "fonte_tipo": "oficial",
    "confianca": "A",
    "verificado_em": "2026-10-18"
+  },
+  {
+   "uf": "RS",
+   "municipio": "Soledade",
+   "cod_ibge": "4320800",
+   "sistema": "Prefeitura de Soledade; transporte coletivo urbano prestado pela Transporte Coletivo Urbano Santa Rita (Ottoni Transpstr Transportes Ltda.)",
+   "modo": "onibus",
+   "servico": "municipal (transporte coletivo urbano)",
+   "perfil": "comum",
+   "meio_pagamento": null,
+   "valor_brl": 5.1,
+   "valor_anterior_brl": null,
+   "variacao_pct": null,
+   "vigencia_inicio": "2026-02-05",
+   "ato_oficial": "Decreto nº 14.569/2026, de 29/01/2026 (autoriza a empresa de Transporte Coletivo Urbano Santa Rita a reajustar as tarifas a partir de 05/02/2026: R$ 5,10 para os usuários em geral e R$ 2,55 para os estudantes)",
+   "fonte_url": "https://pncp.gov.br/pncp-api/v1/orgaos/87738530000110/compras/2026/950/arquivos/2",
+   "fonte_tipo": "oficial",
+   "confianca": "A",
+   "verificado_em": "2026-11-04"
   },
   {
    "uf": "MG",
@@ -6868,6 +6906,25 @@
    "fonte_tipo": "oficial",
    "confianca": "A",
    "verificado_em": "2026-10-20"
+  },
+  {
+   "uf": "ES",
+   "municipio": "Alegre",
+   "cod_ibge": "3200201",
+   "sistema": "Prefeitura de Alegre; transporte coletivo municipal concedido à Cooperativa de Transportes da Região Sul (Coopersules)",
+   "modo": "onibus",
+   "servico": "municipal (linhas urbanas)",
+   "perfil": "comum",
+   "meio_pagamento": null,
+   "valor_brl": 4.5,
+   "valor_anterior_brl": null,
+   "variacao_pct": null,
+   "vigencia_inicio": "2026-01-01",
+   "ato_oficial": "Decreto nº 14.160, de 30/12/2025 (reajusta em 18,42% as tarifas do serviço público de transporte coletivo, para as linhas urbanas), publicado na seção Diário Oficial (Decretos 2025) do portal da Prefeitura, com assinatura eletrônica no E-Docs (documento 2025-D3MKK3)",
+   "fonte_url": "https://alegre.es.gov.br/arquivos/diario-oficial/decretos/2025/14160%20-%202025%20-%20Disp%C3%B5e%20sobre%20a%20concess%C3%A3o%20de%20reajuste%20de%20tarifa%20de%20transporte%20p%C3%BAblico%20coletivo%20do%20Munic%C3%ADpio%20de%20Alegre%2C%20e%20d%C3%A1%20outras%20provid%C3%AAncias..pdf",
+   "fonte_tipo": "oficial",
+   "confianca": "A",
+   "verificado_em": "2026-11-04"
   },
   {
    "uf": "RJ",
