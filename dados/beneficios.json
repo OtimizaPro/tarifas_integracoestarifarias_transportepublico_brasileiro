@@ -1,6 +1,6 @@
 {
  "nome": "Tarifaoteca da Otimiza.pro: beneficios",
- "versao": "2026.11.05",
+ "versao": "2026.11.05.2",
  "licenca": {
   "nome": "CC BY-NC 4.0",
   "url": "https://creativecommons.org/licenses/by-nc/4.0/deed.pt-br",
@@ -8,8 +8,32 @@
   "uso_interno": "A consulta para decisões da própria empresa, como orçar o vale-transporte, não pede licença.",
   "uso_comercial": "Uso comercial por empresas (em produto, revenda ou integração em sistema ou serviço pago) pede licença da Otimiza.pro: empresa@otimiza.pro."
  },
- "citar_como": "Fonte: Tarifaoteca da Otimiza.pro, versão 2026.11.05. DOI: https://doi.org/10.5281/zenodo.23486211. https://github.com/OtimizaPro/tarifas_integracoestarifarias_transportepublico_brasileiro",
+ "citar_como": "Fonte: Tarifaoteca da Otimiza.pro, versão 2026.11.05.2. DOI: https://doi.org/10.5281/zenodo.23486211. https://github.com/OtimizaPro/tarifas_integracoestarifarias_transportepublico_brasileiro",
  "linhas": [
+  {
+   "uf": "AC",
+   "municipio": "Rio Branco",
+   "cod_ibge": "1200401",
+   "tipo": "estudante",
+   "regra": "Estudante paga R$ 1,00 por passagem (a prefeitura subsidia R$ 0,75 de cada uma), com o Cartão Escolar da RBTrans, para alunos do ensino fundamental, médio, superior e técnico em Rio Branco que morem a mais de 1 km da escola (500 m no turno da noite); até 6 viagens por dia, com renovação a cada período letivo",
+   "desde": "2021-10-26",
+   "base_legal": "Decreto 1.438/2021 (18/10/2021), art. 2º, enquanto vigorar a Lei Complementar 118/2021; Portaria RBTrans 122/2016 (modelo da declaração escolar)",
+   "fonte_url": "https://www.ac.gov.br/servico/cartao-escolar-1a-via-ensinos-fundamentalmediosuperior-alunos-a-partir-de-16-anos",
+   "confianca": "A",
+   "verificado_em": "2026-11-05"
+  },
+  {
+   "uf": "AC",
+   "municipio": "Rio Branco",
+   "cod_ibge": "1200401",
+   "tipo": "idoso",
+   "regra": "65 anos ou mais, gratuito, com o Cartão Idoso da RBTrans (primeira via e renovação sem custo na OCA Rio Branco, com documento de identidade com foto e CPF)",
+   "desde": null,
+   "base_legal": "Lei Municipal 1.726/2008 (18/12/2008), art. 1º (gratuidades, citada no Decreto 1.438/2021); Portaria RBTrans 175/2015 (uso indevido); Lei federal 10.741/2003, art. 39",
+   "fonte_url": "https://www.ac.gov.br/servico/cartao-idoso-4",
+   "confianca": "A",
+   "verificado_em": "2026-11-05"
+  },
   {
    "uf": "AL",
    "municipio": "Arapiraca",
@@ -26,13 +50,25 @@
    "uf": "AL",
    "municipio": "Maceió",
    "cod_ibge": "2704302",
+   "tipo": "estudante",
+   "regra": "Passe livre estudantil com o cartão Vamu Escolar: até 80 viagens por mês, 44 gratuitas e 36 com desconto de 50%, para estudantes do ensino fundamental, médio e superior de escolas de Maceió credenciadas, com frequência mínima de 75%. Pré-vestibular, extensão e supletivo modular ficam fora; cadastro e recadastro anuais.",
+   "desde": "2021-09-14",
+   "base_legal": "Decreto municipal nº 9.101, de 13/09/2021 (DOM de 14/09/2021); Portaria DMTT nº 507, de 14/09/2021; Portaria DMTT nº 214, de 30/11/2022; Lei Municipal nº 2.390/1977, alterada pela Lei nº 4.781/1998",
+   "fonte_url": "https://vamumobilidade.com.br/cartao-escolar/",
+   "confianca": "B",
+   "verificado_em": "2026-11-05"
+  },
+  {
+   "uf": "AL",
+   "municipio": "Maceió",
+   "cod_ibge": "2704302",
    "tipo": "idoso",
-   "regra": "65 anos ou mais, de qualquer município (decreto de 25/03/2026)",
+   "regra": "65 anos ou mais, gratuito nos ônibus de Maceió, de qualquer município desde o decreto de 25/03/2026, com o cartão Vamu Sênior (cadastro com RG, CPF, comprovante de residência, foto 3x4 e biometria; recadastro no aniversário).",
    "desde": "2026-03-25",
-   "base_legal": null,
+   "base_legal": "decreto municipal de 25/03/2026; Lei Federal nº 10.741/2003 (Estatuto da Pessoa Idosa), art. 39; Portaria DMTT nº 046, de 16/03/2018 (uso do cartão)",
    "fonte_url": "https://diariodotransporte.com.br/2026/03/26/prefeito-de-maceio-al-assina-decreto-que-garante-gratuidade-no-transporte-coletivo-para-pessoas-com-65-anos-ou-mais/",
    "confianca": "B",
-   "verificado_em": "2026-10-17"
+   "verificado_em": "2026-11-05"
   },
   {
    "uf": "AL",
@@ -51,24 +87,60 @@
    "municipio": "Manaus",
    "cod_ibge": "1302603",
    "tipo": "estudante",
-   "regra": "passe livre no ensino regular público para quem mora a mais de 1 km da escola; meia de R$ 2,50 nos demais",
+   "regra": "Passe livre para estudantes da educação infantil e do ensino fundamental da rede pública municipal que morem a mais de 1 km da escola: até 44 passagens por mês, proporcionais aos dias letivos e não cumulativas, com o cartão PassaFácil Estudantil; esgotada a cota, até 16 passagens a mais pelo valor da meia passagem",
+   "desde": "2025-08-01",
+   "base_legal": "Lei Municipal 3.526/2025 (10/07/2025, DOM 6108), arts. 1º a 4º",
+   "fonte_url": "https://sapl.cmm.am.gov.br/media/sapl/public/normajuridica/2025/8023/lei_n_3526_de_10_jul_2025.pdf",
+   "confianca": "A",
+   "verificado_em": "2026-11-05"
+  },
+  {
+   "uf": "AM",
+   "municipio": "Manaus",
+   "cod_ibge": "1302603",
+   "tipo": "estudante",
+   "regra": "Passe livre para alunos do ensino fundamental e médio da rede pública estadual que morem a mais de 1 km da escola, nos moldes do antigo convênio (até 44 passagens por mês), mantido por decisão judicial: o Estado compra a meia passagem de R$ 2,50 de cada viagem",
+   "desde": "2025-06-18",
+   "base_legal": "Ação Civil Pública 0166280-09.2025.8.04.1000 (2ª Vara da Fazenda Pública de Manaus, liminar de junho de 2025, mantida pelo STF em agosto de 2025); Decreto 5.239/2022 (27/01/2022), regras do convênio encerrado em 18/05/2025",
+   "fonte_url": "https://www.tjam.jus.br/index.php/menu/sala-de-imprensa/14500-sinetram-e-immu-deverao-fazer-venda-direta-de-meia-passagem-estudantil-ao-estado-por-r-2-50",
+   "confianca": "A",
+   "verificado_em": "2026-11-05"
+  },
+  {
+   "uf": "AM",
+   "municipio": "Manaus",
+   "cod_ibge": "1302603",
+   "tipo": "estudante",
+   "regra": "Meia passagem de R$ 2,50 para estudantes de escola particular, do ensino superior e de cursos cadastrados, e para os da rede pública que moram a até 1 km da escola, com o cartão PassaFácil Estudantil e recadastro anual aprovado",
    "desde": null,
    "base_legal": null,
    "fonte_url": "https://www.sinetram.com.br/p/duvidas-frequentes",
    "confianca": "B",
-   "verificado_em": "2026-10-17"
+   "verificado_em": "2026-11-05"
+  },
+  {
+   "uf": "AM",
+   "municipio": "Manaus",
+   "cod_ibge": "1302603",
+   "tipo": "idoso",
+   "regra": "60 anos ou mais, gratuito no ônibus urbano, só com a carteira de identidade ou com o cartão PassaFácil 60+ (opcional, emitido com RG e CPF nos postos do Sinetram)",
+   "desde": null,
+   "base_legal": "Lei Orgânica do Município de Manaus, art. 261, II (redação da Emenda à Loman 88/2015); Decreto 1.128/2011 (29/07/2011), art. 2º, I; Lei federal 10.741/2003, art. 39",
+   "fonte_url": "https://www.manaus.am.gov.br/noticia/noticia-transporte/prefeitura-cartaopassafacil-opcionalidosos/",
+   "confianca": "A",
+   "verificado_em": "2026-11-05"
   },
   {
    "uf": "AP",
    "municipio": "Macapá",
    "cod_ibge": "1600303",
    "tipo": "estudante",
-   "regra": "Meia passagem para estudantes cadastrados na bilhetagem eletrônica da CTMac, com recadastramento anual e captura de biometria (em 2026, R$ 10,00 o recadastro e R$ 20,00 o cadastro novo)",
+   "regra": "Meia passagem para estudantes do ensino fundamental, médio, profissionalizante, graduação e pós-graduação, com o Cartão Estudantil da bilhetagem da CTMac e recadastramento anual com biometria (em 2026, R$ 10,00 o recadastro e R$ 20,00 o cadastro novo, com declaração escolar, documento com foto e comprovante de endereço)",
    "desde": null,
    "base_legal": null,
    "fonte_url": "https://agencia.macapa.ap.gov.br/recadastramento-da-meia-passagem-estudantil-inicia-nesta-quinta-feira-15/",
    "confianca": "B",
-   "verificado_em": "2026-10-18"
+   "verificado_em": "2026-11-05"
   },
   {
    "uf": "AP",
@@ -314,13 +386,25 @@
    "uf": "BA",
    "municipio": "Salvador",
    "cod_ibge": "2927408",
+   "tipo": "estudante",
+   "regra": "Meia passagem (50%) o ano todo, nos ônibus convencionais e no STEC, para alunos de 5 a 64 anos do ensino fundamental, médio, superior, mestrado e doutorado, de escolas públicas e privadas cadastradas no SalvadorCard, com frequência regular, com o cartão de Meia Passagem Estudantil (cadastro de 01/02 a 31/10 e revalidação anual).",
+   "desde": "2003-09-04",
+   "base_legal": "Lei Municipal nº 5.699, de 10/02/2000 (DOM de 11/02/2000), alterada pela Lei nº 6.324, de 04/09/2003; Decreto nº 11.228, de 16/01/1996 (regulamento); Decreto nº 16.371, de 09/03/2006 (cartão SalvadorCard)",
+   "fonte_url": "https://www.salvadorcard.com.br/produtos/meia-passagem/o-que-e/",
+   "confianca": "B",
+   "verificado_em": "2026-11-05"
+  },
+  {
+   "uf": "BA",
+   "municipio": "Salvador",
+   "cod_ibge": "2927408",
    "tipo": "idoso",
-   "regra": "65 anos ou mais; estudante paga 50%",
-   "desde": null,
-   "base_legal": null,
+   "regra": "65 anos ou mais, gratuito nos ônibus do sistema de Salvador, exceto os seletivos, com a carteira de identidade original, embarcando pela porta de desembarque.",
+   "desde": "2007-01-16",
+   "base_legal": "Lei Municipal nº 7.201/2007 (DOM de 16/01/2007), art. 1º; Lei Federal nº 10.741/2003 (Estatuto da Pessoa Idosa), art. 39",
    "fonte_url": "https://www.salvadorcard.com.br/produtos/vale-transporte-especial/beneficiarios/",
    "confianca": "B",
-   "verificado_em": "2026-10-17"
+   "verificado_em": "2026-11-05"
   },
   {
    "uf": "BA",
@@ -507,12 +591,12 @@
    "municipio": "Fortaleza",
    "cod_ibge": "2304400",
    "tipo": "idoso",
-   "regra": "65 anos ou mais (Cartão do Idoso)",
+   "regra": "65 anos ou mais, gratuito no ônibus de Fortaleza com o Cartão Gratuidade da Pessoa Idosa da Etufor (pedido com agendamento no site da Etufor, na sede ou em 8 postos descentralizados, com RG original, CPF e comprovante de residência); o cartão não dá direito a acompanhante",
    "desde": null,
-   "base_legal": null,
-   "fonte_url": "https://catalogodeservicos.fortaleza.ce.gov.br/categoria/mobilidade/servico/73",
-   "confianca": "B",
-   "verificado_em": "2026-10-17"
+   "base_legal": "Lei federal nº 10.741/2003, art. 39, e Constituição Federal, art. 230 (citado pela prefeitura)",
+   "fonte_url": "https://www.fortaleza.ce.gov.br/noticias/atendimento-para-idosos-e-pessoas-com-deficiencia-e-ofertado-na-nova-sede-da-etufor",
+   "confianca": "A",
+   "verificado_em": "2026-11-05"
   },
   {
    "uf": "CE",
@@ -579,24 +663,24 @@
    "municipio": "Brasília",
    "cod_ibge": "5300108",
    "tipo": "estudante",
-   "regra": "Passe Livre Estudantil, 100% gratuito, até 8 acessos por dia",
+   "regra": "Passe Livre Estudantil: gratuito, pago pelo Distrito Federal, para estudantes do ensino fundamental, médio e superior e de cursos técnicos de 200 horas-aula ou mais que moram ou trabalham a mais de 1 km da escola, com o cartão +Estudante do BRB Mobilidade; 54 acessos por mês (mais, a pedido, a cada semestre), até 8 por dia, só em dia de aula, no ônibus, no BRT e no metrô.",
    "desde": null,
-   "base_legal": null,
+   "base_legal": "Lei distrital nº 4.462, de 13/01/2010 (art. 4º com o limite de 54 viagens por mês, revigorado pela ADI 12637-2); Portaria Semob nº 131, de 12/05/2025 (DODF nº 98, de 28/05/2025), arts. 2º, I, e 3º, § 6º",
    "fonte_url": "https://www.semob.df.gov.br/perguntas-frequentes-da-semob",
    "confianca": "B",
-   "verificado_em": "2026-10-17"
+   "verificado_em": "2026-11-05"
   },
   {
    "uf": "DF",
    "municipio": "Brasília",
    "cod_ibge": "5300108",
    "tipo": "idoso",
-   "regra": "60 anos ou mais (Portaria Semob 131/2025; Lei distrital 7.298/2023)",
+   "regra": "60 anos ou mais, gratuito no ônibus do STPC/DF e no metrô, só com o documento oficial com foto, com entrada por qualquer porta; o Cartão Sênior do BRB Mobilidade é opcional e tem limite de 8 acessos por dia.",
    "desde": "2023-07-25",
-   "base_legal": "Lei distrital 7.298/2023",
-   "fonte_url": "https://www.sinj.df.gov.br/sinj/Norma/e0d2f04ef62241efb0a9596397e3e2c1/Portaria_131_12_05_2025.html",
-   "confianca": "B",
-   "verificado_em": "2026-10-17"
+   "base_legal": "Lei distrital nº 7.298, de 24/07/2023 (DODF nº 139, de 25/07/2023), que alterou a Lei distrital nº 2.250, de 31/12/1998; Portaria Semob nº 131, de 12/05/2025 (DODF nº 98, de 28/05/2025), art. 2º, IV; Lei federal nº 10.741/2003, art. 39",
+   "fonte_url": "https://www.agenciabrasilia.df.gov.br/w/lei-garante-gratuidade-no-transporte-publico-para-quem-tem-mais-de-60-anos",
+   "confianca": "A",
+   "verificado_em": "2026-11-05"
   },
   {
    "uf": "DF",
@@ -819,12 +903,48 @@
    "municipio": "Vitória",
    "cod_ibge": "3205309",
    "tipo": "estudante",
-   "regra": "ensino médio público, morando a mais de 1 km da escola: 2 passagens grátis por dia; demais estudantes pagam 50%",
-   "desde": null,
-   "base_legal": null,
+   "regra": "Meia passagem (50% da tarifa) no Transcol para estudantes do ensino fundamental, médio, técnico, pré-vestibular, superior e pós-graduação, da rede pública ou particular, que não têm a gratuidade, com o CartãoGV Escolar e cadastro anual; até 50 tarifas por mês no fundamental e no médio e 100 no técnico e no superior.",
+   "desde": "1987-07-18",
+   "base_legal": "Lei estadual nº 3.939, de 18/07/1987, arts. 1º e 2º",
+   "fonte_url": "https://ceturb.es.gov.br/Media/ceturb/Importacao/Arquivos/Generico/Lei%20Estadual%203939.pdf",
+   "confianca": "A",
+   "verificado_em": "2026-11-05"
+  },
+  {
+   "uf": "ES",
+   "municipio": "Vitória",
+   "cod_ibge": "3205309",
+   "tipo": "estudante",
+   "regra": "Gratuito para alunos do ensino médio das escolas públicas estaduais e federais que moram a mais de 1 km da escola, com o CartãoGV Escolar Gratuito: 2 passagens por dia, de segunda a sexta, só nas linhas entre a casa e a escola, sem fins de semana, feriados e férias. Quem opta pela gratuidade perde a meia passagem.",
+   "desde": "2008-01-01",
+   "base_legal": "Lei Complementar estadual nº 433, de 08/01/2008, art. 5º",
    "fonte_url": "https://cartaogv.com.br/perguntas-frequentes/",
    "confianca": "B",
-   "verificado_em": "2026-10-17"
+   "verificado_em": "2026-11-05"
+  },
+  {
+   "uf": "ES",
+   "municipio": "Vitória",
+   "cod_ibge": "3205309",
+   "tipo": "estudante",
+   "regra": "Gratuito para alunos do ensino técnico e superior da rede pública estadual e federal e bolsistas de programas estaduais e federais, com renda familiar de até 3 salários mínimos (1 filho dependente), 4 (2 filhos) ou 5 (3 ou mais), com o CartãoGV Escolar Gratuito: 2 passagens por dia, de segunda a sexta, só entre a casa e a instituição. Quem opta perde a meia passagem.",
+   "desde": "2012-12-28",
+   "base_legal": "Lei Complementar estadual nº 664, de 27/12/2012 (DOE de 28/12/2012), arts. 3º a 7º; Decreto estadual nº 3.252-R/2013",
+   "fonte_url": "https://cartaogv.com.br/perguntas-frequentes/",
+   "confianca": "B",
+   "verificado_em": "2026-11-05"
+  },
+  {
+   "uf": "ES",
+   "municipio": "Vitória",
+   "cod_ibge": "3205309",
+   "tipo": "idoso",
+   "regra": "65 anos ou mais, gratuito no Transcol, com o cartão de gratuidade do idoso (hoje CartãoGV Idoso), feito com identidade, CPF e comprovante de residência e renovado todo ano no mês do aniversário; sem o cartão, o documento oficial com foto mostrado ao motorista dá a viagem, com desembarque pela porta da frente.",
+   "desde": null,
+   "base_legal": "Norma Complementar Ceturb-GV nº 001/2010, de 12/02/2010; Lei federal nº 10.741/2003 (Estatuto da Pessoa Idosa), art. 39",
+   "fonte_url": "https://ceturb.es.gov.br/Media/ceturb/Importacao/Arquivos/Generico/Norma%20Complementar%200012010.pdf",
+   "confianca": "A",
+   "verificado_em": "2026-11-05"
   },
   {
    "uf": "ES",
@@ -891,24 +1011,36 @@
    "municipio": "Goiânia",
    "cod_ibge": "5208707",
    "tipo": "estudante",
-   "regra": "Passe Livre Estudantil: gratuito, até 48 viagens por mês, redes pública e particular",
+   "regra": "Passe Livre Estudantil do Governo de Goiás: gratuito, até 48 viagens por mês (não cumulativas), só para ir e voltar da escola, para alunos presenciais do fundamental, médio, técnico e superior, das redes pública e particular, que moram na Região Metropolitana; pelo decreto, renda familiar de até 3 salários mínimos. Cadastro anual pelo site juventude.go.gov.br.",
    "desde": null,
-   "base_legal": "Lei estadual 17.685/2012",
-   "fonte_url": "https://www.sitpass.com.br/paravoce/passelivreestudantil",
-   "confianca": "B",
-   "verificado_em": "2026-10-17"
+   "base_legal": "Lei estadual de Goiás nº 17.685, de 29/06/2012 (Diário Oficial do Estado nº 21.376, suplemento, de 29/06/2012); Decreto estadual nº 7.911, de 26/06/2013 (regulamento do PLE, com as alterações dos Decretos nº 8.993/2017 e nº 10.878/2026), arts. 1º, 3º e 4º",
+   "fonte_url": "https://goias.gov.br/social/passe-livre-estudantil-2/",
+   "confianca": "A",
+   "verificado_em": "2026-11-05"
   },
   {
    "uf": "GO",
    "municipio": "Goiânia",
    "cod_ibge": "5208707",
    "tipo": "idoso",
-   "regra": "65 anos ou mais e PcD gratuitos (Decreto estadual 4.253/94)",
+   "regra": "65 anos ou mais, gratuito na Rede Metropolitana de Transportes Coletivos, com o cartão Passe Livre Idoso do Sitpass (cadastro com RG, CPF, comprovante de endereço e foto 3x4), até 8 viagens por dia, sem recarga nem revalidação; o cartão é pessoal, com biometria facial.",
    "desde": null,
-   "base_legal": "Decreto estadual 4.253/1994",
+   "base_legal": "Lei estadual de Goiás nº 12.313, de 28/03/1994, art. 1º; Decreto estadual nº 4.253, de 20/05/1994, art. 4º (idoso: maiores de 65 anos); Lei federal nº 10.741/2003 (Estatuto da Pessoa Idosa), art. 39",
    "fonte_url": "https://www.sitpass.com.br/paravoce/idoso",
    "confianca": "B",
-   "verificado_em": "2026-10-17"
+   "verificado_em": "2026-11-05"
+  },
+  {
+   "uf": "GO",
+   "municipio": "Goiânia",
+   "cod_ibge": "5208707",
+   "tipo": "pcd",
+   "regra": "Pessoa com deficiência, gratuito na Rede Metropolitana de Transportes Coletivos (Decreto estadual 4.253/94)",
+   "desde": null,
+   "base_legal": "Decreto estadual de Goiás nº 4.253, de 20/05/1994",
+   "fonte_url": "https://www.sitpass.com.br/paravoce/idoso",
+   "confianca": "B",
+   "verificado_em": "2026-11-05"
   },
   {
    "uf": "GO",
@@ -1023,24 +1155,36 @@
    "municipio": "São Luís",
    "cod_ibge": "2111300",
    "tipo": "estudante",
-   "regra": "meia passagem para estudantes do ensino fundamental ao superior, técnicos, pré-vestibulares, EJA e seminários, matriculados e frequentando instituição com sede em São Luís cadastrada no Sistema de Meia Passagem da SMTT; usa o Cartão de Meia Passagem (gratuito) ou o Cartão Estudantil",
+   "regra": "Meia passagem para estudantes do ensino fundamental ao superior, técnicos, profissionalizantes, pré-vestibulares, EJA, faculdades teológicas e seminários, matriculados e frequentando instituição com sede em São Luís cadastrada no Sistema de Meia Passagem da SMTT; usa o Cartão de Meia Passagem (gratuito, com documento com foto) ou o Cartão Estudantil",
    "desde": null,
    "base_legal": "Lei Municipal nº 4.305/2004, art. 1º",
    "fonte_url": "https://www.saoluis.ma.gov.br/cartao-de-bilhetagem-eletronica---smtt/0/",
    "confianca": "A",
-   "verificado_em": "2026-10-18"
+   "verificado_em": "2026-11-05"
   },
   {
    "uf": "MA",
    "municipio": "São Luís",
    "cod_ibge": "2111300",
    "tipo": "idoso",
-   "regra": "Cartão de Gratuidade da SMTT para idoso de 60 a 64 anos, idoso com 65 anos ou mais e aposentado do Estado ou do Município (cartão válido por 3 anos); para 60 a 64 anos a SMTT pede carteira de trabalho e certidão negativa do INSS do beneficiário e do cônjuge. Não vale no transporte intermunicipal nem em ônibus executivos, micro-ônibus ou vans. A 2ª via custa R$ 16,80, com isenção só para quem tem mais de 65 anos",
-   "desde": null,
-   "base_legal": "não citada na página",
+   "regra": "65 anos ou mais, gratuito no ônibus urbano de São Luís, com o Cartão de Gratuidade da SMTT (cadastro com comprovante de residência em São Luís, RG e CPF; cartão válido por 3 anos; 2ª via isenta). Não vale no transporte intermunicipal nem em ônibus executivos, micro-ônibus ou vans",
+   "desde": "2004-03-01",
+   "base_legal": "Lei Municipal nº 4.328, de 01/03/2004 (regulamenta os arts. 214 e 215 da Lei Orgânica e assegura a gratuidade às pessoas maiores de 65 anos), alterada pela Lei nº 7.649, de 23/05/2024 (DOM São Luís nº 696, de 04/06/2024, p. 42 e 43); Lei federal nº 10.741/2003, art. 39",
    "fonte_url": "https://www.saoluis.ma.gov.br/cartao-de-bilhetagem-eletronica---smtt/0/",
    "confianca": "A",
-   "verificado_em": "2026-10-18"
+   "verificado_em": "2026-11-05"
+  },
+  {
+   "uf": "MA",
+   "municipio": "São Luís",
+   "cod_ibge": "2111300",
+   "tipo": "idoso",
+   "regra": "60 a 64 anos, gratuito com o Cartão de Gratuidade da SMTT (válido por 3 anos), com carteira de trabalho e certidão negativa do INSS do beneficiário e do cônjuge, além de residência em São Luís, RG e CPF; a 2ª via custa R$ 16,80. O mesmo cartão atende o aposentado do Estado ou do Município",
+   "desde": null,
+   "base_legal": null,
+   "fonte_url": "https://www.saoluis.ma.gov.br/cartao-de-bilhetagem-eletronica---smtt/0/",
+   "confianca": "B",
+   "verificado_em": "2026-11-05"
   },
   {
    "uf": "MA",
@@ -1154,13 +1298,25 @@
    "uf": "MG",
    "municipio": "Belo Horizonte",
    "cod_ibge": "3106200",
+   "tipo": "estudante",
+   "regra": "Passe Livre Estudantil: gratuito (100% da tarifa) no ônibus municipal, só nas viagens de ida e volta entre a casa e a escola em dia letivo, para estudantes do ensino médio e da EJA matriculados em escola de BH que morem a mais de 1 km dela, com preferência a famílias em programas sociais; cartão BHBUS Benefício Estudantil e cadastro anual no site passeestudantil.pbh.gov.br.",
+   "desde": "2023-08-07",
+   "base_legal": "Lei municipal nº 10.106, de 21/02/2011; Decreto nº 14.295, de 02/03/2011, alterado pelo Decreto nº 18.404, de 07/08/2023 (benefício passou a 100% da tarifa)",
+   "fonte_url": "https://prefeitura.pbh.gov.br/direitos-humanos/programas-e-projetos/passe-estudantil",
+   "confianca": "A",
+   "verificado_em": "2026-11-05"
+  },
+  {
+   "uf": "MG",
+   "municipio": "Belo Horizonte",
+   "cod_ibge": "3106200",
    "tipo": "idoso",
-   "regra": "65 anos ou mais (BHBUS Master)",
+   "regra": "65 anos ou mais, gratuito no ônibus municipal (SUMOB), com o Cartão BHBUS Master, emitido na hora no posto do Transfácil no BH Resolve com identidade, CPF e comprovante de endereço; sem o cartão, um documento que comprove a idade dá a gratuidade, mas sem passar pela roleta. O cartão vale só em Belo Horizonte.",
    "desde": null,
-   "base_legal": null,
-   "fonte_url": "https://www.transfacil.com.br/para-empresas",
-   "confianca": "B",
-   "verificado_em": "2026-10-17"
+   "base_legal": "Lei federal nº 10.741/2003 (Estatuto da Pessoa Idosa), art. 39",
+   "fonte_url": "https://prefeitura.pbh.gov.br/sumob/onibus/gratuidades-e-beneficios",
+   "confianca": "A",
+   "verificado_em": "2026-11-05"
   },
   {
    "uf": "MG",
@@ -2126,13 +2282,25 @@
    "uf": "MS",
    "municipio": "Campo Grande",
    "cod_ibge": "5002704",
-   "tipo": "idoso",
-   "regra": "65 anos ou mais; passe do estudante com até 2 viagens por dia",
+   "tipo": "estudante",
+   "regra": "Passe do Estudante gratuito para alunos do 1º, 2º e 3º graus das redes pública e particular que moram a 2.000 metros ou mais da escola, com até 2 viagens por dia (casa e escola), em até 6 linhas cadastradas e só para ir e voltar da escola; cadastro digital anual com o CPF do aluno, confirmado pela escola, e 1ª via do cartão ao preço de 3 tarifas.",
    "desde": null,
-   "base_legal": null,
+   "base_legal": "Lei municipal nº 3.026/1993 (passe do estudante; número achado em notícia, texto não aberto); Decretos municipais nº 8.284, de 31/08/2001, nº 11.141, de 17/03/2010, e nº 12.779, de 18/12/2015 (regras de uso, citados pelo Consórcio Guaicurus)",
    "fonte_url": "https://www.consorcioguaicurus.com.br/servico/gratuidades/",
    "confianca": "B",
-   "verificado_em": "2026-10-17"
+   "verificado_em": "2026-11-05"
+  },
+  {
+   "uf": "MS",
+   "municipio": "Campo Grande",
+   "cod_ibge": "5002704",
+   "tipo": "idoso",
+   "regra": "65 anos ou mais, gratuito no transporte coletivo urbano, com o cartão do idoso feito na Central de Atendimento do Consórcio Guaicurus com documento de identidade original, CPF e comprovante de residência; o cartão é pessoal e o validador confere o rosto (reconhecimento facial).",
+   "desde": null,
+   "base_legal": "Lei federal nº 10.741/2003 (Estatuto da Pessoa Idosa), art. 39 (citada pelo Consórcio Guaicurus); Decreto municipal nº 12.779, de 18/12/2015, art. 2º (identificação facial)",
+   "fonte_url": "https://www.consorcioguaicurus.com.br/servico/gratuidades/",
+   "confianca": "B",
+   "verificado_em": "2026-11-05"
   },
   {
    "uf": "MS",
@@ -2450,6 +2618,30 @@
    "uf": "PA",
    "municipio": "Belém",
    "cod_ibge": "1501402",
+   "tipo": "estudante",
+   "regra": "Meia passagem para estudantes matriculados em instituição de ensino credenciada no sistema Passe Fácil, que informa os alunos todo ano, com o cartão Passe Fácil Estudantil (1ª via com agendamento, documento com foto, comprovante de residência e foto 3x4; taxa só a partir da 3ª via)",
+   "desde": null,
+   "base_legal": null,
+   "fonte_url": "https://prefeitura.belem.pa.gov.br/servicos/passe-facil-estudantil/",
+   "confianca": "B",
+   "verificado_em": "2026-11-05"
+  },
+  {
+   "uf": "PA",
+   "municipio": "Belém",
+   "cod_ibge": "1501402",
+   "tipo": "idoso",
+   "regra": "60 anos ou mais, morador de Belém, gratuito com o cartão Passe Sênior (Passe Fácil), no ônibus comum e no BRT (menos as linhas especiais); 1ª via sem custo, com documento com foto, comprovante de residência em Belém e foto 3x4",
+   "desde": null,
+   "base_legal": null,
+   "fonte_url": "https://prefeitura.belem.pa.gov.br/servicos/passe-senior/",
+   "confianca": "B",
+   "verificado_em": "2026-11-05"
+  },
+  {
+   "uf": "PA",
+   "municipio": "Belém",
+   "cod_ibge": "1501402",
    "tipo": "tarifa_zero_temporal",
    "regra": "domingos e feriados grátis para todos",
    "desde": "2025-04-13",
@@ -2675,6 +2867,42 @@
    "verificado_em": "2026-10-17"
   },
   {
+   "uf": "PB",
+   "municipio": "João Pessoa",
+   "cod_ibge": "2507507",
+   "tipo": "estudante",
+   "regra": "Meia passagem (50%) no ônibus municipal para estudantes de todos os níveis de ensino, com a identidade estudantil; o Sintur-JP emite o cartão NuBus Estudantil a partir de 7 anos (carteira de estudante, RG, CPF e comprovante de residência; recarga mínima de R$ 10,00), atualizado pela escola todo ano (ensino médio) ou todo semestre (universitários)",
+   "desde": null,
+   "base_legal": "Lei Municipal nº 385, de 25/08/1961, art. 1º",
+   "fonte_url": "http://sapl.joaopessoa.pb.leg.br/media/sapl/public/normajuridica/1961/8608/8608_texto_integral.pdf",
+   "confianca": "A",
+   "verificado_em": "2026-11-05"
+  },
+  {
+   "uf": "PB",
+   "municipio": "João Pessoa",
+   "cod_ibge": "2507507",
+   "tipo": "estudante",
+   "regra": "Passe Livre Estudantil do Estado: gratuidade integral no ônibus urbano para alunos da rede estadual do 9º ano do ensino fundamental, do ensino médio e dos ciclos V e VI da EJA, de escolas em João Pessoa, com frequência de 90% ou mais; até 44 passagens por mês, ligadas ao calendário escolar, suspensas nas férias e no recesso; cartão emitido pelo Sintur-JP (1ª via grátis)",
+   "desde": "2025-03-20",
+   "base_legal": "Lei Estadual da Paraíba nº 13.645, de 30/04/2025 (conversão da Medida Provisória nº 342, de 18/03/2025), arts. 1º, 2º, 5º e 6º",
+   "fonte_url": "https://sapl3.al.pb.leg.br/media/sapl/public/normajuridica/2025/17625/lei_13.645.pdf",
+   "confianca": "A",
+   "verificado_em": "2026-11-05"
+  },
+  {
+   "uf": "PB",
+   "municipio": "João Pessoa",
+   "cod_ibge": "2507507",
+   "tipo": "idoso",
+   "regra": "Mais de 65 anos, gratuito no ônibus municipal de João Pessoa, mostrando só um documento pessoal de identificação; a Semob-JP e o Sintur-JP também emitem o cartão de gratuidade do idoso (Passe Legal Gratuidade Idoso, hoje NuBus), com RG ou CNH, CPF e comprovante de residência em João Pessoa",
+   "desde": null,
+   "base_legal": "Lei Municipal nº 6.408, de 13/07/1990 (placas nos ônibus sobre o passe livre de quem tem mais de 65 anos, com documento pessoal); Lei federal nº 10.741/2003, art. 39",
+   "fonte_url": "http://sapl.joaopessoa.pb.leg.br/media/sapl/public/normajuridica/1990/3461/lei_no_6408_de_13_de_julho_de_1990.pdf",
+   "confianca": "A",
+   "verificado_em": "2026-11-05"
+  },
+  {
    "uf": "PE",
    "municipio": "Arcoverde",
    "cod_ibge": "2601201",
@@ -2771,16 +2999,64 @@
    "verificado_em": "2026-10-19"
   },
   {
+   "uf": "PE",
+   "municipio": "Recife",
+   "cod_ibge": "2611606",
+   "tipo": "estudante",
+   "regra": "Meia passagem (50%) para estudantes que morem na Região Metropolitana do Recife, do ensino fundamental, médio (redes pública e privada), técnico, EJA, pré-vestibular e superior, com a Carteira de Identificação Estudantil válida (a de 2026 vale até 31/03/2027) e créditos no cartão VEM Estudante, com limite de créditos e pedido de aumento a cada semestre.",
+   "desde": null,
+   "base_legal": "Lei Estadual de Pernambuco nº 11.519, de 05/01/1998, art. 3º, II e §§ 1º a 3º (redação da Lei nº 13.493, de 01/07/2008, e da Lei nº 13.953, de 11/12/2009), em cumprimento à Lei Estadual nº 5.703/1965; Decreto nº 32.158, de 31/07/2008 (pré-vestibular)",
+   "fonte_url": "https://www.granderecife.pe.gov.br/servicos/carteira-de-identificacao-estudantil/",
+   "confianca": "A",
+   "verificado_em": "2026-11-05"
+  },
+  {
+   "uf": "PE",
+   "municipio": "Recife",
+   "cod_ibge": "2611606",
+   "tipo": "estudante",
+   "regra": "Passe Livre Estudantil: gratuito para alunos do ensino fundamental, médio e técnico da rede pública estadual e cotistas da UPE que morem e estudem na Região Metropolitana, com o cartão VEM Passe Livre, até 44 viagens por mês (2 por dia, de segunda a sexta, no período letivo; 8 por mês no EAD).",
+   "desde": "2015-07-15",
+   "base_legal": "Lei Estadual nº 15.554, de 15/07/2015 (alterada pela Lei nº 16.240, de 14/12/2017), regulamentada pelo Decreto nº 44.107, de 16/02/2017 (alterado pelo Decreto nº 45.934, de 26/05/2018)",
+   "fonte_url": "https://www.granderecife.pe.gov.br/servicos/bilhetagem-eletronica/vem-passe-livre/",
+   "confianca": "A",
+   "verificado_em": "2026-11-05"
+  },
+  {
+   "uf": "PE",
+   "municipio": "Recife",
+   "cod_ibge": "2611606",
+   "tipo": "idoso",
+   "regra": "65 anos ou mais, gratuito no sistema do Grande Recife (VEM). O cartão VEM Idoso, pessoal e intransferível, libera a catraca; o pedido é pelo site ou app Cartão VEM, com documento com foto, CPF e foto 3x4.",
+   "desde": null,
+   "base_legal": "Lei Estadual de Pernambuco nº 11.519, de 05/01/1998, art. 3º, I (maiores de 65 anos; redação da Lei nº 13.493, de 01/07/2008); Lei Federal nº 10.741/2003 (Estatuto da Pessoa Idosa), art. 39",
+   "fonte_url": "https://www.granderecife.pe.gov.br/servicos/bilhetagem-eletronica/vem-idoso/",
+   "confianca": "A",
+   "verificado_em": "2026-11-05"
+  },
+  {
+   "uf": "PI",
+   "municipio": "Teresina",
+   "cod_ibge": "2211001",
+   "tipo": "estudante",
+   "regra": "Passagem estudantil de R$ 1,35 no ônibus urbano (a inteira é R$ 4,00), com o cartão Mais Fácil Estudantil, para estudantes matriculados em escolas de Teresina reconhecidas pelos órgãos do sistema de ensino",
+   "desde": "2020-02-03",
+   "base_legal": "Decreto nº 19.414, de 31/01/2020, art. 2º (DOM Teresina nº 2.700, de 31/01/2020, p. 1), com base na Lei Municipal nº 1.880, de 13/04/1987 (abatimento aos estudantes)",
+   "fonte_url": "https://dom.pmt.pi.gov.br/admin/upload/DOM2700-31012020-ASSINADO.pdf",
+   "confianca": "A",
+   "verificado_em": "2026-11-05"
+  },
+  {
    "uf": "PI",
    "municipio": "Teresina",
    "cod_ibge": "2211001",
    "tipo": "idoso",
-   "regra": "gratuidade para quem tem 65 anos ou mais, com o Cartão Mais Fácil Melhor Idade",
+   "regra": "65 anos ou mais, gratuito no ônibus urbano de Teresina, com o cartão Mais Fácil Melhor Idade",
    "desde": null,
-   "base_legal": "Lei Municipal nº 1.157/1988, citada pelo Setut",
+   "base_legal": "Lei Municipal nº 1.157/1988, citada pela operadora (Setut / Mais Fácil); Lei federal nº 10.741/2003, art. 39",
    "fonte_url": "https://www.maisfacilteresina.com.br/",
    "confianca": "B",
-   "verificado_em": "2026-10-18"
+   "verificado_em": "2026-11-05"
   },
   {
    "uf": "PI",
@@ -3026,13 +3302,25 @@
    "uf": "PR",
    "municipio": "Curitiba",
    "cod_ibge": "4106902",
+   "tipo": "estudante",
+   "regra": "Meia passagem (50%, R$ 3,00) para alunos do fundamental, médio, técnico e superior que moram e estudam em Curitiba, a mais de 10 quadras da escola, com renda familiar de até 3 salários mínimos (4 com 2 filhos no passe, 5 com 3 ou mais); 2 passagens por dia letivo, até 400 por ano, com o Cartão Transporte Estudante e cadastro anual na URBS.",
+   "desde": "2019-01-29",
+   "base_legal": "Decreto municipal nº 37, de 14/01/2019 (Diário Oficial de Curitiba nº 20, de 29/01/2019), que regulamenta o art. 19, parágrafo único, da Lei municipal nº 7.556, de 17/10/1990, com as Leis municipais nº 8.454/1994 e nº 10.000, de 24/10/2000",
+   "fonte_url": "https://legisladocexterno.curitiba.pr.gov.br/VisualizarHTML.aspx?id=276869",
+   "confianca": "A",
+   "verificado_em": "2026-11-05"
+  },
+  {
+   "uf": "PR",
+   "municipio": "Curitiba",
+   "cod_ibge": "4106902",
    "tipo": "idoso",
-   "regra": "65 anos ou mais; até 5 anos não paga; estudante paga 50%",
+   "regra": "65 anos ou mais, gratuito em toda a Rede Integrada de Transporte, com o Cartão Transporte Isento, feito na URBS com documento com foto, CPF e comprovante de residência (foto tirada no posto); desde o Ato URBS 070/2023 a pessoa idosa não precisa mais fazer a prova de vida.",
    "desde": null,
-   "base_legal": null,
+   "base_legal": "Lei federal nº 10.741/2003 (Estatuto da Pessoa Idosa), art. 39; Decreto municipal nº 210, de 23/04/1991, art. 26, IV (citado pela URBS); Ato URBS nº 070/2023 (fim da prova de vida)",
    "fonte_url": "https://www.urbs.curitiba.pr.gov.br/portal/cartao-transporte/",
    "confianca": "B",
-   "verificado_em": "2026-10-17"
+   "verificado_em": "2026-11-05"
   },
   {
    "uf": "PR",
@@ -3924,6 +4212,42 @@
   },
   {
    "uf": "RJ",
+   "municipio": "Rio de Janeiro",
+   "cod_ibge": "3304557",
+   "tipo": "estudante",
+   "regra": "Gratuito para alunos do ensino fundamental e médio da rede pública (municipal, estadual e federal), com o Cartão Jaé, até 76 viagens por mês no transporte municipal (ônibus, BRT, VLT e vans), sem acumular o que sobra. Não vale no metrô nem no trem, que têm cartão próprio para o aluno da rede pública.",
+   "desde": null,
+   "base_legal": "Lei municipal nº 3.167, de 27/12/2000 (regulamenta o art. 401 da Lei Orgânica)",
+   "fonte_url": "https://carioca.rio/servicos/informacoes-sobre-gratuidade-em-onibus",
+   "confianca": "B",
+   "verificado_em": "2026-11-05"
+  },
+  {
+   "uf": "RJ",
+   "municipio": "Rio de Janeiro",
+   "cod_ibge": "3304557",
+   "tipo": "estudante",
+   "regra": "Passe Livre Universitário: gratuito para universitários bolsistas do ProUni, cotistas e com renda familiar de até 1 salário mínimo por pessoa, com o Cartão Jaé, até 76 viagens por mês no transporte municipal (ônibus, BRT, VLT e vans); o benefício vale 1 ano ou até o fim do curso.",
+   "desde": null,
+   "base_legal": "Decreto Rio nº 38.280, de 29/01/2014 (institui o Passe Livre Universitário); Resolução SMTR nº 3.204, de 28/11/2019; Lei municipal nº 6.833, de 16/12/2020",
+   "fonte_url": "https://carioca.rio/servicos/informacoes-sobre-gratuidade-em-onibus",
+   "confianca": "B",
+   "verificado_em": "2026-11-05"
+  },
+  {
+   "uf": "RJ",
+   "municipio": "Rio de Janeiro",
+   "cod_ibge": "3304557",
+   "tipo": "idoso",
+   "regra": "65 anos ou mais, gratuito e sem limite de viagens no transporte municipal (ônibus, BRT, VLT e vans), com o Cartão Jaé Gratuidade, pedido pelo app Jaé com CPF, identidade e comprovante de residência, ou só com o documento de identidade. No metrô e no trem vale a regra estadual, também a partir de 65 anos, com o cartão de gratuidade do MetrôRio no metrô.",
+   "desde": null,
+   "base_legal": "Lei municipal nº 3.167, de 27/12/2000 (regulamenta o art. 401 da Lei Orgânica); Resolução SMTR nº 3.781, de 04/12/2024 (cartão Jaé); Lei federal nº 10.741/2003, art. 39",
+   "fonte_url": "https://carioca.rio/servicos/informacoes-sobre-gratuidade-em-onibus",
+   "confianca": "B",
+   "verificado_em": "2026-11-05"
+  },
+  {
+   "uf": "RJ",
    "municipio": "Santo Antônio de Pádua",
    "cod_ibge": "3304706",
    "tipo": "idoso",
@@ -4118,6 +4442,42 @@
    "uf": "RN",
    "municipio": "Natal",
    "cod_ibge": "2408102",
+   "tipo": "estudante",
+   "regra": "Meia-tarifa (50% da tarifa pública) para estudantes com frequência de 75% em escolas públicas ou privadas sediadas em Natal: fundamental, médio, superior, pós-graduação, técnico, pré-vestibular ou ENEM e cursos de línguas (6 meses ou mais, 3 aulas presenciais por semana); até 120 passagens por mês; a escola informa o aluno à STTU",
+   "desde": "2026-04-17",
+   "base_legal": "Lei Municipal nº 8.089, de 15/04/2026, arts. 2º, I, 3º e 7º a 9º (DOM Natal nº 6.061, de 17/04/2026, p. 1), em vigor na publicação",
+   "fonte_url": "https://www2.natal.rn.gov.br/_anexos/publicacao/dom/dom_20260417_250415eb1b4cef0bc5ed7c7f9a43aaa3.pdf",
+   "confianca": "A",
+   "verificado_em": "2026-11-05"
+  },
+  {
+   "uf": "RN",
+   "municipio": "Natal",
+   "cod_ibge": "2408102",
+   "tipo": "estudante",
+   "regra": "Gratuidade para alunos da educação básica das redes públicas municipal e estadual (escolas sediadas em Natal; fora o superior e o só técnico) que moram a mais de 500 m de caminhada da escola e têm 75% de frequência: até 2 passagens por dia, de segunda a sexta em dia letivo, sem férias, dentro das 120 por mês",
+   "desde": "2026-04-17",
+   "base_legal": "Lei Municipal nº 8.089, de 15/04/2026, arts. 2º, II, e 4º a 6º (DOM Natal nº 6.061, de 17/04/2026, p. 1), em vigor na publicação; alterada pela Lei nº 8.147, de 24/06/2026 (DOM Natal nº 6.119, de 25/06/2026), só no custeio",
+   "fonte_url": "https://www2.natal.rn.gov.br/_anexos/publicacao/dom/dom_20260417_250415eb1b4cef0bc5ed7c7f9a43aaa3.pdf",
+   "confianca": "A",
+   "verificado_em": "2026-11-05"
+  },
+  {
+   "uf": "RN",
+   "municipio": "Natal",
+   "cod_ibge": "2408102",
+   "tipo": "idoso",
+   "regra": "65 anos ou mais, gratuito no ônibus de Natal com o Cartão de Gratuidade do Transporte para Pessoas Idosas da STTU (agendamento pelo 0800 281 4050 ou pela internet; identidade, CPF e comprovante de residência; validade de 1 ano, revalidada na Central do Usuário). Sem o cartão, a pessoa idosa embarca pela porta da frente mostrando a identidade",
+   "desde": null,
+   "base_legal": "Lei federal nº 10.741/2003, art. 39 (citada pelo Guia de Serviços)",
+   "fonte_url": "https://guiadeservicos.natal.rn.gov.br/",
+   "confianca": "A",
+   "verificado_em": "2026-11-05"
+  },
+  {
+   "uf": "RN",
+   "municipio": "Natal",
+   "cod_ibge": "2408102",
    "tipo": "tarifa_zero_temporal",
    "regra": "domingo grátis nas linhas urbanas com o cartão NuBus; feriados a 50%",
    "desde": "2026-04-26",
@@ -4176,6 +4536,30 @@
   },
   {
    "uf": "RO",
+   "municipio": "Porto Velho",
+   "cod_ibge": "1100205",
+   "tipo": "estudante",
+   "regra": "Meia passagem (50% da tarifa) para estudantes do ensino fundamental ao superior, de escola pública ou particular, que morem a 1 km ou mais da escola, com o Cartão Estudante do ComCard e recadastro anual; cota de até 60 passagens por mês",
+   "desde": "2016-01-28",
+   "base_legal": "Lei Municipal 1.406/2000 (05/07/2000), art. 1º, II; Decreto 14.107/2016 (28/01/2016), art. 4º, II, e art. 6º",
+   "fonte_url": "https://www.portovelho.ro.gov.br/uploads/docman/decreto_n_14.107-16_de_28.01.2016.pdf",
+   "confianca": "A",
+   "verificado_em": "2026-11-05"
+  },
+  {
+   "uf": "RO",
+   "municipio": "Porto Velho",
+   "cod_ibge": "1100205",
+   "tipo": "idoso",
+   "regra": "65 anos ou mais, gratuito, com o Cartão Idoso do ComCard (cadastro pelo aplicativo da bilhetagem ou nos postos de atendimento; primeira via sem custo)",
+   "desde": "1997-09-19",
+   "base_legal": "Lei Municipal 1.303/1997 (19/09/1997), art. 2º; Decreto 14.107/2016 (28/01/2016), art. 4º, III, e art. 7º; Lei federal 10.741/2003, art. 39",
+   "fonte_url": "https://semtran.portovelho.ro.gov.br/noticias/transporte-coletivo-saiba-como-emitir-primeira-via-do-comcard",
+   "confianca": "A",
+   "verificado_em": "2026-11-05"
+  },
+  {
+   "uf": "RO",
    "municipio": "Vilhena",
    "cod_ibge": "1100304",
    "tipo": "tarifa_zero_universal",
@@ -4191,24 +4575,24 @@
    "municipio": "Boa Vista",
    "cod_ibge": "1400100",
    "tipo": "estudante",
-   "regra": "passe livre: 2 viagens grátis por dia letivo; da 3ª em diante, 50% (Decreto 02/E/2026)",
+   "regra": "Passe livre de 2 passagens grátis por dia letivo (segunda a sexta) para estudantes da educação básica e do ensino superior, de escola pública ou particular, com o Cartão Boa Vista Card Estudante (cadastro presencial com biometria, renovação semestral, frequência mínima de 50%); da 3ª viagem do dia em diante e aos domingos, feriados e nas férias, 50% da tarifa",
    "desde": "2026-01-28",
-   "base_legal": "LC 026/2025",
+   "base_legal": "Lei Complementar 026/2025 (30/12/2025); Decreto 02/E/2026 (21/01/2026, publicado no DOM 6522 de 28/01/2026), arts. 1º a 4º",
    "fonte_url": "https://publicacoes.boavista.rr.gov.br/storage/10988/f2650a035d49814edc465c9f3b6dfaa6.pdf",
    "confianca": "B",
-   "verificado_em": "2026-10-17"
+   "verificado_em": "2026-11-05"
   },
   {
    "uf": "RR",
    "municipio": "Boa Vista",
    "cod_ibge": "1400100",
    "tipo": "idoso",
-   "regra": "65 anos ou mais, só com documento de identidade com foto (Lei 2.743/2025)",
+   "regra": "65 anos ou mais, gratuito, só com documento oficial de identidade com foto; não se exige cartão próprio",
    "desde": "2025-12-12",
-   "base_legal": "Lei 2.743/2025",
+   "base_legal": "Lei Municipal 2.743/2025 (16/10/2025, publicada no DOM 6492 de 12/12/2025), art. 1º; Lei federal 10.741/2003, art. 39",
    "fonte_url": "https://publicacoes.boavista.rr.gov.br/storage/10533/dcd3c2f0cd657e0029f071143aa5f715.pdf",
    "confianca": "B",
-   "verificado_em": "2026-10-17"
+   "verificado_em": "2026-11-05"
   },
   {
    "uf": "RS",
@@ -4622,13 +5006,25 @@
    "uf": "RS",
    "municipio": "Porto Alegre",
    "cod_ibge": "4314902",
-   "tipo": "idoso",
-   "regra": "65 anos ou mais; estudante com renda per capita até R$ 3.242,46 (Decreto 23.801/2026)",
+   "tipo": "estudante",
+   "regra": "Passagem Escolar (cartão TRI Escolar) para estudante de Porto Alegre inscrito no CadÚnico, conforme a renda familiar per capita: até R$ 2.431,84, gratuito no fundamental, 75% de desconto no médio e técnico e 50% no profissionalizante, superior e preparatório; até R$ 2.837,14, 50%; até R$ 3.242,46, 25%. Não vale aos domingos e feriados.",
    "desde": null,
-   "base_legal": null,
-   "fonte_url": "https://prefeitura.poa.br/node/3994",
+   "base_legal": "Lei municipal nº 12.944, de 30/12/2021, arts. 2º, 4º e 5º; Decreto nº 23.801, de 29/05/2026 (faixas de renda de hoje); Decreto nº 21.406 (cadastro); Resolução EPTC nº 015/2025 (procedimentos)",
+   "fonte_url": "https://prefeitura.poa.br/eptc/passagem-escolar-tri-escolar",
    "confianca": "B",
-   "verificado_em": "2026-10-17"
+   "verificado_em": "2026-11-05"
+  },
+  {
+   "uf": "RS",
+   "municipio": "Porto Alegre",
+   "cod_ibge": "4314902",
+   "tipo": "idoso",
+   "regra": "65 anos ou mais, gratuito nos ônibus municipais, com o documento de identidade ou o cartão TRI do idoso (Passaporte de Isenção do Idoso), sem exigência de renda nem de CadÚnico; o cartão pode ser pedido pelo aplicativo TRI POA ou nos postos de atendimento.",
+   "desde": "2022-03-01",
+   "base_legal": "Lei municipal nº 12.944, de 30/12/2021, art. 2º, IV, a, art. 3º, § 3º, e art. 9º; Lei federal nº 10.741/2003 (Estatuto da Pessoa Idosa), art. 39",
+   "fonte_url": "https://www.camarapoa.rs.gov.br/draco/processos/137202/Lei_12944.pdf",
+   "confianca": "A",
+   "verificado_em": "2026-11-05"
   },
   {
    "uf": "RS",
@@ -5055,24 +5451,24 @@
    "municipio": "Florianópolis",
    "cod_ibge": "4205407",
    "tipo": "estudante",
-   "regra": "Estudante paga R$ 3,10 nas linhas distritais e urbanas e R$ 1,93 nas linhas sociais (cerca de metade das tarifas do Cartão Cidadão); o estudante social não paga, com subsídio regular igual à tarifa técnica de R$ 7,70. O benefício exige Cartão Estudante ou Estudante Social e depende do cadastro prévio da instituição de ensino no Sistema de Bilhetagem Eletrônica.",
-   "desde": null,
-   "base_legal": "Decreto nº 28.860/2025, anexo único (valores de 2026); Decreto nº 28.724/2025 (cadastro das instituições de ensino)",
+   "regra": "Estudante paga R$ 3,10 nas linhas distritais e urbanas e R$ 1,93 nas linhas sociais (cerca de metade da tarifa), com o Cartão Estudante; o estudante social (família com renda de até 3 salários mínimos, cadastrado pela assistência social da prefeitura) não paga. Exige cadastro prévio da instituição de ensino na bilhetagem.",
+   "desde": "2026-01-01",
+   "base_legal": "Decreto nº 28.860, de 31/12/2025 (DOM/SC de 31/12/2025), anexo único (valores de 2026); Decreto nº 28.724/2025 (cadastro das instituições de ensino); Lei Complementar municipal nº 34/1999, art. 37 (desconto de 50% ao estudante)",
    "fonte_url": "https://diariomunicipal.sc.gov.br/arquivosbd/atos/2025/12/1767204593_decreto_n._28.860.pdf",
    "confianca": "A",
-   "verificado_em": "2026-10-18"
+   "verificado_em": "2026-11-05"
   },
   {
    "uf": "SC",
    "municipio": "Florianópolis",
    "cod_ibge": "4205407",
    "tipo": "idoso",
-   "regra": "65 anos ou mais; estudante paga 50%, gratuito com renda familiar até 3 salários mínimos",
+   "regra": "65 anos ou mais, gratuito no sistema de transporte coletivo municipal, com o cartão Passe Rápido com foto (1ª via gratuita), feito na central do Passe Rápido só com o documento de identidade.",
    "desde": null,
-   "base_legal": null,
+   "base_legal": "Lei Complementar municipal nº 34, de 26/02/1999, art. 38, II; Lei federal nº 10.741/2003 (Estatuto da Pessoa Idosa), art. 39",
    "fonte_url": "https://www.consorciofenix.com.br/faq",
    "confianca": "B",
-   "verificado_em": "2026-10-17"
+   "verificado_em": "2026-11-05"
   },
   {
    "uf": "SC",
@@ -5366,13 +5762,25 @@
    "uf": "SE",
    "municipio": "Aracaju",
    "cod_ibge": "2800308",
-   "tipo": "idoso",
-   "regra": "65 anos ou mais; estudante paga 50% (R$ 2,25)",
+   "tipo": "estudante",
+   "regra": "Meia passagem (50%), R$ 2,25 por passagem na tabela da AracajuCard em vigor desde 16/05/2022, com o Cartão Mais Aracaju Escolar, para estudantes a partir de 7 anos matriculados em escolas credenciadas na AracajuCard e que morem em Aracaju, Nossa Senhora do Socorro, São Cristóvão ou Barra dos Coqueiros; a catraca libera com biometria facial.",
    "desde": null,
-   "base_legal": null,
+   "base_legal": "Lei Municipal de Aracaju nº 1.071/1985, art. 1º; Lei Estadual de Sergipe nº 3.461, de 08/04/1994, art. 3º",
+   "fonte_url": "https://aracajucard.com.br/escolar/",
+   "confianca": "B",
+   "verificado_em": "2026-11-05"
+  },
+  {
+   "uf": "SE",
+   "municipio": "Aracaju",
+   "cod_ibge": "2800308",
+   "tipo": "idoso",
+   "regra": "65 anos completos ou mais, gratuito no sistema da Grande Aracaju, com o Cartão Mais Aracaju Gratuidade, pessoal e intransferível; cadastro no posto da AracajuCard com agendamento, RG, CPF e comprovante de residência dos últimos 6 meses.",
+   "desde": null,
+   "base_legal": "Lei Estadual de Sergipe nº 3.461, de 08/04/1994 (DOE-SE de 11/04/1994), art. 3º, alterada pela Lei nº 4.034, de 28/12/1998; Lei Federal nº 10.741/2003 (Estatuto da Pessoa Idosa), art. 39",
    "fonte_url": "https://aracajucard.com.br/gratuidades/",
    "confianca": "B",
-   "verificado_em": "2026-10-17"
+   "verificado_em": "2026-11-05"
   },
   {
    "uf": "SE",
@@ -7562,6 +7970,54 @@
    "uf": "SP",
    "municipio": "São Paulo",
    "cod_ibge": "3550308",
+   "tipo": "estudante",
+   "regra": "Meia passagem (50% da tarifa do ônibus) para estudantes do fundamental, médio, técnico, superior e tecnológico, da rede pública ou particular, que moram a mais de 1 km da escola, com o Bilhete Único de Estudante; cotas mensais (48 passagens na regra geral) só para ida e volta entre a casa e a escola, no ônibus municipal e no metrô e no trem.",
+   "desde": null,
+   "base_legal": "Decreto municipal nº 58.639, de 22/02/2019; Portaria SMT.GAB nº 050, de 05/04/2019",
+   "fonte_url": "https://www.sptrans.com.br/perguntas-e-respostas/?sobre=bilhete-estudante",
+   "confianca": "B",
+   "verificado_em": "2026-11-05"
+  },
+  {
+   "uf": "SP",
+   "municipio": "São Paulo",
+   "cod_ibge": "3550308",
+   "tipo": "estudante",
+   "regra": "Passe Livre estudantil: gratuito para alunos do fundamental e do médio da rede pública e do superior com renda familiar por pessoa de até 1,5 salário mínimo no CadÚnico, ProUni, Fies ou cotas sociais, com o Bilhete Único de Estudante; cotas duplas (uma ida e uma volta por dia, 24 por mês na regra geral) entre a casa e a escola, no ônibus municipal e no metrô e no trem.",
+   "desde": null,
+   "base_legal": "Lei municipal nº 16.097, de 29/12/2014; Lei estadual nº 15.692, de 19/02/2015; Decreto estadual nº 61.134, de 25/02/2015; Decreto municipal nº 58.639, de 22/02/2019; Portaria SMT.GAB nº 050, de 05/04/2019",
+   "fonte_url": "https://www.sptrans.com.br/media/17155/manual-instituicoes-de-ensino-jan-26.pdf",
+   "confianca": "B",
+   "verificado_em": "2026-11-05"
+  },
+  {
+   "uf": "SP",
+   "municipio": "São Paulo",
+   "cod_ibge": "3550308",
+   "tipo": "idoso",
+   "regra": "65 anos ou mais, gratuito no ônibus municipal e no metrô e na CPTM, com o Bilhete Único Especial da Pessoa Idosa (documento com foto, CPF e comprovante de residência, pedido presencial ou digital, só a partir dos 65 anos); sem o cartão, o documento oficial com foto mostrado ao motorista dá a viagem, com desembarque pela porta da frente.",
+   "desde": null,
+   "base_legal": "Lei Orgânica do Município de São Paulo, art. 225, III (como cita a SPTrans); Lei federal nº 10.741/2003 (Estatuto da Pessoa Idosa), art. 39",
+   "fonte_url": "https://www.sptrans.com.br/perguntas-e-respostas/?sobre=bilhete-pessoa-idosa",
+   "confianca": "B",
+   "verificado_em": "2026-11-05"
+  },
+  {
+   "uf": "SP",
+   "municipio": "São Paulo",
+   "cod_ibge": "3550308",
+   "tipo": "idoso",
+   "regra": "De 60 a 64 anos, gratuito no ônibus municipal e no metrô e na CPTM, com a cota mensal de gratuidade carregada todo mês no Bilhete Único Comum (uma recarga para o ônibus e outra para os trilhos), sem acumular de um mês para o outro; ao fazer 65 anos, pede-se o Bilhete Único Especial.",
+   "desde": "2022-12-15",
+   "base_legal": "Decreto municipal nº 62.057, de 14/12/2022 (DOC de 15/12/2022); no metrô, na CPTM e na EMTU, Lei estadual nº 17.611, de 15/12/2022, regulamentada pelo Decreto estadual nº 67.455, de 20/01/2023",
+   "fonte_url": "https://www.sptrans.com.br/perguntas-e-respostas/?sobre=gratuidade-60-64",
+   "confianca": "B",
+   "verificado_em": "2026-11-05"
+  },
+  {
+   "uf": "SP",
+   "municipio": "São Paulo",
+   "cod_ibge": "3550308",
    "tipo": "tarifa_zero_temporal",
    "regra": "ônibus municipal grátis aos domingos e em 25/12, 01/01 e 25/01",
    "desde": null,
@@ -7850,13 +8306,37 @@
    "uf": "TO",
    "municipio": "Palmas",
    "cod_ibge": "1721000",
+   "tipo": "estudante",
+   "regra": "Meia passagem (passe escolar) para estudantes matriculados na rede oficial de ensino, pública ou particular, de qualquer grau, com o cartão escolar (sem taxa de emissão; declaração de matrícula, documento de identificação, comprovante de endereço e declaração do horário escolar)",
+   "desde": null,
+   "base_legal": "Decreto 2.698/2025 (06/05/2025, efeitos desde 01/05/2025), art. 4º, III e § 2º, e art. 7º (cartão escolar); a lei da meia passagem não foi encontrada",
+   "fonte_url": "https://www.palmas.to.gov.br/core/noticias/atendimento-presencial-ao-usuario-do-transporte-coletivo-passa-a-ser-das-7-as-17h30/",
+   "confianca": "A",
+   "verificado_em": "2026-11-05"
+  },
+  {
+   "uf": "TO",
+   "municipio": "Palmas",
+   "cod_ibge": "1721000",
+   "tipo": "estudante",
+   "regra": "Cartão do Estudante: crédito de 75% do gasto mensal com ônibus para até 600 estudantes do ensino superior (público ou particular) ou do técnico da rede federal, com renda familiar de até 4 salários mínimos e 1 ano ou mais em Palmas, por seleção anual com edital (em 2026, inscrições até 22/03)",
+   "desde": null,
+   "base_legal": "Lei Municipal 1.448/2006",
+   "fonte_url": "https://www.palmas.to.gov.br/core/noticias/prefeitura-de-palmas-prorroga-inscricoes-ao-programa-cartao-do-estudante-2026-para-sabado-aguardar-confirmacao-de-publicacao-do-edital/",
+   "confianca": "A",
+   "verificado_em": "2026-11-05"
+  },
+  {
+   "uf": "TO",
+   "municipio": "Palmas",
+   "cod_ibge": "1721000",
    "tipo": "idoso",
-   "regra": "65 anos ou mais, com qualquer documento (Decreto 2.698/2025, art. 8)",
+   "regra": "65 anos ou mais, gratuito, com qualquer documento pessoal; o cartão gratuito do idoso é opcional (emitido sem taxa na ATCP ou no Resolve Palmas, com documento e comprovante de endereço)",
    "desde": "2025-05-01",
-   "base_legal": "Decreto 2.698/2025",
+   "base_legal": "Decreto 2.698/2025 (06/05/2025, efeitos desde 01/05/2025), art. 8º, § 3º; Lei Municipal 440/1993 (citada pela prefeitura); Lei federal 10.741/2003, art. 39, § 1º",
    "fonte_url": "https://legislativo.palmas.to.gov.br/media/leis/decreto-2.698-2025-05-06-7-5-2025-13-55-16.pdf",
    "confianca": "B",
-   "verificado_em": "2026-10-17"
+   "verificado_em": "2026-11-05"
   },
   {
    "uf": "TO",
