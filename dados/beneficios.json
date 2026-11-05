@@ -1,6 +1,6 @@
 {
  "nome": "Tarifaoteca da Otimiza.pro: beneficios",
- "versao": "2026.11.04.4",
+ "versao": "2026.11.05",
  "licenca": {
   "nome": "CC BY-NC 4.0",
   "url": "https://creativecommons.org/licenses/by-nc/4.0/deed.pt-br",
@@ -8,7 +8,7 @@
   "uso_interno": "A consulta para decisões da própria empresa, como orçar o vale-transporte, não pede licença.",
   "uso_comercial": "Uso comercial por empresas (em produto, revenda ou integração em sistema ou serviço pago) pede licença da Otimiza.pro: empresa@otimiza.pro."
  },
- "citar_como": "Fonte: Tarifaoteca da Otimiza.pro, versão 2026.11.04.4. DOI: https://doi.org/10.5281/zenodo.23486211. https://github.com/OtimizaPro/tarifas_integracoestarifarias_transportepublico_brasileiro",
+ "citar_como": "Fonte: Tarifaoteca da Otimiza.pro, versão 2026.11.05. DOI: https://doi.org/10.5281/zenodo.23486211. https://github.com/OtimizaPro/tarifas_integracoestarifarias_transportepublico_brasileiro",
  "linhas": [
   {
    "uf": "AL",
@@ -1395,12 +1395,12 @@
    "municipio": "Ibirité",
    "cod_ibge": "3129806",
    "tipo": "tarifa_zero_universal",
-   "regra": "Ônibus municipais sem cobrança de tarifa para todos (Ibiritrans Tarifa Zero)",
-   "desde": null,
+   "regra": "Programa Tarifa Zero: ônibus municipais de Ibirité gratuitos para todos os passageiros, em todas as linhas municipais, desde 29/01/2023; a Prefeitura paga a operadora pela quilometragem (PLC 008/2022). As linhas metropolitanas que passam pela cidade seguem pagas.",
+   "desde": "2023-01-29",
    "base_legal": "Lei Complementar municipal originada do PLC 008/2022",
-   "fonte_url": "https://www.ibirite.mg.gov.br/detalhe-da-materia/info/horarios-de-onibus/6504",
+   "fonte_url": "https://www.almg.gov.br/comunicacao/noticias/arquivos/Transporte-metropolitano-da-RMBH-ganha-projeto-de-tarifa-zero/",
    "confianca": "A",
-   "verificado_em": "2026-10-17"
+   "verificado_em": "2026-11-04"
   },
   {
    "uf": "MG",
@@ -2316,18 +2316,6 @@
   },
   {
    "uf": "MT",
-   "municipio": "Primavera do Leste",
-   "cod_ibge": "5107040",
-   "tipo": "tarifa_zero_universal",
-   "regra": "Transporte coletivo municipal gratuito para toda a população, com subsídio integral do Município ou veículos e motoristas próprios, enquanto não houver contrato de concessão. A lei fixa prazo máximo de 24 meses; a imprensa de 23/02/2024 confirma a gratuidade, e não se achou fonte posterior.",
-   "desde": "2021-11-22",
-   "base_legal": "Lei municipal nº 2.007/2021, alterada pela Lei nº 2.114/2022",
-   "fonte_url": "https://sapl.primaveradoleste.mt.leg.br/media/sapl/public/normajuridica/2021/2942/lei_no_2007_de_30_de_setembro_de_2021.pdf",
-   "confianca": "A",
-   "verificado_em": "2026-10-20"
-  },
-  {
-   "uf": "MT",
    "municipio": "Rondonópolis",
    "cod_ibge": "5107602",
    "tipo": "tarifa_zero_temporal",
@@ -2583,48 +2571,36 @@
    "municipio": "Parauapebas",
    "cod_ibge": "1505536",
    "tipo": "estudante",
-   "regra": "Gratuidade a todos os estudantes regularmente matriculados em instituições públicas ou privadas, nas linhas da CENTRAL, mediante comprovação; não se aplica onde houver transporte escolar público que atenda o estudante",
+   "regra": "Gratuidade integral a todos os estudantes regularmente matriculados em instituição pública ou privada (da educação infantil ao ensino superior, cursinhos e cursos profissionalizantes), nos dias e horários regulares do transporte, só nas linhas da CENTRAL, mediante documento estudantil, comprovante de matrícula ou frequência ou cadastro; não se aplica onde houver transporte escolar público do Município que atenda o estudante.",
    "desde": "2026-08-28",
-   "base_legal": "Lei nº 5.697/2026, art. 7º, III (a Lei nº 5.629, de 05/01/2026, já previa gratuidade aos estudantes da rede pública estadual)",
+   "base_legal": "Lei nº 5.697, de 26/08/2026, art. 7º, III e §§ 1º e 4º (Diário Oficial do Município nº 1418, de 28/08/2026); antes, a Lei nº 5.629, de 05/01/2026 (Diário Oficial nº 1221, de 09/01/2026), art. 6º, já garantia a passagem integral gratuita aos estudantes da rede pública estadual nas linhas da CENTRAL",
    "fonte_url": "https://diario.parauapebas.pa.gov.br/api/Publicacoes/1418/pdf-final",
    "confianca": "A",
-   "verificado_em": "2026-10-17"
+   "verificado_em": "2026-11-04"
   },
   {
    "uf": "PA",
    "municipio": "Parauapebas",
    "cod_ibge": "1505536",
    "tipo": "tarifa_zero_temporal",
-   "regra": "Gratuidade integral a todos os usuários aos sábados e domingos, exclusivamente nas linhas e serviços operados pela CENTRAL",
+   "regra": "Gratuidade integral a todos os usuários do transporte público coletivo municipal aos sábados e domingos, só nas linhas e serviços operados pela Central das Cooperativas de Transporte de Parauapebas (CENTRAL); não vale nas linhas da COOPALMAS e da COPAVEL. Nos dias úteis, segue a tarifa do Decreto nº 666/2022.",
    "desde": "2026-08-28",
-   "base_legal": "Lei nº 5.697, de 26/08/2026, art. 7º, I (Diário Oficial nº 1418, de 28/08/2026); subsídio de até R$ 11.216.473,20 para 01/07/2026 a 30/06/2027",
+   "base_legal": "Lei nº 5.697, de 26/08/2026, art. 7º, I e § 6º (Diário Oficial do Município nº 1418, de 28/08/2026, página 3), em vigor na data da publicação (art. 14), com subsídio de até R$ 11.216.473,20 de 01/07/2026 a 30/06/2027",
    "fonte_url": "https://diario.parauapebas.pa.gov.br/api/Publicacoes/1418/pdf-final",
    "confianca": "A",
-   "verificado_em": "2026-10-17"
+   "verificado_em": "2026-11-04"
   },
   {
    "uf": "PA",
    "municipio": "Parauapebas",
    "cod_ibge": "1505536",
    "tipo": "tarifa_zero_temporal",
-   "regra": "Gratuidade aos candidatos do ENEM, vestibulares, concursos e processos seletivos nos dias de prova, nas linhas da CENTRAL",
+   "regra": "Gratuidade integral, nos dias de prova, aos candidatos do ENEM, vestibulares, concursos públicos, processos seletivos, exames de certificação e outros certames de interesse público, só nas linhas da CENTRAL, com comprovante de inscrição ou convocação.",
    "desde": "2026-08-28",
-   "base_legal": "Lei nº 5.697/2026, art. 7º, II",
+   "base_legal": "Lei nº 5.697, de 26/08/2026, art. 7º, II e § 3º (Diário Oficial do Município nº 1418, de 28/08/2026)",
    "fonte_url": "https://diario.parauapebas.pa.gov.br/api/Publicacoes/1418/pdf-final",
    "confianca": "A",
-   "verificado_em": "2026-10-17"
-  },
-  {
-   "uf": "PA",
-   "municipio": "Parauapebas",
-   "cod_ibge": "1505536",
-   "tipo": "tarifa_zero_universal",
-   "regra": "Prevista em lei, com implantação por etapas condicionada a estudos de impacto financeiro e a cronograma do Executivo; não implantada até 16/10/2026 (a gratuidade em vigor se limita a fins de semana, estudantes e candidatos)",
-   "desde": null,
-   "base_legal": "Lei nº 5.631, de 12/01/2026 (altera a Lei nº 4.551/2013)",
-   "fonte_url": "https://parauapebas.pa.gov.br/destaque/parauapebas-avanca-na-mobilidade-urbana-e-institui-transporte-publico-gratuito-para-a-populacao/",
-   "confianca": "A",
-   "verificado_em": "2026-10-17"
+   "verificado_em": "2026-11-04"
   },
   {
    "uf": "PA",
@@ -3806,13 +3782,13 @@
    "uf": "RJ",
    "municipio": "Magé",
    "cod_ibge": "3302502",
-   "tipo": "tarifa_zero_universal",
-   "regra": "Parcial: gratuidade para qualquer passageiro apenas nas oito linhas Amarelinho (TZ 01 a TZ 08); as demais linhas municipais são pagas",
+   "tipo": "tarifa_zero_linhas",
+   "regra": "Gratuidade para qualquer passageiro apenas nas oito linhas Amarelinho (TZ 01 a TZ 08); as demais linhas municipais são pagas",
    "desde": "2025-06",
    "base_legal": null,
    "fonte_url": "https://mage.rj.gov.br/informacoes/mage-implanta-onibus-com-tarifa-zero-na-cidade/",
    "confianca": "B",
-   "verificado_em": "2026-10-17"
+   "verificado_em": "2026-11-04"
   },
   {
    "uf": "RJ",
@@ -3830,13 +3806,13 @@
    "uf": "RJ",
    "municipio": "Mangaratiba",
    "cod_ibge": "3302601",
-   "tipo": "tarifa_zero_universal",
-   "regra": "Parcial: gratuidade para qualquer passageiro só no ônibus 'Tarifa Zero' da Prefeitura, nas duas ligações a partir do Centro (Serra do Piloto e Ingaíba); as linhas da empresa que opera na mesma região, as vans e as linhas intermunicipais ficam fora",
+   "tipo": "tarifa_zero_linhas",
+   "regra": "Gratuidade para qualquer passageiro só no ônibus 'Tarifa Zero' da Prefeitura, nas duas ligações a partir do Centro (Serra do Piloto e Ingaíba); as linhas da empresa que opera na mesma região, as vans e as linhas intermunicipais ficam fora",
    "desde": null,
    "base_legal": null,
    "fonte_url": "https://sapl.mangaratiba.rj.leg.br/media/sapl/public/materialegislativa/2026/19808/indicacao_320_2026.pdf",
    "confianca": "A",
-   "verificado_em": "2026-10-22"
+   "verificado_em": "2026-11-04"
   },
   {
    "uf": "RJ",
@@ -4058,8 +4034,8 @@
    "uf": "RJ",
    "municipio": "Tanguá",
    "cod_ibge": "3305752",
-   "tipo": "tarifa_zero_universal",
-   "regra": "Parcial: gratuidade para qualquer passageiro só no ônibus municipal gratuito da Prefeitura (#VouDeBusão), nas linhas que ligam bairros periféricos; as linhas da empresa concessionária e as intermunicipais ficam fora",
+   "tipo": "tarifa_zero_linhas",
+   "regra": "Gratuidade para qualquer passageiro só no ônibus municipal gratuito da Prefeitura (#VouDeBusão), nas linhas que ligam bairros periféricos; as linhas da empresa concessionária e as intermunicipais ficam fora",
    "desde": null,
    "base_legal": null,
    "fonte_url": "https://tangua.sicam.app/documentos/?Impressao/proposicao/11522/web",
@@ -7233,6 +7209,18 @@
    "fonte_url": "https://salto.sp.gov.br/transporte-publico-comeca-a-gratuidade-para-estudantes-de-ensino-medio-de-escolas-publicas-e-aos-domingos-e-feriados/",
    "confianca": "A",
    "verificado_em": "2026-10-18"
+  },
+  {
+   "uf": "SP",
+   "municipio": "Santa Cruz do Rio Pardo",
+   "cod_ibge": "3546405",
+   "tipo": "tarifa_zero_universal",
+   "regra": "Transporte coletivo municipal gratuito para toda a população (Programa Tarifa Zero)",
+   "desde": "2025-04-01",
+   "base_legal": "Lei Complementar nº 860, de 01/04/2025",
+   "fonte_url": "https://diariooficialnovo.jelastic.saveincloud.net/diarios/scruz/2025/04/2025-04-05_Diario_Oficial.pdf",
+   "confianca": "A",
+   "verificado_em": "2026-11-04"
   },
   {
    "uf": "SP",

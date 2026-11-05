@@ -1,6 +1,6 @@
 {
  "nome": "Tarifaoteca da Otimiza.pro: vale_transporte",
- "versao": "2026.11.04.4",
+ "versao": "2026.11.05",
  "licenca": {
   "nome": "CC BY-NC 4.0",
   "url": "https://creativecommons.org/licenses/by-nc/4.0/deed.pt-br",
@@ -8,7 +8,7 @@
   "uso_interno": "A consulta para decisões da própria empresa, como orçar o vale-transporte, não pede licença.",
   "uso_comercial": "Uso comercial por empresas (em produto, revenda ou integração em sistema ou serviço pago) pede licença da Otimiza.pro: empresa@otimiza.pro."
  },
- "citar_como": "Fonte: Tarifaoteca da Otimiza.pro, versão 2026.11.04.4. DOI: https://doi.org/10.5281/zenodo.23486211. https://github.com/OtimizaPro/tarifas_integracoestarifarias_transportepublico_brasileiro",
+ "citar_como": "Fonte: Tarifaoteca da Otimiza.pro, versão 2026.11.05. DOI: https://doi.org/10.5281/zenodo.23486211. https://github.com/OtimizaPro/tarifas_integracoestarifarias_transportepublico_brasileiro",
  "linhas": [
   {
    "uf": "AC",
@@ -939,26 +939,26 @@
    "uf": "ES",
    "municipio": "São Mateus",
    "cod_ibge": "3204906",
-   "sistema": "SG Card Vale Transporte (Viação São Gabriel)",
+   "sistema": "SG Card Vale Transporte (Viação São Gabriel), transporte coletivo municipal de São Mateus",
    "abrangencia": "municipal",
-   "modos_cobertos": "ônibus municipais de São Mateus operados pela Viação São Gabriel",
+   "modos_cobertos": "ônibus urbanos municipais de São Mateus",
    "cartao_vt": "SG Card Vale Transporte (VT)",
-   "emissora": "Viação São Gabriel",
-   "canal_compra_empresa": "A empresa entra em contato com a bilhetagem da Viação São Gabriel, pelo telefone (27) 3313-7500 ou pelo e-mail bilhetagem@viacaosaogabriel.com.br, para a documentação; pessoa jurídica paga em dinheiro, Pix ou depósito. O site tem o link 'Recarga Online' para um sistema com login.",
+   "emissora": "Viação São Gabriel Ltda.",
+   "canal_compra_empresa": "A empresa entra em contato com a bilhetagem da Viação São Gabriel, pelo telefone (27) 3313-7500 ou pelo e-mail bilhetagem@viacaosaogabriel.com.br, para a documentação (página Aquisição SG Card); nos urbanos de São Mateus, pessoa jurídica paga em dinheiro, Pix ou depósito (página Formas de Pagamento). O site tem o link 'Recarga Online' para um sistema com login.",
    "compra_online": null,
    "cadastro_por_colaborador": null,
    "custo_cartao_brl": null,
-   "tarifa_vt_brl": null,
+   "tarifa_vt_brl": 5,
    "tarifa_comum_brl": null,
-   "vt_diferente_da_comum": null,
+   "vt_diferente_da_comum": "não",
    "prazo_liberacao_credito": null,
    "tem_taxa_na_compra": null,
    "taxa_na_compra": null,
    "validade_credito": null,
-   "limites": null,
+   "limites": "Páginas da Viação São Gabriel abertas em 04/11/2026 (https://viacaosaogabriel.com.br/aquisicao-sg-card/ e https://viacaosaogabriel.com.br/formas-de-pagamento/), sem o valor da tarifa. A tarifa do VT entrou como R$ 5,00 pelas compras de órgãos públicos com a Viação São Gabriel: a Câmara Municipal de São Mateus comprou 6.900 vales a R$ 5,00 em 23/04/2026, com o preço 'apurado com base na tarifa vigente do transporte coletivo urbano' (PNCP, compra 27559343000147-1-000020/2026); em 2025, a Secretaria de Estado da Saúde comprou a R$ 4,50, 'o valor unitário da tarifa vigente' de então (PNCP, compra 27080605000439-1-000050/2025). A 2ª via do SG Card é cobrada em caso de perda ou dano, com valor calculado sobre a tarifa integral, o que não é taxa na compra.",
    "fonte_url": "https://viacaosaogabriel.com.br/aquisicao-sg-card/",
    "confianca": "B",
-   "verificado_em": "2026-10-20"
+   "verificado_em": "2026-11-04"
   },
   {
    "uf": "ES",
@@ -1634,6 +1634,31 @@
    "fonte_url": "https://www.transportescisne.com.br/duvidas/geral/_empresas",
    "confianca": "B",
    "verificado_em": "2026-10-18"
+  },
+  {
+   "uf": "MG",
+   "municipio": "Itabirito",
+   "cod_ibge": "3131901",
+   "sistema": "Vale-transporte do transporte coletivo municipal de Itabirito (Serra Verde)",
+   "abrangencia": "municipal",
+   "modos_cobertos": "ônibus do transporte coletivo municipal",
+   "cartao_vt": "cartão de vale-transporte da Serra Verde Transportes (a Prefeitura compra o item 'CARTAO VALE TRANSPORTE', com créditos mensais carregados nos cartões dos servidores)",
+   "emissora": "SV Transportes Ltda. (Serra Verde Transportes, CNPJ 07.392.106/0001-27), concessionária do transporte coletivo municipal",
+   "canal_compra_empresa": "contrato direto com a concessionária, com a carga mensal de créditos nos cartões (é assim que a Prefeitura compra, por inexigibilidade, Contrato nº 15/2026)",
+   "compra_online": null,
+   "cadastro_por_colaborador": "segundo comunicado da Serra Verde citado no Requerimento nº 735/2026 da Câmara (17/08/2026), o novo cartão de vale-transporte é feito com RG, CPF e comprovante de endereço atualizado",
+   "custo_cartao_brl": null,
+   "tarifa_vt_brl": null,
+   "tarifa_comum_brl": null,
+   "vt_diferente_da_comum": null,
+   "prazo_liberacao_credito": null,
+   "tem_taxa_na_compra": null,
+   "taxa_na_compra": null,
+   "validade_credito": null,
+   "limites": "Fontes abertas em 04/11/2026. Termo de Referência de 26/01/2026 e resultado da Inexigibilidade (PNCP, compra 18307835000154-1-000028/2026): 107.092 vales a R$ 3,00 por unidade para os servidores da Prefeitura, 'baseado na tarifa pública regulada', com fornecimento mensal e créditos disponíveis no início de cada mês. O SAAE de Itabirito estimou em 25/11/2024 a compra de 11.000 'VALE TRANSPORTE LOCAL ITABIRITO MG.' a R$ 4,33 por unidade (PNCP, compra 20067146000161-1-000068/2024, sem resultado; o arquivo no PNCP está incompleto e não abre), valor que não se conseguiu explicar; por isso a tarifa do VT para empresas ficou sem valor. Requerimento nº 735/2026 da Câmara (https://sapl.itabirito.mg.leg.br/media/sapl/public/materialegislativa/2026/24528/requerimento_735.2026.pdf): a Serra Verde deu até 15/09/2026 para a confecção do novo cartão de vale-transporte, e, segundo o comunicado, depois dessa data os cartões antigos deixam de valer e os saldos neles não são recuperados.",
+   "fonte_url": "https://pncp.gov.br/pncp-api/v1/orgaos/18307835000154/compras/2026/28/arquivos/4",
+   "confianca": "B",
+   "verificado_em": "2026-11-04"
   },
   {
    "uf": "MG",

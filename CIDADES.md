@@ -1,8 +1,8 @@
 # Tarifas do transporte público por cidade (Otimiza.pro)
 
-Quanto custa o transporte público em 621 municípios brasileiros, segundo a Tarifaoteca da Otimiza.pro (versão 2026.11.04.4). Cada frase traz o valor, a fonte e a data em que a Otimiza.pro conferiu e, quando a fonte informa, o ato oficial e a data em que passou a valer. A fonte oficial de cada valor está indicada. Onde há dados de serviço e oferta, a ficha traz também linhas e passageiros, com a fonte e a data.
+Quanto custa o transporte público em 620 municípios brasileiros, segundo a Tarifaoteca da Otimiza.pro (versão 2026.11.05). Cada frase traz o valor, a fonte e a data em que a Otimiza.pro conferiu e, quando a fonte informa, o ato oficial e a data em que passou a valer. A fonte oficial de cada valor está indicada. Onde há dados de serviço e oferta, a ficha traz também linhas e passageiros, com a fonte e a data.
 
-Como citar: Fonte: Tarifaoteca da Otimiza.pro, versão 2026.11.04.4. DOI: https://doi.org/10.5281/zenodo.23486211. https://github.com/OtimizaPro/tarifas_integracoestarifarias_transportepublico_brasileiro
+Como citar: Fonte: Tarifaoteca da Otimiza.pro, versão 2026.11.05. DOI: https://doi.org/10.5281/zenodo.23486211. https://github.com/OtimizaPro/tarifas_integracoestarifarias_transportepublico_brasileiro
 
 ## AC
 
@@ -454,13 +454,13 @@ Tarifa zero em Itaitinga: Ônibus municipal gratuito do Transporte Regular Urban
 
 ### Juazeiro do Norte (CE)
 
-Em Juazeiro do Norte (CE), a passagem de ônibus custa R$ 3,00 desde 03/2022, conforme Decreto municipal publicado em 18/03/2022; valor conferido em 17/10/2026 pela Tarifaoteca da Otimiza.pro.
+Em Juazeiro do Norte (CE), a passagem de ônibus custa R$ 3,00 desde 03/2022, conforme Decreto nº 933/2023; valor conferido em 04/11/2026 pela Tarifaoteca da Otimiza.pro.
 
 Página da cidade: https://otimizapro.com/tarifa/ce/juazeiro-do-norte
 
 Em 2018, o sistema de ônibus de Juazeiro do Norte (CE) levou 7 milhões de passageiros, segundo dados declarados pelo município à Pesquisa Nacional de Mobilidade Urbana (PEMOB), do governo federal. A idade média da frota de ônibus era de 6 anos em 2018. Dados consolidados pela Tarifaoteca da Otimiza.pro.
 
-Fonte (operadora): https://viametrocariri.com.br/index.php?page=tarifas
+Fonte (página oficial): https://www.juazeirodonorte.ce.gov.br/arquivos/8511/DECRETO_933_2023_0000001.pdf
 
 Vale-transporte em Juazeiro do Norte: cartão VT do Bilhete Único Metropolitano (exige Vale-transporte Metropolitano); a operadora também cita 'Vale Transporte Eletrônico' em seu site; emitido por Viametro Cariri, com subsídio do Governo do Ceará no Bilhete Único.
 
@@ -616,13 +616,13 @@ Fonte (página oficial): https://ioes.dio.es.gov.br/dom/portal/edicoes/download/
 
 ### São Mateus (ES)
 
-Em São Mateus (ES), a passagem de ônibus custa de R$ 4,50 a R$ 5,00 (varia com o tipo de linha) desde 22/09/2022, segundo a imprensa (A Gazeta); valor conferido em 20/10/2026 pela Tarifaoteca da Otimiza.pro.
+Em São Mateus (ES), a passagem de ônibus custa R$ 5,00, segundo a publicação oficial (Câmara Municipal de São Mateus, Termo de Referência da Inexigibilidade para fornecimento de vale-transporte pela Viação São Gabriel Ltda., PNCP, compra 27559343000147-1-000020/2026, homologada em 23/04/2026); valor conferido em 04/11/2026 pela Tarifaoteca da Otimiza.pro.
 
 Página da cidade: https://otimizapro.com/tarifa/es/sao-mateus
 
-Fonte (imprensa): https://www.agazeta.com.br/es/cotidiano/passagens-de-onibus-municipais-de-sao-mateus-ficam-mais-caras-0922
+Fonte (página oficial): https://pncp.gov.br/pncp-api/v1/orgaos/27559343000147/compras/2026/20/arquivos/1
 
-Vale-transporte em São Mateus: cartão SG Card Vale Transporte (VT); emitido por Viação São Gabriel; canal de compra da empresa: A empresa entra em contato com a bilhetagem da Viação São Gabriel, pelo telefone (27) 3313-7500 ou pelo e-mail bilhetagem@viacaosaogabriel.com.br, para a documentação; pessoa jurídica paga em dinheiro, Pix ou depósito. O site tem o link 'Recarga Online' para um sistema com login..
+Vale-transporte em São Mateus: cartão SG Card Vale Transporte (VT); emitido por Viação São Gabriel Ltda.; canal de compra da empresa: A empresa entra em contato com a bilhetagem da Viação São Gabriel, pelo telefone (27) 3313-7500 ou pelo e-mail bilhetagem@viacaosaogabriel.com.br, para a documentação (página Aquisição SG Card); nos urbanos de São Mateus, pessoa jurídica paga em dinheiro, Pix ou depósito (página Formas de Pagamento). O site tem o link 'Recarga Online' para um sistema com login..
 
 ### Serra (ES)
 
@@ -1214,13 +1214,13 @@ Tarifa zero em Guaxupé: Domingo Tarifa Zero: passagem gratuita para todos aos d
 
 ### Ibirité (MG)
 
-Em Ibirité (MG), o ônibus é gratuito (tarifa zero), segundo a publicação oficial (Prefeitura de Ibirité, página Horários de ônibus, 'IBIRITRANS Tarifa Zero'); valor conferido em 17/10/2026 pela Tarifaoteca da Otimiza.pro.
+Em Ibirité (MG), o ônibus é gratuito (tarifa zero) desde 29/01/2023, segundo a publicação oficial (Prefeitura de Ibirité, página Horários de ônibus, 'IBIRITRANS Tarifa Zero'); valor conferido em 04/11/2026 pela Tarifaoteca da Otimiza.pro.
 
 Página da cidade: https://otimizapro.com/tarifa/mg/ibirite
 
 Fonte (página oficial): https://www.ibirite.mg.gov.br/detalhe-da-materia/info/horarios-de-onibus/6504
 
-Tarifa zero em Ibirité: Ônibus municipais sem cobrança de tarifa para todos (Ibiritrans Tarifa Zero)
+Tarifa zero em Ibirité: Programa Tarifa Zero: ônibus municipais de Ibirité gratuitos para todos os passageiros, em todas as linhas municipais, desde 29/01/2023; a Prefeitura paga a operadora pela quilometragem (PLC 008/2022). As linhas metropolitanas que passam pela cidade seguem pagas.
 
 ### Igarapé (MG)
 
@@ -1256,11 +1256,13 @@ Vale-transporte em Itabira: cartão Vale Transporte (Empresas) da Transportes Ci
 
 ### Itabirito (MG)
 
-Em Itabirito (MG), a passagem de ônibus custa R$ 3,00 desde 14/03/2022, segundo a publicação oficial (Prefeitura de Itabirito, notícia de 09/03/2022); valor conferido em 20/10/2026 pela Tarifaoteca da Otimiza.pro.
+Em Itabirito (MG), a passagem de ônibus custa R$ 3,00 desde 14/03/2022, segundo a publicação oficial (Prefeitura de Itabirito, notícia de 09/03/2022); valor conferido em 04/11/2026 pela Tarifaoteca da Otimiza.pro.
 
 Página da cidade: https://otimizapro.com/tarifa/mg/itabirito
 
 Fonte (página oficial): https://itabirito.mg.gov.br/noticia/mais-linhas-atendimento-a-zona-rural-e-tarifa-reduzida-prefeitura-de-itabirito-anuncia-melhorias-no-transporte-coletivo/
+
+Vale-transporte em Itabirito: cartão de vale-transporte da Serra Verde Transportes (a Prefeitura compra o item 'CARTAO VALE TRANSPORTE', com créditos mensais carregados nos cartões dos servidores); emitido por SV Transportes Ltda. (Serra Verde Transportes, CNPJ 07.392.106/0001-27), concessionária do transporte coletivo municipal; canal de compra da empresa: contrato direto com a concessionária, com a carga mensal de créditos nos cartões (é assim que a Prefeitura compra, por inexigibilidade, Contrato nº 15/2026).
 
 ### Itajubá (MG)
 
@@ -1642,11 +1644,11 @@ Tarifa zero em Santa Luzia: Gratuidade nos ônibus municipais aos domingos e fer
 
 ### Santa Rita do Sapucaí (MG)
 
-Em Santa Rita do Sapucaí (MG), a passagem de ônibus custa R$ 5,87, conforme Homologação e adjudicação do Processo Licitatório PRC nº 092/2023; valor conferido em 20/10/2026 pela Tarifaoteca da Otimiza.pro.
+Em Santa Rita do Sapucaí (MG), a passagem de ônibus custa de R$ 5,87 a R$ 7,81 (varia com o tipo de linha), conforme Contrato de Outorga de Permissão nº 3654/2023; valor conferido em 04/11/2026 pela Tarifaoteca da Otimiza.pro.
 
 Página da cidade: https://otimizapro.com/tarifa/mg/santa-rita-do-sapucai
 
-Fonte (página oficial): https://arquivos.pmsrs.mg.gov.br/wp-content/uploads/2023/08/HOMOLOGA%C3%87%C3%83O-E-ADJUDICA%C3%87%C3%83O-Permissao-Transporte-Publico-1.pdf
+Fonte (página oficial): https://arquivos.pmsrs.mg.gov.br/wp-content/uploads/2023/08/CONTRATO-SARTASA-Permiss%C3%A3o-Transporte-P%C3%BAblico.pdf
 
 ### Santana do Paraíso (MG)
 
@@ -1994,16 +1996,6 @@ Página da cidade: https://otimizapro.com/tarifa/mt/nova-mutum
 
 Fonte (página oficial): https://www.diariomunicipal.com.br/amm-mt/materia/2B8E866D
 
-### Primavera do Leste (MT)
-
-Em Primavera do Leste (MT), o ônibus é gratuito (tarifa zero) desde 22/11/2021, conforme Lei municipal nº 2.007/2021; valor conferido em 20/10/2026 pela Tarifaoteca da Otimiza.pro.
-
-Página da cidade: https://otimizapro.com/tarifa/mt/primavera-do-leste
-
-Fonte (imprensa): https://paineldiario.com.br/em-primavera-do-leste-moradores-reclamam-de-falta-de-onibus-em-bairros/
-
-Tarifa zero em Primavera do Leste: Transporte coletivo municipal gratuito para toda a população, com subsídio integral do Município ou veículos e motoristas próprios, enquanto não houver contrato de concessão. A lei fixa prazo máximo de 24 meses; a imprensa de 23/02/2024 confirma a gratuidade, e não se achou fonte posterior.
-
 ### Rondonópolis (MT)
 
 Em Rondonópolis (MT), a passagem de ônibus custa R$ 2,00 desde 07/05/2026, conforme Decreto nº 13.359/2026; valor conferido em 17/10/2026 pela Tarifaoteca da Otimiza.pro.
@@ -2186,9 +2178,9 @@ Fonte (página oficial): https://diario.parauapebas.pa.gov.br/api/Publicacoes/19
 
 Integração em Parauapebas: Ponto central de integração na Parada Amazônica (PA-275), desde 01/09/2025, permitindo conexões entre regiões pagando uma só passagem; linhas TA275, A001, A002, A003 e A005 estendidas até o ponto; integração pelo cartão eletrônico disponível na Central das Cooperativas
 
-Tarifa zero em Parauapebas: Gratuidade integral a todos os usuários aos sábados e domingos, exclusivamente nas linhas e serviços operados pela CENTRAL
+Tarifa zero em Parauapebas: Gratuidade integral a todos os usuários do transporte público coletivo municipal aos sábados e domingos, só nas linhas e serviços operados pela Central das Cooperativas de Transporte de Parauapebas (CENTRAL); não vale nas linhas da COOPALMAS e da COPAVEL. Nos dias úteis, segue a tarifa do Decreto nº 666/2022.
 
-Tarifa zero em Parauapebas: Gratuidade aos candidatos do ENEM, vestibulares, concursos e processos seletivos nos dias de prova, nas linhas da CENTRAL
+Tarifa zero em Parauapebas: Gratuidade integral, nos dias de prova, aos candidatos do ENEM, vestibulares, concursos públicos, processos seletivos, exames de certificação e outros certames de interesse público, só nas linhas da CENTRAL, com comprovante de inscrição ou convocação.
 
 ### Santa Izabel do Pará (PA)
 
@@ -3216,7 +3208,7 @@ Página da cidade: https://otimizapro.com/tarifa/rj/mage
 
 Fonte (página oficial): https://mage.rj.gov.br/informacoes/mage-implanta-onibus-com-tarifa-zero-na-cidade/
 
-Tarifa zero em Magé: Parcial: gratuidade para qualquer passageiro apenas nas oito linhas Amarelinho (TZ 01 a TZ 08); as demais linhas municipais são pagas
+Tarifa zero em Magé: Gratuidade para qualquer passageiro apenas nas oito linhas Amarelinho (TZ 01 a TZ 08); as demais linhas municipais são pagas
 
 ### Maricá (RJ)
 
@@ -3668,11 +3660,11 @@ Vale-transporte em Capão da Canoa: cartão Passagem Antecipada (cartão recarre
 
 ### Carazinho (RS)
 
-Em Carazinho (RS), a passagem de ônibus custa R$ 3,75 desde 01/11/2023, conforme portaria do prefeito assinada em 23/10/2023; valor conferido em 20/10/2026 pela Tarifaoteca da Otimiza.pro.
+Em Carazinho (RS), a passagem de ônibus custa R$ 4,75 desde 04/2026, conforme Contrato de Permissão Emergencial nº 077/2026; valor conferido em 04/11/2026 pela Tarifaoteca da Otimiza.pro.
 
 Página da cidade: https://otimizapro.com/tarifa/rs/carazinho
 
-Fonte (página oficial): http://web.archive.org/web/20250915083514/https://www.carazinho.rs.gov.br/portal/noticias/0/3/10761/reajuste-integral-na-passagem-nao-sera-repassado-ao-usuario
+Fonte (página oficial): https://pncp.gov.br/pncp-api/v1/orgaos/87613535000116/contratos/2026/104/arquivos/1
 
 ### Carlos Barbosa (RS)
 
@@ -3760,11 +3752,11 @@ Vale-transporte em Estrela: cartão vale-transporte em papel 'Estrela X Lageado'
 
 ### Farroupilha (RS)
 
-Em Farroupilha (RS), a passagem de ônibus custa R$ 4,75 desde 03/11/2021, segundo a imprensa (Diário do Transporte, 02/11/2021); valor conferido em 20/10/2026 pela Tarifaoteca da Otimiza.pro.
+Em Farroupilha (RS), a passagem de ônibus custa R$ 6,00 desde 19/02/2026, conforme Decreto nº 7.804/2026; valor conferido em 04/11/2026 pela Tarifaoteca da Otimiza.pro.
 
 Página da cidade: https://otimizapro.com/tarifa/rs/farroupilha
 
-Fonte (imprensa): https://diariodotransporte.com.br/2021/11/02/tarifa-de-onibus-em-farroupilha-rs-aumenta-para-r-475-a-partir-desta-quarta-3/
+Fonte (página oficial): https://diario.farroupilha.rs.gov.br/diario/#/verificar/farslOM6BDIRtUM
 
 Vale-transporte em Farroupilha: cartão SOU Vale-Transporte; emitido por SOU, Sistema de Ônibus Unificado (Bento Transportes e Ozelame); canal de compra da empresa: a empresa se cadastra por e-mail (razão social, nome fantasia, endereço, CEP, CNPJ, IE, telefone e e-mail; em Farroupilha, farroupilha@souunificado.com.br), recebe login e senha e cadastra os funcionários no sistema TDMax (https://max00367.itstransdata.com/TDMaxwebcommerce/); um representante entrega a lista de funcionários assinada e o contrato de concessão numa central de atendimento para retirar os cartões (em Farroupilha, cadastro na Rua Ruy Barbosa, 235, sala 03, e venda na Rua Mal. Floriano Peixoto, 359).
 
@@ -3902,11 +3894,11 @@ Vale-transporte em Osório: cartão vale-transporte em papel, um por linha; emit
 
 ### Palmeira das Missões (RS)
 
-Em Palmeira das Missões (RS), a passagem de ônibus custa R$ 5,50, segundo a publicação oficial (Câmara Municipal de Vereadores de Palmeira das Missões, notícia 'Câmara realiza Sessão Extraordinária e aprova Projetos relacionados ao Transporte Coletivo', 18/11/2025); valor conferido em 04/11/2026 pela Tarifaoteca da Otimiza.pro.
+Em Palmeira das Missões (RS), a passagem de ônibus custa R$ 5,50, conforme Lei Ordinária Municipal nº 6.396/2025; valor conferido em 04/11/2026 pela Tarifaoteca da Otimiza.pro.
 
 Página da cidade: https://otimizapro.com/tarifa/rs/palmeira-das-missoes
 
-Fonte (página oficial): https://www.palmeiradasmissoes.rs.leg.br/institucional/noticias/camara-realiza-sessao-extraordinaria-e-aprova-projetos-relacionados-ao-transporte-coletivo
+Fonte (página oficial): https://cmpalmeiradasmissoes.cittatec.com.br/portal-legislativo/proposicoes/detalhe/442
 
 Vale-transporte em Palmeira das Missões: emitido por Fortt Viagens e Turismo Ltda., CNPJ 49.488.363/0001-07; canal de compra da empresa: compra direta da prestadora do serviço (a Prefeitura comprou por contrato, com inexigibilidade de licitação).
 
@@ -4324,7 +4316,7 @@ Vale-transporte em Camboriú: cartão eletrônico da Viação Praiana, um produt
 
 ### Campos Novos (SC)
 
-Em Campos Novos (SC), a passagem de ônibus custa de R$ 3,50 a R$ 5,50 (varia com o tipo de linha) desde 23/06/2022, conforme Decreto nº 9.196/2022; valor conferido em 20/10/2026 pela Tarifaoteca da Otimiza.pro.
+Em Campos Novos (SC), a passagem de ônibus custa de R$ 3,50 a R$ 5,50 (varia com o tipo de linha) desde 23/06/2022, conforme Decreto nº 9.196/2022; valor conferido em 04/11/2026 pela Tarifaoteca da Otimiza.pro.
 
 Página da cidade: https://otimizapro.com/tarifa/sc/campos-novos
 
@@ -4444,11 +4436,11 @@ Tarifa zero em Garopaba: Ônibus municipais gratuitos para todos (Programa Tarif
 
 ### Gaspar (SC)
 
-Em Gaspar (SC), a passagem de ônibus custa de R$ 4,80 a R$ 5,00 (varia com o cartão ou o meio de pagamento) desde 01/01/2023, conforme Decreto Municipal nº 10.766; valor conferido em 20/10/2026 pela Tarifaoteca da Otimiza.pro.
+Em Gaspar (SC), a passagem de ônibus custa de R$ 4,80 a R$ 5,00 (varia com o cartão ou o meio de pagamento) desde 01/01/2023, conforme Decreto nº 10.766/2022; valor conferido em 04/11/2026 pela Tarifaoteca da Otimiza.pro.
 
 Página da cidade: https://otimizapro.com/tarifa/sc/gaspar
 
-Fonte (operadora): https://expressopresidente.com.br/cidades/gaspar
+Fonte (página oficial): https://diariomunicipal.sc.gov.br/atos/4384203
 
 Vale-transporte em Gaspar: cartão Eletrônico trabalhador (vale-transporte); emitido por Expresso Presidente Getúlio; canal de compra da empresa: menu 'Compra de vale transporte' do site da operadora, com cadastro prévio da empresa, que leva ao sistema de compra TDMax WebCommerce (https://max00478.itstransdata.com/tdmaxwebcommerce/); pedidos e dúvidas pelo e-mail pedidosgaspar@expressopresidente.com.br.
 
@@ -5282,11 +5274,11 @@ Fonte (ato oficial reproduzido): https://www.taboaoemfoco.com.br/wp-content/uplo
 
 ### Embu-Guaçu (SP)
 
-Em Embu-Guaçu (SP), a passagem de ônibus custa R$ 4,50, segundo a publicação oficial (Prefeitura de Embu-Guaçu, página 'Ônibus' do portal oficial, bloco do transporte municipal); valor conferido em 23/10/2026 pela Tarifaoteca da Otimiza.pro.
+Em Embu-Guaçu (SP), a passagem de ônibus custa R$ 4,50 desde 01/07/2025, conforme Decreto nº 3.320/2025; valor conferido em 04/11/2026 pela Tarifaoteca da Otimiza.pro.
 
 Página da cidade: https://otimizapro.com/tarifa/sp/embu-guacu
 
-Fonte (página oficial): https://www.embuguacu.sp.gov.br/onibus
+Fonte (página oficial): https://ecrie.com.br/Sistema/Conteudos/DiarioOficial/upload/ASS_u_7_12062025082940.pdf
 
 ### Espírito Santo do Pinhal (SP)
 
@@ -6292,11 +6284,13 @@ Fonte (página oficial): https://www.santabarbara.sp.gov.br/portal/noticias/0/3/
 
 ### Santa Cruz do Rio Pardo (SP)
 
-Em Santa Cruz do Rio Pardo (SP), a passagem de ônibus custa de R$ 3,00 a R$ 3,50 (varia com o cartão ou o meio de pagamento) desde 01/12/2023, conforme Decreto municipal nº 277/2023; valor conferido em 20/10/2026 pela Tarifaoteca da Otimiza.pro.
+Em Santa Cruz do Rio Pardo (SP), o ônibus é gratuito (tarifa zero) desde 01/04/2025, conforme Lei Complementar nº 860/2025; valor conferido em 04/11/2026 pela Tarifaoteca da Otimiza.pro.
 
 Página da cidade: https://otimizapro.com/tarifa/sp/santa-cruz-do-rio-pardo
 
-Fonte (imprensa): https://www.passandoaregua.com.br/noticia/prefeitura-de-santa-cruz-do-rio-pardo-estabelece-tarifa-unica-para-o-transporte-publico-municipal-18036
+Fonte (página oficial): https://diariooficialnovo.jelastic.saveincloud.net/diarios/scruz/2025/04/2025-04-05_Diario_Oficial.pdf
+
+Tarifa zero em Santa Cruz do Rio Pardo: Transporte coletivo municipal gratuito para toda a população (Programa Tarifa Zero)
 
 ### Santa Fé do Sul (SP)
 
@@ -6316,11 +6310,11 @@ Fonte (imprensa): https://diariodotransporte.com.br/2023/11/22/santa-isabel-sp-t
 
 ### Santa Rita do Passa Quatro (SP)
 
-Em Santa Rita do Passa Quatro (SP), o ônibus é gratuito (tarifa zero), segundo a publicação oficial (Diário Oficial de Santa Rita do Passa Quatro, edição nº 211, 20/11/2019, Lei nº 3.489/2019, Anexo Único, PlanMob/SRPQ, item 2.1.3); valor conferido em 20/10/2026 pela Tarifaoteca da Otimiza.pro.
+Em Santa Rita do Passa Quatro (SP), o ônibus é gratuito (tarifa zero), segundo a publicação oficial (Prefeitura da Estância Climática de Santa Rita do Passa Quatro, notícia de 17/07/2025 sobre o transporte público gratuito do município); valor conferido em 04/11/2026 pela Tarifaoteca da Otimiza.pro.
 
 Página da cidade: https://otimizapro.com/tarifa/sp/santa-rita-do-passa-quatro
 
-Fonte (página oficial): https://dosp.com.br/exibe_do.php?i=ODQ2MTM=
+Fonte (página oficial): https://www.santaritadopassaquatro.sp.gov.br/portal/?p=12620
 
 ### Santana de Parnaíba (SP)
 
