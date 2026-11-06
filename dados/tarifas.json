@@ -1,6 +1,6 @@
 {
  "nome": "Tarifaoteca da Otimiza.pro: tarifas",
- "versao": "2026.11.05.2",
+ "versao": "2026.11.06",
  "licenca": {
   "nome": "CC BY-NC 4.0",
   "url": "https://creativecommons.org/licenses/by-nc/4.0/deed.pt-br",
@@ -8,7 +8,7 @@
   "uso_interno": "A consulta para decisões da própria empresa, como orçar o vale-transporte, não pede licença.",
   "uso_comercial": "Uso comercial por empresas (em produto, revenda ou integração em sistema ou serviço pago) pede licença da Otimiza.pro: empresa@otimiza.pro."
  },
- "citar_como": "Fonte: Tarifaoteca da Otimiza.pro, versão 2026.11.05.2. DOI: https://doi.org/10.5281/zenodo.23486211. https://github.com/OtimizaPro/tarifas_integracoestarifarias_transportepublico_brasileiro",
+ "citar_como": "Fonte: Tarifaoteca da Otimiza.pro, versão 2026.11.06. DOI: https://doi.org/10.5281/zenodo.23486211. https://github.com/OtimizaPro/tarifas_integracoestarifarias_transportepublico_brasileiro",
  "linhas": [
   {
    "uf": "AC",
@@ -64,8 +64,8 @@
    "fonte_url": "https://cgm.riobranco.ac.gov.br/lai/wp-content/uploads/2015/06/DECRETO-N%C2%BA-1438-2021-Altera%C3%A7%C3%A3o-da-Tarifa-no-valor-de-R-350..pdf",
    "fonte_tipo": "oficial",
    "confianca": "A",
-   "verificado_em": "2026-10-17",
-   "observacao": "antes R$ 4,00; subsídio de R$ 2,63 por passageiro (LC 260/2023); operadora JTP desde 02/10/2026"
+   "verificado_em": "2026-11-06",
+   "observacao": "Valor confirmado na operação atual, da COM Rio Branco (JTP Transportes), que assumiu o transporte coletivo em contrato emergencial no lugar da Ricco (início previsto para 03/07/2026; operadora JTP desde 02/10/2026). A página de perguntas frequentes da COM Rio Branco (https://comriobranco.grupojtp.com.br/faq), aberta em 06/11/2026, com as respostas publicadas em 24/09/2026, diz 'O valor da tarifa é de R$3,50.' para os pagantes em dinheiro, para o Cidadão/MEU CARTÃO e para o VT, e aceita cartão de transporte, dinheiro ou PIX (QR Code); a mesma página diz que o cartão atual continua o mesmo com a nova operação. O Diário do Transporte de 24/06/2026 (https://diariodotransporte.com.br/2026/06/24/conselho-aprova-tarifa-tecnica-de-r-1129-para-a-jtp-operar-transportes-publicos-em-rio-branco-no-lugar-da-ricco/), aberto em 06/11/2026, diz que o Conselho Municipal de Transporte Público aprovou a tarifa técnica de R$ 11,29 para a JTP e que 'Os usuários vão continuar pagando R$ 3,50 nas catracas', com a diferença de R$ 7,79 bancada por subsídio municipal. Não se achou decreto de tarifa depois do Decreto 1.438/2021, então a fonte e o ato da linha publicada ficam, para não rebaixar a fonte. Da linha publicada: antes R$ 4,00; subsídio de R$ 2,63 por passageiro (LC 260/2023)."
   },
   {
    "uf": "AC",
@@ -83,8 +83,8 @@
    "fonte_url": "https://cgm.riobranco.ac.gov.br/lai/wp-content/uploads/2015/06/DECRETO-N%C2%BA-1438-2021-Altera%C3%A7%C3%A3o-da-Tarifa-no-valor-de-R-350..pdf",
    "fonte_tipo": "oficial",
    "confianca": "A",
-   "verificado_em": "2026-10-17",
-   "observacao": null
+   "verificado_em": "2026-11-06",
+   "observacao": "Valor confirmado na operação atual: a página de perguntas frequentes da COM Rio Branco (JTP Transportes), https://comriobranco.grupojtp.com.br/faq, aberta em 06/11/2026, com a resposta publicada em 24/09/2026, diz 'O valor da tarifa é de R$1,00 utilizando o cartão estudante.' Não se achou ato de tarifa depois do Decreto 1.438/2021, então a fonte e o ato da linha publicada ficam, para não rebaixar a fonte."
   },
   {
    "uf": "AL",
@@ -121,8 +121,8 @@
    "fonte_url": "https://maceio.al.gov.br/noticias/dmtt/reajuste-da-tarifa-de-onibus-fica-abaixo-da-inflacao-e-mantem-maceio-como-a-capital-mais-barata-do-brasil",
    "fonte_tipo": "oficial",
    "confianca": "A",
-   "verificado_em": "2026-10-17",
-   "observacao": "Cartão Vamu Cidadão, especial e estudantil; domingo grátis com o Cidadão"
+   "verificado_em": "2026-11-06",
+   "observacao": "Cartão Vamu Cidadão, especial e estudantil; domingo grátis com o Cidadão (programa Domingo é Livre). Valor confirmado em 2026: A notícia da Prefeitura de Maceió 'Passe Livre Estudantil transforma rotina de estudantes com transporte gratuito' (Secom Maceió, 19/08/2026, https://maceio.al.gov.br/noticias/dmtt/passe-livre-estudantil-transforma-rotina-de-estudantes-com-transporte-gratuito), aberta em 06/11/2026, diz: 'Atualmente, a passagem de ônibus custa R$ 4,00 na tarifa inteira e R$ 3,49 para quem utiliza o Cartão Vamu Cidadão.' Não se achou reajuste depois do Decreto 9.449/2023: na busca do site da Prefeitura por 'reajuste tarifa', a última notícia de reajuste da tarifa de ônibus é de 30/05/2023. A fonte e o ato da linha publicada ficam, para não rebaixar a fonte."
   },
   {
    "uf": "AL",
@@ -140,8 +140,8 @@
    "fonte_url": "https://www.normasbrasil.com.br/norma/decreto-9449-2023-maceio_446054.html",
    "fonte_tipo": "oficial_reproduzido",
    "confianca": "A",
-   "verificado_em": "2026-10-17",
-   "observacao": "tarifa geral: dinheiro, crédito, QR Code e VT; antes R$ 3,35"
+   "verificado_em": "2026-11-06",
+   "observacao": "Tarifa geral: dinheiro, crédito, QR Code e VT; antes R$ 3,35. Valor confirmado em 2026: A notícia da Prefeitura de Maceió 'Passe Livre Estudantil transforma rotina de estudantes com transporte gratuito' (Secom Maceió, 19/08/2026, https://maceio.al.gov.br/noticias/dmtt/passe-livre-estudantil-transforma-rotina-de-estudantes-com-transporte-gratuito), aberta em 06/11/2026, diz: 'Atualmente, a passagem de ônibus custa R$ 4,00 na tarifa inteira e R$ 3,49 para quem utiliza o Cartão Vamu Cidadão.' Não se achou reajuste depois do Decreto 9.449/2023: na busca do site da Prefeitura por 'reajuste tarifa', a última notícia de reajuste da tarifa de ônibus é de 30/05/2023. A fonte e o ato da linha publicada ficam, para não rebaixar a fonte."
   },
   {
    "uf": "AL",
@@ -159,8 +159,8 @@
    "fonte_url": "https://maceio.al.gov.br/noticias/dmtt/reajuste-da-tarifa-de-onibus-fica-abaixo-da-inflacao-e-mantem-maceio-como-a-capital-mais-barata-do-brasil",
    "fonte_tipo": "oficial",
    "confianca": "A",
-   "verificado_em": "2026-10-17",
-   "observacao": "o VT paga a tarifa integral, sem o desconto do Cidadão (Lei 7.418/1985, art. 5º, §3º)"
+   "verificado_em": "2026-11-06",
+   "observacao": "O VT paga a tarifa integral, sem o desconto do Cidadão (Lei 7.418/1985, art. 5º, §3º). A notícia da fonte, reaberta em 06/11/2026, diz: 'Para o setor empresarial, que faz a aquisição do vale-transporte, via cartões de crédito ou QR Code, a passagem final fica em R$ 4.' Em 2026, a tarifa inteira segue R$ 4,00: A notícia da Prefeitura de Maceió 'Passe Livre Estudantil transforma rotina de estudantes com transporte gratuito' (Secom Maceió, 19/08/2026, https://maceio.al.gov.br/noticias/dmtt/passe-livre-estudantil-transforma-rotina-de-estudantes-com-transporte-gratuito), aberta em 06/11/2026, diz: 'Atualmente, a passagem de ônibus custa R$ 4,00 na tarifa inteira e R$ 3,49 para quem utiliza o Cartão Vamu Cidadão.' A página do Cartão Vamu Vale-transporte (https://www.vamumobilidade.com.br/cartao-vale-transporte/), aberta em 06/11/2026, diz que 'O custo de cada unidade de crédito eletrônico tipo vale-transporte fornecido será o da tarifa vigente na data do pedido do benefício', sem dar o valor em reais. Não se achou reajuste depois do Decreto 9.449/2023: na busca do site da Prefeitura por 'reajuste tarifa', a última notícia de reajuste da tarifa de ônibus é de 30/05/2023. A fonte e o ato da linha publicada ficam, para não rebaixar a fonte."
   },
   {
    "uf": "AL",
@@ -1103,14 +1103,14 @@
    "perfil": "comum",
    "meio_pagamento": "",
    "valor_brl": 5.2,
-   "vigencia_inicio": null,
-   "ato_oficial": null,
-   "fonte": "Metropasse, página Empresas e Tarifas",
-   "fonte_url": "http://www.metropasse.com.br/empresas-e-tarifas/",
-   "fonte_tipo": "operadora",
-   "confianca": "B",
-   "verificado_em": "2026-10-18",
-   "observacao": "Linhas com destino ao Terminal da França, Mussurunga, Itapuã (via CIA I), Águas Claras e Pirajá; as linhas 872 e 873A partem de Mapele e Ilha de São João. A linha 834E, Lauro de Freitas x Simões Filho (via CIA I), também custa R$ 5,20."
+   "vigencia_inicio": "2024-03-27",
+   "ato_oficial": "Resolução AGERBA nº 11, de 25/03/2024 (reajuste de 8,11% das tarifas do Subsistema Metropolitano, em vigor a partir de 27/03/2024)",
+   "fonte": "AGERBA, Certificado de Autorização de Tráfego do Sistema Metropolitano da Expresso Metropolitano Transportes Ltda., com a tarifa atual de cada linha (documento DTAF-DPE de 24/07/2025)",
+   "fonte_url": "https://www.ba.gov.br/agerba/sites/site-agerba/files/2025-08/CAT%20financeiro%20-%20Expresso%20Metropolitano%20%28metropolitano%29.pdf",
+   "fonte_tipo": "oficial",
+   "confianca": "A",
+   "verificado_em": "2026-11-06",
+   "observacao": "Certificado da AGERBA de 24/07/2025, baixado e lido em 06/11/2026: as linhas 815, 819 I2, 820, 826 A, 869 I, 872 e 873 A da Expresso Metropolitano têm a tarifa atual de R$ 5,20, com o reajuste metropolitano convencional de 27/03/2024 (8,11%). A Resolução AGERBA nº 11, de 25/03/2024 (https://www.ba.gov.br/agerba/sites/site-agerba/files/migracao_2024/arquivos/uploads/Res112024_f85d923d3d.pdf, baixada e lida em 06/11/2026), aprova 'o reajuste das tarifas do Subsistema Metropolitano (linhas semiurbanas)' do transporte rodoviário intermunicipal, 'no percentual de 8,11%', com a tabela Anel 1 R$ 5,20, Anel 2 R$ 7,40 e Anel 3 R$ 10,40, e entra em vigor a partir de 27/03/2024. Não se achou reajuste do subsistema metropolitano convencional depois dela: na lista de resoluções da AGERBA (https://www.ba.gov.br/agerba/publicacoes/Legisla%C3%A7%C3%B5es, filtro 'reajuste', até a Resolução nº 13, de 13/03/2026), os reajustes de 2025 e 2026 são de terminais, travessias, pedágios e aeroportos, da longa distância (Resolução nº 02, de 14/01/2026, 6,28% desde 17/01/2026, aplicado também às 'linhas Metropolitanas Rodoviárias', § 1º) e do semiurbano intermunicipal (Resolução nº 03, de 14/01/2026, 8,44%, linhas fora da Região Metropolitana de Salvador, segundo o Correio de 17/01/2026); as linhas de Simões Filho são urbanas convencionais e não tiveram o reajuste rodoviário de 10/10/2024, como mostra o certificado de 2025. A página de tarifas do Metropasse (http://www.metropasse.com.br/empresas-e-tarifas/), fonte da linha publicada, aberta em 06/11/2026, segue com R$ 5,20 nessas linhas. Da linha publicada: linhas com destino ao Terminal da França, Mussurunga, Itapuã (via CIA I), Águas Claras e Pirajá; as linhas 872 e 873A partem de Mapele e Ilha de São João. A linha 834E, Lauro de Freitas x Simões Filho (via CIA I), também custa R$ 5,20 (Metropasse e certificado da Avanço de 24/07/2025)."
   },
   {
    "uf": "BA",
@@ -1122,14 +1122,14 @@
    "perfil": "comum",
    "meio_pagamento": "",
    "valor_brl": 4.5,
-   "vigencia_inicio": null,
-   "ato_oficial": null,
-   "fonte": "Metropasse, página Empresas e Tarifas",
-   "fonte_url": "http://www.metropasse.com.br/empresas-e-tarifas/",
-   "fonte_tipo": "operadora",
-   "confianca": "B",
-   "verificado_em": "2026-10-18",
-   "observacao": null
+   "vigencia_inicio": "2024-03-27",
+   "ato_oficial": "Resolução AGERBA nº 11, de 25/03/2024 (reajuste de 8,11% das tarifas do Subsistema Metropolitano, em vigor a partir de 27/03/2024)",
+   "fonte": "AGERBA, Certificado de Autorização de Tráfego do Sistema Metropolitano da Avanço Transportes e Turismo Ltda., com a tarifa atual de cada linha (documento DTAF-DPE de 24/07/2025)",
+   "fonte_url": "https://www.ba.gov.br/agerba/sites/site-agerba/files/2025-08/CAT%20financeiro%20-%20Avan%C3%A7o%20%28metropolitano%29.pdf",
+   "fonte_tipo": "oficial",
+   "confianca": "A",
+   "verificado_em": "2026-11-06",
+   "observacao": "Certificado da AGERBA de 24/07/2025, baixado e lido em 06/11/2026: as linhas Camaçari x Simões Filho e Candeias x Simões Filho, da Avanço Transportes e Turismo, têm a tarifa atual de R$ 4,50, com o reajuste metropolitano convencional de 27/03/2024 (8,11%). A data vem dos certificados anteriores da Avanço, também da AGERBA: o de 2022 (https://www.ba.gov.br/agerba/sites/site-agerba/files/migracao_2024/arquivos/uploads/Metropolitano_Avanco_1_b4b0b41986.pdf, vigente desde 10/06/2022) dá R$ 4,20 nas linhas 812 e 813, e o de 2024 (https://www.ba.gov.br/agerba/sites/site-agerba/files/migracao_2024/arquivos/uploads/Cat_s_Avanco_a19978d3b6.pdf, 'DATA DO REAJUSTE 27/03/2024', 8,11%) dá R$ 4,50 nas duas. O reajuste é o da Resolução AGERBA nº 11, de 25/03/2024 (https://www.ba.gov.br/agerba/sites/site-agerba/files/migracao_2024/arquivos/uploads/Res112024_f85d923d3d.pdf), que aprova 8,11% sobre as tarifas do Subsistema Metropolitano a partir de 27/03/2024. Não se achou reajuste do subsistema metropolitano convencional depois dela: na lista de resoluções da AGERBA (https://www.ba.gov.br/agerba/publicacoes/Legisla%C3%A7%C3%B5es, filtro 'reajuste', até a Resolução nº 13, de 13/03/2026), os reajustes de 2025 e 2026 são de terminais, travessias, pedágios e aeroportos, da longa distância (Resolução nº 02, de 14/01/2026, 6,28% desde 17/01/2026, aplicado também às 'linhas Metropolitanas Rodoviárias', § 1º) e do semiurbano intermunicipal (Resolução nº 03, de 14/01/2026, 8,44%, linhas fora da Região Metropolitana de Salvador, segundo o Correio de 17/01/2026); as linhas de Simões Filho são urbanas convencionais e não tiveram o reajuste rodoviário de 10/10/2024, como mostra o certificado de 2025. A página de tarifas do Metropasse (http://www.metropasse.com.br/empresas-e-tarifas/), fonte da linha publicada, aberta em 06/11/2026, segue com 'Valor: R$ 4,50' nas linhas 812 e 813."
   },
   {
    "uf": "BA",
@@ -2306,8 +2306,8 @@
    "fonte_url": "https://cmtcrmg.com.br/transparencia/deliberacao-no-085-17-04-2019/",
    "fonte_tipo": "oficial",
    "confianca": "A",
-   "verificado_em": "2026-10-17",
-   "observacao": "antes R$ 4,00; tarifa técnica R$ 11,3568 (Resolução Normativa AGR 332/2025)"
+   "verificado_em": "2026-11-06",
+   "observacao": "Antes R$ 4,00. Valor confirmado em 2025 e 2026: a Resolução CMTC nº 159, de 22/12/2025 (https://cmtcrmg.com.br/wp-content/uploads/2025/12/Resolucao-159-2025-Meia-Tarifa-Terminal-Cruzeiro.pdf, baixada e lida por reconhecimento de texto em 06/11/2026), cita no art. 1º, § 4º, a 'tarifa básica integral (R$ 4,30)' e, no art. 2º, a 'tarifa cheia (R$ 4,30)'; a página da Sitpass (https://www.sitpass.com.br/paravoce/meiatarifa), aberta em 06/11/2026, mostra 'Tarifa vigente R$ 4,30'; e o jornal O Hoje de 17/09/2026 (https://ohoje.com/2026/09/17/sem-aumento-na-catraca-transporte-coletivo-tera-custo-maior-para-governos-na-rede-metropolitana-de-goiania/), aberto em 06/11/2026, diz que 'a passagem continuará custando R$ 4,30' e cita a CMTC: a variação 'não altera a tarifa paga pelo usuário, que permanece em R$ 4,30', com a tarifa de remuneração passando de R$ 11,77 para R$ 12,66 a partir de outubro de 2026 e a diferença coberta por subsídio do Governo de Goiás e das prefeituras. Não se achou ato novo sobre a tarifa pública: a lista de deliberações da CDTC no portal da CMTC (https://cmtcrmg.com.br/pasta/deliberacoes/) vai até a nº 023/2025, sem deliberação de tarifa depois da nº 085/2019, e as resoluções da CMTC de 2026 (nº 160 a 163) tratam de outros assuntos. A fonte e o ato da linha publicada ficam."
   },
   {
    "uf": "GO",
@@ -2320,13 +2320,13 @@
    "meio_pagamento": "cartao",
    "valor_brl": 2.15,
    "vigencia_inicio": null,
-   "ato_oficial": null,
-   "fonte": "Sitpass",
-   "fonte_url": "https://www.sitpass.com.br/paravoce/meiatarifa",
-   "fonte_tipo": "operadora",
-   "confianca": "B",
-   "verificado_em": "2026-10-17",
-   "observacao": "só com Bilhete Único"
+   "ato_oficial": "Resolução CMTC nº 159, de 22/12/2025 (Meia Tarifa nas linhas alimentadoras do Terminal Cruzeiro, desde 27/12/2025, na política de Tarifação Flexível das Deliberações CDTC nº 01/2022 e nº 02/2022)",
+   "fonte": "CMTC, Resolução nº 159, de 22/12/2025, que regulamenta a etapa de implantação do benefício tarifário 'Meia Tarifa' nas linhas alimentadoras do Terminal Cruzeiro, em Aparecida de Goiânia",
+   "fonte_url": "https://cmtcrmg.com.br/wp-content/uploads/2025/12/Resolucao-159-2025-Meia-Tarifa-Terminal-Cruzeiro.pdf",
+   "fonte_tipo": "oficial",
+   "confianca": "A",
+   "verificado_em": "2026-11-06",
+   "observacao": "Só com Bilhete Único. A Resolução CMTC nº 159, de 22/12/2025 (lida por reconhecimento de texto em 06/11/2026), estende a Meia Tarifa às linhas alimentadoras do Terminal Cruzeiro a partir de 27/12/2025, também na venda a bordo, e diz no art. 1º, § 4º, que o modelo 'garante o pagamento de tarifa básica integral (R$ 4,30) para viagens de longa distância e Meia Tarifa (R$ 2,15) para viagens de curta distância'; no art. 2º, quem integra no terminal paga 'R$ 2,15 na linha alimentadora (1º embarque) e R$ 2,15 na linha que vier a integrar pela área segregada'. A página da Sitpass (https://www.sitpass.com.br/paravoce/meiatarifa), fonte da linha publicada, aberta em 06/11/2026, segue com 'Meia Tarifa TARIFA R$ 2,15' para as linhas alimentadoras dos terminais Araguaia, Cruzeiro, Garavelo, Goianira, Maranata, Nerópolis, Senador Canedo, Trindade, Veiga Jardim e Vila Brasília: 'Ao embarcar em uma linha alimentadora com o Bilhete Único, o passageiro paga apenas R$ 2,15'. As etapas anteriores do benefício são das Resoluções CMTC nº 133 (26/01/2023), 137 (09/03/2023), 139 (20/04/2023) e 140 (11/05/2023), vistas só pelo título na lista de resoluções da CMTC. Vigência deixada vazia: o valor começou em datas diferentes em cada terminal, desde o projeto piloto de janeiro de 2023 até o Terminal Cruzeiro, em 27/12/2025. Não se achou ato novo sobre a tarifa pública: a lista de deliberações da CDTC no portal da CMTC (https://cmtcrmg.com.br/pasta/deliberacoes/) vai até a nº 023/2025, sem deliberação de tarifa depois da nº 085/2019, e as resoluções da CMTC de 2026 (nº 160 a 163) tratam de outros assuntos."
   },
   {
    "uf": "GO",
@@ -2338,14 +2338,14 @@
    "perfil": "comum",
    "meio_pagamento": "",
    "valor_brl": 3,
-   "vigencia_inicio": null,
+   "vigencia_inicio": "2022-01-03",
    "ato_oficial": null,
    "fonte": "Prefeitura de Itumbiara, página Transporte Coletivo",
    "fonte_url": "https://itumbiara.go.gov.br/transportecoletivo/",
    "fonte_tipo": "oficial",
    "confianca": "B",
-   "verificado_em": "2026-10-17",
-   "observacao": "A página não informa data de vigência nem ato; os arquivos de horários publicados nela são de 06/2023, 06/2025 e 07/2025. A página informa que está em implantação a tarifa gratuita para os servidores do município."
+   "verificado_em": "2026-11-06",
+   "observacao": "A página Transporte Coletivo da Prefeitura, aberta em 06/11/2026, segue com 'Tarifa $ 3,00', sem data e sem ato, com a tarifa gratuita para idosos acima de 60 anos, pessoas com deficiência e estudantes, e diz que 'Está em implantação a tarifa gratuita para os servidores do município'; os arquivos de horários publicados nela são de 06/2023, 06/2025 e 07/2025. Quem opera é a própria Prefeitura, com ônibus comprados por ela: a notícia da Prefeitura de 10/01/2022 (https://itumbiara.go.gov.br/smt-tira-duvidas-sobre-novo-transporte-coletivo-em-itumbiara/), aberta em 06/11/2026, diz que os ônibus do novo transporte coletivo começaram a rodar em 03/01/2022, que 'A tarifa, de R$ 3,00, é subsidiada pelo Poder Público Municipal' e que 'O atual transporte coletivo é administrado pela SMT, a Superintendência Municipal de Trânsito'; daí a vigência. Antes, a passagem já era de R$ 3,00 desde a volta do serviço em 23/03/2021, no contrato emergencial de seis meses com a FW Transportes (notícia de 22/03/2021, https://itumbiara.go.gov.br/prefeitura-contrata-empresa-de-itumbiara-e-retoma-transporte-coletivo-de-forma-emergencial/). O balanço da Prefeitura de 19/12/2024 (https://itumbiara.go.gov.br/prefeitura-faz-balanco-de-quatro-anos-de-mandato-com-100-obras-entregues/) fala em gratuidade para servidores municipais, estudantes, idosos e pessoas com deficiência e em 'tarifa subsidiada, pela Prefeitura, para os demais passageiros', sem o valor. O ônibus roda em 2026: as notícias da Prefeitura de 02/10/2026 (https://itumbiara.go.gov.br/transporte-coletivo-gratuito-neste-domingo-de-eleicoes-gerais/) e 23/10/2026 (https://itumbiara.go.gov.br/transporte-coletivo-gratuito-em-itumbiara-neste-domingo-segundo-turno-das-eleicoes-gerais/) dizem que, nos domingos de eleição (04/10 e 25/10/2026), 'o transporte coletivo público de Itumbiara será gratuito' e que 'Os ônibus circularão normalmente pelas linhas regulares do município'. Ressalva: a fonte datada mais recente com o valor é de 10/01/2022, e não se achou reajuste depois; a página oficial, sem data, segue com R$ 3,00 em 06/11/2026."
   },
   {
    "uf": "GO",
@@ -2439,8 +2439,8 @@
    "fonte_url": "https://transporte.rioverde.go.gov.br/valor-da-tarifa",
    "fonte_tipo": "oficial",
    "confianca": "A",
-   "verificado_em": "2026-10-17",
-   "observacao": "Bilhete Único Comum. O decreto revogou o Decreto nº 2.204, de 15/12/2023 (valor anterior não consta no decreto)."
+   "verificado_em": "2026-11-06",
+   "observacao": "Bilhete Único Comum. O decreto revogou o Decreto nº 2.204, de 15/12/2023 (valor anterior não consta no decreto). A página 'Valor da Tarifa' do portal do transporte público da Prefeitura (https://transporte.rioverde.go.gov.br/valor-da-tarifa), aberta em 06/11/2026, diz: 'Atualmente, o valor da tarifa do transporte público é de R$ 2,00 para o Bilhete Único Comum, R$ 1,00 para o Bilhete Único Estudante.', com o Decreto nº 1.276/2024 anexado (https://transporte.rioverde.go.gov.br/uploads/page_files/page_file_6a05b62a70b221.04071224.pdf, posto no servidor em 14/05/2026, pela data do arquivo; lido: art. 1º, R$ 2,00, estudante com 50%, e art. 4º, em vigor em 1º de maio de 2024). O jornal O Hoje de 03/09/2025 (https://ohoje.com/2025/09/03/rio-verde-e-premiada-por-inovacao-em-transporte-publico/), aberto em 06/11/2026, também dá 'passagem com o valor R$ 2,00 (dois reais) para o público geral' e R$ 1,00 para estudantes. O ônibus roda em 2026: notícia do mesmo portal de 03/06/2026, atualizada em 29/07/2026, sobre os horários de feriado (https://transporte.rioverde.go.gov.br/noticia/fique-atento-aos-horarios-de-feriado). Não se achou decreto de tarifa depois dos de 2024."
   },
   {
    "uf": "GO",
@@ -2458,8 +2458,8 @@
    "fonte_url": "https://transporte.rioverde.go.gov.br/valor-da-tarifa",
    "fonte_tipo": "oficial",
    "confianca": "A",
-   "verificado_em": "2026-10-17",
-   "observacao": "Estudante paga 50% (R$ 5,00). O decreto revogou o Decreto nº 1.756/2024."
+   "verificado_em": "2026-11-06",
+   "observacao": "Estudante paga 50% (R$ 5,00). O decreto revogou o Decreto nº 1.756/2024. A mesma página, aberta em 06/11/2026, diz: 'O valor da tarifa agora é de R$ 10,00 para o Bilhete Único Comum, R$ 5,00 para o Bilhete Único Estudante.', com o Decreto nº 2.637/2024 anexado (https://transporte.rioverde.go.gov.br/uploads/page_files/page_file_6a05b64cb488d0.75353773.pdf, posto no servidor em 14/05/2026; lido: art. 1º-A, R$ 10,00 nos distritos de Ouroana, Riverlândia e Lagoa do Bauzinho, estudante com 50%, e art. 3º, em vigor em 30 de dezembro de 2024). Não se achou decreto de tarifa depois dele."
   },
   {
    "uf": "GO",
@@ -2477,8 +2477,8 @@
    "fonte_url": "https://transporte.rioverde.go.gov.br/valor-da-tarifa",
    "fonte_tipo": "oficial",
    "confianca": "A",
-   "verificado_em": "2026-10-17",
-   "observacao": "Bilhete Único Estudante, 50% da tarifa."
+   "verificado_em": "2026-11-06",
+   "observacao": "Bilhete Único Estudante, 50% da tarifa (Decreto nº 1.276/2024, art. 1º, parágrafo único). A página 'Valor da Tarifa' do portal do transporte público da Prefeitura (https://transporte.rioverde.go.gov.br/valor-da-tarifa), aberta em 06/11/2026, diz: 'Atualmente, o valor da tarifa do transporte público é de R$ 2,00 para o Bilhete Único Comum, R$ 1,00 para o Bilhete Único Estudante.', com o Decreto nº 1.276/2024 anexado (https://transporte.rioverde.go.gov.br/uploads/page_files/page_file_6a05b62a70b221.04071224.pdf, posto no servidor em 14/05/2026, pela data do arquivo; lido: art. 1º, R$ 2,00, estudante com 50%, e art. 4º, em vigor em 1º de maio de 2024). O jornal O Hoje de 03/09/2025 (https://ohoje.com/2025/09/03/rio-verde-e-premiada-por-inovacao-em-transporte-publico/), aberto em 06/11/2026, também dá 'passagem com o valor R$ 2,00 (dois reais) para o público geral' e R$ 1,00 para estudantes. O ônibus roda em 2026: notícia do mesmo portal de 03/06/2026, atualizada em 29/07/2026, sobre os horários de feriado (https://transporte.rioverde.go.gov.br/noticia/fique-atento-aos-horarios-de-feriado). Não se achou decreto de tarifa depois dos de 2024."
   },
   {
    "uf": "GO",
@@ -2648,8 +2648,8 @@
    "fonte_url": "https://timon.ma.gov.br/?p=362996",
    "fonte_tipo": "oficial",
    "confianca": "B",
-   "verificado_em": "2026-10-17",
-   "observacao": "Texto oficial: 'A tarifa oficial do transporte urbano é de R$ 5'. O valor de R$ 5,00 já era cobrado em dinheiro em fev/2023 (com desconto promocional para R$ 3,00 no Timon City Card naquela época); o sistema atual com a EPTT começou em 31/03/2025."
+   "verificado_em": "2026-11-06",
+   "observacao": "Página aberta em 06/11/2026, publicada em 17/09/2026 (data no cabeçalho da matéria e na API do site): 'Atualmente, o serviço é operado pela Empresa Pública de Transporte Timonense (EPTT), responsável também pela regulamentação da tarifa. A tarifa oficial do transporte urbano é de R$ 5, com meia-passagem para estudantes cadastrados que possuem carteira estudantil vigente.' O ônibus roda e cobra em 2026: as notícias da Prefeitura de 01/10/2026 (https://timon.ma.gov.br/timon-tera-transporte-publico-gratuito-no-primeiro-turno-das-eleicoes/) e de 22/10/2026 (https://timon.ma.gov.br/timon-tera-onibus-gratuitos-no-segundo-turno-e-consulta-de-votacao-pelo-conecta-timon/) dizem que as 11 linhas urbanas da EPTT circulariam 'sem cobrança de passagem' só nos domingos do 1º e do 2º turno, por edital da 19ª Zona Eleitoral. Início do valor na operação atual: a notícia da Prefeitura de 29/03/2025 (https://timon.ma.gov.br/prefeito-rafael-brito-assina-ordem-de-servico-para-inicio-da-eptt-e-marca-novo-capitulo-no-transporte-publico-de-timon/) diz que os ônibus da EPTT começariam a circular em 31/03/2025 e que, com a bilhetagem digital a ser implantada, o pagamento das passagens 'será de 5 reais'; a matéria de O Imparcial de 28/03/2025 diz que no início o pagamento seria por Pix ou dinheiro, sem dar o valor. O valor de R$ 5,00 já era cobrado em dinheiro em fev/2023, na operação anterior. O ato que fixa a tarifa não foi achado, e por isso a vigência ficou vazia."
   },
   {
    "uf": "MG",
@@ -4865,14 +4865,14 @@
    "perfil": "comum",
    "meio_pagamento": "",
    "valor_brl": 3.45,
-   "vigencia_inicio": null,
-   "ato_oficial": null,
+   "vigencia_inicio": "2019-08-01",
+   "ato_oficial": "Decreto Municipal nº 5.405, de 15/07/2019 (dispõe sobre a tarifa do serviço público de transporte coletivo)",
    "fonte": "Prefeitura de São Sebastião do Paraíso, página Transporte coletivo urbano",
    "fonte_url": "https://www.ssparaiso.mg.gov.br/onibus_urbano",
    "fonte_tipo": "oficial",
-   "confianca": "B",
-   "verificado_em": "2026-10-20",
-   "observacao": "A página da Prefeitura diz 'VALOR da TARIFA: R$ 3,45' e que, após licitação no fim de 2021, o serviço passou a ser realizado pela Prefeitura em 03/01/2022. A página não tem data de atualização, e não se achou o ato nem a data em que o valor passou a valer; a busca do site e a busca na web não trouxeram reajuste."
+   "confianca": "A",
+   "verificado_em": "2026-11-06",
+   "observacao": "Página aberta em 06/11/2026: 'VALOR da TARIFA: R$ 3,45.', com a operação pela Prefeitura desde 03/01/2022; a página não tem data. Ato achado nesta rodada, aberto em 06/11/2026 (legislação do portal, https://www.ssparaiso.mg.gov.br/storage/downloads/files/2019/09/decreto-municipal-n-5405-2019-tarifa-do-servico-publico-de-transporte-coletivo-2019.pdf): o Decreto Municipal nº 5.405, de 15/07/2019, art. 1º, fixa 'a partir de 1º de Agosto de 2019' a 'ZONA URBANA ... R$ 3,45' (e R$ 5,75 na zona rural e no Distrito de Guardinha), e o art. 2º manda observar esse valor para reajuste e revisão. É o último decreto de tarifa do transporte coletivo na legislação do portal. O valor seguiu depois das trocas de operação: notícia da Prefeitura de 04/03/2021 (https://www.ssparaiso.mg.gov.br/noticias/3773), na volta do serviço com contrato emergencial, 'não haverá alteração em relação ao valor da passagem: R$ 3,45'; notícia de 10/06/2022 (https://www.ssparaiso.mg.gov.br/noticias/4066), com a Prefeitura operando e os ônibus alugados da J & M Comércio e Serviços Ltda., cita 'o pagamento da tarifa de R$ 3,45'. O serviço segue em 2026: o Pregão Eletrônico nº 109/2025 (Processo nº 018202/2025), de locação de ônibus básico 'destinada a atender o serviço público de transporte coletivo urbano e rural', por 60 meses, foi homologado em 30/12/2025 para a J & M Comércio e Serviços Ltda. (PNCP, compra 18241349000180-1-000236/2025, valor homologado R$ 15.789.998,40). Ressalva: a fonte datada mais recente com o valor é a notícia de 10/06/2022; a página da Prefeitura que dá o valor hoje não tem data, e não se achou reajuste depois."
   },
   {
    "uf": "MG",
@@ -4916,96 +4916,115 @@
    "uf": "MG",
    "municipio": "Três Corações",
    "cod_ibge": "3169307",
-   "sistema": "Prefeitura de Três Corações (SEMOB), com subsídio municipal à tarifa; operadora Trectur (Viação Três Corações Ltda.), cartões Trec-Card",
+   "sistema": "Prefeitura de Três Corações (SEMOB); transporte coletivo por ônibus concedido à Viação Três Corações Ltda. (Trectur), Contrato nº 103/2020; cartões Trec-Card",
    "modo": "onibus",
    "servico": "municipal (linhas urbanas)",
    "perfil": "comum",
    "meio_pagamento": "dinheiro",
-   "valor_brl": 5.75,
-   "vigencia_inicio": "2024-01-01",
-   "ato_oficial": null,
-   "fonte": "Prefeitura de Três Corações, notícia de 02/01/2024",
-   "fonte_url": "https://www.trescoracoes.mg.gov.br/noticias/geral/confira-como-fica-a-tarifa-do-transporte-coletivo-a-partir-de-1-de-janeiro",
+   "valor_brl": 6,
+   "vigencia_inicio": "2026-01-01",
+   "ato_oficial": "Decreto nº 5.609/2025, de 19/12/2025 (fixa tarifas para o Transporte Público Coletivo de Passageiros por Ônibus no município de Três Corações para o ano de 2026)",
+   "fonte": "Prefeitura de Três Corações, Decreto nº 5.609/2025 no Portal da Transparência (Atos Oficiais, Decreto)",
+   "fonte_url": "https://trescoracoes-mg.portaltp.com.br/common/DocumentoS3.ashx?id=1711565",
    "fonte_tipo": "oficial",
-   "confianca": "B",
-   "verificado_em": "2026-10-20",
-   "observacao": "'Linha urbana: Cartão do Ônibus: R$ 3,00; Estudantes: R$ 1,00; Roleta: R$ 5,75', a partir de 1º de janeiro de 2024; a Prefeitura mantém o subsídio que custeia parte da tarifa. A fonte mais recente é de 02/01/2024, e não se achou reajuste depois (a busca do portal só trouxe as notícias de 11/01/2023 e de 02/01/2024 sobre tarifa)."
+   "confianca": "A",
+   "verificado_em": "2026-11-06",
+   "observacao": "Decreto baixado em 06/11/2026 e lido por reconhecimento de texto (OCR), porque o PDF é imagem. Art. 1º: 'As tarifas de Transporte Público Coletivo de Passageiros por Ônibus no Município de Três Corações, concedida à Viação Três Corações Ltda., passam a vigorar com os seguintes valores a partir de 1º de janeiro de 2026: Linhas Urbanas R$ 6,00 (seis reais); Linhas Rurais R$ 9,40'. É a tarifa fora da compra antecipada no cartão (parágrafo único), registrada como dinheiro, como a 'Roleta' da notícia da Prefeitura de 02/01/2024, que dava R$ 5,75. O decreto traz em anexo o ofício da Trectur de 16/12/2025 e a ata da reunião de 12/11/2025 com a SEMOB e os presidentes de bairro, em que a empresa diz estar há dois anos sem reajuste. O ônibus roda em 2026: o Decreto nº 5.779/2026 deu gratuidade no transporte coletivo por ônibus só nos dias 4 e 25 de outubro de 2026 (notícia da Prefeitura de 02/10/2026, https://www.trescoracoes.mg.gov.br/noticias/geral/transporte-publico-gratuito-nos-dias-4-e-25-de-outubro). Nenhum decreto de tarifa depois do nº 5.609/2025 na lista de decretos do portal."
   },
   {
    "uf": "MG",
    "municipio": "Três Corações",
    "cod_ibge": "3169307",
-   "sistema": "Prefeitura de Três Corações (SEMOB), com subsídio municipal à tarifa; operadora Trectur (Viação Três Corações Ltda.), cartões Trec-Card",
+   "sistema": "Prefeitura de Três Corações (SEMOB); transporte coletivo por ônibus concedido à Viação Três Corações Ltda. (Trectur), Contrato nº 103/2020; cartões Trec-Card",
    "modo": "onibus",
    "servico": "municipal (linhas urbanas)",
    "perfil": "comum",
    "meio_pagamento": "cartao",
-   "valor_brl": 3,
-   "vigencia_inicio": "2024-01-01",
-   "ato_oficial": null,
-   "fonte": "Prefeitura de Três Corações, notícia de 02/01/2024",
-   "fonte_url": "https://www.trescoracoes.mg.gov.br/noticias/geral/confira-como-fica-a-tarifa-do-transporte-coletivo-a-partir-de-1-de-janeiro",
+   "valor_brl": 5.25,
+   "vigencia_inicio": "2026-01-01",
+   "ato_oficial": "Decreto nº 5.609/2025, de 19/12/2025, art. 1º, parágrafo único",
+   "fonte": "Prefeitura de Três Corações, Decreto nº 5.609/2025 no Portal da Transparência (Atos Oficiais, Decreto)",
+   "fonte_url": "https://trescoracoes-mg.portaltp.com.br/common/DocumentoS3.ashx?id=1711565",
    "fonte_tipo": "oficial",
-   "confianca": "B",
-   "verificado_em": "2026-10-20",
-   "observacao": "Valor com o Cartão do Ônibus, mantido em 2024 pelo subsídio municipal. A fonte mais recente é de 02/01/2024, e não se achou reajuste depois. A notícia não diz se o cartão de vale-transporte paga esse valor."
+   "confianca": "A",
+   "verificado_em": "2026-11-06",
+   "observacao": "Decreto lido por OCR em 06/11/2026. Art. 1º, parágrafo único: 'Para a compra antecipada nas modalidades de cartão cidadão, vale-transporte e cartão retornável, o valor da tarifa nas Linhas Urbanas será de R$ 5,25 (cinco reais e vinte e cinco centavos) e nas Linhas Rurais será de R$ 8,50'. Os R$ 3,00 do Cartão do Ônibus de 2024, mantidos pelo subsídio municipal, não valem mais: no ofício de 16/12/2025 anexo ao decreto, a Trectur diz que, a pedido do Prefeito, para os usuários do Cartão Trec-card (Cidadão Urbano e Vale-Transporte) foi 'mantido o valor atual da tarifa, sem reajuste, permanecendo em R$ 5,25', e para o Cartão Trec-card (Cidadão Rural) em R$ 8,50."
   },
   {
    "uf": "MG",
    "municipio": "Três Corações",
    "cod_ibge": "3169307",
-   "sistema": "Prefeitura de Três Corações (SEMOB), com subsídio municipal à tarifa; operadora Trectur (Viação Três Corações Ltda.), cartões Trec-Card",
+   "sistema": "Prefeitura de Três Corações (SEMOB); transporte coletivo por ônibus concedido à Viação Três Corações Ltda. (Trectur), Contrato nº 103/2020; cartões Trec-Card",
    "modo": "onibus",
    "servico": "municipal (linhas rurais)",
    "perfil": "comum",
    "meio_pagamento": "dinheiro",
-   "valor_brl": 9,
-   "vigencia_inicio": "2024-01-01",
-   "ato_oficial": null,
-   "fonte": "Prefeitura de Três Corações, notícia de 02/01/2024",
-   "fonte_url": "https://www.trescoracoes.mg.gov.br/noticias/geral/confira-como-fica-a-tarifa-do-transporte-coletivo-a-partir-de-1-de-janeiro",
+   "valor_brl": 9.4,
+   "vigencia_inicio": "2026-01-01",
+   "ato_oficial": "Decreto nº 5.609/2025, de 19/12/2025, art. 1º",
+   "fonte": "Prefeitura de Três Corações, Decreto nº 5.609/2025 no Portal da Transparência (Atos Oficiais, Decreto)",
+   "fonte_url": "https://trescoracoes-mg.portaltp.com.br/common/DocumentoS3.ashx?id=1711565",
    "fonte_tipo": "oficial",
-   "confianca": "B",
-   "verificado_em": "2026-10-20",
-   "observacao": "'Linha rural: Cartão do Ônibus: R$ 5,00; Estudantes: R$ 1,00; Roleta: R$ 9,00'. A fonte mais recente é de 02/01/2024, e não se achou reajuste depois."
+   "confianca": "A",
+   "verificado_em": "2026-11-06",
+   "observacao": "Decreto lido por OCR em 06/11/2026. Art. 1º: 'Linhas Rurais R$ 9,40 (nove reais e quarenta centavos)', a partir de 1º de janeiro de 2026, fora da compra antecipada no cartão; registrada como dinheiro, como a 'Roleta' da notícia de 02/01/2024, que dava R$ 9,00."
   },
   {
    "uf": "MG",
    "municipio": "Três Corações",
    "cod_ibge": "3169307",
-   "sistema": "Prefeitura de Três Corações (SEMOB), com subsídio municipal à tarifa; operadora Trectur (Viação Três Corações Ltda.), cartões Trec-Card",
+   "sistema": "Prefeitura de Três Corações (SEMOB); transporte coletivo por ônibus concedido à Viação Três Corações Ltda. (Trectur), Contrato nº 103/2020; cartões Trec-Card",
    "modo": "onibus",
    "servico": "municipal (linhas rurais)",
    "perfil": "comum",
    "meio_pagamento": "cartao",
-   "valor_brl": 5,
-   "vigencia_inicio": "2024-01-01",
-   "ato_oficial": null,
-   "fonte": "Prefeitura de Três Corações, notícia de 02/01/2024",
-   "fonte_url": "https://www.trescoracoes.mg.gov.br/noticias/geral/confira-como-fica-a-tarifa-do-transporte-coletivo-a-partir-de-1-de-janeiro",
+   "valor_brl": 8.5,
+   "vigencia_inicio": "2026-01-01",
+   "ato_oficial": "Decreto nº 5.609/2025, de 19/12/2025, art. 1º, parágrafo único",
+   "fonte": "Prefeitura de Três Corações, Decreto nº 5.609/2025 no Portal da Transparência (Atos Oficiais, Decreto)",
+   "fonte_url": "https://trescoracoes-mg.portaltp.com.br/common/DocumentoS3.ashx?id=1711565",
    "fonte_tipo": "oficial",
-   "confianca": "B",
-   "verificado_em": "2026-10-20",
-   "observacao": "Linha rural com o Cartão do Ônibus. A fonte mais recente é de 02/01/2024, e não se achou reajuste depois."
+   "confianca": "A",
+   "verificado_em": "2026-11-06",
+   "observacao": "Decreto lido por OCR em 06/11/2026. Art. 1º, parágrafo único: na compra antecipada (cartão cidadão, vale-transporte e cartão retornável), 'nas Linhas Rurais será de R$ 8,50 (oito reais e cinquenta centavos)'. Antes: R$ 5,00 no Cartão do Ônibus (notícia de 02/01/2024, com o subsídio municipal); pelo ofício da Trectur de 16/12/2025, o Cartão Trec-card (Cidadão Rural) já estava em R$ 8,50 no fim de 2025."
   },
   {
    "uf": "MG",
    "municipio": "Três Corações",
    "cod_ibge": "3169307",
-   "sistema": "Prefeitura de Três Corações (SEMOB), com subsídio municipal à tarifa; operadora Trectur (Viação Três Corações Ltda.), cartões Trec-Card",
+   "sistema": "Prefeitura de Três Corações (SEMOB); transporte coletivo por ônibus concedido à Viação Três Corações Ltda. (Trectur), Contrato nº 103/2020; cartões Trec-Card",
    "modo": "onibus",
    "servico": "municipal (linhas urbanas)",
    "perfil": "estudante",
    "meio_pagamento": "cartao",
-   "valor_brl": 1,
-   "vigencia_inicio": "2024-01-01",
-   "ato_oficial": null,
-   "fonte": "Prefeitura de Três Corações, notícia de 02/01/2024",
-   "fonte_url": "https://www.trescoracoes.mg.gov.br/noticias/geral/confira-como-fica-a-tarifa-do-transporte-coletivo-a-partir-de-1-de-janeiro",
+   "valor_brl": 3.9,
+   "vigencia_inicio": "2026-01-01",
+   "ato_oficial": "Decreto nº 5.609/2025, de 19/12/2025, art. 2º",
+   "fonte": "Prefeitura de Três Corações, Decreto nº 5.609/2025 no Portal da Transparência (Atos Oficiais, Decreto)",
+   "fonte_url": "https://trescoracoes-mg.portaltp.com.br/common/DocumentoS3.ashx?id=1711565",
    "fonte_tipo": "oficial",
-   "confianca": "B",
-   "verificado_em": "2026-10-20",
-   "observacao": "Estudantes: R$ 1,00 nas linhas urbanas e rurais. A fonte mais recente é de 02/01/2024, e não se achou reajuste depois."
+   "confianca": "A",
+   "verificado_em": "2026-11-06",
+   "observacao": "Decreto lido por OCR em 06/11/2026. Art. 2º: 'O desconto nas passagens para estudantes, devidamente credenciados, será de 35% (trinta e cinco por cento) sobre o valor da tarifa das respectivas Linhas', com 'a quantia de R$ 3,90 (três reais e noventa centavos) para as linhas urbanas e R$ 6,10 (seis reais e dez centavos) para as linhas rurais exclusivamente na modalidade cartão estudante'. Antes: R$ 1,00 nas linhas urbanas e rurais (notícia da Prefeitura de 02/01/2024, com o subsídio municipal)."
+  },
+  {
+   "uf": "MG",
+   "municipio": "Três Corações",
+   "cod_ibge": "3169307",
+   "sistema": "Prefeitura de Três Corações (SEMOB); transporte coletivo por ônibus concedido à Viação Três Corações Ltda. (Trectur), Contrato nº 103/2020; cartões Trec-Card",
+   "modo": "onibus",
+   "servico": "municipal (linhas rurais)",
+   "perfil": "estudante",
+   "meio_pagamento": "cartao",
+   "valor_brl": 6.1,
+   "vigencia_inicio": "2026-01-01",
+   "ato_oficial": "Decreto nº 5.609/2025, de 19/12/2025, art. 2º",
+   "fonte": "Prefeitura de Três Corações, Decreto nº 5.609/2025 no Portal da Transparência (Atos Oficiais, Decreto)",
+   "fonte_url": "https://trescoracoes-mg.portaltp.com.br/common/DocumentoS3.ashx?id=1711565",
+   "fonte_tipo": "oficial",
+   "confianca": "A",
+   "verificado_em": "2026-11-06",
+   "observacao": "Linha nova, porque o valor do estudante agora difere entre as linhas urbanas e as rurais. Decreto lido por OCR em 06/11/2026, art. 2º: 35% de desconto para estudantes credenciados, 'R$ 6,10 (seis reais e dez centavos) para as linhas rurais exclusivamente na modalidade cartão estudante'."
   },
   {
    "uf": "MG",
@@ -5722,12 +5741,12 @@
    "valor_brl": 3,
    "vigencia_inicio": null,
    "ato_oficial": null,
-   "fonte": "Prefeitura Municipal de Altamira (notícia de 13/11/2025)",
-   "fonte_url": "https://altamira.pa.gov.br/transporte-publico-de-altamira-tera-rotas-para-os-locais-de-aplicacao-da-prova-do-enem-2025/",
+   "fonte": "Prefeitura de Altamira, notícia de 11/02/2026 sobre o transporte coletivo da Prefeitura no Altafolia 2026",
+   "fonte_url": "https://altamira.pa.gov.br/altafolia-2026-prefeitura-disponibiliza-transporte-coletivo-para-o-anel-viario/",
    "fonte_tipo": "oficial",
    "confianca": "B",
-   "verificado_em": "2026-10-20",
-   "observacao": "Notícia da Prefeitura de 13/11/2025: 'O valor da passagem é de R$ 3 (inteira) e R$ 1,50 (meia). O pagamento pode ser feito em dinheiro, Pix, cartão de débito ou crédito.' A notícia de 28/05/2025 (https://altamira.pa.gov.br/prefeitura-atualiza-horarios-das-rotas-do-transporte-publico-de-altamira/) dá os mesmos valores e diz que o serviço é operado pela Prefeitura (DMTP), com sete ônibus. A notícia de 24/06/2025 (https://altamira.pa.gov.br/transporte-publico-de-altamira-comeca-a-aceitar-pagamento-digital/) diz que os ônibus passaram a aceitar Pix, cartão de crédito e débito, vale-transporte e cartão solidário, além de dinheiro, sem dizer qual vale-transporte nem como a empresa compra. A fonte mais recente é de 13/11/2025, e não se achou reajuste depois."
+   "verificado_em": "2026-11-06",
+   "observacao": "Notícia da Prefeitura de 11/02/2026, lida em 06/11/2026: no carnaval, seis ônibus do transporte coletivo da Prefeitura, coordenados pela Segmuc, e 'O valor da passagem é de R$ 3 (inteira) e R$ 1,50 (meia). O pagamento pode ser feito em dinheiro físico, Pix, cartão de débito ou crédito.' É o mesmo valor que a Prefeitura dá para o serviço regular nas notícias de 18/07/2025, 05/09/2025, 30/10/2025, 04/11/2025 e 13/11/2025 (a de 13/11/2025 era a fonte anterior da linha). O ônibus roda em 2026: as notícias de ponto facultativo de 01/04/2026 e 17/04/2026 dizem que 'O transporte coletivo urbano funcionará normalmente', e a de 02/06/2026, que ele ficaria suspenso só no feriado de Corpus Christi. Nenhuma notícia de reajuste até 06/11/2026."
   },
   {
    "uf": "PA",
@@ -5741,12 +5760,12 @@
    "valor_brl": 1.5,
    "vigencia_inicio": null,
    "ato_oficial": null,
-   "fonte": "Prefeitura Municipal de Altamira (notícia de 13/11/2025)",
-   "fonte_url": "https://altamira.pa.gov.br/transporte-publico-de-altamira-tera-rotas-para-os-locais-de-aplicacao-da-prova-do-enem-2025/",
+   "fonte": "Prefeitura de Altamira, notícia de 11/02/2026 sobre o transporte coletivo da Prefeitura no Altafolia 2026",
+   "fonte_url": "https://altamira.pa.gov.br/altafolia-2026-prefeitura-disponibiliza-transporte-coletivo-para-o-anel-viario/",
    "fonte_tipo": "oficial",
    "confianca": "B",
-   "verificado_em": "2026-10-20",
-   "observacao": "A Prefeitura chama de 'meia' a passagem de R$ 1,50, sem dizer quem tem direito; registrada como estudante por ser a meia-passagem usual. A fonte mais recente é de 13/11/2025, e não se achou reajuste depois."
+   "verificado_em": "2026-11-06",
+   "observacao": "Mesma notícia de 11/02/2026: 'R$ 1,50 (meia)'. A Prefeitura chama de meia a passagem de R$ 1,50 sem dizer quem tem direito; a notícia de 05/09/2025 fala em 'meia-passagem'. Registrada como estudante por ser a meia-passagem usual, como já estava na base. Nenhuma notícia de reajuste até 06/11/2026."
   },
   {
    "uf": "PA",
@@ -6461,14 +6480,14 @@
    "perfil": "comum",
    "meio_pagamento": "",
    "valor_brl": 4.5,
-   "vigencia_inicio": null,
-   "ato_oficial": null,
-   "fonte": "Grande Recife Consórcio de Transporte, página Tarifas",
-   "fonte_url": "https://www.granderecife.pe.gov.br/transporte/tarifas/",
+   "vigencia_inicio": "2026-02-01",
+   "ato_oficial": "Resolução CSTM nº 002/2026, de 22/01/2026 (realinhamento tarifário de 4,46%; homologação pela Resolução ARPE nº 322, de 20/01/2026)",
+   "fonte": "Grande Recife Consórcio",
+   "fonte_url": "https://www.granderecife.pe.gov.br/wp-content/uploads/2026/02/RESOLUCAO-0022026.pdf",
    "fonte_tipo": "oficial",
-   "confianca": "B",
-   "verificado_em": "2026-10-18",
-   "observacao": "Tarifa única do Bilhete Único nas linhas regulares; metrô R$ 4,25. A data de vigência não aparece na página. O Ipojuca integra a Região Metropolitana do Recife atendida pelo sistema (FAQ do Grande Recife). Não foi encontrado ônibus municipal próprio: o site da Prefeitura cita a Autarquia Municipal de Trânsito e Transportes (AMTTRANS) e, em 17/09/2025, anunciou uma linha exclusiva de Camela para Porto de Galinhas e Muro Alto, sem informar operadora nem tarifa."
+   "confianca": "A",
+   "verificado_em": "2026-11-06",
+   "observacao": "Resolução aberta em 06/11/2026. Item III: os valores do Anexo I passam a 'vigorar a partir da zero hora do dia 1º de fevereiro de 2026'; Anexo I, tarifas do serviço convencional, 'TARIFA 2026': 'Bilhete Único (Antigo Anel A) R$ 4,50' e Anel G R$ 3,00. A Resolução nº 001/2026, de 15/01/2026, aprovou o realinhamento na 43ª Reunião Ordinária do CSTM (Bilhete Único de R$ 4,2842 para R$ 4,4753, antes do arredondamento), e a nº 002/2026 traz os valores arredondados e homologados. Antes: R$ 4,30 desde 2025 (Resolução nº 001/2025). A página de tarifas do Grande Recife (https://www.granderecife.pe.gov.br/transporte/tarifas/) segue com 'BILHETE ÚNICO R$ 4,50' em 06/11/2026. O sistema roda em 2026: as Resoluções CSTM nº 009/2026 e nº 10/2026 suspenderam a cobrança só nos dias do 1º e do 2º turno da eleição (04/10 e 25/10/2026), das 4h às 19h. Nenhuma resolução de tarifa depois da nº 002/2026 na página de Resoluções CSTM. O Ipojuca integra a Região Metropolitana do Recife atendida pelo sistema; não foi encontrado ônibus municipal próprio."
   },
   {
    "uf": "PE",
@@ -6476,37 +6495,18 @@
    "cod_ibge": "2607208",
    "sistema": "o Ipojuca é atendido pelo Sistema de Transporte Público de Passageiros da Região Metropolitana do Recife (STPP/RMR), gerido pelo Grande Recife Consórcio de Transporte, com bilhetagem VEM",
    "modo": "onibus",
-   "servico": "metropolitano, linha 191 Recife/Porto de Galinhas (sem ar-condicionado)",
-   "perfil": "comum",
-   "meio_pagamento": "",
-   "valor_brl": 14.8,
-   "vigencia_inicio": null,
-   "ato_oficial": null,
-   "fonte": "Grande Recife Consórcio de Transporte, página Tarifas",
-   "fonte_url": "https://www.granderecife.pe.gov.br/transporte/tarifas/",
+   "servico": "metropolitano (STPP/RMR), linhas regulares do Bilhete Único",
+   "perfil": "estudante",
+   "meio_pagamento": "cartao",
+   "valor_brl": 2.25,
+   "vigencia_inicio": "2026-02-01",
+   "ato_oficial": "Resolução CSTM nº 002/2026, de 22/01/2026 (homologação pela Resolução ARPE nº 322, de 20/01/2026)",
+   "fonte": "Grande Recife Consórcio",
+   "fonte_url": "https://www.granderecife.pe.gov.br/wp-content/uploads/2026/02/RESOLUCAO-0022026.pdf",
    "fonte_tipo": "oficial",
-   "confianca": "B",
-   "verificado_em": "2026-10-18",
-   "observacao": "Tarifa especial, fora do Bilhete Único."
-  },
-  {
-   "uf": "PE",
-   "municipio": "Ipojuca",
-   "cod_ibge": "2607208",
-   "sistema": "o Ipojuca é atendido pelo Sistema de Transporte Público de Passageiros da Região Metropolitana do Recife (STPP/RMR), gerido pelo Grande Recife Consórcio de Transporte, com bilhetagem VEM",
-   "modo": "onibus",
-   "servico": "metropolitano, linha 195 Recife/Porto de Galinhas (opcional)",
-   "perfil": "comum",
-   "meio_pagamento": "",
-   "valor_brl": 22.5,
-   "vigencia_inicio": null,
-   "ato_oficial": null,
-   "fonte": "Grande Recife Consórcio de Transporte, página Tarifas",
-   "fonte_url": "https://www.granderecife.pe.gov.br/transporte/tarifas/",
-   "fonte_tipo": "oficial",
-   "confianca": "B",
-   "verificado_em": "2026-10-18",
-   "observacao": "Linha opcional, fora do Bilhete Único."
+   "confianca": "A",
+   "verificado_em": "2026-11-06",
+   "observacao": "Linha nova. Anexo I da Resolução nº 002/2026, quadro do VEM Estudante: 'Bilhete Único (Antigo Anel A) R$ 2,25' (Anel G R$ 1,50), metade da tarifa de 2026, no cartão VEM Estudante. O quadro traz o rótulo 'TARIFA 2025', que sobrou do anexo de 2025: a Resolução nº 001/2025 dava R$ 2,15 ao VEM Estudante, metade dos R$ 4,30 daquele ano."
   },
   {
    "uf": "PE",
@@ -7493,8 +7493,8 @@
    "fonte_url": "https://www.foztrans.pr.gov.br/transporte-coletivo/",
    "fonte_tipo": "oficial",
    "confianca": "A",
-   "verificado_em": "2026-10-17",
-   "observacao": "Mesmo valor para passagem comum ou antecipada no Cartão Único Foztrans e para pagamento a bordo em dinheiro, crédito ou débito."
+   "verificado_em": "2026-11-06",
+   "observacao": "Página da Foztrans aberta em 06/11/2026 (publicada em 23/09/2025): passagem comum ou antecipada pelo Cartão Único Foztrans R$ 5,00 e passagem paga a bordo (dinheiro, cartão de crédito e débito) R$ 5,00, 'Vigência a partir de 02/05/2024', Decreto nº 32.494/2024. Confirmação de 2026 no próprio ato do reajuste: o Decreto nº 35.094, de 04/11/2026, diz que 'a tarifa pública vigente, de R$ 5,00 (cinco reais), não é reajustada desde 30 de junho de 2022'. Vale até 03/12/2026: a partir de 04/12/2026 a tarifa passa a R$ 6,00 (linha seguinte), e o Decreto nº 35.094 revoga o nº 32.494/2024; pelo art. 2º, os créditos do cartão comprados até 03/12/2026 podem ser usados pelo valor de R$ 5,00 por 30 dias contados de 04/12/2026. O ônibus roda em 2026 (gratuidade só nos dias de eleição, notícias da Prefeitura de 02/10/2026 e 21/10/2026)."
   },
   {
    "uf": "PR",
@@ -7563,14 +7563,14 @@
    "perfil": "comum",
    "meio_pagamento": "cartao",
    "valor_brl": 4,
-   "vigencia_inicio": null,
-   "ato_oficial": null,
-   "fonte": "Pérola do Oeste (página de tarifas)",
-   "fonte_url": "https://www.peroladooeste.com.br/tarifas/",
-   "fonte_tipo": "operadora",
-   "confianca": "B",
-   "verificado_em": "2026-10-17",
-   "observacao": "Tarifa com o cartão GuaraCard."
+   "vigencia_inicio": "2025-02-15",
+   "ato_oficial": "Decreto nº 12.254, de 31 de janeiro de 2025 (Boletim Oficial do Município de Guarapuava nº 3071, de 04/02/2025), que alterou os arts. 2º e 3º do Decreto nº 12.075, de 17 de dezembro de 2024 (art. 2º do Decreto nº 12.254, nova redação do art. 3º)",
+   "fonte": "Prefeitura de Guarapuava, Boletim Oficial do Município nº 3071, de 04/02/2025: Decreto nº 12.254/2025, que altera o Decreto nº 12.075/2024 (tarifas do transporte coletivo urbano)",
+   "fonte_url": "https://guarapuava.pr.gov.br/wp-content/uploads/2025/02/Boletim-Oficial-3071.pdf",
+   "fonte_tipo": "oficial",
+   "confianca": "A",
+   "verificado_em": "2026-11-06",
+   "observacao": "Boletim baixado e lido em 06/11/2026: 'Art. 2º Fica alterado o caput e o inciso III do art. 3º do Decreto nº 12075, de 17 de dezembro de 2024 [...] Art. 3º A tarifa do transporte coletivo urbano do Município de Guarapuava, aplicada aos(às) usuários(as) que utilizam os cartões de cobrança eletrônica, passa a vigorar, a partir das zero horas do dia 15 de fevereiro de 2025, no valor de R$4,00 (quatro reais). [...] III - A tarifa reduzida no valor de R$4,00 (quatro reais) passará a valer apenas para recargas realizadas a partir da zero hora do dia 15 de fevereiro de 2025.' Tarifa com o cartão GuaraCard. Valor anterior: R$ 2,50 nos cartões desde 23/12/2024, pelo Decreto nº 12.075, de 17/12/2024 (Boletim Oficial nº 3036, de 17/12/2024, lido), que também fixou a 'tarifa praticada' em R$ 8,50. Confirmações: o 4º Termo Aditivo do Contrato nº 195/2023 (aquisição de vale-transporte da Transportes Coletivos Pérola do Oeste Ltda. pela Prefeitura), assinado em 10/12/2025 e publicado no Boletim Oficial nº 3311, de 18/12/2025, prorroga o contrato até 31/12/2026 'Com base no Decreto n° 12254/2025, art. 3° sobre as tarifas, aplicada aos usuários(as) que utilizam os cartões de cobrança eletrônica, passar a ser o valor de R$ 4,00 (quatro reais)'; a página de tarifas da operadora (https://www.peroladooeste.com.br/tarifas/), aberta em 06/11/2026, mostra Cartão GuaraCard R$ 4,00, Dinheiro R$ 6,50 e Vem Escolar R$ 3,25, sem data. O ônibus roda em 2026: a Prefeitura noticiou em 29/09/2026 (https://guarapuava.pr.gov.br/noticias/transporte-coletivo-sera-gratuito-nos-dias-de-votacao-em-guarapuava/) que, 'em parceria com a Pérola do Oeste', o transporte coletivo urbano teria passe livre nos dias 4 e 25 de outubro de 2026. A concessão (Contrato nº 578/2009 com a Transportes Coletivos Pérola do Oeste Ltda., CNPJ 77.147.387/0001-38) foi prorrogada por 10 anos pelo 5º Termo Aditivo, assinado em 13/12/2024 (Boletim Oficial nº 3036, de 17/12/2024). Não se achou decreto de tarifa depois do nº 12.254: o texto dos boletins oficiais de 01/12/2025 a 06/11/2026 foi lido (busca por 'tarifa do transporte', 'tarifa praticada', 'tarifa técnica', '12075', '12254', 'Guaracard', 'Pérola do Oeste' e 'transporte coletivo urbano'); as páginas publicadas só como imagem não foram lidas."
   },
   {
    "uf": "PR",
@@ -7582,14 +7582,14 @@
    "perfil": "comum",
    "meio_pagamento": "dinheiro",
    "valor_brl": 6.5,
-   "vigencia_inicio": null,
-   "ato_oficial": null,
-   "fonte": "Pérola do Oeste (página de tarifas)",
-   "fonte_url": "https://www.peroladooeste.com.br/tarifas/",
-   "fonte_tipo": "operadora",
-   "confianca": "B",
-   "verificado_em": "2026-10-17",
-   "observacao": null
+   "vigencia_inicio": "2025-02-15",
+   "ato_oficial": "Decreto nº 12.254, de 31 de janeiro de 2025 (Boletim Oficial do Município de Guarapuava nº 3071, de 04/02/2025), que alterou os arts. 2º e 3º do Decreto nº 12.075, de 17 de dezembro de 2024 (art. 1º do Decreto nº 12.254, nova redação do art. 2º)",
+   "fonte": "Prefeitura de Guarapuava, Boletim Oficial do Município nº 3071, de 04/02/2025: Decreto nº 12.254/2025, que altera o Decreto nº 12.075/2024 (tarifas do transporte coletivo urbano)",
+   "fonte_url": "https://guarapuava.pr.gov.br/wp-content/uploads/2025/02/Boletim-Oficial-3071.pdf",
+   "fonte_tipo": "oficial",
+   "confianca": "A",
+   "verificado_em": "2026-11-06",
+   "observacao": "Boletim lido em 06/11/2026: 'Art. 2º A tarifa do transporte coletivo urbano do Município de Guarapuava, paga em dinheiro, a partir da zero hora do dia dia 15 de fevereiro de 2025, será no valor de R$6,50 (seis reais e cinquenta centavos).' Valor anterior: R$ 6,00 desde 23/12/2024 (Decreto nº 12.075/2024, art. 2º). A página da operadora, aberta em 06/11/2026, mostra Dinheiro R$ 6,50. Não se achou decreto de tarifa depois do nº 12.254 (texto dos boletins de 01/12/2025 a 06/11/2026)."
   },
   {
    "uf": "PR",
@@ -7601,14 +7601,14 @@
    "perfil": "estudante",
    "meio_pagamento": "cartao",
    "valor_brl": 3.25,
-   "vigencia_inicio": null,
-   "ato_oficial": null,
-   "fonte": "Pérola do Oeste (página de tarifas)",
-   "fonte_url": "https://www.peroladooeste.com.br/tarifas/",
-   "fonte_tipo": "operadora",
-   "confianca": "B",
-   "verificado_em": "2026-10-17",
-   "observacao": "Vem Escolar. Educard: R$ 1,00 por dia (Lei Municipal 3.026/2019); quem não se enquadra no Educard paga meia tarifa no Vem Estudante."
+   "vigencia_inicio": "2025-02-15",
+   "ato_oficial": "Decreto nº 12.254, de 31 de janeiro de 2025 (Boletim Oficial do Município de Guarapuava nº 3071, de 04/02/2025), que alterou os arts. 2º e 3º do Decreto nº 12.075, de 17 de dezembro de 2024 (art. 1º do Decreto nº 12.254, nova redação do inciso I do art. 2º)",
+   "fonte": "Prefeitura de Guarapuava, Boletim Oficial do Município nº 3071, de 04/02/2025: Decreto nº 12.254/2025, que altera o Decreto nº 12.075/2024 (tarifas do transporte coletivo urbano)",
+   "fonte_url": "https://guarapuava.pr.gov.br/wp-content/uploads/2025/02/Boletim-Oficial-3071.pdf",
+   "fonte_tipo": "oficial",
+   "confianca": "A",
+   "verificado_em": "2026-11-06",
+   "observacao": "Boletim lido em 06/11/2026: 'I - para os(as) estudantes que utilizam a meia passagem, a tarifa do transporte coletivo urbano fica no valor de R$3,25 (três reais e vinte e cinco centavos)'. Na página da operadora (aberta em 06/11/2026), Vem Escolar R$ 3,25; quem não se enquadra no Educard paga meia tarifa no Vem Estudante. Educard: R$ 1,00 por dia (Lei Municipal 3.026/2019), valor 'mantido' pelo Decreto nº 12.075/2024, art. 2º, II, que o Decreto nº 12.254 não alterou. Valor anterior da meia passagem: R$ 2,50 desde 23/12/2024 (Decreto nº 12.075/2024)."
   },
   {
    "uf": "PR",
@@ -7868,13 +7868,13 @@
    "meio_pagamento": "",
    "valor_brl": 3.5,
    "vigencia_inicio": null,
-   "ato_oficial": null,
-   "fonte": "O Presente, 'Passam a vigorar as melhorias no transporte coletivo urbano' (09/11/2023, com assessoria da prefeitura)",
-   "fonte_url": "https://www.opresente.com.br/marechal-candido-rondon/passam-a-vigorar-as-melhorias-no-transporte-coletivo-urbano/",
-   "fonte_tipo": "imprensa",
-   "confianca": "B",
-   "verificado_em": "2026-10-20",
-   "observacao": "Texto com assessoria da Secretaria Municipal de Mobilidade: 'Ocorreram, ainda, o reajuste mensal no subsídio à empresa que presta o serviço e a manutenção na tarifa no valor de R$ 3,50 aos usuários.' Sem veículo nacional ou grande regional achado; vale o jornal local (decisão do Anderson de 19/10). A fonte mais recente é de 09/11/2023, e não se achou reajuste depois: a busca do jornal O Presente por 'tarifa transporte coletivo rondon' e por 'Transgiro' não traz matéria mais nova sobre a tarifa, e o portal da prefeitura (mcr.pr.gov.br) só carrega com JavaScript. A operadora é a Transgiro, segundo O Presente de 26/01/2023; o site da Transgiro trata só de turismo. A data em que os R$ 3,50 passaram a valer não foi achada."
+   "ato_oficial": "Decreto Municipal nº 061/2019, de 22 de março de 2019 (citado pela Prefeitura na página 'Horários de ônibus'; o texto do decreto não foi achado)",
+   "fonte": "Prefeitura de Marechal Cândido Rondon, Portal do Cidadão, página 'Horários de ônibus' (transporte coletivo urbano)",
+   "fonte_url": "https://www.mcr.pr.gov.br/cidadao/pagina/horarios-de-onibus",
+   "fonte_tipo": "oficial",
+   "confianca": "A",
+   "verificado_em": "2026-11-06",
+   "observacao": "Página lida em 06/11/2026 pela busca do portal da Prefeitura (o conteúdo da página vem da própria Prefeitura; o portal só abre com JavaScript): 'INÍCIO DA OPERAÇÃO: 01/10/2020 VALOR MÁXIMO DA TARIFA: R$ 3,50 (De acordo com o Decreto Municipal n° 061/2019 de 22 de março de 2019)'. A página não tem data de atualização. Confirmação oficial mais recente do valor cobrado: a notícia da Prefeitura 'Passam a vigorar as melhorias no transporte coletivo urbano', publicada em 08/11/2023 (https://www.mcr.pr.gov.br/cidadao/noticia/passam-a-vigorar-as-melhorias-no-transporte-coletivo-urbano), diz: 'Ocorreram, ainda, o reajuste mensal no subsídio à empresa que presta o serviço e a manutenção na tarifa no valor de R$ 3,50 aos usuários' (o mesmo texto saiu no jornal O Presente em 09/11/2023, e o Diário do Transporte de 12/11/2023, aberto em 06/11/2026, diz que 'o preço da tarifa paga pelos usuários segue no valor de R$ 3,50'). Ressalva: a fonte mais recente com o valor é de 08/11/2023, e não se achou reajuste depois: a busca do portal da Prefeitura por 'tarifa', 'tarifa transporte coletivo', 'passagem', 'transporte coletivo', 'transporte urbano', 'onibus', 'Transgiro', 'subsidio' e '061/2019' não traz ato nem notícia de tarifa nova. O ônibus roda em 2026: a Câmara Municipal aprovou em 2026 indicações de melhorias para os usuários do transporte coletivo urbano (Indicações nº 691/2026, de 05/08/2026, nº 706/2026, de 13/08/2026, e nº 873/2026, de 24/09/2026), e a Prefeitura contratou em 2026 a instalação de abrigos de passageiros 'para o transporte coletivo urbano' (contrato no PNCP, 76205814000124/2026/99, publicado em 09/03/2026). A data em que os R$ 3,50 passaram a valer não foi achada: o decreto é de 22/03/2019, e a operação atual começou em 01/10/2020."
   },
   {
    "uf": "PR",
@@ -11559,8 +11559,8 @@
    "fonte_url": "https://avipan.com.br/",
    "fonte_tipo": "operadora",
    "confianca": "B",
-   "verificado_em": "2026-10-20",
-   "observacao": "'Para os créditos adquiridos em todos os tipos de cartões: R$ 6,82' na linha urbana de Panambi; em dinheiro, R$ 6,80. A página da operadora não dá a data de início do valor. O Decreto Municipal nº 27/2022 autorizou a concessionária a reajustar a tarifa (título visto na busca no portal Leis Municipais, que recusou a abertura); não se achou o decreto do valor atual, porque o portal da Prefeitura (panambi.atende.net) não abre sem navegador."
+   "verificado_em": "2026-11-06",
+   "observacao": "Para os créditos adquiridos em todos os tipos de cartões: R$ 6,82 na linha urbana de Panambi; em dinheiro, R$ 6,80. Confirmações: a página da operadora, aberta em 06/11/2026, mostra na 'Linha Urbana - Panambi' 'Para as passagens pagas em dinheiro diretamente no ônibus: R$ 6,80' e 'Para os créditos adquiridos em todos os tipos de cartões: R$ 6,82', e, em 'Estudantes', 'Para os créditos adquiridos exclusivamente no cartão do estudante: R$ 3,41' (a página 'Início' foi modificada pela última vez em 17/03/2026, segundo a API pública do site); a Rádio Progresso, de Ijuí, publicou em 04/07/2025 (https://radioprogresso.com.br/tarifa-do-transporte-coletivo-urbano-de-ijui-devera-passar-para-6-reais/) a comparação regional 'Panambi, R$ 6,80'. Não se achou ato de tarifa depois do Decreto nº 48/2025: a busca do Diário Oficial do Município (panambi.atende.net/diariooficial) por 'tarifa' de 01/07/2025 a 06/11/2026 não traz resultado (a busca lê o resumo de cada ato publicado). Antes dele, o Decreto nº 9/2024, de 24/01/2024 (Edição nº 640), também autorizou reajuste, e a base cita o Decreto nº 27/2022. O ônibus roda em 2026: a Lei Municipal nº 5.922, de 04/05/2026 (Edição nº 1138), 'Autoriza o repasse de subsídio financeiro à concessionária do serviço de transporte público coletivo urbano de passageiros, no valor de R$ 404.442,65', o Decreto nº 117/2026, de 22/10/2026 (Edição nº 1241), dispõe sobre a gratuidade no transporte público coletivo urbano no dia do 2º turno das eleições de 2026 e 'disciplina as obrigações da empresa concessionária', e o Decreto nº 100/2026, de 02/10/2026 (Edição nº 1230), também dispõe sobre a gratuidade no transporte público coletivo urbano. A data de início do valor não foi achada."
   },
   {
    "uf": "RS",
@@ -11578,8 +11578,8 @@
    "fonte_url": "https://avipan.com.br/",
    "fonte_tipo": "operadora",
    "confianca": "B",
-   "verificado_em": "2026-10-20",
-   "observacao": "'Para as passagens pagas em dinheiro diretamente no ônibus: R$ 6,80'. A página da operadora não dá a data de início do valor. O Decreto Municipal nº 27/2022 autorizou a concessionária a reajustar a tarifa (título visto na busca no portal Leis Municipais, que recusou a abertura); não se achou o decreto do valor atual, porque o portal da Prefeitura (panambi.atende.net) não abre sem navegador."
+   "verificado_em": "2026-11-06",
+   "observacao": "Para as passagens pagas em dinheiro diretamente no ônibus: R$ 6,80 (página da operadora aberta em 06/11/2026). A Rádio Progresso, de Ijuí, deu 'Panambi, R$ 6,80' em 04/07/2025. Não se achou ato de tarifa depois do Decreto nº 48/2025, de 07/05/2025, cujo texto não abriu. A data de início do valor não foi achada."
   },
   {
    "uf": "RS",
@@ -11597,8 +11597,8 @@
    "fonte_url": "https://avipan.com.br/",
    "fonte_tipo": "operadora",
    "confianca": "B",
-   "verificado_em": "2026-10-20",
-   "observacao": "'Para os créditos adquiridos exclusivamente no cartão do estudante: R$ 3,41' (metade da tarifa do cartão). O cartão do estudante só vale em dias letivos."
+   "verificado_em": "2026-11-06",
+   "observacao": "Para os créditos adquiridos exclusivamente no cartão do estudante: R$ 3,41 (metade da tarifa do cartão), visto na página da operadora em 06/11/2026. O cartão do estudante só vale em dias letivos. A data de início do valor não foi achada."
   },
   {
    "uf": "RS",
@@ -12281,8 +12281,8 @@
    "fonte_url": "https://stadtbus.com.br/municipais/teutonia-rs/",
    "fonte_tipo": "operadora",
    "confianca": "B",
-   "verificado_em": "2026-10-20",
-   "observacao": "A página da operadora mostra 'Tarifa R$ 5,00' para o transporte municipal de Teutônia; as datas de publicação e de atualização vêm da API do site (WordPress). A revendedora Benefício Fácil vende o 'Stadtbus Teutônia - Cartão Teuto Municipal' pelo mesmo valor, R$ 5,00, sem data (https://valetransporte.beneficiofacil.com.br/produtos?produto=6122). O ato da Prefeitura com a tarifa e a data de início do valor não foram achados: a busca do portal da Prefeitura (teutonia.rs.gov.br) não devolveu resultados."
+   "verificado_em": "2026-11-06",
+   "observacao": "A página da operadora, aberta em 06/11/2026, mostra 'Tarifa R$ 5,00' para o transporte municipal de Teutônia; pela API pública do site (WordPress), a página foi criada em 10/09/2025 e modificada pela última vez em 06/10/2025. Confirmação de imprensa: o Jornal do Comércio, de Porto Alegre, publicou em 20/11/2023 (https://www.jornaldocomercio.com/jornal-cidades/2023/11/1131513-prefeitura-de-teutonia-mantem-subsidio-e-valor-de-rs-500-na-passagem-de-onibus.html) que a Prefeitura manteve o subsídio e o valor de R$ 5,00 na passagem, que 'não sofre alterações desde janeiro deste ano', e que a renovação do contrato com a Stadtbus, que presta o serviço desde 2013, prevê o acordo 'por mais 10 anos', com o subsídio calculado pela quilometragem rodada e pelo número de passageiros. O Grupo A Hora deu a passagem passando de R$ 4,50 para R$ 5 em 04/01/2023 (fim do subsídio de dezembro de 2022) e de novo em 06/04/2023 (subsídio de R$ 15 mil mensais aprovado pela Câmara até 30/09/2023), por isso a data de início do valor não foi fixada. A revendedora Benefício Fácil vende o cartão Teuto Municipal pelo mesmo valor, sem data (não é prova). O ônibus roda com subsídio em 2026: no Boletim Oficial Municipal, o Decreto nº 3.693, de 1º/10/2026 (Edição nº 211, de 23/10/2026), e o Decreto nº 3.698, de 13/10/2026 (Edição nº 221, de 05/11/2026, https://teutonia.rs.gov.br/uploads/diariooficial/29699/boletim_teutonia_rs_prefeitura_221_2026.pdf), abrem crédito adicional suplementar na ação '26.452.0068.1134 - TRANSPORTE COLETIVO', elemento 'SUBVENÇÕES ECONÔMICAS' (R$ 90.000,00 no Decreto nº 3.698), lidos com reconhecimento de texto, porque as edições são imagem. O portal de venda de créditos TDMax Web Commerce de Teutônia (https://max00230.itstransdata.com/TDMaxwebcommerce/) abre em 06/11/2026. Ressalva: a fonte datada mais recente com o valor é a página da operadora, modificada em 06/10/2025 e no ar em 06/11/2026, e não se achou reajuste depois. O ato da Prefeitura com a tarifa não foi achado."
   },
   {
    "uf": "RS",
@@ -15083,18 +15083,37 @@
    "cod_ibge": "3507605",
    "sistema": "Prefeitura de Bragança Paulista, Secretaria Municipal de Mobilidade Urbana; operadora JTP; Cartão Cidadão Bragantino (morador)",
    "modo": "onibus",
+   "servico": "municipal, horário de pico (6h30 às 8h30 e 16h30 às 19h)",
+   "perfil": "cartao_cidadao",
+   "meio_pagamento": "cartao",
+   "valor_brl": 6.5,
+   "vigencia_inicio": "2026-01-01",
+   "ato_oficial": "Decreto nº 4.935, de 13 de março de 2026, art. 2º, I (tarifa pública do art. 3º do Decreto nº 4.876/2025), publicado na edição nº 2230, de 17/03/2026, e republicado por incorreção nas edições nº 2237, de 26/03/2026, e nº 2241, de 01/04/2026 da Imprensa Oficial do Município, em vigor a partir de 05/04/2026; antes, desde 01/01/2026, Decreto nº 4.876, de 15 de dezembro de 2025, art. 2º, I",
+   "fonte": "Imprensa Oficial do Município de Bragança Paulista, edição nº 2241, de 01/04/2026, p. 2 (Decreto nº 4.935/2026, republicado por incorreção)",
+   "fonte_url": "https://www.dosp.com.br/exibe_do.php?i=Nzk5Mzkw",
+   "fonte_tipo": "oficial",
+   "confianca": "A",
+   "verificado_em": "2026-11-06",
+   "observacao": "Linha nova, que responde à dúvida da base sobre quanto o portador do cartão paga no pico. Edição baixada e lida em 06/11/2026: 'Art. 2º O usuário pessoa física cadastrado na concessionária que adquirir créditos tarifários antecipadamente, através do Cartão Cidadão Bragantino, pagará a tarifa pública estabelecida no artigo 3º do Decreto n.º 4.876, de 15 de dezembro de 2025: I - no valor integral da tarifa pública, durante os horários de pico, compreendidos entre as 06h30 e 08h30 no período da manhã, e entre as 16h30 e 19h00, no período da tarde'. O Decreto nº 4.876/2025 (art. 2º, I, em vigor desde 01/01/2026) já cobrava do cartão o valor integral no pico; o Decreto nº 4.935/2026 revogou esse artigo e manteve a regra."
+  },
+  {
+   "uf": "SP",
+   "municipio": "Bragança Paulista",
+   "cod_ibge": "3507605",
+   "sistema": "Prefeitura de Bragança Paulista, Secretaria Municipal de Mobilidade Urbana; operadora JTP; Cartão Cidadão Bragantino (morador)",
+   "modo": "onibus",
    "servico": "municipal, fora do pico, segunda a sábado (4h às 6h29, 8h31 às 16h29 e 19h01 às 2h)",
    "perfil": "cartao_cidadao",
    "meio_pagamento": "cartao",
    "valor_brl": 0,
    "vigencia_inicio": "2026-04-05",
-   "ato_oficial": null,
-   "fonte": "Prefeitura de Bragança Paulista (Perguntas frequentes do Programa Tarifa Zero)",
-   "fonte_url": "https://braganca.sp.gov.br/perguntas-frequentes-programa-tarifa-zero",
+   "ato_oficial": "Decreto nº 4.935, de 13 de março de 2026, art. 2º, II e parágrafo único, e art. 6º (em vigor a partir de 05/04/2026), publicado na edição nº 2230, de 17/03/2026, e republicado por incorreção nas edições nº 2237, de 26/03/2026, e nº 2241, de 01/04/2026 da Imprensa Oficial do Município",
+   "fonte": "Imprensa Oficial do Município de Bragança Paulista, edição nº 2241, de 01/04/2026, p. 2 (Decreto nº 4.935/2026, republicado por incorreção)",
+   "fonte_url": "https://www.dosp.com.br/exibe_do.php?i=Nzk5Mzkw",
    "fonte_tipo": "oficial",
-   "confianca": "B",
-   "verificado_em": "2026-10-17",
-   "observacao": "3ª fase do Programa Tarifa Zero, em todas as linhas urbanas, só com Cartão Cidadão Bragantino (morador; 1ª via gratuita). Fases anteriores: 15/07/2025 (R$ 2,50 fora do pico) e 01/01/2026 (R$ 1,00)."
+   "confianca": "A",
+   "verificado_em": "2026-11-06",
+   "observacao": "Terceira Fase do Programa Tarifa Zero. Decreto lido em 06/11/2026: 'II - com desconto integral do pagamento da tarifa pública, durante os horários fora de pico, compreendidos entre as 04h00 e 06h29, entre as 08h31 e 16h29, e entre as 19h01 e 02h00. Parágrafo único. Para usufruir dos benefícios da Tarifa Zero durante os horários fora de pico o usuário deverá utilizar o Cartão Cidadão, exclusivamente para registro da viagem no sistema de bilhetagem eletrônica.' O cartão é do morador, com a 1ª via gratuita (página de perguntas frequentes da Prefeitura, aberta em 06/11/2026, que confirma a gratuidade em todas as linhas urbanas desde 05/04/2026). Fases anteriores: Decreto nº 4.742, de 01/07/2025 (R$ 2,50 fora do pico desde 15/07/2025) e Decreto nº 4.876/2025 (R$ 1,00 desde 01/01/2026)."
   },
   {
    "uf": "SP",
@@ -15102,18 +15121,18 @@
    "cod_ibge": "3507605",
    "sistema": "Prefeitura de Bragança Paulista, Secretaria Municipal de Mobilidade Urbana; operadora JTP; Cartão Cidadão Bragantino (morador)",
    "modo": "onibus",
-   "servico": "municipal, horário de pico (6h30 às 8h30 e 16h30 às 19h)",
+   "servico": "municipal, de segunda a sábado, em qualquer horário (em dinheiro a bordo ou com o vale-transporte)",
    "perfil": "comum",
    "meio_pagamento": "",
    "valor_brl": 6.5,
-   "vigencia_inicio": null,
-   "ato_oficial": null,
-   "fonte": "Prefeitura de Bragança Paulista (Perguntas frequentes do Programa Tarifa Zero)",
-   "fonte_url": "https://braganca.sp.gov.br/perguntas-frequentes-programa-tarifa-zero",
+   "vigencia_inicio": "2026-01-01",
+   "ato_oficial": "Decreto nº 4.876, de 15 de dezembro de 2025, art. 3º, caput e § 1º (Imprensa Oficial do Município de Bragança Paulista, edição nº 2176, de 19/12/2025, p. 17, republicado por incorreção na edição nº 2180, de 30/12/2025, p. 2), em vigor a partir de 1º de janeiro de 2026; no pico, mantido pelo Decreto nº 4.935, de 13 de março de 2026, art. 2º, I",
+   "fonte": "Imprensa Oficial do Município de Bragança Paulista, edição nº 2180, de 30/12/2025, p. 2 (Decreto nº 4.876/2025, republicado por incorreção)",
+   "fonte_url": "https://www.dosp.com.br/exibe_do.php?i=NzU3Mzc3",
    "fonte_tipo": "oficial",
-   "confianca": "B",
-   "verificado_em": "2026-10-17",
-   "observacao": "A página chama R$ 6,50 de 'tarifa regular' cobrada no pico. Na 1ª fase do programa (15/07/2025) a tarifa fora do pico com Cartão Cidadão Bragantino caiu de R$ 4,50 para R$ 2,50; não ficou claro se o portador do cartão paga R$ 4,50 ou R$ 6,50 no pico."
+   "confianca": "A",
+   "verificado_em": "2026-11-06",
+   "observacao": "Edição baixada e lida em 06/11/2026: 'Art. 3º A tarifa pública do serviço público de transporte coletivo urbano de passageiros fica reajustada para R$ 6,50 (seis reais e cinquenta centavos). § 1º O usuário que pagar a tarifa em dinheiro dentro dos coletivos, em qualquer horário, e o usuário do vale transporte adquirido exclusivamente nos termos da Lei Federal n.º 7.418, de 1985, continuarão a pagar o valor da tarifa pública integral.' O art. 7º põe o decreto em vigor a partir de 01/01/2026, e o § 2º do art. 3º diz que a tarifa pública anterior era de R$ 4,50 (créditos comprados até 31/12/2025 debitados a R$ 4,50 por até 30 dias). Assim, os R$ 6,50 valem, de segunda a sábado, em qualquer horário para quem paga em dinheiro a bordo e para o vale-transporte, e no pico para quem usa o Cartão Cidadão Bragantino (Decreto nº 4.935/2026, art. 2º, I). Confirmação de 2026: a página de perguntas frequentes do Programa Tarifa Zero (https://braganca.sp.gov.br/perguntas-frequentes-programa-tarifa-zero, aberta em 06/11/2026) diz 'Nos horários de pico, permanece a tarifa regular de R$ 6,50'. Notícia do reajuste: Diário do Transporte, 20/12/2025. Nenhum ato de tarifa depois do Decreto nº 4.935/2026 na busca da Imprensa Oficial."
   },
   {
    "uf": "SP",
@@ -15121,18 +15140,18 @@
    "cod_ibge": "3507605",
    "sistema": "Prefeitura de Bragança Paulista, Secretaria Municipal de Mobilidade Urbana; operadora JTP; Cartão Cidadão Bragantino (morador)",
    "modo": "onibus",
-   "servico": "municipal, domingos",
+   "servico": "municipal, domingos e feriados",
    "perfil": "comum",
    "meio_pagamento": "",
    "valor_brl": 0,
    "vigencia_inicio": null,
-   "ato_oficial": null,
-   "fonte": "Prefeitura de Bragança Paulista (Perguntas frequentes do Programa Tarifa Zero)",
-   "fonte_url": "https://braganca.sp.gov.br/perguntas-frequentes-programa-tarifa-zero",
+   "ato_oficial": "Decreto nº 4.935, de 13 de março de 2026, art. 5º (domingos e feriados, na republicação por incorreção da edição nº 2241, de 01/04/2026), em vigor a partir de 05/04/2026; antes, Decreto nº 4.876, de 15 de dezembro de 2025, art. 5º, que manteve a tarifa zero aos domingos nos termos do Decreto nº 4.742, de 1º de julho de 2025",
+   "fonte": "Imprensa Oficial do Município de Bragança Paulista, edição nº 2241, de 01/04/2026, p. 2 (Decreto nº 4.935/2026, republicado por incorreção)",
+   "fonte_url": "https://www.dosp.com.br/exibe_do.php?i=Nzk5Mzkw",
    "fonte_tipo": "oficial",
-   "confianca": "B",
-   "verificado_em": "2026-10-17",
-   "observacao": "A página informa que os domingos 'já possuem Tarifa Zero'"
+   "confianca": "A",
+   "verificado_em": "2026-11-06",
+   "observacao": "'Art. 5º Fica mantido o benefício da tarifa zero aos domingos e feriados em todas as linhas de transporte coletivo de passageiros do município de Braganca Paulista, durante todo o dia.' Vale para todos os passageiros, sem exigência de cartão. Os feriados entraram na republicação de 01/04/2026 (as versões de 17/03 e 26/03/2026 falavam só em domingos); por isso o serviço passou de 'municipal, domingos' para 'municipal, domingos e feriados'. A data em que a tarifa zero aos domingos começou não foi achada."
   },
   {
    "uf": "SP",
@@ -15333,34 +15352,15 @@
    "servico": "municipal",
    "perfil": "comum",
    "meio_pagamento": "",
-   "valor_brl": 4.5,
-   "vigencia_inicio": null,
-   "ato_oficial": null,
-   "fonte": "Prefeitura de Capivari",
-   "fonte_url": "https://capivari.sp.gov.br/portal/wp-content/uploads/2023/03/Beneficios-tarifarios-concedidos-no-valor-das-tarifas-do-transporte-publico.pdf",
+   "valor_brl": 5,
+   "vigencia_inicio": "2023-10-02",
+   "ato_oficial": "Decreto nº 7.404/2023, de 29 de setembro de 2023, art. 1º (Diário Oficial Eletrônico do Município de Capivari, edição nº 871, de 29/09/2023, p. 5), em vigor em 02/10/2023 (art. 2º)",
+   "fonte": "Diário Oficial Eletrônico do Município de Capivari, edição nº 871, de 29/09/2023, p. 5 (Decreto nº 7.404/2023)",
+   "fonte_url": "https://capivari.sp.gov.br/portal/wp-content/uploads/Downloads/Diario%20Oficial/2023/09%20-%20Setembro/Diario%20Oficial%20Ed%20871%20-%20Assinado.pdf",
    "fonte_tipo": "oficial",
-   "confianca": "B",
-   "verificado_em": "2026-10-20",
-   "observacao": "O documento \"Benefícios tarifários concedidos no valor das tarifas do transporte público\", ligado na página da Secretaria de Mobilidade Urbana (https://capivari.sp.gov.br/portal/secretarias/mobilidade-urbana/), dá \"Tarifas atuais: Passagem inteira: R$ 4,50\". A fonte mais recente é de 29/03/2023 (data do arquivo), e não se achou reajuste depois: a busca no site da prefeitura por \"tarifa\", \"ônibus\", \"passagem\", \"transporte coletivo\" e \"transporte público\" e a busca na imprensa não trouxeram valor novo."
-  },
-  {
-   "uf": "SP",
-   "municipio": "Capivari",
-   "cod_ibge": "3510401",
-   "sistema": "Prefeitura de Capivari (Secretaria de Mobilidade Urbana); concessionária do transporte urbano e suburbano não nomeada nas páginas abertas",
-   "modo": "onibus",
-   "servico": "municipal",
-   "perfil": "estudante",
-   "meio_pagamento": "",
-   "valor_brl": 2.93,
-   "vigencia_inicio": null,
-   "ato_oficial": null,
-   "fonte": "Prefeitura de Capivari",
-   "fonte_url": "https://capivari.sp.gov.br/portal/wp-content/uploads/2023/03/Beneficios-tarifarios-concedidos-no-valor-das-tarifas-do-transporte-publico.pdf",
-   "fonte_tipo": "oficial",
-   "confianca": "B",
-   "verificado_em": "2026-10-20",
-   "observacao": "\"Passagem escolar: R$ 2,93\", no mesmo documento de 29/03/2023; não se achou reajuste depois."
+   "confianca": "A",
+   "verificado_em": "2026-11-06",
+   "observacao": "PDF baixado e lido em 06/11/2026: 'Decreto N° 7.404/2023. Eleva para R$ 5,00 (Cinco reais), o valor da tarifa de ônibus da Auto Viação M. M. Souza Turismo Ltda, como específica. (...) Art. 1º. Fica elevado para R$ 5,00 (cinco reais), o valor atual e vigente da tarifa de ônibus da Auto Viação M. M. Souza Turismo Ltda. - CGC nº 55.140.818/0001-00, concessionária da Linha de Transporte Coletivo Urbano, (...) objeto do Contrato DCL nº 056/2016, de 18 de novembro de 2016. Art. 2º. Este Decreto entrará em vigor em 02 de outubro de 2023.' Valor anterior: R$ 4,50 (documento 'Benefícios tarifários concedidos no valor das tarifas do transporte público', de 29/03/2023, que a base publicava). Ressalva: o ato mais recente com o valor é de 29/09/2023, e não se achou reajuste depois. As compras da Prefeitura à concessionária acompanham o decreto: o crédito de transporte dos servidores passou a R$ 5,00 'em virtude do aumento da tarifa de ônibus, em conformidade com o Decreto Municipal n.º 7.404/2023' (Termo de Aditamento nº 072/2023, de 16/10/2023, Diário Oficial nº 886, de 23/10/2023), seguiu a R$ 5,00 a unidade na Ata de Registro de Preços nº 003/2025 (166.650 créditos por R$ 833.250,00, assinada em 13/01/2025, Diário Oficial nº 1194, de 15/01/2025) e foi contratado de novo em 13/03/2026 pelo mesmo valor global (Inexigibilidade nº 005/2026, Diário Oficial nº 1502); compra da Prefeitura confirma o valor, mas não prova sozinha. O ônibus urbano roda em 2026: além dessas compras, a lei de 18/03/2026 que altera a Lei nº 5.156/2017 manda a Câmara comprar 'passes de transporte coletivo público urbano municipal' para os servidores (Diário Oficial nº 1505, de 18/03/2026)."
   },
   {
    "uf": "SP",
@@ -15600,14 +15600,14 @@
    "perfil": "comum",
    "meio_pagamento": "qualquer",
    "valor_brl": 5.3,
-   "vigencia_inicio": "2023-01",
+   "vigencia_inicio": "2023-01-03",
    "ato_oficial": null,
    "fonte": "Prefeitura de Cotia (08/01/2026 e 02/07/2026)",
    "fonte_url": "https://cotia.sp.gov.br/entenda-como-funciona-o-custeio-do-transporte-publico-em-cotia/",
    "fonte_tipo": "oficial",
    "confianca": "B",
-   "verificado_em": "2026-10-17",
-   "observacao": "Dinheiro, cartão comum ou outros meios. Anterior R$ 5,00. Custo operacional de R$ 7,50 por viagem, com subsídio municipal de R$ 2,20 por passagem."
+   "verificado_em": "2026-11-06",
+   "observacao": "Página da Prefeitura, publicada em 02/07/2026 e lida em 06/11/2026: 'a tarifa pública do sistema permanece em R$ 5,30 para os passageiros'; 'A passagem comum continua custando R$ 5,30. O custo real de cada viagem é de R$ 7,50. A Prefeitura subsidia R$ 2,20 por viagem para manter a tarifa ao usuário em R$ 5,30.' Dinheiro, cartão comum ou outros meios. Início do valor: o comunicado da Prefeitura de 02/01/2023 (https://cotia.sp.gov.br/comunicado-novo-valor-da-tarifa-do-transporte-publico-municipal-2/) diz que 'a partir da zero hora de terça-feira (3 de janeiro de 2023), a tarifa no transporte público municipal passará dos atuais R$ 5,00 para R$ 5,30'. A notícia de 08/01/2026 (https://cotia.sp.gov.br/prefeitura-de-cotia-mantem-tarifa-de-onibus-congelada/) mantém o bilhete 'congelado, a R$ 5,30 nas 32 linhas que operam na cidade em nível municipal'. Aos domingos, desde 14/06/2026, as linhas municipais têm Tarifa Zero Inclusiva (Lei Municipal nº 2.466/2026); nos outros dias vale R$ 5,30. O ônibus roda: a Prefeitura noticiou em 02/10/2026 a tarifa zero no domingo de eleição nas linhas municipais e nas intermunicipais da Viação Raposo Tavares, e em 28/09/2026 assinou a ordem de serviço do estudo de viabilidade para a nova concessão do transporte coletivo. Não se achou reajuste da tarifa comum depois de janeiro de 2023."
   },
   {
    "uf": "SP",
@@ -15625,8 +15625,8 @@
    "fonte_url": "https://cotia.sp.gov.br/entenda-como-funciona-o-custeio-do-transporte-publico-em-cotia/",
    "fonte_tipo": "oficial",
    "confianca": "A",
-   "verificado_em": "2026-10-17",
-   "observacao": "Créditos de VT comprados pelos empregadores passam a ser calculados pelo custo operacional de R$ 7,50, 41,5% acima da tarifa comum. O desconto no salário do trabalhador segue o limite da lei do VT. O Decreto 9.616 já vigorava em 13/06/2026, quando a Prefeitura notificou a operadora por cobrar R$ 7,50 sobre créditos antigos; a operadora foi obrigada a ressarcir."
+   "verificado_em": "2026-11-06",
+   "observacao": "Página da Prefeitura de 02/07/2026, lida em 06/11/2026: 'Desde 1º de julho, os créditos adquiridos pelos empregadores passam a ser calculados com base no custo operacional de R$ 7,50. Essa alteração, no entanto, não muda o desconto feito no salário do trabalhador.' e 'O vale-transporte adquirido pelas empresas passa a utilizar o valor operacional de R$ 7,50.' Valor 41,5% acima da tarifa comum. A notícia da Prefeitura de 13/06/2026 (https://cotia.sp.gov.br/prefeitura-de-cotia-notifica-empresa-de-onibus-por-cobranca-indevida-de-tarifa/) diz que, 'após a entrada em vigor o decreto Nº 9.616', o sistema passou a descontar R$ 7,50 também dos créditos antigos de vale-transporte, o que a Prefeitura considerou irregular, porque o valor 'de acordo com o decreto só poderia ser reajustado na compra do vale transporte pelo empregador'; a concessionária foi notificada e vai ressarcir. O texto do decreto não foi lido (o Diário Oficial de Cotia fica na Leis Municipais, que recusa o acesso sem navegador). Não se achou notícia ou ato posterior que mude esse valor."
   },
   {
    "uf": "SP",
@@ -16209,13 +16209,32 @@
    "meio_pagamento": "",
    "valor_brl": 5.5,
    "vigencia_inicio": "2024-02-01",
-   "ato_oficial": "lei municipal de subsídio sancionada em 31/01/2024 (número não citado); valor mantido em 2025 com subsídio municipal de R$ 3,24 anunciado em 06/02/2025 (ato não citado)",
-   "fonte": "Diário do Transporte (10/02/2025)",
-   "fonte_url": "https://diariodotransporte.com.br/2025/02/10/prefeitura-de-guaratingueta-mantem-tarifa-do-transporte-publico-em-r-550-e-anuncia-retorno-da-linha-santa-maria/",
-   "fonte_tipo": "imprensa",
-   "confianca": "B",
-   "verificado_em": "2026-10-20",
-   "observacao": "Valor mais repetido entre veículos de maior porte (decisão do Anderson de 19/10): Diário do Transporte (10/02/2025): R$ 5,50 (a tarifa \"permanecerá em R$ 5,50\", graças a subsídio municipal de R$ 3,24; o subtítulo diz R$ 3,28); Portal R3 (09/02/2025): R$ 5,50 (\"não haverá aumento no valor da tarifa, mantendo em R$ 5,50\"). As duas matérias tratam do anúncio do prefeito em 06/02/2025, também publicado pela Prefeitura em 07/02/2025 (https://guaratingueta.sp.gov.br/prefeitura-mantem-valor-da-tarifa-do-transporte-publico-e-anuncia-outras-novidades/). Nenhum veículo de afiliada de TV (g1 Vale do Paraíba e Região, Band Vale) com a tarifa foi achado. A vigência de R$ 5,50 é 01/02/2024, quando a Prefeitura reduziu para R$ 5,50 a tarifa que iria a R$ 6,00 (notícia de 31/01/2024). A matéria mais recente com o valor é de fevereiro de 2025."
+   "ato_oficial": "Decreto nº 10.615, de 29 de janeiro de 2026, art. 1º (Diário Oficial da Estância Turística de Guaratinguetá, edição online nº 5.348, de 29/01/2026, pp. 20 e 21), com efeito retroativo a 1º de janeiro de 2026 (art. 6º); o valor vale desde 01/02/2024, e em 2025 o subsídio de R$ 3,24 por passageiro equivalente foi fixado pelo Decreto nº 10.343, de 07/02/2025",
+   "fonte": "Diário Oficial da Estância Turística de Guaratinguetá, edição online nº 5.348, de 29/01/2026, pp. 20 e 21 (Decreto nº 10.615/2026)",
+   "fonte_url": "https://guaratingueta.sp.gov.br/wp-content/uploads/2026/01/Diario-29-jan-5348.pdf",
+   "fonte_tipo": "oficial",
+   "confianca": "A",
+   "verificado_em": "2026-11-06",
+   "observacao": "PDF baixado em 06/11/2026; as páginas do decreto são imagem e foram lidas por OCR: 'Art. 1º A TARIFA PÚBLICA ficará mantida no importe de R$ 5,50 (cinco reais e cinquenta centavos) por passageiro, nas linhas de ônibus urbanas e rurais.' O art. 3º mantém a tarifa de remuneração em R$ 10,64 por passageiro equivalente, o art. 4º dá à concessionária subsídio de R$ 5,14 por passageiro equivalente (limitado à média mensal de 113.029 passageiros equivalentes de 2025) e o art. 6º põe o decreto em vigor de forma retroativa a partir de 01/01/2026. Os considerandos citam o Contrato de Concessão nº 105/2019, o Decreto nº 10.343, de 07/02/2025 (subsídio de R$ 3,24 em 2025) e um novo pedido de revisão ordinária da tarifa de remuneração feito pela concessionária, em análise na Comissão Tarifária; não se achou ato posterior que mude a tarifa pública. O ônibus roda em 2026: a Prefeitura deu tarifa zero só nos dias de eleição (Decreto nº 10.731, de 11/08/2026, Diário Oficial nº 5.479, de 13/08/2026, que não dá o valor da passagem), com 23 ônibus em circulação (notícia de 02/10/2026), e o portal Meu TUG da operadora publicou avisos até 23/10/2026. A vigência de R$ 5,50 segue 01/02/2024, quando a Prefeitura reduziu para R$ 5,50 a tarifa que iria a R$ 6,00."
+  },
+  {
+   "uf": "SP",
+   "municipio": "Guaratinguetá",
+   "cod_ibge": "3518404",
+   "sistema": "Prefeitura de Guaratinguetá (Secretaria de Segurança e Mobilidade Urbana); Transporte Urbano de Guaratinguetá (TUG), concedido à Rodoviário Oceano Ltda. (Concorrência Pública nº 12/2018, contrato de abril de 2019, por 15 anos), com subsídio municipal; bilhetagem e venda de vale-transporte pela plataforma Meu TUG desde 01/10/2025 (antes, Nubus)",
+   "modo": "onibus",
+   "servico": "municipal",
+   "perfil": "estudante",
+   "meio_pagamento": "cartao",
+   "valor_brl": 2.75,
+   "vigencia_inicio": "2024-02-01",
+   "ato_oficial": "Decreto nº 10.615, de 29 de janeiro de 2026, art. 2º (Diário Oficial da Estância Turística de Guaratinguetá, edição online nº 5.348, de 29/01/2026, p. 21), com efeito retroativo a 1º de janeiro de 2026 (art. 6º)",
+   "fonte": "Diário Oficial da Estância Turística de Guaratinguetá, edição online nº 5.348, de 29/01/2026, pp. 20 e 21 (Decreto nº 10.615/2026)",
+   "fonte_url": "https://guaratingueta.sp.gov.br/wp-content/uploads/2026/01/Diario-29-jan-5348.pdf",
+   "fonte_tipo": "oficial",
+   "confianca": "A",
+   "verificado_em": "2026-11-06",
+   "observacao": "Lido por OCR em 06/11/2026: 'Art. 2º O valor do bilhete de estudante continuará a corresponder à metade do valor da TARIFA PÚBLICA, sendo igual a R$ 2,75 (dois reais e setenta e cinco centavos).' Confirma em 2026 o passe escolar que a base guardava com data antiga (R$ 2,75 desde 01/02/2024). O formulário 'Passe Escolar Urbano Guaratinguetá 2026' da Rodoviário Oceano (portal Meu TUG, atualizado em 05/02/2026) exige cadastro anual com declaração da escola, sem citar valor."
   },
   {
    "uf": "SP",
@@ -16328,8 +16347,8 @@
    "fonte_url": "https://www.hortolandia.sp.gov.br/linhasdeonibus/",
    "fonte_tipo": "oficial",
    "confianca": "A",
-   "verificado_em": "2026-10-17",
-   "observacao": "Bilhete Único Cartão Cidadão. Anterior R$ 4,00 (Diário do Transporte, 31/01/2019). Sem reajuste desde 2019."
+   "verificado_em": "2026-11-06",
+   "observacao": "Bilhete Único Cartão Cidadão. Anterior R$ 4,00 (Diário do Transporte, 31/01/2019). Sem reajuste desde 2019. Confirmação de 2026, numa fonte mais fraca que a da linha (por isso a fonte e o ato publicados ficam): o Portal Hortolândia, jornal on-line da cidade (portalhortolandia.com.br, matéria nº 226352, sobre as linhas municipais e a tarifa), publicou em 21/07/2026 (matéria aberta em 06/11/2026): 'Pagamento em dinheiro: R$ 4,50' e 'Bilhete Único (Cartão Cidadão e Vale-Transporte): R$ 4,30', sem citar a fonte nem a operadora; sem veículo grande achado, vale o veículo que trata da cidade (decisão do Anderson de 19/10). A página de linhas da Prefeitura, conferida pela base em 17/10/2026, não respondeu em 06/11/2026 (o servidor não aceitou a conexão). Não se achou reajuste depois do Decreto nº 4.118/2019: nenhuma notícia ou ato de tarifa municipal de 2025 ou 2026 nas buscas."
   },
   {
    "uf": "SP",
@@ -16347,8 +16366,8 @@
    "fonte_url": "https://www.hortolandia.sp.gov.br/linhasdeonibus/",
    "fonte_tipo": "oficial",
    "confianca": "A",
-   "verificado_em": "2026-10-17",
-   "observacao": "Anterior R$ 4,20."
+   "verificado_em": "2026-11-06",
+   "observacao": "Anterior R$ 4,20. O Portal Hortolândia de 21/07/2026 confirma 'Pagamento em dinheiro: R$ 4,50'. Não se achou reajuste depois do Decreto nº 4.118/2019."
   },
   {
    "uf": "SP",
@@ -16366,8 +16385,8 @@
    "fonte_url": "https://www.hortolandia.sp.gov.br/linhasdeonibus/",
    "fonte_tipo": "oficial",
    "confianca": "A",
-   "verificado_em": "2026-10-17",
-   "observacao": "Bilhete Único Vale-Transporte, mesmo valor do Cartão Cidadão."
+   "verificado_em": "2026-11-06",
+   "observacao": "Bilhete Único Vale-Transporte, mesmo valor do Cartão Cidadão. O Portal Hortolândia de 21/07/2026 confirma 'Bilhete Único (Cartão Cidadão e Vale-Transporte): R$ 4,30'. Não se achou reajuste depois do Decreto nº 4.118/2019."
   },
   {
    "uf": "SP",
@@ -18888,13 +18907,13 @@
    "meio_pagamento": "",
    "valor_brl": 0,
    "vigencia_inicio": "2023-12-01",
-   "ato_oficial": null,
-   "fonte": "Diário do Transporte (22/11/2023)",
-   "fonte_url": "https://diariodotransporte.com.br/2023/11/22/santa-isabel-sp-tera-tarifa-de-onibus-gratuita-a-partir-de-dezembro/",
-   "fonte_tipo": "imprensa",
-   "confianca": "B",
-   "verificado_em": "2026-10-20",
-   "observacao": "Com o Programa Rota Livre, anunciado pelo prefeito Carlos Chinchilla em 22/11/2023, a passagem passou a ser gratuita para os moradores a partir de 01/12/2023, com cadastro no sistema. A gratuidade segue em 2026: o BNews São Paulo (18/12/2025), com base em levantamento do g1, diz que Santa Isabel afirmou que a tarifa zero será mantida em 2026, com custo bancado pela prefeitura, e a prefeitura divulgou em 28/09/2026 os horários do transporte coletivo da Rota Livre, operado pela Auto Viação Suzano. O ato que instituiu o programa não foi achado."
+   "ato_oficial": "Lei Complementar nº 239/2023 e Decreto nº 7.046/2023, citados como os termos do Programa Rota Livre no portal do programa da Prefeitura (textos não abertos)",
+   "fonte": "Prefeitura de Santa Isabel, portal do Programa Rota Livre (página inicial e página 'Cadastrar Empregador')",
+   "fonte_url": "https://santaisabel.rotalivre.net.br/",
+   "fonte_tipo": "oficial",
+   "confianca": "A",
+   "verificado_em": "2026-11-06",
+   "observacao": "Portal do Programa Rota Livre, ligado na página inicial do site da Prefeitura e aberto em 06/11/2026 (página inicial atualizada em 23/09/2025): 'A população deve realizar o cadastro para usufruir do transporte coletivo municipal GRATUITO'. A página 'Cadastrar Empregador' do mesmo portal (https://santaisabel.rotalivre.net.br/cadastrar-empregador/) traz a declaração 'Declaro que estou ciente dos Termos do Programa Rota Livre - LC 239/2023 e Decreto 7046/2023'; os textos da lei complementar e do decreto não foram abertos (leis.org e leismunicipais.com.br recusaram o acesso, e o portal de leis da Câmara não respondeu), por isso as datas dos atos ficam sem registro. Confirmação de 2026: a notícia da Prefeitura de 23/10/2026 sobre o 2º turno ('Além da gratuidade por meio do Programa Rota Livre...') diz que em 25/10/2026 o transporte municipal seria gratuito para toda a população por meio do programa, o que mostra que nos outros dias a gratuidade depende do cadastro. O formulário de cadastro do usuário lista categorias como passageiro comum, idoso, pessoa com deficiência, estudante, servidor público, empregado da iniciativa privada, empregado eventual e turista; quem pode se cadastrar além dos moradores não foi conferido no ato. Início em 01/12/2023 pelas notícias de 22/11 e 01/12/2023 (Diário do Transporte e ABC do ABC)."
   },
   {
    "uf": "SP",
@@ -20598,13 +20617,13 @@
    "meio_pagamento": "dinheiro",
    "valor_brl": 4,
    "vigencia_inicio": "2019-03-10",
-   "ato_oficial": null,
-   "fonte": "Araguaína Transportes S.A., página 'Valor da tarifa'",
-   "fonte_url": "https://www.araguainatransportes.com.br/valor-da-tarifa",
-   "fonte_tipo": "operadora",
-   "confianca": "B",
-   "verificado_em": "2026-10-17",
-   "observacao": "Tarifa anterior R$ 3,25 desde 19/06/2016 (reajuste de 23%). Reajuste aprovado pela Comissão Mista para Deliberação do Reajuste Tarifário do Sistema (Conexão Tocantins, 03/03/2019). A operadora declara os mesmos valores após a mudança de razão social em dez/2022."
+   "ato_oficial": "Decreto nº 134, de 06 de março de 2019, art. 1º (Diário Oficial do Município de Araguaína nº 1764, de 06/03/2019), em vigor a partir de 10/03/2019 (art. 2º), que revogou o Decreto nº 448, de 17/06/2016",
+   "fonte": "Diário Oficial do Município de Araguaína nº 1764, de 06/03/2019 (Decreto nº 134/2019)",
+   "fonte_url": "https://api-araguaina.barcodigital.com.br/arquivo/araguaina.to.gov.br/diarios/1764.pdf",
+   "fonte_tipo": "oficial",
+   "confianca": "A",
+   "verificado_em": "2026-11-06",
+   "observacao": "PDF baixado e lido em 06/11/2026: 'DECRETO 134, DE 06 DE MARÇO DE 2019. Fixa o valor da tarifa para o serviço de transporte coletivo urbano no município de Araguaína e adota outras providências.' Os considerandos citam a Comissão Mista para Deliberação do Reajuste Tarifário do Sistema de Transporte Público Coletivo Urbano de Araguaína, que 'aprovou na data de 30 de janeiro o reajuste do valor da tarifa'. 'Art. 1º É fixada em R$ 4,00 (quatro reais) a tarifa do serviço de transporte coletivo urbano no município de Araguaína, sem prejuízo das gratuidades, isenções e descontos legalmente previstos. Art. 2º Este Decreto entra em vigor a partir de 10 de março de 2019, revogadas as disposições em contrário, em especial o Decreto 448, de 17 de junho de 2016.' Tarifa anterior: R$ 3,25 desde 19/06/2016. Ressalva: a fonte oficial mais recente com o valor é de 06/03/2019, e não se achou reajuste depois: na busca do Diário Oficial do Município, o único ato que 'Fixa o valor da tarifa' do ônibus é este decreto; em 08/12/2022 a Agência Municipal de Segurança, Transporte e Trânsito (ASTT) multou a Viação Passaredo em R$ 12.000,00, 'correspondente a 3.000 (três mil) vezes o maior valor de tarifa cobrada no Sistema de Transporte Coletivo Urbano Convencional do Município' (Diário Oficial nº 2693, de 20/12/2022), o que dá R$ 4,00 em 2022; e a página 'Valor da tarifa' da operadora (https://www.araguainatransportes.com.br/valor-da-tarifa, aberta em 06/11/2026, rodapé de 2026) repete 'A partir de 10/03/2019 tivemos um reajuste passou a operar com a tarifa R$4,00 Vale Transporte R$3,75 e Estudantil R$1,98'. O ônibus roda em 2026 com a mesma concessão: a Portaria/ASTT nº 083, de 23/09/2026, designa gestor e fiscais do Contrato de Concessão do serviço de transporte público por ônibus com a Araguaína Transportes S.A. (Diário Oficial nº 3599), e o Despacho nº 00782/GAB-2026 isenta de ISSQN, a partir de setembro de 2026, a empresa, 'concessionária do serviço público de transporte coletivo urbano de passageiros do Município de Araguaína/TO, conforme Contrato de Concessão nº 005/2018 - ASTT' (Diário Oficial nº 3598, de 22/09/2026)."
   },
   {
    "uf": "TO",

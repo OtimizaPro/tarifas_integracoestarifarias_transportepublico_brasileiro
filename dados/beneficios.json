@@ -1,6 +1,6 @@
 {
  "nome": "Tarifaoteca da Otimiza.pro: beneficios",
- "versao": "2026.11.05.2",
+ "versao": "2026.11.06",
  "licenca": {
   "nome": "CC BY-NC 4.0",
   "url": "https://creativecommons.org/licenses/by-nc/4.0/deed.pt-br",
@@ -8,7 +8,7 @@
   "uso_interno": "A consulta para decisões da própria empresa, como orçar o vale-transporte, não pede licença.",
   "uso_comercial": "Uso comercial por empresas (em produto, revenda ou integração em sistema ou serviço pago) pede licença da Otimiza.pro: empresa@otimiza.pro."
  },
- "citar_como": "Fonte: Tarifaoteca da Otimiza.pro, versão 2026.11.05.2. DOI: https://doi.org/10.5281/zenodo.23486211. https://github.com/OtimizaPro/tarifas_integracoestarifarias_transportepublico_brasileiro",
+ "citar_como": "Fonte: Tarifaoteca da Otimiza.pro, versão 2026.11.06. DOI: https://doi.org/10.5281/zenodo.23486211. https://github.com/OtimizaPro/tarifas_integracoestarifarias_transportepublico_brasileiro",
  "linhas": [
   {
    "uf": "AC",
@@ -6147,24 +6147,24 @@
    "municipio": "Bragança Paulista",
    "cod_ibge": "3507605",
    "tipo": "tarifa_zero_temporal",
-   "regra": "Tarifa zero fora dos horários de pico, de segunda a sábado, com Cartão Cidadão Bragantino, em todas as linhas urbanas",
+   "regra": "Tarifa zero fora dos horários de pico, de segunda a sábado (das 4h às 6h29, das 8h31 às 16h29 e das 19h01 às 2h), em todas as linhas do transporte coletivo urbano, para o usuário cadastrado com o Cartão Cidadão Bragantino (morador), que registra a viagem no cartão; no pico (6h30 às 8h30 e 16h30 às 19h), o portador paga a tarifa pública integral de R$ 6,50.",
    "desde": "2026-04-05",
-   "base_legal": null,
-   "fonte_url": "https://braganca.sp.gov.br/perguntas-frequentes-programa-tarifa-zero",
-   "confianca": "B",
-   "verificado_em": "2026-10-17"
+   "base_legal": "Decreto nº 4.935, de 13 de março de 2026, art. 2º e parágrafo único (Imprensa Oficial do Município, edição nº 2241, de 01/04/2026, republicado por incorreção)",
+   "fonte_url": "https://www.dosp.com.br/exibe_do.php?i=Nzk5Mzkw",
+   "confianca": "A",
+   "verificado_em": "2026-11-06"
   },
   {
    "uf": "SP",
    "municipio": "Bragança Paulista",
    "cod_ibge": "3507605",
    "tipo": "tarifa_zero_temporal",
-   "regra": "Tarifa zero aos domingos",
+   "regra": "Tarifa zero aos domingos e feriados, durante todo o dia, em todas as linhas do transporte coletivo municipal, para todos os passageiros.",
    "desde": null,
-   "base_legal": null,
-   "fonte_url": "https://braganca.sp.gov.br/perguntas-frequentes-programa-tarifa-zero",
-   "confianca": "B",
-   "verificado_em": "2026-10-17"
+   "base_legal": "Decreto nº 4.935, de 13 de março de 2026, art. 5º (Imprensa Oficial do Município, edição nº 2241, de 01/04/2026, republicado por incorreção); antes, Decreto nº 4.876/2025, art. 5º, e Decreto nº 4.742/2025 (domingos)",
+   "fonte_url": "https://www.dosp.com.br/exibe_do.php?i=Nzk5Mzkw",
+   "confianca": "A",
+   "verificado_em": "2026-11-06"
   },
   {
    "uf": "SP",
@@ -6314,18 +6314,6 @@
    "uf": "SP",
    "municipio": "Capivari",
    "cod_ibge": "3510401",
-   "tipo": "estudante",
-   "regra": "Passagem escolar a R$ 2,93, contra R$ 4,50 da inteira.",
-   "desde": null,
-   "base_legal": null,
-   "fonte_url": "https://capivari.sp.gov.br/portal/wp-content/uploads/2023/03/Beneficios-tarifarios-concedidos-no-valor-das-tarifas-do-transporte-publico.pdf",
-   "confianca": "B",
-   "verificado_em": "2026-10-20"
-  },
-  {
-   "uf": "SP",
-   "municipio": "Capivari",
-   "cod_ibge": "3510401",
    "tipo": "idoso",
    "regra": "Isenção de tarifa para idosos acima de 60 anos, pessoas com deficiência e crianças de até 6 anos.",
    "desde": null,
@@ -6411,12 +6399,12 @@
    "municipio": "Cotia",
    "cod_ibge": "3513009",
    "tipo": "tarifa_zero_temporal",
-   "regra": "Tarifa Zero Inclusiva aos domingos em todas as linhas municipais, sem cadastro nem cartão específico; não vale nas linhas intermunicipais",
+   "regra": "Tarifa Zero Inclusiva aos domingos: gratuidade em todas as linhas municipais de ônibus durante todo o domingo, sem cadastro nem cartão específico; não vale nas linhas intermunicipais e não altera as gratuidades já previstas na legislação",
    "desde": "2026-06-14",
-   "base_legal": "Lei Municipal nº 2.466/2026, regulamentada por decreto assinado em 10/06/2026",
+   "base_legal": "Lei Municipal nº 2.466/2026 (aprovada pela Câmara em abril de 2026), regulamentada por decreto assinado pelo prefeito em 10/06/2026",
    "fonte_url": "https://cotia.sp.gov.br/tarifa-zero-inclusiva-aos-domingos-ja-esta-valendo-em-cotia/",
    "confianca": "A",
-   "verificado_em": "2026-10-17"
+   "verificado_em": "2026-11-06"
   },
   {
    "uf": "SP",
@@ -7635,12 +7623,12 @@
    "municipio": "Santa Isabel",
    "cod_ibge": "3546801",
    "tipo": "tarifa_reduzida",
-   "regra": "Programa Rota Livre: gratuidade total no transporte coletivo municipal para os moradores de Santa Isabel cadastrados no sistema; visitantes pagam a tarifa. Não é tarifa zero universal.",
+   "regra": "Programa Rota Livre: gratuidade total no transporte coletivo municipal para quem se cadastra no programa (moradores; o formulário também tem categorias como empregado da iniciativa privada e turista, e há cadastro do empregador); quem não tem cadastro paga a tarifa. Não é tarifa zero universal.",
    "desde": "2023-12-01",
-   "base_legal": null,
-   "fonte_url": "https://diariodotransporte.com.br/2023/11/22/santa-isabel-sp-tera-tarifa-de-onibus-gratuita-a-partir-de-dezembro/",
+   "base_legal": "Lei Complementar nº 239/2023 e Decreto nº 7.046/2023, citados como os termos do programa no portal Rota Livre da Prefeitura",
+   "fonte_url": "https://santaisabel.rotalivre.net.br/cadastrar-empregador/",
    "confianca": "B",
-   "verificado_em": "2026-10-20"
+   "verificado_em": "2026-11-06"
   },
   {
    "uf": "SP",

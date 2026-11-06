@@ -1,6 +1,6 @@
 {
  "nome": "Tarifaoteca da Otimiza.pro: integracoes",
- "versao": "2026.11.05.2",
+ "versao": "2026.11.06",
  "licenca": {
   "nome": "CC BY-NC 4.0",
   "url": "https://creativecommons.org/licenses/by-nc/4.0/deed.pt-br",
@@ -8,7 +8,7 @@
   "uso_interno": "A consulta para decisões da própria empresa, como orçar o vale-transporte, não pede licença.",
   "uso_comercial": "Uso comercial por empresas (em produto, revenda ou integração em sistema ou serviço pago) pede licença da Otimiza.pro: empresa@otimiza.pro."
  },
- "citar_como": "Fonte: Tarifaoteca da Otimiza.pro, versão 2026.11.05.2. DOI: https://doi.org/10.5281/zenodo.23486211. https://github.com/OtimizaPro/tarifas_integracoestarifarias_transportepublico_brasileiro",
+ "citar_como": "Fonte: Tarifaoteca da Otimiza.pro, versão 2026.11.06. DOI: https://doi.org/10.5281/zenodo.23486211. https://github.com/OtimizaPro/tarifas_integracoestarifarias_transportepublico_brasileiro",
  "linhas": [
   {
    "uf": "AC",
@@ -782,13 +782,13 @@
    "uf": "PR",
    "municipio": "Foz do Iguaçu",
    "cod_ibge": "4108304",
-   "regra": "Integração temporal com o cartão da bilhetagem: no segundo embarque, em outra linha, o validador mostra INTEGRAÇÃO e libera a catraca sem nova cobrança; não vale na mesma linha",
+   "regra": "Integração temporal: com o cartão da bilhetagem eletrônica, o passageiro paga a tarifa no primeiro ônibus e tem até 90 minutos, contados do primeiro embarque, para embarcar num segundo ônibus de linha diferente sem nova cobrança; não vale embarcar de novo na mesma linha.",
    "janela_min": 90,
-   "embarques": "2 (uma integração)",
-   "quem_tem_direito": "Usuários do cartão da bilhetagem eletrônica",
+   "embarques": "2 (uma integração com outra linha)",
+   "quem_tem_direito": "quem usa o cartão da bilhetagem eletrônica (Cartão Único Foztrans), inclusive os estudantes",
    "fonte_url": "https://www.foztrans.pr.gov.br/transporte-coletivo/",
    "confianca": "B",
-   "verificado_em": "2026-10-17"
+   "verificado_em": "2026-11-06"
   },
   {
    "uf": "PR",

@@ -1,8 +1,8 @@
 # Tarifas do transporte público por cidade (Otimiza.pro)
 
-Quanto custa o transporte público em 620 municípios brasileiros, segundo a Tarifaoteca da Otimiza.pro (versão 2026.11.05.2). Cada frase traz o valor, a fonte e a data em que a Otimiza.pro conferiu e, quando a fonte informa, o ato oficial e a data em que passou a valer. A fonte oficial de cada valor está indicada. Onde há dados de serviço e oferta, a ficha traz também linhas e passageiros, com a fonte e a data.
+Quanto custa o transporte público em 620 municípios brasileiros, segundo a Tarifaoteca da Otimiza.pro (versão 2026.11.06). Cada frase traz o valor, a fonte e a data em que a Otimiza.pro conferiu e, quando a fonte informa, o ato oficial e a data em que passou a valer. A fonte oficial de cada valor está indicada. Onde há dados de serviço e oferta, a ficha traz também linhas e passageiros, com a fonte e a data.
 
-Como citar: Fonte: Tarifaoteca da Otimiza.pro, versão 2026.11.05.2. DOI: https://doi.org/10.5281/zenodo.23486211. https://github.com/OtimizaPro/tarifas_integracoestarifarias_transportepublico_brasileiro
+Como citar: Fonte: Tarifaoteca da Otimiza.pro, versão 2026.11.06. DOI: https://doi.org/10.5281/zenodo.23486211. https://github.com/OtimizaPro/tarifas_integracoestarifarias_transportepublico_brasileiro
 
 ## AC
 
@@ -16,7 +16,7 @@ Fonte (imprensa): https://ac24horas.com/2025/02/08/passagem-de-transporte-coleti
 
 ### Rio Branco (AC)
 
-Em Rio Branco (AC), a passagem de ônibus custa R$ 3,50 desde 26/10/2021, conforme Decreto 1.438/2021; valor conferido em 17/10/2026 pela Tarifaoteca da Otimiza.pro.
+Em Rio Branco (AC), a passagem de ônibus custa R$ 3,50 desde 26/10/2021, conforme Decreto 1.438/2021; valor conferido em 06/11/2026 pela Tarifaoteca da Otimiza.pro.
 
 Página da cidade: https://otimizapro.com/tarifa/ac/rio-branco
 
@@ -42,7 +42,7 @@ Tarifa zero em Arapiraca: Transporte coletivo gratuito no 1º turno das Eleiçõ
 
 ### Maceió (AL)
 
-Em Maceió (AL), a passagem de ônibus custa de R$ 3,49 a R$ 4,00 (varia com o cartão ou o meio de pagamento) desde 31/05/2023, conforme Decreto 9.449/2023; valor conferido em 17/10/2026 pela Tarifaoteca da Otimiza.pro.
+Em Maceió (AL), a passagem de ônibus custa de R$ 3,49 a R$ 4,00 (varia com o cartão ou o meio de pagamento) desde 31/05/2023, conforme Decreto 9.449/2023; valor conferido em 06/11/2026 pela Tarifaoteca da Otimiza.pro.
 
 Página da cidade: https://otimizapro.com/tarifa/al/maceio
 
@@ -334,11 +334,11 @@ Tarifa zero em Santo Antônio de Jesus: Suspensão da cobrança da tarifa públi
 
 ### Simões Filho (BA)
 
-Em Simões Filho (BA), a passagem de ônibus custa de R$ 4,50 a R$ 5,20 (varia com o tipo de linha), segundo a operadora (Metropasse, página Empresas e Tarifas); valor conferido em 18/10/2026 pela Tarifaoteca da Otimiza.pro.
+Em Simões Filho (BA), a passagem de ônibus custa de R$ 4,50 a R$ 5,20 (varia com o tipo de linha) desde 27/03/2024, conforme Resolução AGERBA nº 11/2024; valor conferido em 06/11/2026 pela Tarifaoteca da Otimiza.pro.
 
 Página da cidade: https://otimizapro.com/tarifa/ba/simoes-filho
 
-Fonte (operadora): http://www.metropasse.com.br/empresas-e-tarifas/
+Fonte (página oficial): https://www.ba.gov.br/agerba/sites/site-agerba/files/2025-08/CAT%20financeiro%20-%20Expresso%20Metropolitano%20%28metropolitano%29.pdf
 
 Vale-transporte em Simões Filho: cartão Eletrônico VTE do Metropasse; emitido por Metropasse; canal de compra da empresa: VTE Online do Metropasse, sistema pela internet para obter cartões e comprar créditos de vale-transporte; Central de Atendimento VTE (71) 3276-8990; validade dos créditos: 60 dias, fora o mês da aquisição.
 
@@ -696,7 +696,7 @@ Fonte (página oficial): https://www.anapolis.go.gov.br/confira-as-rotas-e-horar
 
 ### Aparecida de Goiânia (GO)
 
-Em Aparecida de Goiânia (GO), a passagem de ônibus do sistema CMTC (Rede Metropolitana) custa R$ 4,30 desde 19/04/2019, conforme Deliberação CDTC nº 085/2019; valor conferido em 17/10/2026 pela Tarifaoteca da Otimiza.pro.
+Em Aparecida de Goiânia (GO), a passagem de ônibus do sistema CMTC (Rede Metropolitana) custa R$ 4,30 desde 19/04/2019, conforme Deliberação CDTC nº 085/2019; valor conferido em 06/11/2026 pela Tarifaoteca da Otimiza.pro.
 
 Página da cidade: https://otimizapro.com/tarifa/go/aparecida-de-goiania
 
@@ -738,7 +738,7 @@ Tarifa zero em Formosa: Ônibus municipal gratuito para todos, operado pela Pref
 
 ### Goiânia (GO)
 
-Em Goiânia (GO), a passagem de ônibus custa R$ 4,30 desde 19/04/2019, conforme Deliberação CDTC nº 085/2019; valor conferido em 17/10/2026 pela Tarifaoteca da Otimiza.pro.
+Em Goiânia (GO), a passagem de ônibus custa R$ 4,30 desde 19/04/2019, conforme Deliberação CDTC nº 085/2019; valor conferido em 06/11/2026 pela Tarifaoteca da Otimiza.pro.
 
 Página da cidade: https://otimizapro.com/tarifa/go/goiania
 
@@ -752,7 +752,7 @@ Integração em Goiânia: uma tarifa e até 4 integrações em 2h30, sem passar 
 
 ### Goianira (GO)
 
-Em Goianira (GO), a passagem de ônibus do sistema CMTC (Rede Metropolitana) custa R$ 4,30 desde 19/04/2019, conforme Deliberação CDTC nº 085/2019; valor conferido em 17/10/2026 pela Tarifaoteca da Otimiza.pro.
+Em Goianira (GO), a passagem de ônibus do sistema CMTC (Rede Metropolitana) custa R$ 4,30 desde 19/04/2019, conforme Deliberação CDTC nº 085/2019; valor conferido em 06/11/2026 pela Tarifaoteca da Otimiza.pro.
 
 Página da cidade: https://otimizapro.com/tarifa/go/goianira
 
@@ -764,7 +764,7 @@ Integração em Goianira: uma tarifa e até 4 integrações em 2h30, sem passar 
 
 ### Itumbiara (GO)
 
-Em Itumbiara (GO), a passagem de ônibus custa R$ 3,00, segundo a publicação oficial (Prefeitura de Itumbiara, página Transporte Coletivo); valor conferido em 17/10/2026 pela Tarifaoteca da Otimiza.pro.
+Em Itumbiara (GO), a passagem de ônibus custa R$ 3,00 desde 03/01/2022, segundo a publicação oficial (Prefeitura de Itumbiara, página Transporte Coletivo); valor conferido em 06/11/2026 pela Tarifaoteca da Otimiza.pro.
 
 Página da cidade: https://otimizapro.com/tarifa/go/itumbiara
 
@@ -814,7 +814,7 @@ Tarifa zero em Quirinópolis: Transporte coletivo municipal gratuito para toda a
 
 ### Rio Verde (GO)
 
-Em Rio Verde (GO), a passagem de ônibus custa R$ 2,00 desde 01/05/2024, conforme Decreto nº 1.276/2024; valor conferido em 17/10/2026 pela Tarifaoteca da Otimiza.pro.
+Em Rio Verde (GO), a passagem de ônibus custa R$ 2,00 desde 01/05/2024, conforme Decreto nº 1.276/2024; valor conferido em 06/11/2026 pela Tarifaoteca da Otimiza.pro.
 
 Página da cidade: https://otimizapro.com/tarifa/go/rio-verde
 
@@ -822,7 +822,7 @@ Fonte (página oficial): https://transporte.rioverde.go.gov.br/valor-da-tarifa
 
 ### Senador Canedo (GO)
 
-Em Senador Canedo (GO), a passagem de ônibus do sistema CMTC (Rede Metropolitana) custa R$ 4,30 desde 19/04/2019, conforme Deliberação CDTC nº 085/2019; valor conferido em 17/10/2026 pela Tarifaoteca da Otimiza.pro.
+Em Senador Canedo (GO), a passagem de ônibus do sistema CMTC (Rede Metropolitana) custa R$ 4,30 desde 19/04/2019, conforme Deliberação CDTC nº 085/2019; valor conferido em 06/11/2026 pela Tarifaoteca da Otimiza.pro.
 
 Página da cidade: https://otimizapro.com/tarifa/go/senador-canedo
 
@@ -834,7 +834,7 @@ Integração em Senador Canedo: uma tarifa e até 4 integrações em 2h30, sem p
 
 ### Trindade (GO)
 
-Em Trindade (GO), a passagem de ônibus do sistema CMTC (Rede Metropolitana) custa R$ 4,30 desde 19/04/2019, conforme Deliberação CDTC nº 085/2019; valor conferido em 17/10/2026 pela Tarifaoteca da Otimiza.pro.
+Em Trindade (GO), a passagem de ônibus do sistema CMTC (Rede Metropolitana) custa R$ 4,30 desde 19/04/2019, conforme Deliberação CDTC nº 085/2019; valor conferido em 06/11/2026 pela Tarifaoteca da Otimiza.pro.
 
 Página da cidade: https://otimizapro.com/tarifa/go/trindade
 
@@ -906,7 +906,7 @@ Integração em São Luís: Bilhete Único: com o cartão de transporte ou a car
 
 ### Timon (MA)
 
-Em Timon (MA), a passagem de ônibus custa R$ 5,00, segundo a publicação oficial (Prefeitura de Timon, notícia de 17/09/2026); valor conferido em 17/10/2026 pela Tarifaoteca da Otimiza.pro.
+Em Timon (MA), a passagem de ônibus custa R$ 5,00, segundo a publicação oficial (Prefeitura de Timon, notícia de 17/09/2026); valor conferido em 06/11/2026 pela Tarifaoteca da Otimiza.pro.
 
 Página da cidade: https://otimizapro.com/tarifa/ma/timon
 
@@ -1702,7 +1702,7 @@ Tarifa zero em São Lourenço: ônibus municipais sem cobrança de tarifa desde 
 
 ### São Sebastião do Paraíso (MG)
 
-Em São Sebastião do Paraíso (MG), a passagem de ônibus custa R$ 3,45, segundo a publicação oficial (Prefeitura de São Sebastião do Paraíso, página Transporte coletivo urbano); valor conferido em 20/10/2026 pela Tarifaoteca da Otimiza.pro.
+Em São Sebastião do Paraíso (MG), a passagem de ônibus custa R$ 3,45 desde 01/08/2019, conforme Decreto Municipal nº 5.405/2019; valor conferido em 06/11/2026 pela Tarifaoteca da Otimiza.pro.
 
 Página da cidade: https://otimizapro.com/tarifa/mg/sao-sebastiao-do-paraiso
 
@@ -1748,13 +1748,13 @@ Tarifa zero em Timóteo: Gratuidade total em todas as linhas do sistema urbano n
 
 ### Três Corações (MG)
 
-Em Três Corações (MG), a passagem de ônibus custa de R$ 3,00 a R$ 9,00 (varia com o cartão ou o meio de pagamento) desde 01/01/2024, segundo a publicação oficial (Prefeitura de Três Corações, notícia de 02/01/2024); valor conferido em 20/10/2026 pela Tarifaoteca da Otimiza.pro.
+Em Três Corações (MG), a passagem de ônibus custa de R$ 5,25 a R$ 9,40 (varia com o cartão ou o meio de pagamento) desde 01/01/2026, conforme Decreto nº 5.609/2025; valor conferido em 06/11/2026 pela Tarifaoteca da Otimiza.pro.
 
 Página da cidade: https://otimizapro.com/tarifa/mg/tres-coracoes
 
-Fonte (página oficial): https://www.trescoracoes.mg.gov.br/noticias/geral/confira-como-fica-a-tarifa-do-transporte-coletivo-a-partir-de-1-de-janeiro
+Fonte (página oficial): https://trescoracoes-mg.portaltp.com.br/common/DocumentoS3.ashx?id=1711565
 
-Vale-transporte em Três Corações: cartão Trec-Card Vale Transporte; emitido por Trectur (Viação Três Corações Ltda.); canal de compra da empresa: A empresa pede o formulário de cadastro à Trectur por e-mail (gerentevendas@trectur.com.br) ou telefone, com razão social, CNPJ, inscrição estadual, endereço, responsável pelas recargas e dados dos colaboradores; depois da emissão dos cartões, recebe login e senha para fazer as recargas no portal de Recargas de Vale-Transporte (SigomWeb); liberação do crédito: o cartão do colaborador fica pronto para retirada na Trectur 24 horas úteis depois da emissão.
+Vale-transporte em Três Corações: cartão Trec-Card Vale Transporte; emitido por Trectur (Viação Três Corações Ltda.); canal de compra da empresa: A empresa pede o formulário de cadastro à Trectur por e-mail (gerentevendas@trectur.com.br) ou telefone, com razão social, CNPJ, inscrição estadual, endereço, responsável pelas recargas e dados dos colaboradores; depois da emissão dos cartões, recebe login e senha para fazer as recargas no portal de Recargas de Vale-Transporte (SigomWeb).
 
 Tarifa zero em Três Corações: Transporte coletivo por ônibus gratuito nos dias 4 e 25 de outubro de 2026 (eleições), das 7h às 18h
 
@@ -2054,11 +2054,11 @@ Tarifa zero em Várzea Grande: Gratuidade em todas as linhas municipais nos dias
 
 ### Altamira (PA)
 
-Em Altamira (PA), a passagem de ônibus custa R$ 3,00, segundo a publicação oficial (Prefeitura Municipal de Altamira, notícia de 13/11/2025); valor conferido em 20/10/2026 pela Tarifaoteca da Otimiza.pro.
+Em Altamira (PA), a passagem de ônibus custa R$ 3,00, segundo a publicação oficial (Prefeitura de Altamira, notícia de 11/02/2026 sobre o transporte coletivo da Prefeitura no Altafolia 2026); valor conferido em 06/11/2026 pela Tarifaoteca da Otimiza.pro.
 
 Página da cidade: https://otimizapro.com/tarifa/pa/altamira
 
-Fonte (página oficial): https://altamira.pa.gov.br/transporte-publico-de-altamira-tera-rotas-para-os-locais-de-aplicacao-da-prova-do-enem-2025/
+Fonte (página oficial): https://altamira.pa.gov.br/altafolia-2026-prefeitura-disponibiliza-transporte-coletivo-para-o-anel-viario/
 
 ### Ananindeua (PA)
 
@@ -2340,11 +2340,11 @@ Vale-transporte em Igarassu: cartão VEM Trabalhador; emitido por Grande Recife 
 
 ### Ipojuca (PE)
 
-Em Ipojuca (PE), a passagem de ônibus custa de R$ 4,50 a R$ 22,50 (varia com o tipo de linha), segundo a publicação oficial (Grande Recife Consórcio de Transporte, página Tarifas); valor conferido em 18/10/2026 pela Tarifaoteca da Otimiza.pro.
+Em Ipojuca (PE), a passagem de ônibus custa R$ 4,50 desde 01/02/2026, conforme Resolução CSTM nº 002/2026; valor conferido em 06/11/2026 pela Tarifaoteca da Otimiza.pro.
 
 Página da cidade: https://otimizapro.com/tarifa/pe/ipojuca
 
-Fonte (página oficial): https://www.granderecife.pe.gov.br/transporte/tarifas/
+Fonte (página oficial): https://www.granderecife.pe.gov.br/wp-content/uploads/2026/02/RESOLUCAO-0022026.pdf
 
 Vale-transporte em Ipojuca: cartão VEM Trabalhador (cartão do trabalhador, pessoal; pertence ao empregado e pode ser vinculado por outra empresa); emitido por Grande Recife Consórcio de Transporte (cartão VEM, bilhetagem da Urbana-PE); canal de compra da empresa: cadastro da empresa no portal do VEM Trabalhador (vt.vemgranderecife.com.br, segundo o Grande Recife), com inclusão dos funcionários e pedido de créditos com boleto (recarga automática); ou boleto da Caixa gerado no Terminal Virtual (virtual.granderecife.pe.gov.br), com recarga no atendimento do Grande Recife (Av. Alfredo Lisboa, 76, Armazém 13, Recife Antigo), onde também se paga com cartão de crédito, débito ou Pix; ou no Posto do VEM (Rua das Ninfas, 278, Boa Vista); liberação do crédito: até 3 dias úteis após o pagamento do boleto, liberados automaticamente nos validadores dos ônibus; taxa na compra: taxa de serviço sobre o valor da recarga feita pelo portal vt.vemgranderecife.com.br com boleto do Banco Itaú (percentual não publicado); sem taxa com boleto da Caixa gerado no Terminal Virtual; validade dos créditos: os créditos do VEM Trabalhador não têm validade desde 30/03/2007 (Portaria nº 133/2007).
 
@@ -2650,7 +2650,7 @@ Fonte (página oficial): https://www.amep.pr.gov.br/sites/comec/arquivos_restrit
 
 ### Foz do Iguaçu (PR)
 
-Em Foz do Iguaçu (PR), a passagem de ônibus custa R$ 5,00 desde 02/05/2024, conforme Decreto nº 32.494/2024; valor conferido em 17/10/2026 pela Tarifaoteca da Otimiza.pro.
+Em Foz do Iguaçu (PR), a passagem de ônibus custa R$ 5,00 desde 02/05/2024, conforme Decreto nº 32.494/2024; valor conferido em 06/11/2026 pela Tarifaoteca da Otimiza.pro.
 
 Página da cidade: https://otimizapro.com/tarifa/pr/foz-do-iguacu
 
@@ -2660,7 +2660,7 @@ Fonte (página oficial): https://www.foztrans.pr.gov.br/transporte-coletivo/
 
 Vale-transporte em Foz do Iguaçu: cartão Único Foztrans; emitido por Foztrans; canal de compra da empresa: Sistema de compra on-line indicado na página da Foztrans; recarga presencial no TTU (Av. JK, 325, Centro), seg. a sex., 8h às 15h.
 
-Integração em Foz do Iguaçu: Integração temporal com o cartão da bilhetagem: no segundo embarque, em outra linha, o validador mostra INTEGRAÇÃO e libera a catraca sem nova cobrança; não vale na mesma linha
+Integração em Foz do Iguaçu: Integração temporal: com o cartão da bilhetagem eletrônica, o passageiro paga a tarifa no primeiro ônibus e tem até 90 minutos, contados do primeiro embarque, para embarcar num segundo ônibus de linha diferente sem nova cobrança; não vale embarcar de novo na mesma linha.
 
 ### Francisco Beltrão (PR)
 
@@ -2684,11 +2684,13 @@ Fonte (página oficial): https://www.diariomunicipal.com.br/amp/materia/93F3D5A5
 
 ### Guarapuava (PR)
 
-Em Guarapuava (PR), a passagem de ônibus custa de R$ 4,00 a R$ 6,50 (varia com o cartão ou o meio de pagamento), segundo a operadora (Pérola do Oeste, página de tarifas); valor conferido em 17/10/2026 pela Tarifaoteca da Otimiza.pro.
+Em Guarapuava (PR), a passagem de ônibus custa de R$ 4,00 a R$ 6,50 (varia com o cartão ou o meio de pagamento) desde 15/02/2025, conforme Decreto nº 12.254/2025; valor conferido em 06/11/2026 pela Tarifaoteca da Otimiza.pro.
 
 Página da cidade: https://otimizapro.com/tarifa/pr/guarapuava
 
-Fonte (operadora): https://www.peroladooeste.com.br/tarifas/
+Fonte (página oficial): https://guarapuava.pr.gov.br/wp-content/uploads/2025/02/Boletim-Oficial-3071.pdf
+
+Vale-transporte em Guarapuava: cartão de cobrança eletrônica da concessionária (créditos eletrônicos de vale-transporte); emitido por Transportes Coletivos Pérola do Oeste Ltda. (CNPJ 77.147.387/0001-38), concessionária do transporte coletivo urbano; canal de compra da empresa: link 'Compras VT' do site da operadora, que leva ao portal TDMax Web Commerce Guarapuava (https://max00052.itstransdata.com/tdmaxwebcommerce/), com cadastro e login; a Prefeitura e a Fundação Proteger compram os créditos por contrato direto com a concessionária; taxa na compra: o portal TDMax pede login e não mostra as condições.
 
 ### Ibiporã (PR)
 
@@ -2788,11 +2790,11 @@ Vale-transporte em Mandaguari: cartão de passes da Viação Garcia, emitido par
 
 ### Marechal Cândido Rondon (PR)
 
-Em Marechal Cândido Rondon (PR), a passagem de ônibus custa R$ 3,50, segundo a imprensa (O Presente, 'Passam a vigorar as melhorias no transporte coletivo urbano', 09/11/2023, com assessoria da prefeitura); valor conferido em 20/10/2026 pela Tarifaoteca da Otimiza.pro.
+Em Marechal Cândido Rondon (PR), a passagem de ônibus custa R$ 3,50, conforme Decreto Municipal nº 061/2019; valor conferido em 06/11/2026 pela Tarifaoteca da Otimiza.pro.
 
 Página da cidade: https://otimizapro.com/tarifa/pr/marechal-candido-rondon
 
-Fonte (imprensa): https://www.opresente.com.br/marechal-candido-rondon/passam-a-vigorar-as-melhorias-no-transporte-coletivo-urbano/
+Fonte (página oficial): https://www.mcr.pr.gov.br/cidadao/pagina/horarios-de-onibus
 
 ### Maringá (PR)
 
@@ -3904,7 +3906,7 @@ Vale-transporte em Palmeira das Missões: emitido por Fortt Viagens e Turismo Lt
 
 ### Panambi (RS)
 
-Em Panambi (RS), a passagem de ônibus custa de R$ 6,80 a R$ 6,82 (varia com o cartão ou o meio de pagamento), segundo a operadora (Auto Viação Panambiense, Avipan, página inicial, quadro 'Passagens'); valor conferido em 20/10/2026 pela Tarifaoteca da Otimiza.pro.
+Em Panambi (RS), a passagem de ônibus custa de R$ 6,80 a R$ 6,82 (varia com o cartão ou o meio de pagamento), segundo a operadora (Auto Viação Panambiense, Avipan, página inicial, quadro 'Passagens'); valor conferido em 06/11/2026 pela Tarifaoteca da Otimiza.pro.
 
 Página da cidade: https://otimizapro.com/tarifa/rs/panambi
 
@@ -4152,7 +4154,7 @@ Vale-transporte em Soledade: emitido por Ottoni Transpstr Transportes Ltda. (Exp
 
 ### Teutônia (RS)
 
-Em Teutônia (RS), a passagem de ônibus custa R$ 5,00, segundo a operadora (Stadtbus Transportes, página 'Teutônia / RS', publicada em 10/09/2025 e atualizada em 06/10/2025); valor conferido em 20/10/2026 pela Tarifaoteca da Otimiza.pro.
+Em Teutônia (RS), a passagem de ônibus custa R$ 5,00, segundo a operadora (Stadtbus Transportes, página 'Teutônia / RS', publicada em 10/09/2025 e atualizada em 06/10/2025); valor conferido em 06/11/2026 pela Tarifaoteca da Otimiza.pro.
 
 Página da cidade: https://otimizapro.com/tarifa/rs/teutonia
 
@@ -5016,15 +5018,15 @@ Fonte (imprensa): https://noticiasbotucatu.com.br/2025/04/04/transporte-coletivo
 
 ### Bragança Paulista (SP)
 
-Em Bragança Paulista (SP), a passagem de ônibus custa R$ 6,50, segundo a publicação oficial (Prefeitura de Bragança Paulista, Perguntas frequentes do Programa Tarifa Zero); valor conferido em 17/10/2026 pela Tarifaoteca da Otimiza.pro.
+Em Bragança Paulista (SP), a passagem de ônibus custa R$ 6,50 desde 01/01/2026, conforme Decreto nº 4.935/2026; valor conferido em 06/11/2026 pela Tarifaoteca da Otimiza.pro.
 
 Página da cidade: https://otimizapro.com/tarifa/sp/braganca-paulista
 
-Fonte (página oficial): https://braganca.sp.gov.br/perguntas-frequentes-programa-tarifa-zero
+Fonte (página oficial): https://www.dosp.com.br/exibe_do.php?i=NzU3Mzc3
 
-Tarifa zero em Bragança Paulista: Tarifa zero fora dos horários de pico, de segunda a sábado, com Cartão Cidadão Bragantino, em todas as linhas urbanas
+Tarifa zero em Bragança Paulista: Tarifa zero fora dos horários de pico, de segunda a sábado (das 4h às 6h29, das 8h31 às 16h29 e das 19h01 às 2h), em todas as linhas do transporte coletivo urbano, para o usuário cadastrado com o Cartão Cidadão Bragantino (morador), que registra a viagem no cartão; no pico (6h30 às 8h30 e 16h30 às 19h), o portador paga a tarifa pública integral de R$ 6,50.
 
-Tarifa zero em Bragança Paulista: Tarifa zero aos domingos
+Tarifa zero em Bragança Paulista: Tarifa zero aos domingos e feriados, durante todo o dia, em todas as linhas do transporte coletivo municipal, para todos os passageiros.
 
 ### Cabreúva (SP)
 
@@ -5128,11 +5130,11 @@ Tarifa zero em Capão Bonito: Transporte coletivo urbano totalmente gratuito pel
 
 ### Capivari (SP)
 
-Em Capivari (SP), a passagem de ônibus custa R$ 4,50, segundo a publicação oficial (Prefeitura de Capivari); valor conferido em 20/10/2026 pela Tarifaoteca da Otimiza.pro.
+Em Capivari (SP), a passagem de ônibus custa R$ 5,00 desde 02/10/2023, conforme Decreto nº 7.404/2023; valor conferido em 06/11/2026 pela Tarifaoteca da Otimiza.pro.
 
 Página da cidade: https://otimizapro.com/tarifa/sp/capivari
 
-Fonte (página oficial): https://capivari.sp.gov.br/portal/wp-content/uploads/2023/03/Beneficios-tarifarios-concedidos-no-valor-das-tarifas-do-transporte-publico.pdf
+Fonte (página oficial): https://capivari.sp.gov.br/portal/wp-content/uploads/Downloads/Diario%20Oficial/2023/09%20-%20Setembro/Diario%20Oficial%20Ed%20871%20-%20Assinado.pdf
 
 ### Caraguatatuba (SP)
 
@@ -5200,7 +5202,7 @@ Vale-transporte em Cosmópolis: emitido por Auto Viação Campestre Ltda. (CNPJ 
 
 ### Cotia (SP)
 
-Em Cotia (SP), a passagem de ônibus custa R$ 5,30 desde 01/2023, segundo a publicação oficial (Prefeitura de Cotia, 08/01/2026 e 02/07/2026); valor conferido em 17/10/2026 pela Tarifaoteca da Otimiza.pro. Quem usa vale-transporte paga R$ 7,50.
+Em Cotia (SP), a passagem de ônibus custa R$ 5,30 desde 03/01/2023, segundo a publicação oficial (Prefeitura de Cotia, 08/01/2026 e 02/07/2026); valor conferido em 06/11/2026 pela Tarifaoteca da Otimiza.pro. Quem usa vale-transporte paga R$ 7,50.
 
 Página da cidade: https://otimizapro.com/tarifa/sp/cotia
 
@@ -5208,7 +5210,7 @@ Fonte (página oficial): https://cotia.sp.gov.br/entenda-como-funciona-o-custeio
 
 Vale-transporte em Cotia: cartão de vale-transporte; emitido por Viação Raposo Tavares; validade dos créditos: créditos adquiridos antes do decreto continuam debitados a R$ 5,30 por viagem.
 
-Tarifa zero em Cotia: Tarifa Zero Inclusiva aos domingos em todas as linhas municipais, sem cadastro nem cartão específico; não vale nas linhas intermunicipais
+Tarifa zero em Cotia: Tarifa Zero Inclusiva aos domingos: gratuidade em todas as linhas municipais de ônibus durante todo o domingo, sem cadastro nem cartão específico; não vale nas linhas intermunicipais e não altera as gratuidades já previstas na legislação
 
 ### Cruzeiro (SP)
 
@@ -5380,11 +5382,11 @@ Tarifa zero em Guararema: Ônibus municipais gratuitos para todos os passageiros
 
 ### Guaratinguetá (SP)
 
-Em Guaratinguetá (SP), a passagem de ônibus custa R$ 5,50 desde 01/02/2024, conforme lei municipal de subsídio sancionada em 31/01/2024; valor conferido em 20/10/2026 pela Tarifaoteca da Otimiza.pro.
+Em Guaratinguetá (SP), a passagem de ônibus custa R$ 5,50 desde 01/02/2024, conforme Decreto nº 10.615/2026; valor conferido em 06/11/2026 pela Tarifaoteca da Otimiza.pro.
 
 Página da cidade: https://otimizapro.com/tarifa/sp/guaratingueta
 
-Fonte (imprensa): https://diariodotransporte.com.br/2025/02/10/prefeitura-de-guaratingueta-mantem-tarifa-do-transporte-publico-em-r-550-e-anuncia-retorno-da-linha-santa-maria/
+Fonte (página oficial): https://guaratingueta.sp.gov.br/wp-content/uploads/2026/01/Diario-29-jan-5348.pdf
 
 Vale-transporte em Guaratinguetá: cartão de vale-transporte do Meu TUG (os cartões antigos do Nubus, comuns, escolares e de VT, foram trocados a partir de setembro de 2025); emitido por Meu TUG, da concessionária Rodoviário Oceano (plataforma Smartbus, da Brainny); canal de compra da empresa: Desde 01/09/2025 os pedidos de compra de vale-transporte são feitos na plataforma Meu TUG (site meutug.com.br e aplicativo), mediante recadastramento; a plataforma Nubus deixou de aceitar pedidos e os saldos foram migrados em até 60 dias; troca presencial dos cartões na Rua Dr. Castro Santos, 595; suporte ti@rodotursaojose.com.br e suporte@meutug.com.br; o site meutug.com.br não abriu sem navegador em 2026-10-18; validade dos créditos: a validade das recargas segue a Lei Municipal nº 4.839/2018 e o Decreto Municipal nº 8.475/2018, citados pela Prefeitura.
 
@@ -5428,7 +5430,7 @@ Tarifa zero em Holambra: Circular Municipal gratuito em todas as linhas municipa
 
 ### Hortolândia (SP)
 
-Em Hortolândia (SP), a passagem de ônibus custa de R$ 4,30 a R$ 4,50 (varia com o cartão ou o meio de pagamento) desde 02/02/2019, conforme Decreto nº 4.118/2019; valor conferido em 17/10/2026 pela Tarifaoteca da Otimiza.pro.
+Em Hortolândia (SP), a passagem de ônibus custa de R$ 4,30 a R$ 4,50 (varia com o cartão ou o meio de pagamento) desde 02/02/2019, conforme Decreto nº 4.118/2019; valor conferido em 06/11/2026 pela Tarifaoteca da Otimiza.pro.
 
 Página da cidade: https://otimizapro.com/tarifa/sp/hortolandia
 
@@ -6802,11 +6804,11 @@ Vale-transporte em Votuporanga: emitido por Expresso Itamarati S.A. (concession�
 
 ### Araguaína (TO)
 
-Em Araguaína (TO), a passagem de ônibus custa R$ 4,00 desde 10/03/2019, segundo a operadora (Araguaína Transportes S.A., página 'Valor da tarifa'); valor conferido em 17/10/2026 pela Tarifaoteca da Otimiza.pro. Quem usa vale-transporte paga R$ 3,75.
+Em Araguaína (TO), a passagem de ônibus custa R$ 4,00 desde 10/03/2019, conforme Decreto nº 134/2019; valor conferido em 06/11/2026 pela Tarifaoteca da Otimiza.pro. Quem usa vale-transporte paga R$ 3,75.
 
 Página da cidade: https://otimizapro.com/tarifa/to/araguaina
 
-Fonte (operadora): https://www.araguainatransportes.com.br/valor-da-tarifa
+Fonte (página oficial): https://api-araguaina.barcodigital.com.br/arquivo/araguaina.to.gov.br/diarios/1764.pdf
 
 Vale-transporte em Araguaína: cartão BEM (Bilhete Eletrônico Municipal); emitido por Araguaína Transportes S.A.; canal de compra da empresa: Sistema web da operadora (SBE), com link na página 'Valor da tarifa' (endereço http por IP, sem criptografia).
 
