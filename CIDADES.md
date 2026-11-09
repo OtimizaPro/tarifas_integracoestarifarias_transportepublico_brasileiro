@@ -1,8 +1,8 @@
 # Tarifas do transporte público por cidade (Otimiza.pro)
 
-Quanto custa o transporte público em 634 municípios brasileiros, segundo a Tarifaoteca da Otimiza.pro (versão 2026.11.09.2). Cada frase traz o valor, a fonte e a data em que a Otimiza.pro conferiu e, quando a fonte informa, o ato oficial e a data em que passou a valer. A fonte oficial de cada valor está indicada. Onde há dados de serviço e oferta, a ficha traz também linhas e passageiros, com a fonte e a data.
+Quanto custa o transporte público em 634 municípios brasileiros, segundo a Tarifaoteca da Otimiza.pro (versão 2026.11.09.3). Cada frase traz o valor, a fonte e a data em que a Otimiza.pro conferiu e, quando a fonte informa, o ato oficial e a data em que passou a valer. A fonte oficial de cada valor está indicada. Onde há dados de serviço e oferta, a ficha traz também linhas e passageiros, com a fonte e a data.
 
-Como citar: Fonte: Tarifaoteca da Otimiza.pro, versão 2026.11.09.2. DOI: https://doi.org/10.5281/zenodo.23486211. https://github.com/OtimizaPro/tarifas_integracoestarifarias_transportepublico_brasileiro
+Como citar: Fonte: Tarifaoteca da Otimiza.pro, versão 2026.11.09.3. DOI: https://doi.org/10.5281/zenodo.23486211. https://github.com/OtimizaPro/tarifas_integracoestarifarias_transportepublico_brasileiro
 
 ## AC
 
@@ -216,7 +216,7 @@ Rotacard (linhas semiurbanas da Rota Transportes entre Itabuna, Ilhéus e cidade
 
 ### Itamaraju (BA)
 
-Em Itamaraju (BA), a passagem de ônibus custa R$ 4,00, conforme Lei Municipal nº 1.109/2025; valor conferido em 04/11/2026 pela Tarifaoteca da Otimiza.pro.
+Em Itamaraju (BA), a passagem de ônibus custa R$ 4,00, conforme Lei Municipal nº 1.109/2025; valor conferido em 09/11/2026 pela Tarifaoteca da Otimiza.pro.
 
 Página da cidade: https://otimizapro.com/tarifa/ba/itamaraju
 
@@ -1942,11 +1942,11 @@ Vale-transporte em Lucas do Rio Verde: cartão de transporte (bilhete eletrônic
 
 ### Nova Mutum (MT)
 
-Em Nova Mutum (MT), a passagem de ônibus custa R$ 3,00 desde 01/07/2014, conforme Decreto Municipal nº 042/2014; valor conferido em 04/11/2026 pela Tarifaoteca da Otimiza.pro.
+Em Nova Mutum (MT), a passagem de ônibus custa R$ 5,50, conforme Decreto Municipal nº 113/2021; valor conferido em 09/11/2026 pela Tarifaoteca da Otimiza.pro.
 
 Página da cidade: https://otimizapro.com/tarifa/mt/nova-mutum
 
-Fonte (página oficial): https://www.diariomunicipal.com.br/amm-mt/materia/2B8E866D
+Fonte (página oficial): https://www.cespro.com.br/visualizarDiploma.php?cdMunicipio=4351&cdDiploma=202100113&NroLei=113
 
 ### Rondonópolis (MT)
 
@@ -2670,11 +2670,11 @@ Integração em Itaperuçu: Integração temporal da AMEP, só com o Cartão Met
 
 ### Ivaiporã (PR)
 
-Em Ivaiporã (PR), o ônibus é gratuito (tarifa zero), conforme Lei Municipal nº 1.141/2001; valor conferido em 04/11/2026 pela Tarifaoteca da Otimiza.pro.
+Em Ivaiporã (PR), o ônibus é gratuito (tarifa zero), conforme Decreto nº 13.321/2020; valor conferido em 09/11/2026 pela Tarifaoteca da Otimiza.pro.
 
 Página da cidade: https://otimizapro.com/tarifa/pr/ivaipora
 
-Fonte (página oficial): https://www.controlemunicipal.com.br/inga/sistema/arquivos/12074/150716100119_l_1_14101__regulamenta_o_transporte_gratuito_pdf.pdf
+Fonte (página oficial): https://www.ivaipora.pr.gov.br//index.php?sessao=b054603368vzb0&novo_cliente=12074&id=2290219
 
 Tarifa zero em Ivaiporã: Transporte coletivo municipal urbano gratuito para todos os usuários, explorado diretamente pelo Município, com ônibus próprios e despesas pagas pelo orçamento municipal
 
@@ -2934,7 +2934,7 @@ Fonte (página oficial): https://www.saomateusdosul.pr.gov.br/portal/diario-ofic
 
 ### Sarandi (PR)
 
-Em Sarandi (PR), a passagem de ônibus custa R$ 6,50, segundo a publicação oficial (DER-PR, Consulta Linhas Intermunicipais, linhas regulares vigentes, origem Sarandi e destino Maringá, e a página de tarifa da linha 001.0254-470 da Cidade Verde Transporte Rodoviário Ltda.); valor conferido em 04/11/2026 pela Tarifaoteca da Otimiza.pro.
+Em Sarandi (PR), a passagem de ônibus custa R$ 6,50 desde 15/06/2026, conforme Resolução Agepar nº 38/2026; valor conferido em 09/11/2026 pela Tarifaoteca da Otimiza.pro.
 
 Página da cidade: https://otimizapro.com/tarifa/pr/sarandi
 

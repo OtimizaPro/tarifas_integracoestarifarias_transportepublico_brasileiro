@@ -1,6 +1,6 @@
 {
  "nome": "Tarifaoteca da Otimiza.pro: reajustes",
- "versao": "2026.11.09.2",
+ "versao": "2026.11.09.3",
  "licenca": {
   "nome": "CC BY-NC 4.0",
   "url": "https://creativecommons.org/licenses/by-nc/4.0/deed.pt-br",
@@ -8,7 +8,7 @@
   "uso_interno": "A consulta para decisões da própria empresa, como orçar o vale-transporte, não pede licença.",
   "uso_comercial": "Uso comercial por empresas (em produto, revenda ou integração em sistema ou serviço pago) pede licença da Otimiza.pro: empresa@otimiza.pro."
  },
- "citar_como": "Fonte: Tarifaoteca da Otimiza.pro, versão 2026.11.09.2. DOI: https://doi.org/10.5281/zenodo.23486211. https://github.com/OtimizaPro/tarifas_integracoestarifarias_transportepublico_brasileiro",
+ "citar_como": "Fonte: Tarifaoteca da Otimiza.pro, versão 2026.11.09.3. DOI: https://doi.org/10.5281/zenodo.23486211. https://github.com/OtimizaPro/tarifas_integracoestarifarias_transportepublico_brasileiro",
  "linhas": [
   {
    "uf": "PR",
@@ -1127,6 +1127,25 @@
    "vigencia_inicio": "2026-06-22",
    "ato_oficial": "Decreto nº 10.610, de 15/06/2026, que altera o Decreto nº 9.536/2022 e dá nova redação ao art. 5º do Decreto nº 3.845/1989 (Diário Oficial do Município de Garça, edição nº 2872, de 17/06/2026, página 4)",
    "fonte_url": "https://www.dosp.com.br/exibe_do.php?i=ODM1MDQ3",
+   "fonte_tipo": "oficial",
+   "confianca": "A",
+   "verificado_em": "2026-11-09"
+  },
+  {
+   "uf": "PR",
+   "municipio": "Sarandi",
+   "cod_ibge": "4126256",
+   "sistema": "sem transporte coletivo municipal concedido; atendida pela Cidade Verde Transporte Rodoviário (CNPJ 72.073.117/0001-06, do grupo da TCCC de Maringá), cuja linha metropolitana Sarandi x Maringá (Região Metropolitana de Maringá, reajustes aprovados pelo DER-PR e divulgados pela Agepar) também faz as viagens dentro de Sarandi; cartão da Cidade Verde",
+   "modo": "onibus",
+   "servico": "metropolitano (linha Sarandi x Maringá da Cidade Verde, que também atende as viagens dentro de Sarandi)",
+   "perfil": "comum",
+   "meio_pagamento": null,
+   "valor_brl": 6.5,
+   "valor_anterior_brl": null,
+   "variacao_pct": null,
+   "vigencia_inicio": "2026-06-15",
+   "ato_oficial": "Resolução Agepar nº 38/2026, de 10/06/2026 (Diário Oficial do Estado nº 12.163, de 15/06/2026), que homologou 5,14% para o sistema metropolitano do interior; tabelas de preços do DER/PR com vigência a partir de 15/06/2026 (Ofício Circular DER/PR nº 007-26, de 11/06/2026)",
+   "fonte_url": "https://www.der.pr.gov.br/webservices/der/empresas/detalhe/511/001.0254-470",
    "fonte_tipo": "oficial",
    "confianca": "A",
    "verificado_em": "2026-11-09"
