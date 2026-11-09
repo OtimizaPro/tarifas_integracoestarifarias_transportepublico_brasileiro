@@ -459,6 +459,29 @@ URBS (RIT),municipal,Curitiba,PR,Curitiba,4106902
 "sem transporte coletivo municipal; atendida pelo sistema metropolitano da Região Metropolitana de Curitiba, gerido pela AMEP (Agência de Assuntos Metropolitanos do Paraná): 27 linhas metropolitanas que atendem Pinhais, entre alimentadoras, troncais e diretas a partir do Terminal Pinhais, operadas principalmente pela Expresso Azul; cartão Metrocard (Associação Metrocard)",municipal,Pinhais,PR,Pinhais,4119152
 "sem transporte coletivo urbano: a Prefeitura registrou em 2021 a 'ausência de transporte coletivo urbano no município' (Decreto nº 240/2021); o Município concedeu em 2014 o serviço de transporte coletivo municipal de passageiros por ônibus (Concorrências Públicas nº 005/2013 e nº 005/2014; Contratos nº 013/2014, nº 215/2014 e nº 344/2014), com tarifa por quilômetro, fiscalizado pelo Departamento Municipal de Trânsito e Transporte (PRUDETRAN)",municipal,Prudentópolis,PR,Prudentópolis,4120606
 Bilhete Único Intermunicipal,municipal,Rio de Janeiro,RJ,Rio de Janeiro,3304557
+"Bilhete Único Intermunicipal (Governo do Estado do Rio de Janeiro, Setram; cartão Riocard Mais)",metropolitano,Rio de Janeiro,RJ,Belford Roxo,3300456
+"Bilhete Único Intermunicipal (Governo do Estado do Rio de Janeiro, Setram; cartão Riocard Mais)",metropolitano,Rio de Janeiro,RJ,Cachoeiras de Macacu,3300803
+"Bilhete Único Intermunicipal (Governo do Estado do Rio de Janeiro, Setram; cartão Riocard Mais)",metropolitano,Rio de Janeiro,RJ,Duque de Caxias,3301702
+"Bilhete Único Intermunicipal (Governo do Estado do Rio de Janeiro, Setram; cartão Riocard Mais)",metropolitano,Rio de Janeiro,RJ,Guapimirim,3301850
+"Bilhete Único Intermunicipal (Governo do Estado do Rio de Janeiro, Setram; cartão Riocard Mais)",metropolitano,Rio de Janeiro,RJ,Itaboraí,3301900
+"Bilhete Único Intermunicipal (Governo do Estado do Rio de Janeiro, Setram; cartão Riocard Mais)",metropolitano,Rio de Janeiro,RJ,Itaguaí,3302007
+"Bilhete Único Intermunicipal (Governo do Estado do Rio de Janeiro, Setram; cartão Riocard Mais)",metropolitano,Rio de Janeiro,RJ,Japeri,3302270
+"Bilhete Único Intermunicipal (Governo do Estado do Rio de Janeiro, Setram; cartão Riocard Mais)",metropolitano,Rio de Janeiro,RJ,Magé,3302502
+"Bilhete Único Intermunicipal (Governo do Estado do Rio de Janeiro, Setram; cartão Riocard Mais)",metropolitano,Rio de Janeiro,RJ,Mangaratiba,3302601
+"Bilhete Único Intermunicipal (Governo do Estado do Rio de Janeiro, Setram; cartão Riocard Mais)",metropolitano,Rio de Janeiro,RJ,Maricá,3302700
+"Bilhete Único Intermunicipal (Governo do Estado do Rio de Janeiro, Setram; cartão Riocard Mais)",metropolitano,Rio de Janeiro,RJ,Mesquita,3302858
+"Bilhete Único Intermunicipal (Governo do Estado do Rio de Janeiro, Setram; cartão Riocard Mais)",metropolitano,Rio de Janeiro,RJ,Nilópolis,3303203
+"Bilhete Único Intermunicipal (Governo do Estado do Rio de Janeiro, Setram; cartão Riocard Mais)",metropolitano,Rio de Janeiro,RJ,Niterói,3303302
+"Bilhete Único Intermunicipal (Governo do Estado do Rio de Janeiro, Setram; cartão Riocard Mais)",metropolitano,Rio de Janeiro,RJ,Nova Iguaçu,3303500
+"Bilhete Único Intermunicipal (Governo do Estado do Rio de Janeiro, Setram; cartão Riocard Mais)",metropolitano,Rio de Janeiro,RJ,Paracambi,3303609
+"Bilhete Único Intermunicipal (Governo do Estado do Rio de Janeiro, Setram; cartão Riocard Mais)",metropolitano,Rio de Janeiro,RJ,Petrópolis,3303906
+"Bilhete Único Intermunicipal (Governo do Estado do Rio de Janeiro, Setram; cartão Riocard Mais)",metropolitano,Rio de Janeiro,RJ,Queimados,3304144
+"Bilhete Único Intermunicipal (Governo do Estado do Rio de Janeiro, Setram; cartão Riocard Mais)",metropolitano,Rio de Janeiro,RJ,Rio Bonito,3304300
+"Bilhete Único Intermunicipal (Governo do Estado do Rio de Janeiro, Setram; cartão Riocard Mais)",metropolitano,Rio de Janeiro,RJ,Rio de Janeiro,3304557
+"Bilhete Único Intermunicipal (Governo do Estado do Rio de Janeiro, Setram; cartão Riocard Mais)",metropolitano,Rio de Janeiro,RJ,Seropédica,3305554
+"Bilhete Único Intermunicipal (Governo do Estado do Rio de Janeiro, Setram; cartão Riocard Mais)",metropolitano,Rio de Janeiro,RJ,São Gonçalo,3304904
+"Bilhete Único Intermunicipal (Governo do Estado do Rio de Janeiro, Setram; cartão Riocard Mais)",metropolitano,Rio de Janeiro,RJ,São João de Meriti,3305109
+"Bilhete Único Intermunicipal (Governo do Estado do Rio de Janeiro, Setram; cartão Riocard Mais)",metropolitano,Rio de Janeiro,RJ,Tanguá,3305752
 "CPTrans (Companhia Petropolitana de Trânsito e Transportes); operadoras Cidade Real, Cidade das Hortênsias e Turp (sob intervenção total do Município desde o Decreto nº 521, de 17/09/2026), representadas pelo Setranspetro; cartão Riocard Mais",municipal,Petrópolis,RJ,Petrópolis,3303906
 "CPTrans (Companhia Petropolitana de Trânsito e Transportes); operadoras Cidade Real, Cidade das Hortênsias e Turp Transporte (Setranspetro); cartão Riocard Mais",municipal,Petrópolis,RJ,Petrópolis,3303906
 "Companhia Municipal de Desenvolvimento de Guapimirim (CONDEGUAPI), Ônibus de Integração Municipal gratuito; a cidade é atendida também pelos trens da SuperVia e por linhas intermunicipais da Região Metropolitana do Rio, com o cartão Riocard Mais",municipal,Guapimirim,RJ,Guapimirim,3301850
@@ -690,6 +713,11 @@ Prefeitura de Itabaiana; operadora e cartão do transporte coletivo urbano não 
 SMTT (Grande Aracaju),municipal,Aracaju,SE,Aracaju,2800308
 "Sistema metropolitano da Grande Aracaju: Consórcio de Transporte Metropolitano (CTM), gestão da SMTT de Aracaju; Setransp; cartão AracajuCard",municipal,Nossa Senhora do Socorro,SE,Nossa Senhora do Socorro,2804805
 Bilhete Único,municipal,São Paulo,SP,São Paulo,3550308
+Corredor Metropolitano ABD (ARTESP),metropolitano,São Paulo,SP,Diadema,3513801
+Corredor Metropolitano ABD (ARTESP),metropolitano,São Paulo,SP,Mauá,3529401
+Corredor Metropolitano ABD (ARTESP),metropolitano,São Paulo,SP,Santo André,3547809
+Corredor Metropolitano ABD (ARTESP),metropolitano,São Paulo,SP,São Bernardo do Campo,3548708
+Corredor Metropolitano ABD (ARTESP),metropolitano,São Paulo,SP,São Paulo,3550308
 Diretoria de Gestão de Transporte Municipal de Santa Bárbara d'Oeste; concessionária Nova Via Transporte Urbano (desde 2012),municipal,Santa Bárbara d'Oeste,SP,Santa Bárbara d'Oeste,3545803
 EMDEC (Empresa Municipal de Desenvolvimento de Campinas); bilhetagem pela Transurc; Bilhete Único,municipal,Campinas,SP,Campinas,3509502
 Emdurb (Empresa Municipal de Mobilidade Urbana de Marília); operadoras Grande Marília e Viação Sorriso,municipal,Marília,SP,Marília,3529005
@@ -894,6 +922,45 @@ Secretaria de Mobilidade Urbana de Barueri; reajuste definido no consórcio Cioe
 Secretaria de Mobilidade Urbana de Hortolândia; concessionária Viação Lira; Bilhete Único (Cartão Cidadão e Vale-Transporte),municipal,Hortolândia,SP,Hortolândia,3519071
 "Secretaria de Mobilidade Urbana de Jacareí; concessionária JTU (Jacareí Transporte Urbano); cartões Superpasse (Múltiplo/comum, Escolar e Vale-Transporte)",municipal,Jacareí,SP,Jacareí,3524402
 Secretaria de Transportes (Setransp) da Prefeitura de Praia Grande; concessionária Viação Piracicabana (Grupo Comporte); cartão transporte com recarga pelo aplicativo Quanto Tempo Falta,municipal,Praia Grande,SP,Praia Grande,3541000
+"TOP (ônibus metropolitanos da ARTESP, Metrô e CPTM, Região Metropolitana de São Paulo)",metropolitano,São Paulo,SP,Arujá,3503901
+"TOP (ônibus metropolitanos da ARTESP, Metrô e CPTM, Região Metropolitana de São Paulo)",metropolitano,São Paulo,SP,Barueri,3505708
+"TOP (ônibus metropolitanos da ARTESP, Metrô e CPTM, Região Metropolitana de São Paulo)",metropolitano,São Paulo,SP,Biritiba Mirim,3506607
+"TOP (ônibus metropolitanos da ARTESP, Metrô e CPTM, Região Metropolitana de São Paulo)",metropolitano,São Paulo,SP,Caieiras,3509007
+"TOP (ônibus metropolitanos da ARTESP, Metrô e CPTM, Região Metropolitana de São Paulo)",metropolitano,São Paulo,SP,Cajamar,3509205
+"TOP (ônibus metropolitanos da ARTESP, Metrô e CPTM, Região Metropolitana de São Paulo)",metropolitano,São Paulo,SP,Carapicuíba,3510609
+"TOP (ônibus metropolitanos da ARTESP, Metrô e CPTM, Região Metropolitana de São Paulo)",metropolitano,São Paulo,SP,Cotia,3513009
+"TOP (ônibus metropolitanos da ARTESP, Metrô e CPTM, Região Metropolitana de São Paulo)",metropolitano,São Paulo,SP,Diadema,3513801
+"TOP (ônibus metropolitanos da ARTESP, Metrô e CPTM, Região Metropolitana de São Paulo)",metropolitano,São Paulo,SP,Embu das Artes,3515004
+"TOP (ônibus metropolitanos da ARTESP, Metrô e CPTM, Região Metropolitana de São Paulo)",metropolitano,São Paulo,SP,Embu-Guaçu,3515103
+"TOP (ônibus metropolitanos da ARTESP, Metrô e CPTM, Região Metropolitana de São Paulo)",metropolitano,São Paulo,SP,Ferraz de Vasconcelos,3515707
+"TOP (ônibus metropolitanos da ARTESP, Metrô e CPTM, Região Metropolitana de São Paulo)",metropolitano,São Paulo,SP,Francisco Morato,3516309
+"TOP (ônibus metropolitanos da ARTESP, Metrô e CPTM, Região Metropolitana de São Paulo)",metropolitano,São Paulo,SP,Franco da Rocha,3516408
+"TOP (ônibus metropolitanos da ARTESP, Metrô e CPTM, Região Metropolitana de São Paulo)",metropolitano,São Paulo,SP,Guararema,3518305
+"TOP (ônibus metropolitanos da ARTESP, Metrô e CPTM, Região Metropolitana de São Paulo)",metropolitano,São Paulo,SP,Guarulhos,3518800
+"TOP (ônibus metropolitanos da ARTESP, Metrô e CPTM, Região Metropolitana de São Paulo)",metropolitano,São Paulo,SP,Itapecerica da Serra,3522208
+"TOP (ônibus metropolitanos da ARTESP, Metrô e CPTM, Região Metropolitana de São Paulo)",metropolitano,São Paulo,SP,Itapevi,3522505
+"TOP (ônibus metropolitanos da ARTESP, Metrô e CPTM, Região Metropolitana de São Paulo)",metropolitano,São Paulo,SP,Itaquaquecetuba,3523107
+"TOP (ônibus metropolitanos da ARTESP, Metrô e CPTM, Região Metropolitana de São Paulo)",metropolitano,São Paulo,SP,Jandira,3525003
+"TOP (ônibus metropolitanos da ARTESP, Metrô e CPTM, Região Metropolitana de São Paulo)",metropolitano,São Paulo,SP,Juquitiba,3526209
+"TOP (ônibus metropolitanos da ARTESP, Metrô e CPTM, Região Metropolitana de São Paulo)",metropolitano,São Paulo,SP,Mairiporã,3528502
+"TOP (ônibus metropolitanos da ARTESP, Metrô e CPTM, Região Metropolitana de São Paulo)",metropolitano,São Paulo,SP,Mauá,3529401
+"TOP (ônibus metropolitanos da ARTESP, Metrô e CPTM, Região Metropolitana de São Paulo)",metropolitano,São Paulo,SP,Mogi das Cruzes,3530607
+"TOP (ônibus metropolitanos da ARTESP, Metrô e CPTM, Região Metropolitana de São Paulo)",metropolitano,São Paulo,SP,Osasco,3534401
+"TOP (ônibus metropolitanos da ARTESP, Metrô e CPTM, Região Metropolitana de São Paulo)",metropolitano,São Paulo,SP,Pirapora do Bom Jesus,3539103
+"TOP (ônibus metropolitanos da ARTESP, Metrô e CPTM, Região Metropolitana de São Paulo)",metropolitano,São Paulo,SP,Poá,3539806
+"TOP (ônibus metropolitanos da ARTESP, Metrô e CPTM, Região Metropolitana de São Paulo)",metropolitano,São Paulo,SP,Ribeirão Pires,3543303
+"TOP (ônibus metropolitanos da ARTESP, Metrô e CPTM, Região Metropolitana de São Paulo)",metropolitano,São Paulo,SP,Rio Grande da Serra,3544103
+"TOP (ônibus metropolitanos da ARTESP, Metrô e CPTM, Região Metropolitana de São Paulo)",metropolitano,São Paulo,SP,Salesópolis,3545001
+"TOP (ônibus metropolitanos da ARTESP, Metrô e CPTM, Região Metropolitana de São Paulo)",metropolitano,São Paulo,SP,Santa Isabel,3546801
+"TOP (ônibus metropolitanos da ARTESP, Metrô e CPTM, Região Metropolitana de São Paulo)",metropolitano,São Paulo,SP,Santana de Parnaíba,3547304
+"TOP (ônibus metropolitanos da ARTESP, Metrô e CPTM, Região Metropolitana de São Paulo)",metropolitano,São Paulo,SP,Santo André,3547809
+"TOP (ônibus metropolitanos da ARTESP, Metrô e CPTM, Região Metropolitana de São Paulo)",metropolitano,São Paulo,SP,Suzano,3552502
+"TOP (ônibus metropolitanos da ARTESP, Metrô e CPTM, Região Metropolitana de São Paulo)",metropolitano,São Paulo,SP,São Bernardo do Campo,3548708
+"TOP (ônibus metropolitanos da ARTESP, Metrô e CPTM, Região Metropolitana de São Paulo)",metropolitano,São Paulo,SP,São Caetano do Sul,3548807
+"TOP (ônibus metropolitanos da ARTESP, Metrô e CPTM, Região Metropolitana de São Paulo)",metropolitano,São Paulo,SP,São Lourenço da Serra,3549953
+"TOP (ônibus metropolitanos da ARTESP, Metrô e CPTM, Região Metropolitana de São Paulo)",metropolitano,São Paulo,SP,São Paulo,3550308
+"TOP (ônibus metropolitanos da ARTESP, Metrô e CPTM, Região Metropolitana de São Paulo)",metropolitano,São Paulo,SP,Taboão da Serra,3552809
+"TOP (ônibus metropolitanos da ARTESP, Metrô e CPTM, Região Metropolitana de São Paulo)",metropolitano,São Paulo,SP,Vargem Grande Paulista,3556453
 "URBES Trânsito e Transportes; Cartão Cidadão (Passe Social), Passe Estudante e Vale-Transporte; operação City Transportes Urbano Global",municipal,Sorocaba,SP,Sorocaba,3552205
 Unidade de Transportes e Sistema Viário (Utransv) da Prefeitura de Americana; concessionária Sancetur,municipal,Americana,SP,Americana,3501608
 "a cidade é atendida por linhas intermunicipais da Empresa de Transportes Andorinha S.A., entre elas a semiurbana até Presidente Prudente",municipal,Presidente Epitácio,SP,Presidente Epitácio,3541307

@@ -1,6 +1,6 @@
 {
  "nome": "Tarifaoteca da Otimiza.pro: beneficios",
- "versao": "2026.11.06",
+ "versao": "2026.11.09",
  "licenca": {
   "nome": "CC BY-NC 4.0",
   "url": "https://creativecommons.org/licenses/by-nc/4.0/deed.pt-br",
@@ -8,7 +8,7 @@
   "uso_interno": "A consulta para decisões da própria empresa, como orçar o vale-transporte, não pede licença.",
   "uso_comercial": "Uso comercial por empresas (em produto, revenda ou integração em sistema ou serviço pago) pede licença da Otimiza.pro: empresa@otimiza.pro."
  },
- "citar_como": "Fonte: Tarifaoteca da Otimiza.pro, versão 2026.11.06. DOI: https://doi.org/10.5281/zenodo.23486211. https://github.com/OtimizaPro/tarifas_integracoestarifarias_transportepublico_brasileiro",
+ "citar_como": "Fonte: Tarifaoteca da Otimiza.pro, versão 2026.11.09. DOI: https://doi.org/10.5281/zenodo.23486211. https://github.com/OtimizaPro/tarifas_integracoestarifarias_transportepublico_brasileiro",
  "linhas": [
   {
    "uf": "AC",
@@ -4219,7 +4219,7 @@
    "desde": null,
    "base_legal": "Lei municipal nº 3.167, de 27/12/2000 (regulamenta o art. 401 da Lei Orgânica)",
    "fonte_url": "https://carioca.rio/servicos/informacoes-sobre-gratuidade-em-onibus",
-   "confianca": "B",
+   "confianca": "A",
    "verificado_em": "2026-11-05"
   },
   {
@@ -4231,7 +4231,7 @@
    "desde": null,
    "base_legal": "Decreto Rio nº 38.280, de 29/01/2014 (institui o Passe Livre Universitário); Resolução SMTR nº 3.204, de 28/11/2019; Lei municipal nº 6.833, de 16/12/2020",
    "fonte_url": "https://carioca.rio/servicos/informacoes-sobre-gratuidade-em-onibus",
-   "confianca": "B",
+   "confianca": "A",
    "verificado_em": "2026-11-05"
   },
   {
@@ -4243,7 +4243,7 @@
    "desde": null,
    "base_legal": "Lei municipal nº 3.167, de 27/12/2000 (regulamenta o art. 401 da Lei Orgânica); Resolução SMTR nº 3.781, de 04/12/2024 (cartão Jaé); Lei federal nº 10.741/2003, art. 39",
    "fonte_url": "https://carioca.rio/servicos/informacoes-sobre-gratuidade-em-onibus",
-   "confianca": "B",
+   "confianca": "A",
    "verificado_em": "2026-11-05"
   },
   {

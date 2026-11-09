@@ -1,8 +1,8 @@
 # Tarifas do transporte público por cidade (Otimiza.pro)
 
-Quanto custa o transporte público em 620 municípios brasileiros, segundo a Tarifaoteca da Otimiza.pro (versão 2026.11.06). Cada frase traz o valor, a fonte e a data em que a Otimiza.pro conferiu e, quando a fonte informa, o ato oficial e a data em que passou a valer. A fonte oficial de cada valor está indicada. Onde há dados de serviço e oferta, a ficha traz também linhas e passageiros, com a fonte e a data.
+Quanto custa o transporte público em 634 municípios brasileiros, segundo a Tarifaoteca da Otimiza.pro (versão 2026.11.09). Cada frase traz o valor, a fonte e a data em que a Otimiza.pro conferiu e, quando a fonte informa, o ato oficial e a data em que passou a valer. A fonte oficial de cada valor está indicada. Onde há dados de serviço e oferta, a ficha traz também linhas e passageiros, com a fonte e a data.
 
-Como citar: Fonte: Tarifaoteca da Otimiza.pro, versão 2026.11.06. DOI: https://doi.org/10.5281/zenodo.23486211. https://github.com/OtimizaPro/tarifas_integracoestarifarias_transportepublico_brasileiro
+Como citar: Fonte: Tarifaoteca da Otimiza.pro, versão 2026.11.09. DOI: https://doi.org/10.5281/zenodo.23486211. https://github.com/OtimizaPro/tarifas_integracoestarifarias_transportepublico_brasileiro
 
 ## AC
 
@@ -3118,6 +3118,8 @@ Em Belford Roxo (RJ), a idade média da frota de ônibus era de 7 anos em 2021. 
 
 Fonte (página oficial): http://www.detro.rj.gov.br/uploads/portarias/tarifas_onibus_2026.pdf
 
+Integração em Belford Roxo: Até dois transportes públicos, um deles obrigatoriamente intermunicipal, em até três horas, pagando no máximo R$ 9,40; até duas vezes por dia, com intervalo mínimo de uma hora. Ônibus municipais, BRT e VLT só entram integrados a um modo intermunicipal.
+
 ### Cabo Frio (RJ)
 
 Em Cabo Frio (RJ), a passagem de ônibus custa R$ 5,00 desde 01/01/2024, conforme Decreto nº 7.222/2023; valor conferido em 18/10/2026 pela Tarifaoteca da Otimiza.pro.
@@ -3129,6 +3131,14 @@ Fonte (página oficial): https://portal.cabofrio.rj.gov.br/arquivos/4464/DECRETO
 Vale-transporte em Cabo Frio: cartão do Trabalhador (vale-transporte eletrônico Globalmob); emitido por Globalmob (bilhetagem da Auto Viação Salineira e da Viação Montes Brancos); canal de compra da empresa: Loja Virtual Globalmob (salesportal.globalmob.prodatamobility.com.br): cadastro da empresa por CNPJ, cadastro de cada funcionário, pedido de recarga e boleto bancário; Centrais de Atendimento em Cabo Frio e Araruama; liberação do crédito: recarga disponível no ônibus 24 horas após a compensação do boleto, salvo pagamentos aos sábados, em vésperas de feriado ou fora do expediente bancário; taxa na compra: nenhuma prevista: no termo de adesão da loja virtual, a adesão ao cartão é gratuita e a empresa paga só os créditos, por boleto, no ato do pedido (cláusulas 6.1 e 6.2), pela tarifa vigente (cláusula 8.1) (https://salesportal.globalmob.prodatamobility.com.br/policies/teste.html); validade dos créditos: cartão sem uso por 12 meses ou mais fica inativo.
 
 Tarifa zero em Cabo Frio: Transporte coletivo municipal gratuito para todos das 6h às 20h em 04/10/2026 e, se houver 2º turno, em 25/10/2026, em todas as linhas, inclusive as do 2º distrito e do Integra Tamoios
+
+### Cachoeiras de Macacu (RJ)
+
+Ainda não há tarifa de ônibus conferida para Cachoeiras de Macacu (RJ) na Tarifaoteca da Otimiza.pro.
+
+Fonte (página oficial): https://www.ioerj.com.br/portal/modules/conteudoonline/mostra_edicao.php?session=VFdwU1FsSkZWa1JPZW1OMFRYcFNSRkpwTURCUFZVMTVURlZLUjA1clJYUlJWR3Q0VVhwcmVFOVVTWGRTVkUweQ==
+
+Integração em Cachoeiras de Macacu: Até dois transportes públicos, um deles obrigatoriamente intermunicipal, em até três horas, pagando no máximo R$ 9,40; até duas vezes por dia, com intervalo mínimo de uma hora. Ônibus municipais, BRT e VLT só entram integrados a um modo intermunicipal.
 
 ### Campos dos Goytacazes (RJ)
 
@@ -3150,7 +3160,21 @@ Página da cidade: https://otimizapro.com/tarifa/rj/duque-de-caxias
 
 Fonte (página oficial): https://transparencia.duquedecaxias.rj.gov.br/diario_oficial_get_anexo.php?codigo=2783
 
+Integração em Duque de Caxias: Até dois transportes públicos, um deles obrigatoriamente intermunicipal, em até três horas, pagando no máximo R$ 9,40; até duas vezes por dia, com intervalo mínimo de uma hora. Ônibus municipais, BRT e VLT só entram integrados a um modo intermunicipal.
+
 Tarifa zero em Duque de Caxias: Todas as linhas municipais sem cobrança das 6h às 20h nos dias de eleição (04/10/2026 e 25/10/2026)
+
+### Guapimirim (RJ)
+
+Ainda não há tarifa de ônibus conferida para Guapimirim (RJ) na Tarifaoteca da Otimiza.pro.
+
+Fonte (página oficial): https://www.ioerj.com.br/portal/modules/conteudoonline/mostra_edicao.php?session=VFdwU1FsSkZWa1JPZW1OMFRYcFNSRkpwTURCUFZVMTVURlZLUjA1clJYUlJWR3Q0VVhwcmVFOVVTWGRTVkUweQ==
+
+Vale-transporte em Guapimirim: cartão Riocard Mais Vale-Transporte; emitido por Riocard Mais; taxa na compra: Na rodada 16 (Queimados), a consolidação de 20/10 registrou que a compra simples de cartões e créditos é gratuita e que os pacotes Gestão + VT e Facilita + VT são opcionais e pagos, o que não é taxa na compra (decisão do Anderson de 19/10)..
+
+Integração em Guapimirim: Até dois transportes públicos, um deles obrigatoriamente intermunicipal, em até três horas, pagando no máximo R$ 9,40; até duas vezes por dia, com intervalo mínimo de uma hora. Ônibus municipais, BRT e VLT só entram integrados a um modo intermunicipal.
+
+Tarifa zero em Guapimirim: Ônibus de Integração Municipal gratuito para todos os passageiros, operado pela Companhia Municipal de Desenvolvimento (CONDEGUAPI)
 
 ### Itaboraí (RJ)
 
@@ -3160,7 +3184,21 @@ Página da cidade: https://otimizapro.com/tarifa/rj/itaborai
 
 Fonte (página oficial): https://site.ib.itaborai.rj.gov.br/itaborai-faz-historia-onibus-com-tarifa-zero-passa-a-circular-por-toda-a-cidade/
 
+Integração em Itaboraí: Até dois transportes públicos, um deles obrigatoriamente intermunicipal, em até três horas, pagando no máximo R$ 9,40; até duas vezes por dia, com intervalo mínimo de uma hora. Ônibus municipais, BRT e VLT só entram integrados a um modo intermunicipal.
+
 Tarifa zero em Itaboraí: Todas as linhas municipais gratuitas para qualquer passageiro, sem cadastro ou cartão
+
+### Itaguaí (RJ)
+
+Ainda não há tarifa de ônibus conferida para Itaguaí (RJ) na Tarifaoteca da Otimiza.pro.
+
+Fonte (página oficial): https://www.ioerj.com.br/portal/modules/conteudoonline/mostra_edicao.php?session=VFdwU1FsSkZWa1JPZW1OMFRYcFNSRkpwTURCUFZVMTVURlZLUjA1clJYUlJWR3Q0VVhwcmVFOVVTWGRTVkUweQ==
+
+Vale-transporte em Itaguaí: cartão Riocard Mais Vale-Transporte (Personalizado Usuário, com o nome do trabalhador, ou Personalizado Empresa, com a razão social); emitido por Riocard Mais; canal de compra da empresa: A empresa administra os cartões e os pedidos no site da Riocard Mais com login (área Para Empresas), onde também pede o cancelamento de cartões perdidos; a página de informações básicas para empresas bloqueou o acesso automatizado em 2026-10-18; validade dos créditos: créditos de VT pagos antes de um reajuste podem ser usados pela tarifa anterior por 30 dias a contar da mudança, salvo casos extraordinários.
+
+Integração em Itaguaí: Bilhete Único Intermunicipal (BUI) da Região Metropolitana do Rio, da qual Itaguaí faz parte: ônibus intermunicipal + ônibus municipal da região metropolitana por R$ 9,40, com o cartão Riocard Mais habilitado no BUI (tabela de tarifas vigentes da Riocard Mais, atualizada em 28/09/2026). Até dois transportes públicos, um deles obrigatoriamente intermunicipal, em até três horas, pagando no máximo R$ 9,40; até duas vezes por dia, com intervalo mínimo de uma hora. Ônibus municipais, BRT e VLT só entram integrados a um modo intermunicipal.
+
+Tarifa zero em Itaguaí: Transporte gratuito para eleitores nos dias de eleição de 2026 (04/10 e 25/10, das 06h30 às 19h20), em oito linhas especiais operadas com ônibus escolares da Secretaria Municipal de Educação, mediante documento de eleitor. Não é serviço regular (a cidade não tem ônibus municipal em operação) e não vale nas linhas intermunicipais.
 
 ### Itaperuna (RJ)
 
@@ -3190,6 +3228,8 @@ Fonte (página oficial): https://japeri.rj.gov.br/2026/05/02/tarifa-zero-complet
 
 Vale-transporte em Japeri: cartão Riocard Mais Vale-Transporte; emitido por Riocard Mais; taxa na compra: Na rodada 16 (Queimados), a consolidação de 20/10 registrou que a compra simples de cartões e créditos é gratuita e que os pacotes Gestão + VT e Facilita + VT são opcionais e pagos, o que não é taxa na compra (decisão do Anderson de 19/10)..
 
+Integração em Japeri: Até dois transportes públicos, um deles obrigatoriamente intermunicipal, em até três horas, pagando no máximo R$ 9,40; até duas vezes por dia, com intervalo mínimo de uma hora. Ônibus municipais, BRT e VLT só entram integrados a um modo intermunicipal.
+
 Tarifa zero em Japeri: Programa Tarifa Zero: ônibus municipais gratuitos para todos os passageiros
 
 ### Macaé (RJ)
@@ -3210,7 +3250,21 @@ Página da cidade: https://otimizapro.com/tarifa/rj/mage
 
 Fonte (página oficial): https://mage.rj.gov.br/informacoes/mage-implanta-onibus-com-tarifa-zero-na-cidade/
 
+Integração em Magé: Até dois transportes públicos, um deles obrigatoriamente intermunicipal, em até três horas, pagando no máximo R$ 9,40; até duas vezes por dia, com intervalo mínimo de uma hora. Ônibus municipais, BRT e VLT só entram integrados a um modo intermunicipal.
+
 Tarifa zero em Magé: Gratuidade para qualquer passageiro apenas nas oito linhas Amarelinho (TZ 01 a TZ 08); as demais linhas municipais são pagas
+
+### Mangaratiba (RJ)
+
+Ainda não há tarifa de ônibus conferida para Mangaratiba (RJ) na Tarifaoteca da Otimiza.pro.
+
+Fonte (página oficial): https://www.ioerj.com.br/portal/modules/conteudoonline/mostra_edicao.php?session=VFdwU1FsSkZWa1JPZW1OMFRYcFNSRkpwTURCUFZVMTVURlZLUjA1clJYUlJWR3Q0VVhwcmVFOVVTWGRTVkUweQ==
+
+Vale-transporte em Mangaratiba: cartão Riocard Mais Vale-Transporte; emitido por Riocard Mais; taxa na compra: Na rodada 16 (Queimados), a consolidação de 20/10 registrou que a compra simples de cartões e créditos é gratuita e que os pacotes Gestão + VT e Facilita + VT são opcionais e pagos, o que não é taxa na compra (decisão do Anderson de 19/10)..
+
+Integração em Mangaratiba: Até dois transportes públicos, um deles obrigatoriamente intermunicipal, em até três horas, pagando no máximo R$ 9,40; até duas vezes por dia, com intervalo mínimo de uma hora. Ônibus municipais, BRT e VLT só entram integrados a um modo intermunicipal.
+
+Tarifa zero em Mangaratiba: Gratuidade para qualquer passageiro só no ônibus 'Tarifa Zero' da Prefeitura, nas duas ligações a partir do Centro (Serra do Piloto e Ingaíba); as linhas da empresa que opera na mesma região, as vans e as linhas intermunicipais ficam fora
 
 ### Maricá (RJ)
 
@@ -3220,7 +3274,17 @@ Página da cidade: https://otimizapro.com/tarifa/rj/marica
 
 Fonte (página oficial): https://www.eptmarica.rj.gov.br/index.php/noticias/item/445-ept-celebra-12-anos
 
+Integração em Maricá: Até dois transportes públicos, um deles obrigatoriamente intermunicipal, em até três horas, pagando no máximo R$ 9,40; até duas vezes por dia, com intervalo mínimo de uma hora. Ônibus municipais, BRT e VLT só entram integrados a um modo intermunicipal.
+
 Tarifa zero em Maricá: Ônibus e vans municipais da EPT sem cobrança para qualquer passageiro
+
+### Mesquita (RJ)
+
+Ainda não há tarifa de ônibus conferida para Mesquita (RJ) na Tarifaoteca da Otimiza.pro.
+
+Fonte (página oficial): https://www.ioerj.com.br/portal/modules/conteudoonline/mostra_edicao.php?session=VFdwU1FsSkZWa1JPZW1OMFRYcFNSRkpwTURCUFZVMTVURlZLUjA1clJYUlJWR3Q0VVhwcmVFOVVTWGRTVkUweQ==
+
+Integração em Mesquita: Até dois transportes públicos, um deles obrigatoriamente intermunicipal, em até três horas, pagando no máximo R$ 9,40; até duas vezes por dia, com intervalo mínimo de uma hora. Ônibus municipais, BRT e VLT só entram integrados a um modo intermunicipal.
 
 ### Nilópolis (RJ)
 
@@ -3229,6 +3293,8 @@ Em Nilópolis (RJ), a passagem de ônibus custa R$ 5,50 desde 08/12/2024, confor
 Página da cidade: https://otimizapro.com/tarifa/rj/nilopolis
 
 Fonte (página oficial): https://pmnilopolis.geosiap.net.br/pmnilopolis/websis/siapegov/legislativo/leis/lei_documento_anexo.php?id=1874&tipo=32
+
+Integração em Nilópolis: Até dois transportes públicos, um deles obrigatoriamente intermunicipal, em até três horas, pagando no máximo R$ 9,40; até duas vezes por dia, com intervalo mínimo de uma hora. Ônibus municipais, BRT e VLT só entram integrados a um modo intermunicipal.
 
 Tarifa zero em Nilópolis: Suspensão da cobrança da tarifa pública nas 9 linhas municipais de ônibus (2 da Nilopolitana e 7 da Expresso São Francisco), das 06h às 20h, em 04/10/2026 (1º turno das eleições) e, se houver 2º turno, em 25/10/2026. Não vale nas linhas intermunicipais, que seguem o órgão estadual.
 
@@ -3244,7 +3310,7 @@ Fonte (página oficial): https://niteroi.rj.gov.br/prefeitura-mantem-tarifa-redu
 
 Vale-transporte em Niterói: cartão Riocard Mais Vale-Transporte (personalizado usuário, com CPF, ou personalizado empresa); emitido por Riocard Mais; canal de compra da empresa: Site da Riocard Mais, área Para Empresas, com login e senha; 1ª via gratuita; validade dos créditos: Bloqueio preventivo após 8 meses sem uso, com saldo mantido (Riocard Mais).
 
-Integração em Niterói: Bilhete Único de Niterói: duas linhas municipais distintas em até 1 hora pagando uma tarifa de R$ 4,45. Também integra com barcas e catamarãs, até 2 integrações por dia (a Prefeitura citou R$ 5,15 e R$ 8,15 em jul/2025).
+Integração em Niterói: Bilhete Único de Niterói: duas linhas municipais distintas em até 1 hora pagando uma tarifa de R$ 4,45. Também integra com barcas e catamarãs, até 2 integrações por dia (a Prefeitura citou R$ 5,15 e R$ 8,15 em jul/2025). Até dois transportes públicos, um deles obrigatoriamente intermunicipal, em até três horas, pagando no máximo R$ 9,40; até duas vezes por dia, com intervalo mínimo de uma hora. Ônibus municipais, BRT e VLT só entram integrados a um modo intermunicipal.
 
 ### Nova Friburgo (RJ)
 
@@ -3266,6 +3332,8 @@ Página da cidade: https://otimizapro.com/tarifa/rj/nova-iguacu
 
 Fonte (página oficial): https://novaiguacu.rj.gov.br/wp-content/uploads/2025/03/pmni_de_28-03-2025_-_sexta-feira_-_final_27060714.pdf
 
+Integração em Nova Iguaçu: Até dois transportes públicos, um deles obrigatoriamente intermunicipal, em até três horas, pagando no máximo R$ 9,40; até duas vezes por dia, com intervalo mínimo de uma hora. Ônibus municipais, BRT e VLT só entram integrados a um modo intermunicipal.
+
 ### Paracambi (RJ)
 
 Em Paracambi (RJ), o ônibus é gratuito (tarifa zero) desde 21/01/2023, segundo a publicação oficial (Prefeitura de Paracambi, Diário Oficial Eletrônico, edição extra nº 2040, de 02/10/2026, Decreto nº 6.468/2026); valor conferido em 29/10/2026 pela Tarifaoteca da Otimiza.pro.
@@ -3273,6 +3341,8 @@ Em Paracambi (RJ), o ônibus é gratuito (tarifa zero) desde 21/01/2023, segundo
 Página da cidade: https://otimizapro.com/tarifa/rj/paracambi
 
 Fonte (página oficial): https://paracambi.rj.gov.br/diariooficial/DOE.Paracambi.Ed2040%2002.10.2026-Extra.pdf
+
+Integração em Paracambi: Até dois transportes públicos, um deles obrigatoriamente intermunicipal, em até três horas, pagando no máximo R$ 9,40; até duas vezes por dia, com intervalo mínimo de uma hora. Ônibus municipais, BRT e VLT só entram integrados a um modo intermunicipal.
 
 Tarifa zero em Paracambi: Transporte coletivo municipal (o Curió) gratuito para todos os usuários, custeado pela Prefeitura, que paga a operadora por quilômetro rodado.
 
@@ -3298,6 +3368,8 @@ Fonte (operadora): https://setranspetro.com.br/noticias/saiba-como-sera-o-reajus
 
 Vale-transporte em Petrópolis: cartão Riocard Mais Vale-Transporte (Convencional e Empresarial); emitido por Riocard Mais; canal de compra da empresa: a recarga do cartão VT é feita pelo empregador, que faz a gestão do benefício (Setranspetro, 20/04/2020); o canal da Riocard Mais para empresas não foi conferido porque o site recusou o acesso automatizado em 2026-10-18.
 
+Integração em Petrópolis: Até dois transportes públicos, um deles obrigatoriamente intermunicipal, em até três horas, pagando no máximo R$ 9,40; até duas vezes por dia, com intervalo mínimo de uma hora. Ônibus municipais, BRT e VLT só entram integrados a um modo intermunicipal.
+
 ### Queimados (RJ)
 
 Em Queimados (RJ), a passagem de ônibus custa R$ 5,00 desde 08/02/2024, conforme Portaria nº 004/SEMUTTRAN/2024; valor conferido em 21/10/2026 pela Tarifaoteca da Otimiza.pro.
@@ -3308,7 +3380,7 @@ Fonte (página oficial): https://transparencia.queimados.rj.gov.br/diario_oficia
 
 Vale-transporte em Queimados: cartão Riocard Mais Vale-Transporte (Personalizado Usuário, com o nome do trabalhador, ou Personalizado Empresa, com a razão social); emitido por Riocard Mais (bilhetagem eletrônica gerenciada pela Fetranspor); canal de compra da empresa: Só pelo Portal Riocard Mais (área Para Empresas, com login) ou pelo canal de vendas corporativas; a recarga é validada nos validadores, terminais de consulta ou no aplicativo; taxa na compra: Os termos de uso do site Para Empresas (abril de 2019) dizem que cartões e créditos se compram por 'links gratuitos' (item 2.1), mas os serviços 'Gestão + VT' e 'Facilita + VT' são 'links pagos', com valor informado na contratação e cobrado 'no pagamento do pedido' (itens 2.2 e 2.2.1); valor não publicado. Pela regra de 18/10, qualquer valor em qualquer canal conta. Há ainda cobrança pela desassociação extraordinária de cartões de empregados desligados (item 3.5). Consolidação (20/10): a compra simples de cartões e créditos é gratuita; os pacotes Gestão + VT e Facilita + VT são opcionais e pagos, e pacote opcional pago não é taxa na compra (decisão do Anderson de 19/10).; validade dos créditos: créditos de VT pagos antes de um reajuste valem pela tarifa anterior por 30 dias a contar da mudança, salvo casos extraordinários.
 
-Integração em Queimados: Bilhete Único Intermunicipal (BUI) no cartão Riocard Mais com CPF vinculado: trem + ônibus municipal, ou ônibus intermunicipal + ônibus municipal da Região Metropolitana, ou ônibus intermunicipal + metrô ou trem, por R$ 9,40 no total; cartões empresariais de VT não habilitam o BUI
+Integração em Queimados: Bilhete Único Intermunicipal (BUI) no cartão Riocard Mais com CPF vinculado: trem + ônibus municipal, ou ônibus intermunicipal + ônibus municipal da Região Metropolitana, ou ônibus intermunicipal + metrô ou trem, por R$ 9,40 no total; cartões empresariais de VT não habilitam o BUI. Até dois transportes públicos, um deles obrigatoriamente intermunicipal, em até três horas, pagando no máximo R$ 9,40; até duas vezes por dia, com intervalo mínimo de uma hora. Ônibus municipais, BRT e VLT só entram integrados a um modo intermunicipal.
 
 Tarifa zero em Queimados: Operação gratuita das linhas municipais de ônibus, pelas concessionárias Fazeni e Gardel, no dia das eleições de 2026 (04/10/2026) e, se houver segundo turno, em 25/10/2026, das 07h às 18h, 'totalmente gratuitas a todos os usuários'. Não vale nas linhas intermunicipais, que seguem o órgão estadual.
 
@@ -3320,6 +3392,18 @@ Página da cidade: https://otimizapro.com/tarifa/rj/resende
 
 Fonte (página oficial): https://resende.rj.gov.br/noticias/princesinha-do-vale-nova-empresa-de-transporte-publico-de-resende-comeca-a-operar-nesta-quarta-feira
 
+### Rio Bonito (RJ)
+
+Ainda não há tarifa de ônibus conferida para Rio Bonito (RJ) na Tarifaoteca da Otimiza.pro.
+
+Fonte (página oficial): https://www.ioerj.com.br/portal/modules/conteudoonline/mostra_edicao.php?session=VFdwU1FsSkZWa1JPZW1OMFRYcFNSRkpwTURCUFZVMTVURlZLUjA1clJYUlJWR3Q0VVhwcmVFOVVTWGRTVkUweQ==
+
+Vale-transporte em Rio Bonito: cartão Riocard Mais Vale-Transporte; emitido por Riocard Mais.
+
+Integração em Rio Bonito: Bilhete Único Intermunicipal (BUI), em Rio Bonito desde 26/07/2026: dois meios de transporte numa mesma viagem, sendo um deles obrigatoriamente intermunicipal, com tarifa máxima de R$ 9,40 por integração; vale para ônibus municipais e intermunicipais, trens, metrô, barcas, BRT, VLT e vans legalizadas; até duas integrações por dia. Até dois transportes públicos, um deles obrigatoriamente intermunicipal, em até três horas, pagando no máximo R$ 9,40; até duas vezes por dia, com intervalo mínimo de uma hora. Ônibus municipais, BRT e VLT só entram integrados a um modo intermunicipal.
+
+Tarifa zero em Rio Bonito: Ônibus gratuitos no primeiro e no segundo turno das eleições de 2026 (segundo turno em 25 de outubro)
+
 ### Rio das Ostras (RJ)
 
 Em Rio das Ostras (RJ), a passagem do transporte alternativo (vans e micro-ônibus) custa R$ 4,00 desde 15/10/2025, conforme Lei Municipal nº 3.110/2025; valor conferido em 04/11/2026 pela Tarifaoteca da Otimiza.pro.
@@ -3330,7 +3414,7 @@ Fonte (página oficial): https://appro.riodasostras.rj.gov.br/storage/riodasostr
 
 ### Rio de Janeiro (RJ)
 
-No Rio de Janeiro (RJ), a passagem de ônibus custa R$ 5,00 desde 04/01/2026, conforme Decreto Rio nº 57.473/2025; valor conferido em 17/10/2026 pela Tarifaoteca da Otimiza.pro.
+No Rio de Janeiro (RJ), a passagem de ônibus custa R$ 5,00 desde 04/01/2026, conforme Decreto Rio nº 57.473/2025; valor conferido em 19/10/2026 pela Tarifaoteca da Otimiza.pro.
 
 Página da cidade: https://otimizapro.com/tarifa/rj/rio-de-janeiro
 
@@ -3344,7 +3428,7 @@ Jaé: cobre BRT, VLT, ônibus municipais (inclusive executivos), vans municipais
 
 Riocard Mais: cobre metrô, trem, barcas e ônibus e vans intermunicipais do Estado do Rio; BRT, VLT, vans e ônibus municipais do Rio só com o Bilhete Único Intermunicipal (BUI) habilitado, desde 02/08/2025; cartão Riocard Mais Vale-Transporte (Personalizado Usuário, com o nome do trabalhador, ou Personalizado Empresa, com a razão social; só o Personalizado Usuário pode ter o BUI); emitido por Riocard Mais (cartões cedidos pela Riopar Participações S.A., com legitimidade da Fetranspor; site Para Empresas operado pela Mais Mobi Serviços Ltda.); canal de compra da empresa: Portal Riocard Mais Para Empresas (riocardmais.com.br/Para_empresas, com login e senha) ou canal de vendas corporativas (vendas@riocardmais.com.br); pedido de VT pago por boleto ou com a bolsa de crédito do comprador; liberação do crédito: a carga só é liberada depois que a empresa desbloqueia o cartão e precisa ser validada: vai para os validadores das 3 linhas de ônibus ou do modo mais usado nos últimos 30 dias, para os terminais de consulta ou para o app com NFC, e fica disponível nos transportes por até 120 dias; taxa na compra: compra de cartões e créditos por 'links gratuitos' (termos de uso do site Para Empresas); são pagos os serviços opcionais Gestão + VT e Facilita + VT, com valor informado na contratação; há tarifa de entrega domiciliar dos cartões, conforme CEP e quantidade; validade dos créditos: as recargas não expiram desde 08/05/2019, por decisão judicial; cartão sem uso por mais de 8 meses sofre bloqueio preventivo, com o saldo mantido.
 
-Integração no Rio de Janeiro: Bilhete Único Carioca: R$ 5,00 por até 3 viagens em 3h, uma delas no BRT; com metrô, janela de 120 min (metrô + ônibus R$ 8,80; + BRT R$ 9,70)
+Integração no Rio de Janeiro: Até três modos municipais pagando uma tarifa, desde que um dos deslocamentos seja no BRT, no mesmo sentido, em até três horas da primeira validação. Sem o BRT na integração, o benefício vale para o uso sequencial de dois modos municipais, no mesmo sentido, em até três horas. Quem chega da Baixada Fluminense por ônibus intermunicipal ao Terminal BRT Metropolitano Pedro Fernandes paga R$ 5,00 e faz até 4 viagens integradas no sistema municipal (2 de ida e 2 de volta) em até 20 horas da primeira validação; a passagem intermunicipal é paga à parte. Metrô e uma das linhas de ônibus listadas por R$ 7,90, com transbordo nas estações Botafogo ou Antero de Quental. Metrô e uma das linhas expressas de ônibus listadas por R$ 8,80. Metrô e uma das vans do STPL listadas por R$ 8,80. Metrô e BRT por R$ 9,70, só nas estações Jardim Oceânico e Vicente de Carvalho. Até dois transportes públicos, um deles obrigatoriamente intermunicipal, em até três horas, pagando no máximo R$ 9,40; até duas vezes por dia, com intervalo mínimo de uma hora. Ônibus municipais, BRT e VLT só entram integrados a um modo intermunicipal.
 
 ### Santo Antônio de Pádua (RJ)
 
@@ -3368,6 +3452,8 @@ Fonte (página oficial): http://www.detro.rj.gov.br/uploads/portarias/tarifas_on
 
 Vale-transporte em São Gonçalo: cartão Riocard Mais Vale-Transporte (personalizado usuário ou personalizado empresa); emitido por Riocard Mais; canal de compra da empresa: Site da Riocard Mais, área Para Empresas, com login e senha; 1ª via do cartão gratuita (termo de comodato); validade dos créditos: Cartão sem uso por mais de 8 meses sofre bloqueio preventivo; o saldo é mantido (Riocard Mais).
 
+Integração em São Gonçalo: Até dois transportes públicos, um deles obrigatoriamente intermunicipal, em até três horas, pagando no máximo R$ 9,40; até duas vezes por dia, com intervalo mínimo de uma hora. Ônibus municipais, BRT e VLT só entram integrados a um modo intermunicipal.
+
 Tarifa zero em São Gonçalo: Ônibus municipais grátis das 7h às 18h nos dias de eleição (04/10/2026 e 25/10/2026, se houver 2º turno), com 100% da frota de dia útil
 
 ### São João da Barra (RJ)
@@ -3379,6 +3465,14 @@ Página da cidade: https://otimizapro.com/tarifa/rj/sao-joao-da-barra
 Fonte (página oficial): https://www.sjb.rj.gov.br/site/noticia/renovacao_da_frota_do_transporte_gratuito_prossegue_em_sjb/17635
 
 Tarifa zero em São João da Barra: Transporte público municipal gratuito para todos, nas 6 linhas dos 'Vermelhinhos'
+
+### São João de Meriti (RJ)
+
+Ainda não há tarifa de ônibus conferida para São João de Meriti (RJ) na Tarifaoteca da Otimiza.pro.
+
+Fonte (página oficial): https://www.ioerj.com.br/portal/modules/conteudoonline/mostra_edicao.php?session=VFdwU1FsSkZWa1JPZW1OMFRYcFNSRkpwTURCUFZVMTVURlZLUjA1clJYUlJWR3Q0VVhwcmVFOVVTWGRTVkUweQ==
+
+Integração em São João de Meriti: Até dois transportes públicos, um deles obrigatoriamente intermunicipal, em até três horas, pagando no máximo R$ 9,40; até duas vezes por dia, com intervalo mínimo de uma hora. Ônibus municipais, BRT e VLT só entram integrados a um modo intermunicipal.
 
 ### São Pedro da Aldeia (RJ)
 
@@ -3399,6 +3493,24 @@ Fonte (página oficial): https://transparencia.saquarema.rj.gov.br/wp-content/up
 Vale-transporte em Saquarema: cartão cartões RioCard (Riocard Mais) aceitos nas linhas municipais; emitido por Riocard Mais.
 
 Tarifa zero em Saquarema: Transporte coletivo municipal gratuito das 6h às 20h em 04/10/2026 e, se houver 2º turno, em 25/10/2026, com toda a frota de dias úteis
+
+### Seropédica (RJ)
+
+Ainda não há tarifa de ônibus conferida para Seropédica (RJ) na Tarifaoteca da Otimiza.pro.
+
+Fonte (página oficial): https://www.ioerj.com.br/portal/modules/conteudoonline/mostra_edicao.php?session=VFdwU1FsSkZWa1JPZW1OMFRYcFNSRkpwTURCUFZVMTVURlZLUjA1clJYUlJWR3Q0VVhwcmVFOVVTWGRTVkUweQ==
+
+Integração em Seropédica: Até dois transportes públicos, um deles obrigatoriamente intermunicipal, em até três horas, pagando no máximo R$ 9,40; até duas vezes por dia, com intervalo mínimo de uma hora. Ônibus municipais, BRT e VLT só entram integrados a um modo intermunicipal.
+
+### Tanguá (RJ)
+
+Ainda não há tarifa de ônibus conferida para Tanguá (RJ) na Tarifaoteca da Otimiza.pro.
+
+Fonte (página oficial): https://www.ioerj.com.br/portal/modules/conteudoonline/mostra_edicao.php?session=VFdwU1FsSkZWa1JPZW1OMFRYcFNSRkpwTURCUFZVMTVURlZLUjA1clJYUlJWR3Q0VVhwcmVFOVVTWGRTVkUweQ==
+
+Integração em Tanguá: Até dois transportes públicos, um deles obrigatoriamente intermunicipal, em até três horas, pagando no máximo R$ 9,40; até duas vezes por dia, com intervalo mínimo de uma hora. Ônibus municipais, BRT e VLT só entram integrados a um modo intermunicipal.
+
+Tarifa zero em Tanguá: Gratuidade para qualquer passageiro só no ônibus municipal gratuito da Prefeitura (#VouDeBusão), nas linhas que ligam bairros periféricos; as linhas da empresa concessionária e as intermunicipais ficam fora
 
 ### Teresópolis (RJ)
 
@@ -4886,7 +4998,7 @@ Fonte (ato oficial reproduzido): https://www.arujatransporte.com.br/decreto-no-8
 
 Vale-transporte em Arujá: cartão TOP Vale-Transporte; emitido por Autopass (TOP); canal de compra da empresa: No site do TOP (boradetop.com.br), o item Vale-transporte da seção Para empresas leva ao cadastro da ViaNova (https://cadastro.portalvianova.com.br/cliente-cadastro/cliente-novo-cadastro-1.php); a ViaNova Benefícios, ligada à Autopass, vende o VT com um só pedido e um só boleto, permite importar dados da folha de pagamento e tem área do cliente com CNPJ e senha (https://www.portalvianova.com.br/); taxa na compra: em 2022, segundo o Diário do Transporte, a compra de VT do sistema metropolitano (Cartão BOM, venda pela ViaNova e Autopass) tinha taxa de 4% sobre o valor comprado, que a Autopass defendeu como remuneração da venda online (https://diariodotransporte.com.br/2022/02/21/empresa-de-beneficios-diz-conseguir-na-justica-dispensa-de-taxa-no-vt-do-cartao-bom-top-e-do-bilhete-unico-reducao-de-custo-pode-ser-de-r-69-milhoes-por-ano/); cobrança atual no TOP não confirmada.
 
-Integração em Arujá: A tabela de integração da Arujá Transporte lista, para cada linha municipal, as linhas com que integra e a diferença a pagar, de R$ 0,00 na integração comum e na escolar; a tabela ainda mostra a tarifa antiga de R$ 4,50 (escolar R$ 2,25), sinal de desatualização dos valores; a janela de tempo não é publicada
+Integração em Arujá: A tabela de integração da Arujá Transporte lista, para cada linha municipal, as linhas com que integra e a diferença a pagar, de R$ 0,00 na integração comum e na escolar; a tabela ainda mostra a tarifa antiga de R$ 4,50 (escolar R$ 2,25), sinal de desatualização dos valores; a janela de tempo não é publicada. Paga a tarifa do primeiro modal pelo TOP ou BOM e tem redução de R$ 1,50 na tarifa do segundo modal, em até três horas. Diferenciação tarifária: com vale-transporte, a integração do ônibus intermunicipal da ARTESP com o Metrô e a CPTM custa R$ 0,52 a mais que com a tarifa comum. O ônibus cobra a mesma tarifa comum de cada linha, mas o trilho integrado sai por R$ 4,42 com vale-transporte (R$ 5,92 menos a redução de R$ 1,50), contra R$ 3,90 com a tarifa comum (R$ 5,40 menos a mesma redução).
 
 ### Assis (SP)
 
@@ -4940,7 +5052,7 @@ Benfácil Vale-Transporte, produto Barueri (ônibus municipais de Barueri): cobr
 
 TOP Vale-Transporte (ônibus metropolitanos e trilhos da Grande São Paulo): cobre ônibus intermunicipais metropolitanos da Região Metropolitana de São Paulo (regulados pela ARTESP; o site da EMTU redireciona para a ARTESP), Metrô e trens metropolitanos; cartão TOP Vale-Transporte; emitido por Autopass (TOP); canal de compra da empresa: No site do TOP (boradetop.com.br), o item Vale-transporte da seção Para empresas leva ao cadastro da ViaNova Autopass (https://cadastro.portalvianova.com.br/cliente-cadastro/cliente-novo-cadastro-1.php), que vende VT com boleto único; a empresa cadastra os colaboradores por planilha Excel ou integração com o ERP, e a ViaNova emite a primeira via para quem ainda não tem cartão; liberação do crédito: a ViaNova permite programar a data de liberação dos créditos.
 
-Integração em Barueri: Com o Cartão Benfácil, troca de ônibus no Terminal pagando uma só passagem, nas linhas pré-estabelecidas; quem tem o Cartão Benfácil Comum ou Vale-Transporte paga a tarifa integrada ônibus/CPTM de R$ 10,00 desde 06/01/2026. A janela de tempo não é publicada.
+Integração em Barueri: Com o Cartão Benfácil, troca de ônibus no Terminal pagando uma só passagem, nas linhas pré-estabelecidas; quem tem o Cartão Benfácil Comum ou Vale-Transporte paga a tarifa integrada ônibus/CPTM de R$ 10,00 desde 06/01/2026. A janela de tempo não é publicada. Paga a tarifa do primeiro modal pelo TOP ou BOM e tem redução de R$ 1,50 na tarifa do segundo modal, em até três horas. Diferenciação tarifária: com vale-transporte, a integração do ônibus intermunicipal da ARTESP com o Metrô e a CPTM custa R$ 0,52 a mais que com a tarifa comum. O ônibus cobra a mesma tarifa comum de cada linha, mas o trilho integrado sai por R$ 4,42 com vale-transporte (R$ 5,92 menos a redução de R$ 1,50), contra R$ 3,90 com a tarifa comum (R$ 5,40 menos a mesma redução).
 
 ### Batatais (SP)
 
@@ -4995,6 +5107,14 @@ Fonte (imprensa): https://www.hojemais.com.br/aracatuba/noticia/cotidiano/novo-c
 Vale-transporte em Birigui: cartão de vale-transporte da Translocave, retirado pelo funcionário no guichê de atendimento; emitido por Translocave Ltda. (operadora); canal de compra da empresa: Portal de vale-transporte de Birigui (http://birigui.translocave.com.br, que leva ao TDMax Web Commerce em https://max00508.itstransdata.com/TDMaxwebcommerce/, com login da empresa e cadastro de empresas novas): a empresa faz o cadastro pelo portal e os cartões são retirados pelos funcionários no guichê da Translocave (Av. João Cernach, s/n, Jardim Morumbi, Guichê 1), com documento com foto e comprovante de residência; em 2026-10-18 a tela do portal mostrava 'ERRO DE CONFIGURAÇÃO'.
 
 Tarifa zero em Birigui: Transporte coletivo gratuito em 04/10/2026 (1º turno), com linhas especiais das 7h30 às 17h saindo dos bairros para o terminal urbano e embarque pela porta traseira; o serviço normalmente não funciona aos domingos; na zona rural, veículos da Secretaria de Educação
+
+### Biritiba Mirim (SP)
+
+Ainda não há tarifa de ônibus conferida para Biritiba Mirim (SP) na Tarifaoteca da Otimiza.pro.
+
+Fonte (página oficial): https://doe.sp.gov.br/executivo/secretaria-dos-transportes-metropolitanos/resolucao-n-18-de-30-de-dezembro-de-2025-20260102113912201553314
+
+Integração em Biritiba Mirim: Paga a tarifa do primeiro modal pelo TOP ou BOM e tem redução de R$ 1,50 na tarifa do segundo modal, em até três horas. Diferenciação tarifária: com vale-transporte, a integração do ônibus intermunicipal da ARTESP com o Metrô e a CPTM custa R$ 0,52 a mais que com a tarifa comum. O ônibus cobra a mesma tarifa comum de cada linha, mas o trilho integrado sai por R$ 4,42 com vale-transporte (R$ 5,92 menos a redução de R$ 1,50), contra R$ 3,90 com a tarifa comum (R$ 5,40 menos a mesma redução).
 
 ### Boituva (SP)
 
@@ -5060,6 +5180,8 @@ Fonte (página oficial): https://www.caieiras.sp.gov.br/internetfiles/front/1298
 
 Vale-transporte em Caieiras: cartão BEM VT (Vale-Transporte); emitido por BEM Caieiras (bilhetagem das linhas municipais operadas pela Viação Caieiras); canal de compra da empresa: Loja Virtual BEM VT, só pela internet, com CNPJ e senha (Pedidos, Incluir) e pagamento por boleto bancário; a recarga é embarcada, no validador do ônibus; liberação do crédito: Primeiro cartão retirado pela empresa no posto da Av. Professor Carvalho Pinto, 207, no 5º dia útil após o pagamento do boleto, e liberado no dia seguinte à confirmação do recebimento na Loja Virtual; taxa na compra: Desde 01/07/2022, cobrança do valor de uma tarifa e meia vigente no dia da compra do VT, por cartão recarregado (R$ 9,00 por cartão com a tarifa de R$ 6,00), na Loja Virtual BEM VT.
 
+Integração em Caieiras: Paga a tarifa do primeiro modal pelo TOP ou BOM e tem redução de R$ 1,50 na tarifa do segundo modal, em até três horas. Diferenciação tarifária: com vale-transporte, a integração do ônibus intermunicipal da ARTESP com o Metrô e a CPTM custa R$ 0,52 a mais que com a tarifa comum. O ônibus cobra a mesma tarifa comum de cada linha, mas o trilho integrado sai por R$ 4,42 com vale-transporte (R$ 5,92 menos a redução de R$ 1,50), contra R$ 3,90 com a tarifa comum (R$ 5,40 menos a mesma redução).
+
 ### Cajamar (SP)
 
 Em Cajamar (SP), a passagem de ônibus custa R$ 5,10 desde 22/03/2026, conforme Decreto nº 7.691/2026; valor conferido em 18/10/2026 pela Tarifaoteca da Otimiza.pro.
@@ -5074,7 +5196,7 @@ BEM Vale-Transporte (linhas municipais de Cajamar): cobre linhas municipais de �
 
 TOP Vale-Transporte (ônibus metropolitanos e trilhos da Grande São Paulo): cobre ônibus intermunicipais metropolitanos da Região Metropolitana de São Paulo (regulados pela ARTESP; o site da EMTU redireciona para a ARTESP), Metrô e trens metropolitanos; cartão TOP Vale-Transporte; emitido por Autopass (TOP); canal de compra da empresa: No site do TOP (boradetop.com.br), o item Vale-transporte da seção Para empresas leva ao cadastro da ViaNova Autopass (https://cadastro.portalvianova.com.br/cliente-cadastro/cliente-novo-cadastro-1.php), que vende VT com boleto único; a empresa cadastra os colaboradores por planilha Excel ou integração com o ERP, e a ViaNova emite a primeira via para quem ainda não tem cartão; liberação do crédito: a ViaNova permite programar a data de liberação dos créditos.
 
-Integração em Cajamar: Com o Bilhete Único Cajamar, o passageiro troca de linha pagando uma só tarifa (notícia da Prefeitura de 15/02/2022, quando começou o sistema de 12 linhas). A janela de tempo não é publicada, e a regra não aparece nas páginas atuais do BEM Cajamar (consultadas em 2026-10-18).
+Integração em Cajamar: Com o Bilhete Único Cajamar, o passageiro troca de linha pagando uma só tarifa (notícia da Prefeitura de 15/02/2022, quando começou o sistema de 12 linhas). A janela de tempo não é publicada, e a regra não aparece nas páginas atuais do BEM Cajamar (consultadas em 2026-10-18). Paga a tarifa do primeiro modal pelo TOP ou BOM e tem redução de R$ 1,50 na tarifa do segundo modal, em até três horas. Diferenciação tarifária: com vale-transporte, a integração do ônibus intermunicipal da ARTESP com o Metrô e a CPTM custa R$ 0,52 a mais que com a tarifa comum. O ônibus cobra a mesma tarifa comum de cada linha, mas o trilho integrado sai por R$ 4,42 com vale-transporte (R$ 5,92 menos a redução de R$ 1,50), contra R$ 3,90 com a tarifa comum (R$ 5,40 menos a mesma redução).
 
 Tarifa zero em Cajamar: Ônibus municipais gratuitos para os eleitores em 04/10/2026 e, se houver 2º turno, em 25/10/2026, com frequência de dia útil
 
@@ -5164,6 +5286,8 @@ ONpag VT de Carapicuíba: cobre ônibus municipais de Carapicuíba; cartão ONpa
 
 TOP Vale-Transporte (ônibus metropolitanos e trilhos da Grande São Paulo): cobre ônibus intermunicipais metropolitanos da Região Metropolitana de São Paulo (regulados pela ARTESP; o site da EMTU redireciona para a ARTESP), Metrô e trens metropolitanos; cartão TOP Vale-Transporte; emitido por Autopass (TOP); canal de compra da empresa: No site do TOP (boradetop.com.br), o item Vale-transporte da seção Para empresas leva ao cadastro da ViaNova Autopass (https://cadastro.portalvianova.com.br/cliente-cadastro/cliente-novo-cadastro-1.php), que vende VT com boleto único; a empresa cadastra os colaboradores por planilha Excel ou integração com o ERP, e a ViaNova emite a primeira via para quem ainda não tem cartão; liberação do crédito: a ViaNova permite programar a data de liberação dos créditos.
 
+Integração em Carapicuíba: Paga a tarifa do primeiro modal pelo TOP ou BOM e tem redução de R$ 1,50 na tarifa do segundo modal, em até três horas. Diferenciação tarifária: com vale-transporte, a integração do ônibus intermunicipal da ARTESP com o Metrô e a CPTM custa R$ 0,52 a mais que com a tarifa comum. O ônibus cobra a mesma tarifa comum de cada linha, mas o trilho integrado sai por R$ 4,42 com vale-transporte (R$ 5,92 menos a redução de R$ 1,50), contra R$ 3,90 com a tarifa comum (R$ 5,40 menos a mesma redução).
+
 ### Catanduva (SP)
 
 Em Catanduva (SP), a passagem de ônibus custa R$ 4,00, segundo a publicação oficial (Prefeitura de Catanduva, página Transporte Coletivo, atualização de 03/02/2026); valor conferido em 18/10/2026 pela Tarifaoteca da Otimiza.pro.
@@ -5210,6 +5334,8 @@ Fonte (página oficial): https://cotia.sp.gov.br/entenda-como-funciona-o-custeio
 
 Vale-transporte em Cotia: cartão de vale-transporte; emitido por Viação Raposo Tavares; validade dos créditos: créditos adquiridos antes do decreto continuam debitados a R$ 5,30 por viagem.
 
+Integração em Cotia: Paga a tarifa do primeiro modal pelo TOP ou BOM e tem redução de R$ 1,50 na tarifa do segundo modal, em até três horas. Diferenciação tarifária: com vale-transporte, a integração do ônibus intermunicipal da ARTESP com o Metrô e a CPTM custa R$ 0,52 a mais que com a tarifa comum. O ônibus cobra a mesma tarifa comum de cada linha, mas o trilho integrado sai por R$ 4,42 com vale-transporte (R$ 5,92 menos a redução de R$ 1,50), contra R$ 3,90 com a tarifa comum (R$ 5,40 menos a mesma redução).
+
 Tarifa zero em Cotia: Tarifa Zero Inclusiva aos domingos: gratuidade em todas as linhas municipais de ônibus durante todo o domingo, sem cadastro nem cartão específico; não vale nas linhas intermunicipais e não altera as gratuidades já previstas na legislação
 
 ### Cruzeiro (SP)
@@ -5252,11 +5378,11 @@ Página da cidade: https://otimizapro.com/tarifa/sp/diadema
 
 Em 2021, o sistema de ônibus de Diadema (SP) levou 13 milhões de passageiros, segundo dados declarados pelo município à Pesquisa Nacional de Mobilidade Urbana (PEMOB), do governo federal. A idade média da frota de ônibus era de 6,4 anos em 2021. Dados consolidados pela Tarifaoteca da Otimiza.pro.
 
-Fonte (ato oficial reproduzido): https://soudiadema.com.br/tarifa/
+Fonte (página oficial): https://doe.sp.gov.br/executivo/secretaria-dos-transportes-metropolitanos/resolucao-n-24-de-30-de-dezembro-de-2025-20251230113912201552256
 
 Vale-transporte em Diadema: cartão SOU + Diadema Vale Transporte; canal de compra da empresa: Loja virtual Buspay (valetransporte.buspay.com.br) e pontos de venda; taxa na compra: 2ª via do cartão: R$ 37,50.
 
-Integração em Diadema: Integração temporal fora dos terminais por 50 minutos a partir do débito da passagem, para outra linha da mesma grade de integração; também há integração nos terminais Diadema e Piraporinha. O Diário do Grande ABC (06/01/2026) citou 60 minutos em dias úteis e sábados e 90 minutos em domingos e feriados, exceto mesma linha nos dois sentidos
+Integração em Diadema: Integração temporal fora dos terminais por 50 minutos a partir do débito da passagem, para outra linha da mesma grade de integração; também há integração nos terminais Diadema e Piraporinha. O Diário do Grande ABC (06/01/2026) citou 60 minutos em dias úteis e sábados e 90 minutos em domingos e feriados, exceto mesma linha nos dois sentidos. Paga a tarifa do primeiro modal pelo TOP ou BOM e tem redução de R$ 1,50 na tarifa do segundo modal, em até três horas. Diferenciação tarifária: com vale-transporte, a integração do ônibus intermunicipal da ARTESP com o Metrô e a CPTM custa R$ 0,52 a mais que com a tarifa comum. O ônibus cobra a mesma tarifa comum de cada linha, mas o trilho integrado sai por R$ 4,42 com vale-transporte (R$ 5,92 menos a redução de R$ 1,50), contra R$ 3,90 com a tarifa comum (R$ 5,40 menos a mesma redução).
 
 ### Dracena (SP)
 
@@ -5274,6 +5400,8 @@ Página da cidade: https://otimizapro.com/tarifa/sp/embu-das-artes
 
 Fonte (ato oficial reproduzido): https://www.taboaoemfoco.com.br/wp-content/uploads/2025/12/Tarifa-de-Onibus-2026-Embu-das-Artes.pdf
 
+Integração em Embu das Artes: Paga a tarifa do primeiro modal pelo TOP ou BOM e tem redução de R$ 1,50 na tarifa do segundo modal, em até três horas. Diferenciação tarifária: com vale-transporte, a integração do ônibus intermunicipal da ARTESP com o Metrô e a CPTM custa R$ 0,52 a mais que com a tarifa comum. O ônibus cobra a mesma tarifa comum de cada linha, mas o trilho integrado sai por R$ 4,42 com vale-transporte (R$ 5,92 menos a redução de R$ 1,50), contra R$ 3,90 com a tarifa comum (R$ 5,40 menos a mesma redução).
+
 ### Embu-Guaçu (SP)
 
 Em Embu-Guaçu (SP), a passagem de ônibus custa R$ 4,50 desde 01/07/2025, conforme Decreto nº 3.320/2025; valor conferido em 04/11/2026 pela Tarifaoteca da Otimiza.pro.
@@ -5281,6 +5409,8 @@ Em Embu-Guaçu (SP), a passagem de ônibus custa R$ 4,50 desde 01/07/2025, confo
 Página da cidade: https://otimizapro.com/tarifa/sp/embu-guacu
 
 Fonte (página oficial): https://ecrie.com.br/Sistema/Conteudos/DiarioOficial/upload/ASS_u_7_12062025082940.pdf
+
+Integração em Embu-Guaçu: Paga a tarifa do primeiro modal pelo TOP ou BOM e tem redução de R$ 1,50 na tarifa do segundo modal, em até três horas. Diferenciação tarifária: com vale-transporte, a integração do ônibus intermunicipal da ARTESP com o Metrô e a CPTM custa R$ 0,52 a mais que com a tarifa comum. O ônibus cobra a mesma tarifa comum de cada linha, mas o trilho integrado sai por R$ 4,42 com vale-transporte (R$ 5,92 menos a redução de R$ 1,50), contra R$ 3,90 com a tarifa comum (R$ 5,40 menos a mesma redução).
 
 ### Espírito Santo do Pinhal (SP)
 
@@ -5316,6 +5446,8 @@ ONpag VT de Ferraz de Vasconcelos: cobre ônibus municipais de Ferraz de Vasconc
 
 TOP Vale-Transporte (ônibus metropolitanos e trilhos da Grande São Paulo): cobre ônibus intermunicipais metropolitanos da Região Metropolitana de São Paulo (regulados pela ARTESP; o site da EMTU redireciona para a ARTESP), Metrô e trens metropolitanos; cartão TOP Vale-Transporte; emitido por Autopass (TOP); canal de compra da empresa: No site do TOP (boradetop.com.br), o item Vale-transporte da seção Para empresas leva ao cadastro da ViaNova Autopass (https://cadastro.portalvianova.com.br/cliente-cadastro/cliente-novo-cadastro-1.php), que vende VT com boleto único; a empresa cadastra os colaboradores por planilha Excel ou integração com o ERP, e a ViaNova emite a primeira via para quem ainda não tem cartão; liberação do crédito: a ViaNova permite programar a data de liberação dos créditos.
 
+Integração em Ferraz de Vasconcelos: Paga a tarifa do primeiro modal pelo TOP ou BOM e tem redução de R$ 1,50 na tarifa do segundo modal, em até três horas. Diferenciação tarifária: com vale-transporte, a integração do ônibus intermunicipal da ARTESP com o Metrô e a CPTM custa R$ 0,52 a mais que com a tarifa comum. O ônibus cobra a mesma tarifa comum de cada linha, mas o trilho integrado sai por R$ 4,42 com vale-transporte (R$ 5,92 menos a redução de R$ 1,50), contra R$ 3,90 com a tarifa comum (R$ 5,40 menos a mesma redução).
+
 Tarifa zero em Ferraz de Vasconcelos: Ônibus municipais gratuitos aos domingos e feriados (Programa Gratuidade do Transporte Público Coletivo Urbano)
 
 ### Franca (SP)
@@ -5346,6 +5478,8 @@ ONpag VT de Francisco Morato: cobre ônibus municipais de Francisco Morato; cart
 
 TOP Vale-Transporte (ônibus metropolitanos e trilhos da Grande São Paulo): cobre ônibus intermunicipais metropolitanos da Região Metropolitana de São Paulo (regulados pela ARTESP; o site da EMTU redireciona para a ARTESP), Metrô e trens metropolitanos; cartão TOP Vale-Transporte; emitido por Autopass (TOP); canal de compra da empresa: No site do TOP (boradetop.com.br), o item Vale-transporte da seção Para empresas leva ao cadastro da ViaNova Autopass (https://cadastro.portalvianova.com.br/cliente-cadastro/cliente-novo-cadastro-1.php), que vende VT com boleto único; a empresa cadastra os colaboradores por planilha Excel ou integração com o ERP, e a ViaNova emite a primeira via para quem ainda não tem cartão; liberação do crédito: a ViaNova permite programar a data de liberação dos créditos.
 
+Integração em Francisco Morato: Paga a tarifa do primeiro modal pelo TOP ou BOM e tem redução de R$ 1,50 na tarifa do segundo modal, em até três horas. Diferenciação tarifária: com vale-transporte, a integração do ônibus intermunicipal da ARTESP com o Metrô e a CPTM custa R$ 0,52 a mais que com a tarifa comum. O ônibus cobra a mesma tarifa comum de cada linha, mas o trilho integrado sai por R$ 4,42 com vale-transporte (R$ 5,92 menos a redução de R$ 1,50), contra R$ 3,90 com a tarifa comum (R$ 5,40 menos a mesma redução).
+
 ### Franco da Rocha (SP)
 
 Em Franco da Rocha (SP), a passagem de ônibus custa R$ 6,00 desde 16/02/2026, segundo a imprensa (Diário do Transporte, 16/02/2026); valor conferido em 17/10/2026 pela Tarifaoteca da Otimiza.pro.
@@ -5359,6 +5493,8 @@ Vale-transporte em Franco da Rocha: a empresa compra em 2 sistemas, BEM Vale-Tra
 BEM Vale-Transporte (linhas municipais de Franco da Rocha): cobre ônibus municipais de Franco da Rocha; cartão BEM Vale-Transporte (BEM VT); emitido por Cidade das Caieiras (BEM Franco da Rocha); canal de compra da empresa: Loja Virtual BEM VT (salesclient.bemfrancodarocha.com.br), sempre pela internet: a empresa cadastra a si e aos funcionários e inclui os pedidos com CNPJ e senha; a 1ª via é retirada no posto de recarga com carta da empresa; o funcionário carrega o crédito no validador do ônibus.; taxa na compra: Uma tarifa e meia vigente no dia da compra do VT, por cartão recarregado, desde 01/07/2022 (Loja Virtual BEM VT, único canal); com a tarifa de R$ 6,00, R$ 9,00 por cartão (https://www.bemfrancodarocha.com.br/perguntas-frequentes/).
 
 TOP Vale-Transporte (ônibus metropolitanos e trilhos da Grande São Paulo): cobre ônibus intermunicipais metropolitanos da Região Metropolitana de São Paulo (regulados pela ARTESP; o site da EMTU redireciona para a ARTESP), Metrô e trens metropolitanos; cartão TOP Vale-Transporte; emitido por Autopass (TOP); canal de compra da empresa: No site do TOP (boradetop.com.br), o item Vale-transporte da seção Para empresas leva ao cadastro da ViaNova Autopass (https://cadastro.portalvianova.com.br/cliente-cadastro/cliente-novo-cadastro-1.php), que vende VT com boleto único; a empresa cadastra os colaboradores por planilha Excel ou integração com o ERP, e a ViaNova emite a primeira via para quem ainda não tem cartão; liberação do crédito: a ViaNova permite programar a data de liberação dos créditos.
+
+Integração em Franco da Rocha: Paga a tarifa do primeiro modal pelo TOP ou BOM e tem redução de R$ 1,50 na tarifa do segundo modal, em até três horas. Diferenciação tarifária: com vale-transporte, a integração do ônibus intermunicipal da ARTESP com o Metrô e a CPTM custa R$ 0,52 a mais que com a tarifa comum. O ônibus cobra a mesma tarifa comum de cada linha, mas o trilho integrado sai por R$ 4,42 com vale-transporte (R$ 5,92 menos a redução de R$ 1,50), contra R$ 3,90 com a tarifa comum (R$ 5,40 menos a mesma redução).
 
 ### Garça (SP)
 
@@ -5377,6 +5513,8 @@ Em Guararema (SP), o ônibus é gratuito (tarifa zero) desde 01/01/2025, segundo
 Página da cidade: https://otimizapro.com/tarifa/sp/guararema
 
 Fonte (página oficial): https://guararema.sp.gov.br/noticias/seguranca-publica-e-transporte/onibus-de-guararema-terao-horarios-de-dias-uteis-no-segundo-turno-das-eleicoes-1
+
+Integração em Guararema: Paga a tarifa do primeiro modal pelo TOP ou BOM e tem redução de R$ 1,50 na tarifa do segundo modal, em até três horas. Diferenciação tarifária: com vale-transporte, a integração do ônibus intermunicipal da ARTESP com o Metrô e a CPTM custa R$ 0,52 a mais que com a tarifa comum. O ônibus cobra a mesma tarifa comum de cada linha, mas o trilho integrado sai por R$ 4,42 com vale-transporte (R$ 5,92 menos a redução de R$ 1,50), contra R$ 3,90 com a tarifa comum (R$ 5,40 menos a mesma redução).
 
 Tarifa zero em Guararema: Ônibus municipais gratuitos para todos os passageiros, sem cartão nem comprovante de residência (Programa Guararema Sem Pagar), custeados pela Prefeitura; o cartão gratuito é exigido só dos estudantes das redes municipal e estadual, nas linhas escolares.
 
@@ -5416,7 +5554,7 @@ Fonte (página oficial): https://www.guarulhos.sp.gov.br/diario-oficial/uploads/
 
 Vale-transporte em Guarulhos: cartão Bilhete Único Vale-Transporte (Guarupass); emitido por Guarupass, Associação das Concessionárias de Transporte de Guarulhos; canal de compra da empresa: Sistema VT Guarupass (guarupass.com.br/valetransporte).
 
-Integração em Guarulhos: Bilhete Único: quantas viagens forem necessárias em até 2 horas contadas da primeira validação, entre quaisquer linhas municipais, na ida ou na volta, com limite de 4 veículos. Pagamento em dinheiro não integra.
+Integração em Guarulhos: Bilhete Único: quantas viagens forem necessárias em até 2 horas contadas da primeira validação, entre quaisquer linhas municipais, na ida ou na volta, com limite de 4 veículos. Pagamento em dinheiro não integra. Paga a tarifa do primeiro modal pelo TOP ou BOM e tem redução de R$ 1,50 na tarifa do segundo modal, em até três horas. Diferenciação tarifária: com vale-transporte, a integração do ônibus intermunicipal da ARTESP com o Metrô e a CPTM custa R$ 0,52 a mais que com a tarifa comum. O ônibus cobra a mesma tarifa comum de cada linha, mas o trilho integrado sai por R$ 4,42 com vale-transporte (R$ 5,92 menos a redução de R$ 1,50), contra R$ 3,90 com a tarifa comum (R$ 5,40 menos a mesma redução).
 
 ### Holambra (SP)
 
@@ -5516,6 +5654,8 @@ Página da cidade: https://otimizapro.com/tarifa/sp/itapecerica-da-serra
 
 Fonte (página oficial): https://www.itapecerica.sp.gov.br/noticias/financas/transporte-para-todos-vai-oferecer-onibus-gratuito-na-cidade-aos-finais-de-semana-e-feriados
 
+Integração em Itapecerica da Serra: Paga a tarifa do primeiro modal pelo TOP ou BOM e tem redução de R$ 1,50 na tarifa do segundo modal, em até três horas. Diferenciação tarifária: com vale-transporte, a integração do ônibus intermunicipal da ARTESP com o Metrô e a CPTM custa R$ 0,52 a mais que com a tarifa comum. O ônibus cobra a mesma tarifa comum de cada linha, mas o trilho integrado sai por R$ 4,42 com vale-transporte (R$ 5,92 menos a redução de R$ 1,50), contra R$ 3,90 com a tarifa comum (R$ 5,40 menos a mesma redução).
+
 Tarifa zero em Itapecerica da Serra: Ônibus municipais gratuitos aos sábados, domingos e feriados (Transporte Para Todos)
 
 ### Itapetininga (SP)
@@ -5552,7 +5692,7 @@ Benfácil Vale-Transporte, produto Itapevi (ônibus municipais de Itapevi): cobr
 
 TOP Vale-Transporte (ônibus metropolitanos e trilhos da Grande São Paulo): cobre ônibus intermunicipais metropolitanos da Região Metropolitana de São Paulo (regulados pela ARTESP; o site da EMTU redireciona para a ARTESP), Metrô e trens metropolitanos; cartão TOP Vale-Transporte; emitido por Autopass (TOP); canal de compra da empresa: No site do TOP (boradetop.com.br), o item Vale-transporte da seção Para empresas leva ao cadastro da ViaNova Autopass (https://cadastro.portalvianova.com.br/cliente-cadastro/cliente-novo-cadastro-1.php), que vende VT com boleto único; a empresa cadastra os colaboradores por planilha Excel ou integração com o ERP, e a ViaNova emite a primeira via para quem ainda não tem cartão; liberação do crédito: a ViaNova permite programar a data de liberação dos créditos.
 
-Integração em Itapevi: Com o Cartão Benfácil, troca de ônibus no Terminal pagando uma só passagem, nas linhas pré-estabelecidas; quem tem o Cartão Benfácil Comum ou Vale-Transporte paga a tarifa integrada ônibus/CPTM de R$ 10,00 desde 06/01/2026. A janela de tempo não é publicada.
+Integração em Itapevi: Com o Cartão Benfácil, troca de ônibus no Terminal pagando uma só passagem, nas linhas pré-estabelecidas; quem tem o Cartão Benfácil Comum ou Vale-Transporte paga a tarifa integrada ônibus/CPTM de R$ 10,00 desde 06/01/2026. A janela de tempo não é publicada. Paga a tarifa do primeiro modal pelo TOP ou BOM e tem redução de R$ 1,50 na tarifa do segundo modal, em até três horas. Diferenciação tarifária: com vale-transporte, a integração do ônibus intermunicipal da ARTESP com o Metrô e a CPTM custa R$ 0,52 a mais que com a tarifa comum. O ônibus cobra a mesma tarifa comum de cada linha, mas o trilho integrado sai por R$ 4,42 com vale-transporte (R$ 5,92 menos a redução de R$ 1,50), contra R$ 3,90 com a tarifa comum (R$ 5,40 menos a mesma redução).
 
 ### Itapira (SP)
 
@@ -5581,6 +5721,8 @@ Em Itaquaquecetuba (SP), a passagem de ônibus custa de R$ 6,00 a R$ 6,30 (varia
 Página da cidade: https://otimizapro.com/tarifa/sp/itaquaquecetuba
 
 Fonte (página oficial): https://www.itaquaquecetuba.sp.gov.br/diario-oficial/documento.php?id=17244
+
+Integração em Itaquaquecetuba: Paga a tarifa do primeiro modal pelo TOP ou BOM e tem redução de R$ 1,50 na tarifa do segundo modal, em até três horas. Diferenciação tarifária: com vale-transporte, a integração do ônibus intermunicipal da ARTESP com o Metrô e a CPTM custa R$ 0,52 a mais que com a tarifa comum. O ônibus cobra a mesma tarifa comum de cada linha, mas o trilho integrado sai por R$ 4,42 com vale-transporte (R$ 5,92 menos a redução de R$ 1,50), contra R$ 3,90 com a tarifa comum (R$ 5,40 menos a mesma redução).
 
 ### Itararé (SP)
 
@@ -5694,7 +5836,7 @@ Cartão Benfácil Empresa (Vale-Transporte), Passe Integrado Benfácil, Jandira:
 
 TOP Vale-Transporte (ônibus metropolitanos da EMTU e trilhos da Grande São Paulo): cobre ônibus intermunicipais metropolitanos da EMTU e trens da CPTM e do Metrô: o mesmo Cartão TOP Vale-Transporte, comprado no mesmo cadastro, cobre os dois sistemas; cartão TOP Vale-Transporte; emitido por Autopass S.A. (TOP); a venda do VT às empresas é feita pela ViaNova, do grupo Autopass; canal de compra da empresa: No site do TOP (boradetop.com.br), o item Vale-transporte de Para empresas leva ao cadastro da ViaNova Autopass (cadastro.portalvianova.com.br), com pedido pela internet e boleto único; a empresa cadastra os colaboradores por planilha Excel ou integração com o ERP, e a ViaNova emite a primeira via do cartão para quem ainda não tem VT; liberação do crédito: a ViaNova permite programar a data de liberação dos créditos; taxa na compra: 4% sobre o valor do VT do sistema metropolitano comprado pelas empresas, segundo a imprensa (Diário do Transporte, 21/02/2022, aberto em 20/10/2026, sobre ação judicial contra a ViaNova, a EMTU, a Autopass e o CMT); o percentual atual não é publicado no site do TOP nem no da ViaNova.
 
-Integração em Jandira: Quem tem o Cartão Benfácil Comum ou o Vale-Transporte paga a tarifa integrada com desconto na integração ônibus e trem da CPTM: R$ 10,00 a partir de 06/01/2026. O site não separa o valor por município.
+Integração em Jandira: Quem tem o Cartão Benfácil Comum ou o Vale-Transporte paga a tarifa integrada com desconto na integração ônibus e trem da CPTM: R$ 10,00 a partir de 06/01/2026. O site não separa o valor por município. Paga a tarifa do primeiro modal pelo TOP ou BOM e tem redução de R$ 1,50 na tarifa do segundo modal, em até três horas. Diferenciação tarifária: com vale-transporte, a integração do ônibus intermunicipal da ARTESP com o Metrô e a CPTM custa R$ 0,52 a mais que com a tarifa comum. O ônibus cobra a mesma tarifa comum de cada linha, mas o trilho integrado sai por R$ 4,42 com vale-transporte (R$ 5,92 menos a redução de R$ 1,50), contra R$ 3,90 com a tarifa comum (R$ 5,40 menos a mesma redução).
 
 ### Jardinópolis (SP)
 
@@ -5747,6 +5889,14 @@ Em 2021, o sistema de ônibus de Jundiaí (SP) levou 17 milhões de passageiros,
 Fonte (página oficial): https://jundiai.sp.gov.br/mobilidade/indicadores-e-informacoes/transporte-coletivo/
 
 Vale-transporte em Jundiaí: cartão Bilhete Único Vale Transporte; taxa na compra: Loja Virtual: taxa de conveniência de até 2,00% sobre o valor total de cada pedido pago, com mínimo de R$ 3,90 por pedido (item 5.5 do Termo de Adesão e Uso, de 23/11/2020) (http://vt.cartaosim.com.br/wfm_Contract.aspx).
+
+### Juquitiba (SP)
+
+Ainda não há tarifa de ônibus conferida para Juquitiba (SP) na Tarifaoteca da Otimiza.pro.
+
+Fonte (página oficial): https://doe.sp.gov.br/executivo/secretaria-dos-transportes-metropolitanos/resolucao-n-18-de-30-de-dezembro-de-2025-20260102113912201553314
+
+Integração em Juquitiba: Paga a tarifa do primeiro modal pelo TOP ou BOM e tem redução de R$ 1,50 na tarifa do segundo modal, em até três horas. Diferenciação tarifária: com vale-transporte, a integração do ônibus intermunicipal da ARTESP com o Metrô e a CPTM custa R$ 0,52 a mais que com a tarifa comum. O ônibus cobra a mesma tarifa comum de cada linha, mas o trilho integrado sai por R$ 4,42 com vale-transporte (R$ 5,92 menos a redução de R$ 1,50), contra R$ 3,90 com a tarifa comum (R$ 5,40 menos a mesma redução).
 
 ### Laranjal Paulista (SP)
 
@@ -5846,6 +5996,8 @@ Fonte (página oficial): https://www.mairipora.sp.gov.br/wp-content/uploads/2026
 
 Vale-transporte em Mairiporã: cartão TOP Vale-Transporte (antigo Cartão BOM Vale-Transporte); emitido por Autopass (TOP); a venda do VT às empresas é feita pela ViaNova, do grupo Autopass, e o pedido de crédito vai ao CMT (Consórcio Metropolitano de Transportes); canal de compra da empresa: Pela internet, no portal da ViaNova (a página de vale-transporte da EMTU, na seção Empregador da Região Metropolitana de São Paulo, aponta o link da ViaNova); o empregador emite o pedido de crédito ao CMT, e o trabalhador carrega os créditos no validador dentro do ônibus (recarga embarcada); liberação do crédito: até 2 dias úteis após a compensação do pagamento na conta do CMT (página de vale-transporte da EMTU para São Paulo); taxa na compra: 4% sobre o valor do VT do sistema metropolitano comprado pelas empresas, segundo a imprensa (Diário do Transporte, 21/02/2022), como registrado na rodada 14 para Poá, Ribeirão Pires e Jandira; o percentual atual não é publicado pela EMTU nem pela ViaNova.
 
+Integração em Mairiporã: Paga a tarifa do primeiro modal pelo TOP ou BOM e tem redução de R$ 1,50 na tarifa do segundo modal, em até três horas. Diferenciação tarifária: com vale-transporte, a integração do ônibus intermunicipal da ARTESP com o Metrô e a CPTM custa R$ 0,52 a mais que com a tarifa comum. O ônibus cobra a mesma tarifa comum de cada linha, mas o trilho integrado sai por R$ 4,42 com vale-transporte (R$ 5,92 menos a redução de R$ 1,50), contra R$ 3,90 com a tarifa comum (R$ 5,40 menos a mesma redução).
+
 ### Marília (SP)
 
 Em Marília (SP), a passagem de ônibus custa R$ 5,75 desde 02/05/2024, conforme Decisão judicial de 2ª instância no processo nº 1003391-44.2024.8.26.0344; valor conferido em 17/10/2026 pela Tarifaoteca da Otimiza.pro.
@@ -5874,9 +6026,11 @@ Página da cidade: https://otimizapro.com/tarifa/sp/maua
 
 Em Mauá (SP), a idade média da frota de ônibus era de 4 anos em 2021. Dados consolidados pela Tarifaoteca da Otimiza.pro.
 
-Fonte (página oficial): https://dom.maua.sp.gov.br/public/docs/8920d8a5ff3fe962120561b9a7a347e8.pdf
+Fonte (página oficial): https://doe.sp.gov.br/executivo/secretaria-dos-transportes-metropolitanos/resolucao-n-24-de-30-de-dezembro-de-2025-20251230113912201552256
 
 Vale-transporte em Mauá: cartão Vale-Transporte no Cartão SIM; emitido por Suzantur (BusFácil).
+
+Integração em Mauá: Paga a tarifa do primeiro modal pelo TOP ou BOM e tem redução de R$ 1,50 na tarifa do segundo modal, em até três horas. Diferenciação tarifária: com vale-transporte, a integração do ônibus intermunicipal da ARTESP com o Metrô e a CPTM custa R$ 0,52 a mais que com a tarifa comum. O ônibus cobra a mesma tarifa comum de cada linha, mas o trilho integrado sai por R$ 4,42 com vale-transporte (R$ 5,92 menos a redução de R$ 1,50), contra R$ 3,90 com a tarifa comum (R$ 5,40 menos a mesma redução).
 
 ### Mococa (SP)
 
@@ -5903,6 +6057,8 @@ Vale-transporte em Mogi das Cruzes: a empresa compra em 2 sistemas, Mogi Passes 
 Mogi Passes Vale-Transporte: cobre ônibus municipais de Mogi das Cruzes; cartão Vale-Transporte da Mogi Passes; emitido por Mogi Passes, que gerencia e vende os bilhetes eletrônicos para as concessionárias do transporte municipal; canal de compra da empresa: A empresa solicita a compra de créditos eletrônicos à Mogi Passes, com recarga a bordo no validador e consulta do uso dos cartões nos últimos 30 dias; a página não indica portal, link ou procedimento de compra. A Mogi Passes tem 20 pontos de atendimento..
 
 TOP Vale-Transporte (ônibus metropolitanos e trilhos da Grande São Paulo): cobre ônibus intermunicipais metropolitanos da Região Metropolitana de São Paulo (regulados pela ARTESP; o site da EMTU redireciona para a ARTESP), Metrô e trens metropolitanos; cartão TOP Vale-Transporte; emitido por Autopass (TOP); canal de compra da empresa: No site do TOP (boradetop.com.br), o item Vale-transporte da seção Para empresas leva ao cadastro da ViaNova Autopass (https://cadastro.portalvianova.com.br/cliente-cadastro/cliente-novo-cadastro-1.php), que vende VT com boleto único; a empresa cadastra os colaboradores por planilha Excel ou integração com o ERP, e a ViaNova emite a primeira via para quem ainda não tem cartão; liberação do crédito: a ViaNova permite programar a data de liberação dos créditos.
+
+Integração em Mogi das Cruzes: Paga a tarifa do primeiro modal pelo TOP ou BOM e tem redução de R$ 1,50 na tarifa do segundo modal, em até três horas. Diferenciação tarifária: com vale-transporte, a integração do ônibus intermunicipal da ARTESP com o Metrô e a CPTM custa R$ 0,52 a mais que com a tarifa comum. O ônibus cobra a mesma tarifa comum de cada linha, mas o trilho integrado sai por R$ 4,42 com vale-transporte (R$ 5,92 menos a redução de R$ 1,50), contra R$ 3,90 com a tarifa comum (R$ 5,40 menos a mesma redução).
 
 ### Mogi Guaçu (SP)
 
@@ -6011,6 +6167,8 @@ Em 2021, o sistema de ônibus de Osasco (SP) levou 18 milhões de passageiros, s
 Fonte (página oficial): https://osasco.sp.gov.br/wp-content/uploads/2025/12/iomo-2945.pdf
 
 Vale-transporte em Osasco: cartão BEM Vale-Transporte; emitido por BEM (Bilhete Eletrônico Municipal de Osasco); canal de compra da empresa: Loja Virtual BEM VT (salesclient.bemosasco.com.br), pagamento por boleto no valor total; 1ª via retirada no posto da Av. Presidente Médici, 1340; liberação do crédito: Cartão liberado para uso no dia seguinte à confirmação de recebimento pela empresa na Loja Virtual; taxa na compra: Desde 01/07/2022, uma tarifa e meia vigente por cartão recarregado na compra do VT.
+
+Integração em Osasco: Paga a tarifa do primeiro modal pelo TOP ou BOM e tem redução de R$ 1,50 na tarifa do segundo modal, em até três horas. Diferenciação tarifária: com vale-transporte, a integração do ônibus intermunicipal da ARTESP com o Metrô e a CPTM custa R$ 0,52 a mais que com a tarifa comum. O ônibus cobra a mesma tarifa comum de cada linha, mas o trilho integrado sai por R$ 4,42 com vale-transporte (R$ 5,92 menos a redução de R$ 1,50), contra R$ 3,90 com a tarifa comum (R$ 5,40 menos a mesma redução).
 
 ### Ourinhos (SP)
 
@@ -6124,6 +6282,14 @@ Fonte (página oficial): https://diariooficialnovo.jelastic.saveincloud.net/diar
 
 Vale-transporte em Piraju: cartão vale-transporte comercializado pela empresa contratada (o edital não nomeia o cartão); emitido por a empresa contratada para o transporte coletivo urbano, hoje a Rodrigo F. Martine Empreendimentos Ltda. ME (Pregão Eletrônico nº 06/2026), pelo termo de referência do edital.
 
+### Pirapora do Bom Jesus (SP)
+
+Ainda não há tarifa de ônibus conferida para Pirapora do Bom Jesus (SP) na Tarifaoteca da Otimiza.pro.
+
+Fonte (página oficial): https://doe.sp.gov.br/executivo/secretaria-dos-transportes-metropolitanos/resolucao-n-18-de-30-de-dezembro-de-2025-20260102113912201553314
+
+Integração em Pirapora do Bom Jesus: Paga a tarifa do primeiro modal pelo TOP ou BOM e tem redução de R$ 1,50 na tarifa do segundo modal, em até três horas. Diferenciação tarifária: com vale-transporte, a integração do ônibus intermunicipal da ARTESP com o Metrô e a CPTM custa R$ 0,52 a mais que com a tarifa comum. O ônibus cobra a mesma tarifa comum de cada linha, mas o trilho integrado sai por R$ 4,42 com vale-transporte (R$ 5,92 menos a redução de R$ 1,50), contra R$ 3,90 com a tarifa comum (R$ 5,40 menos a mesma redução).
+
 ### Pirassununga (SP)
 
 Em Pirassununga (SP), a passagem de ônibus custa R$ 4,76 desde 01/06/2025, conforme Decreto nº 8.892/2025; valor conferido em 20/10/2026 pela Tarifaoteca da Otimiza.pro.
@@ -6145,6 +6311,8 @@ Vale-transporte em Poá: a empresa compra em 2 sistemas, ONpag VT de Poá (ônib
 ONpag VT de Poá (ônibus municipais): cobre ônibus municipais de Poá; cartão ONpag de vale-transporte; emitido por ONpag (bilhetagem dos ônibus municipais de Poá); canal de compra da empresa: Portal ONpag de Poá (portalonpag.com.br/poa), com os botões Portal de Vendas VT (onpassvt.com.br), Portal de Consultas VT e Portal do Cliente (qaconnect.com.br); compra pela internet com cadastro da empresa; taxa na compra: O Portal ONpag de Poá e a política de privacidade do Onpass VT (onpassvt.com.br/policies/teste.html), abertos em 20/10/2026, não citam taxa; o termo de compra não está publicado..
 
 TOP Vale-Transporte (ônibus metropolitanos da EMTU e trilhos da Grande São Paulo): cobre ônibus intermunicipais metropolitanos da EMTU e trens da CPTM e do Metrô: o mesmo Cartão TOP Vale-Transporte, comprado no mesmo cadastro, cobre os dois sistemas; cartão TOP Vale-Transporte; emitido por Autopass S.A. (TOP); a venda do VT às empresas é feita pela ViaNova, do grupo Autopass; canal de compra da empresa: No site do TOP (boradetop.com.br), o item Vale-transporte de Para empresas leva ao cadastro da ViaNova Autopass (cadastro.portalvianova.com.br), com pedido pela internet e boleto único; a empresa cadastra os colaboradores por planilha Excel ou integração com o ERP, e a ViaNova emite a primeira via do cartão para quem ainda não tem VT; liberação do crédito: a ViaNova permite programar a data de liberação dos créditos; taxa na compra: 4% sobre o valor do VT do sistema metropolitano comprado pelas empresas, segundo a imprensa (Diário do Transporte, 21/02/2022, aberto em 20/10/2026, sobre ação judicial contra a ViaNova, a EMTU, a Autopass e o CMT); o percentual atual não é publicado no site do TOP nem no da ViaNova.
+
+Integração em Poá: Paga a tarifa do primeiro modal pelo TOP ou BOM e tem redução de R$ 1,50 na tarifa do segundo modal, em até três horas. Diferenciação tarifária: com vale-transporte, a integração do ônibus intermunicipal da ARTESP com o Metrô e a CPTM custa R$ 0,52 a mais que com a tarifa comum. O ônibus cobra a mesma tarifa comum de cada linha, mas o trilho integrado sai por R$ 4,42 com vale-transporte (R$ 5,92 menos a redução de R$ 1,50), contra R$ 3,90 com a tarifa comum (R$ 5,40 menos a mesma redução).
 
 Tarifa zero em Poá: Ônibus das linhas municipais sem cobrança das 7h às 19h, sem limite de uso, no 1º turno das eleições de 04/10/2026 e, havendo 2º turno, em 25/10/2026.
 
@@ -6222,6 +6390,8 @@ Cartão Busfácil Vale-Transporte (ônibus municipais de Ribeirão Pires): cobre
 
 TOP Vale-Transporte (ônibus metropolitanos da EMTU e trilhos da Grande São Paulo): cobre ônibus intermunicipais metropolitanos da EMTU e trens da CPTM e do Metrô: o mesmo Cartão TOP Vale-Transporte, comprado no mesmo cadastro, cobre os dois sistemas; cartão TOP Vale-Transporte; emitido por Autopass S.A. (TOP); a venda do VT às empresas é feita pela ViaNova, do grupo Autopass; canal de compra da empresa: No site do TOP (boradetop.com.br), o item Vale-transporte de Para empresas leva ao cadastro da ViaNova Autopass (cadastro.portalvianova.com.br), com pedido pela internet e boleto único; a empresa cadastra os colaboradores por planilha Excel ou integração com o ERP, e a ViaNova emite a primeira via do cartão para quem ainda não tem VT; liberação do crédito: a ViaNova permite programar a data de liberação dos créditos; taxa na compra: 4% sobre o valor do VT do sistema metropolitano comprado pelas empresas, segundo a imprensa (Diário do Transporte, 21/02/2022, aberto em 20/10/2026, sobre ação judicial contra a ViaNova, a EMTU, a Autopass e o CMT); o percentual atual não é publicado no site do TOP nem no da ViaNova.
 
+Integração em Ribeirão Pires: Paga a tarifa do primeiro modal pelo TOP ou BOM e tem redução de R$ 1,50 na tarifa do segundo modal, em até três horas. Diferenciação tarifária: com vale-transporte, a integração do ônibus intermunicipal da ARTESP com o Metrô e a CPTM custa R$ 0,52 a mais que com a tarifa comum. O ônibus cobra a mesma tarifa comum de cada linha, mas o trilho integrado sai por R$ 4,42 com vale-transporte (R$ 5,92 menos a redução de R$ 1,50), contra R$ 3,90 com a tarifa comum (R$ 5,40 menos a mesma redução).
+
 ### Ribeirão Preto (SP)
 
 Em Ribeirão Preto (SP), a passagem de ônibus custa R$ 5,00 desde 16/02/2022, conforme Decreto nº 026/2022; valor conferido em 17/10/2026 pela Tarifaoteca da Otimiza.pro.
@@ -6263,6 +6433,16 @@ Em Rio Grande da Serra (SP), a passagem de ônibus custa R$ 5,50 desde 01/01/202
 Página da cidade: https://otimizapro.com/tarifa/sp/rio-grande-da-serra
 
 Fonte (página oficial): https://www.dosp.com.br/exibe_do.php?i=NzU3MzA2
+
+Integração em Rio Grande da Serra: Paga a tarifa do primeiro modal pelo TOP ou BOM e tem redução de R$ 1,50 na tarifa do segundo modal, em até três horas. Diferenciação tarifária: com vale-transporte, a integração do ônibus intermunicipal da ARTESP com o Metrô e a CPTM custa R$ 0,52 a mais que com a tarifa comum. O ônibus cobra a mesma tarifa comum de cada linha, mas o trilho integrado sai por R$ 4,42 com vale-transporte (R$ 5,92 menos a redução de R$ 1,50), contra R$ 3,90 com a tarifa comum (R$ 5,40 menos a mesma redução).
+
+### Salesópolis (SP)
+
+Ainda não há tarifa de ônibus conferida para Salesópolis (SP) na Tarifaoteca da Otimiza.pro.
+
+Fonte (página oficial): https://doe.sp.gov.br/executivo/secretaria-dos-transportes-metropolitanos/resolucao-n-18-de-30-de-dezembro-de-2025-20260102113912201553314
+
+Integração em Salesópolis: Paga a tarifa do primeiro modal pelo TOP ou BOM e tem redução de R$ 1,50 na tarifa do segundo modal, em até três horas. Diferenciação tarifária: com vale-transporte, a integração do ônibus intermunicipal da ARTESP com o Metrô e a CPTM custa R$ 0,52 a mais que com a tarifa comum. O ônibus cobra a mesma tarifa comum de cada linha, mas o trilho integrado sai por R$ 4,42 com vale-transporte (R$ 5,92 menos a redução de R$ 1,50), contra R$ 3,90 com a tarifa comum (R$ 5,40 menos a mesma redução).
 
 ### Salto (SP)
 
@@ -6310,6 +6490,8 @@ Página da cidade: https://otimizapro.com/tarifa/sp/santa-isabel
 
 Fonte (imprensa): https://diariodotransporte.com.br/2023/11/22/santa-isabel-sp-tera-tarifa-de-onibus-gratuita-a-partir-de-dezembro/
 
+Integração em Santa Isabel: Paga a tarifa do primeiro modal pelo TOP ou BOM e tem redução de R$ 1,50 na tarifa do segundo modal, em até três horas. Diferenciação tarifária: com vale-transporte, a integração do ônibus intermunicipal da ARTESP com o Metrô e a CPTM custa R$ 0,52 a mais que com a tarifa comum. O ônibus cobra a mesma tarifa comum de cada linha, mas o trilho integrado sai por R$ 4,42 com vale-transporte (R$ 5,92 menos a redução de R$ 1,50), contra R$ 3,90 com a tarifa comum (R$ 5,40 menos a mesma redução).
+
 ### Santa Rita do Passa Quatro (SP)
 
 Em Santa Rita do Passa Quatro (SP), o ônibus é gratuito (tarifa zero), segundo a publicação oficial (Prefeitura da Estância Climática de Santa Rita do Passa Quatro, notícia de 17/07/2025 sobre o transporte público gratuito do município); valor conferido em 04/11/2026 pela Tarifaoteca da Otimiza.pro.
@@ -6332,6 +6514,8 @@ BEM Vale-Transporte (linhas municipais de Santana de Parnaíba): cobre linhas mu
 
 TOP Vale-Transporte (ônibus metropolitanos e trilhos da Grande São Paulo): cobre ônibus intermunicipais metropolitanos da Região Metropolitana de São Paulo (regulados pela ARTESP; o site da EMTU redireciona para a ARTESP), Metrô e trens metropolitanos; cartão TOP Vale-Transporte; emitido por Autopass (TOP); canal de compra da empresa: No site do TOP (boradetop.com.br), o item Vale-transporte da seção Para empresas leva ao cadastro da ViaNova Autopass (https://cadastro.portalvianova.com.br/cliente-cadastro/cliente-novo-cadastro-1.php), que vende VT com boleto único; a empresa cadastra os colaboradores por planilha Excel ou integração com o ERP, e a ViaNova emite a primeira via para quem ainda não tem cartão; liberação do crédito: a ViaNova permite programar a data de liberação dos créditos.
 
+Integração em Santana de Parnaíba: Paga a tarifa do primeiro modal pelo TOP ou BOM e tem redução de R$ 1,50 na tarifa do segundo modal, em até três horas. Diferenciação tarifária: com vale-transporte, a integração do ônibus intermunicipal da ARTESP com o Metrô e a CPTM custa R$ 0,52 a mais que com a tarifa comum. O ônibus cobra a mesma tarifa comum de cada linha, mas o trilho integrado sai por R$ 4,42 com vale-transporte (R$ 5,92 menos a redução de R$ 1,50), contra R$ 3,90 com a tarifa comum (R$ 5,40 menos a mesma redução).
+
 ### Santo André (SP)
 
 Em Santo André (SP), a passagem de ônibus custa R$ 5,90 desde 06/01/2025, segundo a publicação oficial (SA-Trans, Prefeitura de Santo André); valor conferido em 17/10/2026 pela Tarifaoteca da Otimiza.pro. Quem usa vale-transporte paga R$ 7,25.
@@ -6340,11 +6524,11 @@ Página da cidade: https://otimizapro.com/tarifa/sp/santo-andre
 
 Em 2021, o sistema de ônibus de Santo André (SP) levou 33 milhões de passageiros, segundo dados declarados pelo município à Pesquisa Nacional de Mobilidade Urbana (PEMOB), do governo federal. A idade média da frota de ônibus era de 6,1 anos em 2021. Dados consolidados pela Tarifaoteca da Otimiza.pro.
 
-Fonte (página oficial): https://satrans.santoandre.sp.gov.br/portal/servicos/1007/onibus
+Fonte (página oficial): https://doe.sp.gov.br/executivo/secretaria-dos-transportes-metropolitanos/resolucao-n-24-de-30-de-dezembro-de-2025-20251230113912201552256
 
 Vale-transporte em Santo André: cartão Bilhete Único Andreense Vale-Transporte; emitido por AESA (Associação das Empresas de Transporte de Santo André); canal de compra da empresa: Web Commerce da AESA, só para a empresa empregadora, com cadastro e compra pela internet e pagamento por boleto bancário ou boleto Pix; ou compra direta nos pontos de venda; taxa na compra: Web Commerce: 2,5% sobre o valor total dos créditos adquiridos, a título de conveniência; compra direta nos pontos de venda isenta dessa cobrança; tarifa bancária de R$ 2,49 por boleto bancário (CEF, desde 28/08/2019) e de R$ 1,50 por boleto Pix (desde 20/07/2022); validade dos créditos: Tempo de uso dos créditos definido pelo Decreto nº 18.184/2023 e pela Lei nº 10.740/2023 (SA-Trans).
 
-Integração em Santo André: Bilhete Único Andreense: até 3 linhas municipais numa mesma viagem (mesma direção; retorno é outra viagem) com uma tarifa, em até 90 minutos nos dias úteis e 120 minutos nos fins de semana e feriados.
+Integração em Santo André: Bilhete Único Andreense: até 3 linhas municipais numa mesma viagem (mesma direção; retorno é outra viagem) com uma tarifa, em até 90 minutos nos dias úteis e 120 minutos nos fins de semana e feriados. Paga a tarifa do primeiro modal pelo TOP ou BOM e tem redução de R$ 1,50 na tarifa do segundo modal, em até três horas. Diferenciação tarifária: com vale-transporte, a integração do ônibus intermunicipal da ARTESP com o Metrô e a CPTM custa R$ 0,52 a mais que com a tarifa comum. O ônibus cobra a mesma tarifa comum de cada linha, mas o trilho integrado sai por R$ 4,42 com vale-transporte (R$ 5,92 menos a redução de R$ 1,50), contra R$ 3,90 com a tarifa comum (R$ 5,40 menos a mesma redução).
 
 ### Santos (SP)
 
@@ -6366,7 +6550,7 @@ Página da cidade: https://otimizapro.com/tarifa/sp/sao-bernardo-do-campo
 
 Em 2021, o sistema de ônibus de São Bernardo do Campo (SP) levou 43 milhões de passageiros, segundo dados declarados pelo município à Pesquisa Nacional de Mobilidade Urbana (PEMOB), do governo federal. A idade média da frota de ônibus era de 8,6 anos em 2021. Dados consolidados pela Tarifaoteca da Otimiza.pro.
 
-Fonte (página oficial): https://www.saobernardo.sp.gov.br/documents/10181/1598718/NM+2413+de+29.12.2023+-++Conte%C3%BAdo+Integral.pdf/d80e1f6e-225b-8ed5-513c-761ad7fbf74c
+Fonte (página oficial): https://doe.sp.gov.br/executivo/secretaria-dos-transportes-metropolitanos/resolucao-n-24-de-30-de-dezembro-de-2025-20251230113912201552256
 
 Vale-transporte em São Bernardo do Campo: a empresa compra em 2 sistemas, Cartão Legal Vale-Transporte (ônibus municipais de São Bernardo do Campo) e TOP Vale-Transporte (ônibus metropolitanos e trilhos da Grande São Paulo).
 
@@ -6374,7 +6558,7 @@ Cartão Legal Vale-Transporte (ônibus municipais de São Bernardo do Campo): co
 
 TOP Vale-Transporte (ônibus metropolitanos e trilhos da Grande São Paulo): cobre ônibus intermunicipais metropolitanos da Região Metropolitana de São Paulo (regulados pela ARTESP; o site da EMTU redireciona para a ARTESP), Metrô e trens metropolitanos; cartão TOP Vale-Transporte; emitido por Autopass (TOP); canal de compra da empresa: No site do TOP (boradetop.com.br), o item Vale-transporte da seção Para empresas leva ao cadastro da ViaNova Autopass (https://cadastro.portalvianova.com.br/cliente-cadastro/cliente-novo-cadastro-1.php), que vende VT com boleto único; a empresa cadastra os colaboradores por planilha Excel ou integração com o ERP, e a ViaNova emite a primeira via para quem ainda não tem cartão; liberação do crédito: a ViaNova permite programar a data de liberação dos créditos.
 
-Integração em São Bernardo do Campo: O Cartão Legal Vale-Transporte vale nas linhas municipais com integração gratuita entre as linhas, e o Cartão Legal Cidadão dá acesso à integração temporal; a janela não é publicada nas páginas do Cartão Legal.
+Integração em São Bernardo do Campo: O Cartão Legal Vale-Transporte vale nas linhas municipais com integração gratuita entre as linhas, e o Cartão Legal Cidadão dá acesso à integração temporal; a janela não é publicada nas páginas do Cartão Legal. Paga a tarifa do primeiro modal pelo TOP ou BOM e tem redução de R$ 1,50 na tarifa do segundo modal, em até três horas. Diferenciação tarifária: com vale-transporte, a integração do ônibus intermunicipal da ARTESP com o Metrô e a CPTM custa R$ 0,52 a mais que com a tarifa comum. O ônibus cobra a mesma tarifa comum de cada linha, mas o trilho integrado sai por R$ 4,42 com vale-transporte (R$ 5,92 menos a redução de R$ 1,50), contra R$ 3,90 com a tarifa comum (R$ 5,40 menos a mesma redução).
 
 Tarifa zero em São Bernardo do Campo: Tarifa dispensada no transporte coletivo municipal em 04/10/2026 (1º turno) e em 25/10/2026, se houver 2º turno, das 7h às 18h, com a frota de dia útil
 
@@ -6391,6 +6575,8 @@ Vale-transporte em São Caetano do Sul: a empresa compra em 2 sistemas, Cartão 
 Cartão São Caetano Vale-Transporte (VIPE): cobre ônibus municipais de São Caetano do Sul; cartão São Caetano, modalidade vale-transporte; emitido por VIPE, Viação Padre Eustáquio Ltda. (CNPJ 54.056.189/0001-63), operadora dos ônibus municipais de São Caetano do Sul; canal de compra da empresa: Loja Virtual VIPE (Sales Portal da Prodata, salesportal.saocaetano.prodatamobility.com.br), ligada como Recarga Online no site da Vipe; o VT é vendido só a empregadores: cadastro, pedido e boleto gerado pelo sistema, com validade de 3 dias e pago com antecedência mínima de 3 dias úteis; cartões novos retirados na Central de Atendimento em até 3 dias úteis após a compensação; créditos para recarga a bordo em até 3 dias úteis.; taxa na compra: 7% sobre o valor total de cada pedido, 'pelos serviços de gerenciamento eletrônico de pedidos, bloqueio e reposição de créditos eletrônicos, segunda via de cartões, recarga a bordo, manutenção dos sistemas de boleto e website' (item 5.3 do Termo de Adesão e Uso da Loja Virtual VIPE, publicado no portal) (https://salesportal.saocaetano.prodatamobility.com.br/policies/teste.html).
 
 TOP Vale-Transporte (ônibus metropolitanos e trilhos da Grande São Paulo): cobre ônibus intermunicipais metropolitanos da Região Metropolitana de São Paulo (regulados pela ARTESP; o site da EMTU redireciona para a ARTESP), Metrô e trens metropolitanos; cartão TOP Vale-Transporte; emitido por Autopass (TOP); canal de compra da empresa: No site do TOP (boradetop.com.br), o item Vale-transporte da seção Para empresas leva ao cadastro da ViaNova Autopass (https://cadastro.portalvianova.com.br/cliente-cadastro/cliente-novo-cadastro-1.php), que vende VT com boleto único; a empresa cadastra os colaboradores por planilha Excel ou integração com o ERP, e a ViaNova emite a primeira via para quem ainda não tem cartão; liberação do crédito: a ViaNova permite programar a data de liberação dos créditos.
+
+Integração em São Caetano do Sul: Paga a tarifa do primeiro modal pelo TOP ou BOM e tem redução de R$ 1,50 na tarifa do segundo modal, em até três horas. Diferenciação tarifária: com vale-transporte, a integração do ônibus intermunicipal da ARTESP com o Metrô e a CPTM custa R$ 0,52 a mais que com a tarifa comum. O ônibus cobra a mesma tarifa comum de cada linha, mas o trilho integrado sai por R$ 4,42 com vale-transporte (R$ 5,92 menos a redução de R$ 1,50), contra R$ 3,90 com a tarifa comum (R$ 5,40 menos a mesma redução).
 
 ### São Carlos (SP)
 
@@ -6468,6 +6654,14 @@ Vale-transporte em São José dos Campos: cartão Eletrônico Vale-Transporte (B
 
 Integração em São José dos Campos: Bilhete Único: uma tarifa para até 4 linhas, em qualquer sentido, em 2 horas. Página da Prefeitura de 2019 (atualizada em 14/08/2024).
 
+### São Lourenço da Serra (SP)
+
+Ainda não há tarifa de ônibus conferida para São Lourenço da Serra (SP) na Tarifaoteca da Otimiza.pro.
+
+Fonte (página oficial): https://doe.sp.gov.br/executivo/secretaria-dos-transportes-metropolitanos/resolucao-n-18-de-30-de-dezembro-de-2025-20260102113912201553314
+
+Integração em São Lourenço da Serra: Paga a tarifa do primeiro modal pelo TOP ou BOM e tem redução de R$ 1,50 na tarifa do segundo modal, em até três horas. Diferenciação tarifária: com vale-transporte, a integração do ônibus intermunicipal da ARTESP com o Metrô e a CPTM custa R$ 0,52 a mais que com a tarifa comum. O ônibus cobra a mesma tarifa comum de cada linha, mas o trilho integrado sai por R$ 4,42 com vale-transporte (R$ 5,92 menos a redução de R$ 1,50), contra R$ 3,90 com a tarifa comum (R$ 5,40 menos a mesma redução).
+
 ### São Manuel (SP)
 
 Em São Manuel (SP), a passagem de ônibus custa R$ 1,00 desde 15/05/2025, conforme Decreto nº 4.295/2025; valor conferido em 03/11/2026 pela Tarifaoteca da Otimiza.pro.
@@ -6486,13 +6680,13 @@ Fonte (página oficial): https://www.saomiguelarcanjo.sp.gov.br/legislacao/detal
 
 ### São Paulo (SP)
 
-Em São Paulo (SP), a passagem de ônibus custa R$ 5,30 desde 06/01/2026, conforme Portaria SMT.GAB nº 005/2026; valor conferido em 17/10/2026 pela Tarifaoteca da Otimiza.pro. Quem usa vale-transporte paga R$ 5,82.
+Em São Paulo (SP), a passagem de ônibus custa R$ 5,30 desde 06/01/2026, conforme Portaria SMT.GAB nº 005/2026; valor conferido em 19/10/2026 pela Tarifaoteca da Otimiza.pro. Quem usa vale-transporte paga R$ 5,82.
 
 Página da cidade: https://otimizapro.com/tarifa/sp/sao-paulo
 
 Em São Paulo (SP), o GTFS oficial da SPTrans vigente em 17/10/2026 lista 1.349 linhas de ônibus, 8 de metrô e 7 de trem. Em 2020, o sistema de ônibus levou 1,6 bilhão de passageiros, segundo dados declarados pelo município à Pesquisa Nacional de Mobilidade Urbana (PEMOB), do governo federal. A idade média da frota de ônibus era de 4,9 anos em 2020. Dados consolidados pela Tarifaoteca da Otimiza.pro.
 
-Fonte (operadora): https://www.sptrans.com.br/tarifas/
+Fonte (página oficial): https://doe.sp.gov.br/executivo/secretaria-dos-transportes-metropolitanos/resolucao-n-24-de-30-de-dezembro-de-2025-20251230113912201552256
 
 Vale-transporte em São Paulo: a empresa compra em 2 sistemas, Bilhete Único (SPTrans) e TOP Transporte (Autopass).
 
@@ -6500,7 +6694,7 @@ Bilhete Único (SPTrans): cobre ônibus municipais de São Paulo e, com tarifa p
 
 TOP Transporte (Autopass): cobre ônibus intermunicipais da Artesp (antiga EMTU) na Região Metropolitana, Corredor ABD (São Mateus-Jabaquara e Diadema-Berrini), Metrô e CPTM; não vale nos ônibus municipais da SPTrans; cartão TOP Transporte com benefício Vale-Transporte, vinculado ao CPF do colaborador; emitido por Autopass S.A. (cartão TOP); canal de compra da empresa: portal da ViaNova Autopass (cadastro.portalvianova.com.br), indicado em Serviços > Vale-transporte no site do TOP: cadastro dos colaboradores, pedido e boleto; liberação do crédito: a recarga feita pela empresa só entra no cartão depois de validada num validador online (estações da CPTM e do Metrô, terminais da Artesp/EMTU e ônibus); validada no ônibus, pode levar até 48 h para aparecer no app; validade dos créditos: créditos comprados até 05/01/2026 foram aceitos pelo valor antigo por 180 dias, só na CPTM e no Metrô.
 
-Integração em São Paulo: Bilhete Único comum: até 4 ônibus em 3h; integrado ônibus + trilho (R$ 9,38): 3 ônibus em 3h + 1 trilho nas 2 primeiras horas; com VT no ônibus, 2 embarques em 3h
+Integração em São Paulo: Até quatro embarques em ônibus municipais diferentes em três horas, por uma tarifa. Até dois embarques em ônibus municipais diferentes em três horas, por uma tarifa de VT. Até três embarques em ônibus municipais diferentes em três horas e um embarque no Metrô ou na CPTM nas duas primeiras horas. Um embarque em ônibus municipal em até três horas e um embarque no Metrô ou na CPTM nas duas primeiras horas. Na integração ônibus + trilhos, com entrada no trilho no horário do Madrugador, a tarifa integrada cai para R$ 8,34. Na integração ônibus + trilhos com VT, com entrada no trilho no horário do Madrugador, a tarifa integrada cai para R$ 10,28. Paga a tarifa do primeiro modal pelo TOP ou BOM e tem redução de R$ 1,50 na tarifa do segundo modal, em até três horas. Diferenciação tarifária: com vale-transporte, a integração do ônibus intermunicipal da ARTESP com o Metrô e a CPTM custa R$ 0,52 a mais que com a tarifa comum. O ônibus cobra a mesma tarifa comum de cada linha, mas o trilho integrado sai por R$ 4,42 com vale-transporte (R$ 5,92 menos a redução de R$ 1,50), contra R$ 3,90 com a tarifa comum (R$ 5,40 menos a mesma redução).
 
 Tarifa zero em São Paulo: ônibus municipal grátis aos domingos e em 25/12, 01/01 e 25/01
 
@@ -6630,7 +6824,7 @@ ONpag VT (linhas municipais de Suzano): cobre linhas municipais de Suzano; cart�
 
 TOP Vale-Transporte (ônibus metropolitanos e trilhos da Grande São Paulo): cobre ônibus intermunicipais metropolitanos da Região Metropolitana de São Paulo (regulados pela ARTESP; o site da EMTU redireciona para a ARTESP), Metrô e trens metropolitanos; cartão TOP Vale-Transporte; emitido por Autopass (TOP); canal de compra da empresa: No site do TOP (boradetop.com.br), o item Vale-transporte da seção Para empresas leva ao cadastro da ViaNova Autopass (https://cadastro.portalvianova.com.br/cliente-cadastro/cliente-novo-cadastro-1.php), que vende VT com boleto único; a empresa cadastra os colaboradores por planilha Excel ou integração com o ERP, e a ViaNova emite a primeira via para quem ainda não tem cartão; liberação do crédito: a ViaNova permite programar a data de liberação dos créditos.
 
-Integração em Suzano: O cartão ONpag Comum permite integrações dentro de 60 minutos, de acordo com as normas do município; as regras completas não estão publicadas nas páginas da Radial e da Onpag (consultadas em 2026-10-18)
+Integração em Suzano: O cartão ONpag Comum permite integrações dentro de 60 minutos, de acordo com as normas do município; as regras completas não estão publicadas nas páginas da Radial e da Onpag (consultadas em 2026-10-18). Paga a tarifa do primeiro modal pelo TOP ou BOM e tem redução de R$ 1,50 na tarifa do segundo modal, em até três horas. Diferenciação tarifária: com vale-transporte, a integração do ônibus intermunicipal da ARTESP com o Metrô e a CPTM custa R$ 0,52 a mais que com a tarifa comum. O ônibus cobra a mesma tarifa comum de cada linha, mas o trilho integrado sai por R$ 4,42 com vale-transporte (R$ 5,92 menos a redução de R$ 1,50), contra R$ 3,90 com a tarifa comum (R$ 5,40 menos a mesma redução).
 
 ### Taboão da Serra (SP)
 
@@ -6641,6 +6835,8 @@ Página da cidade: https://otimizapro.com/tarifa/sp/taboao-da-serra
 Em 2018, o sistema de ônibus de Taboão da Serra (SP) levou 15 milhões de passageiros, segundo dados declarados pelo município à Pesquisa Nacional de Mobilidade Urbana (PEMOB), do governo federal. A idade média da frota de ônibus era de 6,8 anos em 2021. Dados consolidados pela Tarifaoteca da Otimiza.pro.
 
 Fonte (imprensa): https://diariodotransporte.com.br/2026/01/06/taboao-da-serra-sp-mantem-tarifa-de-onibus-em-r-580-para-inicio-de-2026/
+
+Integração em Taboão da Serra: Paga a tarifa do primeiro modal pelo TOP ou BOM e tem redução de R$ 1,50 na tarifa do segundo modal, em até três horas. Diferenciação tarifária: com vale-transporte, a integração do ônibus intermunicipal da ARTESP com o Metrô e a CPTM custa R$ 0,52 a mais que com a tarifa comum. O ônibus cobra a mesma tarifa comum de cada linha, mas o trilho integrado sai por R$ 4,42 com vale-transporte (R$ 5,92 menos a redução de R$ 1,50), contra R$ 3,90 com a tarifa comum (R$ 5,40 menos a mesma redução).
 
 ### Taquaritinga (SP)
 
@@ -6749,6 +6945,8 @@ Página da cidade: https://otimizapro.com/tarifa/sp/vargem-grande-paulista
 Fonte (imprensa): https://sbtnews.sbt.com.br/noticia/brasil/260969-transporte-publico-gratis-sonho-que-parece-distante-e-realidade-bem-perto-de-sp
 
 Vale-transporte em Vargem Grande Paulista: cartão TOP Vale-Transporte; emitido por Autopass (TOP); canal de compra da empresa: Site do TOP (boradetop.com.br), menu "Para empresas", item Vale-transporte, que leva ao cadastro da ViaNova Autopass (cadastro.portalvianova.com.br).
+
+Integração em Vargem Grande Paulista: Paga a tarifa do primeiro modal pelo TOP ou BOM e tem redução de R$ 1,50 na tarifa do segundo modal, em até três horas. Diferenciação tarifária: com vale-transporte, a integração do ônibus intermunicipal da ARTESP com o Metrô e a CPTM custa R$ 0,52 a mais que com a tarifa comum. O ônibus cobra a mesma tarifa comum de cada linha, mas o trilho integrado sai por R$ 4,42 com vale-transporte (R$ 5,92 menos a redução de R$ 1,50), contra R$ 3,90 com a tarifa comum (R$ 5,40 menos a mesma redução).
 
 Tarifa zero em Vargem Grande Paulista: Ônibus municipais gratuitos para todos os passageiros.
 

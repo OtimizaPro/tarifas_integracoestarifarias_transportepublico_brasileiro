@@ -1,6 +1,6 @@
 {
  "nome": "Tarifaoteca da Otimiza.pro: sistemas_municipios",
- "versao": "2026.11.06",
+ "versao": "2026.11.09",
  "licenca": {
   "nome": "CC BY-NC 4.0",
   "url": "https://creativecommons.org/licenses/by-nc/4.0/deed.pt-br",
@@ -8,7 +8,7 @@
   "uso_interno": "A consulta para decisões da própria empresa, como orçar o vale-transporte, não pede licença.",
   "uso_comercial": "Uso comercial por empresas (em produto, revenda ou integração em sistema ou serviço pago) pede licença da Otimiza.pro: empresa@otimiza.pro."
  },
- "citar_como": "Fonte: Tarifaoteca da Otimiza.pro, versão 2026.11.06. DOI: https://doi.org/10.5281/zenodo.23486211. https://github.com/OtimizaPro/tarifas_integracoestarifarias_transportepublico_brasileiro",
+ "citar_como": "Fonte: Tarifaoteca da Otimiza.pro, versão 2026.11.09. DOI: https://doi.org/10.5281/zenodo.23486211. https://github.com/OtimizaPro/tarifas_integracoestarifarias_transportepublico_brasileiro",
  "linhas": [
   {
    "sistema": "RBTrans (COM Card)",
@@ -3691,6 +3691,190 @@
    "cod_ibge": "3304557"
   },
   {
+   "sistema": "Bilhete Único Intermunicipal (Governo do Estado do Rio de Janeiro, Setram; cartão Riocard Mais)",
+   "abrangencia": "metropolitano",
+   "municipio_sede": "Rio de Janeiro",
+   "uf": "RJ",
+   "municipio_atendido": "Belford Roxo",
+   "cod_ibge": "3300456"
+  },
+  {
+   "sistema": "Bilhete Único Intermunicipal (Governo do Estado do Rio de Janeiro, Setram; cartão Riocard Mais)",
+   "abrangencia": "metropolitano",
+   "municipio_sede": "Rio de Janeiro",
+   "uf": "RJ",
+   "municipio_atendido": "Cachoeiras de Macacu",
+   "cod_ibge": "3300803"
+  },
+  {
+   "sistema": "Bilhete Único Intermunicipal (Governo do Estado do Rio de Janeiro, Setram; cartão Riocard Mais)",
+   "abrangencia": "metropolitano",
+   "municipio_sede": "Rio de Janeiro",
+   "uf": "RJ",
+   "municipio_atendido": "Duque de Caxias",
+   "cod_ibge": "3301702"
+  },
+  {
+   "sistema": "Bilhete Único Intermunicipal (Governo do Estado do Rio de Janeiro, Setram; cartão Riocard Mais)",
+   "abrangencia": "metropolitano",
+   "municipio_sede": "Rio de Janeiro",
+   "uf": "RJ",
+   "municipio_atendido": "Guapimirim",
+   "cod_ibge": "3301850"
+  },
+  {
+   "sistema": "Bilhete Único Intermunicipal (Governo do Estado do Rio de Janeiro, Setram; cartão Riocard Mais)",
+   "abrangencia": "metropolitano",
+   "municipio_sede": "Rio de Janeiro",
+   "uf": "RJ",
+   "municipio_atendido": "Itaboraí",
+   "cod_ibge": "3301900"
+  },
+  {
+   "sistema": "Bilhete Único Intermunicipal (Governo do Estado do Rio de Janeiro, Setram; cartão Riocard Mais)",
+   "abrangencia": "metropolitano",
+   "municipio_sede": "Rio de Janeiro",
+   "uf": "RJ",
+   "municipio_atendido": "Itaguaí",
+   "cod_ibge": "3302007"
+  },
+  {
+   "sistema": "Bilhete Único Intermunicipal (Governo do Estado do Rio de Janeiro, Setram; cartão Riocard Mais)",
+   "abrangencia": "metropolitano",
+   "municipio_sede": "Rio de Janeiro",
+   "uf": "RJ",
+   "municipio_atendido": "Japeri",
+   "cod_ibge": "3302270"
+  },
+  {
+   "sistema": "Bilhete Único Intermunicipal (Governo do Estado do Rio de Janeiro, Setram; cartão Riocard Mais)",
+   "abrangencia": "metropolitano",
+   "municipio_sede": "Rio de Janeiro",
+   "uf": "RJ",
+   "municipio_atendido": "Magé",
+   "cod_ibge": "3302502"
+  },
+  {
+   "sistema": "Bilhete Único Intermunicipal (Governo do Estado do Rio de Janeiro, Setram; cartão Riocard Mais)",
+   "abrangencia": "metropolitano",
+   "municipio_sede": "Rio de Janeiro",
+   "uf": "RJ",
+   "municipio_atendido": "Mangaratiba",
+   "cod_ibge": "3302601"
+  },
+  {
+   "sistema": "Bilhete Único Intermunicipal (Governo do Estado do Rio de Janeiro, Setram; cartão Riocard Mais)",
+   "abrangencia": "metropolitano",
+   "municipio_sede": "Rio de Janeiro",
+   "uf": "RJ",
+   "municipio_atendido": "Maricá",
+   "cod_ibge": "3302700"
+  },
+  {
+   "sistema": "Bilhete Único Intermunicipal (Governo do Estado do Rio de Janeiro, Setram; cartão Riocard Mais)",
+   "abrangencia": "metropolitano",
+   "municipio_sede": "Rio de Janeiro",
+   "uf": "RJ",
+   "municipio_atendido": "Mesquita",
+   "cod_ibge": "3302858"
+  },
+  {
+   "sistema": "Bilhete Único Intermunicipal (Governo do Estado do Rio de Janeiro, Setram; cartão Riocard Mais)",
+   "abrangencia": "metropolitano",
+   "municipio_sede": "Rio de Janeiro",
+   "uf": "RJ",
+   "municipio_atendido": "Nilópolis",
+   "cod_ibge": "3303203"
+  },
+  {
+   "sistema": "Bilhete Único Intermunicipal (Governo do Estado do Rio de Janeiro, Setram; cartão Riocard Mais)",
+   "abrangencia": "metropolitano",
+   "municipio_sede": "Rio de Janeiro",
+   "uf": "RJ",
+   "municipio_atendido": "Niterói",
+   "cod_ibge": "3303302"
+  },
+  {
+   "sistema": "Bilhete Único Intermunicipal (Governo do Estado do Rio de Janeiro, Setram; cartão Riocard Mais)",
+   "abrangencia": "metropolitano",
+   "municipio_sede": "Rio de Janeiro",
+   "uf": "RJ",
+   "municipio_atendido": "Nova Iguaçu",
+   "cod_ibge": "3303500"
+  },
+  {
+   "sistema": "Bilhete Único Intermunicipal (Governo do Estado do Rio de Janeiro, Setram; cartão Riocard Mais)",
+   "abrangencia": "metropolitano",
+   "municipio_sede": "Rio de Janeiro",
+   "uf": "RJ",
+   "municipio_atendido": "Paracambi",
+   "cod_ibge": "3303609"
+  },
+  {
+   "sistema": "Bilhete Único Intermunicipal (Governo do Estado do Rio de Janeiro, Setram; cartão Riocard Mais)",
+   "abrangencia": "metropolitano",
+   "municipio_sede": "Rio de Janeiro",
+   "uf": "RJ",
+   "municipio_atendido": "Petrópolis",
+   "cod_ibge": "3303906"
+  },
+  {
+   "sistema": "Bilhete Único Intermunicipal (Governo do Estado do Rio de Janeiro, Setram; cartão Riocard Mais)",
+   "abrangencia": "metropolitano",
+   "municipio_sede": "Rio de Janeiro",
+   "uf": "RJ",
+   "municipio_atendido": "Queimados",
+   "cod_ibge": "3304144"
+  },
+  {
+   "sistema": "Bilhete Único Intermunicipal (Governo do Estado do Rio de Janeiro, Setram; cartão Riocard Mais)",
+   "abrangencia": "metropolitano",
+   "municipio_sede": "Rio de Janeiro",
+   "uf": "RJ",
+   "municipio_atendido": "Rio Bonito",
+   "cod_ibge": "3304300"
+  },
+  {
+   "sistema": "Bilhete Único Intermunicipal (Governo do Estado do Rio de Janeiro, Setram; cartão Riocard Mais)",
+   "abrangencia": "metropolitano",
+   "municipio_sede": "Rio de Janeiro",
+   "uf": "RJ",
+   "municipio_atendido": "Rio de Janeiro",
+   "cod_ibge": "3304557"
+  },
+  {
+   "sistema": "Bilhete Único Intermunicipal (Governo do Estado do Rio de Janeiro, Setram; cartão Riocard Mais)",
+   "abrangencia": "metropolitano",
+   "municipio_sede": "Rio de Janeiro",
+   "uf": "RJ",
+   "municipio_atendido": "Seropédica",
+   "cod_ibge": "3305554"
+  },
+  {
+   "sistema": "Bilhete Único Intermunicipal (Governo do Estado do Rio de Janeiro, Setram; cartão Riocard Mais)",
+   "abrangencia": "metropolitano",
+   "municipio_sede": "Rio de Janeiro",
+   "uf": "RJ",
+   "municipio_atendido": "São Gonçalo",
+   "cod_ibge": "3304904"
+  },
+  {
+   "sistema": "Bilhete Único Intermunicipal (Governo do Estado do Rio de Janeiro, Setram; cartão Riocard Mais)",
+   "abrangencia": "metropolitano",
+   "municipio_sede": "Rio de Janeiro",
+   "uf": "RJ",
+   "municipio_atendido": "São João de Meriti",
+   "cod_ibge": "3305109"
+  },
+  {
+   "sistema": "Bilhete Único Intermunicipal (Governo do Estado do Rio de Janeiro, Setram; cartão Riocard Mais)",
+   "abrangencia": "metropolitano",
+   "municipio_sede": "Rio de Janeiro",
+   "uf": "RJ",
+   "municipio_atendido": "Tanguá",
+   "cod_ibge": "3305752"
+  },
+  {
    "sistema": "CPTrans (Companhia Petropolitana de Trânsito e Transportes); operadoras Cidade Real, Cidade das Hortênsias e Turp (sob intervenção total do Município desde o Decreto nº 521, de 17/09/2026), representadas pelo Setranspetro; cartão Riocard Mais",
    "abrangencia": "municipal",
    "municipio_sede": "Petrópolis",
@@ -5539,6 +5723,46 @@
    "cod_ibge": "3550308"
   },
   {
+   "sistema": "Corredor Metropolitano ABD (ARTESP)",
+   "abrangencia": "metropolitano",
+   "municipio_sede": "São Paulo",
+   "uf": "SP",
+   "municipio_atendido": "Diadema",
+   "cod_ibge": "3513801"
+  },
+  {
+   "sistema": "Corredor Metropolitano ABD (ARTESP)",
+   "abrangencia": "metropolitano",
+   "municipio_sede": "São Paulo",
+   "uf": "SP",
+   "municipio_atendido": "Mauá",
+   "cod_ibge": "3529401"
+  },
+  {
+   "sistema": "Corredor Metropolitano ABD (ARTESP)",
+   "abrangencia": "metropolitano",
+   "municipio_sede": "São Paulo",
+   "uf": "SP",
+   "municipio_atendido": "Santo André",
+   "cod_ibge": "3547809"
+  },
+  {
+   "sistema": "Corredor Metropolitano ABD (ARTESP)",
+   "abrangencia": "metropolitano",
+   "municipio_sede": "São Paulo",
+   "uf": "SP",
+   "municipio_atendido": "São Bernardo do Campo",
+   "cod_ibge": "3548708"
+  },
+  {
+   "sistema": "Corredor Metropolitano ABD (ARTESP)",
+   "abrangencia": "metropolitano",
+   "municipio_sede": "São Paulo",
+   "uf": "SP",
+   "municipio_atendido": "São Paulo",
+   "cod_ibge": "3550308"
+  },
+  {
    "sistema": "Diretoria de Gestão de Transporte Municipal de Santa Bárbara d'Oeste; concessionária Nova Via Transporte Urbano (desde 2012)",
    "abrangencia": "municipal",
    "municipio_sede": "Santa Bárbara d'Oeste",
@@ -7169,6 +7393,318 @@
    "uf": "SP",
    "municipio_atendido": "Praia Grande",
    "cod_ibge": "3541000"
+  },
+  {
+   "sistema": "TOP (ônibus metropolitanos da ARTESP, Metrô e CPTM, Região Metropolitana de São Paulo)",
+   "abrangencia": "metropolitano",
+   "municipio_sede": "São Paulo",
+   "uf": "SP",
+   "municipio_atendido": "Arujá",
+   "cod_ibge": "3503901"
+  },
+  {
+   "sistema": "TOP (ônibus metropolitanos da ARTESP, Metrô e CPTM, Região Metropolitana de São Paulo)",
+   "abrangencia": "metropolitano",
+   "municipio_sede": "São Paulo",
+   "uf": "SP",
+   "municipio_atendido": "Barueri",
+   "cod_ibge": "3505708"
+  },
+  {
+   "sistema": "TOP (ônibus metropolitanos da ARTESP, Metrô e CPTM, Região Metropolitana de São Paulo)",
+   "abrangencia": "metropolitano",
+   "municipio_sede": "São Paulo",
+   "uf": "SP",
+   "municipio_atendido": "Biritiba Mirim",
+   "cod_ibge": "3506607"
+  },
+  {
+   "sistema": "TOP (ônibus metropolitanos da ARTESP, Metrô e CPTM, Região Metropolitana de São Paulo)",
+   "abrangencia": "metropolitano",
+   "municipio_sede": "São Paulo",
+   "uf": "SP",
+   "municipio_atendido": "Caieiras",
+   "cod_ibge": "3509007"
+  },
+  {
+   "sistema": "TOP (ônibus metropolitanos da ARTESP, Metrô e CPTM, Região Metropolitana de São Paulo)",
+   "abrangencia": "metropolitano",
+   "municipio_sede": "São Paulo",
+   "uf": "SP",
+   "municipio_atendido": "Cajamar",
+   "cod_ibge": "3509205"
+  },
+  {
+   "sistema": "TOP (ônibus metropolitanos da ARTESP, Metrô e CPTM, Região Metropolitana de São Paulo)",
+   "abrangencia": "metropolitano",
+   "municipio_sede": "São Paulo",
+   "uf": "SP",
+   "municipio_atendido": "Carapicuíba",
+   "cod_ibge": "3510609"
+  },
+  {
+   "sistema": "TOP (ônibus metropolitanos da ARTESP, Metrô e CPTM, Região Metropolitana de São Paulo)",
+   "abrangencia": "metropolitano",
+   "municipio_sede": "São Paulo",
+   "uf": "SP",
+   "municipio_atendido": "Cotia",
+   "cod_ibge": "3513009"
+  },
+  {
+   "sistema": "TOP (ônibus metropolitanos da ARTESP, Metrô e CPTM, Região Metropolitana de São Paulo)",
+   "abrangencia": "metropolitano",
+   "municipio_sede": "São Paulo",
+   "uf": "SP",
+   "municipio_atendido": "Diadema",
+   "cod_ibge": "3513801"
+  },
+  {
+   "sistema": "TOP (ônibus metropolitanos da ARTESP, Metrô e CPTM, Região Metropolitana de São Paulo)",
+   "abrangencia": "metropolitano",
+   "municipio_sede": "São Paulo",
+   "uf": "SP",
+   "municipio_atendido": "Embu das Artes",
+   "cod_ibge": "3515004"
+  },
+  {
+   "sistema": "TOP (ônibus metropolitanos da ARTESP, Metrô e CPTM, Região Metropolitana de São Paulo)",
+   "abrangencia": "metropolitano",
+   "municipio_sede": "São Paulo",
+   "uf": "SP",
+   "municipio_atendido": "Embu-Guaçu",
+   "cod_ibge": "3515103"
+  },
+  {
+   "sistema": "TOP (ônibus metropolitanos da ARTESP, Metrô e CPTM, Região Metropolitana de São Paulo)",
+   "abrangencia": "metropolitano",
+   "municipio_sede": "São Paulo",
+   "uf": "SP",
+   "municipio_atendido": "Ferraz de Vasconcelos",
+   "cod_ibge": "3515707"
+  },
+  {
+   "sistema": "TOP (ônibus metropolitanos da ARTESP, Metrô e CPTM, Região Metropolitana de São Paulo)",
+   "abrangencia": "metropolitano",
+   "municipio_sede": "São Paulo",
+   "uf": "SP",
+   "municipio_atendido": "Francisco Morato",
+   "cod_ibge": "3516309"
+  },
+  {
+   "sistema": "TOP (ônibus metropolitanos da ARTESP, Metrô e CPTM, Região Metropolitana de São Paulo)",
+   "abrangencia": "metropolitano",
+   "municipio_sede": "São Paulo",
+   "uf": "SP",
+   "municipio_atendido": "Franco da Rocha",
+   "cod_ibge": "3516408"
+  },
+  {
+   "sistema": "TOP (ônibus metropolitanos da ARTESP, Metrô e CPTM, Região Metropolitana de São Paulo)",
+   "abrangencia": "metropolitano",
+   "municipio_sede": "São Paulo",
+   "uf": "SP",
+   "municipio_atendido": "Guararema",
+   "cod_ibge": "3518305"
+  },
+  {
+   "sistema": "TOP (ônibus metropolitanos da ARTESP, Metrô e CPTM, Região Metropolitana de São Paulo)",
+   "abrangencia": "metropolitano",
+   "municipio_sede": "São Paulo",
+   "uf": "SP",
+   "municipio_atendido": "Guarulhos",
+   "cod_ibge": "3518800"
+  },
+  {
+   "sistema": "TOP (ônibus metropolitanos da ARTESP, Metrô e CPTM, Região Metropolitana de São Paulo)",
+   "abrangencia": "metropolitano",
+   "municipio_sede": "São Paulo",
+   "uf": "SP",
+   "municipio_atendido": "Itapecerica da Serra",
+   "cod_ibge": "3522208"
+  },
+  {
+   "sistema": "TOP (ônibus metropolitanos da ARTESP, Metrô e CPTM, Região Metropolitana de São Paulo)",
+   "abrangencia": "metropolitano",
+   "municipio_sede": "São Paulo",
+   "uf": "SP",
+   "municipio_atendido": "Itapevi",
+   "cod_ibge": "3522505"
+  },
+  {
+   "sistema": "TOP (ônibus metropolitanos da ARTESP, Metrô e CPTM, Região Metropolitana de São Paulo)",
+   "abrangencia": "metropolitano",
+   "municipio_sede": "São Paulo",
+   "uf": "SP",
+   "municipio_atendido": "Itaquaquecetuba",
+   "cod_ibge": "3523107"
+  },
+  {
+   "sistema": "TOP (ônibus metropolitanos da ARTESP, Metrô e CPTM, Região Metropolitana de São Paulo)",
+   "abrangencia": "metropolitano",
+   "municipio_sede": "São Paulo",
+   "uf": "SP",
+   "municipio_atendido": "Jandira",
+   "cod_ibge": "3525003"
+  },
+  {
+   "sistema": "TOP (ônibus metropolitanos da ARTESP, Metrô e CPTM, Região Metropolitana de São Paulo)",
+   "abrangencia": "metropolitano",
+   "municipio_sede": "São Paulo",
+   "uf": "SP",
+   "municipio_atendido": "Juquitiba",
+   "cod_ibge": "3526209"
+  },
+  {
+   "sistema": "TOP (ônibus metropolitanos da ARTESP, Metrô e CPTM, Região Metropolitana de São Paulo)",
+   "abrangencia": "metropolitano",
+   "municipio_sede": "São Paulo",
+   "uf": "SP",
+   "municipio_atendido": "Mairiporã",
+   "cod_ibge": "3528502"
+  },
+  {
+   "sistema": "TOP (ônibus metropolitanos da ARTESP, Metrô e CPTM, Região Metropolitana de São Paulo)",
+   "abrangencia": "metropolitano",
+   "municipio_sede": "São Paulo",
+   "uf": "SP",
+   "municipio_atendido": "Mauá",
+   "cod_ibge": "3529401"
+  },
+  {
+   "sistema": "TOP (ônibus metropolitanos da ARTESP, Metrô e CPTM, Região Metropolitana de São Paulo)",
+   "abrangencia": "metropolitano",
+   "municipio_sede": "São Paulo",
+   "uf": "SP",
+   "municipio_atendido": "Mogi das Cruzes",
+   "cod_ibge": "3530607"
+  },
+  {
+   "sistema": "TOP (ônibus metropolitanos da ARTESP, Metrô e CPTM, Região Metropolitana de São Paulo)",
+   "abrangencia": "metropolitano",
+   "municipio_sede": "São Paulo",
+   "uf": "SP",
+   "municipio_atendido": "Osasco",
+   "cod_ibge": "3534401"
+  },
+  {
+   "sistema": "TOP (ônibus metropolitanos da ARTESP, Metrô e CPTM, Região Metropolitana de São Paulo)",
+   "abrangencia": "metropolitano",
+   "municipio_sede": "São Paulo",
+   "uf": "SP",
+   "municipio_atendido": "Pirapora do Bom Jesus",
+   "cod_ibge": "3539103"
+  },
+  {
+   "sistema": "TOP (ônibus metropolitanos da ARTESP, Metrô e CPTM, Região Metropolitana de São Paulo)",
+   "abrangencia": "metropolitano",
+   "municipio_sede": "São Paulo",
+   "uf": "SP",
+   "municipio_atendido": "Poá",
+   "cod_ibge": "3539806"
+  },
+  {
+   "sistema": "TOP (ônibus metropolitanos da ARTESP, Metrô e CPTM, Região Metropolitana de São Paulo)",
+   "abrangencia": "metropolitano",
+   "municipio_sede": "São Paulo",
+   "uf": "SP",
+   "municipio_atendido": "Ribeirão Pires",
+   "cod_ibge": "3543303"
+  },
+  {
+   "sistema": "TOP (ônibus metropolitanos da ARTESP, Metrô e CPTM, Região Metropolitana de São Paulo)",
+   "abrangencia": "metropolitano",
+   "municipio_sede": "São Paulo",
+   "uf": "SP",
+   "municipio_atendido": "Rio Grande da Serra",
+   "cod_ibge": "3544103"
+  },
+  {
+   "sistema": "TOP (ônibus metropolitanos da ARTESP, Metrô e CPTM, Região Metropolitana de São Paulo)",
+   "abrangencia": "metropolitano",
+   "municipio_sede": "São Paulo",
+   "uf": "SP",
+   "municipio_atendido": "Salesópolis",
+   "cod_ibge": "3545001"
+  },
+  {
+   "sistema": "TOP (ônibus metropolitanos da ARTESP, Metrô e CPTM, Região Metropolitana de São Paulo)",
+   "abrangencia": "metropolitano",
+   "municipio_sede": "São Paulo",
+   "uf": "SP",
+   "municipio_atendido": "Santa Isabel",
+   "cod_ibge": "3546801"
+  },
+  {
+   "sistema": "TOP (ônibus metropolitanos da ARTESP, Metrô e CPTM, Região Metropolitana de São Paulo)",
+   "abrangencia": "metropolitano",
+   "municipio_sede": "São Paulo",
+   "uf": "SP",
+   "municipio_atendido": "Santana de Parnaíba",
+   "cod_ibge": "3547304"
+  },
+  {
+   "sistema": "TOP (ônibus metropolitanos da ARTESP, Metrô e CPTM, Região Metropolitana de São Paulo)",
+   "abrangencia": "metropolitano",
+   "municipio_sede": "São Paulo",
+   "uf": "SP",
+   "municipio_atendido": "Santo André",
+   "cod_ibge": "3547809"
+  },
+  {
+   "sistema": "TOP (ônibus metropolitanos da ARTESP, Metrô e CPTM, Região Metropolitana de São Paulo)",
+   "abrangencia": "metropolitano",
+   "municipio_sede": "São Paulo",
+   "uf": "SP",
+   "municipio_atendido": "Suzano",
+   "cod_ibge": "3552502"
+  },
+  {
+   "sistema": "TOP (ônibus metropolitanos da ARTESP, Metrô e CPTM, Região Metropolitana de São Paulo)",
+   "abrangencia": "metropolitano",
+   "municipio_sede": "São Paulo",
+   "uf": "SP",
+   "municipio_atendido": "São Bernardo do Campo",
+   "cod_ibge": "3548708"
+  },
+  {
+   "sistema": "TOP (ônibus metropolitanos da ARTESP, Metrô e CPTM, Região Metropolitana de São Paulo)",
+   "abrangencia": "metropolitano",
+   "municipio_sede": "São Paulo",
+   "uf": "SP",
+   "municipio_atendido": "São Caetano do Sul",
+   "cod_ibge": "3548807"
+  },
+  {
+   "sistema": "TOP (ônibus metropolitanos da ARTESP, Metrô e CPTM, Região Metropolitana de São Paulo)",
+   "abrangencia": "metropolitano",
+   "municipio_sede": "São Paulo",
+   "uf": "SP",
+   "municipio_atendido": "São Lourenço da Serra",
+   "cod_ibge": "3549953"
+  },
+  {
+   "sistema": "TOP (ônibus metropolitanos da ARTESP, Metrô e CPTM, Região Metropolitana de São Paulo)",
+   "abrangencia": "metropolitano",
+   "municipio_sede": "São Paulo",
+   "uf": "SP",
+   "municipio_atendido": "São Paulo",
+   "cod_ibge": "3550308"
+  },
+  {
+   "sistema": "TOP (ônibus metropolitanos da ARTESP, Metrô e CPTM, Região Metropolitana de São Paulo)",
+   "abrangencia": "metropolitano",
+   "municipio_sede": "São Paulo",
+   "uf": "SP",
+   "municipio_atendido": "Taboão da Serra",
+   "cod_ibge": "3552809"
+  },
+  {
+   "sistema": "TOP (ônibus metropolitanos da ARTESP, Metrô e CPTM, Região Metropolitana de São Paulo)",
+   "abrangencia": "metropolitano",
+   "municipio_sede": "São Paulo",
+   "uf": "SP",
+   "municipio_atendido": "Vargem Grande Paulista",
+   "cod_ibge": "3556453"
   },
   {
    "sistema": "URBES Trânsito e Transportes; Cartão Cidadão (Passe Social), Passe Estudante e Vale-Transporte; operação City Transportes Urbano Global",

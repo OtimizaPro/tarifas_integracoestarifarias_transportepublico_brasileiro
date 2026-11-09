@@ -1,7 +1,7 @@
 {
   "name": "tarifas-transporte-publico-brasil",
   "title": "Tarifaoteca da Otimiza.pro: Base Nacional de Tarifas e Integrações do Transporte Público Brasileiro e Operadoras de Vale-Transporte",
-  "version": "2026.11.06",
+  "version": "2026.11.09",
   "homepage": "https://github.com/OtimizaPro/tarifas_integracoestarifarias_transportepublico_brasileiro",
   "licenses": [
     {
@@ -309,6 +309,78 @@
           },
           {
             "name": "verificado_em",
+            "type": "string"
+          },
+          {
+            "name": "sistema",
+            "type": "string"
+          },
+          {
+            "name": "abrangencia_sistema",
+            "type": "string"
+          },
+          {
+            "name": "nome",
+            "type": "string"
+          },
+          {
+            "name": "perfil",
+            "type": "string"
+          },
+          {
+            "name": "modos",
+            "type": "string"
+          },
+          {
+            "name": "max_embarques",
+            "type": "integer"
+          },
+          {
+            "name": "mesmo_sentido",
+            "type": "string"
+          },
+          {
+            "name": "usos_por_dia",
+            "type": "integer"
+          },
+          {
+            "name": "intervalo_min_entre_usos",
+            "type": "integer"
+          },
+          {
+            "name": "valor_brl",
+            "type": "number"
+          },
+          {
+            "name": "desconto_brl",
+            "type": "number"
+          },
+          {
+            "name": "condicao",
+            "type": "string"
+          },
+          {
+            "name": "linhas",
+            "type": "string"
+          },
+          {
+            "name": "estacoes",
+            "type": "string"
+          },
+          {
+            "name": "ato_oficial",
+            "type": "string"
+          },
+          {
+            "name": "vigencia_inicio",
+            "type": "string"
+          },
+          {
+            "name": "fonte_tipo",
+            "type": "string"
+          },
+          {
+            "name": "municipios_atendidos",
             "type": "string"
           }
         ]
