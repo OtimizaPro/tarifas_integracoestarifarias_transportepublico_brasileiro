@@ -1,6 +1,6 @@
 {
  "nome": "Tarifaoteca da Otimiza.pro: sistemas_municipios",
- "versao": "2026.11.09",
+ "versao": "2026.11.09.2",
  "licenca": {
   "nome": "CC BY-NC 4.0",
   "url": "https://creativecommons.org/licenses/by-nc/4.0/deed.pt-br",
@@ -8,7 +8,7 @@
   "uso_interno": "A consulta para decisões da própria empresa, como orçar o vale-transporte, não pede licença.",
   "uso_comercial": "Uso comercial por empresas (em produto, revenda ou integração em sistema ou serviço pago) pede licença da Otimiza.pro: empresa@otimiza.pro."
  },
- "citar_como": "Fonte: Tarifaoteca da Otimiza.pro, versão 2026.11.09. DOI: https://doi.org/10.5281/zenodo.23486211. https://github.com/OtimizaPro/tarifas_integracoestarifarias_transportepublico_brasileiro",
+ "citar_como": "Fonte: Tarifaoteca da Otimiza.pro, versão 2026.11.09.2. DOI: https://doi.org/10.5281/zenodo.23486211. https://github.com/OtimizaPro/tarifas_integracoestarifarias_transportepublico_brasileiro",
  "linhas": [
   {
    "sistema": "RBTrans (COM Card)",
@@ -6793,6 +6793,14 @@
    "uf": "SP",
    "municipio_atendido": "Penápolis",
    "cod_ibge": "3537305"
+  },
+  {
+   "sistema": "Prefeitura de Piedade; Programa Tarifa Zero \"Bora de Graça\", operado pela São João Fretamento e Turismo S.A. em contrato emergencial com a Prefeitura (Contrato nº 003/2026)",
+   "abrangencia": "municipal",
+   "municipio_sede": "Piedade",
+   "uf": "SP",
+   "municipio_atendido": "Piedade",
+   "cod_ibge": "3537800"
   },
   {
    "sistema": "Prefeitura de Piedade; Programa Tarifa Zero \"Bora de Graça\", operado por empresa contratada pela Prefeitura",

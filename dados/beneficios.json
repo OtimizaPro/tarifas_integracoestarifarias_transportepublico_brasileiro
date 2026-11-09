@@ -1,6 +1,6 @@
 {
  "nome": "Tarifaoteca da Otimiza.pro: beneficios",
- "versao": "2026.11.09",
+ "versao": "2026.11.09.2",
  "licenca": {
   "nome": "CC BY-NC 4.0",
   "url": "https://creativecommons.org/licenses/by-nc/4.0/deed.pt-br",
@@ -8,7 +8,7 @@
   "uso_interno": "A consulta para decisões da própria empresa, como orçar o vale-transporte, não pede licença.",
   "uso_comercial": "Uso comercial por empresas (em produto, revenda ou integração em sistema ou serviço pago) pede licença da Otimiza.pro: empresa@otimiza.pro."
  },
- "citar_como": "Fonte: Tarifaoteca da Otimiza.pro, versão 2026.11.09. DOI: https://doi.org/10.5281/zenodo.23486211. https://github.com/OtimizaPro/tarifas_integracoestarifarias_transportepublico_brasileiro",
+ "citar_como": "Fonte: Tarifaoteca da Otimiza.pro, versão 2026.11.09.2. DOI: https://doi.org/10.5281/zenodo.23486211. https://github.com/OtimizaPro/tarifas_integracoestarifarias_transportepublico_brasileiro",
  "linhas": [
   {
    "uf": "AC",
@@ -33,18 +33,6 @@
    "fonte_url": "https://www.ac.gov.br/servico/cartao-idoso-4",
    "confianca": "A",
    "verificado_em": "2026-11-05"
-  },
-  {
-   "uf": "AL",
-   "municipio": "Arapiraca",
-   "cod_ibge": "2700300",
-   "tipo": "tarifa_zero_temporal",
-   "regra": "Transporte coletivo gratuito no 1º turno das Eleições 2026 (04/10/2026) e no eventual 2º turno (25/10/2026), com frota de dia útil",
-   "desde": "2026-10-04",
-   "base_legal": "Resolução TSE nº 23.751/2026, art. 23",
-   "fonte_url": "https://web.arapiraca.al.gov.br/2026/10/eleitores-terao-transporte-coletivo-gratuito-neste-domingo-de-eleicao-frota-rodara-normalmente/",
-   "confianca": "A",
-   "verificado_em": "2026-10-17"
   },
   {
    "uf": "AL",
@@ -168,18 +156,6 @@
   },
   {
    "uf": "BA",
-   "municipio": "Barreiras",
-   "cod_ibge": "2903201",
-   "tipo": "tarifa_zero_temporal",
-   "regra": "Gratuidade universal em todas as linhas urbanas e rurais em 04/10/2026 (0h às 23h59), sem exigência de documento; pode valer no 2º turno (25/10/2026)",
-   "desde": "2026-10-04",
-   "base_legal": "Decreto Municipal nº 177/2026 (DOM nº 4748) e Resolução TSE nº 23.751/2026, art. 23",
-   "fonte_url": "https://barreiras.ba.gov.br/barreiras-tera-transporte-coletivo-gratuito-no-dia-4-de-outubro-para-as-eleicoes-2026/",
-   "confianca": "A",
-   "verificado_em": "2026-10-17"
-  },
-  {
-   "uf": "BA",
    "municipio": "Camaçari",
    "cod_ibge": "2905701",
    "tipo": "estudante",
@@ -273,18 +249,6 @@
    "fonte_url": "https://diariooficial.feiradesantana.ba.gov.br/atos/executivo/1BBDDL8J160120261739.pdf",
    "confianca": "A",
    "verificado_em": "2026-10-17"
-  },
-  {
-   "uf": "BA",
-   "municipio": "Ilhéus",
-   "cod_ibge": "2913606",
-   "tipo": "tarifa_zero_temporal",
-   "regra": "Ônibus gratuitos no dia da eleição de 04/10/2026, por decisão liminar da Justiça Eleitoral, depois que a SUTRAN anunciou cobrança normal",
-   "desde": "2026-10-04",
-   "base_legal": "decisão judicial com base na diretriz do STF e nas normas eleitorais",
-   "fonte_url": "https://ilheus24h.com.br/decisao-judicial-garante-onibus-gratuitos-no-dia-da-eleicao-em-ilheus/",
-   "confianca": "B",
-   "verificado_em": "2026-10-19"
   },
   {
    "uf": "BA",
@@ -427,18 +391,6 @@
    "desde": "2026-04-29",
    "base_legal": "Decreto Municipal nº 129/2026, art. 4º",
    "fonte_url": "https://diof.io.org.br/api/diario-oficial/download/2026_04_2913306006991",
-   "confianca": "A",
-   "verificado_em": "2026-10-20"
-  },
-  {
-   "uf": "BA",
-   "municipio": "Santo Antônio de Jesus",
-   "cod_ibge": "2928703",
-   "tipo": "tarifa_zero_temporal",
-   "regra": "Suspensão da cobrança da tarifa pública, sem cadastro nem requisito, das 06h às 20h de 25/10/2026 (segundo turno das eleições de 2026), em ônibus convencionais e micro-ônibus, com frequência de dia útil.",
-   "desde": "2026-10-25",
-   "base_legal": "Decreto nº 295, de 16 de outubro de 2026 (Diário Oficial de 19/10/2026, nº 14137)",
-   "fonte_url": "https://diof.io.org.br/api/diario-oficial/download/2026_10_1914137006991",
    "confianca": "A",
    "verificado_em": "2026-10-20"
   },
@@ -612,18 +564,6 @@
   },
   {
    "uf": "CE",
-   "municipio": "Fortaleza",
-   "cod_ibge": "2304400",
-   "tipo": "tarifa_zero_temporal",
-   "regra": "Ônibus gratuitos para todos das 6h às 18h nos domingos de eleição (04/10/2026 e eventual 2º turno em 25/10/2026); fora dessa faixa, Tarifa Social",
-   "desde": "2026-10-04",
-   "base_legal": "mensagem do Executivo aprovada pela Câmara Municipal em 01/10/2026 (número não citado)",
-   "fonte_url": "https://www.fortaleza.ce.gov.br/noticias/fortaleza-tera-passagem-de-onibus-gratuita-para-todos-e-frota-reforcada-no-domingo-de-eleicoes",
-   "confianca": "A",
-   "verificado_em": "2026-10-17"
-  },
-  {
-   "uf": "CE",
    "municipio": "Itaitinga",
    "cod_ibge": "2306256",
    "tipo": "tarifa_zero_universal",
@@ -776,18 +716,6 @@
    "base_legal": "Lei Orgânica do Município, art. 158; Lei nº 4.753/2002, art. 3º, com inciso acrescentado pela Lei nº 7.366, de 25/11/2025",
    "fonte_url": "https://www.colatina.es.gov.br/legislacao/",
    "confianca": "A",
-   "verificado_em": "2026-10-18"
-  },
-  {
-   "uf": "ES",
-   "municipio": "Colatina",
-   "cod_ibge": "3201506",
-   "tipo": "tarifa_zero_temporal",
-   "regra": "Transporte público gratuito nos dias de votação: 04/10/2026 e, se houver 2º turno, 25/10/2026",
-   "desde": "2026-10-04",
-   "base_legal": null,
-   "fonte_url": "https://www.colatina.es.gov.br/detalhe-da-materia/info/3372/transporte-publico-de-colatina-sera-gratuito-nos-dias-de-votacao-das-eleicoes-2026",
-   "confianca": "B",
    "verificado_em": "2026-10-18"
   },
   {
@@ -1116,42 +1044,6 @@
   },
   {
    "uf": "MA",
-   "municipio": "Imperatriz",
-   "cod_ibge": "2105302",
-   "tipo": "tarifa_zero_temporal",
-   "regra": "Ônibus semiurbanos gratuitos na Região Metropolitana de Imperatriz no domingo da eleição de 2026, até as 22h",
-   "desde": "2026-10-04",
-   "base_legal": "Portaria MOB nº 193/2026",
-   "fonte_url": "https://oimparcial.com.br/imperatriz/noticias/2026/10/onibus-semiurbanos-serao-gratuitos-no-domingo-da-eleicao-em-sao-luis-e-imperatriz/",
-   "confianca": "B",
-   "verificado_em": "2026-10-19"
-  },
-  {
-   "uf": "MA",
-   "municipio": "São José de Ribamar",
-   "cod_ibge": "2111201",
-   "tipo": "tarifa_zero_temporal",
-   "regra": "Ônibus semiurbanos gratuitos em São Luís, São José de Ribamar, Raposa e Paço do Lumiar no domingo da eleição de 2026, até as 22h",
-   "desde": "2026-10-04",
-   "base_legal": "Portaria MOB nº 193/2026",
-   "fonte_url": "https://oimparcial.com.br/imperatriz/noticias/2026/10/onibus-semiurbanos-serao-gratuitos-no-domingo-da-eleicao-em-sao-luis-e-imperatriz/",
-   "confianca": "B",
-   "verificado_em": "2026-10-19"
-  },
-  {
-   "uf": "MA",
-   "municipio": "São José de Ribamar",
-   "cod_ibge": "2111201",
-   "tipo": "tarifa_zero_temporal",
-   "regra": "Catraca liberada no semiurbano da Grande Ilha no feriado de Corpus Christi de 2026, das 12h às 23h",
-   "desde": "2026-06-04",
-   "base_legal": "não citada",
-   "fonte_url": "https://oimparcial.com.br/noticias/2026/06/transporte-publico-semiurbano-tera-catraca-liberada-no-feriado-de-corpus-christi-na-grande-ilha/",
-   "confianca": "B",
-   "verificado_em": "2026-10-19"
-  },
-  {
-   "uf": "MA",
    "municipio": "São Luís",
    "cod_ibge": "2111300",
    "tipo": "estudante",
@@ -1207,18 +1099,6 @@
    "desde": null,
    "base_legal": "não citada na fonte",
    "fonte_url": "https://timon.ma.gov.br/?p=362996",
-   "confianca": "A",
-   "verificado_em": "2026-10-17"
-  },
-  {
-   "uf": "MA",
-   "municipio": "Timon",
-   "cod_ibge": "2112209",
-   "tipo": "tarifa_zero_temporal",
-   "regra": "Linhas urbanas sem cobrança no 1º turno das Eleições 2026 (04/10/2026) e no eventual 2º turno (25/10/2026)",
-   "desde": "2026-10-04",
-   "base_legal": "edital da 19ª Zona Eleitoral e regras do TSE para as Eleições 2026",
-   "fonte_url": "https://timon.ma.gov.br/?p=363298",
    "confianca": "A",
    "verificado_em": "2026-10-17"
   },
@@ -1332,18 +1212,6 @@
   },
   {
    "uf": "MG",
-   "municipio": "Bom Despacho",
-   "cod_ibge": "3107406",
-   "tipo": "tarifa_zero_temporal",
-   "regra": "Transporte coletivo 100% gratuito nos dias de Carnaval (16 e 17/02/2026), com horário especial",
-   "desde": "2026-02-16",
-   "base_legal": null,
-   "fonte_url": "https://www.bomdespacho.mg.gov.br/noticias/%f0%9f%9a%8d%f0%9f%8e%89-transporte-coletivo-gratuito-no-carnaval/",
-   "confianca": "B",
-   "verificado_em": "2026-10-20"
-  },
-  {
-   "uf": "MG",
    "municipio": "Brumadinho",
    "cod_ibge": "3109006",
    "tipo": "idoso",
@@ -1447,18 +1315,6 @@
    "desde": "2021-03-23",
    "base_legal": null,
    "fonte_url": "https://www.claudio.mg.gov.br/portal/noticias/0/3/1648/agora-a-cidade-carinho-tem-transporte-coletivo-de-graca",
-   "confianca": "A",
-   "verificado_em": "2026-10-20"
-  },
-  {
-   "uf": "MG",
-   "municipio": "Congonhas",
-   "cod_ibge": "3118007",
-   "tipo": "tarifa_zero_temporal",
-   "regra": "Transporte coletivo urbano gratuito em todas as linhas municipais e para todos os passageiros no dia do 1º turno das eleições de 2026 (04/10/2026) e, se houver, no 2º turno (25/10/2026), sem exigir documento",
-   "desde": "2026-10-04",
-   "base_legal": "Resolução TSE nº 23.751/2026",
-   "fonte_url": "https://www.congonhas.mg.gov.br/index.php/prefeitura-de-congonhas-garante-gratuidade-no-transporte-coletivo-neste-domingo-4/",
    "confianca": "A",
    "verificado_em": "2026-10-20"
   },
@@ -1620,18 +1476,6 @@
   },
   {
    "uf": "MG",
-   "municipio": "Itajubá",
-   "cod_ibge": "3132404",
-   "tipo": "tarifa_zero_temporal",
-   "regra": "Isenção total de tarifa nas linhas municipais urbanas da Expresso Valênia no eventual segundo turno das Eleições de 2026, em 25/10/2026, durante o horário oficial de votação (início às 8h, término entre 17h e 19h); na área rural, o Município faz o transporte com frota própria.",
-   "desde": "2026-10-25",
-   "base_legal": "4º Termo de Aditamento ao Contrato nº 074/2004 (Diário de 25/09/2026, nº 824), corrigido pelo 5º Termo de Aditamento, de 30/09/2026 (Diário de 01/10/2026, nº 828)",
-   "fonte_url": "https://www.dosp.com.br/exibe_do.php?i=ODg4ODY1",
-   "confianca": "B",
-   "verificado_em": "2026-10-21"
-  },
-  {
-   "uf": "MG",
    "municipio": "Itaúna",
    "cod_ibge": "3133808",
    "tipo": "estudante",
@@ -1675,18 +1519,6 @@
    "desde": "2023-07-10",
    "base_legal": "Programa Busão do Povo, aprovado pela Câmara Municipal",
    "fonte_url": "https://www.ituiutaba.mg.gov.br/?pag=T1RVPU9EZz1PV0k9T1RrPU9UUT1OMlE9T0dNPU9XST1PR1U9T0dNPU9HWT1PV009T1dZPQ==&id=13432",
-   "confianca": "A",
-   "verificado_em": "2026-10-20"
-  },
-  {
-   "uf": "MG",
-   "municipio": "Janaúba",
-   "cod_ibge": "3135100",
-   "tipo": "tarifa_zero_temporal",
-   "regra": "Transporte público coletivo gratuito durante o período de votação do 2º turno das eleições, em 25/10/2026, por determinação da Justiça Eleitoral",
-   "desde": "2026-10-25",
-   "base_legal": "diretrizes do Tribunal Superior Eleitoral",
-   "fonte_url": "https://janauba.mg.gov.br/noticias/noticia/eleicoes-2026-segundo-turno-com-transporte-gratuito-em-janauba-no-dia-25-de-outubro-itinerario-area-urbana",
    "confianca": "A",
    "verificado_em": "2026-10-20"
   },
@@ -1800,18 +1632,6 @@
   },
   {
    "uf": "MG",
-   "municipio": "Matozinhos",
-   "cod_ibge": "3141108",
-   "tipo": "tarifa_zero_temporal",
-   "regra": "Gratuidade no transporte público municipal nos dias de votação das eleições de 2026 (4 de outubro e, se houver 2º turno, 25 de outubro)",
-   "desde": "2026-10-04",
-   "base_legal": "Decreto nº 4.250/2026",
-   "fonte_url": "https://matozinhos.mg.gov.br/noticias/utilidade-publica/transporte-publico-tera-gratuidade-para-facilitar-o-deslocamento-de-eleitores-no-dia-de-votacao",
-   "confianca": "A",
-   "verificado_em": "2026-10-20"
-  },
-  {
-   "uf": "MG",
    "municipio": "Monte Carmelo",
    "cod_ibge": "3143104",
    "tipo": "tarifa_zero_universal",
@@ -1872,18 +1692,6 @@
   },
   {
    "uf": "MG",
-   "municipio": "Nova Lima",
-   "cod_ibge": "3144805",
-   "tipo": "tarifa_zero_temporal",
-   "regra": "Transporte público municipal gratuito em 04/10/2026 (1º turno das eleições), com horário de dia útil",
-   "desde": "2026-10-04",
-   "base_legal": "art. 23 da Resolução TSE nº 23.751/2026 (comunicado da Prefeitura de 02/10/2026)",
-   "fonte_url": "https://novalima.mg.gov.br/inicio/noticias/comunicado_transporte_publico_na_eleicao",
-   "confianca": "A",
-   "verificado_em": "2026-10-18"
-  },
-  {
-   "uf": "MG",
    "municipio": "Nova Serrana",
    "cod_ibge": "3145208",
    "tipo": "tarifa_zero_temporal",
@@ -1939,18 +1747,6 @@
    "desde": "2026-01-01",
    "base_legal": "Lei nº 5.873/2025, art. 2º; Decreto nº 4.774/2025, art. 5º",
    "fonte_url": "https://www.leis.patrocinio.mg.gov.br/images/legislacao/2025/Leis/DECRETO_N%C2%BA_4.774_DE_30_DE_DEZEMBRO_DE_2025.pdf",
-   "confianca": "A",
-   "verificado_em": "2026-10-20"
-  },
-  {
-   "uf": "MG",
-   "municipio": "Patrocínio",
-   "cod_ibge": "3148103",
-   "tipo": "tarifa_zero_temporal",
-   "regra": "Passe livre coletivo para todos os usuários do transporte urbano nos dias das eleições gerais de 2026 (04/10/2026 e, se houver, 25/10/2026)",
-   "desde": "2026-10-04",
-   "base_legal": "Decreto nº 4.925, de 31/08/2026",
-   "fonte_url": "https://www.leis.patrocinio.mg.gov.br/index.php/decretos/2026/8544-decreto-n-4925",
    "confianca": "A",
    "verificado_em": "2026-10-20"
   },
@@ -2112,30 +1908,6 @@
   },
   {
    "uf": "MG",
-   "municipio": "Timóteo",
-   "cod_ibge": "3168705",
-   "tipo": "tarifa_zero_temporal",
-   "regra": "Gratuidade total em todas as linhas do sistema urbano nos dias de votação das eleições de 2026 (04/10 e, se houver, 25/10), das 7h às 18h, sem apresentação de documento; não vale nas linhas intermunicipais",
-   "desde": "2026-10-04",
-   "base_legal": "Decreto nº 6.446, de 1º de outubro de 2026",
-   "fonte_url": "https://www.timoteo.mg.gov.br/noticias/33438/prefeitura-de-timoteo-garante-tarifa-zero-no-transporte-publico-coletivo-para-as-eleicoes-2026",
-   "confianca": "A",
-   "verificado_em": "2026-10-20"
-  },
-  {
-   "uf": "MG",
-   "municipio": "Três Corações",
-   "cod_ibge": "3169307",
-   "tipo": "tarifa_zero_temporal",
-   "regra": "Transporte coletivo por ônibus gratuito nos dias 4 e 25 de outubro de 2026 (eleições), das 7h às 18h",
-   "desde": "2026-10-04",
-   "base_legal": "Decreto nº 5.779/2026",
-   "fonte_url": "https://www.trescoracoes.mg.gov.br/noticias/geral/transporte-publico-gratuito-nos-dias-4-e-25-de-outubro",
-   "confianca": "A",
-   "verificado_em": "2026-10-20"
-  },
-  {
-   "uf": "MG",
    "municipio": "Três Pontas",
    "cod_ibge": "3169406",
    "tipo": "idoso",
@@ -2267,18 +2039,6 @@
    "verificado_em": "2026-10-18"
   },
   {
-   "uf": "MG",
-   "municipio": "Varginha",
-   "cod_ibge": "3170701",
-   "tipo": "tarifa_zero_temporal",
-   "regra": "Transporte coletivo urbano gratuito para os eleitores em 04/10/2026 e, se houver 2º turno, em 25/10/2026, com frequência de dia útil",
-   "desde": "2026-10-04",
-   "base_legal": "Recomendação PGM nº 03/2026 (Procuradoria-Geral do Município)",
-   "fonte_url": "https://www.varginha.mg.gov.br/portal/noticias/0/3/10511/confira-informacoes-sobre-o-transporte-gratuito-no-dias-eleitorais",
-   "confianca": "A",
-   "verificado_em": "2026-10-18"
-  },
-  {
    "uf": "MS",
    "municipio": "Campo Grande",
    "cod_ibge": "5002704",
@@ -2316,18 +2076,6 @@
   },
   {
    "uf": "MS",
-   "municipio": "Corumbá",
-   "cod_ibge": "5003207",
-   "tipo": "tarifa_zero_temporal",
-   "regra": "Tarifa zero o dia todo em todas as linhas urbanas e rurais no aniversário da cidade (21/09/2025 e 21/09/2026) e no domingo de eleição (04/10/2026)",
-   "desde": "2025-09-21",
-   "base_legal": null,
-   "fonte_url": "https://acritica.net/eleicoes-2026/onibus-terao-tarifa-zero-em-corumba-durante-todo-o-domingo-de-eleicoes/",
-   "confianca": "B",
-   "verificado_em": "2026-10-17"
-  },
-  {
-   "uf": "MS",
    "municipio": "Dourados",
    "cod_ibge": "5003702",
    "tipo": "idoso",
@@ -2336,18 +2084,6 @@
    "base_legal": null,
    "fonte_url": "https://www.viacaodourados.com.br/cartao-transporte",
    "confianca": "B",
-   "verificado_em": "2026-10-17"
-  },
-  {
-   "uf": "MS",
-   "municipio": "Dourados",
-   "cod_ibge": "5003702",
-   "tipo": "tarifa_zero_temporal",
-   "regra": "Cobrança suspensa das 6h às 17h no domingo de eleição (04/10/2026) e em 25/10/2026, se houver segundo turno",
-   "desde": "2026-10-04",
-   "base_legal": "Decreto assinado pelo prefeito Marçal Filho",
-   "fonte_url": "https://portal.dourados.ms.gov.br/index.php/prefeitura-libera-transporte-coletivo-no-dia-das-eleicoes-e-altera-aulas-na-rede-municipal/",
-   "confianca": "A",
    "verificado_em": "2026-10-17"
   },
   {
@@ -2385,18 +2121,6 @@
    "fonte_url": "https://www.treslagoas.ms.gov.br/prefeitura-atualiza-normas-do-passe-de-transporte-coletivo-urbano-gratuito-para-pessoas-com-deficiencia/",
    "confianca": "A",
    "verificado_em": "2026-10-18"
-  },
-  {
-   "uf": "MS",
-   "municipio": "Três Lagoas",
-   "cod_ibge": "5008305",
-   "tipo": "tarifa_zero_temporal",
-   "regra": "Transporte coletivo urbano gratuito para toda a população no domingo de eleição, 04/10/2026, nas linhas regulares, mesmo que o deslocamento não seja para votar",
-   "desde": "2026-10-04",
-   "base_legal": null,
-   "fonte_url": "https://www.treslagoas.ms.gov.br/tres-lagoas-tera-transporte-coletivo-gratuito-no-domingo-de-eleicoes/",
-   "confianca": "A",
-   "verificado_em": "2026-10-19"
   },
   {
    "uf": "MT",
@@ -2472,30 +2196,6 @@
   },
   {
    "uf": "MT",
-   "municipio": "Lucas do Rio Verde",
-   "cod_ibge": "5105259",
-   "tipo": "tarifa_zero_temporal",
-   "regra": "Ônibus gratuito nas linhas indicadas pela Prefeitura no 1º turno das eleições (04/10/2026) e no 2º turno (25/10/2026), se houver",
-   "desde": "2026-10-04",
-   "base_legal": "Resolução TSE nº 23.759/2026, citada pela Prefeitura",
-   "fonte_url": "https://lucasdorioverde.mt.gov.br/site/noticias/prefeitura-de-lucas-do-rio-verde-confirma-transporte-gratuito-de-onibus-nas-eleicoes-2026-15202",
-   "confianca": "A",
-   "verificado_em": "2026-10-19"
-  },
-  {
-   "uf": "MT",
-   "municipio": "Rondonópolis",
-   "cod_ibge": "5107602",
-   "tipo": "tarifa_zero_temporal",
-   "regra": "Tarifa zero em todas as linhas nos dias das Eleições Gerais de 2026 (04/10/2026 e 25/10/2026, se houver segundo turno), das 00h00 às 23h59",
-   "desde": "2026-10-04",
-   "base_legal": "Decreto nº 13.544, de 20/08/2026 (DIORONDON-E nº 6.262, de 24/08/2026)",
-   "fonte_url": "https://www.rondonopolis.mt.gov.br/media/docs/edicoes/2026/August/369091c4-c8eb-4cc9-a1fd-e2e2f3542d2e.pdf",
-   "confianca": "A",
-   "verificado_em": "2026-10-17"
-  },
-  {
-   "uf": "MT",
    "municipio": "Sinop",
    "cod_ibge": "5107909",
    "tipo": "estudante",
@@ -2539,18 +2239,6 @@
    "desde": "2023-01",
    "base_legal": "Lei Municipal nº 2.758/2005, regulamentada pelo Decreto nº 01, de 06/01/2023",
    "fonte_url": "https://amm.diariomunicipal.org/publicacao/1146797/",
-   "confianca": "A",
-   "verificado_em": "2026-10-17"
-  },
-  {
-   "uf": "MT",
-   "municipio": "Várzea Grande",
-   "cod_ibge": "5108402",
-   "tipo": "tarifa_zero_temporal",
-   "regra": "Gratuidade em todas as linhas municipais nos dias de votação das Eleições 2026 (04/10/2026 e 25/10/2026, se houver segundo turno), das 6h às 18h30, para todos os usuários, com uso do cartão de transporte",
-   "desde": "2026-10-04",
-   "base_legal": "Portaria/GAB/SMSPMU nº 042/2026 (Jornal Oficial AMM-MT de 01/10/2026)",
-   "fonte_url": "https://amm.diariomunicipal.org/publicacao/1918034/",
    "confianca": "A",
    "verificado_em": "2026-10-17"
   },
@@ -2991,7 +2679,7 @@
    "municipio": "Petrolina",
    "cod_ibge": "2611101",
    "tipo": "tarifa_zero_temporal",
-   "regra": "Transporte coletivo urbano gratuito nos dias de eleição (04/10/2026 e eventual 2º turno em 25/10/2026)",
+   "regra": "Transporte coletivo urbano gratuito nos dias de eleição",
    "desde": "2022",
    "base_legal": "Lei Municipal nº 3.576/2022",
    "fonte_url": "https://g1.globo.com/pe/petrolina-regiao/noticia/2026/09/30/petrolina-tera-transporte-coletivo-gratuito-durante-as-eleicoes.ghtml",
@@ -3092,18 +2780,6 @@
    "base_legal": null,
    "fonte_url": "https://www.apucarana.pr.gov.br/site/prefeitura-e-val-trocam-metade-da-frota-e-colocam-apucarana-no-topo-do-transporte-coletivo-do-parana/",
    "confianca": "B",
-   "verificado_em": "2026-10-18"
-  },
-  {
-   "uf": "PR",
-   "municipio": "Apucarana",
-   "cod_ibge": "4101408",
-   "tipo": "tarifa_zero_temporal",
-   "regra": "Transporte coletivo urbano gratuito das 6h às 19h no 1º turno das Eleições 2026 (04/10/2026) e, se houver, no 2º turno (25/10/2026)",
-   "desde": "2026-10-04",
-   "base_legal": "Decreto municipal",
-   "fonte_url": "https://www.apucarana.pr.gov.br/site/decreto-assegura-transporte-coletivo-gratuito-no-domingo-das-eleicoes-para-facilitar-acesso-as-urnas/",
-   "confianca": "A",
    "verificado_em": "2026-10-18"
   },
   {
@@ -3684,18 +3360,6 @@
   },
   {
    "uf": "PR",
-   "municipio": "Rolândia",
-   "cod_ibge": "4122404",
-   "tipo": "tarifa_zero_temporal",
-   "regra": "dias de transporte coletivo gratuito decididos pela prefeitura com a operadora: de 07 a 24/12/2023 (até 23h30, com a ACIR), 19/12/2025 (show de Natal) e 04/10/2026 (eleições)",
-   "desde": null,
-   "base_legal": null,
-   "fonte_url": "https://www.rolandia.pr.gov.br/noticias_individual/24029",
-   "confianca": "B",
-   "verificado_em": "2026-10-20"
-  },
-  {
-   "uf": "PR",
    "municipio": "São Mateus do Sul",
    "cod_ibge": "4125605",
    "tipo": "idoso",
@@ -3732,18 +3396,6 @@
   },
   {
    "uf": "PR",
-   "municipio": "Toledo",
-   "cod_ibge": "4127700",
-   "tipo": "tarifa_zero_temporal",
-   "regra": "Transporte coletivo urbano e distrital gratuito das 6h às 18h no 1º turno das eleições (04/10/2026), para o deslocamento dos eleitores; vale também no 2º turno (25/10/2026), se houver",
-   "desde": "2026-10-04",
-   "base_legal": "Ordem de Serviço nº 019/2026 da Secretaria de Segurança e Trânsito",
-   "fonte_url": "https://www.toledo.pr.gov.br/noticias/seguranca-e-transito/transporte-coletivo-sera-gratuito-em-toledo-no-domingo-de-eleicoes",
-   "confianca": "A",
-   "verificado_em": "2026-10-19"
-  },
-  {
-   "uf": "PR",
    "municipio": "Umuarama",
    "cod_ibge": "4128104",
    "tipo": "estudante",
@@ -3752,18 +3404,6 @@
    "base_legal": null,
    "fonte_url": "https://www.viacaoumuarama.com.br/urb/horarios",
    "confianca": "B",
-   "verificado_em": "2026-10-19"
-  },
-  {
-   "uf": "PR",
-   "municipio": "Umuarama",
-   "cod_ibge": "4128104",
-   "tipo": "tarifa_zero_temporal",
-   "regra": "Transporte coletivo urbano gratuito para todos os passageiros, em todas as linhas e horários, no 1º turno das eleições (04/10/2026), sem exigir documento; vale também no 2º turno, se houver",
-   "desde": "2026-10-04",
-   "base_legal": "Decreto nº 261/2026, com base na Resolução TSE nº 23.751/2026, citada pela Prefeitura",
-   "fonte_url": "https://umuarama.pr.gov.br/noticias/administracao/transporte-coletivo-ser-gratuito-em-umuarama-no-dia-da-votao",
-   "confianca": "A",
    "verificado_em": "2026-10-19"
   },
   {
@@ -3936,30 +3576,6 @@
   },
   {
    "uf": "RJ",
-   "municipio": "Cabo Frio",
-   "cod_ibge": "3300704",
-   "tipo": "tarifa_zero_temporal",
-   "regra": "Transporte coletivo municipal gratuito para todos das 6h às 20h em 04/10/2026 e, se houver 2º turno, em 25/10/2026, em todas as linhas, inclusive as do 2º distrito e do Integra Tamoios",
-   "desde": "2026-10-04",
-   "base_legal": "Decreto nº 7.906, de 02/10/2026 (Diário Oficial Eletrônico nº 199)",
-   "fonte_url": "https://portal.cabofrio.rj.gov.br/arquivos/7321/DECRETO_7.906_2026_0000001.pdf",
-   "confianca": "A",
-   "verificado_em": "2026-10-18"
-  },
-  {
-   "uf": "RJ",
-   "municipio": "Campos dos Goytacazes",
-   "cod_ibge": "3301009",
-   "tipo": "tarifa_zero_temporal",
-   "regra": "Cobrança suspensa das 6h às 20h nos dias de eleição (04/10/2026 e 25/10/2026, se houver 2º turno), no convencional e no alimentador",
-   "desde": "2026-10-04",
-   "base_legal": "Decreto nº 293/2026 (suplemento do Diário Oficial, edição 2113, de 17/08/2026)",
-   "fonte_url": "https://campos.rj.gov.br/2026/08/27/transporte-coletivo-tera-gratuidade-nos-dias-das-eleicoes-2026-em-campos/",
-   "confianca": "A",
-   "verificado_em": "2026-10-18"
-  },
-  {
-   "uf": "RJ",
    "municipio": "Duque de Caxias",
    "cod_ibge": "3301702",
    "tipo": "tarifa_reduzida",
@@ -3968,18 +3584,6 @@
    "base_legal": null,
    "fonte_url": "https://diariodotransporte.com.br/2026/09/09/duque-de-caxias-rj-recebe-10-novos-onibus-mascarello-para-frota-do-programa-tarifa-zero/",
    "confianca": "B",
-   "verificado_em": "2026-10-17"
-  },
-  {
-   "uf": "RJ",
-   "municipio": "Duque de Caxias",
-   "cod_ibge": "3301702",
-   "tipo": "tarifa_zero_temporal",
-   "regra": "Todas as linhas municipais sem cobrança das 6h às 20h nos dias de eleição (04/10/2026 e 25/10/2026)",
-   "desde": "2026-10-04",
-   "base_legal": "Decreto nº 9.189/2026",
-   "fonte_url": "https://portal.duquedecaxias.rj.gov.br/noticia/esquema-de-coleta-de-lixo-transito-e-transporte-no-primeiro-turno-das-eleicoes-de-2026-7316",
-   "confianca": "A",
    "verificado_em": "2026-10-17"
   },
   {
@@ -4005,18 +3609,6 @@
    "fonte_url": "https://site.ib.itaborai.rj.gov.br/itaborai-faz-historia-onibus-com-tarifa-zero-passa-a-circular-por-toda-a-cidade/",
    "confianca": "B",
    "verificado_em": "2026-10-17"
-  },
-  {
-   "uf": "RJ",
-   "municipio": "Itaguaí",
-   "cod_ibge": "3302007",
-   "tipo": "tarifa_zero_temporal",
-   "regra": "Transporte gratuito para eleitores nos dias de eleição de 2026 (04/10 e 25/10, das 06h30 às 19h20), em oito linhas especiais operadas com ônibus escolares da Secretaria Municipal de Educação, mediante documento de eleitor. Não é serviço regular (a cidade não tem ônibus municipal em operação) e não vale nas linhas intermunicipais.",
-   "desde": "2026-10-04",
-   "base_legal": "Decreto nº 5.036, de 01/09/2026 (Jornal Oficial de Itaguaí nº 1.512, de 02/09/2026)",
-   "fonte_url": "https://www.attosoficiais.com.br/api/pdf?id=1zlS4f_yTui76uCdU1VoP7ERbDIclvKIb&n=1512",
-   "confianca": "A",
-   "verificado_em": "2026-10-21"
   },
   {
    "uf": "RJ",
@@ -4116,18 +3708,6 @@
   },
   {
    "uf": "RJ",
-   "municipio": "Nilópolis",
-   "cod_ibge": "3303203",
-   "tipo": "tarifa_zero_temporal",
-   "regra": "Suspensão da cobrança da tarifa pública nas 9 linhas municipais de ônibus (2 da Nilopolitana e 7 da Expresso São Francisco), das 06h às 20h, em 04/10/2026 (1º turno das eleições) e, se houver 2º turno, em 25/10/2026. Não vale nas linhas intermunicipais, que seguem o órgão estadual.",
-   "desde": "2026-10-04",
-   "base_legal": "Decreto nº 5.571, de 04/08/2026 (publicado em 07/08/2026)",
-   "fonte_url": "https://pmnilopolis.geosiap.net.br/pmnilopolis/websis/siapegov/legislativo/leis/lei_documento_anexo.php?id=2287&tipo=32",
-   "confianca": "B",
-   "verificado_em": "2026-10-21"
-  },
-  {
-   "uf": "RJ",
    "municipio": "Nova Friburgo",
    "cod_ibge": "3303401",
    "tipo": "tarifa_zero_temporal",
@@ -4185,30 +3765,6 @@
    "fonte_url": "https://www.petropolis.rj.gov.br/gap/diario-oficial/publicacoes/view/216",
    "confianca": "A",
    "verificado_em": "2026-10-18"
-  },
-  {
-   "uf": "RJ",
-   "municipio": "Queimados",
-   "cod_ibge": "3304144",
-   "tipo": "tarifa_zero_temporal",
-   "regra": "Operação gratuita das linhas municipais de ônibus, pelas concessionárias Fazeni e Gardel, no dia das eleições de 2026 (04/10/2026) e, se houver segundo turno, em 25/10/2026, das 07h às 18h, 'totalmente gratuitas a todos os usuários'. Não vale nas linhas intermunicipais, que seguem o órgão estadual.",
-   "desde": "2026-10-04",
-   "base_legal": "Decreto nº 3.447, de 18/09/2026 (D.O.Q. nº 171, de 18/09/2026, pág. 2)",
-   "fonte_url": "https://transparencia.queimados.rj.gov.br/diario_oficial_get_anexo.php?codigo=9378",
-   "confianca": "A",
-   "verificado_em": "2026-10-21"
-  },
-  {
-   "uf": "RJ",
-   "municipio": "Rio Bonito",
-   "cod_ibge": "3304300",
-   "tipo": "tarifa_zero_temporal",
-   "regra": "Ônibus gratuitos no primeiro e no segundo turno das eleições de 2026 (segundo turno em 25 de outubro)",
-   "desde": "2026-10-04",
-   "base_legal": null,
-   "fonte_url": "https://riobonito.rj.gov.br/rio-bonito-tera-onibus-gratuitos-no-segundo-turno-das-eleicoes-assim-como-no-primeiro/",
-   "confianca": "B",
-   "verificado_em": "2026-10-20"
   },
   {
    "uf": "RJ",
@@ -4308,30 +3864,6 @@
   },
   {
    "uf": "RJ",
-   "municipio": "Saquarema",
-   "cod_ibge": "3305505",
-   "tipo": "tarifa_zero_temporal",
-   "regra": "Transporte coletivo municipal gratuito das 6h às 20h em 04/10/2026 e, se houver 2º turno, em 25/10/2026, com toda a frota de dias úteis",
-   "desde": "2026-10-04",
-   "base_legal": "Decreto nº 3.263, de 06/08/2026 (publicado em 07/08/2026)",
-   "fonte_url": "https://transparencia.saquarema.rj.gov.br/wp-content/uploads/2026/08/Decreto-3263_11082026093637.pdf",
-   "confianca": "A",
-   "verificado_em": "2026-10-18"
-  },
-  {
-   "uf": "RJ",
-   "municipio": "São Gonçalo",
-   "cod_ibge": "3304904",
-   "tipo": "tarifa_zero_temporal",
-   "regra": "Ônibus municipais grátis das 7h às 18h nos dias de eleição (04/10/2026 e 25/10/2026, se houver 2º turno), com 100% da frota de dia útil",
-   "desde": "2026-10-04",
-   "base_legal": "Decreto nº 446/2026 (D.O.E. de 18/09/2026)",
-   "fonte_url": "https://do.pmsg.rj.gov.br/diario/2026_09_18.pdf",
-   "confianca": "A",
-   "verificado_em": "2026-10-17"
-  },
-  {
-   "uf": "RJ",
    "municipio": "São João da Barra",
    "cod_ibge": "3305000",
    "tipo": "tarifa_zero_universal",
@@ -4380,18 +3912,6 @@
   },
   {
    "uf": "RJ",
-   "municipio": "Três Rios",
-   "cod_ibge": "3306008",
-   "tipo": "tarifa_zero_temporal",
-   "regra": "Suspensão da cobrança da tarifa pública no Transporte Coletivo Convencional Municipal das 06h às 20h de 04/10/2026 (1º turno das eleições) e, caso haja 2º turno, de 25/10/2026, no mesmo horário, com a frota de dia útil.",
-   "desde": "2026-10-04",
-   "base_legal": "Decreto nº 7.681, de 3 de agosto de 2026 (BIO nº 2.254, de 05/08/2026, págs. 10 e 11)",
-   "fonte_url": "https://tresrios.rj.gov.br/uploads/2026/08/BIO-N2254-05082026.pdf",
-   "confianca": "A",
-   "verificado_em": "2026-10-21"
-  },
-  {
-   "uf": "RJ",
    "municipio": "Valença",
    "cod_ibge": "3306107",
    "tipo": "estudante",
@@ -4401,18 +3921,6 @@
    "fonte_url": "https://gestor.valenca.rj.gov.br/uploads/uploads/2024/11/LEI-No-3639.pdf",
    "confianca": "A",
    "verificado_em": "2026-10-22"
-  },
-  {
-   "uf": "RJ",
-   "municipio": "Valença",
-   "cod_ibge": "3306107",
-   "tipo": "tarifa_zero_temporal",
-   "regra": "Operação especial de transporte público coletivo urbano com gratuidade tarifária durante a ExpoCristã, no distrito sede, de 26 a 27/06/2026, com linhas especiais, contratada com a concessionária por R$ 5.400,00",
-   "desde": "2026-06-26",
-   "base_legal": "Contrato de Concessão nº 17/2021, Lei Federal nº 8.987/1995 e Lei Federal nº 14.133/2021 (extrato no Boletim Oficial)",
-   "fonte_url": "https://gestor.valenca.rj.gov.br/uploads/files/valenca/BO_21091.pdf",
-   "confianca": "A",
-   "verificado_em": "2026-10-20"
   },
   {
    "uf": "RN",
@@ -4425,18 +3933,6 @@
    "fonte_url": "https://macaiba.rn.gov.br/linha-a-da-trampolim-passa-a-atender-bairro-bela-macaiba/",
    "confianca": "B",
    "verificado_em": "2026-10-20"
-  },
-  {
-   "uf": "RN",
-   "municipio": "Mossoró",
-   "cod_ibge": "2408003",
-   "tipo": "tarifa_zero_temporal",
-   "regra": "Transporte coletivo gratuito no 1º turno (04/10/2026) e no 2º turno (25/10/2026) das eleições de 2026, com sete linhas em operação especial no 2º turno",
-   "desde": "2026-10-04",
-   "base_legal": "não citada",
-   "fonte_url": "https://prefeiturademossoro.com.br/noticias/prefeitura-de-mossoro-garante-transporte-publico-gratuito-para-o-segundo-turno-das-eleicoes-2026/18066",
-   "confianca": "B",
-   "verificado_em": "2026-10-19"
   },
   {
    "uf": "RN",
@@ -4608,18 +4104,6 @@
   },
   {
    "uf": "RS",
-   "municipio": "Bagé",
-   "cod_ibge": "4301602",
-   "tipo": "tarifa_zero_temporal",
-   "regra": "transporte coletivo urbano gratuito para todos no dia da votação do segundo turno das eleições de 2026, com frequência de dia útil",
-   "desde": "2026-10-25",
-   "base_legal": "Decreto nº 298, de 29 de setembro de 2026",
-   "fonte_url": "https://www.bage.rs.gov.br/noticias-1/transporte-coletivo-sera-gratuito-tambem-no-segundo-turno-das-eleicoes",
-   "confianca": "A",
-   "verificado_em": "2026-10-20"
-  },
-  {
-   "uf": "RS",
    "municipio": "Canela",
    "cod_ibge": "4304408",
    "tipo": "estudante",
@@ -4639,18 +4123,6 @@
    "desde": null,
    "base_legal": "Lei Municipal nº 3.411, de 16 de setembro de 2013, art. 39, II e § 2º",
    "fonte_url": "https://canela.cespro.com.br/visualizarDiploma.php?cdMunicipio=7337&cdDiploma=20133411&NroLei=3.411",
-   "confianca": "B",
-   "verificado_em": "2026-10-22"
-  },
-  {
-   "uf": "RS",
-   "municipio": "Canela",
-   "cod_ibge": "4304408",
-   "tipo": "tarifa_zero_temporal",
-   "regra": "Gratuidade em todas as linhas regulares do transporte coletivo urbano municipal, para todos os usuários, durante todo o período de operação, nos dias de votação das Eleições 2026: 04/10/2026 (1º turno) e 25/10/2026 (2º turno), com a grade de dia útil e custeio do Município",
-   "desde": "2026-10-04",
-   "base_legal": "Decreto Municipal nº 11.415, de 3 de outubro de 2026",
-   "fonte_url": "https://canela.cespro.com.br/visualizarDiploma.php?cdMunicipio=7337&cdDiploma=202611415&NroLei=11.415",
    "confianca": "B",
    "verificado_em": "2026-10-22"
   },
@@ -4764,18 +4236,6 @@
   },
   {
    "uf": "RS",
-   "municipio": "Esteio",
-   "cod_ibge": "4307708",
-   "tipo": "tarifa_zero_temporal",
-   "regra": "transporte coletivo municipal gratuito para todos no 1º turno das eleições de 2026, com a grade de horários de sábado",
-   "desde": "2026-10-04",
-   "base_legal": null,
-   "fonte_url": "https://esteiomob.com.br/noticia/view/6/informativo-eleicoes-2026",
-   "confianca": "B",
-   "verificado_em": "2026-10-20"
-  },
-  {
-   "uf": "RS",
    "municipio": "Farroupilha",
    "cod_ibge": "4307906",
    "tipo": "idoso",
@@ -4807,18 +4267,6 @@
    "desde": null,
    "base_legal": null,
    "fonte_url": "https://diariodotransporte.com.br/2026/05/19/gramado-rs-deve-receber-novos-onibus-marcopolo-para-frota-do-transporte-publico-a-partir-da-proxima-semana/",
-   "confianca": "B",
-   "verificado_em": "2026-10-20"
-  },
-  {
-   "uf": "RS",
-   "municipio": "Gramado",
-   "cod_ibge": "4309100",
-   "tipo": "tarifa_zero_temporal",
-   "regra": "transporte público gratuito em todas as linhas municipais durante todo o domingo do 1º turno das eleições de 2026",
-   "desde": "2026-10-04",
-   "base_legal": null,
-   "fonte_url": "https://www.gramado.rs.gov.br/cidadao/noticia/eleicoes-2026-transporte-publico-gratuito-neste-domingo-em-gramado",
    "confianca": "B",
    "verificado_em": "2026-10-20"
   },
@@ -5124,18 +4572,6 @@
   },
   {
    "uf": "RS",
-   "municipio": "Santiago",
-   "cod_ibge": "4317400",
-   "tipo": "tarifa_zero_temporal",
-   "regra": "Passe livre no transporte coletivo por ônibus nos dias de votação das Eleições 2026: 04/10/2026 (1º turno) e 25/10/2026 (2º turno, se houver), das 8h às 17h30. Em 21/10/2026 a Prefeitura confirmou o transporte gratuito no 2º turno, também para o interior.",
-   "desde": "2026-10-04",
-   "base_legal": "Decreto Municipal nº 96, de 02/10/2026",
-   "fonte_url": "https://leis.org/prefeitura/rs/santiago/lei/decreto/2026/96/decreto-n-96-2026-dispoe-sobre-a-concessao-de-gratuidade-passe-livre-no-servico-de-transporte-coletivo-urbano-de-passageiros-no-municipio-de-santiago-rs-nos-dias-de-votacao-das-eleicoes-de-2026-e-da-outras/",
-   "confianca": "B",
-   "verificado_em": "2026-10-23"
-  },
-  {
-   "uf": "RS",
    "municipio": "Santo Antônio da Patrulha",
    "cod_ibge": "4317608",
    "tipo": "tarifa_zero_temporal",
@@ -5155,18 +4591,6 @@
    "desde": "2021-09-17",
    "base_legal": "Decreto Municipal nº 4.043/2021 (bilhetagem eletrônica)",
    "fonte_url": "https://santoangelo.cespro.com.br/visualizarDiploma.php?cdMunicipio=7877&cdDiploma=202104043",
-   "confianca": "B",
-   "verificado_em": "2026-10-20"
-  },
-  {
-   "uf": "RS",
-   "municipio": "Santo Ângelo",
-   "cod_ibge": "4317509",
-   "tipo": "tarifa_zero_temporal",
-   "regra": "Gratuidade em todas as linhas e horários nos dias de votação das Eleições Gerais de 2026 (04/10/2026 e 25/10/2026, se houver segundo turno)",
-   "desde": "2026-10-04",
-   "base_legal": "Decreto Municipal nº 4.455, de 02/10/2026",
-   "fonte_url": "https://santoangelo.cespro.com.br/visualizarDiploma.php?cdMunicipio=7877&cdDiploma=202604455",
    "confianca": "B",
    "verificado_em": "2026-10-20"
   },
@@ -5217,18 +4641,6 @@
    "fonte_url": "https://coleobus.com.br/",
    "confianca": "B",
    "verificado_em": "2026-10-19"
-  },
-  {
-   "uf": "RS",
-   "municipio": "Uruguaiana",
-   "cod_ibge": "4322400",
-   "tipo": "tarifa_zero_temporal",
-   "regra": "seis linhas do transporte coletivo sem cobrança de passagem no domingo do 2º turno das eleições de 2026, das 8h às 18h, com saídas de hora em hora",
-   "desde": "2026-10-25",
-   "base_legal": null,
-   "fonte_url": "https://www.uruguaiana.rs.gov.br/portal/noticias/0/3/8101/prefeitura-de-uruguaiana-tera-onibus-gratuitos-no-segundo-turno-das-eleicoes-2026",
-   "confianca": "B",
-   "verificado_em": "2026-10-20"
   },
   {
    "uf": "RS",
@@ -5328,18 +4740,6 @@
   },
   {
    "uf": "SC",
-   "municipio": "Canoinhas",
-   "cod_ibge": "4203808",
-   "tipo": "tarifa_zero_temporal",
-   "regra": "Gratuidade total da tarifa em todas as linhas do transporte coletivo urbano municipal nos dias de votação das Eleições Gerais de 2026: 04/10/2026 e, havendo segundo turno, 25/10/2026, com a frequência de dia útil.",
-   "desde": "2026-10-04",
-   "base_legal": "Decreto nº 252/2026",
-   "fonte_url": "https://diariomunicipal.sc.gov.br/atos/8723438",
-   "confianca": "A",
-   "verificado_em": "2026-10-20"
-  },
-  {
-   "uf": "SC",
    "municipio": "Caçador",
    "cod_ibge": "4203006",
    "tipo": "idoso",
@@ -5431,18 +4831,6 @@
    "desde": null,
    "base_legal": null,
    "fonte_url": "https://www.hodierna.com.br/arquivos_internos/index.php?abrir=cartoes_vem",
-   "confianca": "B",
-   "verificado_em": "2026-10-18"
-  },
-  {
-   "uf": "SC",
-   "municipio": "Concórdia",
-   "cod_ibge": "4204301",
-   "tipo": "tarifa_zero_temporal",
-   "regra": "Transporte gratuito em 04/10/2026, dia de eleição (informativo da Hodierna de 02/10/2026); também foi gratuito em 29/07/2026, aniversário de Concórdia",
-   "desde": "2026-10-04",
-   "base_legal": null,
-   "fonte_url": "https://www.hodierna.com.br/arquivos_internos/index.php",
    "confianca": "B",
    "verificado_em": "2026-10-18"
   },
@@ -5568,18 +4956,6 @@
   },
   {
    "uf": "SC",
-   "municipio": "Itajaí",
-   "cod_ibge": "4208203",
-   "tipo": "tarifa_zero_temporal",
-   "regra": "Gratuidade em todas as linhas e terminais nos dias de votação das Eleições de 2026 (04/10/2026 e 25/10/2026, se houver 2º turno), com frota e horários de dia útil",
-   "desde": "2026-10-04",
-   "base_legal": "Decreto nº 14.294, de 23/09/2026 (Jornal do Município nº 3316, de 24/09/2026)",
-   "fonte_url": "https://intranet2.itajai.sc.gov.br/public/jornal-municipio/jornais/jornal_2026_3316_3365.pdf",
-   "confianca": "A",
-   "verificado_em": "2026-10-18"
-  },
-  {
-   "uf": "SC",
    "municipio": "Jaraguá do Sul",
    "cod_ibge": "4208906",
    "tipo": "tarifa_reduzida",
@@ -5664,18 +5040,6 @@
   },
   {
    "uf": "SC",
-   "municipio": "Rio do Sul",
-   "cod_ibge": "4214805",
-   "tipo": "tarifa_zero_temporal",
-   "regra": "Transporte coletivo municipal e intermunicipal gratuito no 1º turno das Eleições 2026 (04/10/2026), com quadro especial de horários",
-   "desde": "2026-10-04",
-   "base_legal": null,
-   "fonte_url": "https://onibuscircular.com.br/%f0%9f%9a%8c-transporte-gratuito-eleicoes-2026/",
-   "confianca": "B",
-   "verificado_em": "2026-10-18"
-  },
-  {
-   "uf": "SC",
    "municipio": "São Miguel do Oeste",
    "cod_ibge": "4217204",
    "tipo": "tarifa_reduzida",
@@ -5720,18 +5084,6 @@
    "base_legal": "decreto de reajuste de dezembro de 2024 (número não citado na matéria)",
    "fonte_url": "https://diariodotransporte.com.br/2024/12/28/tarifa-de-onibus-em-videira-sc-aumenta-para-r-600-em-2025/",
    "confianca": "B",
-   "verificado_em": "2026-10-20"
-  },
-  {
-   "uf": "SC",
-   "municipio": "Xanxerê",
-   "cod_ibge": "4219507",
-   "tipo": "tarifa_zero_temporal",
-   "regra": "Transporte coletivo urbano com gratuidade para os usuários no dia das Eleições Gerais de 2026 (04/10/2026) e no eventual segundo turno (25/10/2026), em horário especial, aberto aos eleitores.",
-   "desde": "2026-10-04",
-   "base_legal": "Decisão do STF e regulamentação da Justiça Eleitoral, citadas pela Prefeitura",
-   "fonte_url": "https://xanxere.sc.gov.br/transporte-coletivo-sera-gratuito-no-dia-das-eleicoes-em-xanxere/",
-   "confianca": "A",
    "verificado_em": "2026-10-20"
   },
   {
@@ -5876,18 +5228,6 @@
    "base_legal": "Decreto nº 14.057/2025, art. 2º",
    "fonte_url": "https://araraquara.1dom.com.br/ato/01KDTCKNKVHTTY3KF1M95EM7P9",
    "confianca": "A",
-   "verificado_em": "2026-10-18"
-  },
-  {
-   "uf": "SP",
-   "municipio": "Araraquara",
-   "cod_ibge": "3503208",
-   "tipo": "tarifa_zero_temporal",
-   "regra": "Tarifa gratuita durante o período de votação nas eleições de 04/10/2026 e 25/10/2026 (segundo turno, se houver), com horários de dia útil.",
-   "desde": "2026-10-04",
-   "base_legal": null,
-   "fonte_url": "https://novocardararaquara.com.br/",
-   "confianca": "B",
    "verificado_em": "2026-10-18"
   },
   {
@@ -6108,18 +5448,6 @@
   },
   {
    "uf": "SP",
-   "municipio": "Birigui",
-   "cod_ibge": "3506508",
-   "tipo": "tarifa_zero_temporal",
-   "regra": "Transporte coletivo gratuito em 04/10/2026 (1º turno), com linhas especiais das 7h30 às 17h saindo dos bairros para o terminal urbano e embarque pela porta traseira; o serviço normalmente não funciona aos domingos; na zona rural, veículos da Secretaria de Educação",
-   "desde": "2026-10-04",
-   "base_legal": null,
-   "fonte_url": "http://www.birigui.sp.gov.br/birigui/noticias/noticias_detalhes.php?id_noticia=11315",
-   "confianca": "B",
-   "verificado_em": "2026-10-18"
-  },
-  {
-   "uf": "SP",
    "municipio": "Boituva",
    "cod_ibge": "3507001",
    "tipo": "estudante",
@@ -6135,7 +5463,7 @@
    "municipio": "Boituva",
    "cod_ibge": "3507001",
    "tipo": "tarifa_zero_temporal",
-   "regra": "Gratuidade aos domingos para quem usa o Cartão MoV; também transporte coletivo gratuito nos dias de eleição de 04/10/2026 e 25/10/2026.",
+   "regra": "Gratuidade aos domingos para quem usa o Cartão MoV.",
    "desde": null,
    "base_legal": "notícias da prefeitura de 31/10/2024 (domingos) e de 01/10/2026 (eleições, Resolução TSE nº 23.736/2024)",
    "fonte_url": "https://www.boituva.sp.gov.br/imprensa/noticias/correcao-de-tarifa-do-transporte-publico-comeca-a-ser-aplicada-a-partir-do-proximo-dia-04",
@@ -6228,18 +5556,6 @@
   },
   {
    "uf": "SP",
-   "municipio": "Cajamar",
-   "cod_ibge": "3509205",
-   "tipo": "tarifa_zero_temporal",
-   "regra": "Ônibus municipais gratuitos para os eleitores em 04/10/2026 e, se houver 2º turno, em 25/10/2026, com frequência de dia útil",
-   "desde": "2026-10-04",
-   "base_legal": "Decreto nº 7.824, de 23/09/2026 (Diário Oficial do Município nº 1.762, de 23/09/2026)",
-   "fonte_url": "https://cajamar.sp.gov.br/decretos/wp-content/uploads/sites/28/2026/10/decreto-7824-26.pdf",
-   "confianca": "A",
-   "verificado_em": "2026-10-18"
-  },
-  {
-   "uf": "SP",
    "municipio": "Campinas",
    "cod_ibge": "3509502",
    "tipo": "idoso",
@@ -6282,18 +5598,6 @@
    "regra": "Gratuidade da tarifa do transporte coletivo urbano aos domingos, para todos os usuários, custeada por subsídio municipal à Rápido Luxo Campinas.",
    "desde": null,
    "base_legal": "Decreto Municipal nº 7.453, de 15 de julho de 2025, citado no Decreto nº 7.556, de 24/09/2026 (Diário Oficial, edição nº 647, de 25/09/2026)",
-   "fonte_url": "https://dosp.com.br/exibe_do.php?i=ODg2MzEw",
-   "confianca": "B",
-   "verificado_em": "2026-10-20"
-  },
-  {
-   "uf": "SP",
-   "municipio": "Campo Limpo Paulista",
-   "cod_ibge": "3509601",
-   "tipo": "tarifa_zero_temporal",
-   "regra": "Operação gratuita do transporte coletivo urbano para todos os usuários nos dias de votação de 2026 (04/10 e 25/10), com a frequência dos dias úteis.",
-   "desde": "2026-10-04",
-   "base_legal": "Decreto nº 7.556, de 24/09/2026 (Diário Oficial, edição nº 647, de 25/09/2026), com base no art. 23 da Resolução-TSE nº 23.751/2026",
    "fonte_url": "https://dosp.com.br/exibe_do.php?i=ODg2MzEw",
    "confianca": "B",
    "verificado_em": "2026-10-20"
@@ -6345,18 +5649,6 @@
    "fonte_url": "https://diariodotransporte.com.br/2024/05/29/sancetur-assume-transportes-em-caraguatatuba-sp-no-dia-1o-de-junho-apos-anuencia-da-prefeitura/",
    "confianca": "B",
    "verificado_em": "2026-10-18"
-  },
-  {
-   "uf": "SP",
-   "municipio": "Caçapava",
-   "cod_ibge": "3508504",
-   "tipo": "tarifa_zero_temporal",
-   "regra": "Transporte coletivo municipal gratuito no segundo turno das eleições de 2026, em 25/10/2026, das 7h às 18h.",
-   "desde": "2026-10-25",
-   "base_legal": null,
-   "fonte_url": "https://www.cacapava.sp.gov.br/transporte-coletivo-sera-gratuito-no-segundo-turno-das-eleicoes-em-cacapava",
-   "confianca": "B",
-   "verificado_em": "2026-10-20"
   },
   {
    "uf": "SP",
@@ -6429,18 +5721,6 @@
    "fonte_url": "https://pmcruzeiro.geosiap.net.br/pmcruzeiro/websis/siapegov/legislativo/leis/lei_documento_anexo.php?id=5127&tipo=32",
    "confianca": "A",
    "verificado_em": "2026-10-21"
-  },
-  {
-   "uf": "SP",
-   "municipio": "Cubatão",
-   "cod_ibge": "3513504",
-   "tipo": "tarifa_zero_temporal",
-   "regra": "Linhas convencionais do transporte coletivo municipal gratuitas das 8h às 17h em 04/10/2026 e, se houver 2º turno, em 25/10/2026, com frequência de dia útil",
-   "desde": "2026-10-04",
-   "base_legal": "Decreto nº 12.365, de 30/09/2026 (Diário Oficial nº 2.096)",
-   "fonte_url": "https://cubatao.sp.gov.br/cmt-prepara-operacao-especial-de-transito-para-as-eleicoes-cidade-tera-gratuidade-nas-linhas-municipais-no-domingo/",
-   "confianca": "A",
-   "verificado_em": "2026-10-18"
   },
   {
    "uf": "SP",
@@ -6596,18 +5876,6 @@
    "base_legal": "edital da concessão e decreto municipal (números não citados na página)",
    "fonte_url": "https://guaratingueta.sp.gov.br/como-solicitar-gratuidade-no-transporte-publico-municipal/",
    "confianca": "A",
-   "verificado_em": "2026-10-18"
-  },
-  {
-   "uf": "SP",
-   "municipio": "Guaratinguetá",
-   "cod_ibge": "3518404",
-   "tipo": "tarifa_zero_temporal",
-   "regra": "Tarifa zero no transporte coletivo urbano em 04/10/2026, das 7h às 18h, para todos os usuários, com horários de dia útil e 23 ônibus",
-   "desde": "2026-10-04",
-   "base_legal": null,
-   "fonte_url": "https://guaratingueta.sp.gov.br/tarifa-zero-no-transporte-coletivo/",
-   "confianca": "B",
    "verificado_em": "2026-10-18"
   },
   {
@@ -7032,18 +6300,6 @@
   },
   {
    "uf": "SP",
-   "municipio": "Lençóis Paulista",
-   "cod_ibge": "3526803",
-   "tipo": "tarifa_zero_temporal",
-   "regra": "Ônibus circular sem cobrança de passagem em 04/10/2026 e, se houver 2º turno, em 25/10/2026, com escala de domingos e feriados nas linhas 6, 8, 10 e 11 e horários extras na linha 7 e na de Alfredo Guedes",
-   "desde": "2026-10-04",
-   "base_legal": "Resolução TSE nº 23.751/2026; ofício nº 043/2026 da 161ª Zona Eleitoral",
-   "fonte_url": "https://apl2.lencoispaulista.sp.gov.br/pmlp-site/Noticias?ler=%C3%94nibus%20circular%20ser%C3%A1%20gratuito%20e%20ter%C3%A1%20linhas%20ampliadas%20devido%20%C3%A0s%20elei%C3%A7%C3%B5es&noticia=9415",
-   "confianca": "A",
-   "verificado_em": "2026-10-18"
-  },
-  {
-   "uf": "SP",
    "municipio": "Lins",
    "cod_ibge": "3527108",
    "tipo": "tarifa_zero_universal",
@@ -7128,18 +6384,6 @@
   },
   {
    "uf": "SP",
-   "municipio": "Mongaguá",
-   "cod_ibge": "3531100",
-   "tipo": "tarifa_zero_temporal",
-   "regra": "No dia da eleição, 04/10/2026, das 7h às 18h, 4 linhas de ônibus com veículos adesivados circulam de graça para atender os eleitores, a pedido da Justiça Eleitoral; os demais veículos da empresa seguem cobrando. Em caso de segundo turno, a gratuidade se repete.",
-   "desde": "2026-10-04",
-   "base_legal": "pedido da Justiça Eleitoral, com ajuste entre o Município e a concessionária (notícia da Prefeitura de 30/09/2026)",
-   "fonte_url": "https://www.mongagua.sp.gov.br/noticias/semutran/eleitor-de-mongagua-tera-gratuidade-no-transporte-coletivo-neste-domingo-de-eleicao",
-   "confianca": "A",
-   "verificado_em": "2026-10-23"
-  },
-  {
-   "uf": "SP",
    "municipio": "Monte Mor",
    "cod_ibge": "3531803",
    "tipo": "idoso",
@@ -7188,18 +6432,6 @@
   },
   {
    "uf": "SP",
-   "municipio": "Nova Odessa",
-   "cod_ibge": "3533403",
-   "tipo": "tarifa_zero_temporal",
-   "regra": "Transporte coletivo municipal gratuito para todos os usuários no 2º turno das eleições, em 25/10/2026, das 6h às 22h.",
-   "desde": "2026-10-25",
-   "base_legal": "orientação da Justiça Eleitoral (notícia da prefeitura de 19/10/2026)",
-   "fonte_url": "https://www.novaodessa.sp.gov.br/noticias/destaques/prefeitura-de-nova-odessa-mantem-transporte-publico-gratuito-para-o-2-turno-das-eleicoes",
-   "confianca": "A",
-   "verificado_em": "2026-10-20"
-  },
-  {
-   "uf": "SP",
    "municipio": "Novo Horizonte",
    "cod_ibge": "3533502",
    "tipo": "tarifa_zero_universal",
@@ -7220,18 +6452,6 @@
    "base_legal": null,
    "fonte_url": "https://www.olimpia.sp.gov.br/arquivos/diagnostico_tecnico_participativo_-_plano_diretor_compressed_31030508.pdf",
    "confianca": "B",
-   "verificado_em": "2026-10-20"
-  },
-  {
-   "uf": "SP",
-   "municipio": "Olímpia",
-   "cod_ibge": "3533908",
-   "tipo": "tarifa_zero_temporal",
-   "regra": "Tarifa zero em todas as linhas urbanas e dos distritos de Baguaçu e Ribeiro dos Santos no 2º turno das eleições (25/10/2026), sem exigência de título de eleitor ou comprovante de votação; também houve gratuidade por decreto no 1º turno (04/10/2026), no Dia Mundial Sem Carro (22/09/2026), no Festival do Folclore e no Carnaval.",
-   "desde": "2026-10-25",
-   "base_legal": "Decreto nº 10.217/2026, publicado no Diário Oficial de 14/10/2026",
-   "fonte_url": "https://www.olimpia.sp.gov.br/portal/noticias/0/3/8953/prefeitura-oferece-transporte-coletivo-gratuito-para-todas-as-linhas-de-onibus-durante-o-2-turno-das-eleicoes/",
-   "confianca": "A",
    "verificado_em": "2026-10-20"
   },
   {
@@ -7334,18 +6554,6 @@
    "uf": "SP",
    "municipio": "Pederneiras",
    "cod_ibge": "3536703",
-   "tipo": "tarifa_zero_temporal",
-   "regra": "Transporte público gratuito para toda a população no dia da votação de 2026, com catracas livres na cidade e linhas para os distritos.",
-   "desde": null,
-   "base_legal": "não citada na notícia",
-   "fonte_url": "https://www.pederneiras.sp.gov.br/portal/noticias/0/3/9561/eleicoes-2026-pederneiras-tera-transporte-gratuito-para-todos-e-servico-especial-porta-a-porta-para-eleitores-com-deficiencia",
-   "confianca": "A",
-   "verificado_em": "2026-10-20"
-  },
-  {
-   "uf": "SP",
-   "municipio": "Pederneiras",
-   "cod_ibge": "3536703",
    "tipo": "tarifa_zero_universal",
    "regra": "Transporte coletivo urbano intramunicipal sem cobrança de passagem de nenhum passageiro, durante o contrato de prestação gratuita (Contrato nº 115/2026, de 22/09/2026 a 21/09/2027). Encerrado o contrato, a gratuidade cessa (Lei nº 4.515/2026, art. 23).",
    "desde": "2026-09-22",
@@ -7395,12 +6603,12 @@
    "municipio": "Piedade",
    "cod_ibge": "3537800",
    "tipo": "tarifa_zero_universal",
-   "regra": "Transporte coletivo municipal gratuito para todos, nas linhas urbanas e rurais (Programa Tarifa Zero 'Bora de Graça'), de segunda a sábado, com o custo pago pela Prefeitura.",
+   "regra": "Transporte coletivo municipal gratuito para todos, nas linhas urbanas e rurais (Programa Tarifa Zero 'Bora de Graça'), de segunda a sábado, com o custo pago pela Prefeitura; o decreto fixa em R$ 0,00 a Tarifa Comum (Passe Social) e a tarifa do vale-transporte adquirido pelos setores de serviço, indústria e comércio.",
    "desde": "2023-01-02",
-   "base_legal": null,
-   "fonte_url": "https://www.piedade.sp.gov.br/portal/noticias/0/3/4650/tarifa-zerobora-de-graca-tera-operacao-especial-neste-domingo-25-para-o-segundo-turno-das-eleicoes",
+   "base_legal": "Decreto nº 8.970, de 28 de dezembro de 2022, art. 1º, I e III, e art. 3º (Imprensa Oficial do Município de Piedade, edição nº 755, de 28/12/2022, p. 4)",
+   "fonte_url": "https://www.piedade.sp.gov.br/uploads/imprensa_oficial_755_2_ok_28055714.pdf",
    "confianca": "A",
-   "verificado_em": "2026-10-23"
+   "verificado_em": "2026-11-09"
   },
   {
    "uf": "SP",
@@ -7428,18 +6636,6 @@
   },
   {
    "uf": "SP",
-   "municipio": "Porto Ferreira",
-   "cod_ibge": "3540705",
-   "tipo": "tarifa_zero_temporal",
-   "regra": "Gratuidade total para todos os usuários no dia do 1º turno das eleições de 2026 (04/10/2026), das 7h às 18h.",
-   "desde": "2026-10-04",
-   "base_legal": null,
-   "fonte_url": "https://www.portoferreira.sp.gov.br/transporte-publico-tera-gratuidade-e-horario-especial-no-dia-das-eleicoes",
-   "confianca": "A",
-   "verificado_em": "2026-10-20"
-  },
-  {
-   "uf": "SP",
    "municipio": "Poá",
    "cod_ibge": "3539806",
    "tipo": "estudante",
@@ -7447,18 +6643,6 @@
    "desde": null,
    "base_legal": null,
    "fonte_url": "https://poa.sp.gov.br/prefeitura-de-poa-abre-prazo-para-renovacao-e-solicitacao-do-cartao-escolar-onpag/",
-   "confianca": "A",
-   "verificado_em": "2026-10-20"
-  },
-  {
-   "uf": "SP",
-   "municipio": "Poá",
-   "cod_ibge": "3539806",
-   "tipo": "tarifa_zero_temporal",
-   "regra": "Ônibus das linhas municipais sem cobrança das 7h às 19h, sem limite de uso, no 1º turno das eleições de 04/10/2026 e, havendo 2º turno, em 25/10/2026.",
-   "desde": "2026-10-04",
-   "base_legal": "anúncio do prefeito (notícia da prefeitura de 29/09/2026)",
-   "fonte_url": "https://poa.sp.gov.br/poa-tera-transporte-gratuito-e-operacao-especial-de-seguranca-no-domingo-de-eleicao/",
    "confianca": "A",
    "verificado_em": "2026-10-20"
   },
@@ -7473,18 +6657,6 @@
    "fonte_url": "https://diariodotransporte.com.br/2026/07/21/presidente-prudente-sp-registra-aumento-de-34-no-numero-de-passageiros-aos-finais-de-semana/",
    "confianca": "B",
    "verificado_em": "2026-10-17"
-  },
-  {
-   "uf": "SP",
-   "municipio": "Registro",
-   "cod_ibge": "3542602",
-   "tipo": "tarifa_zero_temporal",
-   "regra": "Transporte coletivo municipal gratuito no dia do 1º turno das eleições de 2026 (04/10/2026), conforme o art. 23 da Resolução TSE nº 23.751/2026.",
-   "desde": "2026-10-04",
-   "base_legal": "Resolução TSE nº 23.751/2026, art. 23",
-   "fonte_url": "https://registro.sp.gov.br/prefeitura-de-registro-divulga-horarios-dos-onibus-para-o-domingo-de-eleicoes-4-10/",
-   "confianca": "A",
-   "verificado_em": "2026-10-20"
   },
   {
    "uf": "SP",
@@ -7692,18 +6864,6 @@
   },
   {
    "uf": "SP",
-   "municipio": "Sertãozinho",
-   "cod_ibge": "3551702",
-   "tipo": "tarifa_zero_temporal",
-   "regra": "Transporte coletivo urbano em Sertãozinho e no Distrito de Cruz das Posses gratuito aos usuários nos dias das eleições de 2026, contratado pela Prefeitura com a Viação Sertanezina (R$ 50.000,00).",
-   "desde": "2026-10-04",
-   "base_legal": "Contrato nº 128/2026, de 23/09/2026 (Inexigibilidade nº 045/2026), Diário Oficial nº 1649, de 28/09/2026",
-   "fonte_url": "https://www.dosp.com.br/exibe_do.php?i=ODg2ODIz",
-   "confianca": "B",
-   "verificado_em": "2026-10-18"
-  },
-  {
-   "uf": "SP",
    "municipio": "Sorocaba",
    "cod_ibge": "3552205",
    "tipo": "tarifa_reduzida",
@@ -7771,18 +6931,6 @@
    "desde": null,
    "base_legal": "Lei nº 5.289/2004; Decreto nº 17.196/2010 (bilhetagem); Decreto nº 21.741, de 30/09/2021 (60 a 64 anos); Resoluções GST 06/2010 e 08/2010; Resolução ST 07/2021",
    "fonte_url": "https://guiadeservicos.saobernardo.sp.gov.br/guia-de-servicos/servicos/212396/mostrar",
-   "confianca": "A",
-   "verificado_em": "2026-10-18"
-  },
-  {
-   "uf": "SP",
-   "municipio": "São Bernardo do Campo",
-   "cod_ibge": "3548708",
-   "tipo": "tarifa_zero_temporal",
-   "regra": "Tarifa dispensada no transporte coletivo municipal em 04/10/2026 (1º turno) e em 25/10/2026, se houver 2º turno, das 7h às 18h, com a frota de dia útil",
-   "desde": "2026-10-04",
-   "base_legal": "Decreto nº 23.356, de 31/08/2026 (Notícias do Município nº 2.684, de 04/09/2026)",
-   "fonte_url": "https://www.saobernardo.sp.gov.br/documents/10181/2361282/NM+2684+de+04.09.2026+-+Conteu%CC%81do+Integral.pdf/b540c650-2c6c-7498-e764-733c42b3dca6",
    "confianca": "A",
    "verificado_em": "2026-10-18"
   },
@@ -8112,18 +7260,6 @@
   },
   {
    "uf": "SP",
-   "municipio": "Tremembé",
-   "cod_ibge": "3554805",
-   "tipo": "tarifa_zero_temporal",
-   "regra": "No segundo turno das eleições, 25/10/2026, das 6h às 18h, o transporte público municipal funciona com catraca livre, com a frota e os horários de dia útil, por determinação do TSE.",
-   "desde": "2026-10-25",
-   "base_legal": "determinação do Tribunal Superior Eleitoral (notícia da Prefeitura de 19/10/2026)",
-   "fonte_url": "https://www.tremembe.sp.gov.br/noticias/mobilidade-urbana-e-cooperacao-em-seguranca-publica/eleicoes-transporte-publico-sera-gratuito-no-domingo-25",
-   "confianca": "A",
-   "verificado_em": "2026-10-23"
-  },
-  {
-   "uf": "SP",
    "municipio": "Tupã",
    "cod_ibge": "3555000",
    "tipo": "tarifa_zero_universal",
@@ -8143,18 +7279,6 @@
    "desde": "2014",
    "base_legal": "lei municipal do idoso sancionada em 2014",
    "fonte_url": "https://www.ubatuba.sp.gov.br/destaques/prefeitura-garante-gratuidade-para-idosos-nos-coletivos/",
-   "confianca": "A",
-   "verificado_em": "2026-10-20"
-  },
-  {
-   "uf": "SP",
-   "municipio": "Ubatuba",
-   "cod_ibge": "3555406",
-   "tipo": "tarifa_zero_temporal",
-   "regra": "Transporte público coletivo sem tarifa no 1º turno das eleições, em 04/10/2026, e em eventual 2º turno, em 25/10/2026.",
-   "desde": "2026-10-04",
-   "base_legal": "Resolução TSE nº 23.751/2026 (notícia da prefeitura de 02/10/2026)",
-   "fonte_url": "https://www.ubatuba.sp.gov.br/destaques/transportegratiseleicao26/",
    "confianca": "A",
    "verificado_em": "2026-10-20"
   },
@@ -8275,18 +7399,6 @@
    "desde": null,
    "base_legal": "Decreto nº 6.879, de 21/11/2022, art. 4º",
    "fonte_url": "https://www.votorantim.sp.gov.br/uploads/jornal_municipal_edicao_1290_25104239.pdf",
-   "confianca": "A",
-   "verificado_em": "2026-10-20"
-  },
-  {
-   "uf": "SP",
-   "municipio": "Várzea Paulista",
-   "cod_ibge": "3556503",
-   "tipo": "tarifa_zero_temporal",
-   "regra": "Ônibus municipais gratuitos o dia todo nos dias de votação das eleições de 2026 (04/10 e, se houver, 25/10), com horários de dia útil, pela Resolução-TSE nº 23.751/2026.",
-   "desde": "2026-10-04",
-   "base_legal": "Resolução-TSE nº 23.751/2026",
-   "fonte_url": "https://portal.varzeapaulista.sp.gov.br/2026/10/02/varzea-paulista-tera-transporte-publico-gratuito-neste-domingo-4/",
    "confianca": "A",
    "verificado_em": "2026-10-20"
   },
