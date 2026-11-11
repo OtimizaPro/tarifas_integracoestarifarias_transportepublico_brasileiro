@@ -1,8 +1,8 @@
 # Tarifas do transporte público por cidade (Otimiza.pro)
 
-Quanto custa o transporte público em 634 municípios brasileiros, segundo a Tarifaoteca da Otimiza.pro (versão 2026.11.09.3). Cada frase traz o valor, a fonte e a data em que a Otimiza.pro conferiu e, quando a fonte informa, o ato oficial e a data em que passou a valer. A fonte oficial de cada valor está indicada. Onde há dados de serviço e oferta, a ficha traz também linhas e passageiros, com a fonte e a data.
+Quanto custa o transporte público em 634 municípios brasileiros, segundo a Tarifaoteca da Otimiza.pro (versão 2026.11.11). Cada frase traz o valor, a fonte e a data em que a Otimiza.pro conferiu e, quando a fonte informa, o ato oficial e a data em que passou a valer. A fonte oficial de cada valor está indicada. Onde há dados de serviço e oferta, a ficha traz também linhas e passageiros, com a fonte e a data.
 
-Como citar: Fonte: Tarifaoteca da Otimiza.pro, versão 2026.11.09.3. DOI: https://doi.org/10.5281/zenodo.23486211. https://github.com/OtimizaPro/tarifas_integracoestarifarias_transportepublico_brasileiro
+Como citar: Fonte: Tarifaoteca da Otimiza.pro, versão 2026.11.11. DOI: https://doi.org/10.5281/zenodo.23486211. https://github.com/OtimizaPro/tarifas_integracoestarifarias_transportepublico_brasileiro
 
 ## AC
 
@@ -2768,6 +2768,8 @@ Página da cidade: https://otimizapro.com/tarifa/pr/matinhos
 
 Fonte (página oficial): https://www.diariomunicipal.com.br/amp/materia/E219C7CE
 
+Tarifa zero em Matinhos: Transporte coletivo municipal urbano gratuito para os usuários, operado pelo Município
+
 ### Palmas (PR)
 
 Em Palmas (PR), o ônibus é gratuito (tarifa zero), segundo a publicação oficial (Prefeitura Municipal de Palmas, 'Novo Tarifa Zero Começa a Operar em Palmas Segunda Dia 06/10', 03/10/2025); valor conferido em 20/10/2026 pela Tarifaoteca da Otimiza.pro.
@@ -2897,6 +2899,8 @@ Em Rio Branco do Sul (PR), o ônibus é gratuito (tarifa zero), conforme Lei nº
 Página da cidade: https://otimizapro.com/tarifa/pr/rio-branco-do-sul
 
 Fonte (página oficial): https://www.diariomunicipal.com.br/amp/materia/5E041679
+
+Tarifa zero em Rio Branco do Sul: Transporte coletivo municipal gratuito para todos os usuários (Programa Municipal de Transporte Público Gratuito Circula RBS), vedada a cobrança de qualquer tarifa; de segunda a sábado, das 7h às 19h
 
 ### Rolândia (PR)
 
@@ -3050,7 +3054,7 @@ Tarifa zero em Barra Mansa: Ônibus municipais gratuitos aos domingos
 
 ### Belford Roxo (RJ)
 
-Em Belford Roxo (RJ), o ônibus é gratuito (tarifa zero), segundo a imprensa (Belford Roxo 24h, 28/09/2025); valor conferido em 17/10/2026 pela Tarifaoteca da Otimiza.pro.
+Em Belford Roxo (RJ), a passagem de ônibus (intermunicipal Detro, linhas locais da Baixada) custa R$ 6,70 desde 15/02/2026, segundo a publicação oficial (Detro-RJ); valor conferido em 17/10/2026 pela Tarifaoteca da Otimiza.pro.
 
 Página da cidade: https://otimizapro.com/tarifa/rj/belford-roxo
 
@@ -3059,6 +3063,8 @@ Em Belford Roxo (RJ), a idade média da frota de ônibus era de 7 anos em 2021. 
 Fonte (página oficial): http://www.detro.rj.gov.br/uploads/portarias/tarifas_onibus_2026.pdf
 
 Integração em Belford Roxo: Até dois transportes públicos, um deles obrigatoriamente intermunicipal, em até três horas, pagando no máximo R$ 9,40; até duas vezes por dia, com intervalo mínimo de uma hora. Ônibus municipais, BRT e VLT só entram integrados a um modo intermunicipal.
+
+Tarifa zero em Belford Roxo: Gratuidade para qualquer passageiro só em três linhas municipais gratuitas do programa Tarifa Zero (TZ01, TZ02 e, desde fevereiro de 2026, Cantão x Av. Carvalhaes); as linhas intermunicipais do Detro, que fazem o transporte local, são pagas
 
 ### Cabo Frio (RJ)
 
@@ -3176,11 +3182,9 @@ Fonte (imprensa): https://g1.globo.com/rj/intertvrj/rj2/video/passagem-de-onibus
 
 ### Magé (RJ)
 
-Em Magé (RJ), o ônibus é gratuito (tarifa zero) desde 06/2025, segundo a publicação oficial (Prefeitura de Magé, notícia de 05/06/2025 e página Amarelinho); valor conferido em 17/10/2026 pela Tarifaoteca da Otimiza.pro.
+Ainda não há tarifa de ônibus conferida para Magé (RJ) na Tarifaoteca da Otimiza.pro.
 
-Página da cidade: https://otimizapro.com/tarifa/rj/mage
-
-Fonte (página oficial): https://mage.rj.gov.br/informacoes/mage-implanta-onibus-com-tarifa-zero-na-cidade/
+Fonte (página oficial): https://www.ioerj.com.br/portal/modules/conteudoonline/mostra_edicao.php?session=VFdwU1FsSkZWa1JPZW1OMFRYcFNSRkpwTURCUFZVMTVURlZLUjA1clJYUlJWR3Q0VVhwcmVFOVVTWGRTVkUweQ==
 
 Integração em Magé: Até dois transportes públicos, um deles obrigatoriamente intermunicipal, em até três horas, pagando no máximo R$ 9,40; até duas vezes por dia, com intervalo mínimo de uma hora. Ônibus municipais, BRT e VLT só entram integrados a um modo intermunicipal.
 
@@ -6367,6 +6371,8 @@ Em Santa Rita do Passa Quatro (SP), o ônibus é gratuito (tarifa zero), segundo
 Página da cidade: https://otimizapro.com/tarifa/sp/santa-rita-do-passa-quatro
 
 Fonte (página oficial): https://www.santaritadopassaquatro.sp.gov.br/portal/?p=12620
+
+Tarifa zero em Santa Rita do Passa Quatro: Ônibus coletivo municipal gratuito, operado pela Prefeitura com frota própria (Ônibus Branco, de segunda a sábado, e Ônibus Amarelo, de segunda a sexta)
 
 ### Santana de Parnaíba (SP)
 
